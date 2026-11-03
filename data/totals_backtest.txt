@@ -1,0 +1,23 @@
+atp: linked 402 of 586 events
+wta: linked 438 of 608 events
+
+lines scored: 2116 (840 matches)
+
+== log loss on over/under outcomes (lower = better)
+           n  kalshi  model_raw  model_cal
+tour                                      
+atp   1100.0  0.5558     0.5626     0.5647
+wta   1016.0  0.5654     0.5704     0.5651
+
+== info beyond Kalshi: coef_kalshi 0.424, coef_model 0.944 (se 0.241); Oct-Nov log loss blend 0.5683 vs Kalshi 0.5583
+
+== flat $1 bets at Kalshi ask + fee when model edge >= x
+         model  min_edge  bets  overs  unders     roi      se
+0         raw      0.00  1265    136    1129 -0.0310  0.0391
+1         raw      0.03   616     34     582  0.0180  0.0632
+2         raw      0.05   369     19     350 -0.0058  0.0839
+3         raw      0.10   118     11     107  0.0499  0.1582
+4  calibrated      0.00  1110     82    1028 -0.0331  0.0451
+5  calibrated      0.03   453     20     433 -0.0554  0.0713
+6  calibrated      0.05   239      9     230 -0.0736  0.1041
+7  calibrated      0.10    52      5      47 -0.1580  0.2035
