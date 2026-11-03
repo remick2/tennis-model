@@ -33,11 +33,20 @@ def main():
         return
     start = pd.to_datetime(new.start, utc=True).dt.tz_convert("America/Denver").dt.strftime("%a %-I:%M%p MT")
     lines = ["**PAPER ONLY. Log it, don't bet it (Phase 2).**", ""]
+    day = pd.read_csv(files[-1])
     for r, st in zip(new.itertuples(), start):
         dollars, shares = stake(r.pin_fair, r.cost)
+        # line move on this side since first seen today (Pinnacle fair if we have it)
+        hist = day[(day.key == r.key) & (day.player == r.player) & (day.source == "pinnacle")].sort_values("ts")
+        move = (hist.fair.iloc[-1] - hist.fair.iloc[0]) if len(hist) > 1 else 0.0
+        warns = [w for w in [r.warn if isinstance(r.warn, str) else "",
+                             f"Pinnacle moved {move * 100:+.0f}c on this side since {hist.ts.iloc[0][11:16]}Z (market may know something)"
+                             if move <= -0.04 else ""] if w]
         lines.append(f"- **{r.player} to win** vs {r.opp} | **{r.source.upper()} @ {r.ask:.2f}** | "
                      f"**paper size: {shares} shares (~${shares * r.ask:.2f})** | start {st}  \n"
                      f"  all-in {r.cost:.3f} · Pinnacle fair {r.pin_fair:.3f} · model {r.p_model:.3f}")
+        for w in warns:
+            lines.append(f"  ⚠️ {w}. Check official ATP/WTA news before logging it.")
     lines += ["", f"Price edge = Pinnacle fair − all-in cost; model edge = model − all-in cost; both ≥ 2¢. "
                   f"Snapshot {d.ts.max()[:16]}Z. Prices may have moved since."]
     print("\n".join(lines))

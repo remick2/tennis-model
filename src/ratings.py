@@ -35,6 +35,14 @@ class Ratings:
         self.base = pm.base_rates(stream)
         self.S, self.R, self.Ss, self.Rs = _final_skills(stream)
         self.last_date = stream.date.max()
+        # injury/withdrawal signals: last match date and recent retirements/walkovers (as the loser)
+        self.last_played = {}
+        for w, l, d in zip(stream.w_id, stream.l_id, stream.date):
+            self.last_played[w] = d; self.last_played[l] = d
+        recent = stream[(stream.status.isin(["ret", "wo"])) & (stream.date >= self.last_date - pd.Timedelta(days=45))]
+        self.recent_quit = {}
+        for l, d, st, t in zip(recent.l_id, recent.date, recent.status, recent.tourney):
+            self.recent_quit.setdefault(l, []).append(f"{'retired' if st == 'ret' else 'withdrew (W/O)'} {t} {d:%b %-d}")
         # names: Sackmann full names + odds-source short names -> id
         players = pd.read_csv(RAW / tour / f"{tour}_players.csv", dtype={"player_id": str}, low_memory=False)
         active = set(stream[stream.date >= "2024-01-01"].w_id) | set(stream[stream.date >= "2024-01-01"].l_id)
@@ -70,7 +78,11 @@ class Ratings:
         p_pt, tot, marg = pm.match_dist_mix(pm.sig(c + d), pm.sig(c - d), best_of, P["sig_rel"])
         w = BLEND_W_POINT[self.tour]
         p_blend = float(pm.sig(w * pm.logit(p_pt) + (1 - w) * pm.logit(p_elo)))
+        today = pd.Timestamp.now().normalize()
+        days = lambda i: int((today - self.last_played[i]).days) if i in self.last_played else None
         return {"p_elo": p_elo, "p_point": float(p_pt), "p_model": p_blend,
+                "days_off_a": days(ia), "days_off_b": days(ib),
+                "quit_a": "; ".join(self.recent_quit.get(ia, [])), "quit_b": "; ".join(self.recent_quit.get(ib, [])),
                 "n_a": self.n[ia], "n_b": self.n[ib], "totals": tot, "margin": marg,
                 "pa": float(pm.sig(c + d)), "pb": float(pm.sig(c - d))}
 

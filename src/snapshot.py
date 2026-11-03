@@ -37,7 +37,8 @@ MIN_EDGE = 0.02
 COLUMNS = ["ts", "source", "tour", "level", "event", "tourney", "player", "opp", "key", "start",
            "bid", "ask", "ask_size", "volume", "liquidity", "price", "fair", "book_update",
            "fee", "cost", "pin_fair", "p_model", "p_elo", "surface", "surface_known", "model_err",
-           "n_player", "n_opp", "price_edge", "model_edge", "flag"]
+           "n_player", "n_opp", "days_off", "opp_days_off", "recent_quit", "opp_recent_quit",
+           "price_edge", "model_edge", "flag", "warn"]
 KALSHI_ML = {"KXATPMATCH": ("atp", "main"), "KXWTAMATCH": ("wta", "main"),
              "KXATPCHALLENGERMATCH": ("atp", "challenger"), "KXWTACHALLENGERMATCH": ("wta", "challenger")}
 POLY_SERIES = {"10365": "atp", "10366": "wta"}
@@ -172,15 +173,29 @@ def build(model=True):
             p = R[r.tour].predict(r.player, r.opp, surf, 3)
             probs.append({"p_model": p.get("p_model"), "p_elo": p.get("p_elo"), "surface": surf,
                           "surface_known": known, "model_err": p.get("error"),
-                          "n_player": p.get("n_a"), "n_opp": p.get("n_b")})
+                          "n_player": p.get("n_a"), "n_opp": p.get("n_b"),
+                          "days_off": p.get("days_off_a"), "opp_days_off": p.get("days_off_b"),
+                          "recent_quit": p.get("quit_a"), "opp_recent_quit": p.get("quit_b")})
         df = pd.concat([df.reset_index(drop=True), pd.DataFrame(probs)], axis=1)
         df["model_edge"] = df.p_model - df.cost
     df["price_edge"] = df.pin_fair - df.cost
     df["flag"] = (df.price_edge >= MIN_EDGE) & (df.get("model_edge", 0) >= MIN_EDGE)
+    # injury/withdrawal signals on the side we'd back -> keep the flag but attach a warning.
+    # (Results data only: retirements/walkovers in the last 45 days, or 45+ days since last match.)
+    if "recent_quit" in df:
+        w = []
+        for q, d in zip(df.recent_quit.fillna(""), df.days_off):
+            parts = [f"recent: {q}"] if q else []
+            if d == d and d is not None and d >= 45:
+                parts.append(f"{int(d)} days since last match")
+            w.append(" | ".join(parts))
+        df["warn"] = w
     df["key"] = df.key.map(lambda k: " v ".join(sorted(k)))
     SNAP.mkdir(parents=True, exist_ok=True)
     out = SNAP / f"{t0:%Y-%m-%d}.csv"
     df = df.reindex(columns=COLUMNS)  # fixed schema so appended runs line up
+    if out.exists() and open(out).readline().strip().split(",") != COLUMNS:
+        pd.read_csv(out).reindex(columns=COLUMNS).to_csv(out, index=False)  # upgrade older column set
     df.to_csv(out, mode="a", header=not out.exists(), index=False)
     return df, remaining
 
