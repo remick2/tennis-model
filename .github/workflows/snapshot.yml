@@ -10,6 +10,7 @@ on:
         default: "auto"
 permissions:
   contents: write
+  issues: write
 concurrency:
   group: snapshot
   cancel-in-progress: false
@@ -38,10 +39,18 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           PINNACLE: ${{ github.event.inputs.pinnacle || 'auto' }}
         run: cd src && python -W ignore snapshot.py | tail -60
+      - name: alert on new flags (opens a GitHub issue -> email/phone notification)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd src && python notify.py > ../alert.md
+          if [ -s ../alert.md ]; then
+            gh issue create --title "Paper flag: $(date -u -d '-7 hours' '+%a %b %-d %-I:%M%p') MT" --body-file ../alert.md
+          fi
       - name: commit snapshot
         run: |
           git config user.name "tennis-snapshot-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/snapshots
+          git add data/snapshots data/notified.csv 2>/dev/null || git add data/snapshots
           git diff --cached --quiet || git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase -q && git push
