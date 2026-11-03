@@ -60,8 +60,8 @@ def main():
     fit = sm.Logit(tr.y, X(tr)).fit(disp=0)
     pb = fit.predict(X(te))
     llf = lambda y, p: -np.mean(y * np.log(p) + (1 - y) * np.log(1 - p))
-    print(f"\n== info beyond Kalshi: coef_kalshi {fit.params[0]:.3f}, coef_model {fit.params[1]:.3f} "
-          f"(se {fit.bse[1]:.3f}); Oct-Nov log loss blend {llf(te.y, pb):.4f} vs Kalshi {llf(te.y, te.pk):.4f}")
+    print(f"\n== info beyond Kalshi: coef_kalshi {fit.params.iloc[0]:.3f}, coef_model {fit.params.iloc[1]:.3f} "
+          f"(se {fit.bse.iloc[1]:.3f}); Oct-Nov log loss blend {llf(te.y, pb):.4f} vs Kalshi {llf(te.y, te.pk):.4f}")
 
     rows = []
     cost = o.ask + FEE * o.ask * (1 - o.ask)
