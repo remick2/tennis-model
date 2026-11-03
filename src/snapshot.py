@@ -34,7 +34,7 @@ KALSHI = "https://api.elections.kalshi.com/trade-api/v2"
 GAMMA = "https://gamma-api.polymarket.com"
 FEE = {"kalshi": 0.07, "poly": 0.05}
 MIN_EDGE = 0.02
-COLUMNS = ["ts", "source", "tour", "level", "event", "tourney", "player", "opp", "key", "start",
+COLUMNS = ["ts", "source", "tour", "level", "event", "tourney", "player", "opp", "key", "side", "start",
            "bid", "ask", "ask_size", "volume", "liquidity", "price", "fair", "book_update",
            "fee", "cost", "pin_fair", "p_model", "p_elo", "surface", "surface_known", "model_err",
            "n_player", "n_opp", "days_off", "opp_days_off", "recent_quit", "opp_recent_quit",

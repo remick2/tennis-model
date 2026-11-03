@@ -40,7 +40,7 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           PINNACLE: ${{ github.event.inputs.pinnacle || 'auto' }}
-        run: cd src && python -W ignore snapshot.py | tail -60
+        run: set -o pipefail; cd src && python -W ignore snapshot.py | tail -60  # fail loudly (GitHub emails failed runs)
       - name: alert on new flags (opens a GitHub issue -> email/phone notification)
         env:
           GH_TOKEN: ${{ github.token }}
@@ -49,7 +49,10 @@ jobs:
           if [ -s ../alert.md ]; then
             gh issue create --title "Paper flag: $(date -u -d '-7 hours' '+%a %b %-d %-I:%M%p') MT" --body-file ../alert.md
           fi
+      - name: scorecard (grade past prices vs Pinnacle close + results)
+        run: cd src && python -W ignore scorecard.py > /dev/null || echo "scorecard failed"
       - name: commit snapshot
+        if: always()  # keep whatever data was written even if a later step failed
         run: |
           git config user.name "tennis-snapshot-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -57,5 +60,6 @@ jobs:
           if [ -d data/arbs ]; then git add data/arbs; fi
           if [ -f data/notified_arbs.csv ]; then git add data/notified_arbs.csv; fi
           if [ -f data/notified.csv ]; then git add data/notified.csv; fi
+          if [ -f data/scorecard.md ]; then git add data/scorecard.md; fi
           git diff --cached --quiet || git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase -q && git push
