@@ -46,10 +46,16 @@ def settled(series):
         time.sleep(0.5)
 
 
-def main():
-    done = set(pd.read_csv(OUT).event) if OUT.exists() else set()
-    for series in SERIES:
-        winners = [m for m in settled(series) if m.get("result") == "yes" and m["event_ticker"] not in done]
+def main(series_list=SERIES, out=OUT, all_markets=False):
+    """all_markets=False: one market per match (the winner's). True: every market (e.g. each totals line)."""
+    global OUT
+    OUT = out
+    key = "ticker" if all_markets else "event"
+    done = set(pd.read_csv(OUT)[key]) if OUT.exists() else set()
+    for series in series_list:
+        ms = settled(series)
+        winners = [m for m in ms if m.get("result") in ("yes", "no") and m["ticker"] not in done] if all_markets \
+            else [m for m in ms if m.get("result") == "yes" and m["event_ticker"] not in done]
         print(series, len(winners), "to fetch", flush=True)
         buf = []
         for i, m in enumerate(winners):
@@ -57,6 +63,7 @@ def main():
             d = _get(f"{API}/series/{series}/markets/{m['ticker']}/candlesticks",
                      {"start_ts": int(close - 36 * 3600), "end_ts": int(close), "period_interval": 60})
             row = {"event": m["event_ticker"], "series": series, "ticker": m["ticker"],
+                   "title": m.get("title"), "result": m.get("result"),
                    "close_time": m["close_time"], "bid": None, "ask": None, "candle_end": None, "vol_24h": None}
             if d and d.get("candlesticks"):
                 c = [x for x in d["candlesticks"] if x["end_period_ts"] <= close - 3 * 3600]
@@ -75,4 +82,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    if "--totals" in sys.argv:
+        main(["KXATPGTOTAL", "KXWTAGTOTAL"], ROOT / "data" / "kalshi_totals_prices.csv", all_markets=True)
+    else:
+        main()
