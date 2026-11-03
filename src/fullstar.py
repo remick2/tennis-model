@@ -72,6 +72,15 @@ def parse(text, tour):
     return df
 
 
+def fs_stake(p, d, bankroll=700.0):
+    """Quarter Kelly off the reference prob, capped at 2%. Fullstar minimum: risk $10, or enough to
+    win $10 on minus odds, whichever is larger. Below the minimum = no bet (not 'bet the minimum')."""
+    f = 0.25 * (p * d - 1) / (d - 1)
+    risk = max(0.0, min(f, 0.02)) * bankroll
+    min_risk = max(10.0, 10.0 / (d - 1))
+    return round(risk, 2) if risk >= min_risk else 0.0
+
+
 def compare(fs, snap):
     """fs: parsed Fullstar rows. snap: latest snapshot DataFrame (pinnacle/kalshi/poly rows + model)."""
     import ratings
@@ -97,6 +106,10 @@ def compare(fs, snap):
         pred = R[r.tour].predict(r.player, r.opp, "Hard", 3)
         row["p_model"] = pred.get("p_model")
         row["ml_ev_vs_model"] = (pred["p_model"] * dec(r.ml) - 1) if "p_model" in pred and row["fs_ml"] else None
+        # size only when the price beats the reference by 2%+ AND the model agrees
+        ok = row.get("ml_ev_vs_ref") is not None and row["ml_ev_vs_ref"] >= 0.02 \
+            and (row["ml_ev_vs_model"] or -1) >= 0.02
+        row["paper_risk"] = fs_stake(ref, dec(r.ml)) if ok else 0.0
         # totals: shift the point model so P(win) = reference, then P(over line)
         if getattr(r, "total_side", None) in ("o", "u") and ref and "pa" in pred:
             pa, pb = pred["pa"], pred["pb"]

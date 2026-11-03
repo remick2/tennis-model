@@ -7,6 +7,17 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 SNAP = ROOT / "data" / "snapshots"
 SEEN = ROOT / "data" / "notified.csv"
+BANKROLL = 700.0      # Phase 3 hard cap (Fullstar + Kalshi + Polymarket combined)
+KELLY_FRAC = 0.25     # quarter Kelly
+MAX_PCT = 0.02        # never more than 2% of bankroll on one bet
+
+
+def stake(p_fair, cost):
+    """Quarter-Kelly stake for a $1-payout contract bought at all-in `cost`, sized off Pinnacle's
+    fair prob (not the model). Returns (dollars, shares)."""
+    f = KELLY_FRAC * (p_fair - cost) / (1 - cost)
+    dollars = max(0.0, min(f, MAX_PCT)) * BANKROLL
+    return dollars, int(dollars // cost)
 
 
 def main():
@@ -23,9 +34,10 @@ def main():
     start = pd.to_datetime(new.start, utc=True).dt.tz_convert("America/Denver").dt.strftime("%a %-I:%M%p MT")
     lines = ["**PAPER ONLY. Log it, don't bet it (Phase 2).**", ""]
     for r, st in zip(new.itertuples(), start):
-        lines.append(f"- **{r.player} to win** vs {r.opp} | **{r.source.upper()} @ {r.ask:.2f}** "
-                     f"(all-in {r.cost:.3f}) | Pinnacle fair {r.pin_fair:.3f} | model {r.p_model:.3f} | "
-                     f"start {st}")
+        dollars, shares = stake(r.pin_fair, r.cost)
+        lines.append(f"- **{r.player} to win** vs {r.opp} | **{r.source.upper()} @ {r.ask:.2f}** | "
+                     f"**paper size: {shares} shares (~${shares * r.ask:.2f})** | start {st}  \n"
+                     f"  all-in {r.cost:.3f} · Pinnacle fair {r.pin_fair:.3f} · model {r.p_model:.3f}")
     lines += ["", f"Price edge = Pinnacle fair − all-in cost; model edge = model − all-in cost; both ≥ 2¢. "
                   f"Snapshot {d.ts.max()[:16]}Z. Prices may have moved since."]
     print("\n".join(lines))
