@@ -4,3 +4,4 @@ data/ratings.pkl
 secrets/
 __pycache__/
 *.pyc
+data/kalshi_prices_log.txt

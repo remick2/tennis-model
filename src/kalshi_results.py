@@ -101,7 +101,7 @@ def to_stream(df, tour, find_id):
         "tour": tour, "date": pd.to_datetime(d.date), "tourney": d.tourney, "level": "C",
         "surface": d.surface, "best_of": 3, "round": d["round"], "w_id": d.w_id, "l_id": d.l_id,
         "w_name": d.w_name, "l_name": d.l_name, "status": "done", "score": None, "src": "kalshi",
-        "order": 6.0})
+        "order": 6.0, "match_id": d.event})
     return out, d.surface_known.mean()
 
 
