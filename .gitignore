@@ -7,3 +7,5 @@ __pycache__/
 data/kalshi_prices_log.txt
 data/kalshi_totals_log.txt
 data/kalshi_totals_prices.csv
+data/kalshi_spread_prices.csv
+data/kalshi_spread_log.txt

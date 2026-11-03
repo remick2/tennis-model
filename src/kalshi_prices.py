@@ -83,7 +83,9 @@ def main(series_list=SERIES, out=OUT, all_markets=False):
 
 if __name__ == "__main__":
     import sys
-    if "--totals" in sys.argv:
+    if "--spreads" in sys.argv:
+        main(["KXATPGSPREAD"], ROOT / "data" / "kalshi_spread_prices.csv", all_markets=True)
+    elif "--totals" in sys.argv:
         main(["KXATPGTOTAL", "KXWTAGTOTAL"], ROOT / "data" / "kalshi_totals_prices.csv", all_markets=True)
     else:
         main()
