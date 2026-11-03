@@ -34,6 +34,8 @@ jobs:
           key: sackmann-wta-${{ hashFiles('scripts/sackmann_files.txt') }}
       - run: pip install -r requirements.txt
       - run: bash scripts/fetch_data.sh
+      - name: update Challenger results (Kalshi settled markets)
+        run: cd src && python -W ignore kalshi_results.py | tail -3 || echo "results update failed; using last file"
       - name: snapshot
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
@@ -51,6 +53,7 @@ jobs:
         run: |
           git config user.name "tennis-snapshot-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/snapshots data/notified.csv 2>/dev/null || git add data/snapshots
+          git add data/snapshots data/results_kalshi.csv
+          [ -f data/notified.csv ] && git add data/notified.csv
           git diff --cached --quiet || git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase -q && git push

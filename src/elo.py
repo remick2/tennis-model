@@ -28,7 +28,33 @@ def exp_p(ra, rb):
     return 1.0 / (1.0 + 10 ** ((rb - ra) / 400.0))
 
 
-def build_stream(tour):
+def make_finder(tour, sack, odds):
+    """name -> Sackmann id (full-name match in either order), else an odds-source id, else None."""
+    from functools import lru_cache
+    from load import RAW, norm
+    players = pd.read_csv(RAW / tour / f"{tour}_players.csv", dtype={"player_id": str}, low_memory=False)
+    seen = set(sack[sack.date >= "2020-01-01"].w_id) | set(sack[sack.date >= "2020-01-01"].l_id)
+    players = players[players.player_id.isin(seen)]
+    by_full, by_tokens = {}, {}
+    for f, l, pid in zip(players.name_first.fillna(""), players.name_last.fillna(""), players.player_id):
+        n = norm(f"{f} {l}")
+        by_full.setdefault(n, set()).add(pid)
+        by_tokens.setdefault(" ".join(sorted(n.split())), set()).add(pid)
+    short = dict(zip(odds.w_name, odds.w_id)) | dict(zip(odds.l_name, odds.l_id))
+
+    @lru_cache(maxsize=None)
+    def find(name):
+        n = norm(name)
+        for table, key in ((by_full, n), (by_tokens, " ".join(sorted(n.split())))):
+            hits = table.get(key, set())
+            if len(hits) == 1:
+                return next(iter(hits))
+        hits = {pid for sn, pid in short.items() if crosswalk.name_ok(name, sn)}
+        return hits.pop() if len(hits) == 1 else None
+    return find
+
+
+def build_stream(tour, include_kalshi=True):
     sack = load_sackmann(tour)
     odds = load_odds(tour)
     idmap = crosswalk.build(sack, odds, tour)
@@ -39,6 +65,13 @@ def build_stream(tour):
     post["order"] = post.start.rank(method="first")  # real start times after the switch
     stream = pd.concat([sack, post[sack.columns.intersection(post.columns).tolist() + ["start", "match_id"]]],
                        ignore_index=True)
+    # Challenger / WTA125 results after Sackmann ends, from Kalshi settled markets
+    import kalshi_results as kr
+    if include_kalshi and kr.OUT.exists():
+        k = pd.read_csv(kr.OUT)
+        rows, _ = kr.to_stream(k, tour, make_finder(tour, sack, odds))
+        rows = rows[rows.date >= pd.Timestamp(str(SACKMANN_END))]
+        stream = pd.concat([stream, rows], ignore_index=True)
     stream = stream.sort_values(["date", "tourney", "order"], kind="stable").reset_index(drop=True)
     return stream, odds
 
