@@ -1,36 +1,49 @@
 # tennis-model
 
-Tennis win-probability model + Phase 2 paper tracking. **No real bets until Phase 2 beats the close.**
+Tennis model + Phase 2 paper tracking. **No real bets until Phase 2 beats the close.**
 
 ## Phases
-1. **Build** (done): surface Elo + point-level serve/return model, backtested vs consensus closing odds (2025–26).
-2. **Paper** (running): snapshots every 2h of Kalshi + Polymarket (+ Pinnacle every 4h) next to the model, in `data/snapshots/`. Need 100+ logged matches beating the close before Phase 3.
-3. **Small real bets** with a hard bankroll cap, only if Phase 2 holds up.
+1. **Build** (done): surface Elo + point-level serve/return model, backtested against markets.
+2. **Paper** (running since 2026-11-03): automated snapshots of Kalshi + Polymarket + Pinnacle, alerts, and a scorecard.
+3. **Small real bets** with a hard bankroll cap ($700 total), only if the Phase 3 gate passes. Remick decides; nothing is ever bet automatically.
 
-## Phase 1 results (2025-01 → 2026-11, ~9.6k ATP/WTA main-draw matches)
-- Log loss, lower = better: model ATP 0.612 / WTA 0.604 vs market close 0.593 / 0.585. **Model loses to the close everywhere**, with no info beyond it.
-- Line shopping vs consensus fair: price alone −6% to −14% ROI. Price + model agrees ≈ breakeven; price + model disagrees −10% to −22%. The model is a filter, not an edge.
-- Point model: total-games and game-margin predictions beat a naive baseline modestly. No historical totals odds exist to test vs the market.
-Full outputs: `data/backtest_elo_v1.txt`, `data/elo_variants.csv`, `data/points2_*_log.txt`.
+## Decisions (2026-11-03)
+- **Alerts fire on price alone**: Kalshi/Polymarket all-in cost (ask + fee) at least 2c below Pinnacle's no-vig fair price. The model is shown as info only (it showed no edge over the market in any test). The scorecard still grades "price + model agree" separately.
+- **Phase 3 gate**: 100+ graded price-flag sides whose average CLV (Pinnacle's last fair price before the start minus our cost) is positive by about 2 standard errors. ROI is reported but too noisy to be the gate.
+- **Sizing (paper)**: quarter Kelly off Pinnacle fair, capped at 2% of $700 ($14). Fullstar: below its $10 minimum = no bet. Kalshi/Polymarket: any number of shares.
+- **Schedule**: 20 runs/day (hourly 6am to midnight MT, plus 3am MT). Ratings are cached daily so runs take about 1 min, staying under 2,000 free Actions minutes a month (private repo).
+- **Pinnacle credits**: 500/month free. `pinnacle_due()` spreads them over the month (every 2h, 4h or 8h depending on what's left).
+- **Daily check-in**: a scheduled Claude session around 8pm MT checks runs, fixes breakages, and posts a short GitHub issue summary.
+- **Fullstar**: manual only. It needs Remick's logged-in browser. He says "check fullstar" when he's on, best in the evening when new lines post.
+- **Tennis Tonic**: tested; picks have no probabilities or track record, and they load via JavaScript, so automated logging is off (`src/tonic.py` kept, workflow step disabled).
 
-## Layout
-- `src/load.py`, `crosswalk.py`: data loading + player matching across sources
-- `src/elo.py`: overall + surface Elo (margin-of-victory, slam weighting, layoff boost)
-- `src/pointmodel.py`: serve/return skills → exact Markov game/set/match distributions (with day-to-day form noise)
-- `src/backtest.py`, `experiments.py`, `evaluate_points*.py`: Phase 1 tests
-- `src/ratings.py`: current ratings for pricing upcoming matches
-- `src/snapshot.py`: Phase 2 cross-market snapshot (edge = all-in cost incl. fees vs Pinnacle no-vig and vs model; flag only if both ≥ 2¢)
-- `.github/workflows/snapshot.yml`: runs the snapshot on a schedule and commits results
+## Phase 1 results: the model does not beat the market
+| Test | Sample | Result |
+|---|---|---|
+| Moneyline vs consensus close | ~9.6k main-tour matches 2025–26 | log loss 0.612/0.604 (model) vs 0.593/0.585 (close); no info beyond it |
+| Challengers vs Kalshi pre-match | 3.3k matches Aug–Nov 2026 | model worse by 0.055–0.073; ROI −14% to −16% |
+| Underdogs the model likes | 971 main tour + 1,184 Challenger | dogs win at the market's rate, not the model's; ROI −10% to −31% (`data/underdog_test.txt`) |
+| Total games vs Kalshi | 840 matches, 2,116 lines | ATP Kalshi better, WTA tie; ROI within noise; "closer match → over" lost (`data/totals_backtest.txt`) |
+| Game spreads vs Kalshi | 393 ATP matches, 990 lines | Kalshi better; dog +games −12%, fav −games −8% (`data/spread_backtest.txt`) |
 
-## Data (CC BY-NC-SA / CC BY, non-commercial personal use)
-- Jeff Sackmann's ATP/WTA data via the [archival mirror](https://huggingface.co/datasets/Aneeshers/tennis-sackmann-archive) (through Roland Garros 2026)
-- ["Min Maxxxer / Tennis Odds Actor"](https://huggingface.co/datasets/minmaxxxer/atp-wta-matches-with-odds): results + consensus open/close odds, weekly
+Any edge has to come from **prices**: Kalshi/Polymarket gaps vs Pinnacle, Kalshi+Polymarket arbitrage, and slow Fullstar lines.
+
+## What runs automatically (`.github/workflows/snapshot.yml`)
+1. `kalshi_results.py`: Challenger results from Kalshi settlements (keeps ratings current)
+2. `snapshot.py`: Kalshi + Polymarket + Pinnacle + model → `data/snapshots/`, arbitrage combos → `data/arbs/`
+3. `notify.py`: new price flags and true arbs → GitHub issue (phone notification)
+4. `scorecard.py`: CLV + results for flags and baseline, arbitrage near-misses → `data/scorecard.md`
+
+## Manual tools
+- `fullstar.py`: parse Fullstar page text, compare to Pinnacle/Kalshi, size paper bets → `data/fullstar_log.csv`
+- Backtests: `backtest.py`, `challenger_backtest.py`, `totals_backtest.py`, `spread_backtest.py`
+
+## Data (non-commercial personal use)
+- Jeff Sackmann's ATP/WTA data via the [archival mirror](https://huggingface.co/datasets/Aneeshers/tennis-sackmann-archive) (through June 2026)
+- [minmaxxxer odds dataset](https://huggingface.co/datasets/minmaxxxer/atp-wta-matches-with-odds): results + consensus open/close odds
 - Live: The Odds API (Pinnacle), Kalshi and Polymarket public APIs
 
 ## Known gaps
-- Challenger/ITF results stop June 2026 → ratings stale for rising players (e.g. Kouame). Fix in progress.
-- No sharp reference for Challengers/WTA unless the Odds API covers the event.
-- Polymarket's main exchange is restricted for US users; Polymarket US prices may differ.
-- Fullstar not wired in yet (no API; via browser).
-
-Run locally: `bash scripts/fetch_data.sh && cd src && python run_all.py` (backtest) or `python snapshot.py` (needs `ODDS_API_KEY`).
+- Pinnacle via the Odds API covers main-tour events only, so price flags are main tour only.
+- Polymarket's international exchange is restricted for US users; Polymarket US prices may differ.
+- Pinnacle is pulled every 2–4h, so the "close" can be a few hours before the start.

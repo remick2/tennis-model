@@ -57,7 +57,8 @@ jobs:
           if [ -s ../alert.md ]; then
             gh issue create --title "Paper flag: $(date -u -d '-7 hours' '+%a %b %-d %-I:%M%p') MT" --body-file ../alert.md
           fi
-      - name: Tennis Tonic picks (once every 6h; honest fetch, skipped if blocked)
+      - name: Tennis Tonic picks (DISABLED - picks load via JavaScript, plain fetch only gets results)
+        if: false
         run: |
           if [ $(( $(date -u +%H) % 6 )) -eq 1 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             cd src && python -W ignore tonic.py || echo "tonic failed"
