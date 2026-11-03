@@ -1,8 +1,8 @@
 name: phase2-snapshot
-# PAPER TRACKING ONLY. Every 2h: Kalshi + Polymarket + model; Pinnacle every 4h (free API budget).
+# PAPER TRACKING ONLY. Hourly (GitHub drops/delays some scheduled runs): Kalshi + Polymarket + model; Pinnacle every 4h (free API budget).
 on:
   schedule:
-    - cron: "17 */2 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       pinnacle:

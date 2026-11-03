@@ -1,0 +1,9 @@
+Underdog test (2026-11-03): does the model find underdogs the market underrates?
+Main tour (Elo model vs closing consensus, Dec 2024 - Oct 2026, 9,592 matches), underdog = closing price < 50%:
+  model >= market +0.10: n=971, market 35.9%, model 51.2%, actual 32.9%, ROI -10.5% typical book / -2.7% best-of-21
+  model >= market +0.20: n=148, market 35.4%, model 61.4%, actual 32.4%, ROI -13.4% / -7.2%
+  dog <30%, model >= mkt +0.10: n=236, market 23.0%, model 37.9%, actual 25.0%, ROI +8.0% +/- 13.2% (noise; one of 9 buckets checked)
+Challenger replication (model vs Kalshi pre-match, Aug-Nov 2026, buying at ask + fee):
+  all dogs, model >= mkt +0.10: n=1184, market 27.3%, model 48.7%, actual 28.8%, ROI -14.3% +/- 4.4%
+  dog <30%, model >= mkt +0.10: n=633, market 16.5%, model 40.5%, actual 16.0%, ROI -31.3% +/- 6.9%
+Conclusion: when the model loves an underdog, the dog wins about what the MARKET said, not what the model said.

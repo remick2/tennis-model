@@ -64,6 +64,39 @@ def key_for(a, b):
     return frozenset((last(a), last(b)))
 
 
+_STOP = {"van", "der", "den", "del", "dos", "das", "las", "los", "von", "jr"}
+
+
+def _toks(n):
+    """Surname-ish tokens: drop the first name (if 2+ words), short words and particles."""
+    t = norm(n).split()
+    t = t[1:] if len(t) > 1 else t
+    return {x for x in t if len(x) > 2 and x not in _STOP}
+
+
+def canonical(df):
+    """One key per real match across sources, even when venues spell names differently
+    ('Valentina Mediorreal Arias' vs 'Valentina Mediorreal'). Each player's surname tokens must be
+    a subset of the other spelling's, one inside the other. Returns (key, side) lists; side = the canonical name of the row's player."""
+    same = lambda x, y: bool(x) and bool(y) and (x <= y or y <= x)  # one name's surnames inside the other's
+    groups, keys, sides = [], [], []
+    for p, o in zip(df.player, df.opp):
+        tp, to = _toks(p), _toks(o)
+        hit = None
+        for g in groups:
+            if same(tp, g["t"][0]) and same(to, g["t"][1]):
+                hit = (g, 0); break
+            if same(tp, g["t"][1]) and same(to, g["t"][0]):
+                hit = (g, 1); break
+        if hit is None:
+            g = {"t": [set(tp), set(to)], "n": [p, o]}
+            groups.append(g); hit = (g, 0)
+        g, i = hit
+        keys.append(frozenset(_toks(x) and sorted(_toks(x))[0] or norm(x) for x in g["n"]))
+        sides.append(g["n"][i])
+    return keys, sides
+
+
 def surface_for(text):
     t = (text or "").lower()
     for k, s in SURFACE_HINTS.items():
@@ -74,7 +107,7 @@ def surface_for(text):
 
 # ------------------------------------------------------------------ sources
 def pinnacle():
-    if not KEY or USE_PINNACLE == "0" or (USE_PINNACLE == "auto" and now().hour % 4 >= 2):
+    if not KEY or USE_PINNACLE == "0" or (USE_PINNACLE == "auto" and now().hour % 4 != 0):
         return [], None
     sports = requests.get("https://api.the-odds-api.com/v4/sports", params={"apiKey": KEY}, timeout=30).json()
     keys = [s["key"] for s in sports if s["key"].startswith("tennis_") and s["active"]]
@@ -155,7 +188,6 @@ def find_arbs(df):
     Caveats: Kalshi rounds fees up to the cent per order (kills sub-cent arbs on tiny orders);
     walkovers settle differently (Kalshi 'fair price', Polymarket 50-50); retirements match (advancer wins)."""
     t = df[df.source.isin(["kalshi", "poly"]) & df.cost.notna() & (df.ask > 0) & (df.ask < 1)].copy()
-    t["side"] = t.player.map(lambda n: norm(n).split()[-1] if norm(n) else "")
     rows = []
     for key, g in t.groupby("key"):
         sides = g.side.unique()
@@ -182,7 +214,7 @@ def build(model=True):
     pin, remaining = pinnacle()
     df = pd.DataFrame(pin + kalshi() + polymarket())
     df["ts"] = t0.isoformat()
-    df["key"] = [key_for(a, b) for a, b in zip(df.player, df.opp)]
+    df["key"], df["side"] = canonical(df)
     df["start"] = pd.to_datetime(df.start, utc=True, errors="coerce")
     # Pinnacle start times are the most reliable; copy them onto other sources' rows
     pin_start = df[df.source == "pinnacle"].groupby("key").start.first()
@@ -191,8 +223,8 @@ def build(model=True):
     df = df[df.start.isna() | (df.start > t0)]  # pre-match only
     if "fair" not in df:
         df["fair"] = float("nan")
-    fair = df[df.source == "pinnacle"].set_index(["key", "player"]).fair
-    df["pin_fair"] = [fair.get((k, p)) for k, p in zip(df.key, df.player)]
+    fair = df[df.source == "pinnacle"].drop_duplicates(["key", "side"]).set_index(["key", "side"]).fair
+    df["pin_fair"] = [fair.get((k, p)) for k, p in zip(df.key, df.side)]
     df["fee"] = [FEE.get(s, 0) * a * (1 - a) if a == a and a else 0 for s, a in zip(df.source, df.ask)]
     df["cost"] = df.ask + df.fee
     if model:
