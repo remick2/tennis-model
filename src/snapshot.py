@@ -146,6 +146,37 @@ def polymarket():
 
 
 # ------------------------------------------------------------------ assemble
+ARBS = ROOT / "data" / "arbs"
+
+
+def find_arbs(df):
+    """Buy A on one venue + B on another (or the same) for < $1 all-in -> locked profit at settlement.
+    Uses Kalshi/Polymarket only (Pinnacle/Fullstar aren't buyable at these prices).
+    Caveats: Kalshi rounds fees up to the cent per order (kills sub-cent arbs on tiny orders);
+    walkovers settle differently (Kalshi 'fair price', Polymarket 50-50); retirements match (advancer wins)."""
+    t = df[df.source.isin(["kalshi", "poly"]) & df.cost.notna() & (df.ask > 0) & (df.ask < 1)].copy()
+    t["side"] = t.player.map(lambda n: norm(n).split()[-1] if norm(n) else "")
+    rows = []
+    for key, g in t.groupby("key"):
+        sides = g.side.unique()
+        if len(sides) != 2:
+            continue
+        a, b = g[g.side == sides[0]], g[g.side == sides[1]]
+        for ra in a.itertuples():
+            for rb in b.itertuples():
+                total = ra.cost + rb.cost
+                rows.append({"ts": ra.ts, "key": key, "start": ra.start,
+                             "leg_a": f"{ra.player} @ {ra.source} {ra.ask:.2f}",
+                             "leg_b": f"{rb.player} @ {rb.source} {rb.ask:.2f}",
+                             "cost_a": ra.cost, "cost_b": rb.cost, "total": total,
+                             "profit_per_dollar": 1 - total, "same_venue": ra.source == rb.source,
+                             "kalshi_size": next((x.ask_size for x in (ra, rb) if x.source == "kalshi"), None)})
+    out = pd.DataFrame(rows)
+    if out.empty:
+        return out
+    return out.sort_values("total").groupby("key").head(1)  # best combo per match
+
+
 def build(model=True):
     t0 = now()
     pin, remaining = pinnacle()
@@ -197,6 +228,11 @@ def build(model=True):
     if out.exists() and open(out).readline().strip().split(",") != COLUMNS:
         pd.read_csv(out).reindex(columns=COLUMNS).to_csv(out, index=False)  # upgrade older column set
     df.to_csv(out, mode="a", header=not out.exists(), index=False)
+    arbs = find_arbs(df)
+    if len(arbs):
+        ARBS.mkdir(parents=True, exist_ok=True)
+        f = ARBS / f"{t0:%Y-%m-%d}.csv"
+        arbs.to_csv(f, mode="a", header=not f.exists(), index=False)  # all matches' best combo, for tracking
     return df, remaining
 
 
@@ -207,3 +243,7 @@ if __name__ == "__main__":
             "price_edge", "model_edge", "flag", "surface"]
     show = df[df.source != "pinnacle"].sort_values(["start", "key"])
     print(show[[c for c in cols if c in show]].round(3).to_string(index=False))
+    a = find_arbs(df)
+    if len(a):
+        print(f"\nbest cross-venue combos (arb if total < 1): {(a.total < 1).sum()} arbs of {len(a)} matches")
+        print(a.head(8)[["key", "leg_a", "leg_b", "total"]].round(4).to_string(index=False))
