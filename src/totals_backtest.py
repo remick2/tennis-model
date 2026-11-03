@@ -27,7 +27,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PRICES = ROOT / "data" / "kalshi_totals_prices.csv"
 META = ROOT / "data" / "kalshi_totals_meta.json"
 FEE = 0.07
-RULE = re.compile(r"in the (.+?) vs (.+?) professional tennis match in the (\d{4}) (.+?) (Round|Qualif|Final|Semi|Quarter)")
+RULE = re.compile(r".*in the (.+?) vs (.+?) professional tennis match in the (\d{4}) (.+?) (Round|Qualif|Final|Semi|Quarter)")
 logit = lambda p: np.log(np.clip(p, 1e-6, 1 - 1e-6) / (1 - np.clip(p, 1e-6, 1 - 1e-6)))
 
 
