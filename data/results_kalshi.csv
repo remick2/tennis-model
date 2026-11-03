@@ -3321,6 +3321,7 @@ KXATPCHALLENGERMATCH-26NOV01ZORMIS,atp,2026-11-02,ATP Challenger Costa do Sauipe
 KXATPCHALLENGERMATCH-26NOV02ALVMIS,atp,2026-11-02,ATP Challenger Costa do Sauipe,Qualification,Filip Misolic,Mateus Alves
 KXATPCHALLENGERMATCH-26NOV02BARROC,atp,2026-11-02,ATP Challenger Costa do Sauipe,Round Of 32,Marcelo Tomas Barrios Vera,Henrique Rocha
 KXATPCHALLENGERMATCH-26NOV02BASKAR,atp,2026-11-02,ATP Challenger Bratislava II,Round Of 32,Nishesh Basavareddy,Milos Karol
+KXATPCHALLENGERMATCH-26NOV02CANGIU,atp,2026-11-02,ATP Challenger Taranto,Round Of 32,Carlo Alberto Caniato,Lorenzo Giustino
 KXATPCHALLENGERMATCH-26NOV02DELCOU,atp,2026-11-02,ATP Challenger Villa Maria,Qualification,Mateo Del Pino,Joao Victor Couto Loureiro
 KXATPCHALLENGERMATCH-26NOV02DLFTAB,atp,2026-11-02,ATP Challenger Villa Maria,Qualification,Ryo Tabata,Santiago De la Fuente
 KXATPCHALLENGERMATCH-26NOV02DONPIR,atp,2026-11-02,ATP Challenger Bratislava II,Round Of 32,Zsombor Piros,Matthew William Donald
@@ -3345,6 +3346,7 @@ KXATPCHALLENGERMATCH-26NOV02MICHOL,atp,2026-11-02,ATP Challenger Taipei,Round Of
 KXATPCHALLENGERMATCH-26NOV02MILMIT,atp,2026-11-02,ATP Challenger Charlottesville,Qualification,Daniel Milavsky,Shunsuke Mitsui
 KXATPCHALLENGERMATCH-26NOV02MPESOR,atp,2026-11-02,ATP Challenger Bratislava II,Qualification,Giovanni Mpetshi Perricard,Sebastian Sorger
 KXATPCHALLENGERMATCH-26NOV02PAVSHE,atp,2026-11-02,ATP Challenger Bratislava II,Round Of 32,Luka Pavlovic,Aleksandr Shevchenko
+KXATPCHALLENGERMATCH-26NOV02PENWAL,atp,2026-11-02,ATP Challenger Taranto,Qualification,Marcus Walters,Ryan Peniston
 KXATPCHALLENGERMATCH-26NOV02PERMAK,atp,2026-11-02,ATP Challenger Taranto,Qualification,Peter Makk,Tiago Pereira
 KXATPCHALLENGERMATCH-26NOV02POUKEL,atp,2026-11-02,ATP Challenger Bratislava II,Qualification,Lucas Poullain,Yannik Kelm
 KXATPCHALLENGERMATCH-26NOV02RATZEI,atp,2026-11-02,ATP Challenger Villa Maria,Round Of 32,Lucio Ratti,Maximo Zeitune
@@ -3389,8 +3391,12 @@ KXATPCHALLENGERMATCH-26NOV03HARWAT,atp,2026-11-03,ATP Challenger Taipei,Round Of
 KXATPCHALLENGERMATCH-26NOV03KYMPOU,atp,2026-11-03,ATP Challenger Bratislava II,Round Of 32,Jerome Kym,Lucas Poullain
 KXATPCHALLENGERMATCH-26NOV03MCCSAM,atp,2026-11-03,ATP Challenger Taipei,Round Of 32,Kasidit Samrej,James McCabe
 KXATPCHALLENGERMATCH-26NOV03POLSHI,atp,2026-11-03,ATP Challenger Taipei,Round Of 32,Sho Shimabukuro,Mili Poljicak
+KXATPCHALLENGERMATCH-26NOV03ROCGAL,atp,2026-11-03,ATP Challenger Villa Maria,Round Of 32,Oriol Roca Batalla,Juan Ignacio Gallego
 KXATPCHALLENGERMATCH-26NOV03TUNHOU,atp,2026-11-03,ATP Challenger Taipei,Round Of 32,Chun-Chien Hou,Tung-Lin Wu
+KXATPCHALLENGERMATCH-26NOV03VASGUE,atp,2026-11-03,ATP Challenger Bratislava II,Round Of 32,Sascha Gueymard Wayenburg,Eero Vasa
 KXATPCHALLENGERMATCH-26NOV03WONHUA,atp,2026-11-03,ATP Challenger Taipei,Round Of 32,Coleman Wong,Tsung-Hao Huang
+KXWTACHALLENGERMATCH-26NOV03FEIKLI,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Gina Feistel,Linda Klimovicova
+KXWTACHALLENGERMATCH-26NOV03IBRZAY,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Ksenia Zaytseva,Jian Ibrahim
 KXWTACHALLENGERMATCH-26NOV03LANOKU,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Sofya Lansere,Angella Okutoyi
 KXWTACHALLENGERMATCH-26NOV03LEMALH,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Tiphanie Lemaitre,Lamis Alhussein Abdel Aziz
 KXWTACHALLENGERMATCH-26NOV03SUVKUB,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Martyna Kubka,Darja Suvirdjonkova
