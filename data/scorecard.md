@@ -1,4 +1,4 @@
-# Phase 2 scorecard  (Tue Nov 3 9:17AM MT)
+# Phase 2 scorecard  (Tue Nov 3 9:32AM MT)
 
 Snapshots: 8 runs, Nov 3 to Nov 3 16:16Z. Phase 3 gate: price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
 
