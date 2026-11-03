@@ -1,0 +1,28 @@
+linked 393 of 569 matches; lines scored 990
+
+== log loss (lower = better)
+kalshi       0.5821
+model_raw    0.5911
+model_cal    0.5901
+
+== info beyond Kalshi: coef_kalshi 0.649, coef_model 0.626 (se 0.317); Oct-Nov log loss blend 0.5770 vs Kalshi 0.5736
+
+== flat $1 bets at Kalshi ask + fee when model edge >= x
+         model  min_edge  bets     roi      se  dog_plus_bets  dog_plus_roi
+0         raw      0.00   712 -0.0159  0.0473            273       -0.0859
+1         raw      0.03   453 -0.0263  0.0602            176       -0.1299
+2         raw      0.05   322  0.0136  0.0725            121       -0.0827
+3         raw      0.10   123 -0.0134  0.1127             50       -0.1238
+4  calibrated      0.00   444 -0.1286  0.0643             29       -0.2502
+5  calibrated      0.03   166 -0.2403  0.0977             15       -0.1269
+6  calibrated      0.05    95 -0.3051  0.1146             10       -0.0470
+7  calibrated      0.10    35 -0.2699  0.2046              7       -0.0084
+
+== baseline: every underdog +line at Kalshi (no model): n 728, ROI -0.1238 ± 0.0334
+   dog +1.5: n 151, Kalshi P(dog covers) 0.428, actual 0.411, ROI -0.153
+   dog +2.5: n 106, Kalshi P(dog covers) 0.433, actual 0.349, ROI -0.249
+   dog +3.5: n 104, Kalshi P(dog covers) 0.489, actual 0.510, ROI -0.050
+   dog +4.5: n 140, Kalshi P(dog covers) 0.649, actual 0.621, ROI -0.103
+   dog +5.5: n 84, Kalshi P(dog covers) 0.681, actual 0.619, ROI -0.161
+   dog +6.5: n 69, Kalshi P(dog covers) 0.785, actual 0.841, ROI -0.009
+   dog +7.5: n 38, Kalshi P(dog covers) 0.821, actual 0.816, ROI -0.052
