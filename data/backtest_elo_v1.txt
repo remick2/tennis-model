@@ -1,0 +1,112 @@
+[atp] crosswalk: 473 by match, 105 by name, 82 new ids
+[wta] crosswalk: 369 by match, 144 by name, 125 new ids
+{
+ "atp": {
+  "params": {
+   "w_blend": 0.6,
+   "scale": 0.8914439075582731,
+   "n_tune": 11635,
+   "tune_logloss": 0.612223614562761,
+   "slam_ll_bo5_on": 0.5237889725918392,
+   "slam_ll_bo5_off": 0.5332085022632934
+  },
+  "coverage": {
+   "odds_rows": 5706,
+   "with_model_prob": 5385
+  }
+ },
+ "wta": {
+  "params": {
+   "w_blend": 0.7,
+   "scale": 1.0278446967496464,
+   "n_tune": 10906,
+   "tune_logloss": 0.6021917589354568,
+   "slam_ll_bo5_on": NaN,
+   "slam_ll_bo5_off": NaN
+  },
+  "coverage": {
+   "odds_rows": 5538,
+   "with_model_prob": 4981
+  }
+ },
+ "overall": [
+  {
+   "tour": "atp",
+   "n": 4907,
+   "ll_model": 0.613,
+   "ll_market": 0.5934,
+   "brier_model": 0.2127,
+   "brier_market": 0.2045,
+   "ll_gap": 0.0195
+  },
+  {
+   "tour": "wta",
+   "n": 4685,
+   "ll_model": 0.6064,
+   "ll_market": 0.5851,
+   "brier_model": 0.2101,
+   "brier_market": 0.2008,
+   "ll_gap": 0.0213
+  }
+ ],
+ "info_beyond_market": {
+  "coef_market": 1.1953493617979591,
+  "coef_model": -0.14751803258000992,
+  "se_model": 0.08720833587038897,
+  "oos_ll_blend_2026": 0.5834206251060887,
+  "oos_ll_market_2026": 0.5844044259729588
+ },
+ "line_move": {
+  "corr_model_minus_open_vs_move": 0.23995168933333388,
+  "n": 9592
+ }
+}
+
+== by_tour_level
+               n  ll_model  ll_market  brier_model  brier_market  ll_gap
+tour level                                                              
+atp  A      2519    0.6246     0.6086       0.2176        0.2106  0.0160
+     G       962    0.5509     0.5263       0.1860        0.1758  0.0246
+     M      1426    0.6343     0.6119       0.2222        0.2130  0.0224
+wta  A      2131    0.6352     0.6048       0.2223        0.2092  0.0303
+     G       985    0.5395     0.5274       0.1819        0.1761  0.0121
+     M      1569    0.6093     0.5945       0.2111        0.2049  0.0147
+
+== by_tour_surface
+                 n  ll_model  ll_market  brier_model  brier_market  ll_gap
+tour surface                                                              
+atp  Clay     1479    0.6084     0.5940       0.2106        0.2042  0.0144
+     Grass     574    0.6060     0.5873       0.2106        0.2021  0.0186
+     Hard     2854    0.6167     0.5944       0.2143        0.2051  0.0224
+wta  Clay     1101    0.5916     0.5694       0.2034        0.1941  0.0222
+     Grass     575    0.6338     0.6044       0.2222        0.2095  0.0294
+     Hard     3009    0.6066     0.5872       0.2102        0.2016  0.0194
+
+== by_tour_year
+              n  ll_model  ll_market  brier_model  brier_market  ll_gap
+tour year                                                              
+atp  2024    53    0.6909     0.6922       0.2459        0.2470 -0.0012
+     2025  2450    0.6109     0.5910       0.2122        0.2036  0.0198
+     2026  2404    0.6134     0.5937       0.2126        0.2044  0.0197
+wta  2024    74    0.6400     0.6022       0.2268        0.2096  0.0378
+     2025  2280    0.6115     0.5950       0.2125        0.2049  0.0165
+     2026  2331    0.6003     0.5748       0.2071        0.1965  0.0255
+
+== by_tour_experience
+                              n  ll_model  ll_market  brier_model  brier_market  ll_gap
+tour exp                                                                               
+atp  a player <50 matches   134    0.5992     0.5595       0.1991        0.1903  0.0398
+     both 50+ matches      4773    0.6134     0.5944       0.2131        0.2049  0.0190
+wta  a player <50 matches   203    0.5925     0.5410       0.2044        0.1871  0.0515
+     both 50+ matches      4482    0.6070     0.5871       0.2103        0.2014  0.0199
+
+== bet sim (flat 1u, at the CLOSE)
+          price  min_edge  bets     roi  roi_se
+0  typical_book      0.00  3312 -0.1117  0.0222
+1  typical_book      0.03  2683 -0.1342  0.0253
+2  typical_book      0.05  2335 -0.1465  0.0277
+3  typical_book      0.10  1664 -0.1651  0.0343
+4    best_of_21      0.00  4521 -0.0496  0.0214
+5    best_of_21      0.03  3790 -0.0579  0.0246
+6    best_of_21      0.05  3421 -0.0697  0.0262
+7    best_of_21      0.10  2635 -0.0755  0.0320

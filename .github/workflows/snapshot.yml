@@ -1,0 +1,47 @@
+name: phase2-snapshot
+# PAPER TRACKING ONLY. Every 2h: Kalshi + Polymarket + model; Pinnacle every 4h (free API budget).
+on:
+  schedule:
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      pinnacle:
+        description: "Pull Pinnacle this run? (auto/1/0)"
+        default: "auto"
+permissions:
+  contents: write
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+jobs:
+  snap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/cache@v4
+        with:
+          path: data/raw/atp
+          key: sackmann-atp-${{ hashFiles('scripts/sackmann_files.txt') }}
+      - uses: actions/cache@v4
+        with:
+          path: data/raw/wta
+          key: sackmann-wta-${{ hashFiles('scripts/sackmann_files.txt') }}
+      - run: pip install -r requirements.txt
+      - run: bash scripts/fetch_data.sh
+      - name: snapshot
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          PINNACLE: ${{ github.event.inputs.pinnacle || 'auto' }}
+        run: cd src && python -W ignore snapshot.py | tail -60
+      - name: commit snapshot
+        run: |
+          git config user.name "tennis-snapshot-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/snapshots
+          git diff --cached --quiet || git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase -q && git push

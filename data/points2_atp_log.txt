@@ -1,0 +1,71 @@
+[atp] crosswalk: 473 by match, 105 by name, 82 new ids
+atp {'ll_win': np.float64(0.6087), 'rps_total': np.float64(0.1153), 'rps_margin': np.float64(0.0433), 'bias_total': np.float64(1.1198), 'kappa': 1.0, 'sig_rel': 0.0, 'delta': -0.1, 'obj': np.float64(0.1586)}
+atp {'ll_win': np.float64(0.6065), 'rps_total': np.float64(0.1174), 'rps_margin': np.float64(0.0435), 'bias_total': np.float64(1.6849), 'kappa': 1.0, 'sig_rel': 0.0, 'delta': 0.0, 'obj': np.float64(0.1609)}
+atp {'ll_win': np.float64(0.6049), 'rps_total': np.float64(0.121), 'rps_margin': np.float64(0.044), 'bias_total': np.float64(2.3373), 'kappa': 1.0, 'sig_rel': 0.0, 'delta': 0.1, 'obj': np.float64(0.165)}
+atp {'ll_win': np.float64(0.6038), 'rps_total': np.float64(0.1139), 'rps_margin': np.float64(0.0433), 'bias_total': np.float64(-0.6321), 'kappa': 1.0, 'sig_rel': 0.2, 'delta': -0.1, 'obj': np.float64(0.1571)}
+atp {'ll_win': np.float64(0.6043), 'rps_total': np.float64(0.113), 'rps_margin': np.float64(0.0431), 'bias_total': np.float64(-0.0165), 'kappa': 1.0, 'sig_rel': 0.2, 'delta': 0.0, 'obj': np.float64(0.1561)}
+atp {'ll_win': np.float64(0.605), 'rps_total': np.float64(0.1135), 'rps_margin': np.float64(0.0433), 'bias_total': np.float64(0.6958), 'kappa': 1.0, 'sig_rel': 0.2, 'delta': 0.1, 'obj': np.float64(0.1568)}
+atp {'ll_win': np.float64(0.6134), 'rps_total': np.float64(0.124), 'rps_margin': np.float64(0.0453), 'bias_total': np.float64(-2.3476), 'kappa': 1.0, 'sig_rel': 0.35, 'delta': -0.1, 'obj': np.float64(0.1693)}
+atp {'ll_win': np.float64(0.6142), 'rps_total': np.float64(0.1198), 'rps_margin': np.float64(0.0447), 'bias_total': np.float64(-1.7461), 'kappa': 1.0, 'sig_rel': 0.35, 'delta': 0.0, 'obj': np.float64(0.1644)}
+atp {'ll_win': np.float64(0.6153), 'rps_total': np.float64(0.1163), 'rps_margin': np.float64(0.0442), 'bias_total': np.float64(-1.0453), 'kappa': 1.0, 'sig_rel': 0.35, 'delta': 0.1, 'obj': np.float64(0.1606)}
+atp {'ll_win': np.float64(0.6163), 'rps_total': np.float64(0.1367), 'rps_margin': np.float64(0.0478), 'bias_total': np.float64(-3.4305), 'kappa': 1.0, 'sig_rel': 0.5, 'delta': -0.1, 'obj': np.float64(0.1845)}
+atp {'ll_win': np.float64(0.6175), 'rps_total': np.float64(0.1309), 'rps_margin': np.float64(0.0468), 'bias_total': np.float64(-2.8881), 'kappa': 1.0, 'sig_rel': 0.5, 'delta': 0.0, 'obj': np.float64(0.1778)}
+atp {'ll_win': np.float64(0.619), 'rps_total': np.float64(0.1253), 'rps_margin': np.float64(0.046), 'bias_total': np.float64(-2.2518), 'kappa': 1.0, 'sig_rel': 0.5, 'delta': 0.1, 'obj': np.float64(0.1713)}
+atp {'ll_win': np.float64(0.649), 'rps_total': np.float64(0.1158), 'rps_margin': np.float64(0.0448), 'bias_total': np.float64(0.3104), 'kappa': 1.4, 'sig_rel': 0.0, 'delta': -0.1, 'obj': np.float64(0.1606)}
+atp {'ll_win': np.float64(0.6415), 'rps_total': np.float64(0.1163), 'rps_margin': np.float64(0.0444), 'bias_total': np.float64(0.9015), 'kappa': 1.4, 'sig_rel': 0.0, 'delta': 0.0, 'obj': np.float64(0.1607)}
+atp {'ll_win': np.float64(0.6338), 'rps_total': np.float64(0.1184), 'rps_margin': np.float64(0.0443), 'bias_total': np.float64(1.5876), 'kappa': 1.4, 'sig_rel': 0.0, 'delta': 0.1, 'obj': np.float64(0.1626)}
+atp {'ll_win': np.float64(0.6032), 'rps_total': np.float64(0.1157), 'rps_margin': np.float64(0.0438), 'bias_total': np.float64(-1.1099), 'kappa': 1.4, 'sig_rel': 0.2, 'delta': -0.1, 'obj': np.float64(0.1595)}
+atp {'ll_win': np.float64(0.6029), 'rps_total': np.float64(0.1138), 'rps_margin': np.float64(0.0433), 'bias_total': np.float64(-0.4901), 'kappa': 1.4, 'sig_rel': 0.2, 'delta': 0.0, 'obj': np.float64(0.1571)}
+atp {'ll_win': np.float64(0.6025), 'rps_total': np.float64(0.1132), 'rps_margin': np.float64(0.043), 'bias_total': np.float64(0.23), 'kappa': 1.4, 'sig_rel': 0.2, 'delta': 0.1, 'obj': np.float64(0.1563)}
+atp {'ll_win': np.float64(0.6044), 'rps_total': np.float64(0.1264), 'rps_margin': np.float64(0.0454), 'bias_total': np.float64(-2.6723), 'kappa': 1.4, 'sig_rel': 0.35, 'delta': -0.1, 'obj': np.float64(0.1718)}
+atp {'ll_win': np.float64(0.6047), 'rps_total': np.float64(0.1215), 'rps_margin': np.float64(0.0444), 'bias_total': np.float64(-2.066), 'kappa': 1.4, 'sig_rel': 0.35, 'delta': 0.0, 'obj': np.float64(0.166)}
+atp {'ll_win': np.float64(0.605), 'rps_total': np.float64(0.1174), 'rps_margin': np.float64(0.0437), 'bias_total': np.float64(-1.3575), 'kappa': 1.4, 'sig_rel': 0.35, 'delta': 0.1, 'obj': np.float64(0.1611)}
+atp {'ll_win': np.float64(0.6091), 'rps_total': np.float64(0.14), 'rps_margin': np.float64(0.0478), 'bias_total': np.float64(-3.7754), 'kappa': 1.4, 'sig_rel': 0.5, 'delta': -0.1, 'obj': np.float64(0.1878)}
+atp {'ll_win': np.float64(0.6095), 'rps_total': np.float64(0.1334), 'rps_margin': np.float64(0.0466), 'bias_total': np.float64(-3.2199), 'kappa': 1.4, 'sig_rel': 0.5, 'delta': 0.0, 'obj': np.float64(0.1801)}
+atp {'ll_win': np.float64(0.6101), 'rps_total': np.float64(0.1271), 'rps_margin': np.float64(0.0455), 'bias_total': np.float64(-2.5669), 'kappa': 1.4, 'sig_rel': 0.5, 'delta': 0.1, 'obj': np.float64(0.1726)}
+atp {'ll_win': np.float64(0.717), 'rps_total': np.float64(0.1197), 'rps_margin': np.float64(0.0476), 'bias_total': np.float64(-0.4891), 'kappa': 1.8, 'sig_rel': 0.0, 'delta': -0.1, 'obj': np.float64(0.1673)}
+atp {'ll_win': np.float64(0.7025), 'rps_total': np.float64(0.1185), 'rps_margin': np.float64(0.0465), 'bias_total': np.float64(0.1209), 'kappa': 1.8, 'sig_rel': 0.0, 'delta': 0.0, 'obj': np.float64(0.1649)}
+atp {'ll_win': np.float64(0.6873), 'rps_total': np.float64(0.1187), 'rps_margin': np.float64(0.0456), 'bias_total': np.float64(0.8269), 'kappa': 1.8, 'sig_rel': 0.0, 'delta': 0.1, 'obj': np.float64(0.1643)}
+atp {'ll_win': np.float64(0.618), 'rps_total': np.float64(0.1195), 'rps_margin': np.float64(0.0456), 'bias_total': np.float64(-1.6298), 'kappa': 1.8, 'sig_rel': 0.2, 'delta': -0.1, 'obj': np.float64(0.1651)}
+atp {'ll_win': np.float64(0.6163), 'rps_total': np.float64(0.1165), 'rps_margin': np.float64(0.0446), 'bias_total': np.float64(-1.0073), 'kappa': 1.8, 'sig_rel': 0.2, 'delta': 0.0, 'obj': np.float64(0.1611)}
+atp {'ll_win': np.float64(0.6144), 'rps_total': np.float64(0.1147), 'rps_margin': np.float64(0.0439), 'bias_total': np.float64(-0.2842), 'kappa': 1.8, 'sig_rel': 0.2, 'delta': 0.1, 'obj': np.float64(0.1585)}
+atp {'ll_win': np.float64(0.602), 'rps_total': np.float64(0.1299), 'rps_margin': np.float64(0.0464), 'bias_total': np.float64(-3.0113), 'kappa': 1.8, 'sig_rel': 0.35, 'delta': -0.1, 'obj': np.float64(0.1763)}
+atp {'ll_win': np.float64(0.6018), 'rps_total': np.float64(0.1243), 'rps_margin': np.float64(0.0451), 'bias_total': np.float64(-2.404), 'kappa': 1.8, 'sig_rel': 0.35, 'delta': 0.0, 'obj': np.float64(0.1694)}
+atp {'ll_win': np.float64(0.6017), 'rps_total': np.float64(0.1193), 'rps_margin': np.float64(0.0441), 'bias_total': np.float64(-1.6954), 'kappa': 1.8, 'sig_rel': 0.35, 'delta': 0.1, 'obj': np.float64(0.1634)}
+atp {'ll_win': np.float64(0.6059), 'rps_total': np.float64(0.144), 'rps_margin': np.float64(0.0486), 'bias_total': np.float64(-4.0978), 'kappa': 1.8, 'sig_rel': 0.5, 'delta': -0.1, 'obj': np.float64(0.1926)}
+atp {'ll_win': np.float64(0.6057), 'rps_total': np.float64(0.1367), 'rps_margin': np.float64(0.0471), 'bias_total': np.float64(-3.5348), 'kappa': 1.8, 'sig_rel': 0.5, 'delta': 0.0, 'obj': np.float64(0.1839)}
+atp {'ll_win': np.float64(0.6056), 'rps_total': np.float64(0.1296), 'rps_margin': np.float64(0.0457), 'bias_total': np.float64(-2.8745), 'kappa': 1.8, 'sig_rel': 0.5, 'delta': 0.1, 'obj': np.float64(0.1754)}
+{
+ "tour": "atp",
+ "params": {
+  "kappa": 1.0,
+  "sig_rel": 0.2,
+  "delta": 0.0
+ },
+ "tune_best": {
+  "ll_win": 0.6042695211462404,
+  "rps_total": 0.1130102148023178,
+  "rps_margin": 0.04311774507263914,
+  "bias_total": -0.016532290072877258,
+  "kappa": 1.0,
+  "sig_rel": 0.2,
+  "delta": 0.0,
+  "obj": 0.15612795987495692
+ }
+}
+best_of                   3         5
+n                 3930.0000  977.0000
+avg_total           23.7318   36.9202
+pred_model          23.2852   36.9133
+pred_mkt            23.2066   36.3051
+rps_total_model      0.1190    0.0963
+rps_total_mkt        0.1192    0.0966
+rps_total_naive      0.1209    0.0999
+rps_margin_model     0.0410    0.0524
+rps_margin_mkt       0.0402    0.0508
+rps_margin_naive     0.0459    0.0683
+brier_over_model     0.2456    0.2333
+brier_over_mkt       0.2463    0.2341
+brier_over_naive     0.2497    0.2435
+ll_win_point         0.6254    0.5459
+ll_win_market        0.6099    0.5273

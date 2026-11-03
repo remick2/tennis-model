@@ -1,0 +1,6 @@
+data/raw/
+data/*.parquet
+data/ratings.pkl
+secrets/
+__pycache__/
+*.pyc
