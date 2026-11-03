@@ -17,12 +17,20 @@ API = "https://api.elections.kalshi.com/trade-api/v2"
 SERIES = ["KXATPCHALLENGERMATCH", "KXWTACHALLENGERMATCH"]
 
 
+SESSION = requests.Session()
+
+
 def _get(url, params):
-    for a in range(8):
-        r = requests.get(url, params=params, timeout=60)
+    """Kalshi rate-limits bursts (429, no Retry-After): short waits work better than long backoff.
+    Network errors are retried too, so one dropped connection doesn't kill a long download."""
+    for a in range(25):
+        try:
+            r = SESSION.get(url, params=params, timeout=30)
+        except requests.RequestException:
+            time.sleep(2); continue
         if r.status_code == 200:
             return r.json()
-        time.sleep(min(30, 2 * (a + 1)))
+        time.sleep(1.0 if r.status_code == 429 else 3.0)
     return None
 
 
@@ -59,7 +67,7 @@ def main():
                                candle_end=x["end_period_ts"],
                                vol_24h=sum(float(y.get("volume_fp", y.get("volume", 0)) or 0) for y in c[-24:]))
             buf.append(row)
-            time.sleep(0.25)
+            time.sleep(0.1)
             if len(buf) >= 200 or i == len(winners) - 1:
                 pd.DataFrame(buf).to_csv(OUT, mode="a", header=not OUT.exists(), index=False)
                 buf = []
