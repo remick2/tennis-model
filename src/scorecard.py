@@ -119,6 +119,37 @@ def arb_summary():
                                 under_1_005=("total", lambda t: int((t < 1.005).sum()))).reset_index()
 
 
+def tonic_grade(d, win):
+    """Tennis Tonic picks vs market: does their pick win more often than its price said?"""
+    f = ROOT / "data" / "tonic" / "picks.csv"
+    if not f.exists():
+        return None
+    p = pd.read_csv(f)
+    k = d[d.source == "kalshi"].copy()
+    k["day"] = k.ts.dt.strftime("%Y-%m-%d")
+    k = k.sort_values("ts").drop_duplicates(["event", "player"])          # first price we saw
+    rows = []
+    for r in p.itertuples():
+        c = k[(k.day >= r.date)]
+        c = c[[same(r.pick, a) and same(r.opp, b) for a, b in zip(c.player, c.opp)]]
+        if c.empty:
+            continue
+        x = c.iloc[0]
+        w = win.get(x.event)
+        if w is None:
+            continue
+        mkt = x.pin_fair if x.pin_fair == x.pin_fair else (x.bid + x.ask) / 2
+        rows.append({"won": float(same(w, r.pick)), "mkt": mkt, "cost": x.cost})
+    if not rows:
+        return pd.DataFrame()
+    g = pd.DataFrame(rows)
+    pnl = np.where(g.won == 1, 1 / g.cost - 1, -1.0)
+    return pd.DataFrame([{"graded_picks": len(g), "pick_won_%": 100 * g.won.mean(),
+                          "market_said_%": 100 * g.mkt.mean(), "roi_at_kalshi_%": 100 * pnl.mean(),
+                          "roi_se_%": 100 * pnl.std() / np.sqrt(len(g)) if len(g) > 1 else np.nan,
+                          "logged_picks": len(p)}])
+
+
 def main():
     d = load()
     win = settled(d.ts.min().timestamp() - 86400)
@@ -131,6 +162,10 @@ def main():
         cols = ["ts", "source", "player", "opp", "cost", "pin_fair", "close", "clv", "won"]
         dd = detail[cols].copy(); dd["ts"] = dd.ts.dt.tz_convert("America/Denver").dt.strftime("%b %-d %-I:%M%p")
         lines += ["## Price flags (most recent 25)", "", dd.tail(25).round(3).to_markdown(index=False), ""]
+    tg = tonic_grade(d, win)
+    if tg is not None:
+        lines += ["## Tennis Tonic picks (graded vs Kalshi price; edge only if pick_won_% beats market_said_%)", "",
+                  tg.round(2).to_markdown(index=False) if len(tg) else "No graded picks yet.", ""]
     arbs = arb_summary()
     if len(arbs):
         lines += ["## Kalshi + Polymarket arbitrage check (best combo per match, all-in)", "",

@@ -67,12 +67,14 @@ def main():
         warns = [w for w in [r.warn if isinstance(r.warn, str) else "",
                              f"Pinnacle moved {move * 100:+.0f}c on this side since {hist.ts.iloc[0][11:16]}Z (market may know something)"
                              if move <= -0.04 else ""] if w]
+        agree = "model agrees" if r.model_edge == r.model_edge and r.model_edge >= 0.02 else "model doesn't agree"
         lines.append(f"- **{r.player} to win** vs {r.opp} | **{r.source.upper()} @ {r.ask:.2f}** | "
                      f"**paper size: {shares} shares (~${shares * r.ask:.2f})** | start {st}  \n"
-                     f"  all-in {r.cost:.3f} · Pinnacle fair {r.pin_fair:.3f} · model {r.p_model:.3f}")
+                     f"  all-in {r.cost:.3f} · Pinnacle fair {r.pin_fair:.3f} · edge {100 * r.price_edge:.1f}c · "
+                     f"model {r.p_model:.3f} ({agree}, info only)")
         for w in warns:
             lines.append(f"  ⚠️ {w}. Check official ATP/WTA news before logging it.")
-    lines += ["", f"Price edge = Pinnacle fair − all-in cost; model edge = model − all-in cost; both ≥ 2¢. "
+    lines += ["", f"Flag = Pinnacle fair − all-in cost ≥ 2¢ (price only; model is info). "
                   f"Snapshot {d.ts.max()[:16]}Z. Prices may have moved since."]
     print("\n".join(lines + ([""] + extra if extra else [])))
     pd.concat([seen, new[["key", "player", "source"]]]).to_csv(SEEN, index=False)

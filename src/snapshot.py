@@ -7,8 +7,10 @@ Edge math (per side, buying 1 contract that pays $1):
   all-in cost   = ask + taker fee  (Kalshi 0.07*p*(1-p), Polymarket 0.05*p*(1-p))
   price edge    = Pinnacle no-vig prob - all-in cost       (is the price good?)
   model edge    = our model prob     - all-in cost         (is it our read too?)
-  FLAG only when both clear MIN_EDGE (the "own read AND good price" rule). Sub-2c gaps are
-  inside the noise of de-vigging Pinnacle and of quote timing, so they don't count.
+  FLAG when price edge >= MIN_EDGE (decided 2026-11-03: price only). Phase 1 backtests showed the
+  model adds nothing beyond the market (moneylines, Challengers, underdogs, totals, spreads), so it's
+  shown on alerts as info and the scorecard grades "price + model agree" as a separate group.
+  Sub-2c gaps are inside the noise of de-vigging Pinnacle and of quote timing, so they don't count.
 """
 import json
 import os
@@ -27,8 +29,8 @@ ROOT = Path(__file__).resolve().parents[1]
 SNAP = ROOT / "data" / "snapshots"
 _kf = ROOT / "secrets" / "odds_api_key"
 KEY = os.environ.get("ODDS_API_KEY") or (_kf.read_text().strip() if _kf.exists() else "")
-# Free tier = 500 credits/month, so Pinnacle is only pulled every 4h (UTC hours 0,4,8,...)
-# unless forced; Kalshi/Polymarket are free and pulled every run.
+# Free tier = 500 credits/month: Pinnacle pulls are budgeted by pinnacle_due() (every 2/4/8h depending
+# on credits left); Kalshi/Polymarket are free and pulled every run.
 USE_PINNACLE = os.environ.get("PINNACLE", "auto")
 KALSHI = "https://api.elections.kalshi.com/trade-api/v2"
 GAMMA = "https://gamma-api.polymarket.com"
@@ -106,11 +108,27 @@ def surface_for(text):
 
 
 # ------------------------------------------------------------------ sources
+def pinnacle_due(remaining, cost, t):
+    """Spend the free 500 credits/month evenly. Each pull costs 1 credit per active tennis event.
+    Pull every 2h if the budget allows ~12 pulls/day, else every 4h, else every 8h."""
+    import calendar
+    days_left = calendar.monthrange(t.year, t.month)[1] - t.day + 1
+    per_day = remaining / max(days_left, 1) / max(cost, 1)
+    every = 2 if per_day >= 12 else 4 if per_day >= 6 else 8
+    return t.hour % every == 0, every
+
+
 def pinnacle():
-    if not KEY or USE_PINNACLE == "0" or (USE_PINNACLE == "auto" and now().hour % 4 != 0):
+    if not KEY or USE_PINNACLE == "0":
         return [], None
-    sports = requests.get("https://api.the-odds-api.com/v4/sports", params={"apiKey": KEY}, timeout=30).json()
+    r0 = requests.get("https://api.the-odds-api.com/v4/sports", params={"apiKey": KEY}, timeout=30)  # free call
+    sports, remaining = r0.json(), int(r0.headers.get("x-requests-remaining", 0) or 0)
     keys = [s["key"] for s in sports if s["key"].startswith("tennis_") and s["active"]]
+    if USE_PINNACLE == "auto":
+        due, every = pinnacle_due(remaining, len(keys), now())
+        print(f"pinnacle: {remaining} credits left, {len(keys)} events -> pulling every {every}h; due now: {due}")
+        if not due:
+            return [], remaining
     rows, remaining = [], None
     for k in keys:
         r = requests.get(f"https://api.the-odds-api.com/v4/sports/{k}/odds", timeout=30,
@@ -242,7 +260,7 @@ def build(model=True):
         df = pd.concat([df.reset_index(drop=True), pd.DataFrame(probs)], axis=1)
         df["model_edge"] = df.p_model - df.cost
     df["price_edge"] = df.pin_fair - df.cost
-    df["flag"] = (df.price_edge >= MIN_EDGE) & (df.get("model_edge", 0) >= MIN_EDGE)
+    df["flag"] = df.price_edge >= MIN_EDGE
     # injury/withdrawal signals on the side we'd back -> keep the flag but attach a warning.
     # (Results data only: retirements/walkovers in the last 45 days, or 45+ days since last match.)
     if "recent_quit" in df:

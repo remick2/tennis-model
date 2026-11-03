@@ -108,6 +108,8 @@ def _final_skills(stream, lr=0.12, lr_surf=0.1):
 
 
 def load(rebuild=False):
+    """Cached ratings. CI restores the cache once per day (actions/cache key includes the date),
+    so ratings pick up new results daily without rebuilding every run (~60s)."""
     if CACHE.exists() and not rebuild:
         return pickle.load(open(CACHE, "rb"))
     out = {t: Ratings(t) for t in ("atp", "wta")}

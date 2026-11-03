@@ -1,8 +1,10 @@
 name: phase2-snapshot
-# PAPER TRACKING ONLY. Hourly (GitHub drops/delays some scheduled runs): Kalshi + Polymarket + model; Pinnacle every 4h (free API budget).
+# PAPER TRACKING ONLY. Kalshi + Polymarket + model every run; Pinnacle budgeted by credits left.
+# Schedule (MST = UTC-7): hourly 6am-midnight MT, plus 3am MT overnight = 20 runs/day.
+# Kept under the 2,000 free Actions min/month for a private repo by caching ratings (runs ~1 min).
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "17 0-7,10,13-23 * * *"
   workflow_dispatch:
     inputs:
       pinnacle:
@@ -32,6 +34,12 @@ jobs:
         with:
           path: data/raw/wta
           key: sackmann-wta-${{ hashFiles('scripts/sackmann_files.txt') }}
+      - id: day
+        run: echo "d=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+      - uses: actions/cache@v4  # ratings rebuilt at most once a day (new results), ~60s saved per run
+        with:
+          path: data/ratings.pkl
+          key: ratings-${{ steps.day.outputs.d }}-${{ hashFiles('src/*.py', 'scripts/sackmann_files.txt') }}
       - run: pip install -r requirements.txt
       - run: bash scripts/fetch_data.sh
       - name: update Challenger results (Kalshi settled markets)
@@ -49,6 +57,11 @@ jobs:
           if [ -s ../alert.md ]; then
             gh issue create --title "Paper flag: $(date -u -d '-7 hours' '+%a %b %-d %-I:%M%p') MT" --body-file ../alert.md
           fi
+      - name: Tennis Tonic picks (once every 6h; honest fetch, skipped if blocked)
+        run: |
+          if [ $(( $(date -u +%H) % 6 )) -eq 1 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            cd src && python -W ignore tonic.py || echo "tonic failed"
+          fi
       - name: scorecard (grade past prices vs Pinnacle close + results)
         run: cd src && python -W ignore scorecard.py > /dev/null || echo "scorecard failed"
       - name: commit snapshot
@@ -61,5 +74,6 @@ jobs:
           if [ -f data/notified_arbs.csv ]; then git add data/notified_arbs.csv; fi
           if [ -f data/notified.csv ]; then git add data/notified.csv; fi
           if [ -f data/scorecard.md ]; then git add data/scorecard.md; fi
+          if [ -d data/tonic ]; then git add data/tonic; fi
           git diff --cached --quiet || git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase -q && git push
