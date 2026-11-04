@@ -7,8 +7,11 @@ git pull --rebase -q || true                          # pick up consensus/check-
 find data/ratings.pkl -mmin +1440 -delete 2>/dev/null  # rebuild ratings once a day (new results)
 
 (cd src && python -W ignore kalshi_results.py | tail -3) || echo "results update failed; using last file"
-(cd src && set -o pipefail && python -W ignore snapshot.py | tail -60)
+(cd src && set -o pipefail && python -W ignore snapshot.py > ../snapshot.log 2>&1)
 snap=$?
+tail -60 snapshot.log
+grep -E '^(pinnacle:|odds-api credits left)' snapshot.log || true  # credit lines can fall outside the tail
+rm -f snapshot.log
 (cd src && python notify.py > ../alert.md) || echo "notify failed"
 if [ -s alert.md ]; then
   gh issue create --title "Paper flag: $(date -u -d '-7 hours' '+%a %b %-d %-I:%M%p') MT" --body-file alert.md
