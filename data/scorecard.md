@@ -1,6 +1,6 @@
-# Phase 2 scorecard  (Tue Nov 3 7:17PM MT)
+# Phase 2 scorecard  (Tue Nov 3 8:17PM MT)
 
-Snapshots: 14 runs, Nov 3 to Nov 4 02:17Z. Phase 3 gate: price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
+Snapshots: 15 runs, Nov 3 to Nov 4 03:17Z. Phase 3 gate: price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
 
 | group                         |   sides |   avg_price_edge_c |   with_close |   avg_clv_c |   clv_se_c |   beat_close_% |   settled |   won |   roi_% |   roi_se_% |
 |:------------------------------|--------:|-------------------:|-------------:|------------:|-----------:|---------------:|----------:|------:|--------:|-----------:|
@@ -12,11 +12,11 @@ Snapshots: 14 runs, Nov 3 to Nov 4 02:17Z. Phase 3 gate: price flags beat the cl
 
 |   graded_picks |   pick_won_% |   market_said_% |   roi_at_kalshi_% |   roi_se_% |   logged_picks |
 |---------------:|-------------:|----------------:|------------------:|-----------:|---------------:|
-|             61 |        72.13 |            66.7 |              1.39 |       8.69 |            152 |
+|             62 |        70.97 |           66.75 |             -0.24 |        8.7 |            162 |
 
 ## Kalshi + Polymarket arbitrage check (best combo per match, all-in)
 
 | day        |   runs |   best_total |   under_1 |   under_1_005 |
 |:-----------|-------:|-------------:|----------:|--------------:|
 | 2026-11-03 |      4 |       1.0014 |         0 |             4 |
-| 2026-11-04 |      4 |       0.9769 |         2 |             6 |
+| 2026-11-04 |      5 |       0.9769 |         2 |             6 |
