@@ -1,11 +1,11 @@
-# Consensus paper tracker — Wed Nov 4, 8:40AM MT
+# Consensus paper tracker — Wed Nov 4, 9:40AM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Track only | all 15 | 1-2 | -1.54 | 2-3 | -2.57 | 4 |
+| Track only | all 15 | 1-2 | -1.54 | 2-3 | -2.57 | 5 |
 | Split | all 15 | 0-0 | +0.00 | 1-1 | -0.52 | 2 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 0-1 | -1.00 | 1-2 | -1.66 | 2 |
@@ -23,3 +23,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-04 | NBA | Cavaliers vs. Thunder | Under (Total) | Split | pre-game | ic4cream; Multicoloured-Serf | monkeymashingkeyboard | 51.0c |
 | 2026-11-04 | NBA | Cavaliers vs. Thunder | Thunder (Moneyline) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 58.5c |
 | 2026-11-04 | CFB | Ball State vs. UMass | Ball State (Spread) | Track only | pre-game | ic4cream; Multicoloured-Serf | — | 54.5c |
+| 2026-11-04 | UCL | FC Porto vs. SSC Napoli | No (Moneyline) | Track only | pre-game | 0xb4F978BE; Multicoloured-Serf | — | 49.5c |
