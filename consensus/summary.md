@@ -1,14 +1,14 @@
-# Consensus paper tracker — Tue Nov 3, 6:40PM MT
+# Consensus paper tracker — Tue Nov 3, 7:40PM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Record | Units | Open |
 |---|---|---|---|---|
 | Paper play | all 15 | 0-0 | +0.00 | 0 |
-| Track only | all 15 | 0-1 | -1.00 | 2 |
+| Track only | all 15 | 0-1 | -1.00 | 4 |
 | Split | all 15 | 0-0 | +0.00 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0 |
-| Track only | core 10 only | 0-0 | +0.00 | 2 |
+| Track only | core 10 only | 0-0 | +0.00 | 3 |
 | Split | core 10 only | 0-0 | +0.00 | 0 |
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side.
@@ -22,3 +22,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-08 | NFL | Bengals vs. Falcons | Over (Total) | Split | ic4cream; scootergene | monkeymashingkeyboard | 50.5c |
 | 2026-11-03 | CFB | Ohio vs. Akron | Under (Total) | Split | 0x9f15613e; Multicoloured-Serf | 0xb4F978BE | 67.5c |
 | 2026-11-03 | CFB | Ohio vs. Akron | Ohio (Moneyline) | Track only | 0xb4F978BE; ethanaz | — | 74.5c |
+| 2026-11-03 | CS2 | Counter-Strike: Liquid vs TYLOO (BO3) - IEM Beijing Group B | TYLOO (Moneyline) | Track only | jakepaulthegoat2008; drainedandpoor | — | 11.5c |
+| 2026-11-03 | CFB | Buffalo vs. Miami (OH) | Miami (OH) (Moneyline) | Track only | ethanaz; Multicoloured-Serf | — | 78.5c |
