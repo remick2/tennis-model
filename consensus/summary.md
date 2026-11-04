@@ -1,6 +1,6 @@
-# Consensus paper tracker — Tue Nov 3, 5:52PM MT
+# Consensus paper tracker — Tue Nov 3, 6:21PM MT
 
-Paper tracking only. 1 unit flat at the price when each signal was logged.
+Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Record | Units | Open |
 |---|---|---|---|---|
