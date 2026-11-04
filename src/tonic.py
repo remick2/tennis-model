@@ -68,8 +68,26 @@ def main():
     print(f"tonic: {len(d)} picks parsed, {len(allp)} logged")
 
 
+def log_compact(text, date):
+    """Picks captured in Remick's Chrome tab as 'Pick>Opp3,...' (surnames + set count; ITF excluded).
+    Surnames are enough: grading matches names by surname tokens against Kalshi markets."""
+    OUT.mkdir(parents=True, exist_ok=True)
+    rows = []
+    for item in text.replace("\n", ",").split(","):
+        m = re.match(r"^\s*(.+?)>(.+?)([23])\s*$", item)
+        if m:
+            rows.append({"date": date, "pick": m.group(1), "opp": m.group(2), "sets": int(m.group(3))})
+    f = OUT / "picks.csv"
+    old = pd.read_csv(f) if f.exists() else pd.DataFrame()
+    allp = pd.concat([old, pd.DataFrame(rows)]).drop_duplicates(["pick", "opp"], keep="first")
+    allp.to_csv(f, index=False)
+    print(f"tonic: {len(rows)} picks read, {len(allp)} logged total")
+
+
 if __name__ == "__main__":
-    if len(sys.argv) > 1:  # parse a saved page text: python tonic.py page.txt
+    if len(sys.argv) > 2 and sys.argv[1] == "--compact":  # python tonic.py --compact DATE file
+        log_compact(Path(sys.argv[3]).read_text(), sys.argv[2])
+    elif len(sys.argv) > 1:  # parse a saved page text: python tonic.py page.txt
         print(parse(Path(sys.argv[1]).read_text()).to_string())
     else:
         main()

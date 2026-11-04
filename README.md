@@ -16,7 +16,7 @@ Tennis model + Phase 2 paper tracking. **No real bets until Phase 2 beats the cl
 - **Daily check-in**: a scheduled Claude session around 8pm MT checks runs, fixes breakages, and posts a short GitHub issue summary.
 - **Fullstar withdrawals**: Mondays and Fridays only, 8am–6pm ET (6am–4pm MT). Money on Fullstar can take up to ~4 days to reach Kalshi, so the Phase 3 bankroll split has to be set ahead of time; it can't move to wherever an edge shows up that day.
 - **Fullstar**: manual only. It needs Remick's logged-in browser. He says "check fullstar" when he's on, best in the evening when new lines post.
-- **Tennis Tonic**: tested; picks have no probabilities or track record, and they load via JavaScript, so automated logging is off (`src/tonic.py` kept, workflow step disabled).
+- **Tennis Tonic**: picks (winner + set count, no probabilities) load via JavaScript, so the automatic fetch is off. Instead Claude reads them from Remick's Chrome tab whenever it's in the tab group (with Fullstar checks or "log tonic"), surnames only, ITF excluded (not on Kalshi) → `data/tonic/picks.csv`. The scorecard grades pick win rate vs Kalshi's price; it only matters if it beats the market over a few hundred picks.
 
 ## Phase 1 results: the model does not beat the market
 | Test | Sample | Result |
