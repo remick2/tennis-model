@@ -3399,6 +3399,8 @@ KXATPCHALLENGERMATCH-26NOV03ESTTAB,atp,2026-11-03,ATP Challenger Villa Maria,Rou
 KXATPCHALLENGERMATCH-26NOV03FENBLA,atp,2026-11-03,ATP Challenger Charlottesville,Round Of 32,Darwin Blanch,Andrew Fenty
 KXATPCHALLENGERMATCH-26NOV03GADBAS,atp,2026-11-03,ATP Challenger Taranto,Round Of 32,Buvaysar Gadamauri,Pierluigi Basile
 KXATPCHALLENGERMATCH-26NOV03GAGNIJ,atp,2026-11-03,ATP Challenger Villa Maria,Round Of 32,Ryan Nijboer,Lorenzo Gagliardo
+KXATPCHALLENGERMATCH-26NOV03GALBUE,atp,2026-11-03,ATP Challenger Costa do Sauipe,Round Of 32,Gonzalo Bueno,Daniel Elahi Galan
+KXATPCHALLENGERMATCH-26NOV03GALMIL,atp,2026-11-03,ATP Challenger Charlottesville,Round Of 32,Daniel Milavsky,Alexis Galarneau
 KXATPCHALLENGERMATCH-26NOV03GIRDIE,atp,2026-11-03,ATP Challenger Charlottesville,Round Of 32,Marcos Giron,Dylan Dietrich
 KXATPCHALLENGERMATCH-26NOV03GRAROY,atp,2026-11-03,ATP Challenger Charlottesville,Round Of 32,Alastair Gray,Valentin Royer
 KXATPCHALLENGERMATCH-26NOV03GRIOLI,atp,2026-11-03,ATP Challenger Villa Maria,Round Of 32,Genaro Alberto Olivieri,Valentino Grippo
@@ -3411,13 +3413,17 @@ KXATPCHALLENGERMATCH-26NOV03MAGABO,atp,2026-11-03,ATP Challenger Villa Maria,Rou
 KXATPCHALLENGERMATCH-26NOV03MARMON,atp,2026-11-03,ATP Challenger Taranto,Round Of 32,Matteo Martineau,Inaki Montes-de la Torre
 KXATPCHALLENGERMATCH-26NOV03MAYNES,atp,2026-11-03,ATP Challenger Charlottesville,Round Of 32,Aidan Mayo,Pyotr Nesterov
 KXATPCHALLENGERMATCH-26NOV03MCCSAM,atp,2026-11-03,ATP Challenger Taipei,Round Of 32,Kasidit Samrej,James McCabe
+KXATPCHALLENGERMATCH-26NOV03MIGMAR,atp,2026-11-03,ATP Challenger Costa do Sauipe,Round Of 32,Igor Marcondes,Luis Felipe Miguel
 KXATPCHALLENGERMATCH-26NOV03MISVAR,atp,2026-11-03,ATP Challenger Costa do Sauipe,Round Of 32,Filip Misolic,Juan Pablo Varillas
 KXATPCHALLENGERMATCH-26NOV03MOCBUD,atp,2026-11-03,ATP Challenger Bratislava II,Round Of 32,Nicolai Budkov Kjaer,Shintaro Mochizuki
 KXATPCHALLENGERMATCH-26NOV03MONSTO,atp,2026-11-03,ATP Challenger Costa do Sauipe,Round Of 32,Thiago Monteiro,Leonardo Storck Franca
 KXATPCHALLENGERMATCH-26NOV03MPEKRU,atp,2026-11-03,ATP Challenger Bratislava II,Round Of 32,Giovanni Mpetshi Perricard,Martin Krumich
 KXATPCHALLENGERMATCH-26NOV03MRVRIB,atp,2026-11-03,ATP Challenger Taranto,Round Of 32,Maxim Mrva,Michele Ribecai
 KXATPCHALLENGERMATCH-26NOV03NAGKRA,atp,2026-11-03,ATP Challenger Taranto,Round Of 32,Sumit Nagal,Georgii Kravchenko
+KXATPCHALLENGERMATCH-26NOV03PAGDEV,atp,2026-11-03,ATP Challenger Villa Maria,Round Of 32,Murkel Dellien,Dante Pagani
 KXATPCHALLENGERMATCH-26NOV03POLSHI,atp,2026-11-03,ATP Challenger Taipei,Round Of 32,Sho Shimabukuro,Mili Poljicak
+KXATPCHALLENGERMATCH-26NOV03REHSVA,atp,2026-11-03,ATP Challenger Charlottesville,Round Of 32,Max Hans Rehberg,Trevor Svajda
+KXATPCHALLENGERMATCH-26NOV03REIROD,atp,2026-11-03,ATP Challenger Costa do Sauipe,Round Of 32,Joao Lucas Reis Da Silva,Santiago Rodriguez Taverna
 KXATPCHALLENGERMATCH-26NOV03RIBMIG,atp,2026-11-03,ATP Challenger Costa do Sauipe,Round Of 32,Eduardo Ribeiro,Luis Guto Miguel
 KXATPCHALLENGERMATCH-26NOV03ROCGAL,atp,2026-11-03,ATP Challenger Villa Maria,Round Of 32,Oriol Roca Batalla,Juan Ignacio Gallego
 KXATPCHALLENGERMATCH-26NOV03RODAGU,atp,2026-11-03,ATP Challenger Villa Maria,Round Of 32,Federico Aguilar Cardozo,Lorenzo Joaquin Rodriguez
@@ -3427,11 +3433,14 @@ KXATPCHALLENGERMATCH-26NOV03SVRGOM,atp,2026-11-03,ATP Challenger Bratislava II,R
 KXATPCHALLENGERMATCH-26NOV03TOSRON,atp,2026-11-03,ATP Challenger Costa do Sauipe,Round Of 32,Franco Roncadelli,Rafael Tosetto
 KXATPCHALLENGERMATCH-26NOV03TUNHOU,atp,2026-11-03,ATP Challenger Taipei,Round Of 32,Chun-Chien Hou,Tung-Lin Wu
 KXATPCHALLENGERMATCH-26NOV03VASGUE,atp,2026-11-03,ATP Challenger Bratislava II,Round Of 32,Sascha Gueymard Wayenburg,Eero Vasa
+KXATPCHALLENGERMATCH-26NOV03WENAND,atp,2026-11-03,ATP Challenger Charlottesville,Round Of 32,Andres Andrade,Harry Wendelken
 KXATPCHALLENGERMATCH-26NOV03WONHUA,atp,2026-11-03,ATP Challenger Taipei,Round Of 32,Coleman Wong,Tsung-Hao Huang
 KXWTACHALLENGERMATCH-26NOV03BLIHED,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Anna Blinkova,Farah Heddar
 KXWTACHALLENGERMATCH-26NOV03BOESAW,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Madhurima Sawant,Laura Boehner
 KXWTACHALLENGERMATCH-26NOV03CARPAP,wta,2026-11-03,WTA 125K Cali,Round Of 32,Despina Papamichail,Maria Carle
+KXWTACHALLENGERMATCH-26NOV03COSBAS,wta,2026-11-03,WTA 125K Cali,Round Of 32,Marina Bassols Ribera,Sofia Costoulas
 KXWTACHALLENGERMATCH-26NOV03FEIKLI,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Gina Feistel,Linda Klimovicova
+KXWTACHALLENGERMATCH-26NOV03GRAPIG,wta,2026-11-03,WTA 125K Cali,Round Of 32,Julia Grabher,Laura Pigossi
 KXWTACHALLENGERMATCH-26NOV03IBRZAY,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Ksenia Zaytseva,Jian Ibrahim
 KXWTACHALLENGERMATCH-26NOV03KALBUR,wta,2026-11-03,WTA 125K Cali,Round Of 32,Irene Burillo Escorihuela,Elvina Kalieva
 KXWTACHALLENGERMATCH-26NOV03LANOKU,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Sofya Lansere,Angella Okutoyi
@@ -3445,3 +3454,6 @@ KXWTACHALLENGERMATCH-26NOV03SUVKUB,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Ma
 KXWTACHALLENGERMATCH-26NOV03SZINAH,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Franziska Sziedat,Sada Nahimana
 KXWTACHALLENGERMATCH-26NOV03ZIDAND,wta,2026-11-03,WTA 125K Cali,Round Of 32,Bianca Andreescu,Tamara Zidansek
 KXWTACHALLENGERMATCH-26NOV03ZONSAN,wta,2026-11-03,WTA 125K Luanda,Round Of 32,Zongyu Li,Ana Sofia Sanchez
+KXATPCHALLENGERMATCH-26NOV03DIAPDA,atp,2026-11-04,ATP Challenger Costa do Sauipe,Round Of 32,Facundo Diaz Acosta,Matheus Pucinelli de Almeida
+KXATPCHALLENGERMATCH-26NOV03TROZHE,atp,2026-11-04,ATP Challenger Charlottesville,Round Of 32,James Kent Trotter,Michael Zheng
+KXWTACHALLENGERMATCH-26NOV03MEDRIE,wta,2026-11-04,WTA 125K Cali,Round Of 32,Julia Riera,Valentina Mediorreal Arias
