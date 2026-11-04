@@ -206,7 +206,12 @@ if __name__ == "__main__":
         frames.append(parse(Path(f).read_text(), tour))
     fs = pd.concat(frames, ignore_index=True)
     snaps = sorted((ROOT / "data" / "snapshots").glob("20*.csv"))
-    snap = pd.read_csv(snaps[-1]); snap = snap[snap.ts == snap.ts.max()]
+    snap = pd.concat([pd.read_csv(f, low_memory=False) for f in snaps[-2:]])
+    snap["t"] = pd.to_datetime(snap.ts, utc=True, format="ISO8601")
+    mk = snap[(snap.t == snap.t.max()) & (snap.source != "pinnacle")]
+    pin = snap[(snap.source == "pinnacle") & (snap.t >= snap.t.max() - pd.Timedelta(hours=6))]
+    pin = pin[pin.t == pin.t.max()] if len(pin) else pin       # Pinnacle is pulled every 2-4h, not every cycle
+    snap = pd.concat([mk, pin]).drop(columns="t")
     res = compare(fs, snap)
     res.insert(0, "ts", ts)
     out = ROOT / "data" / "fullstar_log.csv"
