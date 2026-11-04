@@ -1,22 +1,22 @@
-# Phase 2 scorecard  (Tue Nov 3 6:20PM MT)
+# Phase 2 scorecard  (Tue Nov 3 7:17PM MT)
 
-Snapshots: 13 runs, Nov 3 to Nov 4 01:19Z. Phase 3 gate: price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
+Snapshots: 14 runs, Nov 3 to Nov 4 02:17Z. Phase 3 gate: price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
 
 | group                         |   sides |   avg_price_edge_c |   with_close |   avg_clv_c |   clv_se_c |   beat_close_% |   settled |   won |   roi_% |   roi_se_% |
 |:------------------------------|--------:|-------------------:|-------------:|------------:|-----------:|---------------:|----------:|------:|--------:|-----------:|
 | price flag (price edge >= 2c) |       0 |             nan    |          nan |      nan    |     nan    |         nan    |       nan |   nan |  nan    |      nan   |
 | model+price flag (alert rule) |       0 |             nan    |          nan |      nan    |     nan    |         nan    |       nan |   nan |  nan    |      nan   |
-| all sides (baseline)          |      99 |              -1.86 |           99 |       -1.86 |       0.12 |           9.09 |        47 |    23 |   -4.45 |       15.3 |
+| all sides (baseline)          |     103 |              -1.86 |          103 |       -1.86 |       0.12 |           7.77 |        47 |    23 |   -4.45 |       15.3 |
 
 ## Tennis Tonic picks (graded vs Kalshi price; edge only if pick_won_% beats market_said_%)
 
 |   graded_picks |   pick_won_% |   market_said_% |   roi_at_kalshi_% |   roi_se_% |   logged_picks |
 |---------------:|-------------:|----------------:|------------------:|-----------:|---------------:|
-|             58 |        70.69 |           66.47 |             -0.49 |       9.06 |            152 |
+|             61 |        72.13 |            66.7 |              1.39 |       8.69 |            152 |
 
 ## Kalshi + Polymarket arbitrage check (best combo per match, all-in)
 
 | day        |   runs |   best_total |   under_1 |   under_1_005 |
 |:-----------|-------:|-------------:|----------:|--------------:|
 | 2026-11-03 |      4 |       1.0014 |         0 |             4 |
-| 2026-11-04 |      3 |       0.9769 |         2 |             5 |
+| 2026-11-04 |      4 |       0.9769 |         2 |             6 |
