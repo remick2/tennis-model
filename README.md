@@ -35,6 +35,9 @@ Any edge has to come from **prices**: Kalshi/Polymarket gaps vs Pinnacle, Kalshi
 3. `notify.py`: new price flags and true arbs → GitHub issue (phone notification)
 4. `scorecard.py`: CLV + results for flags and baseline, arbitrage near-misses → `data/scorecard.md`
 
+## Side project: Polymarket copy-consensus tracker (`consensus/`, Nov 3–10 2026)
+Paper tracking only, separate from the tennis model. `.github/workflows/consensus.yml` runs 4×/day (8:40am, 12:40pm, 4:40pm, 7:40pm MT). Each run pulls the open positions of 15 profitable Polymarket sports traders, logs games where 2+ hold $1k+ on the same side to `consensus/signals.csv`, grades finished ones, and rewrites `consensus/summary.md`. A **paper play** (3+ agree, nobody in the 15 against, game not started) opens a GitHub issue. The 2-agree version lost money in the Oct 27–Nov 3 backtest, so it's logged for comparison only. After Nov 10 it stops scanning, keeps grading, and opens one final-record issue.
+
 ## Manual tools
 - `fullstar.py`: parse Fullstar page text, compare to Pinnacle/Kalshi, size paper bets → `data/fullstar_log.csv`
 - Backtests: `backtest.py`, `challenger_backtest.py`, `totals_backtest.py`, `spread_backtest.py`

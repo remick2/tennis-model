@@ -1,0 +1,47 @@
+name: consensus-tracker
+# Polymarket copy-consensus PAPER TRACKING (consensus/). Separate from the tennis snapshot.
+# 4 runs/day at :40 past 8am, 12pm, 4pm, 7pm MT (MST = UTC-7). Runs take well under a minute,
+# so this adds ~120 Actions minutes a month on top of the tennis workflow.
+on:
+  schedule:
+    - cron: "40 2,15,19,23 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: consensus
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: scan, log and grade
+        run: python consensus/consensus.py > alert.md
+      - name: alert (opens a GitHub issue -> email/phone notification)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -s alert.md ]; then
+            if grep -q "PAPER PLAY" alert.md; then
+              title="Consensus paper play: $(date -u -d '-7 hours' '+%a %b %-d %-I:%M%p') MT"
+            else
+              title="Consensus tracker: final week record"
+            fi
+            gh issue create --title "$title" --body-file alert.md
+          fi
+      - name: commit log
+        if: always()
+        run: |
+          git config user.name "consensus-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add consensus/signals.csv consensus/summary.md
+          if [ -f consensus/.final_sent ]; then git add consensus/.final_sent; fi
+          git diff --cached --quiet || git commit -m "consensus $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase -q && git push
