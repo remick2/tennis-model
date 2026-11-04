@@ -125,12 +125,23 @@ def scan(now):
                     and float(p.get("total_cost_usdc") or 0) >= MIN_STAKE):
                 continue
             g = games.setdefault((slug, side_group(p)), {})
-            s = g.setdefault(p["outcome"], {"who": set(), "cost": 0.0, "size": 0.0, "best": None})
-            s["who"].add(name)
-            s["cost"] += float(p["total_cost_usdc"])
-            s["size"] += float(p.get("current_size") or 0)
+            s = g.setdefault(p["outcome"], {"who": {}, "size": {}, "best": None})
+            s["who"][name] = s["who"].get(name, 0.0) + float(p["total_cost_usdc"])
+            s["size"][name] = s["size"].get(name, 0.0) + float(p.get("current_size") or 0)
             if s["best"] is None or p["total_cost_usdc"] > s["best"]["total_cost_usdc"]:
                 s["best"] = p
+    # A trader counts only on the side holding 75%+ of their money on that game; hedgers count nowhere.
+    for sides in games.values():
+        for name in {n for s in sides.values() for n in s["who"]}:
+            stakes = {o: s["who"].get(name, 0.0) for o, s in sides.items()}
+            top = max(stakes, key=stakes.get)
+            for o, s in sides.items():
+                if name in s["who"] and (o != top or stakes[top] < 0.75 * sum(stakes.values())):
+                    s["who"].pop(name)
+                    s["size"].pop(name, None)
+    for sides in games.values():
+        for s in sides.values():
+            s["cost"], s["shares"] = sum(s["who"].values()), sum(s["size"].values())
     found = []
     for (slug, _), sides in games.items():
         for outcome, s in sides.items():
@@ -143,7 +154,7 @@ def scan(now):
                 "event_slug": slug, "title": b["title"], "side": outcome, "agree": agree, "against": against,
                 "condition_id": b["condition_id"], "outcome_index": int(b["outcome_index"]),
                 "price": round(float(b["current_price"]), 4),
-                "entry": round(s["cost"] / s["size"], 3) if s["size"] else None,
+                "entry": round(s["cost"] / s["shares"], 3) if s["shares"] else None,
             })
     return found, failed
 
