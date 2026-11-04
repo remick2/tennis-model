@@ -292,31 +292,41 @@ def core10_tier(r):
     return tier(len(agree), len(against))
 
 
+def in_play(r):
+    """True if the game had already started when the signal was first logged (not bettable pre-game)."""
+    return "in progress when logged" in (r.get("note") or "")
+
+
 def record_table(rows):
-    lines = ["| Rule | Group | Record | Units | Open |", "|---|---|---|---|---|"]
-    for t in ("Paper play", "Track only", "Split"):
-        rec, u, o = record([r for r in rows if r["tier"] == t])
-        lines.append(f"| {t} | all 15 | {rec} | {u} | {o} |")
-    for t in ("Paper play", "Track only", "Split"):
-        rec, u, o = record([r for r in rows if core10_tier(r) == t])
-        lines.append(f"| {t} | core 10 only | {rec} | {u} | {o} |")
+    """One row per rule and group, with pre-game (bettable) and in-play results side by side."""
+    lines = ["| Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |",
+             "|---|---|---|---|---|---|---|"]
+    for group, pick in (("all 15", lambda r, t: r["tier"] == t), ("core 10 only", lambda r, t: core10_tier(r) == t)):
+        for t in ("Paper play", "Track only", "Split"):
+            sel = [r for r in rows if pick(r, t)]
+            pre_rec, pre_u, pre_o = record([r for r in sel if not in_play(r)])
+            live_rec, live_u, live_o = record([r for r in sel if in_play(r)])
+            lines.append(f"| {t} | {group} | {pre_rec} | {pre_u} | {live_rec} | {live_u} | {pre_o + live_o} |")
     return lines
 
 
 RULES = ("Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. "
-         "Split = 2+ agree but someone in the group is on the other side.")
+         "Split = 2+ agree but someone in the group is on the other side. "
+         "Pre-game = logged before the game started (what you could actually bet off an alert); "
+         "in-play = the agreement only showed up after the start, graded at the live price when logged.")
 
 
 def write_summary(rows, now):
     lines = [f"# Consensus paper tracker — {now.astimezone(MT):%a %b %-d, %-I:%M%p} MT", "",
              f"Paper tracking only, since {START_DATE}. 1 unit flat at the price when each signal was logged.",
              "", *record_table(rows), "", RULES, "",
-             "## Open signals", "", "| Date | League | Game | Side | Rule | Agree | Against | Logged at |",
-             "|---|---|---|---|---|---|---|---|"]
+             "## Open signals", "", "| Date | League | Game | Side | Rule | Timing | Agree | Against | Logged at |",
+             "|---|---|---|---|---|---|---|---|---|"]
     for r in rows:
         if r["status"] == "open":
             lines.append(f"| {r['game_date']} | {r['league']} | {r['game']} | {r['side']} ({r['market']}) | "
-                         f"{r['tier']} | {r['agree']} | {r['against'] or '—'} | {float(r['price_at_log']) * 100:.1f}c |")
+                         f"{r['tier']} | {'in-play' if in_play(r) else 'pre-game'} | {r['agree']} | "
+                         f"{r['against'] or '—'} | {float(r['price_at_log']) * 100:.1f}c |")
     SUMMARY.write_text("\n".join(lines) + "\n")
 
 
