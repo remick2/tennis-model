@@ -1,12 +1,12 @@
-# Phase 2 scorecard  (Wed Nov 4 2:17AM MT)
+# Phase 2 scorecard  (Wed Nov 4 3:17AM MT)
 
-Snapshots: 22 runs, Nov 3 to Nov 4 09:17Z. Phase 3 gate: price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
+Snapshots: 23 runs, Nov 3 to Nov 4 10:17Z. Phase 3 gate: price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
 
 | group                         |   sides |   avg_price_edge_c |   with_close |   avg_clv_c |   clv_se_c |   beat_close_% |   settled |   won |   roi_% |   roi_se_% |
 |:------------------------------|--------:|-------------------:|-------------:|------------:|-----------:|---------------:|----------:|------:|--------:|-----------:|
 | price flag (price edge >= 2c) |       0 |             nan    |          nan |      nan    |     nan    |         nan    |       nan |   nan |  nan    |      nan   |
 | model+price flag (alert rule) |       0 |             nan    |          nan |      nan    |     nan    |         nan    |       nan |   nan |  nan    |      nan   |
-| all sides (baseline)          |     111 |              -1.86 |          111 |       -1.85 |       0.12 |           9.91 |        47 |    23 |   -4.45 |       15.3 |
+| all sides (baseline)          |     111 |              -1.86 |          111 |       -1.85 |       0.13 |           9.91 |        47 |    23 |   -4.45 |       15.3 |
 
 ## Tennis Tonic picks (graded vs Kalshi price; edge only if pick_won_% beats market_said_%)
 
@@ -19,4 +19,4 @@ Snapshots: 22 runs, Nov 3 to Nov 4 09:17Z. Phase 3 gate: price flags beat the cl
 | day        |   runs |   best_total |   under_1 |   under_1_005 |
 |:-----------|-------:|-------------:|----------:|--------------:|
 | 2026-11-03 |      4 |       1.0014 |         0 |             4 |
-| 2026-11-04 |     12 |       0.9769 |         3 |             7 |
+| 2026-11-04 |     13 |       0.9769 |         3 |             7 |
