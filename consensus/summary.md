@@ -1,4 +1,4 @@
-# Consensus paper tracker — Tue Nov 3, 5:51PM MT
+# Consensus paper tracker — Tue Nov 3, 5:52PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -6,7 +6,7 @@ Paper tracking only. 1 unit flat at the price when each signal was logged.
 |---|---|---|---|---|
 | Paper play | all 15 | 0-0 | +0.00 | 0 |
 | Track only | all 15 | 0-0 | +0.00 | 2 |
-| Split | all 15 | 0-0 | +0.00 | 5 |
+| Split | all 15 | 0-0 | +0.00 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 1 |
 | Split | core 10 only | 0-0 | +0.00 | 0 |
@@ -22,5 +22,3 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-03 | LoL | Top Esports vs. Invictus Gaming (Bo5) | Top Esports (Moneyline) | Split | jakepaulthegoat2008; drainedandpoor | darkumbreon88 | 44.5c |
 | 2026-11-08 | NFL | Bengals vs. Falcons | Over (Total) | Split | ic4cream; scootergene | monkeymashingkeyboard | 50.5c |
 | 2026-11-03 | CFB | Ohio vs. Akron | Under (Total) | Split | 0x9f15613e; Multicoloured-Serf | 0xb4F978BE | 67.5c |
-| 2026-11-03 | CFB | Ohio vs. Akron | Ohio (Moneyline) | Split | ethanaz; Multicoloured-Serf | Multicoloured-Serf; ethanaz | 83.5c |
-| 2026-11-03 | CFB | Ohio vs. Akron | Akron (Moneyline) | Split | ethanaz; Multicoloured-Serf | Multicoloured-Serf; ethanaz | 16.5c |
