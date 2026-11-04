@@ -1,4 +1,4 @@
-# Consensus paper tracker — Wed Nov 4, 12:40PM MT
+# Consensus paper tracker — Wed Nov 4, 1:21PM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
@@ -23,7 +23,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-04 | NBA | Cavaliers vs. Thunder | Under (Total) | Split | pre-game | ic4cream; Multicoloured-Serf | monkeymashingkeyboard | 51.0c |
 | 2026-11-04 | NBA | Cavaliers vs. Thunder | Thunder (Moneyline) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 58.5c |
 | 2026-11-04 | CFB | Ball State vs. UMass | Ball State (Spread) | Track only | pre-game | ic4cream; Multicoloured-Serf | — | 54.5c |
-| 2026-11-04 | UCL | FC Porto vs. SSC Napoli | No (Moneyline) | Track only | pre-game | 0xb4F978BE; Multicoloured-Serf | — | 49.5c |
+| 2026-11-04 | UCL | FC Porto vs. SSC Napoli | FC Porto win: No (3-way) | Track only | pre-game | 0xb4F978BE; Multicoloured-Serf | — | 49.5c |
 | 2026-11-04 | NBA | Hornets vs. Nets | Under (Total) | Split | pre-game | chongchong37; Multicoloured-Serf | monkeymashingkeyboard | 51.5c |
 | 2026-11-04 | NBA | Lakers vs. Kings | Under (Total) | Track only | pre-game | monkeymashingkeyboard; ic4cream | — | 58.5c |
 | 2026-11-04 | NBA | Bucks vs. Celtics | Celtics (Spread) | Track only | pre-game | Multicoloured-Serf; darkumbreon88 | — | 47.5c |

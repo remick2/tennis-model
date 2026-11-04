@@ -1,6 +1,7 @@
 name: snapshot-watchdog
-# Restarts the tennis tracker if it's not running (e.g. a GitHub outage broke the hourly loop's handoff).
-# Cron is unreliable, so this fires every 20 min to get several chances an hour. Public repo: no cost.
+# Restarts the tennis tracker and the consensus tracker if either isn't running (e.g. a GitHub outage
+# broke an hourly loop's handoff). Cron is unreliable, so this fires every 20 min to get several
+# chances an hour. Public repo: no cost.
 on:
   schedule:
     - cron: "7,27,47 * * * *"
@@ -11,23 +12,28 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
-      - name: restart tracker if no run is active or queued
+      - name: restart trackers if no run is active or queued
         env:
           GH_TOKEN: ${{ github.token }}
           R: ${{ github.repository }}
         run: |
-          active=0
-          for s in in_progress queued pending waiting requested; do
-            n=$(gh run list -R "$R" --workflow snapshot.yml --status "$s" --json databaseId --jq length 2>/dev/null || echo 0)
-            active=$(( active + n ))
-          done
-          echo "active or queued snapshot runs: $active"
-          if [ "$active" -eq 0 ]; then
+          rc=0
+          for wf in snapshot.yml consensus.yml; do
+            active=0
+            for s in in_progress queued pending waiting requested; do
+              n=$(gh run list -R "$R" --workflow "$wf" --status "$s" --json databaseId --jq length 2>/dev/null || echo 0)
+              active=$(( active + n ))
+            done
+            echo "$wf: active or queued runs: $active"
+            [ "$active" -gt 0 ] && continue
+            args=""; [ "$wf" = snapshot.yml ] && args="-f pinnacle=auto"
+            ok=0
             for i in 1 2 3 4; do
-              gh workflow run snapshot.yml -R "$R" --ref main -f pinnacle=auto && echo "restarted tracker" && exit 0
+              gh workflow run "$wf" -R "$R" --ref main $args && echo "restarted $wf" && ok=1 && break
               sleep $(( i * 20 ))
             done
-            echo "restart failed (GitHub API down?) - next watchdog run will retry"; exit 1
-          fi
+            [ "$ok" -eq 0 ] && echo "restart of $wf failed (GitHub API down?) - next watchdog run will retry" && rc=1
+          done
+          exit $rc

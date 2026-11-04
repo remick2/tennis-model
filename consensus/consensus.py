@@ -97,6 +97,18 @@ def side_group(p):
     return "team"
 
 
+def side_label(title, outcome):
+    """Yes/No markets (soccer 3-way) need the question in the side, e.g. 'Real Madrid win: No'."""
+    if outcome not in ("Yes", "No"):
+        return outcome
+    m = re.match(r"Will (.+?) win\b", title)
+    if m:
+        return f"{m.group(1)} win: {outcome}"
+    if re.search(r"\bdraw\b", title, re.I):
+        return f"Draw: {outcome}"
+    return f"{title.rstrip('?')}: {outcome}"
+
+
 def market_label(title, outcome):
     t = title.lower()
     if outcome in ("Over", "Under"):
@@ -107,6 +119,8 @@ def market_label(title, outcome):
         return "Spread"
     if re.search(r"game \d winner|map \d winner", t):
         return "Single game"
+    if t.startswith("will "):
+        return "3-way"
     return "Moneyline"
 
 
@@ -154,7 +168,8 @@ def scan(now):
             agree = sorted(s["who"], key=list(TRADERS).index)
             b = s["best"]
             found.append({
-                "event_slug": slug, "title": b["title"], "side": outcome, "agree": agree, "against": against,
+                "event_slug": slug, "title": b["title"], "side": side_label(b["title"], outcome),
+                "agree": agree, "against": against,
                 "condition_id": b["condition_id"], "outcome_index": int(b["outcome_index"]),
                 "price": round(float(b["current_price"]), 4),
                 "entry": round(s["cost"] / s["shares"], 3) if s["shares"] else None,
