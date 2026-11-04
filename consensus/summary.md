@@ -1,14 +1,14 @@
-# Consensus paper tracker — Wed Nov 4, 3:40PM MT
+# Consensus paper tracker — Wed Nov 4, 4:40PM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| Paper play | all 15 | 0-0 | +0.00 | 0-1 | -1.00 | 1 |
-| Track only | all 15 | 2-4 | -3.45 | 2-3 | -2.57 | 7 |
-| Split | all 15 | 0-0 | +0.00 | 1-1 | -0.52 | 4 |
+| Paper play | all 15 | 0-0 | +0.00 | 0-1 | -1.00 | 2 |
+| Track only | all 15 | 2-4 | -3.45 | 2-3 | -2.57 | 6 |
+| Split | all 15 | 0-0 | +0.00 | 1-1 | -0.52 | 7 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Track only | core 10 only | 0-1 | -1.00 | 1-2 | -1.66 | 4 |
+| Track only | core 10 only | 0-1 | -1.00 | 1-2 | -1.66 | 5 |
 | Split | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
@@ -25,7 +25,10 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-04 | CFB | Ball State vs. UMass | Ball State (Spread) | Track only | pre-game | ic4cream; Multicoloured-Serf | — | 54.5c |
 | 2026-11-04 | NBA | Hornets vs. Nets | Under (Total) | Split | pre-game | chongchong37; Multicoloured-Serf | monkeymashingkeyboard | 51.5c |
 | 2026-11-04 | NBA | Lakers vs. Kings | Under (Total) | Track only | pre-game | monkeymashingkeyboard; ic4cream | — | 58.5c |
-| 2026-11-04 | NBA | Bucks vs. Celtics | Celtics (Spread) | Track only | pre-game | Multicoloured-Serf; darkumbreon88 | — | 47.5c |
+| 2026-11-04 | NBA | Bucks vs. Celtics | Celtics (Spread) | Paper play | pre-game | jakepaulthegoat2008; Multicoloured-Serf; darkumbreon88 | — | 84.5c |
 | 2026-11-08 | NFL | Cardinals vs. Seahawks | Seahawks (Moneyline) | Track only | pre-game | ic4cream; darkumbreon88 | — | 77.5c |
 | 2026-11-04 | CFB | Central Michigan vs. Eastern Michigan | Eastern Michigan (Spread) | Split | pre-game | 0x9f15613e; Multicoloured-Serf | ic4cream | 47.5c |
 | 2026-11-04 | NBA | Mavericks vs. Spurs | Spurs (Spread) | Track only | pre-game | Multicoloured-Serf; darkumbreon88 | — | 49.5c |
+| 2026-11-08 | NFL | Rams vs. Commanders | Commanders (Spread) | Split | pre-game | monkeymashingkeyboard; ic4cream | darkumbreon88 | 52.5c |
+| 2026-11-04 | NBA | Hornets vs. Nets | Hornets (Moneyline) | Split | pre-game | monkeymashingkeyboard; darkumbreon88 | jakepaulthegoat2008 | 60.5c |
+| 2026-11-04 | NBA | Hawks vs. Wizards | Hawks (Moneyline) | Split | pre-game | 0x9f15613e; Multicoloured-Serf | jakepaulthegoat2008 | 54.5c |
