@@ -35,8 +35,8 @@ Any edge has to come from **prices**: Kalshi/Polymarket gaps vs Pinnacle, Kalshi
 3. `notify.py`: new price flags and true arbs → GitHub issue (phone notification)
 4. `scorecard.py`: CLV + results for flags and baseline, arbitrage near-misses → `data/scorecard.md`
 
-## Side project: Polymarket copy-consensus tracker (`consensus/`, Nov 3–10 2026)
-Paper tracking only, separate from the tennis model. `.github/workflows/consensus.yml` runs 4×/day (8:40am, 12:40pm, 4:40pm, 7:40pm MT). Each run pulls the open positions of 15 profitable Polymarket sports traders, logs games where 2+ hold $1k+ on the same side to `consensus/signals.csv`, grades finished ones, and rewrites `consensus/summary.md`. A **paper play** (3+ agree, nobody in the 15 against, game not started) opens a GitHub issue. The 2-agree version lost money in the Oct 27–Nov 3 backtest, so it's logged for comparison only. After Nov 10 it stops scanning, keeps grading, and opens one final-record issue.
+## Side project: Polymarket copy-consensus tracker (`consensus/`, since Nov 3 2026)
+Paper tracking only, separate from the tennis model. `.github/workflows/consensus.yml` checks hourly at :40 using the same self-restarting loop as the tennis tracker (`consensus/loop.sh`; the cron is only a backup). Each check pulls the open positions of 15 profitable Polymarket sports traders, logs games where 2+ hold $1k+ on the same side to `consensus/signals.csv` (a trader counts only on the side holding 75%+ of their money on that game), grades finished ones, and rewrites `consensus/summary.md`. A **paper play** (3+ agree, nobody in the 15 against, game not started) opens a GitHub issue. The 2-agree version lost money in the Oct 27–Nov 3 backtest, so it's logged for comparison only. Every 7 days it opens a weekly check-in issue with that week's and all-time records. No end date: it runs until the workflow is disabled in the Actions tab.
 
 ## Manual tools
 - `fullstar.py`: parse Fullstar page text, compare to Pinnacle/Kalshi, size paper bets → `data/fullstar_log.csv`

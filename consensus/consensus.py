@@ -5,8 +5,10 @@ Each run:
   2. logs games where 2+ of them hold $1k+ on the same side -> consensus/signals.csv,
   3. grades finished entries from Polymarket's market prices (gamma-api),
   4. rewrites consensus/summary.md,
-  5. prints a markdown alert for NEW pre-game "Paper play" signals (3+ agree, 0 against).
-     The workflow turns non-empty output into a GitHub issue (phone notification).
+  5. writes alert files into the folder given as argv[1] (consensus/cycle.sh turns each one into a
+     GitHub issue -> phone notification): play.md for NEW pre-game "Paper play" signals (3+ agree,
+     0 against) and week.md for the weekly check-in (every 7 days from 2026-11-03).
+No end date: it keeps running until the workflow is disabled.
 
 Tiers (judged across all 15): Paper play = 3+ agree and nobody against; Track only = exactly 2
 agree and nobody against; Split = 2+ agree but 1+ of the 15 is on the other side.
@@ -17,23 +19,24 @@ import csv
 import json
 import re
 import sys
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 
 ROOT = Path(__file__).resolve().parent
 LOG = ROOT / "signals.csv"
 SUMMARY = ROOT / "summary.md"
-FINAL_SENT = ROOT / ".final_sent"
+CHECKPOINT = ROOT / "last_checkin.txt"   # date of the last weekly check-in issue
 
 DATA = "https://data-api.polymarket.com"
 GAMMA = "https://gamma-api.polymarket.com"
 UA = {"User-Agent": "consensus-paper-tracker/1.0"}
 
-END_DATE = "2026-11-10"   # last day of the tracking week (Mountain Time)
-MIN_STAKE = 1000          # a trader counts on a side only with $1k+ in it
-MT = timezone(timedelta(hours=-7))  # MST; Colorado is on standard time all of this week
+START_DATE = "2026-11-03"   # tracking started; weekly check-ins count from here
+MIN_STAKE = 1000            # a trader counts on a side only with $1k+ in it
+MT = ZoneInfo("America/Denver")
 
 # name -> proxy wallet. The first 10 are the "core 10".
 TRADERS = {
@@ -289,20 +292,27 @@ def core10_tier(r):
     return tier(len(agree), len(against))
 
 
-def write_summary(rows, now):
-    lines = [f"# Consensus paper tracker — {now.astimezone(MT):%a %b %-d, %-I:%M%p} MT", "",
-             "Paper tracking only. 1 unit flat at the price when each signal was logged.", "",
-             "| Rule | Group | Record | Units | Open |", "|---|---|---|---|---|"]
+def record_table(rows):
+    lines = ["| Rule | Group | Record | Units | Open |", "|---|---|---|---|---|"]
     for t in ("Paper play", "Track only", "Split"):
         rec, u, o = record([r for r in rows if r["tier"] == t])
         lines.append(f"| {t} | all 15 | {rec} | {u} | {o} |")
     for t in ("Paper play", "Track only", "Split"):
         rec, u, o = record([r for r in rows if core10_tier(r) == t])
         lines.append(f"| {t} | core 10 only | {rec} | {u} | {o} |")
-    lines += ["", "Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. "
-              "Split = 2+ agree but someone in the group is on the other side.", "",
-              "## Open signals", "", "| Date | League | Game | Side | Rule | Agree | Against | Logged at |",
-              "|---|---|---|---|---|---|---|---|"]
+    return lines
+
+
+RULES = ("Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. "
+         "Split = 2+ agree but someone in the group is on the other side.")
+
+
+def write_summary(rows, now):
+    lines = [f"# Consensus paper tracker — {now.astimezone(MT):%a %b %-d, %-I:%M%p} MT", "",
+             f"Paper tracking only, since {START_DATE}. 1 unit flat at the price when each signal was logged.",
+             "", *record_table(rows), "", RULES, "",
+             "## Open signals", "", "| Date | League | Game | Side | Rule | Agree | Against | Logged at |",
+             "|---|---|---|---|---|---|---|---|"]
     for r in rows:
         if r["status"] == "open":
             lines.append(f"| {r['game_date']} | {r['league']} | {r['game']} | {r['side']} ({r['market']}) | "
@@ -321,28 +331,41 @@ def alert(new_plays):
     return "\n".join(out)
 
 
+def weekly_checkin(rows, today):
+    """Markdown for the weekly check-in, or '' if one isn't due. Due 7+ days after the last one."""
+    last = date.fromisoformat(CHECKPOINT.read_text().strip() if CHECKPOINT.exists() else START_DATE)
+    if today < last + timedelta(days=7):
+        return ""
+    CHECKPOINT.write_text(today.isoformat() + "\n")
+    week_start = (today - timedelta(days=7)).isoformat()
+    week = [r for r in rows if r["game_date"] >= week_start]
+    return "\n".join([
+        f"**Consensus weekly check-in** (week {(today - date.fromisoformat(START_DATE)).days // 7}). "
+        "Paper tracking only, 1 unit flat at the logged price.", "",
+        f"### Last 7 days (games since {week_start})", "", *record_table(week), "",
+        f"### All time (since {START_DATE})", "", *record_table(rows), "", RULES, "",
+        "It keeps running until you disable the `consensus-tracker` workflow in the Actions tab.",
+    ]) + "\n"
+
+
 def main():
+    out = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT
     now = datetime.now(timezone.utc)
     rows = load()
-    today = now.astimezone(MT).strftime("%Y-%m-%d")
-    new_plays, failed = [], []
-    if today <= END_DATE:
-        found, failed = scan(now)
-        new_plays = merge(rows, found, now)
+    found, failed = scan(now)
+    new_plays = merge(rows, found, now)
     graded = grade(rows)
     save(rows)
     write_summary(rows, now)
-    print(f"logged {len(rows)} total, graded {graded} this run, failed traders: {', '.join(failed) or 'none'}",
-          file=sys.stderr)
+    print(f"logged {len(rows)} total, {len(new_plays)} new paper plays, graded {graded} this run, "
+          f"failed traders: {', '.join(failed) or 'none'}")
+    if new_plays:
+        (out / "play.md").write_text(alert(new_plays))
+    week = weekly_checkin(rows, now.astimezone(MT).date())
+    if week:
+        (out / "week.md").write_text(week)
     if len(failed) > 5:
         raise SystemExit(f"{len(failed)} of {len(TRADERS)} trader pulls failed: {', '.join(failed)}")
-    if new_plays:
-        print(alert(new_plays))
-    elif today > END_DATE and not FINAL_SENT.exists():
-        FINAL_SENT.write_text(now.isoformat())
-        print("**Tracking week is over.** Final record:\n")
-        print(SUMMARY.read_text().split("## Open signals")[0])
-        print("You can disable the `consensus` workflow in the Actions tab.")
 
 
 if __name__ == "__main__":
