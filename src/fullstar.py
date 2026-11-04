@@ -17,7 +17,7 @@ from load import norm
 
 ROOT = Path(__file__).resolve().parents[1]
 PRICE = re.compile(r"^([+-]\d{3,}|EV)$")
-SPREAD = re.compile(r"^([+-](\d+)?½?|PK)$")
+SPREAD = re.compile(r"^([+-](\d+)?½?|PK)( EV)?$")  # "+2½ EV" = spread with its price inline
 TOTAL = re.compile(r"^([ou])(\d+)(½)?( EV)?$")
 TIME = re.compile(r"^\d{1,2}:\d{2} [AP]M$")
 
@@ -37,10 +37,11 @@ def parse(text, tour):
         if re.match(r"^(ATP|WTA|CHALLENGER|ITF)\b.* - ", l) or l.startswith(("ATP -", "WTA -")):
             event = l; i += 1; continue
         if l.isupper() and not TIME.match(l) and not l.startswith("TENNIS") and not re.match(r"^[A-Z]{3} \d{2}$", l) \
-                and not PRICE.match(l) and not TOTAL.match(l):
+                and not PRICE.match(l) and not TOTAL.match(l) and not SPREAD.match(l):
             p = {"player": l.title(), "event": event, "tour": tour}
             i += 1
-            while i < len(lines) and not (lines[i].isupper() and not TOTAL.match(lines[i]) and not PRICE.match(lines[i])) \
+            while i < len(lines) and not (lines[i].isupper() and not TOTAL.match(lines[i]) and not PRICE.match(lines[i])
+                                          and not SPREAD.match(lines[i])) \
                     and not TIME.match(lines[i]):
                 t = lines[i]
                 if TOTAL.match(t):
@@ -51,9 +52,13 @@ def parse(text, tour):
                     else:
                         i += 1; p["total_price"] = lines[i]
                 elif SPREAD.match(t) and not PRICE.match(t):
-                    v = t.replace("½", ".5").replace("PK", "0")
+                    m = SPREAD.match(t)
+                    v = m.group(1).replace("½", ".5").replace("PK", "0")
                     p["spread"] = float(v if v not in ("+.5", "-.5") else v.replace(".5", "0.5"))
-                    i += 1; p["spread_price"] = lines[i]
+                    if m.group(3):
+                        p["spread_price"] = "EV"
+                    else:
+                        i += 1; p["spread_price"] = lines[i]
                 elif PRICE.match(t):
                     p["ml"] = t
                 i += 1
@@ -81,11 +86,69 @@ def fs_stake(p, d, bankroll=700.0):
     return round(risk, 2) if risk >= min_risk else 0.0
 
 
+KALSHI = "https://api.elections.kalshi.com/trade-api/v2/markets"
+K_TOT = re.compile(r".*in the (.+?) vs (.+?) professional tennis match")
+K_SPR = re.compile(r"in favor of (.+?) across the full match is above ([\d.]+) games in the (.+?) vs (.+?) professional")
+
+
+def kalshi_lines():
+    """Open Kalshi total-games and game-spread markets -> list of dicts with names, line, mid."""
+    import requests
+    out = []
+    for series, kind in (("KXATPGTOTAL", "total"), ("KXWTAGTOTAL", "total"), ("KXATPGSPREAD", "spread")):
+        try:
+            ms = requests.get(KALSHI, params={"series_ticker": series, "status": "open", "limit": 1000},
+                              timeout=30).json().get("markets", [])
+        except Exception:
+            continue
+        for m in ms:
+            b, a = float(m.get("yes_bid_dollars") or 0), float(m.get("yes_ask_dollars") or 0)
+            if not (0 < b and a < 1 and a - b <= 0.10):
+                continue
+            r = m.get("rules_primary", "")
+            if kind == "total":
+                g, L = K_TOT.search(r), re.search(r"Over ([\d.]+)", m.get("title", ""))
+                if g and L:
+                    out.append({"kind": kind, "a": g.group(1), "b": g.group(2), "x": None,
+                                "line": float(L.group(1)), "mid": (a + b) / 2})
+            else:
+                g = K_SPR.search(r)
+                if g:
+                    out.append({"kind": kind, "a": g.group(3), "b": g.group(4), "x": g.group(1),
+                                "line": float(g.group(2)), "mid": (a + b) / 2})
+    return out
+
+
+def kalshi_checks(r, kl, same):
+    """EV of Fullstar's total and spread on this row vs Kalshi's mid at the SAME line (no interpolation)."""
+    res = {}
+    mine = [k for k in kl if (same(k["a"], r.player) and same(k["b"], r.opp)) or (same(k["a"], r.opp) and same(k["b"], r.player))]
+    if getattr(r, "total_side", None) in ("o", "u") and isinstance(getattr(r, "total_price", None), str):
+        t = [k for k in mine if k["kind"] == "total" and k["line"] == r.total_line]
+        if t:
+            p = t[0]["mid"] if r.total_side == "o" else 1 - t[0]["mid"]
+            res.update(k_total_p=p, k_total_ev=p * dec(r.total_price) - 1)
+    sp = getattr(r, "spread", None)
+    if sp == sp and sp is not None and isinstance(getattr(r, "spread_price", None), str) and sp != 0:
+        if sp < 0:   # player must win by more than |sp|
+            t = [k for k in mine if k["kind"] == "spread" and same(k["x"], r.player) and k["line"] == -sp]
+            p = t[0]["mid"] if t else None
+        else:        # player covers +sp unless opp wins by more than sp
+            t = [k for k in mine if k["kind"] == "spread" and same(k["x"], r.opp) and k["line"] == sp]
+            p = 1 - t[0]["mid"] if t else None
+        if p is not None:
+            res.update(k_spread_p=p, k_spread_ev=p * dec(r.spread_price) - 1)
+    return res
+
+
 def compare(fs, snap):
     """fs: parsed Fullstar rows. snap: latest snapshot DataFrame (pinnacle/kalshi/poly rows + model)."""
     import ratings
     import pointmodel as pm
+    from snapshot import _toks
     R = ratings.load()
+    kl = kalshi_lines()
+    same = lambda x, y: bool(_toks(x)) and bool(_toks(y)) and (_toks(x) <= _toks(y) or _toks(y) <= _toks(x))
     last = lambda n: norm(n).split()[-1]
     snap = snap.copy()
     snap["k"] = [(last(a), last(b)) for a, b in zip(snap.player, snap.opp)]
@@ -106,9 +169,8 @@ def compare(fs, snap):
         pred = R[r.tour].predict(r.player, r.opp, "Hard", 3)
         row["p_model"] = pred.get("p_model")
         row["ml_ev_vs_model"] = (pred["p_model"] * dec(r.ml) - 1) if "p_model" in pred and row["fs_ml"] else None
-        # size only when the price beats the reference by 2%+ AND the model agrees
-        ok = row.get("ml_ev_vs_ref") is not None and row["ml_ev_vs_ref"] >= 0.02 \
-            and (row["ml_ev_vs_model"] or -1) >= 0.02
+        # size when the price beats the reference by 2%+ (price only, decision 2026-11-03; model = info)
+        ok = row.get("ml_ev_vs_ref") is not None and row["ml_ev_vs_ref"] >= 0.02
         row["paper_risk"] = fs_stake(ref, dec(r.ml)) if ok else 0.0
         # totals: shift the point model so P(win) = reference, then P(over line)
         if getattr(r, "total_side", None) in ("o", "u") and ref and "pa" in pred:
@@ -125,6 +187,13 @@ def compare(fs, snap):
             p_side = p_over if r.total_side == "o" else 1 - p_over
             row.update(total=f"{r.total_side}{r.total_line}", total_price=r.total_price,
                        p_total_side=p_side, total_ev=p_side * dec(r.total_price) - 1)
+        row.update(spread=getattr(r, "spread", None), spread_price=getattr(r, "spread_price", None))
+        row.update(kalshi_checks(r, kl, same))
+        for c in ("k_total_ev", "k_spread_ev"):  # paper-size totals/spreads that beat Kalshi's price by 2%+
+            if (row.get(c) or -1) >= 0.02:
+                pr = row["k_total_p"] if c == "k_total_ev" else row["k_spread_p"]
+                px = r.total_price if c == "k_total_ev" else r.spread_price
+                row[c.replace("_ev", "_risk")] = fs_stake(pr, dec(px))
         out.append(row)
     return pd.DataFrame(out)
 
@@ -141,6 +210,7 @@ if __name__ == "__main__":
     res = compare(fs, snap)
     res.insert(0, "ts", ts)
     out = ROOT / "data" / "fullstar_log.csv"
-    res.to_csv(out, mode="a", header=not out.exists(), index=False)
+    old = pd.read_csv(out) if out.exists() else pd.DataFrame()
+    pd.concat([old, res], ignore_index=True).to_csv(out, index=False)  # union of columns, never misaligned
     pd.set_option("display.width", 250)
     print(res.drop(columns=["ts", "event"]).round(3).to_string(index=False))

@@ -216,6 +216,8 @@ def find_arbs(df):
             for rb in b.itertuples():
                 total = ra.cost + rb.cost
                 rows.append({"ts": ra.ts, "key": key, "start": ra.start,
+                             "src_a": ra.source, "event_a": ra.event, "player_a": ra.player, "ask_a": ra.ask,
+                             "src_b": rb.source, "event_b": rb.event, "player_b": rb.player, "ask_b": rb.ask,
                              "leg_a": f"{ra.player} @ {ra.source} {ra.ask:.2f}",
                              "leg_b": f"{rb.player} @ {rb.source} {rb.ask:.2f}",
                              "cost_a": ra.cost, "cost_b": rb.cost, "total": total,
@@ -282,7 +284,8 @@ def build(model=True):
     if len(arbs):
         ARBS.mkdir(parents=True, exist_ok=True)
         f = ARBS / f"{t0:%Y-%m-%d}.csv"
-        arbs.to_csv(f, mode="a", header=not f.exists(), index=False)  # all matches' best combo, for tracking
+        prev = pd.read_csv(f) if f.exists() else pd.DataFrame()  # union of columns: schema changes never misalign
+        pd.concat([prev, arbs], ignore_index=True).to_csv(f, index=False)
     return df, remaining
 
 

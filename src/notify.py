@@ -20,6 +20,33 @@ def stake(p_fair, cost):
     return dollars, int(dollars // cost)
 
 
+MIN_ARB_PROFIT = 1.00  # dollars locked; below this an "arb" isn't worth the transfer/withdrawal hassle
+
+
+def depth(src, event, player, price):
+    """Shares available at <= price. Kalshi: orderbook (YES asks = 1 - NO bids). Polymarket: CLOB book."""
+    import json as _j
+    import requests
+    try:
+        if src == "kalshi":
+            ms = requests.get("https://api.elections.kalshi.com/trade-api/v2/markets",
+                              params={"event_ticker": event}, timeout=20).json()["markets"]
+            m = next(m for m in ms if m.get("yes_sub_title") == player)
+            ob = requests.get(f"https://api.elections.kalshi.com/trade-api/v2/markets/{m['ticker']}/orderbook",
+                              timeout=20).json()["orderbook_fp"]
+            return sum(float(q) for p, q in (ob.get("no_dollars") or []) if 1 - float(p) <= price + 1e-9)
+        e = requests.get("https://gamma-api.polymarket.com/events", params={"slug": event}, timeout=20).json()[0]
+        for m in e["markets"]:
+            outs = _j.loads(m.get("outcomes", "[]"))
+            if player in outs and len(outs) == 2:
+                tok = _j.loads(m["clobTokenIds"])[outs.index(player)]
+                b = requests.get("https://clob.polymarket.com/book", params={"token_id": tok}, timeout=20).json()
+                return sum(float(a["size"]) for a in b.get("asks", []) if float(a["price"]) <= price + 1e-9)
+    except Exception:
+        return None
+    return None
+
+
 def arb_alerts():
     """New true arbs (total < $1 all-in) in the latest run."""
     files = sorted((ROOT / "data" / "arbs").glob("20*.csv"))
@@ -35,9 +62,21 @@ def arb_alerts():
     pd.concat([pd.read_csv(seen_f) if seen_f.exists() else pd.DataFrame(columns=["key"]), new[["key"]]]
               ).to_csv(seen_f, index=False)
     lines = ["**ARB CHECK (paper): both sides for under $1 all-in.**"]
+    shown = 0
     for r in new.itertuples():
+        sa = depth(r.src_a, r.event_a, r.player_a, r.ask_a) if hasattr(r, "src_a") else None
+        sb = depth(r.src_b, r.event_b, r.player_b, r.ask_b) if hasattr(r, "src_b") else None
+        size = min(x for x in (sa, sb) if x is not None) if (sa is not None or sb is not None) else None
+        locked = size * r.profit_per_dollar if size is not None else None
+        if locked is not None and locked < MIN_ARB_PROFIT:
+            continue  # too thin to matter (e.g. 10 shares on a fresh Polymarket book)
+        shown += 1
         lines.append(f"- **Buy {r.leg_a} + {r.leg_b}** → total {r.total:.3f}, locks "
-                     f"**{r.profit_per_dollar * 100:.1f}¢ per $1** | Kalshi size at ask: {r.kalshi_size}")
+                     f"**{r.profit_per_dollar * 100:.1f}¢ per $1** | max size {size if size is not None else '?'} "
+                     f"shares (~${locked:.2f} locked)" if locked is not None else
+                     f"- **Buy {r.leg_a} + {r.leg_b}** → total {r.total:.3f}, locks {r.profit_per_dollar * 100:.1f}¢ per $1 | size unknown")
+    if not shown:
+        return []
     lines.append("Verify both prices live first; they move fast. Walkover rules differ between venues.")
     return lines
 
