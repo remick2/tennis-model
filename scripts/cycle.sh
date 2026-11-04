@@ -23,5 +23,7 @@ for p in data/arbs data/notified_arbs.csv data/notified.csv data/scorecard.md da
   [ -e "$p" ] && git add "$p"
 done
 git diff --cached --quiet || git commit -qm "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
-for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+# GitHub sometimes 500s for minutes at a time: back off. Anything still unpushed rides along with the
+# next cycle's push (commits stay local within the run), and loop.sh pushes once more before it exits.
+for i in 1 2 3 4 5 6; do git pull --rebase -q && git push -q && break; sleep $(( i * 20 )); done
 exit $snap
