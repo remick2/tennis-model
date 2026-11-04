@@ -14,6 +14,7 @@ Tennis model + Phase 2 paper tracking. **No real bets until Phase 2 beats the cl
 - **Schedule**: 20 runs/day (hourly 6am to midnight MT, plus 3am MT). Ratings are cached daily so runs take about 1 min, staying under 2,000 free Actions minutes a month (private repo).
 - **Pinnacle credits**: 500/month free. `pinnacle_due()` spreads them over the month (every 2h, 4h or 8h depending on what's left).
 - **Daily check-in**: a scheduled Claude session around 8pm MT checks runs, fixes breakages, and posts a short GitHub issue summary.
+- **Fullstar withdrawals**: Mondays and Fridays only, 8am–6pm ET (6am–4pm MT). Money on Fullstar can take up to ~4 days to reach Kalshi, so the Phase 3 bankroll split has to be set ahead of time; it can't move to wherever an edge shows up that day.
 - **Fullstar**: manual only. It needs Remick's logged-in browser. He says "check fullstar" when he's on, best in the evening when new lines post.
 - **Tennis Tonic**: tested; picks have no probabilities or track record, and they load via JavaScript, so automated logging is off (`src/tonic.py` kept, workflow step disabled).
 
