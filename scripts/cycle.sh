@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+# One tracker cycle: results -> snapshot -> alerts -> scorecard -> commit. Used by the workflow
+# (once per run while the repo is private, hourly inside a long run once it's public).
+set -u
+cd "$(dirname "$0")/.."
+git pull --rebase -q || true                          # pick up consensus/check-in commits
+find data/ratings.pkl -mmin +1440 -delete 2>/dev/null  # rebuild ratings once a day (new results)
+
+(cd src && python -W ignore kalshi_results.py | tail -3) || echo "results update failed; using last file"
+(cd src && set -o pipefail && python -W ignore snapshot.py | tail -60)
+snap=$?
+(cd src && python notify.py > ../alert.md) || echo "notify failed"
+if [ -s alert.md ]; then
+  gh issue create --title "Paper flag: $(date -u -d '-7 hours' '+%a %b %-d %-I:%M%p') MT" --body-file alert.md
+fi
+(cd src && python -W ignore scorecard.py > /dev/null) || echo "scorecard failed"
+
+git add data/snapshots data/results_kalshi.csv
+for p in data/arbs data/notified_arbs.csv data/notified.csv data/scorecard.md data/tonic; do
+  [ -e "$p" ] && git add "$p"
+done
+git diff --cached --quiet || git commit -qm "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+exit $snap

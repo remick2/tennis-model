@@ -1,10 +1,12 @@
 name: phase2-snapshot
-# PAPER TRACKING ONLY. Kalshi + Polymarket + model every run; Pinnacle budgeted by credits left.
-# Schedule (MST = UTC-7): hourly 6am-midnight MT, plus 3am MT overnight = 20 runs/day.
-# Kept under the 2,000 free Actions min/month for a private repo by caching ratings (runs ~1 min).
+# PAPER TRACKING ONLY. Each cycle: Kalshi results, Kalshi + Polymarket + Pinnacle (budgeted) + model
+# snapshot, alerts, scorecard (scripts/cycle.sh).
+# Private repo: one cycle per run (free minutes are limited).
+# Public repo: each run loops hourly for ~5h40m and then starts the next run itself (scripts/loop.sh),
+# because GitHub's cron drops many scheduled runs. The hourly cron below is only a backup starter.
 on:
   schedule:
-    - cron: "17 0-7,10,13-23 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       pinnacle:
@@ -13,13 +15,14 @@ on:
 permissions:
   contents: write
   issues: write
+  actions: write   # lets a run start the next one
 concurrency:
   group: snapshot
   cancel-in-progress: false
 jobs:
   snap:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -36,45 +39,18 @@ jobs:
           key: sackmann-wta-${{ hashFiles('scripts/sackmann_files.txt') }}
       - id: day
         run: echo "d=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
-      - uses: actions/cache@v4  # ratings rebuilt at most once a day (new results), ~60s saved per run
+      - uses: actions/cache@v4  # ratings rebuilt at most once a day
         with:
           path: data/ratings.pkl
           key: ratings-${{ steps.day.outputs.d }}-${{ hashFiles('src/*.py', 'scripts/sackmann_files.txt') }}
       - run: pip install -r requirements.txt
       - run: bash scripts/fetch_data.sh
-      - name: update Challenger results (Kalshi settled markets)
-        run: cd src && python -W ignore kalshi_results.py | tail -3 || echo "results update failed; using last file"
-      - name: snapshot
+      - name: track (one cycle if private; hourly loop + self-restart if public)
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           PINNACLE: ${{ github.event.inputs.pinnacle || 'auto' }}
-        run: set -o pipefail; cd src && python -W ignore snapshot.py | tail -60  # fail loudly (GitHub emails failed runs)
-      - name: alert on new flags (opens a GitHub issue -> email/phone notification)
-        env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          cd src && python notify.py > ../alert.md
-          if [ -s ../alert.md ]; then
-            gh issue create --title "Paper flag: $(date -u -d '-7 hours' '+%a %b %-d %-I:%M%p') MT" --body-file ../alert.md
-          fi
-      - name: Tennis Tonic picks (DISABLED - picks load via JavaScript, plain fetch only gets results)
-        if: false
-        run: |
-          if [ $(( $(date -u +%H) % 6 )) -eq 1 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            cd src && python -W ignore tonic.py || echo "tonic failed"
-          fi
-      - name: scorecard (grade past prices vs Pinnacle close + results)
-        run: cd src && python -W ignore scorecard.py > /dev/null || echo "scorecard failed"
-      - name: commit snapshot
-        if: always()  # keep whatever data was written even if a later step failed
         run: |
           git config user.name "tennis-snapshot-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/snapshots data/results_kalshi.csv
-          if [ -d data/arbs ]; then git add data/arbs; fi
-          if [ -f data/notified_arbs.csv ]; then git add data/notified_arbs.csv; fi
-          if [ -f data/notified.csv ]; then git add data/notified.csv; fi
-          if [ -f data/scorecard.md ]; then git add data/scorecard.md; fi
-          if [ -d data/tonic ]; then git add data/tonic; fi
-          git diff --cached --quiet || git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
-          git pull --rebase -q && git push
+          bash scripts/loop.sh

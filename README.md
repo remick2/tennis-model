@@ -11,7 +11,7 @@ Tennis model + Phase 2 paper tracking. **No real bets until Phase 2 beats the cl
 - **Alerts fire on price alone**: Kalshi/Polymarket all-in cost (ask + fee) at least 2c below Pinnacle's no-vig fair price. The model is shown as info only (it showed no edge over the market in any test). The scorecard still grades "price + model agree" separately.
 - **Phase 3 gate**: 100+ graded price-flag sides whose average CLV (Pinnacle's last fair price before the start minus our cost) is positive by about 2 standard errors. ROI is reported but too noisy to be the gate.
 - **Sizing (paper)**: quarter Kelly off Pinnacle fair, capped at 2% of $700 ($14). Fullstar: below its $10 minimum = no bet. Kalshi/Polymarket: any number of shares.
-- **Schedule**: 20 runs/day (hourly 6am to midnight MT, plus 3am MT). Ratings are cached daily so runs take about 1 min, staying under 2,000 free Actions minutes a month (private repo).
+- **Schedule**: GitHub's cron dropped most scheduled runs on day 1 (1 of 8 ran), so once the repo is public each run loops hourly (:17) for ~5h40m and then starts the next run itself (`scripts/loop.sh`); minutes are free for public repos. While private, the hourly cron runs one cycle per run (`scripts/cycle.sh`).
 - **Pinnacle credits**: 500/month free. `pinnacle_due()` spreads them over the month (every 2h, 4h or 8h depending on what's left).
 - **Daily check-in**: a scheduled Claude session around 8pm MT checks runs, fixes breakages, and posts a short GitHub issue summary.
 - **Fullstar withdrawals**: Mondays and Fridays only, 8am–6pm ET (6am–4pm MT). Money on Fullstar can take up to ~4 days to reach Kalshi, so the Phase 3 bankroll split has to be set ahead of time; it can't move to wherever an edge shows up that day.
