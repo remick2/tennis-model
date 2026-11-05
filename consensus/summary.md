@@ -1,11 +1,11 @@
-# Consensus paper tracker — Thu Nov 5, 6:40AM MT
+# Consensus paper tracker — Thu Nov 5, 7:40AM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 0-1 | -1.00 | 0 |
-| Track only | all 15 | 6-7 | -3.36 | 2-3 | -2.57 | 1 |
+| Track only | all 15 | 6-7 | -3.36 | 2-3 | -2.57 | 2 |
 | Split | all 15 | 3-5 | -2.35 | 6-4 | +2.05 | 2 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 2-3 | -1.27 | 1-2 | -1.66 | 1 |
@@ -20,3 +20,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-08 | NFL | Bengals vs. Falcons | Over (Total) | Split | pre-game | ic4cream; scootergene | monkeymashingkeyboard | 50.5c |
 | 2026-11-08 | NFL | Cardinals vs. Seahawks | Seahawks (Moneyline) | Track only | pre-game | ic4cream; darkumbreon88 | — | 77.5c |
 | 2026-11-08 | NFL | Rams vs. Commanders | Commanders (Spread) | Split | pre-game | monkeymashingkeyboard; ic4cream | darkumbreon88 | 52.5c |
+| 2026-11-05 | CFB | James Madison vs. Southern Miss | Southern Miss (Spread) | Track only | pre-game | 0xb4F978BE; Multicoloured-Serf | — | 49.5c |
