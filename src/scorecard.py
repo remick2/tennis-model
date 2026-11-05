@@ -88,7 +88,11 @@ def grade(d, win):
         if not w:
             return np.nan
         hit = [v for n, v in w.items() if n and same(n, r.player)]
-        return hit[0] if hit else np.nan
+        if not hit:
+            return np.nan
+        if r.source == "poly" and hit[0] not in (0.0, 1.0):
+            return 0.5  # Polymarket intl settles walkovers 50/50 (Kalshi/Polymarket US: fair price)
+        return hit[0]
 
     us = mk.source.isin(["kalshi", "polyus"])
     groups = {"GATE: price flag on US venues (Kalshi + Polymarket US)": (mk.price_edge >= MIN_EDGE) & us,
