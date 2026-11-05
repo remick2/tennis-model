@@ -68,7 +68,7 @@ def load():
 
 def grade(d, win):
     pin = d[d.source == "pinnacle"]
-    mk = d[d.source.isin(["kalshi", "poly"]) & d.pin_fair.notna() & d.cost.notna()].copy()
+    mk = d[d.source.isin(["kalshi", "poly", "polyus"]) & d.pin_fair.notna() & d.cost.notna()].copy()
     # Kalshi event for every row (Polymarket rows borrow the Kalshi event of the same match in that run)
     kev = d[d.source == "kalshi"][["ts", "key", "event"]].drop_duplicates(["ts", "key"])
     mk = mk.merge(kev.rename(columns={"event": "kalshi_event"}), on=["ts", "key"], how="left")
@@ -83,7 +83,9 @@ def grade(d, win):
         w = win.get(r.kalshi_event)
         return np.nan if w is None else float(same(w, r.player))
 
-    groups = {"price flag (price edge >= 2c)": mk.price_edge >= MIN_EDGE,
+    us = mk.source.isin(["kalshi", "polyus"])
+    groups = {"GATE: price flag on US venues (Kalshi + Polymarket US)": (mk.price_edge >= MIN_EDGE) & us,
+              "price flag, all venues incl. Polymarket intl": mk.price_edge >= MIN_EDGE,
               "model+price flag (alert rule)": (mk.price_edge >= MIN_EDGE) & (mk.model_edge >= MIN_EDGE),
               "all sides (baseline)": pd.Series(True, index=mk.index)}
     out, detail = [], []
@@ -103,7 +105,7 @@ def grade(d, win):
                     "beat_close_%": 100 * (c > 0).mean() if len(c) else np.nan,
                     "settled": len(s), "won": int(g.won.sum()), "roi_%": 100 * s.mean() if len(s) else np.nan,
                     "roi_se_%": 100 * s.std() / np.sqrt(len(s)) if len(s) > 1 else np.nan})
-        if name.startswith("price"):
+        if name.startswith("GATE"):
             detail = g
     return pd.DataFrame(out), detail
 
@@ -156,7 +158,7 @@ def main():
     summ, detail = grade(d, win)
     lines = [f"# Phase 2 scorecard  ({pd.Timestamp.now(tz='America/Denver'):%a %b %-d %-I:%M%p} MT)", "",
              f"Snapshots: {d.ts.nunique()} runs, {d.ts.min():%b %-d} to {d.ts.max():%b %-d %H:%M}Z. "
-             "Phase 3 gate: price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.", "",
+             "Phase 3 gate (GATE row): US-venue price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.", "",
              summ.round(2).to_markdown(index=False), ""]
     if len(detail):
         cols = ["ts", "source", "player", "opp", "cost", "pin_fair", "close", "clv", "won"]

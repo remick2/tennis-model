@@ -9,6 +9,7 @@ Tennis model + Phase 2 paper tracking. **No real bets until Phase 2 beats the cl
 
 ## Decisions (2026-11-03)
 - **Alerts fire on price alone**: Kalshi/Polymarket all-in cost (ask + fee) at least 2c below Pinnacle's no-vig fair price. The model is shown as info only (it showed no edge over the market in any test). The scorecard still grades "price + model agree" separately.
+- **Polymarket US (added 2026-11-05)**: public gateway API (no key), fee 0.0695·p(1−p). Polymarket international is US-restricted, so **alerts (flags and arbs) fire only on Kalshi + Polymarket US**, and the **Phase 3 gate counts only US-venue flags** (scorecard "GATE" row). International prices are still logged and graded separately. (First overnight arb, Nov 4, was Kalshi + Polymarket intl; Polymarket US matched Kalshi's prices.)
 - **Phase 3 gate**: 100+ graded price-flag sides whose average CLV (Pinnacle's last fair price before the start minus our cost) is positive by about 2 standard errors. ROI is reported but too noisy to be the gate.
 - **Sizing (paper)**: quarter Kelly off Pinnacle fair, capped at 2% of $700 ($14). Fullstar: below its $10 minimum = no bet. Kalshi/Polymarket: any number of shares.
 - **Schedule**: GitHub's cron dropped most scheduled runs on day 1 (1 of 8 ran), so once the repo is public each run loops hourly (:17) for ~5h40m and then starts the next run itself (`scripts/loop.sh`); minutes are free for public repos. While private, the hourly cron runs one cycle per run (`scripts/cycle.sh`).

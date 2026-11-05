@@ -34,7 +34,9 @@ KEY = os.environ.get("ODDS_API_KEY") or (_kf.read_text().strip() if _kf.exists()
 USE_PINNACLE = os.environ.get("PINNACLE", "auto")
 KALSHI = "https://api.elections.kalshi.com/trade-api/v2"
 GAMMA = "https://gamma-api.polymarket.com"
-FEE = {"kalshi": 0.07, "poly": 0.05}
+FEE = {"kalshi": 0.07, "poly": 0.05, "polyus": 0.0695}  # taker: coef * p * (1 - p)
+US_VENUES = {"kalshi", "polyus"}  # where Remick can actually trade (Polymarket international is US-restricted)
+POLYUS = "https://gateway.polymarket.us"
 MIN_EDGE = 0.02
 COLUMNS = ["ts", "source", "tour", "level", "event", "tourney", "player", "opp", "key", "side", "start",
            "bid", "ask", "ask_size", "volume", "liquidity", "price", "fair", "book_update",
@@ -196,6 +198,39 @@ def polymarket():
     return rows
 
 
+def polyus_rows(data, tour):
+    """Polymarket US (public gateway, no key). Each match market: outcome 0 is the 'long' side and the
+    best bid/ask quotes are for it; outcome 1's ask = 1 - outcome 0's bid. 'event' = market slug#outcome index."""
+    rows = []
+    for e in data.get("events", []):
+        if e.get("closed") or e.get("ended") or e.get("live"):
+            continue  # pre-match only
+        for m in e.get("markets", []):
+            if m.get("sportsMarketType") != "tennis_match_winner" or m.get("closed") or not m.get("active", True):
+                continue
+            names = json.loads(m.get("outcomes") or "[]")
+            bq, aq = m.get("bestBidQuote") or {}, m.get("bestAskQuote") or {}
+            if len(names) != 2 or not bq.get("value") or not aq.get("value"):
+                continue
+            bb, ba = float(bq["value"]), float(aq["value"])
+            for i, (bid, ask) in enumerate([(bb, ba), (round(1 - ba, 4), round(1 - bb, 4))]):
+                rows.append({"source": "polyus", "tour": tour, "event": f"{m['slug']}#{i}", "tourney": e.get("title", ""),
+                             "player": names[i], "opp": names[1 - i], "bid": bid, "ask": ask,
+                             "start": e.get("startTime")})
+    return rows
+
+
+def polyus():
+    rows = []
+    for tour in ("atp", "wta"):  # the ATP league includes Challengers
+        try:
+            d = requests.get(f"{POLYUS}/v2/leagues/{tour}/events", params={"limit": 500}, timeout=30).json()
+        except Exception as ex:
+            print(f"polyus {tour} failed: {ex}"); continue
+        rows += polyus_rows(d, tour)
+    return rows
+
+
 # ------------------------------------------------------------------ assemble
 ARBS = ROOT / "data" / "arbs"
 
@@ -205,7 +240,7 @@ def find_arbs(df):
     Uses Kalshi/Polymarket only (Pinnacle/Fullstar aren't buyable at these prices).
     Caveats: Kalshi rounds fees up to the cent per order (kills sub-cent arbs on tiny orders);
     walkovers settle differently (Kalshi 'fair price', Polymarket 50-50); retirements match (advancer wins)."""
-    t = df[df.source.isin(["kalshi", "poly"]) & df.cost.notna() & (df.ask > 0) & (df.ask < 1)].copy()
+    t = df[df.source.isin(["kalshi", "poly", "polyus"]) & df.cost.notna() & (df.ask > 0) & (df.ask < 1)].copy()
     rows = []
     for key, g in t.groupby("key"):
         sides = g.side.unique()
@@ -222,17 +257,19 @@ def find_arbs(df):
                              "leg_b": f"{rb.player} @ {rb.source} {rb.ask:.2f}",
                              "cost_a": ra.cost, "cost_b": rb.cost, "total": total,
                              "profit_per_dollar": 1 - total, "same_venue": ra.source == rb.source,
+                             "us_ok": ra.source in US_VENUES and rb.source in US_VENUES,
                              "kalshi_size": next((x.ask_size for x in (ra, rb) if x.source == "kalshi"), None)})
     out = pd.DataFrame(rows)
     if out.empty:
         return out
-    return out.sort_values("total").groupby("key").head(1)  # best combo per match
+    # best combo per match, and separately the best combo using only venues Remick can trade (US)
+    return out.sort_values("total").groupby(["key", "us_ok"]).head(1)
 
 
 def build(model=True):
     t0 = now()
     pin, remaining = pinnacle()
-    df = pd.DataFrame(pin + kalshi() + polymarket())
+    df = pd.DataFrame(pin + kalshi() + polymarket() + polyus())
     df["ts"] = t0.isoformat()
     df["key"], df["side"] = canonical(df)
     df["start"] = pd.to_datetime(df.start, utc=True, errors="coerce")

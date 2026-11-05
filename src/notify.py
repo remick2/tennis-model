@@ -35,6 +35,14 @@ def depth(src, event, player, price):
             ob = requests.get(f"https://api.elections.kalshi.com/trade-api/v2/markets/{m['ticker']}/orderbook",
                               timeout=20).json()["orderbook_fp"]
             return sum(float(q) for p, q in (ob.get("no_dollars") or []) if 1 - float(p) <= price + 1e-9)
+        if src == "polyus":  # event = "<market slug>#<outcome index>"; the book is for outcome 0 (long)
+            slug, idx = event.rsplit("#", 1)
+            b = requests.get(f"https://gateway.polymarket.us/v1/markets/{slug}/book", timeout=20).json()["marketData"]
+            if idx == "0":  # buy long at <= price
+                asks = b.get("offers") or b.get("asks") or []
+                return sum(float(a["qty"]) for a in asks if float(a["px"]["value"]) <= price + 1e-9)
+            # buy outcome 1 at price p = sell long at 1 - p into bids >= 1 - p
+            return sum(float(a["qty"]) for a in b.get("bids", []) if 1 - float(a["px"]["value"]) <= price + 1e-9)
         e = requests.get("https://gamma-api.polymarket.com/events", params={"slug": event}, timeout=20).json()[0]
         for m in e["markets"]:
             outs = _j.loads(m.get("outcomes", "[]"))
@@ -54,6 +62,8 @@ def arb_alerts():
         return []
     a = pd.read_csv(files[-1])
     a = a[(a.ts == a.ts.max()) & (a.total < 1.0)]
+    if "us_ok" in a:  # only alert on arbs Remick can actually place (Kalshi + Polymarket US); intl ones are still logged
+        a = a[a.us_ok == True]
     seen_f = ROOT / "data" / "notified_arbs.csv"
     seen = set(pd.read_csv(seen_f).key) if seen_f.exists() else set()
     new = a[~a.key.isin(seen)]
@@ -87,7 +97,7 @@ def main():
     if not files:
         return
     d = pd.read_csv(files[-1])
-    d = d[(d.ts == d.ts.max()) & (d.flag == True)]
+    d = d[(d.ts == d.ts.max()) & (d.flag == True) & d.source.isin(["kalshi", "polyus"])]  # US venues only
     seen = pd.read_csv(SEEN) if SEEN.exists() else pd.DataFrame(columns=["key", "player", "source"])
     ids = set(zip(seen.key, seen.player, seen.source))
     new = d[[(k, p, s) not in ids for k, p, s in zip(d.key, d.player, d.source)]]
