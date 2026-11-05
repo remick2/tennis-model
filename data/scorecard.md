@@ -1,18 +1,24 @@
-# Phase 2 scorecard  (Wed Nov 4 6:17PM MT)
+# Phase 2 scorecard  (Wed Nov 4 7:17PM MT)
 
-Snapshots: 34 runs, Nov 3 to Nov 5 01:17Z. Phase 3 gate: price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
+Snapshots: 35 runs, Nov 3 to Nov 5 02:17Z. Phase 3 gate: price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
 
 | group                         |   sides |   avg_price_edge_c |   with_close |   avg_clv_c |   clv_se_c |   beat_close_% |   settled |   won |   roi_% |   roi_se_% |
 |:------------------------------|--------:|-------------------:|-------------:|------------:|-----------:|---------------:|----------:|------:|--------:|-----------:|
-| price flag (price edge >= 2c) |       0 |             nan    |          nan |      nan    |     nan    |         nan    |       nan |   nan |  nan    |     nan    |
-| model+price flag (alert rule) |       0 |             nan    |          nan |      nan    |     nan    |         nan    |       nan |   nan |  nan    |     nan    |
-| all sides (baseline)          |     123 |              -1.86 |          123 |       -1.85 |       0.12 |          10.57 |       101 |    50 |   16.31 |      14.44 |
+| price flag (price edge >= 2c) |       1 |               2.04 |            1 |        2.04 |     nan    |         100    |         0 |     0 |  nan    |     nan    |
+| model+price flag (alert rule) |       1 |               2.04 |            1 |        2.04 |     nan    |         100    |         0 |     0 |  nan    |     nan    |
+| all sides (baseline)          |     143 |              -1.88 |          143 |       -1.87 |       0.11 |           9.79 |       101 |    50 |   16.31 |      14.44 |
+
+## Price flags (most recent 25)
+
+| ts           | source   | player         | opp               |   cost |   pin_fair |   close |   clv |   won |
+|:-------------|:---------|:---------------|:------------------|-------:|-----------:|--------:|------:|------:|
+| Nov 4 7:17PM | poly     | Carlos Alcaraz | Matteo Berrettini |  0.808 |      0.828 |   0.828 |  0.02 |   nan |
 
 ## Tennis Tonic picks (graded vs Kalshi price; edge only if pick_won_% beats market_said_%)
 
 |   graded_picks |   pick_won_% |   market_said_% |   roi_at_kalshi_% |   roi_se_% |   logged_picks |
 |---------------:|-------------:|----------------:|------------------:|-----------:|---------------:|
-|            112 |        66.07 |           67.08 |             -8.78 |       6.56 |            162 |
+|            113 |        65.49 |           67.03 |             -9.59 |       6.55 |            162 |
 
 ## Kalshi + Polymarket arbitrage check (best combo per match, all-in)
 
@@ -20,4 +26,4 @@ Snapshots: 34 runs, Nov 3 to Nov 5 01:17Z. Phase 3 gate: price flags beat the cl
 |:-----------|-------:|-------------:|----------:|--------------:|
 | 2026-11-03 |      4 |       1.0014 |         0 |             4 |
 | 2026-11-04 |     22 |       0.9769 |         3 |             7 |
-| 2026-11-05 |      2 |       0.9669 |         2 |             2 |
+| 2026-11-05 |      3 |       0.9669 |         3 |             3 |
