@@ -5,7 +5,7 @@ Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 0-1 | -1.00 | 0 |
-| Track only | all 15 | 6-7 | -3.36 | 2-3 | -2.57 | 4 |
+| Track only | all 15 | 6-7 | -3.36 | 2-3 | -2.57 | 5 |
 | Split | all 15 | 3-5 | -2.35 | 6-4 | +2.05 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 2-3 | -1.27 | 1-2 | -1.66 | 1 |
@@ -24,3 +24,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-05 | UEL | AC Sparta Praha vs. AFC Bournemouth | AFC Bournemouth win: Yes (3-way) | Track only | pre-game | yabanci; darkumbreon88 | — | 63.5c |
 | 2026-11-05 | UEL | Crystal Palace FC vs. TSG 1899 Hoffenheim | Crystal Palace FC win: No (3-way) | Split | pre-game | chongchong37; Multicoloured-Serf | darkumbreon88 | 48.5c |
 | 2026-11-05 | UEL | NEC vs. AS Omónoia Leukosías | NEC win: No (3-way) | Track only | pre-game | 0x9f15613e; 0xd4aa6f8e | — | 40.5c |
+| 2026-11-05 | NFL | Jaguars vs. Ravens | Jaguars (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 81.5c |
