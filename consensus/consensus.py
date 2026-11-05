@@ -89,18 +89,21 @@ def positions(wallet):
     return out
 
 
-def side_group(p):
-    if p["outcome"] in ("Over", "Under"):
-        return "tot"
-    if p["outcome"] in ("Yes", "No"):
-        return "yn:" + p["title"]
-    return "team"
-
-
 def side_label(title, outcome):
-    """Yes/No markets (soccer 3-way) need the question in the side, e.g. 'Real Madrid win: No'."""
+    """Readable side incl. the line: 'Jaguars (-9.5)', 'Over 52.5', 'Real Madrid win: No'."""
+    period = re.match(r"(?:.*?\b)?(1H|2H|1Q|2Q|3Q|4Q)\b", title)
+    pre = f"{period.group(1)} " if period else ""
+    sp = re.search(r"Spread: (.+?) \(([-+]?\d+(?:\.\d+)?)\)", title)
+    if sp:
+        team, line = sp.group(1), float(sp.group(2))
+        line = line if outcome == team else -line
+        return f"{pre}{outcome} ({line:+g})"
+    tot = re.search(r"O/U (\d+(?:\.\d+)?)", title)
+    if outcome in ("Over", "Under") and tot:
+        who = re.match(r"(.+?) Team Total", title)
+        return f"{pre}{who.group(1) + ' ' if who else ''}{outcome} {tot.group(1)}"
     if outcome not in ("Yes", "No"):
-        return outcome
+        return f"{pre}{outcome}"
     m = re.match(r"Will (.+?) win\b", title)
     if m:
         return f"{m.group(1)} win: {outcome}"
@@ -141,7 +144,9 @@ def scan(now):
                     and re.search(r"\d{4}-\d{2}-\d{2}$", slug) and slug[-10:] >= since
                     and float(p.get("total_cost_usdc") or 0) >= MIN_STAKE):
                 continue
-            g = games.setdefault((slug, side_group(p)), {})
+            # one bucket per market (e.g. the moneyline, or the -3.5 spread), never across markets:
+            # mixing them let a spread position's price leak into a moneyline alert
+            g = games.setdefault((slug, p["condition_id"]), {})
             s = g.setdefault(p["outcome"], {"who": {}, "size": {}, "best": None})
             s["who"][name] = s["who"].get(name, 0.0) + float(p["total_cost_usdc"])
             s["size"][name] = s["size"].get(name, 0.0) + float(p.get("current_size") or 0)
@@ -228,9 +233,8 @@ def merge(rows, found, now):
         started = st is not None and st <= now
         game = event_info(s["event_slug"]).get("title") or s["title"].split(":")[0]
         game = re.sub(r"\s*-\s*(Game|Map) \d+ Winner$", "", game)
-        existing = next((r for r in rows if (r["condition_id"] == s["condition_id"]
-                                             and str(r["outcome_index"]) == str(s["outcome_index"]))
-                         or (r.get("event_slug") == s["event_slug"] and r["side"] == s["side"])), None)
+        existing = next((r for r in rows if r["condition_id"] == s["condition_id"]
+                         and str(r["outcome_index"]) == str(s["outcome_index"])), None)
         if existing:
             if (t == "Paper play" and existing["tier"] != "Paper play" and existing["status"] == "open"
                     and not started):
