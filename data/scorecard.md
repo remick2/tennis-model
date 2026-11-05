@@ -1,19 +1,19 @@
-# Phase 2 scorecard  (Thu Nov 5 4:17AM MT)
+# Phase 2 scorecard  (Thu Nov 5 5:17AM MT)
 
-Snapshots: 46 runs, Nov 3 to Nov 5 11:17Z. Phase 3 gate (GATE row): US-venue price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
+Snapshots: 47 runs, Nov 3 to Nov 5 12:17Z. Phase 3 gate (GATE row): US-venue price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
 
 | group                                                  |   sides |   avg_price_edge_c |   with_close |   avg_clv_c |   clv_se_c |   beat_close_% |   settled |   won |   roi_% |   roi_se_% |
 |:-------------------------------------------------------|--------:|-------------------:|-------------:|------------:|-----------:|---------------:|----------:|------:|--------:|-----------:|
 | GATE: price flag on US venues (Kalshi + Polymarket US) |       0 |             nan    |          nan |      nan    |     nan    |         nan    |       nan |   nan |  nan    |     nan    |
 | price flag, all venues incl. Polymarket intl           |       1 |               2.04 |            1 |        3.18 |     nan    |         100    |         0 |     0 |  nan    |     nan    |
 | model+price flag (alert rule)                          |       1 |               2.04 |            1 |        3.18 |     nan    |         100    |         0 |     0 |  nan    |     nan    |
-| all sides (baseline)                                   |     143 |              -1.88 |          143 |       -1.87 |       0.12 |          11.19 |       101 |    50 |   16.31 |      14.44 |
+| all sides (baseline)                                   |     143 |              -1.88 |          143 |       -1.87 |       0.12 |          11.19 |       105 |    52 |   14.43 |      13.98 |
 
 ## Tennis Tonic picks (graded vs Kalshi price; edge only if pick_won_% beats market_said_%)
 
 |   graded_picks |   pick_won_% |   market_said_% |   roi_at_kalshi_% |   roi_se_% |   logged_picks |
 |---------------:|-------------:|----------------:|------------------:|-----------:|---------------:|
-|            116 |        66.38 |           67.12 |             -8.31 |       6.42 |            212 |
+|            117 |        65.81 |           66.98 |              -9.1 |       6.42 |            212 |
 
 ## Kalshi + Polymarket arbitrage check (best combo per match, all-in)
 
@@ -21,4 +21,4 @@ Snapshots: 46 runs, Nov 3 to Nov 5 11:17Z. Phase 3 gate (GATE row): US-venue pri
 |:-----------|-------:|-------------:|----------:|--------------:|
 | 2026-11-03 |      4 |       1.0014 |         0 |             4 |
 | 2026-11-04 |     22 |       0.9769 |         3 |             7 |
-| 2026-11-05 |     14 |       0.6918 |        11 |            12 |
+| 2026-11-05 |     15 |       0.6918 |        11 |            12 |
