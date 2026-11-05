@@ -34,7 +34,8 @@ def same(a, b):
 
 
 def settled(since_ts):
-    """Kalshi event -> winner name (yes_sub_title of the market that settled yes)."""
+    """Kalshi event -> {player: payout per $1 contract}. Normal results pay 1/0; walkovers/withdrawals
+    settle 'scalar' at the last fair price (e.g. Berrettini w/o vs Alcaraz, Nov 5: 0.16/0.84)."""
     win = {}
     for s in SERIES:
         cur = None
@@ -50,8 +51,11 @@ def settled(since_ts):
                 time.sleep(2)
             d = r.json()
             for m in d.get("markets", []):
-                if m.get("result") == "yes":
-                    win[m["event_ticker"]] = m.get("yes_sub_title")
+                r_ = m.get("result")
+                if r_ in ("yes", "no"):
+                    win.setdefault(m["event_ticker"], {})[m.get("yes_sub_title")] = 1.0 if r_ == "yes" else 0.0
+                elif r_ == "scalar" and m.get("settlement_value_dollars"):
+                    win.setdefault(m["event_ticker"], {})[m.get("yes_sub_title")] = float(m["settlement_value_dollars"])
             cur = d.get("cursor")
             if not cur or not d.get("markets"):
                 break
@@ -79,9 +83,12 @@ def grade(d, win):
         p = p[[same(x, r.player) for x in p.player]]
         return p.sort_values("ts").fair.iloc[-1] if len(p) else np.nan
 
-    def won(r):
+    def won(r):  # payout per contract: 1/0, or the walkover fair price
         w = win.get(r.kalshi_event)
-        return np.nan if w is None else float(same(w, r.player))
+        if not w:
+            return np.nan
+        hit = [v for n, v in w.items() if n and same(n, r.player)]
+        return hit[0] if hit else np.nan
 
     us = mk.source.isin(["kalshi", "polyus"])
     groups = {"GATE: price flag on US venues (Kalshi + Polymarket US)": (mk.price_edge >= MIN_EDGE) & us,
@@ -97,7 +104,7 @@ def grade(d, win):
         g["close"] = [close_fair(r) for r in g.itertuples()]
         g["clv"] = g.close - g.cost
         g["won"] = [won(r) for r in g.itertuples()]
-        g["pnl"] = np.where(g.won == 1, 1 / g.cost - 1, np.where(g.won == 0, -1.0, np.nan))
+        g["pnl"] = g.won / g.cost - 1  # NaN until settled; walkovers pay the fair price
         c, s = g.clv.dropna(), g.pnl.dropna()
         out.append({"group": name, "sides": len(g), "avg_price_edge_c": 100 * g.price_edge.mean(),
                     "with_close": len(c), "avg_clv_c": 100 * c.mean() if len(c) else np.nan,
@@ -138,10 +145,11 @@ def tonic_grade(d, win):
             continue
         x = c.iloc[0]
         w = win.get(x.event)
-        if w is None:
-            continue
+        hit = [v for n, v in (w or {}).items() if n and same(n, r.pick)]
+        if not hit or hit[0] not in (0.0, 1.0):
+            continue  # unsettled, or a walkover (Tonic's pick wasn't tested)
         mkt = x.pin_fair if x.pin_fair == x.pin_fair else (x.bid + x.ask) / 2
-        rows.append({"won": float(same(w, r.pick)), "mkt": mkt, "cost": x.cost})
+        rows.append({"won": hit[0], "mkt": mkt, "cost": x.cost})
     if not rows:
         return pd.DataFrame()
     g = pd.DataFrame(rows)
