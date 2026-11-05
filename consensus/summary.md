@@ -1,11 +1,11 @@
-# Consensus paper tracker — Thu Nov 5, 3:40PM MT
+# Consensus paper tracker — Thu Nov 5, 4:40PM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| Paper play | all 15 | 1-2 | -0.98 | 0-1 | -1.00 | 1 |
-| Track only | all 15 | 7-8 | -3.79 | 2-3 | -2.57 | 3 |
+| Paper play | all 15 | 1-2 | -0.98 | 0-1 | -1.00 | 0 |
+| Track only | all 15 | 7-8 | -3.79 | 2-3 | -2.57 | 5 |
 | Split | all 15 | 4-5 | -1.29 | 6-4 | +2.05 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 2-3 | -1.27 | 1-2 | -1.66 | 1 |
@@ -21,6 +21,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-08 | NFL | Cardinals vs. Seahawks | Seahawks (Moneyline) | Track only | pre-game | ic4cream; darkumbreon88 | — | 77.5c |
 | 2026-11-08 | NFL | Rams vs. Commanders | Commanders (Spread) | Split | pre-game | monkeymashingkeyboard; ic4cream | darkumbreon88 | 52.5c |
 | 2026-11-05 | CFB | James Madison vs. Southern Miss | Southern Miss (Spread) | Track only | pre-game | 0xb4F978BE; Multicoloured-Serf | — | 49.5c |
-| 2026-11-05 | NFL | Jaguars vs. Ravens | Jaguars (Moneyline) | Paper play | pre-game | monkeymashingkeyboard; Multicoloured-Serf; darkumbreon88 | — | 49.5c |
 | 2026-11-08 | NFL | Jets vs. Chiefs | Chiefs (Spread) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 67.0c |
 | 2026-11-05 | NBA | Heat vs. Warriors | Heat (Spread) | Split | pre-game | 0xb4F978BE; Multicoloured-Serf | darkumbreon88 | 60.5c |
+| 2026-11-05 | NBA | Heat vs. Warriors | Warriors (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 60.5c |
+| 2026-11-05 | NFL | Jaguars vs. Ravens | Jaguars (Moneyline) | Track only | pre-game | Multicoloured-Serf; darkumbreon88 | — | 79.5c |
