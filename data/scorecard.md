@@ -1,6 +1,6 @@
-# Phase 2 scorecard  (Fri Nov 6 5:17AM MT)
+# Phase 2 scorecard  (Fri Nov 6 6:17AM MT)
 
-Snapshots: 76 runs, Nov 3 to Nov 6 12:17Z. Phase 3 gate (GATE row): US-venue price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
+Snapshots: 77 runs, Nov 3 to Nov 6 13:17Z. Phase 3 gate (GATE row): US-venue price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
 
 | group                                                  |   sides |   avg_price_edge_c |   with_close |   avg_clv_c |   clv_se_c |   beat_close_% |   settled |   won |   roi_% |   roi_se_% |
 |:-------------------------------------------------------|--------:|-------------------:|-------------:|------------:|-----------:|---------------:|----------:|------:|--------:|-----------:|
@@ -13,7 +13,7 @@ Snapshots: 76 runs, Nov 3 to Nov 6 12:17Z. Phase 3 gate (GATE row): US-venue pri
 
 |   graded_picks |   pick_won_% |   market_said_% |   roi_at_kalshi_% |   roi_se_% |   logged_picks |
 |---------------:|-------------:|----------------:|------------------:|-----------:|---------------:|
-|            154 |        66.88 |           66.19 |             -5.75 |       5.69 |            227 |
+|            155 |        66.45 |           66.11 |             -6.36 |       5.69 |            227 |
 
 ## Kalshi + Polymarket arbitrage check (best combo per match, all-in)
 
@@ -22,4 +22,4 @@ Snapshots: 76 runs, Nov 3 to Nov 6 12:17Z. Phase 3 gate (GATE row): US-venue pri
 | 2026-11-03 |      4 |       1.0014 |         0 |             4 |
 | 2026-11-04 |     22 |       0.9769 |         3 |             7 |
 | 2026-11-05 |     29 |       0.6918 |        17 |            19 |
-| 2026-11-06 |     15 |       0.9679 |         2 |             2 |
+| 2026-11-06 |     16 |       0.9679 |         2 |             2 |
