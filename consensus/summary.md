@@ -1,4 +1,4 @@
-# Consensus paper tracker — Fri Nov 6, 6:40AM MT
+# Consensus paper tracker — Fri Nov 6, 7:40AM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
@@ -6,10 +6,10 @@ Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 0-1 | -1.00 | 0 |
 | Track only | all 15 | 10-9 | -3.46 | 2-3 | -2.57 | 3 |
-| Split | all 15 | 4-6 | -2.29 | 7-5 | +1.39 | 2 |
+| Split | all 15 | 4-6 | -2.29 | 7-5 | +1.39 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 2-3 | -1.27 | 2-2 | -1.32 | 1 |
-| Split | core 10 only | 0-0 | +0.00 | 1-1 | -0.52 | 0 |
+| Split | core 10 only | 0-0 | +0.00 | 1-1 | -0.52 | 1 |
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
 
@@ -22,3 +22,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-08 | NFL | Rams vs. Commanders | Commanders (Spread) | Split | pre-game | monkeymashingkeyboard; ic4cream | darkumbreon88 | 52.5c |
 | 2026-11-08 | NFL | Jets vs. Chiefs | Chiefs (Spread) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 67.0c |
 | 2026-11-08 | NFL | Jets vs. Chiefs | Chiefs (-9.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 50.5c |
+| 2026-11-06 | NBA | Thunder vs. Grizzlies | Grizzlies (Moneyline) | Split | pre-game | monkeymashingkeyboard; drainedandpoor | ic4cream | 40.5c |
