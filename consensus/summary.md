@@ -1,4 +1,4 @@
-# Consensus paper tracker — Thu Nov 5, 6:40PM MT
+# Consensus paper tracker — Thu Nov 5, 7:40PM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
@@ -6,9 +6,9 @@ Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 0-1 | -1.00 | 0 |
 | Track only | all 15 | 7-8 | -3.79 | 2-3 | -2.57 | 5 |
-| Split | all 15 | 4-5 | -1.29 | 6-4 | +2.05 | 3 |
+| Split | all 15 | 4-5 | -1.29 | 6-4 | +2.05 | 4 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Track only | core 10 only | 2-3 | -1.27 | 1-2 | -1.66 | 1 |
+| Track only | core 10 only | 2-3 | -1.27 | 1-2 | -1.66 | 2 |
 | Split | core 10 only | 0-0 | +0.00 | 1-1 | -0.52 | 0 |
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
@@ -25,3 +25,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-05 | NBA | Heat vs. Warriors | Heat (Spread) | Split | pre-game | 0xb4F978BE; Multicoloured-Serf | darkumbreon88 | 60.5c |
 | 2026-11-05 | NBA | Heat vs. Warriors | Warriors (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 60.5c |
 | 2026-11-05 | NFL | Jaguars vs. Ravens | Jaguars (Moneyline) | Track only | pre-game | Multicoloured-Serf; darkumbreon88 | — | 79.5c |
+| 2026-11-05 | NBA | Magic vs. Suns | Suns (Moneyline) | Split | in-play | jakepaulthegoat2008; drainedandpoor; darkumbreon88 | Multicoloured-Serf | 74.5c |
