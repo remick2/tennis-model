@@ -1,14 +1,14 @@
-# Consensus paper tracker — Sat Nov 7, 1:40AM MT
+# Consensus paper tracker — Sat Nov 7, 2:40AM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-1 | -0.43 | 0 |
-| Track only | all 15 | 16-11 | +0.09 | 5-3 | +1.23 | 8 |
+| Track only | all 15 | 16-11 | +0.09 | 6-3 | +2.58 | 7 |
 | Split | all 15 | 6-9 | -4.01 | 9-7 | +1.11 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Track only | core 10 only | 2-5 | -3.27 | 3-2 | -1.27 | 2 |
+| Track only | core 10 only | 2-5 | -3.27 | 4-2 | +0.08 | 1 |
 | Split | core 10 only | 0-1 | -1.00 | 1-2 | -1.52 | 0 |
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
@@ -27,4 +27,3 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-08 | NFL | Broncos vs. Panthers | Broncos (-2.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 52.5c |
 | 2026-11-07 | CFB | Liberty vs. New Mexico State | Liberty (-16.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 48.5c |
 | 2026-11-07 | LoL | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G (Moneyline) | Track only | pre-game | jakepaulthegoat2008; darkumbreon88 | — | 80.5c |
-| 2026-11-06 | CS2 | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | TheMongolz (Single game) | Track only | in-play | jakepaulthegoat2008; drainedandpoor | — | 42.5c |
