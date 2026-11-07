@@ -1,12 +1,12 @@
-# Consensus paper tracker — Sat Nov 7, 9:40AM MT
+# Consensus paper tracker — Sat Nov 7, 10:40AM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-1 | -0.43 | 0 |
-| Track only | all 15 | 16-11 | +0.09 | 7-3 | +4.11 | 12 |
-| Split | all 15 | 6-9 | -4.01 | 9-7 | +1.11 | 3 |
+| Track only | all 15 | 16-11 | +0.09 | 7-3 | +4.11 | 13 |
+| Split | all 15 | 6-9 | -4.01 | 9-7 | +1.11 | 4 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 2-5 | -3.27 | 4-2 | +0.08 | 2 |
 | Split | core 10 only | 0-1 | -1.00 | 1-2 | -1.52 | 0 |
@@ -32,3 +32,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-07 | CFB | Oklahoma State vs. Kansas State | Kansas State (+7.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 53.5c |
 | 2026-11-07 | CFB | Oklahoma State vs. Kansas State | Under 63.5 (Moneyline) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 50.5c |
 | 2026-11-07 | CFB | Cincinnati vs. Houston | Cincinnati (+10.5) (Spread) | Track only | pre-game | 0xb4F978BE; ic4cream | — | 50.5c |
+| 2026-11-07 | CFB | Texas vs. Missouri | Texas (Moneyline) | Track only | in-play | monkeymashingkeyboard; Multicoloured-Serf | — | 55.5c |
+| 2026-11-07 | EPL | Nottingham Forest FC vs. Manchester City FC | Manchester City FC win: Yes (3-way) | Split | in-play | ch27er; darkumbreon88 | Multicoloured-Serf | 40.5c |
