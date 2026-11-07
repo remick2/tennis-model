@@ -1,11 +1,11 @@
-# Consensus paper tracker — Sat Nov 7, 6:40AM MT
+# Consensus paper tracker — Sat Nov 7, 7:40AM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-1 | -0.43 | 0 |
-| Track only | all 15 | 16-11 | +0.09 | 6-3 | +2.58 | 7 |
+| Track only | all 15 | 16-11 | +0.09 | 6-3 | +2.58 | 8 |
 | Split | all 15 | 6-9 | -4.01 | 9-7 | +1.11 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 2-5 | -3.27 | 4-2 | +0.08 | 1 |
@@ -27,3 +27,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-08 | NFL | Broncos vs. Panthers | Broncos (-2.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 52.5c |
 | 2026-11-07 | CFB | Liberty vs. New Mexico State | Liberty (-16.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 48.5c |
 | 2026-11-07 | LoL | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G (Moneyline) | Track only | pre-game | jakepaulthegoat2008; darkumbreon88 | — | 80.5c |
+| 2026-11-07 | Serie A | Cagliari Calcio vs. Frosinone Calcio | Cagliari Calcio win: Yes (3-way) | Track only | in-play | 0xb4F978BE; darkumbreon88 | — | 39.5c |
