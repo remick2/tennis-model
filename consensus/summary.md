@@ -1,14 +1,14 @@
-# Consensus paper tracker — Sat Nov 7, 3:40PM MT
+# Consensus paper tracker — Sat Nov 7, 4:40PM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-2 | -1.43 | 0 |
-| Track only | all 15 | 16-13 | -1.91 | 8-4 | +3.91 | 11 |
+| Track only | all 15 | 16-13 | -1.91 | 9-4 | +4.85 | 11 |
 | Split | all 15 | 6-9 | -4.01 | 10-8 | +1.93 | 4 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Track only | core 10 only | 2-5 | -3.27 | 4-2 | +0.08 | 2 |
+| Track only | core 10 only | 2-5 | -3.27 | 4-2 | +0.08 | 3 |
 | Split | core 10 only | 0-1 | -1.00 | 1-2 | -1.52 | 0 |
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
@@ -30,5 +30,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-07 | NBA | Nuggets vs. Pacers | Under 230.5 (Moneyline) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 53.5c |
 | 2026-11-07 | CFB | Oklahoma vs. Florida | Florida (-5.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 46.5c |
 | 2026-11-07 | CFB | Cincinnati vs. Houston | Cincinnati (+10.5) (Spread) | Track only | pre-game | 0xb4F978BE; ic4cream | — | 50.5c |
-| 2026-11-07 | CFB | Alabama vs. LSU | Alabama (+6.5) (Spread) | Track only | in-play | 0xb4F978BE; Multicoloured-Serf | — | 51.5c |
 | 2026-11-07 | NBA | Nuggets vs. Pacers | Under 229.5 (Moneyline) | Split | pre-game | monkeymashingkeyboard; Multicoloured-Serf | googleplay | 50.5c |
+| 2026-11-07 | CFB | Oklahoma vs. Florida | Oklahoma (+6.5) (Spread) | Track only | pre-game | 0xb4F978BE; 0x9f15613e | — | 57.0c |
