@@ -1,12 +1,12 @@
-# Consensus paper tracker — Sat Nov 7, 12:40PM MT
+# Consensus paper tracker — Sat Nov 7, 1:40PM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-2 | -1.43 | 0 |
-| Track only | all 15 | 16-12 | -0.91 | 7-3 | +4.11 | 13 |
-| Split | all 15 | 6-9 | -4.01 | 9-8 | +0.11 | 4 |
+| Track only | all 15 | 16-13 | -1.91 | 8-4 | +3.91 | 11 |
+| Split | all 15 | 6-9 | -4.01 | 10-8 | +1.93 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 2-5 | -3.27 | 4-2 | +0.08 | 2 |
 | Split | core 10 only | 0-1 | -1.00 | 1-2 | -1.52 | 0 |
@@ -29,8 +29,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-07 | LoL | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G (Moneyline) | Track only | pre-game | jakepaulthegoat2008; darkumbreon88 | — | 80.5c |
 | 2026-11-07 | NBA | Nuggets vs. Pacers | Under 230.5 (Moneyline) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 53.5c |
 | 2026-11-07 | CFB | Oklahoma vs. Florida | Florida (-5.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 46.5c |
-| 2026-11-07 | CFB | Oklahoma State vs. Kansas State | Kansas State (+7.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 53.5c |
 | 2026-11-07 | CFB | Cincinnati vs. Houston | Cincinnati (+10.5) (Spread) | Track only | pre-game | 0xb4F978BE; ic4cream | — | 50.5c |
-| 2026-11-07 | CFB | Texas vs. Missouri | Texas (Moneyline) | Track only | in-play | monkeymashingkeyboard; Multicoloured-Serf | — | 55.5c |
-| 2026-11-07 | CFB | BYU vs. Utah | Utah (Moneyline) | Split | in-play | Multicoloured-Serf; darkumbreon88 | ethanaz | 35.5c |
-| 2026-11-07 | CFB | UCLA vs. Minnesota | Minnesota (Moneyline) | Track only | in-play | ethanaz; Multicoloured-Serf | — | 33.5c |
+| 2026-11-07 | CFB | Alabama vs. LSU | Alabama (+6.5) (Spread) | Track only | in-play | 0xb4F978BE; Multicoloured-Serf | — | 51.5c |
