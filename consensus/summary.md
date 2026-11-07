@@ -1,15 +1,15 @@
-# Consensus paper tracker — Fri Nov 6, 7:40PM MT
+# Consensus paper tracker — Fri Nov 6, 8:40PM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| Paper play | all 15 | 1-2 | -0.98 | 0-1 | -1.00 | 1 |
-| Track only | all 15 | 12-10 | -2.18 | 3-3 | -1.74 | 11 |
-| Split | all 15 | 5-8 | -3.64 | 8-5 | +1.44 | 8 |
+| Paper play | all 15 | 1-2 | -0.98 | 1-1 | -0.43 | 0 |
+| Track only | all 15 | 14-10 | -0.12 | 3-3 | -1.74 | 11 |
+| Split | all 15 | 6-8 | -3.01 | 8-7 | -0.56 | 5 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 2-4 | -2.27 | 3-2 | -1.27 | 2 |
-| Split | core 10 only | 0-1 | -1.00 | 1-1 | -0.52 | 1 |
+| Split | core 10 only | 0-1 | -1.00 | 1-2 | -1.52 | 0 |
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
 
@@ -23,17 +23,13 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-08 | NFL | Jets vs. Chiefs | Chiefs (Spread) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 67.0c |
 | 2026-11-08 | NFL | Jets vs. Chiefs | Chiefs (-9.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 50.5c |
 | 2026-11-06 | CFB | TCU vs. Arizona | TCU (+6.5) (Spread) | Track only | pre-game | Multicoloured-Serf; darkumbreon88 | — | 47.5c |
-| 2026-11-06 | NBA | 76ers vs. Cavaliers | Cavaliers (Moneyline) | Track only | pre-game | chongchong37; Multicoloured-Serf | — | 41.5c |
 | 2026-11-07 | CFB | Western Kentucky vs. Middle Tennessee | Middle Tennessee (Moneyline) | Split | pre-game | 0x9f15613e; Multicoloured-Serf | 0xb4F978BE | 43.5c |
-| 2026-11-06 | NBA | Raptors vs. Bucks | Raptors (Moneyline) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 60.5c |
 | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
 | 2026-11-08 | NFL | Broncos vs. Panthers | Broncos (-2.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 52.5c |
-| 2026-11-06 | NBA | 76ers vs. Cavaliers | 76ers (Moneyline) | Split | in-play | ch27er; darkumbreon88 | Multicoloured-Serf; chongchong37; monkeymashingkeyboard | 57.5c |
-| 2026-11-06 | NBA | Timberwolves vs. Pelicans | Timberwolves (Moneyline) | Split | pre-game | jakepaulthegoat2008; ch27er | Multicoloured-Serf | 61.5c |
 | 2026-11-06 | NBA | Spurs vs. Kings | Spurs (Moneyline) | Track only | pre-game | jakepaulthegoat2008; Multicoloured-Serf | — | 90.5c |
 | 2026-11-06 | CFB | Nebraska vs. Illinois | Nebraska (-4.5) (Spread) | Split | pre-game | 0xb4F978BE; Multicoloured-Serf | ic4cream | 49.5c |
-| 2026-11-06 | NBA | Raptors vs. Bucks | Bucks (Moneyline) | Split | in-play | monkeymashingkeyboard; googleplay | 0x9f15613e; Multicoloured-Serf; jakepaulthegoat2008 | 54.5c |
-| 2026-11-06 | NBA | Jazz vs. Mavericks | Mavericks (Moneyline) | Paper play | in-play | jakepaulthegoat2008; Multicoloured-Serf; darkumbreon88 | — | 63.5c |
 | 2026-11-06 | CFB | South Florida vs. East Carolina | East Carolina (Moneyline) | Split | in-play | 0xb4F978BE; Multicoloured-Serf | ethanaz | 37.5c |
 | 2026-11-06 | NBA | Timberwolves vs. Pelicans | Timberwolves (-3.5) (Spread) | Track only | in-play | drainedandpoor; Multicoloured-Serf | — | 40.0c |
 | 2026-11-06 | CFB | TCU vs. Arizona | Arizona (-5.5) (Spread) | Track only | pre-game | 0xb4F978BE; 0x9f15613e | — | 52.5c |
+| 2026-11-06 | NBA | Trail Blazers vs. Lakers | Lakers (Moneyline) | Track only | in-play | monkeymashingkeyboard; ch27er | — | 40.5c |
+| 2026-11-07 | CFB | Liberty vs. New Mexico State | Liberty (-16.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 48.5c |
