@@ -1,11 +1,11 @@
-# Consensus paper tracker — Fri Nov 6, 10:40PM MT
+# Consensus paper tracker — Fri Nov 6, 11:40PM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-1 | -0.43 | 0 |
-| Track only | all 15 | 15-10 | -0.02 | 4-3 | -0.24 | 9 |
+| Track only | all 15 | 15-10 | -0.02 | 5-3 | +1.23 | 9 |
 | Split | all 15 | 6-9 | -4.01 | 9-7 | +1.11 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 2-4 | -2.27 | 3-2 | -1.27 | 2 |
@@ -27,5 +27,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
 | 2026-11-08 | NFL | Broncos vs. Panthers | Broncos (-2.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 52.5c |
 | 2026-11-06 | CFB | TCU vs. Arizona | Arizona (-5.5) (Spread) | Track only | pre-game | 0xb4F978BE; 0x9f15613e | — | 52.5c |
-| 2026-11-06 | NBA | Trail Blazers vs. Lakers | Lakers (Moneyline) | Track only | in-play | monkeymashingkeyboard; ch27er | — | 40.5c |
 | 2026-11-07 | CFB | Liberty vs. New Mexico State | Liberty (-16.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 48.5c |
+| 2026-11-07 | LoL | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G (Moneyline) | Track only | pre-game | jakepaulthegoat2008; darkumbreon88 | — | 80.5c |
