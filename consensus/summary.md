@@ -1,12 +1,12 @@
-# Consensus paper tracker — Sat Nov 7, 10:40AM MT
+# Consensus paper tracker — Sat Nov 7, 11:40AM MT
 
 Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal was logged.
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| Paper play | all 15 | 1-2 | -0.98 | 1-1 | -0.43 | 0 |
-| Track only | all 15 | 16-11 | +0.09 | 7-3 | +4.11 | 13 |
-| Split | all 15 | 6-9 | -4.01 | 9-7 | +1.11 | 4 |
+| Paper play | all 15 | 1-2 | -0.98 | 1-1 | -0.43 | 1 |
+| Track only | all 15 | 16-11 | +0.09 | 7-3 | +4.11 | 14 |
+| Split | all 15 | 6-9 | -4.01 | 9-7 | +1.11 | 5 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 2-5 | -3.27 | 4-2 | +0.08 | 2 |
 | Split | core 10 only | 0-1 | -1.00 | 1-2 | -1.52 | 0 |
@@ -34,3 +34,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-07 | CFB | Cincinnati vs. Houston | Cincinnati (+10.5) (Spread) | Track only | pre-game | 0xb4F978BE; ic4cream | — | 50.5c |
 | 2026-11-07 | CFB | Texas vs. Missouri | Texas (Moneyline) | Track only | in-play | monkeymashingkeyboard; Multicoloured-Serf | — | 55.5c |
 | 2026-11-07 | EPL | Nottingham Forest FC vs. Manchester City FC | Manchester City FC win: Yes (3-way) | Split | in-play | ch27er; darkumbreon88 | Multicoloured-Serf | 40.5c |
+| 2026-11-07 | EPL | Nottingham Forest FC vs. Manchester City FC | Nottingham Forest FC win: No (3-way) | Paper play | in-play | yabanci; darkumbreon88; 0xd4aa6f8e | — | 25.5c |
+| 2026-11-07 | CFB | BYU vs. Utah | Utah (Moneyline) | Split | in-play | Multicoloured-Serf; darkumbreon88 | ethanaz | 35.5c |
+| 2026-11-07 | CFB | UCLA vs. Minnesota | Minnesota (Moneyline) | Track only | in-play | ethanaz; Multicoloured-Serf | — | 33.5c |
