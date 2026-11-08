@@ -41,13 +41,13 @@ MT = ZoneInfo("America/Denver")
 # name -> proxy wallet. The first 10 are the "core 10".
 TRADERS = {
     "monkeymashingkeyboard": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
-    "googleplay": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "purplegatto": "0x032eb1bc893940263ad0b01889f262fc232f2a9e",  # Nov 7, replaced googleplay (2.4/day)
     "jakepaulthegoat2008": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
     "0xb4F978BE": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
     "chongchong37": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
     "yabanci": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
     "drainedandpoor": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
-    "ethanaz": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "999585": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",  # Nov 7, replaced ethanaz (both sides of 29% of markets)
     "0x9f15613e": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
     "ic4cream": "0x27f738fe203827445690339104aae35b20bc44b0",
     # Nov 7: replaced Multicoloured-Serf (~22 directional mkts/day, both sides of 20% of markets; he was in
@@ -55,8 +55,8 @@ TRADERS = {
     "BreakTheBank": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
     "ch27er": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
     "darkumbreon88": "0x0235dc24b38772bf3339a9e5ec5db3d3a05fcee5",
-    "scootergene": "0xf3a6ac44c5c90ff2b4afa4459f71acc2e57971bd",
-    "0xd4aa6f8e": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "JoeyAroyyOO": "0xc3744a19f42266ce6fa2736f52eae6e178b20f3e",  # Nov 7, replaced scootergene (0.4/day)
+    "Kyn008": "0xd29312e2446a746bbd94408e1c475f1ec6d7d683",  # Nov 7, replaced 0xd4aa6f8e (2.1/day)
 }
 CORE10 = list(TRADERS)[:10]
 
@@ -340,7 +340,8 @@ RULES = ("Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, n
 def write_summary(rows, now):
     lines = [f"# Consensus paper tracker — {now.astimezone(MT):%a %b %-d, %-I:%M%p} MT", "",
              f"Paper tracking only, since {START_DATE}. 1 unit flat at the price when each signal was logged. "
-             "Roster change Nov 7 ~6pm MT: Multicoloured-Serf out, BreakTheBank in.",
+             "Roster change Nov 7 ~6-7pm MT: Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene out; "
+             "BreakTheBank, purplegatto, 999585, Kyn008 and JoeyAroyyOO in ('core 10' = the first 10 slots).",
              "", *record_table(rows), "", RULES, "",
              "## Open signals", "", "| Date | League | Game | Side | Rule | Timing | Agree | Against | Logged at |",
              "|---|---|---|---|---|---|---|---|---|"]
