@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 8, 7:40AM MT
+# Consensus paper tracker — Sun Nov 8, 8:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,7 +9,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
-| Track only | all 15 | 0-1 | -1.00 | 0-0 | +0.00 | 3 |
+| Track only | all 15 | 0-1 | -1.00 | 2-0 | +0.74 | 2 |
 | Split | all 15 | 1-0 | +0.48 | 4-1 | +0.27 | 4 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
@@ -30,25 +30,25 @@ Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Ro
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
 
-## Roster health (last 7 days, checked 2026-11-07)
+## Roster health (last 7 days, checked 2026-11-08)
 
 | Trader | Bets/day | Active days | Both-sides % | Share of agreements | Avg stake | Top sports |
 |---|---|---|---|---|---|---|
-| monkeymashingkeyboard | 14.3 | 8 | 2% | 0% of 4 | $18,229 | nba,nfl,wta |
-| purplegatto | 12.4 | 5 | 8% | 50% of 4 | $5,098 | cfb,nba,nfl |
-| jakepaulthegoat2008 | 13.0 | 7 | 3% | 50% of 4 | $58,458 | nba,lol,cs2 |
-| 0xb4F978BE | 15.4 | 8 | 4% | 0% of 4 | $12,272 | cfb,nfl,nba |
-| chongchong37 | 5.0 | 7 | 2% | 0% of 4 | $6,962 | nba,ucl,rou1 |
-| yabanci | 4.4 | 7 | 2% | 0% of 4 | $23,092 | cs2,uel,nba |
-| drainedandpoor | 5.6 | 7 | 2% | 25% of 4 | $13,823 | cs2,nba,lol |
-| 999585 | 8.9 | 7 | 6% | 25% of 4 | $108,953 | cfb,atp,nfl |
-| 0x9f15613e | 16.9 | 8 | 2% | 0% of 4 | $6,889 | nba,cfb,ucl |
-| ic4cream | 5.9 | 8 | 1% | 25% of 4 | $4,240 | nba,cfb,nhl |
-| BreakTheBank | 6.0 | 6 | 0% | 0% of 4 | $121,492 | nba,ucl,nfl |
-| ch27er | 8.9 | 7 | 0% | 0% of 4 | $23,301 | nba,ucl,nhl |
-| darkumbreon88 | 12.0 | 6 | 2% | 50% of 4 | $11,399 | ucl,nba,sea |
-| JoeyAroyyOO | 8.6 | 6 | 0% | 0% of 4 | $5,830 | nba |
-| Kyn008 | 6.9 | 8 | 0% | 0% of 4 | $10,455 | ucl,ere,lal |
+| monkeymashingkeyboard | 14.9 | 8 | 2% | 6% of 16 | $18,057 | nba,nfl,wta |
+| purplegatto | 12.9 | 6 | 7% | 19% of 16 | $5,149 | cfb,nba,nfl |
+| jakepaulthegoat2008 | 13.9 | 8 | 4% | 19% of 16 | $61,554 | nba,cs2,lol |
+| 0xb4F978BE | 16.4 | 8 | 6% | 12% of 16 | $11,981 | cfb,nfl,nba |
+| chongchong37 | 5.0 | 7 | 2% | 0% of 16 | $6,962 | nba,ucl,rou1 |
+| yabanci | 4.0 | 6 | 2% | 0% of 16 | $21,623 | cs2,uel,nba |
+| drainedandpoor | 6.0 | 8 | 2% | 6% of 16 | $14,706 | cs2,nba,lol |
+| 999585 | 8.9 | 8 | 6% | 12% of 16 | $116,070 | cfb,atp,nfl |
+| 0x9f15613e | 17.1 | 8 | 2% | 25% of 16 | $8,389 | nba,nfl,cfb |
+| ic4cream | 6.1 | 8 | 1% | 19% of 16 | $4,264 | nba,cfb,nhl |
+| BreakTheBank | 6.1 | 7 | 0% | 0% of 16 | $118,809 | nba,ucl,nfl |
+| ch27er | 10.3 | 8 | 0% | 25% of 16 | $21,128 | nba,ucl,nhl |
+| darkumbreon88 | 12.6 | 6 | 3% | 50% of 16 | $11,237 | ucl,nba,sea |
+| JoeyAroyyOO | 9.1 | 7 | 0% | 0% of 16 | $6,331 | nba |
+| Kyn008 | 5.4 | 8 | 0% | 12% of 16 | $15,536 | epl,ucl,bra |
 
 ## Open signals
 
@@ -66,5 +66,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-08 | EPL | Sunderland AFC vs. Chelsea FC | Chelsea FC win: No (3-way) | Split | pre-game | 0x9f15613e; Kyn008 | darkumbreon88 | 48.5c |
 | new | 2026-11-08 | NFL | Giants vs. Eagles | Giants (Moneyline) | Split | pre-game | 0x9f15613e; darkumbreon88 | jakepaulthegoat2008 | 58.5c |
 | new | 2026-11-08 | NFL | Giants vs. Eagles | Eagles (+2.5) (Spread) | Split | pre-game | jakepaulthegoat2008; ic4cream | 0x9f15613e | 47.5c |
-| new | 2026-11-08 | EPL | Brighton & Hove Albion FC vs. Brentford FC | Brighton & Hove Albion FC win: Yes (3-way) | Track only | in-play | ch27er; darkumbreon88 | — | 90.5c |
-| new | 2026-11-08 | EPL | Crystal Palace FC vs. Liverpool FC | Liverpool FC win: Yes (3-way) | Track only | in-play | ch27er; darkumbreon88 | — | 61.0c |
+| new | 2026-11-08 | EPL | Sunderland AFC vs. Chelsea FC | Sunderland AFC win: No (3-way) | Track only | in-play | ch27er; darkumbreon88 | — | 29.5c |
