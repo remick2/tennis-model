@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 7, 8:40PM MT
+# Consensus paper tracker — Sat Nov 7, 9:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
-| Track only | all 15 | 0-0 | +0.00 | 0-0 | +0.00 | 1 |
-| Split | all 15 | 0-0 | +0.00 | 1-0 | +0.13 | 2 |
+| Track only | all 15 | 0-1 | -1.00 | 0-0 | +0.00 | 1 |
+| Split | all 15 | 0-0 | +0.00 | 3-0 | +0.53 | 0 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Split | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 2 |
+| Split | core 10 only | 0-0 | +0.00 | 2-0 | +0.40 | 0 |
 
 ## Old roster (Nov 3 – Nov 7, closed)
 
@@ -22,7 +22,7 @@ Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Ro
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-2 | -1.43 | 0 |
-| Track only | all 15 | 20-15 | -1.07 | 9-5 | +3.85 | 6 |
+| Track only | all 15 | 20-16 | -2.07 | 9-5 | +3.85 | 5 |
 | Split | all 15 | 9-10 | -1.86 | 11-9 | +1.37 | 2 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 4-5 | -1.54 | 4-2 | +0.08 | 1 |
@@ -61,7 +61,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | old | 2026-11-08 | NFL | Jets vs. Chiefs | Chiefs (-9.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 50.5c |
 | old | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
 | old | 2026-11-08 | NFL | Broncos vs. Panthers | Broncos (-2.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 52.5c |
-| old | 2026-11-07 | CFB | Liberty vs. New Mexico State | Liberty (-16.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 48.5c |
-| new | 2026-11-07 | NBA | Magic vs. Warriors | Warriors (Moneyline) | Split | in-play | jakepaulthegoat2008; drainedandpoor | monkeymashingkeyboard | 73.5c |
-| new | 2026-11-07 | NBA | Rockets vs. Suns | Rockets (Moneyline) | Track only | pre-game | jakepaulthegoat2008; darkumbreon88 | — | 71.5c |
-| new | 2026-11-07 | CFB | Miami (FL) vs. Notre Dame | Notre Dame (Moneyline) | Split | in-play | 0xb4F978BE; 999585 | purplegatto | 96.0c |
+| new | 2026-11-08 | NFL | Jets vs. Chiefs | Chiefs (Moneyline) | Track only | pre-game | ic4cream; darkumbreon88 | — | 80.5c |
