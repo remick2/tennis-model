@@ -5,7 +5,7 @@ Paper tracking only, since 2026-11-03. 1 unit flat at the price when each signal
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-2 | -1.43 | 0 |
-| Track only | all 15 | 18-13 | -0.06 | 9-4 | +4.85 | 11 |
+| Track only | all 15 | 19-13 | +0.18 | 9-4 | +4.85 | 10 |
 | Split | all 15 | 8-9 | -1.73 | 10-8 | +1.93 | 6 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 3-5 | -2.29 | 4-2 | +0.08 | 2 |
@@ -25,7 +25,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
 | 2026-11-08 | NFL | Broncos vs. Panthers | Broncos (-2.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 52.5c |
 | 2026-11-07 | CFB | Liberty vs. New Mexico State | Liberty (-16.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 48.5c |
-| 2026-11-07 | LoL | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G (Moneyline) | Track only | pre-game | jakepaulthegoat2008; darkumbreon88 | — | 80.5c |
 | 2026-11-07 | CFB | Oklahoma vs. Florida | Florida (-5.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 46.5c |
 | 2026-11-07 | CFB | Oklahoma vs. Florida | Oklahoma (+6.5) (Spread) | Track only | pre-game | 0xb4F978BE; 0x9f15613e | — | 57.0c |
 | 2026-11-07 | NBA | Wizards vs. Thunder | Thunder (-11.5) (Spread) | Split | pre-game | yabanci; Multicoloured-Serf | monkeymashingkeyboard | 53.5c |
