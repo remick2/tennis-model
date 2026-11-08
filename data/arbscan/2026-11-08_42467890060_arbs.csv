@@ -865,3 +865,63 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-08T14:50:06+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.24,Carlos Alcaraz,polyus,0.73,0.9965,0.0,0.0,0.0,0.0,0.28,0.77,1.0764,0.0,2026-11-08T14:49:56+00:00
 2026-11-08T14:52:16+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.27,Carlos Alcaraz,polyus,0.7,0.9984,0.0,34710.25,0.0,0.0,0.3,0.7,1.0293,0.1,2026-11-08T14:52:16+00:00
 2026-11-08T14:52:26+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.27,Carlos Alcaraz,polyus,0.69,0.9887,0.0,0.0,0.0,0.0,0.32,0.7,1.0498,0.1,2026-11-08T14:52:16+00:00
+2026-11-08T14:55:06+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.77,Norbert Gombos,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,0.24,1.0734,0.1,2026-11-08T14:55:06+00:00
+2026-11-08T14:55:16+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.77,Norbert Gombos,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,0.24,1.0734,0.1,2026-11-08T14:55:06+00:00
+2026-11-08T14:55:26+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.77,Norbert Gombos,polyus,0.14,0.9308,0.0,0.0,0.0,0.0,0.87,0.2,1.089,0.1,2026-11-08T14:55:06+00:00
+2026-11-08T14:55:36+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.81,Norbert Gombos,polyus,0.14,0.9691,0.0,0.0,0.0,0.0,0.87,0.2,1.089,0.0,2026-11-08T14:55:06+00:00
+2026-11-08T14:55:46+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.81,Norbert Gombos,polyus,0.14,0.9691,0.0,0.0,0.0,0.0,0.89,0.2,1.108,0.0,2026-11-08T14:55:06+00:00
+2026-11-08T14:55:56+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.81,Norbert Gombos,polyus,0.12,0.9481,0.0,38.0,0.0,0.0,0.9,0.12,1.0336,0.1,2026-11-08T14:55:06+00:00
+2026-11-08T14:56:16+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.81,Norbert Gombos,kalshi,0.12,0.9481,0.0,0.0,0.0,0.0,0.91,0.2,1.1269,0.0,2026-11-08T14:56:16+00:00
+2026-11-08T14:56:16+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.38,Carlos Alcaraz,polyus,0.56,0.9736,0.0,51178.14,0.0,0.0,0.46,0.56,1.0545,0.1,2026-11-08T14:56:16+00:00
+2026-11-08T14:56:26+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.81,Norbert Gombos,kalshi,0.12,0.9481,30087.43,0.0,0.0,0.0,0.81,0.2,1.0319,0.1,2026-11-08T14:56:16+00:00
+2026-11-08T14:56:26+00:00,mannarino v samuel,True,Adrian Mannarino,polyus,0.34,Toby Samuel,kalshi,0.59,0.9625,0.0,0.0,0.0,0.0,0.44,0.67,1.1426,0.1,2026-11-08T14:56:26+00:00
+2026-11-08T14:56:26+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.38,Carlos Alcaraz,polyus,0.55,0.9637,0.0,0.0,0.0,0.0,0.46,0.56,1.0545,0.1,2026-11-08T14:56:16+00:00
+2026-11-08T14:56:36+00:00,mannarino v samuel,True,Adrian Mannarino,polyus,0.34,Toby Samuel,kalshi,0.6,0.9724,54164.23,0.0,0.0,0.0,0.34,0.67,1.0411,0.1,2026-11-08T14:56:26+00:00
+2026-11-08T14:56:46+00:00,mannarino v samuel,True,Adrian Mannarino,polyus,0.35,Toby Samuel,kalshi,0.6,0.9826,99550.03,0.0,0.0,0.0,0.34,0.67,1.0411,0.0,2026-11-08T14:56:26+00:00
+2026-11-08T14:56:56+00:00,mannarino v samuel,True,Adrian Mannarino,polyus,0.32,Toby Samuel,kalshi,0.6,0.9519,0.0,0.0,0.0,0.0,0.34,0.69,1.0606,0.1,2026-11-08T14:56:26+00:00
+2026-11-08T14:56:56+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.25,Juan Manuel La Serna,kalshi,0.71,0.9874,1163.01,0.0,0.0,0.0,0.25,0.76,1.0358,0.1,2026-11-08T14:56:56+00:00
+2026-11-08T14:56:56+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.41,Carlos Alcaraz,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,0.47,0.6,1.1041,0.0,2026-11-08T14:56:56+00:00
+2026-11-08T14:57:06+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.41,Carlos Alcaraz,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,0.47,0.6,1.1041,0.0,2026-11-08T14:56:56+00:00
+2026-11-08T14:57:16+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.41,Carlos Alcaraz,kalshi,0.55,0.9941,48548.16,0.0,0.0,0.0,0.41,0.6,1.0436,0.1,2026-11-08T14:56:56+00:00
+2026-11-08T14:57:26+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.4,Carlos Alcaraz,kalshi,0.55,0.984,0.0,0.0,0.0,0.0,0.41,0.61,1.0535,0.0,2026-11-08T14:56:56+00:00
+2026-11-08T14:57:26+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.78,Norbert Gombos,polyus,0.19,0.9927,0.0,0.0,0.0,0.0,0.82,0.2,1.0415,0.1,2026-11-08T14:57:26+00:00
+2026-11-08T14:57:36+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.35,Carlos Alcaraz,kalshi,0.61,0.9925,0.0,0.0,0.0,0.0,0.41,0.66,1.1025,0.0,2026-11-08T14:56:56+00:00
+2026-11-08T14:57:46+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.35,Carlos Alcaraz,kalshi,0.61,0.9925,65455.93,0.0,0.0,0.0,0.35,0.66,1.0415,0.1,2026-11-08T14:56:56+00:00
+2026-11-08T14:57:56+00:00,mannarino v samuel,True,Adrian Mannarino,polyus,0.26,Toby Samuel,kalshi,0.63,0.9197,0.0,0.0,0.0,0.0,0.38,0.74,1.1498,0.1,2026-11-08T14:57:56+00:00
+2026-11-08T14:57:56+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.35,Carlos Alcaraz,kalshi,0.61,0.9925,65455.93,0.0,0.0,0.0,0.35,0.66,1.0415,0.0,2026-11-08T14:56:56+00:00
+2026-11-08T14:59:36+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.39,Gabi Boitan,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,0.59,1.0641,0.1,2026-11-08T14:59:36+00:00
+2026-11-08T15:01:16+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.17,Juan Manuel La Serna,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,0.2,0.84,1.0605,0.1,2026-11-08T15:01:16+00:00
+2026-11-08T15:01:26+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.17,Juan Manuel La Serna,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,0.2,0.84,1.0605,0.1,2026-11-08T15:01:16+00:00
+2026-11-08T15:01:36+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.74,Norbert Gombos,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,0.77,0.27,1.0661,0.1,2026-11-08T15:01:36+00:00
+2026-11-08T15:01:46+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.74,Norbert Gombos,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,0.77,0.27,1.0661,0.1,2026-11-08T15:01:36+00:00
+2026-11-08T15:01:56+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.74,Norbert Gombos,kalshi,0.23,0.9958,480.01,0.0,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-08T15:01:36+00:00
+2026-11-08T15:01:56+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.14,Juan Manuel La Serna,kalshi,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,0.87,1.0577,0.1,2026-11-08T15:01:56+00:00
+2026-11-08T15:02:26+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.29,Carlos Alcaraz,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,0.32,0.72,1.0692,0.0,2026-11-08T15:02:26+00:00
+2026-11-08T15:02:36+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.74,Norbert Gombos,polyus,0.23,0.9958,0.0,0.0,0.0,0.0,0.78,0.27,1.0757,0.1,2026-11-08T15:02:36+00:00
+2026-11-08T15:02:46+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.74,Norbert Gombos,polyus,0.23,0.9958,0.0,0.0,0.0,0.0,0.78,0.27,1.0757,0.1,2026-11-08T15:02:36+00:00
+2026-11-08T15:02:56+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.74,Norbert Gombos,polyus,0.23,0.9958,0.0,5843.01,0.0,0.0,0.77,0.23,1.0247,0.1,2026-11-08T15:02:36+00:00
+2026-11-08T15:03:16+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.74,Norbert Gombos,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,0.78,0.27,1.0757,0.1,2026-11-08T15:03:16+00:00
+2026-11-08T15:03:26+00:00,alberto v manuel,True,Genaro Alberto Olivieri,kalshi,0.16,Juan Manuel La Serna,polyus,0.81,0.9901,0.0,0.0,0.0,0.0,0.2,0.85,1.0701,0.1,2026-11-08T15:03:26+00:00
+2026-11-08T15:03:26+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.74,Norbert Gombos,kalshi,0.23,0.9958,30474.81,0.0,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-08T15:03:16+00:00
+2026-11-08T15:03:36+00:00,alberto v manuel,True,Genaro Alberto Olivieri,kalshi,0.16,Juan Manuel La Serna,polyus,0.81,0.9901,0.0,30973.75,0.0,0.0,0.2,0.81,1.0319,0.1,2026-11-08T15:03:26+00:00
+2026-11-08T15:03:36+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.74,Norbert Gombos,kalshi,0.23,0.9958,30474.81,0.0,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-08T15:03:16+00:00
+2026-11-08T15:04:26+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.16,Juan Manuel La Serna,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,0.85,1.0596,0.1,2026-11-08T15:04:26+00:00
+2026-11-08T15:04:36+00:00,mannarino v samuel,True,Adrian Mannarino,polyus,0.13,Toby Samuel,kalshi,0.84,0.9873,65221.52,0.0,0.0,0.0,0.13,0.88,1.0253,0.1,2026-11-08T15:04:36+00:00
+2026-11-08T15:04:36+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.16,Juan Manuel La Serna,kalshi,0.82,0.9997,30811.01,0.0,0.0,0.0,0.16,0.85,1.0283,0.1,2026-11-08T15:04:26+00:00
+2026-11-08T15:04:56+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.79,Norbert Gombos,polyus,0.15,0.9605,0.0,0.0,0.0,0.0,0.86,0.22,1.1004,0.1,2026-11-08T15:04:56+00:00
+2026-11-08T15:05:06+00:00,mannarino v samuel,True,Adrian Mannarino,polyus,0.06,Toby Samuel,kalshi,0.88,0.9513,0.0,0.0,0.0,0.0,0.13,0.95,1.0912,0.1,2026-11-08T15:05:06+00:00
+2026-11-08T15:05:06+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.79,Norbert Gombos,polyus,0.15,0.9605,0.0,0.0,0.0,0.0,0.87,0.22,1.1098,0.1,2026-11-08T15:04:56+00:00
+2026-11-08T15:05:06+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.11,Juan Manuel La Serna,kalshi,0.85,0.9757,0.0,0.0,0.0,0.0,0.12,0.9,1.0336,0.1,2026-11-08T15:05:06+00:00
+2026-11-08T15:07:16+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.84,Norbert Gombos,kalshi,0.11,0.9662,0.0,0.0,0.0,0.0,0.9,0.17,1.0861,0.1,2026-11-08T15:07:16+00:00
+2026-11-08T15:07:26+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.84,Norbert Gombos,kalshi,0.11,0.9662,30422.57,0.0,0.0,0.0,0.84,0.18,1.0397,0.1,2026-11-08T15:07:16+00:00
+2026-11-08T15:07:46+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.79,Norbert Gombos,kalshi,0.18,0.9919,0.0,0.0,0.0,0.0,0.84,0.22,1.0814,0.1,2026-11-08T15:07:46+00:00
+2026-11-08T15:07:56+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.79,Norbert Gombos,kalshi,0.18,0.9919,7665.82,0.0,0.0,0.0,0.79,0.22,1.0335,0.1,2026-11-08T15:07:46+00:00
+2026-11-08T15:08:36+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.74,Norbert Gombos,kalshi,0.22,0.9854,0.0,0.0,0.0,0.0,0.79,0.27,1.0853,0.1,2026-11-08T15:08:36+00:00
+2026-11-08T15:08:46+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.74,Norbert Gombos,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,0.79,0.27,1.0853,0.0,2026-11-08T15:08:36+00:00
+2026-11-08T15:08:56+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.74,Norbert Gombos,kalshi,0.23,0.9958,559.01,0.0,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-08T15:08:36+00:00
+2026-11-08T15:09:06+00:00,gombos v ravel,True,Cosme de Ravel,polyus,0.74,Norbert Gombos,kalshi,0.23,0.9958,559.01,0.0,0.0,0.0,0.74,0.29,1.0578,0.1,2026-11-08T15:08:36+00:00
+2026-11-08T15:09:06+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.25,Carlos Alcaraz,kalshi,0.72,0.9971,0.0,0.0,0.0,0.0,0.29,0.75,1.0674,0.1,2026-11-08T15:09:06+00:00
+2026-11-08T15:09:16+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.25,Carlos Alcaraz,kalshi,0.72,0.9971,0.0,0.0,0.0,0.0,0.29,0.76,1.0771,0.0,2026-11-08T15:09:06+00:00
+2026-11-08T15:09:26+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.25,Carlos Alcaraz,kalshi,0.72,0.9971,55665.77,0.0,0.0,0.0,0.25,0.76,1.0358,0.1,2026-11-08T15:09:06+00:00
+2026-11-08T15:09:36+00:00,gombos v ravel,True,Cosme Rolland de Ravel,kalshi,0.74,Norbert Gombos,polyus,0.23,0.9958,0.0,0.0,0.0,0.0,0.79,0.27,1.0853,0.1,2026-11-08T15:09:36+00:00
+2026-11-08T15:09:56+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.25,Carlos Alcaraz,polyus,0.72,0.9971,0.0,0.0,0.0,0.0,0.28,0.74,1.0475,0.1,2026-11-08T15:09:56+00:00
