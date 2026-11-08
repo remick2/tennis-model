@@ -77,7 +77,8 @@ TRADERS = {
     # over half of all agreements) with BreakTheBank (#1 monthly sports PnL, ~6/day, never both sides)
     "BreakTheBank": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
     "ch27er": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
-    "darkumbreon88": "0x0235dc24b38772bf3339a9e5ec5db3d3a05fcee5",
+    # Nov 8: replaced darkumbreon88 (in 50% of new-roster agreements, mostly in-play EPL with ch27er)
+    "ianf2026": "0x81d972dbea298a5064d4ba51031e0386182fe9c9",
     "JoeyAroyyOO": "0xc3744a19f42266ce6fa2736f52eae6e178b20f3e",  # Nov 7, replaced scootergene (0.4/day)
     "Kyn008": "0xd29312e2446a746bbd94408e1c475f1ec6d7d683",  # Nov 7, replaced 0xd4aa6f8e (2.1/day)
 }
@@ -87,7 +88,7 @@ CORE10 = list(TRADERS)[:10]
 BENCH = {
     "0x9f15613e": ("AppleTiiime", "0x951634357346bb291df117f9ac410100feea2104",
                    "#99 sports PnL, NBA, 7.7 bets/day, active 7/7 days, never both sides; "
-                   "backup: ianf2026 0x81d972dbea298a5064d4ba51031e0386182fe9c9 (NBA/UEL/CBB, 6.3/day)"),
+                   "no second backup left; run consensus-screen"),
 }
 
 FIELDS = ["id", "logged_at", "game_date", "league", "game", "event_slug", "side", "market",
