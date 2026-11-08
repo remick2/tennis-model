@@ -114,7 +114,7 @@ def side_label(title, outcome):
 
 def market_label(title, outcome):
     t = title.lower()
-    if outcome in ("Over", "Under"):
+    if outcome.split(" ")[0] in ("Over", "Under") or re.search(r"\b(Over|Under) \d", outcome):
         return "Total"
     if "map handicap" in t or "game handicap" in t:
         return "Map handicap"
