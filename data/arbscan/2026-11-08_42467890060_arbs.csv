@@ -1,0 +1,9 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-08T09:42:45+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.26,Oleksii Krutykh,kalshi,0.69,0.9783,0.0,0,0,0.0,0.32,0.75,1.0982,0.1,2026-11-08T09:42:45+00:00
+2026-11-08T09:42:55+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.26,Oleksii Krutykh,kalshi,0.69,0.9783,3375.01,0,0,0.0,0.26,0.75,1.0365,0.1,2026-11-08T09:42:45+00:00
+2026-11-08T09:43:05+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.26,Oleksii Krutykh,kalshi,0.69,0.9783,3375.01,0,0,0.0,0.26,0.76,1.0461,0.0,2026-11-08T09:42:45+00:00
+2026-11-08T09:43:25+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.2,Oleksii Krutykh,kalshi,0.77,0.9935,407.0,0,0,0.0,0.2,0.81,1.0319,0.1,2026-11-08T09:43:25+00:00
+2026-11-08T09:43:35+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.2,Oleksii Krutykh,kalshi,0.77,0.9935,407.0,0,0,0.0,0.2,0.81,1.0319,0.0,2026-11-08T09:43:25+00:00
+2026-11-08T09:43:45+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.2,Oleksii Krutykh,kalshi,0.77,0.9935,407.0,0,0,0.0,0.2,0.81,1.0319,0.0,2026-11-08T09:43:25+00:00
+2026-11-08T09:43:55+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.2,Oleksii Krutykh,kalshi,0.77,0.9935,0.01,0,0,0.0,0.2,0.81,1.0319,0.1,2026-11-08T09:43:25+00:00
+2026-11-08T09:48:05+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.22,Oleksii Krutykh,polyus,0.72,0.966,0.0,0,0,0.0,0.29,0.78,1.0963,0.1,2026-11-08T09:48:05+00:00
