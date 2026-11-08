@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 8, 6:40AM MT
+# Consensus paper tracker — Sun Nov 8, 7:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
-| Track only | all 15 | 0-1 | -1.00 | 0-0 | +0.00 | 1 |
-| Split | all 15 | 1-0 | +0.48 | 4-1 | +0.27 | 3 |
+| Track only | all 15 | 0-1 | -1.00 | 0-0 | +0.00 | 3 |
+| Split | all 15 | 1-0 | +0.48 | 4-1 | +0.27 | 4 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Split | core 10 only | 0-0 | +0.00 | 2-0 | +0.40 | 1 |
+| Split | core 10 only | 0-0 | +0.00 | 2-0 | +0.40 | 2 |
 
 ## Old roster (Nov 3 – Nov 7, closed)
 
@@ -65,3 +65,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-08 | NFL | Bengals vs. Falcons | Under 52.5 (Total) | Split | pre-game | monkeymashingkeyboard; 0xb4F978BE | ic4cream | 52.5c |
 | new | 2026-11-08 | EPL | Sunderland AFC vs. Chelsea FC | Chelsea FC win: No (3-way) | Split | pre-game | 0x9f15613e; Kyn008 | darkumbreon88 | 48.5c |
 | new | 2026-11-08 | NFL | Giants vs. Eagles | Giants (Moneyline) | Split | pre-game | 0x9f15613e; darkumbreon88 | jakepaulthegoat2008 | 58.5c |
+| new | 2026-11-08 | NFL | Giants vs. Eagles | Eagles (+2.5) (Spread) | Split | pre-game | jakepaulthegoat2008; ic4cream | 0x9f15613e | 47.5c |
+| new | 2026-11-08 | EPL | Brighton & Hove Albion FC vs. Brentford FC | Brighton & Hove Albion FC win: Yes (3-way) | Track only | in-play | ch27er; darkumbreon88 | — | 90.5c |
+| new | 2026-11-08 | EPL | Crystal Palace FC vs. Liverpool FC | Liverpool FC win: Yes (3-way) | Track only | in-play | ch27er; darkumbreon88 | — | 61.0c |
