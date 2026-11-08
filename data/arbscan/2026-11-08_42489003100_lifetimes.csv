@@ -1,0 +1,28 @@
+key,legs,first_seen,closed_by,kind,minutes,min_minutes
+alcaraz v shelton,Ben Shelton@kalshi + Carlos Alcaraz@polyus,2026-11-08T15:17:08+00:00,2026-11-08T15:17:28+00:00,any,0.3,0.2
+adrian v reco,Alexandre Reco@kalshi + Gabi Boitan@polyus,2026-11-08T15:17:18+00:00,2026-11-08T15:17:38+00:00,any,0.3,0.2
+alcaraz v shelton,Ben Shelton@polyus + Carlos Alcaraz@kalshi,2026-11-08T15:17:38+00:00,2026-11-08T15:17:58+00:00,any,0.3,0.2
+adrian v reco,Alexandre Reco@kalshi + Gabi Boitan@polyus,2026-11-08T15:17:58+00:00,2026-11-08T15:18:08+00:00,any,0.2,0.0
+alcaraz v shelton,Ben Shelton@polyus + Carlos Alcaraz@kalshi,2026-11-08T15:18:18+00:00,2026-11-08T15:18:38+00:00,any,0.3,0.2
+adrian v reco,Alexandre Reco@polyus + Gabi Adrian Boitan@kalshi,2026-11-08T15:18:38+00:00,2026-11-08T15:18:58+00:00,any,0.3,0.2
+adrian v reco,Alexandre Reco@kalshi + Gabi Boitan@polyus,2026-11-08T15:19:18+00:00,2026-11-08T15:20:28+00:00,any,1.2,1.0
+alcaraz v shelton,Ben Shelton@kalshi + Carlos Alcaraz@polyus,2026-11-08T15:19:58+00:00,2026-11-08T15:20:28+00:00,any,0.5,0.3
+alberto v manuel,Genaro Alberto Olivieri@polyus + Juan Manuel La Serna@kalshi,2026-11-08T15:20:08+00:00,2026-11-08T15:20:28+00:00,any,0.3,0.2
+boulais v hudd,Emile Hudd@polyus + Justin Boulais@kalshi,2026-11-08T15:20:18+00:00,2026-11-08T15:20:28+00:00,any,0.2,0.0
+alcaraz v shelton,Ben Shelton@kalshi + Carlos Alcaraz@polyus,2026-11-08T15:21:08+00:00,2026-11-08T15:21:28+00:00,any,0.3,0.2
+alcaraz v shelton,Ben Shelton@polyus + Carlos Alcaraz@kalshi,2026-11-08T15:21:58+00:00,2026-11-08T15:22:28+00:00,any,0.5,0.3
+adrian v reco,Alexandre Reco@kalshi + Gabi Boitan@polyus,2026-11-08T15:21:58+00:00,2026-11-08T15:22:38+00:00,any,0.7,0.5
+alcaraz v shelton,Ben Shelton@polyus + Carlos Alcaraz@kalshi,2026-11-08T15:22:38+00:00,2026-11-08T15:23:08+00:00,any,0.5,0.3
+alberto v manuel,Genaro Alberto Olivieri@kalshi + Juan Manuel La Serna@polyus,2026-11-08T15:22:48+00:00,2026-11-08T15:23:08+00:00,any,0.3,0.2
+adrian v reco,Alexandre Reco@kalshi + Gabi Boitan@polyus,2026-11-08T15:22:58+00:00,2026-11-08T15:23:08+00:00,any,0.2,0.0
+alcaraz v shelton,Ben Shelton@polyus + Carlos Alcaraz@kalshi,2026-11-08T15:23:28+00:00,2026-11-08T15:23:38+00:00,any,0.2,0.0
+fuente v monzon,Ignacio Monzon@kalshi + Santiago De La Fuente@polyus,2026-11-08T15:23:58+00:00,2026-11-08T15:24:18+00:00,any,0.3,0.2
+alcaraz v shelton,Ben Shelton@kalshi + Carlos Alcaraz@polyus,2026-11-08T15:24:08+00:00,2026-11-08T15:24:38+00:00,any,0.5,0.3
+adrian v reco,Alexandre Reco@kalshi + Gabi Boitan@polyus,2026-11-08T15:24:18+00:00,2026-11-08T15:24:58+00:00,any,0.7,0.5
+alcaraz v shelton,Ben Shelton@polyus + Carlos Alcaraz@kalshi,2026-11-08T15:24:58+00:00,2026-11-08T15:25:28+00:00,any,0.5,0.3
+fuente v monzon,Ignacio Monzon@polyus + Santiago De la Fuente@kalshi,2026-11-08T15:25:58+00:00,2026-11-08T15:26:08+00:00,any,0.2,0.0
+alberto v manuel,Genaro Alberto Olivieri@polyus + Juan Manuel La Serna@kalshi,2026-11-08T15:26:18+00:00,2026-11-08T15:26:38+00:00,any,0.3,0.2
+alberto v manuel,Genaro Alberto Olivieri@kalshi + Juan Manuel La Serna@polyus,2026-11-08T15:26:58+00:00,2026-11-08T15:27:08+00:00,any,0.2,0.0
+alberto v manuel,Genaro Alberto Olivieri@polyus + Juan Manuel La Serna@kalshi,2026-11-08T15:27:58+00:00,2026-11-08T15:28:08+00:00,any,0.2,0.0
+alberto v manuel,Genaro Alberto Olivieri@polyus + Juan Manuel La Serna@kalshi,2026-11-08T15:28:48+00:00,2026-11-08T15:28:58+00:00,any,0.2,0.0
+boulais v hudd,Emile Hudd@polyus + Justin Boulais@kalshi,2026-11-08T15:30:48+00:00,2026-11-08T15:31:08+00:00,any,0.3,0.2

@@ -1,0 +1,61 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-08T15:17:08+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.23,Carlos Alcaraz,polyus,0.71,0.9667,0.0,0.0,0,0.0,0.3,0.78,1.1066,0.0,2026-11-08T15:17:08+00:00
+2026-11-08T15:17:18+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.23,Carlos Alcaraz,polyus,0.71,0.9667,0.0,0.0,0,0.0,0.3,0.78,1.1066,0.0,2026-11-08T15:17:08+00:00
+2026-11-08T15:17:18+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.61,Gabi Boitan,polyus,0.33,0.972,0.0,0.0,0,0.0,0.68,0.4,1.1119,0.0,2026-11-08T15:17:18+00:00
+2026-11-08T15:17:28+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.61,Gabi Boitan,polyus,0.32,0.9618,0.0,0.0,0,0.0,0.69,0.4,1.1217,0.0,2026-11-08T15:17:18+00:00
+2026-11-08T15:17:38+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.26,Carlos Alcaraz,kalshi,0.71,0.9978,0.0,0.0,0,0.0,0.3,0.75,1.0777,0.0,2026-11-08T15:17:38+00:00
+2026-11-08T15:17:48+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.26,Carlos Alcaraz,kalshi,0.71,0.9978,0.0,0.0,0,0.0,0.3,0.75,1.0777,0.0,2026-11-08T15:17:38+00:00
+2026-11-08T15:17:58+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.69,Gabi Boitan,polyus,0.28,0.999,0.0,0.0,0,0.0,0.73,0.32,1.0789,0.1,2026-11-08T15:17:58+00:00
+2026-11-08T15:18:18+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.19,Carlos Alcaraz,kalshi,0.75,0.9638,0.0,0.0,0,0.0,0.26,0.82,1.1037,0.0,2026-11-08T15:18:18+00:00
+2026-11-08T15:18:28+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.19,Carlos Alcaraz,kalshi,0.75,0.9638,30151.09,0.0,0,0.0,0.19,0.82,1.031,0.0,2026-11-08T15:18:18+00:00
+2026-11-08T15:18:38+00:00,adrian v reco,True,Alexandre Reco,polyus,0.69,Gabi Adrian Boitan,kalshi,0.28,0.999,0.0,0.0,0,0.0,0.7,0.32,1.0498,0.0,2026-11-08T15:18:38+00:00
+2026-11-08T15:18:48+00:00,adrian v reco,True,Alexandre Reco,polyus,0.69,Gabi Adrian Boitan,kalshi,0.28,0.999,0.0,0.0,0,0.0,0.7,0.34,1.0703,0.0,2026-11-08T15:18:38+00:00
+2026-11-08T15:19:18+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.69,Gabi Boitan,polyus,0.28,0.999,0.0,0.0,0,0.0,0.73,0.34,1.0994,0.0,2026-11-08T15:19:18+00:00
+2026-11-08T15:19:28+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.67,Gabi Boitan,polyus,0.28,0.9795,0.0,0.0,0,0.0,0.73,0.34,1.0994,0.0,2026-11-08T15:19:18+00:00
+2026-11-08T15:19:38+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.67,Gabi Boitan,polyus,0.29,0.9898,0.0,15486.85,0,0.0,0.72,0.28,1.0281,0.0,2026-11-08T15:19:18+00:00
+2026-11-08T15:19:48+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.67,Gabi Boitan,polyus,0.24,0.9382,0.0,0.0,0,0.0,0.77,0.28,1.0764,0.0,2026-11-08T15:19:18+00:00
+2026-11-08T15:19:58+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.22,Carlos Alcaraz,polyus,0.7,0.9466,0.0,0.0,0,0.0,0.31,0.78,1.1169,0.1,2026-11-08T15:19:58+00:00
+2026-11-08T15:19:58+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.73,Gabi Boitan,polyus,0.24,0.9965,0.0,0.0,0,0.0,0.77,0.28,1.0764,0.1,2026-11-08T15:19:18+00:00
+2026-11-08T15:20:08+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.22,Carlos Alcaraz,polyus,0.7,0.9466,0.0,0.0,0,0.0,0.31,0.78,1.1169,0.0,2026-11-08T15:19:58+00:00
+2026-11-08T15:20:08+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.73,Gabi Boitan,polyus,0.24,0.9965,0.0,172.0,0,0.0,0.79,0.24,1.0543,0.0,2026-11-08T15:19:18+00:00
+2026-11-08T15:20:08+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.07,Juan Manuel La Serna,kalshi,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0396,0.1,2026-11-08T15:20:08+00:00
+2026-11-08T15:20:18+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.22,Carlos Alcaraz,polyus,0.7,0.9466,0.0,0.0,0,0.0,0.31,0.78,1.1169,0.1,2026-11-08T15:19:58+00:00
+2026-11-08T15:20:18+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.73,Gabi Boitan,polyus,0.22,0.9757,0.0,0.0,0,0.0,0.79,0.24,1.0543,0.0,2026-11-08T15:19:18+00:00
+2026-11-08T15:20:18+00:00,boulais v hudd,True,Emile Hudd,polyus,0.35,Justin Boulais,kalshi,0.61,0.9925,0.0,0.0,0,0.0,0.4,0.66,1.0924,0.0,2026-11-08T15:20:18+00:00
+2026-11-08T15:20:18+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.07,Juan Manuel La Serna,kalshi,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0396,0.0,2026-11-08T15:20:08+00:00
+2026-11-08T15:21:08+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.31,Carlos Alcaraz,polyus,0.6,0.9417,0.0,0.0,0,0.0,0.41,0.71,1.1512,0.0,2026-11-08T15:21:08+00:00
+2026-11-08T15:21:18+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.31,Carlos Alcaraz,polyus,0.6,0.9417,0.0,0.0,0,0.0,0.41,0.71,1.1512,0.0,2026-11-08T15:21:08+00:00
+2026-11-08T15:21:58+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.31,Carlos Alcaraz,kalshi,0.62,0.9614,0.0,0.0,0,0.0,0.32,0.7,1.0498,0.1,2026-11-08T15:21:58+00:00
+2026-11-08T15:21:58+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.79,Gabi Boitan,polyus,0.16,0.971,0.0,0.0,0,0.0,0.85,0.23,1.1012,0.0,2026-11-08T15:21:58+00:00
+2026-11-08T15:22:08+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.31,Carlos Alcaraz,kalshi,0.62,0.9614,0.0,0.0,0,0.0,0.32,0.7,1.0498,0.1,2026-11-08T15:21:58+00:00
+2026-11-08T15:22:08+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.82,Gabi Boitan,polyus,0.16,0.9997,0.0,14711.24,0,0.0,0.85,0.16,1.0283,0.0,2026-11-08T15:21:58+00:00
+2026-11-08T15:22:18+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.31,Carlos Alcaraz,kalshi,0.62,0.9614,0.0,0.0,0,0.0,0.32,0.7,1.0498,0.0,2026-11-08T15:21:58+00:00
+2026-11-08T15:22:18+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.82,Gabi Boitan,polyus,0.16,0.9997,0.0,14711.24,0,0.0,0.85,0.16,1.0283,0.1,2026-11-08T15:21:58+00:00
+2026-11-08T15:22:28+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.82,Gabi Boitan,polyus,0.16,0.9997,0.0,14711.24,0,0.0,0.85,0.16,1.0283,0.0,2026-11-08T15:21:58+00:00
+2026-11-08T15:22:38+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.22,Carlos Alcaraz,kalshi,0.7,0.9466,0.0,0.0,0,0.0,0.32,0.8,1.1463,0.0,2026-11-08T15:22:38+00:00
+2026-11-08T15:22:48+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.2,Carlos Alcaraz,kalshi,0.7,0.9258,0.0,0.0,0,0.0,0.32,0.81,1.1559,0.0,2026-11-08T15:22:38+00:00
+2026-11-08T15:22:48+00:00,alberto v manuel,True,Genaro Alberto Olivieri,kalshi,0.04,Juan Manuel La Serna,polyus,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.0,2026-11-08T15:22:48+00:00
+2026-11-08T15:22:58+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.2,Carlos Alcaraz,kalshi,0.7,0.9258,67352.39,0.0,0,0.0,0.2,0.81,1.0319,0.0,2026-11-08T15:22:38+00:00
+2026-11-08T15:22:58+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.85,Gabi Boitan,polyus,0.1,0.9652,0.0,0.0,0,0.0,0.91,0.16,1.0851,0.1,2026-11-08T15:22:58+00:00
+2026-11-08T15:22:58+00:00,alberto v manuel,True,Genaro Alberto Olivieri,kalshi,0.04,Juan Manuel La Serna,polyus,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.0,2026-11-08T15:22:48+00:00
+2026-11-08T15:23:28+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.16,Carlos Alcaraz,kalshi,0.81,0.9901,79945.89,0.0,0,0.0,0.16,0.85,1.0283,0.1,2026-11-08T15:23:28+00:00
+2026-11-08T15:23:58+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.28,Santiago De La Fuente,polyus,0.69,0.999,0.0,0.0,0,0.0,0.31,0.73,1.0687,0.0,2026-11-08T15:23:58+00:00
+2026-11-08T15:24:08+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.17,Carlos Alcaraz,polyus,0.76,0.9526,0.0,0.0,0,0.0,0.24,0.85,1.1116,0.0,2026-11-08T15:24:08+00:00
+2026-11-08T15:24:08+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.28,Santiago De La Fuente,polyus,0.69,0.999,0.0,0.0,0,0.0,0.32,0.73,1.0789,0.1,2026-11-08T15:23:58+00:00
+2026-11-08T15:24:18+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.17,Carlos Alcaraz,polyus,0.76,0.9526,0.0,0.0,0,0.0,0.25,0.85,1.122,0.0,2026-11-08T15:24:08+00:00
+2026-11-08T15:24:18+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.92,Gabi Boitan,polyus,0.04,0.9678,0.0,0.0,0,0.0,0.97,0.12,1.0994,0.0,2026-11-08T15:24:18+00:00
+2026-11-08T15:24:28+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.17,Carlos Alcaraz,polyus,0.76,0.9526,0.0,63399.69,0,0.0,0.25,0.76,1.0358,0.0,2026-11-08T15:24:08+00:00
+2026-11-08T15:24:28+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.93,Gabi Boitan,polyus,0.04,0.9772,0.0,0.0,0,0.0,0.97,0.12,1.0994,0.0,2026-11-08T15:24:18+00:00
+2026-11-08T15:24:38+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.93,Gabi Boitan,polyus,0.04,0.9772,0.0,15856.17,0,0.0,0.97,0.04,1.0147,0.0,2026-11-08T15:24:18+00:00
+2026-11-08T15:24:48+00:00,adrian v reco,True,Alexandre Reco,kalshi,0.93,Gabi Boitan,polyus,0.04,0.9772,0.0,15856.17,0,0.0,0.97,0.04,1.0147,0.0,2026-11-08T15:24:18+00:00
+2026-11-08T15:24:58+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.13,Carlos Alcaraz,kalshi,0.76,0.9106,74965.29000000001,0.0,0,0.0,0.12,0.88,1.0147,0.0,2026-11-08T15:24:58+00:00
+2026-11-08T15:25:08+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.13,Carlos Alcaraz,kalshi,0.76,0.9106,74965.29000000001,0.0,0,0.0,0.12,0.88,1.0147,0.1,2026-11-08T15:24:58+00:00
+2026-11-08T15:25:18+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.13,Carlos Alcaraz,kalshi,0.76,0.9106,74965.29000000001,0.0,0,0.0,0.12,0.88,1.0147,0.0,2026-11-08T15:24:58+00:00
+2026-11-08T15:25:58+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.26,Santiago De la Fuente,kalshi,0.71,0.9978,0.0,0.0,0,0.0,0.28,0.75,1.0571,0.0,2026-11-08T15:25:58+00:00
+2026-11-08T15:26:18+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.07,Juan Manuel La Serna,kalshi,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0396,0.1,2026-11-08T15:26:18+00:00
+2026-11-08T15:26:28+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.07,Juan Manuel La Serna,kalshi,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0396,0.0,2026-11-08T15:26:18+00:00
+2026-11-08T15:26:58+00:00,alberto v manuel,True,Genaro Alberto Olivieri,kalshi,0.07,Juan Manuel La Serna,polyus,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0397,0.1,2026-11-08T15:26:58+00:00
+2026-11-08T15:27:58+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.07,Juan Manuel La Serna,kalshi,0.92,0.9997,0.0,0.0,0,0.0,0.1,0.94,1.0502,0.1,2026-11-08T15:27:58+00:00
+2026-11-08T15:28:48+00:00,alberto v manuel,True,Genaro Alberto Olivieri,polyus,0.05,Juan Manuel La Serna,kalshi,0.94,0.9972,0.0,0.0,0,0.0,0.09,0.96,1.0584,0.0,2026-11-08T15:28:48+00:00
+2026-11-08T15:30:48+00:00,boulais v hudd,True,Emile Hudd,polyus,0.29,Justin Boulais,kalshi,0.67,0.9898,400.0,0.0,0,0.0,0.29,0.71,1.0287,0.0,2026-11-08T15:30:48+00:00
+2026-11-08T15:30:58+00:00,boulais v hudd,True,Emile Hudd,polyus,0.29,Justin Boulais,kalshi,0.67,0.9898,400.0,0.0,0,0.0,0.29,0.71,1.0287,0.0,2026-11-08T15:30:48+00:00
