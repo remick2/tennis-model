@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 7, 7:40PM MT
+# Consensus paper tracker — Sat Nov 7, 8:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,10 +8,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| Paper play | all 15 | 0-0 | +0.00 | 0-0 | +0.00 | 1 |
+| Paper play | all 15 | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | all 15 | 0-0 | +0.00 | 0-0 | +0.00 | 1 |
 | Split | all 15 | 0-0 | +0.00 | 1-0 | +0.13 | 2 |
-| Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 1 |
+| Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Split | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 2 |
 
@@ -22,11 +22,11 @@ Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Ro
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-2 | -1.43 | 0 |
-| Track only | all 15 | 19-13 | +0.18 | 9-4 | +4.85 | 10 |
-| Split | all 15 | 8-9 | -1.73 | 10-8 | +1.93 | 6 |
+| Track only | all 15 | 20-15 | -1.07 | 9-5 | +3.85 | 6 |
+| Split | all 15 | 9-10 | -1.86 | 11-9 | +1.37 | 2 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Track only | core 10 only | 3-5 | -2.29 | 4-2 | +0.08 | 2 |
-| Split | core 10 only | 0-1 | -1.00 | 1-2 | -1.52 | 1 |
+| Track only | core 10 only | 4-5 | -1.54 | 4-2 | +0.08 | 1 |
+| Split | core 10 only | 0-2 | -2.00 | 1-2 | -1.52 | 0 |
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
 
@@ -62,15 +62,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | old | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
 | old | 2026-11-08 | NFL | Broncos vs. Panthers | Broncos (-2.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 52.5c |
 | old | 2026-11-07 | CFB | Liberty vs. New Mexico State | Liberty (-16.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 48.5c |
-| old | 2026-11-07 | CFB | Oklahoma vs. Florida | Florida (-5.5) (Spread) | Track only | pre-game | 0x9f15613e; Multicoloured-Serf | — | 46.5c |
-| old | 2026-11-07 | CFB | Oklahoma vs. Florida | Oklahoma (+6.5) (Spread) | Track only | pre-game | 0xb4F978BE; 0x9f15613e | — | 57.0c |
-| old | 2026-11-07 | NBA | Wizards vs. Thunder | Thunder (-11.5) (Spread) | Split | pre-game | yabanci; Multicoloured-Serf | monkeymashingkeyboard | 53.5c |
-| old | 2026-11-07 | NBA | Knicks vs. Cavaliers | Cavaliers (Moneyline) | Split | pre-game | monkeymashingkeyboard; jakepaulthegoat2008 | drainedandpoor | 36.5c |
-| old | 2026-11-07 | NBA | Nets vs. Hawks | Hawks (-6.5) (Spread) | Split | in-play | monkeymashingkeyboard; Multicoloured-Serf | chongchong37 | 50.5c |
-| old | 2026-11-07 | NBA | Nets vs. Hawks | Hawks (Moneyline) | Split | in-play | Multicoloured-Serf; darkumbreon88 | jakepaulthegoat2008 | 69.5c |
-| old | 2026-11-07 | NBA | Nets vs. Hawks | Under 226.5 (Total) | Track only | in-play | 0x9f15613e; Multicoloured-Serf | — | 47.5c |
-| old | 2026-11-07 | NBA | Wizards vs. Thunder | Over 223.5 (Total) | Track only | pre-game | ic4cream; Multicoloured-Serf | — | 51.5c |
 | new | 2026-11-07 | NBA | Magic vs. Warriors | Warriors (Moneyline) | Split | in-play | jakepaulthegoat2008; drainedandpoor | monkeymashingkeyboard | 73.5c |
-| new | 2026-11-07 | CFB | Iowa vs. Northwestern | Iowa (Moneyline) | Paper play | in-play | purplegatto; 999585; ic4cream | — | 89.5c |
 | new | 2026-11-07 | NBA | Rockets vs. Suns | Rockets (Moneyline) | Track only | pre-game | jakepaulthegoat2008; darkumbreon88 | — | 71.5c |
 | new | 2026-11-07 | CFB | Miami (FL) vs. Notre Dame | Notre Dame (Moneyline) | Split | in-play | 0xb4F978BE; 999585 | purplegatto | 96.0c |
