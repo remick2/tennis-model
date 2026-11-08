@@ -1,8 +1,10 @@
 ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,first_seen
-2026-11-08T01:20:58+00:00,hassan v ogura,True,Benjamin Hassan,kalshi,0.73,Kosuke Ogura,polyus,0.24,0.9965,0,11625.71,0,0.0,2026-11-08T01:20:58+00:00
-2026-11-08T01:21:58+00:00,hassan v ogura,True,Benjamin Hassan,polyus,0.69,Kosuke Ogura,kalshi,0.26,0.9783,0,0.0,0,0.0,2026-11-08T01:21:58+00:00
-2026-11-08T01:43:58+00:00,hassan v ogura,True,Benjamin Hassan,kalshi,0.42,Kosuke Ogura,polyus,0.49,0.9444,0,0.0,0,0.0,2026-11-08T01:43:58+00:00
-2026-11-08T01:44:58+00:00,hassan v ogura,True,Benjamin Hassan,kalshi,0.53,Kosuke Ogura,polyus,0.43,0.9945,0,0.0,0,0.0,2026-11-08T01:43:58+00:00
-2026-11-08T01:54:58+00:00,hassan v ogura,True,Benjamin Hassan,kalshi,0.18,Kosuke Ogura,polyus,0.73,0.934,0,0.0,0,0.0,2026-11-08T01:54:58+00:00
-2026-11-08T01:55:58+00:00,hassan v ogura,True,Benjamin Hassan,polyus,0.29,Kosuke Ogura,kalshi,0.68,0.9995,0,0.0,0,0.0,2026-11-08T01:55:58+00:00
-2026-11-08T01:57:58+00:00,hassan v ogura,True,Benjamin Hassan,kalshi,0.28,Kosuke Ogura,polyus,0.68,0.9892,0,0.0,0,0.0,2026-11-08T01:57:58+00:00
+2026-11-08T01:20:58+00:00,hassan v ogura,True,Benjamin Hassan,kalshi,0.73,Kosuke Ogura,polyus,0.24,0.9965,0.0,11625.71,0.0,0.0,2026-11-08T01:20:58+00:00
+2026-11-08T01:21:58+00:00,hassan v ogura,True,Benjamin Hassan,polyus,0.69,Kosuke Ogura,kalshi,0.26,0.9783,0.0,0.0,0.0,0.0,2026-11-08T01:21:58+00:00
+2026-11-08T01:43:58+00:00,hassan v ogura,True,Benjamin Hassan,kalshi,0.42,Kosuke Ogura,polyus,0.49,0.9444,0.0,0.0,0.0,0.0,2026-11-08T01:43:58+00:00
+2026-11-08T01:44:58+00:00,hassan v ogura,True,Benjamin Hassan,kalshi,0.53,Kosuke Ogura,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,2026-11-08T01:43:58+00:00
+2026-11-08T01:54:58+00:00,hassan v ogura,True,Benjamin Hassan,kalshi,0.18,Kosuke Ogura,polyus,0.73,0.934,0.0,0.0,0.0,0.0,2026-11-08T01:54:58+00:00
+2026-11-08T01:55:58+00:00,hassan v ogura,True,Benjamin Hassan,polyus,0.29,Kosuke Ogura,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,2026-11-08T01:55:58+00:00
+2026-11-08T01:57:58+00:00,hassan v ogura,True,Benjamin Hassan,kalshi,0.28,Kosuke Ogura,polyus,0.68,0.9892,0.0,0.0,0.0,0.0,2026-11-08T01:57:58+00:00
+2026-11-08T02:05:58+00:00,hassan v ogura,True,Benjamin Hassan,polyus,0.17,Kosuke Ogura,kalshi,0.77,0.9622,7217.5,10244.04,7217.5,272.8,2026-11-08T02:05:58+00:00
+2026-11-08T02:06:58+00:00,hassan v ogura,True,Benjamin Hassan,polyus,0.14,Kosuke Ogura,kalshi,0.84,0.9978,0.0,0.0,0.0,0.0,2026-11-08T02:05:58+00:00
