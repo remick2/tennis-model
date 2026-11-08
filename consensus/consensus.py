@@ -50,7 +50,9 @@ TRADERS = {
     "ethanaz": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
     "0x9f15613e": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
     "ic4cream": "0x27f738fe203827445690339104aae35b20bc44b0",
-    "Multicoloured-Serf": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    # Nov 7: replaced Multicoloured-Serf (~22 directional mkts/day, both sides of 20% of markets; he was in
+    # over half of all agreements) with BreakTheBank (#1 monthly sports PnL, ~6/day, never both sides)
+    "BreakTheBank": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
     "ch27er": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
     "darkumbreon88": "0x0235dc24b38772bf3339a9e5ec5db3d3a05fcee5",
     "scootergene": "0xf3a6ac44c5c90ff2b4afa4459f71acc2e57971bd",
@@ -337,7 +339,8 @@ RULES = ("Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, n
 
 def write_summary(rows, now):
     lines = [f"# Consensus paper tracker — {now.astimezone(MT):%a %b %-d, %-I:%M%p} MT", "",
-             f"Paper tracking only, since {START_DATE}. 1 unit flat at the price when each signal was logged.",
+             f"Paper tracking only, since {START_DATE}. 1 unit flat at the price when each signal was logged. "
+             "Roster change Nov 7 ~6pm MT: Multicoloured-Serf out, BreakTheBank in.",
              "", *record_table(rows), "", RULES, "",
              "## Open signals", "", "| Date | League | Game | Side | Rule | Timing | Agree | Against | Logged at |",
              "|---|---|---|---|---|---|---|---|---|"]
