@@ -35,6 +35,7 @@ POLYUS = "https://gateway.polymarket.us"
 K_SERIES = ["KXATPMATCH", "KXWTAMATCH", "KXATPCHALLENGERMATCH", "KXWTACHALLENGERMATCH"]
 FEE = {"kalshi": 0.07, "polyus": 0.0695}
 MIN_LOCK = 1.00          # dollars locked before an alert is worth it
+RUN = os.environ.get("GITHUB_RUN_ID", "local")  # each run writes its own files (no git conflicts between runs)
 S = requests.Session()
 
 
@@ -174,8 +175,11 @@ def alert(r):
 
 
 def commit(msg):
-    cmd = ("git add data/arbscan && (git diff --cached --quiet || git commit -qm \"%s\") && "
-           "for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep $((i*20)); done") % msg
+    cmd = ("git add data/arbscan && (git diff --cached --quiet || git commit -qm \"%s\"); "
+           "for i in 1 2 3 4 5; do "
+           "  if git pull --rebase -q origin main && git push -q origin HEAD:main; then echo pushed; break; fi; "
+           "  git rebase --abort 2>/dev/null; echo \"push attempt $i failed\"; sleep $((i*20)); "
+           "done") % msg
     subprocess.run(["bash", "-c", cmd], cwd=ROOT, check=False)
 
 
@@ -194,6 +198,9 @@ def main():
     ap.add_argument("--once", action="store_true")
     ap.add_argument("--no-git", action="store_true")
     a = ap.parse_args()
+    if not a.no_git:  # GitHub checks out the commit from when the run was *requested* (up to 1h earlier)
+        subprocess.run(["bash", "-c", "git fetch -q origin main && git checkout -q -B main origin/main"],
+                       cwd=ROOT, check=False)
     OUT.mkdir(parents=True, exist_ok=True)
     start, open_arbs, open_exec, alerted, handed_off, last_commit = time.time(), {}, {}, set(), False, time.time()
     while True:
@@ -242,9 +249,9 @@ def main():
                                "minutes": round((pd.Timestamp(ts) - pd.Timestamp(first)).total_seconds() / 60, 1),
                                "min_minutes": round((pd.Timestamp(last) - pd.Timestamp(first)).total_seconds() / 60, 1)})
         summ["arbs_under_1"] = len(found)
-        log(OUT / f"{day}_scans.csv", [summ])
-        log(OUT / f"{day}_arbs.csv", found)
-        log(OUT / f"{day}_lifetimes.csv", closed)
+        log(OUT / f"{day}_{RUN}_scans.csv", [summ])
+        log(OUT / f"{day}_{RUN}_arbs.csv", found)
+        log(OUT / f"{day}_{RUN}_lifetimes.csv", closed)
         print(f"{ts} k={summ['kalshi_sides']} pu={summ['polyus_sides']} matched={summ['matched']} "
               f"(live {summ['live_matched']}) best={summ['best_total']} arbs={len(found)}", flush=True)
         if a.once:
