@@ -4,11 +4,12 @@ Why: hourly snapshots can't see gaps that last minutes. Both venues share settle
 last fair price, retirement = official winner), so buying player A on one venue and player B on the
 other for < $1 all-in is close to a locked profit.
 
-Each scan (default every 60s):
+Each scan (default every 10s; well under Kalshi's ~20 req/s and Polymarket US's 25 req/s limits):
   - pull every open tennis match market on Kalshi (4 series) and Polymarket US (atp + wta leagues)
   - match the same match across venues, take the cheapest ask for each player, add taker fees
     (Kalshi 0.07*p*(1-p), Polymarket US 0.0695*p*(1-p))
-  - if a cross-venue combo costs < $1: re-check both order books for size at those prices
+  - if a cross-venue combo costs < $1: re-check both order books for size at those prices, then again
+    at +1s and +3s (simulating a bot that fires both orders at once): bot_ok = still >= MIN_LOCK at +1s
   - log one summary row per scan, every sub-$1 combo, and how long each arb lasted
   - open a GitHub issue (phone alert) for a NEW executable arb that locks >= MIN_LOCK dollars
 Commits data every 15 min; hands off to a new GitHub run before the 6h job limit.
@@ -165,7 +166,8 @@ def alert(r):
             f"- **Buy {r['leg_b']} on {r['src_b'].upper()} @ {r['px_b']:.2f}**\n"
             f"- **Size: {int(r['size'])} shares each** · all-in ${r['total']:.3f} per pair "
             f"→ {100 * (1 - r['total']):.1f}¢ locked per $1\n"
-            f"- Seen {mt}. Gaps like this usually close within minutes; verify both prices live first.\n\n"
+            f"- Seen {mt}. Still there 1s later (simulated bot): **{'YES' if r.get('bot_ok') else 'NO'}** "
+            f"(${r.get('locked_1s', 0):.2f} locked at +1s, ${r.get('locked_3s', 0):.2f} at +3s).\n\n"
             "Both venues settle walkovers at the last fair price and retirements to the official winner.")
     if os.environ.get("GH_TOKEN"):
         subprocess.run(["gh", "issue", "create", "--title", f"Paper ARB: {r['leg_a']} / {r['leg_b']} "
@@ -194,7 +196,7 @@ def dispatch_next():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--minutes", type=float, default=340)
-    ap.add_argument("--interval", type=int, default=60)
+    ap.add_argument("--interval", type=int, default=10)
     ap.add_argument("--once", action="store_true")
     ap.add_argument("--no-git", action="store_true")
     a = ap.parse_args()
@@ -216,7 +218,7 @@ def main():
         found = []
         if len(c):
             for r in c[c.total < 1.0].sort_values("total").itertuples():
-                tc = time.time()
+                tc = t_detect = time.time()
                 (sa, ba), (sb, bb) = depth(r.src_a, r.ref_a, r.px_a), depth(r.src_b, r.ref_b, r.px_b)
                 tc = round(time.time() - tc, 1)
                 book_total = (round(ba + FEE[r.src_a] * ba * (1 - ba) + bb + FEE[r.src_b] * bb * (1 - bb), 4)
@@ -232,6 +234,15 @@ def main():
                 rec["first_seen"] = open_arbs[k][0]
                 if rec["locked"] >= MIN_LOCK:
                     open_exec.setdefault(k, [ts, ts])[1] = ts
+                    # bot simulation: both orders fire at once ~1s after detection. Re-read both books at +1s
+                    # and +3s: is the combo still under $1 with real size on BOTH legs?
+                    for lag in (1, 3):
+                        time.sleep(max(0.0, t_detect + lag - time.time()))
+                        (sa2, _), (sb2, _) = depth(r.src_a, r.ref_a, r.px_a), depth(r.src_b, r.ref_b, r.px_b)
+                        sz2 = min(sa2 or 0, sb2 or 0)
+                        rec[f"size_{lag}s"] = sz2
+                        rec[f"locked_{lag}s"] = round(sz2 * (1 - r.total), 2)
+                    rec["bot_ok"] = rec["locked_1s"] >= MIN_LOCK  # what the arb gate counts
                 if rec["locked"] >= MIN_LOCK and (r.key, day) not in alerted:
                     alerted.add((r.key, day)); alert(rec)
         # arbs that closed since the last scan: log their lifetime. minutes = upper bound (first seen ->
