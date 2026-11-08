@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 8, 12:40AM MT
+# Consensus paper tracker — Sun Nov 8, 1:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,10 +10,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | all 15 | 0-1 | -1.00 | 0-0 | +0.00 | 1 |
-| Split | all 15 | 0-0 | +0.00 | 3-0 | +0.53 | 1 |
+| Split | all 15 | 0-0 | +0.00 | 3-0 | +0.53 | 2 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Split | core 10 only | 0-0 | +0.00 | 2-0 | +0.40 | 0 |
+| Split | core 10 only | 0-0 | +0.00 | 2-0 | +0.40 | 1 |
 
 ## Old roster (Nov 3 – Nov 7, closed)
 
@@ -63,3 +63,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | old | 2026-11-08 | NFL | Broncos vs. Panthers | Broncos (-2.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 52.5c |
 | new | 2026-11-08 | NFL | Jets vs. Chiefs | Chiefs (Moneyline) | Track only | pre-game | ic4cream; darkumbreon88 | — | 80.5c |
 | new | 2026-11-08 | Serie A | SSC Napoli vs. SS Lazio | SS Lazio win: No (3-way) | Split | pre-game | 0x9f15613e; Kyn008 | purplegatto | 67.5c |
+| new | 2026-11-08 | NFL | Bengals vs. Falcons | Under 52.5 (Total) | Split | pre-game | monkeymashingkeyboard; 0xb4F978BE | ic4cream | 52.5c |
