@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 8, 1:40PM MT
+# Consensus paper tracker — Sun Nov 8, 2:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,12 +8,12 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| Paper play | all 15 | 0-0 | +0.00 | 2-0 | +0.26 | 0 |
-| Track only | all 15 | 1-1 | -0.76 | 3-1 | -0.10 | 9 |
-| Split | all 15 | 3-0 | +2.44 | 4-1 | +0.27 | 6 |
+| Paper play | all 15 | 0-0 | +0.00 | 2-0 | +0.26 | 1 |
+| Track only | all 15 | 2-1 | +0.04 | 6-1 | +3.40 | 5 |
+| Split | all 15 | 5-1 | +3.05 | 4-1 | +0.27 | 4 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
-| Track only | core 10 only | 0-0 | +0.00 | 1-0 | +0.16 | 0 |
-| Split | core 10 only | 1-0 | +0.90 | 2-0 | +0.40 | 1 |
+| Track only | core 10 only | 0-0 | +0.00 | 1-0 | +0.16 | 1 |
+| Split | core 10 only | 1-1 | -0.10 | 2-0 | +0.40 | 0 |
 
 ## Old roster (Nov 3 – Nov 7, closed)
 
@@ -22,10 +22,10 @@ Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Ro
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-2 | -1.43 | 1 |
-| Track only | all 15 | 20-16 | -2.07 | 9-5 | +3.85 | 4 |
-| Split | all 15 | 9-11 | -2.86 | 11-9 | +1.37 | 1 |
+| Track only | all 15 | 23-16 | +0.30 | 9-5 | +3.85 | 1 |
+| Split | all 15 | 9-12 | -3.86 | 11-9 | +1.37 | 0 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Track only | core 10 only | 4-5 | -1.54 | 4-2 | +0.08 | 1 |
+| Track only | core 10 only | 4-6 | -2.54 | 4-2 | +0.08 | 0 |
 | Split | core 10 only | 0-2 | -2.00 | 1-2 | -1.52 | 0 |
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
@@ -55,19 +55,8 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | Roster | Date | League | Game | Side | Rule | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | old | 2026-11-08 | NFL | Cardinals vs. Seahawks | Seahawks (Moneyline) | Paper play | pre-game | ic4cream; BreakTheBank; darkumbreon88 | — | 78.5c |
-| old | 2026-11-08 | NFL | Rams vs. Commanders | Commanders (Spread) | Split | pre-game | monkeymashingkeyboard; ic4cream | darkumbreon88 | 52.5c |
-| old | 2026-11-08 | NFL | Jets vs. Chiefs | Chiefs (Spread) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 67.0c |
-| old | 2026-11-08 | NFL | Jets vs. Chiefs | Chiefs (-9.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 50.5c |
 | old | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
-| old | 2026-11-08 | NFL | Broncos vs. Panthers | Broncos (-2.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; Multicoloured-Serf | — | 52.5c |
-| new | 2026-11-08 | NFL | Giants vs. Eagles | Giants (Moneyline) | Split | pre-game | 0x9f15613e; darkumbreon88 | jakepaulthegoat2008 | 58.5c |
-| new | 2026-11-08 | NFL | Giants vs. Eagles | Eagles (+2.5) (Spread) | Split | pre-game | jakepaulthegoat2008; ic4cream | 0x9f15613e | 47.5c |
 | new | 2026-11-08 | La Liga | Club Atlético de Madrid vs. FC Barcelona | FC Barcelona win: Yes (3-way) | Track only | pre-game | 0xb4F978BE; darkumbreon88 | — | 51.5c |
-| new | 2026-11-08 | NFL | Giants vs. Eagles | Giants (-2.5) (Spread) | Split | pre-game | 0x9f15613e; BreakTheBank | ic4cream; jakepaulthegoat2008 | 52.5c |
-| new | 2026-11-08 | NFL | Cowboys vs. Colts | Colts (+5.5) (Spread) | Track only | pre-game | 0xb4F978BE; BreakTheBank | — | 55.5c |
-| new | 2026-11-08 | NFL | Cowboys vs. Colts | Colts (+4.5) (Spread) | Track only | in-play | 0xb4F978BE; BreakTheBank | — | 57.5c |
-| new | 2026-11-08 | NFL | Cowboys vs. Colts | Colts (+6.5) (Spread) | Track only | in-play | ic4cream; BreakTheBank | — | 63.0c |
-| new | 2026-11-08 | NFL | Giants vs. Eagles | Under 38.5 (Total) | Track only | in-play | ic4cream; BreakTheBank | — | 31.5c |
 | new | 2026-11-08 | NFL | Texans vs. Chargers | Texans (Moneyline) | Split | pre-game | monkeymashingkeyboard; darkumbreon88 | BreakTheBank | 66.5c |
 | new | 2026-11-08 | NBA | 76ers vs. Bulls | Bulls (Moneyline) | Split | pre-game | drainedandpoor; JoeyAroyyOO | purplegatto | 20.5c |
 | new | 2026-11-08 | La Liga | Club Atlético de Madrid vs. FC Barcelona | FC Barcelona win: No (3-way) | Split | pre-game | BreakTheBank; Kyn008 | 0xb4F978BE; darkumbreon88; yabanci | 48.5c |
@@ -75,3 +64,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-08 | NFL | Raiders vs. 49ers | 49ers (-9.5) (Spread) | Track only | pre-game | purplegatto; darkumbreon88 | — | 48.5c |
 | new | 2026-11-08 | NFL | Texans vs. Chargers | Chargers (+5.5) (Spread) | Track only | pre-game | jakepaulthegoat2008; BreakTheBank | — | 51.5c |
 | new | 2026-11-08 | NBA | 76ers vs. Bulls | Bulls (+9.5) (Spread) | Track only | in-play | drainedandpoor; BreakTheBank | — | 51.5c |
+| new | 2026-11-08 | NFL | Packers vs. Patriots | Packers (+3.5) (Spread) | Paper play | in-play | monkeymashingkeyboard; purplegatto; BreakTheBank | — | 81.5c |
+| new | 2026-11-08 | NFL | Packers vs. Patriots | Patriots (Moneyline) | Split | in-play | monkeymashingkeyboard; darkumbreon88 | BreakTheBank | 29.5c |
