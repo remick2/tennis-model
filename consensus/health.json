@@ -153,7 +153,6 @@
   }
  },
  "sent": {
-  "yabanci|directional bets/day too low (below 5)|warn": "2026-11-07",
   "0x9f15613e|directional bets/day too high (Serf-style)|warn": "2026-11-08",
   "darkumbreon88|share of all agreements (Serf-style)|alert": "2026-11-08"
  }

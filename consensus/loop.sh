@@ -10,6 +10,7 @@ cd "$(dirname "$0")/.."
 start=$(date +%s)
 fails=0
 handed_off=0
+git pull --rebase -q || true   # so cycle.sh itself is current, not just what it runs
 bash consensus/cycle.sh || fails=$((fails + 1))
 
 private=$(gh api "repos/$GITHUB_REPOSITORY" --jq .private 2>/dev/null || echo true)
@@ -37,6 +38,7 @@ while :; do
     dispatch_next && handed_off=1
   fi
   sleep $(( $(date +%s) < next ? next - $(date +%s) : 0 ))
+  git pull --rebase -q || true
   bash consensus/cycle.sh || fails=$((fails + 1))
 done
 
