@@ -99,19 +99,22 @@ def polyus_rows():
 
 
 def depth(src, ref, price):
-    """Shares on offer at <= price for buying this side."""
+    """(shares on offer at <= price for buying this side, best ask in the book) or (None, None)."""
     try:
         if src == "kalshi":
             ob = (get(f"{KALSHI}/markets/{ref}/orderbook") or {}).get("orderbook_fp") or {}
-            return sum(float(q) for p, q in (ob.get("no_dollars") or []) if 1 - float(p) <= price + 1e-9)
-        slug, idx = ref.rsplit("#", 1)
-        b = (get(f"{POLYUS}/v1/markets/{slug}/book") or {}).get("marketData") or {}
-        if idx == "0":
-            asks = b.get("offers") or b.get("asks") or []
-            return sum(float(a["qty"]) for a in asks if float(a["px"]["value"]) <= price + 1e-9)
-        return sum(float(a["qty"]) for a in b.get("bids", []) if 1 - float(a["px"]["value"]) <= price + 1e-9)
+            lv = [(1 - float(p), float(q)) for p, q in (ob.get("no_dollars") or [])]
+        else:
+            slug, idx = ref.rsplit("#", 1)
+            b = (get(f"{POLYUS}/v1/markets/{slug}/book") or {}).get("marketData") or {}
+            if idx == "0":
+                lv = [(float(a["px"]["value"]), float(a["qty"])) for a in (b.get("offers") or b.get("asks") or [])]
+            else:
+                lv = [(1 - float(a["px"]["value"]), float(a["qty"])) for a in b.get("bids", [])]
+        best = round(min(p for p, _ in lv), 4) if lv else None
+        return sum(q for p, q in lv if p <= price + 1e-9), best
     except Exception:
-        return None
+        return None, None
 
 
 # ------------------------------------------------------------------ scan
@@ -192,7 +195,7 @@ def main():
     ap.add_argument("--no-git", action="store_true")
     a = ap.parse_args()
     OUT.mkdir(parents=True, exist_ok=True)
-    start, open_arbs, alerted, handed_off, last_commit = time.time(), {}, set(), False, time.time()
+    start, open_arbs, open_exec, alerted, handed_off, last_commit = time.time(), {}, {}, set(), False, time.time()
     while True:
         t0, df, c = scan()
         day = t0.strftime("%Y-%m-%d")
@@ -206,24 +209,38 @@ def main():
         found = []
         if len(c):
             for r in c[c.total < 1.0].sort_values("total").itertuples():
-                sa, sb = depth(r.src_a, r.ref_a, r.px_a), depth(r.src_b, r.ref_b, r.px_b)
+                tc = time.time()
+                (sa, ba), (sb, bb) = depth(r.src_a, r.ref_a, r.px_a), depth(r.src_b, r.ref_b, r.px_b)
+                tc = round(time.time() - tc, 1)
+                book_total = (round(ba + FEE[r.src_a] * ba * (1 - ba) + bb + FEE[r.src_b] * bb * (1 - bb), 4)
+                              if ba is not None and bb is not None else None)
                 size = min(x for x in (sa, sb) if x is not None) if (sa is not None and sb is not None) else 0
                 rec = {"ts": ts, "key": r.key, "live": r.live, "leg_a": r.leg_a, "src_a": r.src_a, "px_a": r.px_a,
                        "leg_b": r.leg_b, "src_b": r.src_b, "px_b": r.px_b, "total": round(r.total, 4),
-                       "size_a": sa, "size_b": sb, "size": size, "locked": round(size * (1 - r.total), 2)}
+                       "size_a": sa, "size_b": sb, "size": size, "locked": round(size * (1 - r.total), 2),
+                       "book_a": ba, "book_b": bb, "book_total": book_total, "check_secs": tc}
                 found.append(rec)
                 k = (r.key, r.leg_a, r.src_a, r.leg_b, r.src_b)
-                first = open_arbs.setdefault(k, ts)
-                rec["first_seen"] = first
+                open_arbs.setdefault(k, [ts, ts])[1] = ts
+                rec["first_seen"] = open_arbs[k][0]
+                if rec["locked"] >= MIN_LOCK:
+                    open_exec.setdefault(k, [ts, ts])[1] = ts
                 if rec["locked"] >= MIN_LOCK and (r.key, day) not in alerted:
                     alerted.add((r.key, day)); alert(rec)
-        # arbs that closed since the last scan: log their lifetime
+        # arbs that closed since the last scan: log their lifetime. minutes = upper bound (first seen ->
+        # first scan without it); min_minutes = lower bound (first -> last scan with it). kind "exec" tracks
+        # only the scans where it was executable (>= MIN_LOCK locked), which is what the gate's median uses.
         live_keys = {(f["key"], f["leg_a"], f["src_a"], f["leg_b"], f["src_b"]) for f in found}
-        closed = [{"key": k[0], "legs": f"{k[1]}@{k[2]} + {k[3]}@{k[4]}", "first_seen": v, "closed_by": ts,
-                   "minutes": round((pd.Timestamp(ts) - pd.Timestamp(v)).total_seconds() / 60, 1)}
-                  for k, v in open_arbs.items() if k not in live_keys]
-        for k in [k for k in open_arbs if k not in live_keys]:
-            open_arbs.pop(k)
+        exec_keys = {(f["key"], f["leg_a"], f["src_a"], f["leg_b"], f["src_b"]) for f in found
+                     if f["locked"] >= MIN_LOCK}
+        closed = []
+        for kind, book, still in (("any", open_arbs, live_keys), ("exec", open_exec, exec_keys)):
+            for k in [k for k in book if k not in still]:
+                first, last = book.pop(k)
+                closed.append({"key": k[0], "legs": f"{k[1]}@{k[2]} + {k[3]}@{k[4]}", "first_seen": first,
+                               "closed_by": ts, "kind": kind,
+                               "minutes": round((pd.Timestamp(ts) - pd.Timestamp(first)).total_seconds() / 60, 1),
+                               "min_minutes": round((pd.Timestamp(last) - pd.Timestamp(first)).total_seconds() / 60, 1)})
         summ["arbs_under_1"] = len(found)
         log(OUT / f"{day}_scans.csv", [summ])
         log(OUT / f"{day}_arbs.csv", found)
