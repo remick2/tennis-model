@@ -83,6 +83,13 @@ TRADERS = {
 }
 CORE10 = list(TRADERS)[:10]
 
+# Bench: pre-screened swaps (Nov 7 consensus-screen, 7-day window), named in roster warnings for that trader.
+BENCH = {
+    "0x9f15613e": ("AppleTiiime", "0x951634357346bb291df117f9ac410100feea2104",
+                   "#99 sports PnL, NBA, 7.7 bets/day, active 7/7 days, never both sides; "
+                   "backup: ianf2026 0x81d972dbea298a5064d4ba51031e0386182fe9c9 (NBA/UEL/CBB, 6.3/day)"),
+}
+
 FIELDS = ["id", "logged_at", "game_date", "league", "game", "event_slug", "side", "market",
           "agree", "against", "agree_n", "against_n", "core10_n", "their_entry", "price_at_log",
           "tier", "status", "units", "condition_id", "outcome_index", "note"]
@@ -499,8 +506,9 @@ def roster_health(rows, now):
             val = f"{t[key] * 100:.0f}% of {t['agreements']}" if key == "share" else f"{t[key]}"
             limit = (f"{alarm * 100:.0f}%" if key == "share" else alarm) if level == "alert" else \
                     (f"{warn * 100:.0f}%" if key == "share" else warn)
+            bench = f"{BENCH[n][0]} ({BENCH[n][2]})" if n in BENCH else "run consensus-screen"
             flags.append(f"| {'🔴 ALERT' if level == 'alert' else '🟡 early warning'} | {n} | {label} | {val} | "
-                         f"{'over' if kind == 'high' else 'under'} {limit} |")
+                         f"{'over' if kind == 'high' else 'under'} {limit} | {bench} |")
     HEALTH.write_text(json.dumps({"date": local.date().isoformat(), "stats": stats, "sent": sent}, indent=1) + "\n")
     if not flags:
         return stats, ""
@@ -508,7 +516,7 @@ def roster_health(rows, now):
     return stats, "\n".join([
         f"Consensus roster warning: {', '.join(names)}",
         f"Daily roster health check ({HEALTH_DAYS}-day window). Each warning is sent at most once a week.", "",
-        "| Level | Trader | Symptom | Now | Limit |", "|---|---|---|---|---|", *flags, "",
+        "| Level | Trader | Symptom | Now | Limit | Swap candidate |", "|---|---|---|---|---|---|", *flags, "",
         "Full roster stats are in `consensus/summary.md`. To look for a replacement, run the "
         "`consensus-screen` workflow (Actions tab) or ask Claude.",
     ]) + "\n"
