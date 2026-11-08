@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 7, 6:40PM MT
+# Consensus paper tracker — Sat Nov 7, 7:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,10 +10,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 0-0 | +0.00 | 0-0 | +0.00 | 1 |
 | Track only | all 15 | 0-0 | +0.00 | 0-0 | +0.00 | 1 |
-| Split | all 15 | 0-0 | +0.00 | 0-0 | +0.00 | 2 |
+| Split | all 15 | 0-0 | +0.00 | 1-0 | +0.13 | 2 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 1 |
 | Track only | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
-| Split | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 1 |
+| Split | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 2 |
 
 ## Old roster (Nov 3 – Nov 7, closed)
 
@@ -71,6 +71,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | old | 2026-11-07 | NBA | Nets vs. Hawks | Under 226.5 (Total) | Track only | in-play | 0x9f15613e; Multicoloured-Serf | — | 47.5c |
 | old | 2026-11-07 | NBA | Wizards vs. Thunder | Over 223.5 (Total) | Track only | pre-game | ic4cream; Multicoloured-Serf | — | 51.5c |
 | new | 2026-11-07 | NBA | Magic vs. Warriors | Warriors (Moneyline) | Split | in-play | jakepaulthegoat2008; drainedandpoor | monkeymashingkeyboard | 73.5c |
-| new | 2026-11-07 | NBA | Wizards vs. Thunder | Thunder (Moneyline) | Split | in-play | purplegatto; darkumbreon88 | monkeymashingkeyboard | 88.5c |
 | new | 2026-11-07 | CFB | Iowa vs. Northwestern | Iowa (Moneyline) | Paper play | in-play | purplegatto; 999585; ic4cream | — | 89.5c |
 | new | 2026-11-07 | NBA | Rockets vs. Suns | Rockets (Moneyline) | Track only | pre-game | jakepaulthegoat2008; darkumbreon88 | — | 71.5c |
+| new | 2026-11-07 | CFB | Miami (FL) vs. Notre Dame | Notre Dame (Moneyline) | Split | in-play | 0xb4F978BE; 999585 | purplegatto | 96.0c |
