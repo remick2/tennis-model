@@ -19,7 +19,7 @@ fi
 (cd src && python -W ignore scorecard.py > /dev/null) || echo "scorecard failed"
 
 git add data/snapshots data/results_kalshi.csv
-for p in data/arbs data/notified_arbs.csv data/notified.csv data/scorecard.md data/tonic; do
+for p in data/arbs data/notified_arbs.csv data/notified.csv data/scorecard.md; do
   [ -e "$p" ] && git add "$p"
 done
 git diff --cached --quiet || git commit -qm "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
