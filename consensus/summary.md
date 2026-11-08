@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 8, 10:40AM MT
+# Consensus paper tracker — Sun Nov 8, 11:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,8 +8,8 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| Paper play | all 15 | 0-0 | +0.00 | 1-0 | +0.12 | 1 |
-| Track only | all 15 | 0-1 | -1.00 | 3-1 | -0.10 | 3 |
+| Paper play | all 15 | 0-0 | +0.00 | 2-0 | +0.26 | 0 |
+| Track only | all 15 | 0-1 | -1.00 | 3-1 | -0.10 | 6 |
 | Split | all 15 | 3-0 | +2.44 | 4-1 | +0.27 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 1-0 | +0.16 | 0 |
@@ -64,6 +64,8 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-08 | NFL | Giants vs. Eagles | Giants (Moneyline) | Split | pre-game | 0x9f15613e; darkumbreon88 | jakepaulthegoat2008 | 58.5c |
 | new | 2026-11-08 | NFL | Giants vs. Eagles | Eagles (+2.5) (Spread) | Split | pre-game | jakepaulthegoat2008; ic4cream | 0x9f15613e | 47.5c |
 | new | 2026-11-08 | La Liga | Club Atlético de Madrid vs. FC Barcelona | FC Barcelona win: Yes (3-way) | Track only | pre-game | 0xb4F978BE; darkumbreon88 | — | 51.5c |
-| new | 2026-11-08 | EPL | Manchester United FC vs. Aston Villa FC | Manchester United FC win: No (3-way) | Paper play | in-play | yabanci; BreakTheBank; ch27er | — | 87.5c |
 | new | 2026-11-08 | NFL | Giants vs. Eagles | Giants (-2.5) (Spread) | Split | pre-game | 0x9f15613e; BreakTheBank | ic4cream; jakepaulthegoat2008 | 52.5c |
 | new | 2026-11-08 | NFL | Cowboys vs. Colts | Colts (+5.5) (Spread) | Track only | pre-game | 0xb4F978BE; BreakTheBank | — | 55.5c |
+| new | 2026-11-08 | NFL | Cowboys vs. Colts | Colts (+4.5) (Spread) | Track only | in-play | 0xb4F978BE; BreakTheBank | — | 57.5c |
+| new | 2026-11-08 | NFL | Cowboys vs. Colts | Colts (+6.5) (Spread) | Track only | in-play | ic4cream; BreakTheBank | — | 63.0c |
+| new | 2026-11-08 | NFL | Giants vs. Eagles | Under 38.5 (Total) | Track only | in-play | ic4cream; BreakTheBank | — | 31.5c |
