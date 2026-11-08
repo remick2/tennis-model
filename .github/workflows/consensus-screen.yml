@@ -1,0 +1,21 @@
+name: consensus-screen
+# Manual only: read-only screen of leaderboard traders for the consensus tracker. Output is in the job log.
+on:
+  workflow_dispatch:
+    inputs:
+      top:
+        description: "How many leaderboard traders to screen"
+        default: "100"
+permissions:
+  contents: read
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python consensus/screen.py "${{ inputs.top }}" | tee screen.md
