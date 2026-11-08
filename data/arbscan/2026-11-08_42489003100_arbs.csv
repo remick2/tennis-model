@@ -166,3 +166,96 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-08T16:16:18+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.05,Carlos Alcaraz,kalshi,0.91,0.969,68614.72,0.0,0,0.0,0.05,0.96,1.016,0.1,2026-11-08T16:16:08+00:00
 2026-11-08T16:16:48+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.05,Carlos Alcaraz,polyus,0.93,0.9878,0.0,0.0,0,0.0,0.08,0.94,1.0291,0.0,2026-11-08T16:16:48+00:00
 2026-11-08T16:17:28+00:00,carboni v raquillet,True,Leo Raquillet,polyus,0.27,Lorenzo Carboni,kalshi,0.7,0.9984,0.0,0.0,0,0.0,0.31,0.73,1.0687,0.0,2026-11-08T16:17:28+00:00
+2026-11-08T16:18:18+00:00,camila v scott,True,Katrina Scott,kalshi,0.88,Maria Torres,polyus,0.1,0.9936,0.0,0.0,0,0.0,0.91,0.16,1.0851,0.1,2026-11-08T16:18:18+00:00
+2026-11-08T16:18:28+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.66,Justin Boulais,polyus,0.27,0.9594,0.0,0.0,0,0.0,0.74,0.35,1.1193,0.0,2026-11-08T16:18:28+00:00
+2026-11-08T16:18:28+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.3,Lorenzo Carboni,polyus,0.65,0.9805,0.0,0.0,0,0.0,0.36,0.71,1.1004,0.0,2026-11-08T16:18:28+00:00
+2026-11-08T16:18:38+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.66,Justin Boulais,polyus,0.29,0.98,0.0,97430.85,0,0.0,0.74,0.27,1.0372,0.1,2026-11-08T16:18:28+00:00
+2026-11-08T16:18:38+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.3,Lorenzo Carboni,polyus,0.65,0.9805,0.0,0.0,0,0.0,0.36,0.71,1.1004,0.1,2026-11-08T16:18:28+00:00
+2026-11-08T16:18:48+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.66,Justin Boulais,polyus,0.14,0.8241,0.0,0.0,0,0.0,0.87,0.27,1.1616,0.1,2026-11-08T16:18:28+00:00
+2026-11-08T16:18:48+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.3,Lorenzo Carboni,polyus,0.65,0.9805,0.0,2687.01,0,0.0,0.36,0.65,1.0419,0.0,2026-11-08T16:18:28+00:00
+2026-11-08T16:18:58+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.74,Justin Boulais,polyus,0.13,0.8913,0.0,0.0,0,0.0,0.88,0.27,1.1711,0.0,2026-11-08T16:18:28+00:00
+2026-11-08T16:19:08+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.74,Justin Boulais,polyus,0.13,0.8913,0.0,14637.2,0,0.0,0.88,0.13,1.0253,0.1,2026-11-08T16:18:28+00:00
+2026-11-08T16:19:18+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.74,Justin Boulais,polyus,0.13,0.8913,0.0,14637.2,0,0.0,0.88,0.13,1.0253,0.0,2026-11-08T16:18:28+00:00
+2026-11-08T16:19:48+00:00,carboni v raquillet,True,Leo Raquillet,polyus,0.31,Lorenzo Carboni,kalshi,0.64,0.981,0.0,0.0,0,0.0,0.38,0.7,1.1111,0.1,2026-11-08T16:19:48+00:00
+2026-11-08T16:20:18+00:00,camila v scott,True,Katrina Scott,kalshi,0.88,Maria Torres,polyus,0.1,0.9936,0.0,0.0,0,0.0,0.9,0.13,1.0442,0.1,2026-11-08T16:20:18+00:00
+2026-11-08T16:20:28+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.31,Lorenzo Carboni,polyus,0.65,0.9908,0.0,0.0,0,0.0,0.36,0.7,1.0907,0.0,2026-11-08T16:20:28+00:00
+2026-11-08T16:20:38+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.31,Lorenzo Carboni,polyus,0.65,0.9908,0.0,0.0,0,0.0,0.34,0.7,1.0703,0.1,2026-11-08T16:20:28+00:00
+2026-11-08T16:20:48+00:00,boulais v hudd,True,Emile Hudd,polyus,0.83,Justin Boulais,kalshi,0.13,0.9777,0.0,0.0,0,0.0,0.89,0.18,1.0871,0.1,2026-11-08T16:20:48+00:00
+2026-11-08T16:20:48+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.31,Lorenzo Carboni,polyus,0.65,0.9908,0.0,0.11,0,0.0,0.36,0.65,1.0419,0.0,2026-11-08T16:20:28+00:00
+2026-11-08T16:21:28+00:00,carboni v raquillet,True,Leo Raquillet,polyus,0.31,Lorenzo Carboni,kalshi,0.64,0.981,0.0,0.0,0,0.0,0.36,0.7,1.0907,0.1,2026-11-08T16:21:28+00:00
+2026-11-08T16:21:38+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.82,Justin Boulais,polyus,0.14,0.9787,0.0,0.0,0,0.0,0.87,0.21,1.0994,0.0,2026-11-08T16:21:38+00:00
+2026-11-08T16:21:38+00:00,carboni v raquillet,True,Leo Raquillet,polyus,0.31,Lorenzo Carboni,kalshi,0.64,0.981,0.0,0.0,0,0.0,0.36,0.7,1.0907,0.0,2026-11-08T16:21:28+00:00
+2026-11-08T16:21:48+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.82,Justin Boulais,polyus,0.14,0.9787,0.0,0.0,0,0.0,0.87,0.21,1.0994,0.0,2026-11-08T16:21:38+00:00
+2026-11-08T16:22:18+00:00,boulais v hudd,True,Emile Hudd,polyus,0.82,Justin Boulais,kalshi,0.14,0.9787,0.0,0.0,0,0.0,0.87,0.19,1.0786,0.0,2026-11-08T16:22:18+00:00
+2026-11-08T16:22:18+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.14,Santiago De la Fuente,kalshi,0.84,0.9978,0.0,0.0,0,0.0,0.17,0.87,1.0577,0.1,2026-11-08T16:22:18+00:00
+2026-11-08T16:22:28+00:00,carboni v raquillet,True,Leo Raquillet,polyus,0.31,Lorenzo Carboni,kalshi,0.65,0.9908,0.0,0.0,0,0.0,0.36,0.7,1.0907,0.0,2026-11-08T16:22:28+00:00
+2026-11-08T16:22:38+00:00,carboni v raquillet,True,Leo Raquillet,polyus,0.31,Lorenzo Carboni,kalshi,0.65,0.9908,0.0,0.0,0,0.0,0.36,0.7,1.0907,0.1,2026-11-08T16:22:28+00:00
+2026-11-08T16:22:48+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.11,Santiago De la Fuente,kalshi,0.87,0.9947,0.0,0.0,0,0.0,0.14,0.9,1.0547,0.0,2026-11-08T16:22:48+00:00
+2026-11-08T16:22:58+00:00,boulais v hudd,True,Emile Hudd,polyus,0.72,Justin Boulais,kalshi,0.22,0.966,0.0,0.0,0,0.0,0.81,0.29,1.1251,0.1,2026-11-08T16:22:58+00:00
+2026-11-08T16:22:58+00:00,carboni v raquillet,True,Leo Raquillet,polyus,0.27,Lorenzo Carboni,kalshi,0.69,0.9887,0.0,0.0,0,0.0,0.31,0.74,1.0783,0.0,2026-11-08T16:22:58+00:00
+2026-11-08T16:23:08+00:00,boulais v hudd,True,Emile Hudd,polyus,0.72,Justin Boulais,kalshi,0.22,0.966,12896.13,0.0,0,0.0,0.72,0.29,1.0384,0.0,2026-11-08T16:22:58+00:00
+2026-11-08T16:23:08+00:00,carboni v raquillet,True,Leo Raquillet,polyus,0.27,Lorenzo Carboni,kalshi,0.69,0.9887,0.0,0.0,0,0.0,0.31,0.74,1.0783,0.0,2026-11-08T16:22:58+00:00
+2026-11-08T16:23:18+00:00,carboni v raquillet,True,Leo Raquillet,polyus,0.27,Lorenzo Carboni,kalshi,0.69,0.9887,5926.01,0.0,0,0.0,0.27,0.74,1.0372,0.1,2026-11-08T16:22:58+00:00
+2026-11-08T16:23:18+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.08,Santiago De la Fuente,kalshi,0.9,0.9914,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.0,2026-11-08T16:23:18+00:00
+2026-11-08T16:23:48+00:00,camila v scott,True,Katrina Scott,kalshi,0.87,Maria Torres,polyus,0.11,0.9947,0.0,29871.25,0,0.0,0.89,0.11,1.0137,0.1,2026-11-08T16:23:48+00:00
+2026-11-08T16:23:58+00:00,grenier v pavlovic,True,Hugo Grenier,kalshi,0.24,Luka Pavlovic,polyus,0.71,0.9771,0.0,0.0,0,0.0,0.3,0.77,1.097,0.1,2026-11-08T16:23:58+00:00
+2026-11-08T16:23:58+00:00,camila v scott,True,Katrina Scott,kalshi,0.87,Maria Torres,polyus,0.11,0.9947,0.0,29871.25,0,0.0,0.91,0.11,1.0325,0.0,2026-11-08T16:23:48+00:00
+2026-11-08T16:24:08+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.76,Justin Boulais,polyus,0.16,0.9421,0.0,20410.6,0,0.0,0.85,0.16,1.0283,0.1,2026-11-08T16:24:08+00:00
+2026-11-08T16:24:18+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.76,Justin Boulais,polyus,0.15,0.9316,0.0,0.0,0,0.0,0.86,0.16,1.0378,0.1,2026-11-08T16:24:08+00:00
+2026-11-08T16:24:28+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.76,Justin Boulais,polyus,0.15,0.9316,0.0,0.0,0,0.0,0.86,0.16,1.0378,0.0,2026-11-08T16:24:08+00:00
+2026-11-08T16:24:28+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.25,Luka Pavlovic,kalshi,0.71,0.9874,0.0,0.0,0,0.0,0.3,0.76,1.0874,0.1,2026-11-08T16:24:28+00:00
+2026-11-08T16:24:48+00:00,boulais v hudd,True,Emile Hudd,polyus,0.78,Justin Boulais,kalshi,0.15,0.9509,0.0,0.0,0,0.0,0.86,0.23,1.1108,0.0,2026-11-08T16:24:48+00:00
+2026-11-08T16:24:58+00:00,boulais v hudd,True,Emile Hudd,polyus,0.78,Justin Boulais,kalshi,0.15,0.9509,0.0,0.0,0,0.0,0.86,0.23,1.1108,0.1,2026-11-08T16:24:48+00:00
+2026-11-08T16:25:28+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.78,Justin Boulais,polyus,0.15,0.9509,0.0,0.0,0,0.0,0.86,0.23,1.1107,0.1,2026-11-08T16:25:28+00:00
+2026-11-08T16:25:28+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.29,Lorenzo Carboni,polyus,0.67,0.9898,0.0,0.0,0,0.0,0.33,0.71,1.0698,0.0,2026-11-08T16:25:28+00:00
+2026-11-08T16:25:38+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.78,Justin Boulais,polyus,0.15,0.9509,0.0,14060.18,0,0.0,0.86,0.15,1.0273,0.1,2026-11-08T16:25:28+00:00
+2026-11-08T16:25:38+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.29,Lorenzo Carboni,polyus,0.67,0.9898,0.0,0.0,0,0.0,0.34,0.71,1.08,0.0,2026-11-08T16:25:28+00:00
+2026-11-08T16:25:48+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.78,Justin Boulais,polyus,0.15,0.9509,0.0,14060.18,0,0.0,0.86,0.15,1.0273,0.0,2026-11-08T16:25:28+00:00
+2026-11-08T16:25:48+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.29,Lorenzo Carboni,polyus,0.67,0.9898,0.0,96.01,0,0.0,0.36,0.67,1.0615,0.0,2026-11-08T16:25:28+00:00
+2026-11-08T16:25:58+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.86,Justin Boulais,polyus,0.1,0.9747,0.0,0.0,0,0.0,0.9,0.15,1.0652,0.0,2026-11-08T16:25:28+00:00
+2026-11-08T16:26:08+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.86,Justin Boulais,polyus,0.1,0.9747,0.0,15932.79,0,0.0,0.91,0.1,1.022,0.1,2026-11-08T16:25:28+00:00
+2026-11-08T16:26:18+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.86,Justin Boulais,polyus,0.1,0.9747,0.0,15932.79,0,0.0,0.91,0.1,1.022,0.1,2026-11-08T16:25:28+00:00
+2026-11-08T16:26:38+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.13,Luka Pavlovic,kalshi,0.83,0.9777,0.0,0.0,0,0.0,0.17,0.88,1.0672,0.1,2026-11-08T16:26:38+00:00
+2026-11-08T16:26:38+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.06,Santiago De la Fuente,kalshi,0.93,0.9985,934.0,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-08T16:26:38+00:00
+2026-11-08T16:26:48+00:00,boulais v hudd,True,Emile Hudd,polyus,0.86,Justin Boulais,kalshi,0.1,0.9747,0.0,0.0,0,0.0,0.9,0.15,1.0652,0.0,2026-11-08T16:26:48+00:00
+2026-11-08T16:26:48+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.13,Luka Pavlovic,kalshi,0.83,0.9777,9088.04,0.0,0,0.0,0.13,0.88,1.0253,0.1,2026-11-08T16:26:38+00:00
+2026-11-08T16:26:48+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.06,Santiago De la Fuente,kalshi,0.93,0.9985,934.0,0.0,0,0.0,0.06,0.95,1.0172,0.0,2026-11-08T16:26:38+00:00
+2026-11-08T16:27:18+00:00,boulais v hudd,True,Emile Hudd,polyus,0.78,Justin Boulais,kalshi,0.15,0.9509,0.0,0.0,0,0.0,0.86,0.23,1.1108,0.0,2026-11-08T16:27:18+00:00
+2026-11-08T16:27:18+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.08,Luka Pavlovic,kalshi,0.88,0.9725,25362.45,0.0,0,0.0,0.08,0.92,1.0103,0.0,2026-11-08T16:27:18+00:00
+2026-11-08T16:27:18+00:00,carboni v raquillet,True,Leo Raquillet,polyus,0.32,Lorenzo Carboni,kalshi,0.63,0.9814,5637.9,0.0,0,0.0,0.32,0.69,1.0401,0.0,2026-11-08T16:27:18+00:00
+2026-11-08T16:27:18+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.06,Santiago De La Fuente,polyus,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.94,1.0291,0.0,2026-11-08T16:27:18+00:00
+2026-11-08T16:27:28+00:00,boulais v hudd,True,Emile Hudd,polyus,0.77,Justin Boulais,kalshi,0.17,0.9622,0.0,0.0,0,0.0,0.86,0.24,1.1211,0.0,2026-11-08T16:27:18+00:00
+2026-11-08T16:27:38+00:00,boulais v hudd,True,Emile Hudd,polyus,0.77,Justin Boulais,kalshi,0.17,0.9622,47135.54,0.0,0,0.0,0.77,0.24,1.0351,0.0,2026-11-08T16:27:18+00:00
+2026-11-08T16:27:38+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.05,Luka Pavlovic,kalshi,0.92,0.9785,0.0,0.0,0,0.0,0.08,0.96,1.0478,0.1,2026-11-08T16:27:38+00:00
+2026-11-08T16:27:48+00:00,boulais v hudd,True,Emile Hudd,polyus,0.74,Justin Boulais,kalshi,0.17,0.9332,0.0,0.0,0,0.0,0.77,0.26,1.0558,0.0,2026-11-08T16:27:18+00:00
+2026-11-08T16:27:48+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.05,Luka Pavlovic,kalshi,0.92,0.9785,43042.95,0.0,0,0.0,0.05,0.96,1.016,0.0,2026-11-08T16:27:38+00:00
+2026-11-08T16:28:08+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.74,Justin Boulais,polyus,0.16,0.9228,0.0,0.0,0,0.0,0.85,0.28,1.1529,0.1,2026-11-08T16:28:08+00:00
+2026-11-08T16:28:18+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.74,Justin Boulais,polyus,0.16,0.9228,0.0,0.0,0,0.0,0.85,0.28,1.1529,0.1,2026-11-08T16:28:08+00:00
+2026-11-08T16:28:18+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.35,Lorenzo Carboni,polyus,0.61,0.9925,0.0,0.0,0,0.0,0.4,0.66,1.0924,0.0,2026-11-08T16:28:18+00:00
+2026-11-08T16:28:28+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.12,Santiago De La Fuente,polyus,0.86,0.9958,0.0,0.0,0,0.0,0.15,0.9,1.0652,0.1,2026-11-08T16:28:28+00:00
+2026-11-08T16:28:38+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.12,Santiago De La Fuente,polyus,0.86,0.9958,0.0,1065.01,0,0.0,0.15,0.86,1.0273,0.0,2026-11-08T16:28:28+00:00
+2026-11-08T16:28:48+00:00,boulais v hudd,True,Emile Hudd,polyus,0.77,Justin Boulais,kalshi,0.16,0.9517,0.0,0.0,0,0.0,0.86,0.24,1.1211,0.1,2026-11-08T16:28:48+00:00
+2026-11-08T16:28:48+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.12,Santiago De La Fuente,polyus,0.86,0.9958,0.0,1065.01,0,0.0,0.15,0.86,1.0273,0.1,2026-11-08T16:28:28+00:00
+2026-11-08T16:28:58+00:00,boulais v hudd,True,Emile Hudd,polyus,0.77,Justin Boulais,kalshi,0.16,0.9517,0.0,0.0,0,0.0,0.86,0.24,1.1211,0.1,2026-11-08T16:28:48+00:00
+2026-11-08T16:28:58+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.12,Santiago De La Fuente,polyus,0.86,0.9958,0.0,1065.01,0,0.0,0.15,0.86,1.0273,0.0,2026-11-08T16:28:28+00:00
+2026-11-08T16:29:18+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.77,Justin Boulais,polyus,0.17,0.9622,0.0,0.0,0,0.0,0.84,0.24,1.1021,0.0,2026-11-08T16:29:18+00:00
+2026-11-08T16:29:18+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.41,Lorenzo Carboni,polyus,0.54,0.9842,0.0,941.25,0,0.0,0.47,0.54,1.0447,0.1,2026-11-08T16:29:18+00:00
+2026-11-08T16:29:18+00:00,grenier v pavlovic,True,Hugo Grenier,kalshi,0.05,Luka Pavlovic,polyus,0.94,0.9972,0.0,28770.09,0,0.0,0.07,0.94,1.0185,0.0,2026-11-08T16:29:18+00:00
+2026-11-08T16:29:28+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.77,Justin Boulais,polyus,0.16,0.9517,0.0,0.0,0,0.0,0.84,0.24,1.1021,0.0,2026-11-08T16:29:18+00:00
+2026-11-08T16:29:28+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.41,Lorenzo Carboni,polyus,0.53,0.9742,0.0,0.0,0,0.0,0.47,0.54,1.0447,0.1,2026-11-08T16:29:18+00:00
+2026-11-08T16:29:28+00:00,grenier v pavlovic,True,Hugo Grenier,kalshi,0.05,Luka Pavlovic,polyus,0.93,0.9878,0.0,0.0,0,0.0,0.08,0.94,1.0291,0.1,2026-11-08T16:29:18+00:00
+2026-11-08T16:29:58+00:00,grenier v pavlovic,True,Hugo Grenier,kalshi,0.08,Luka Pavlovic,polyus,0.9,0.9914,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.0,2026-11-08T16:29:58+00:00
+2026-11-08T16:30:08+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.49,Lorenzo Carboni,polyus,0.44,0.9646,0.0,0.0,0,0.0,0.57,0.53,1.1345,0.1,2026-11-08T16:30:08+00:00
+2026-11-08T16:30:08+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.84,Justin Boulais,polyus,0.11,0.9662,0.0,20009.16,0,0.0,0.9,0.11,1.0231,0.1,2026-11-08T16:30:08+00:00
+2026-11-08T16:30:18+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.49,Lorenzo Carboni,polyus,0.44,0.9646,0.0,8859.11,0,0.0,0.57,0.44,1.0443,0.1,2026-11-08T16:30:08+00:00
+2026-11-08T16:30:18+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.84,Justin Boulais,polyus,0.11,0.9662,0.0,20009.16,0,0.0,0.9,0.11,1.0231,0.1,2026-11-08T16:30:08+00:00
+2026-11-08T16:30:18+00:00,grenier v pavlovic,True,Hugo Grenier,kalshi,0.12,Luka Pavlovic,polyus,0.85,0.9863,0.0,0.0,0,0.0,0.16,0.88,1.0567,0.1,2026-11-08T16:30:18+00:00
+2026-11-08T16:30:28+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.49,Lorenzo Carboni,polyus,0.44,0.9646,0.0,8859.11,0,0.0,0.57,0.44,1.0443,0.0,2026-11-08T16:30:08+00:00
+2026-11-08T16:30:28+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.84,Justin Boulais,polyus,0.11,0.9662,0.0,20009.16,0,0.0,0.9,0.11,1.0231,0.0,2026-11-08T16:30:08+00:00
+2026-11-08T16:30:28+00:00,grenier v pavlovic,True,Hugo Grenier,kalshi,0.12,Luka Pavlovic,polyus,0.85,0.9863,0.0,0.0,0,0.0,0.16,0.88,1.0567,0.1,2026-11-08T16:30:18+00:00
+2026-11-08T16:30:48+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.9,Justin Boulais,polyus,0.07,0.9808,0.0,0.0,0,0.0,0.94,0.11,1.0608,0.1,2026-11-08T16:30:48+00:00
+2026-11-08T16:30:58+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.9,Justin Boulais,polyus,0.07,0.9808,0.0,0.0,0,0.0,0.94,0.11,1.0608,0.1,2026-11-08T16:30:48+00:00
+2026-11-08T16:31:18+00:00,grenier v pavlovic,True,Hugo Grenier,kalshi,0.16,Luka Pavlovic,polyus,0.81,0.9901,0.0,13377.41,0,0.0,0.2,0.81,1.0319,0.1,2026-11-08T16:31:18+00:00
+2026-11-08T16:31:28+00:00,grenier v pavlovic,True,Hugo Grenier,kalshi,0.16,Luka Pavlovic,polyus,0.81,0.9901,0.0,13377.41,0,0.0,0.2,0.81,1.0319,0.1,2026-11-08T16:31:18+00:00
+2026-11-08T16:31:38+00:00,grenier v pavlovic,True,Hugo Grenier,kalshi,0.16,Luka Pavlovic,polyus,0.81,0.9901,0.0,13377.41,0,0.0,0.2,0.81,1.0319,0.0,2026-11-08T16:31:18+00:00
+2026-11-08T16:31:48+00:00,grenier v pavlovic,True,Hugo Grenier,kalshi,0.16,Luka Pavlovic,polyus,0.81,0.9901,0.0,33093.92,0,0.0,0.21,0.81,1.0423,0.1,2026-11-08T16:31:18+00:00
