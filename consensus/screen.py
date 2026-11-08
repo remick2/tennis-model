@@ -62,14 +62,17 @@ def trades(wallet, since):
 def stats(wallet, since):
     mk = defaultdict(lambda: defaultdict(float))
     days = set()
+    leagues = defaultdict(float)
     for a in trades(wallet, since):
         mk[a["condition_id"]][a["outcome_index"]] += float(a["usdc_size"])
+        leagues[a["event_slug"].split("-")[0]] += float(a["usdc_size"])
         days.add(time.strftime("%Y-%m-%d", time.gmtime(a["timestamp"] - 7 * 3600)))
     both = sum(len(s) > 1 for s in mk.values())
     directional = [s for s in mk.values() if sum(s.values()) >= 1000 and max(s.values()) >= 0.75 * sum(s.values())]
     stake = sum(sum(s.values()) for s in directional) / len(directional) if directional else 0
     return {"per_day": len(directional) / DAYS, "days": len(days), "markets": len(mk),
-            "both_pct": round(100 * both / len(mk)) if mk else 0, "stake": stake}
+            "both_pct": round(100 * both / len(mk)) if mk else 0, "stake": stake,
+            "leagues": ",".join(k for k, _ in sorted(leagues.items(), key=lambda x: -x[1])[:3])}
 
 
 def main():
@@ -86,11 +89,11 @@ def main():
         if w.lower() not in seen:
             rows.append(({"rank": "-", "user_name": n, "user_id": w, "pnl": 0, "volume": 0}, stats(w, since), n))
     print(f"# Consensus replacement screen ({DAYS} days, top {TOP} monthly sports PnL)\n")
-    print("| Rank | Trader | Wallet | Month PnL | Directional mkts/day | Active days | Both-sides % | Avg stake | Tracked |")
-    print("|---|---|---|---|---|---|---|---|---|")
+    print("| Rank | Trader | Wallet | Month PnL | Directional mkts/day | Active days | Both-sides % | Avg stake | Top sports | Tracked |")
+    print("|---|---|---|---|---|---|---|---|---|---|")
     for u, s, t in rows:
         print(f"| {u['rank']} | {u['user_name'][:28]} | {u['user_id']} | {float(u['pnl']) / 1000:,.0f}k | "
-              f"{s['per_day']:.1f} | {s['days']} | {s['both_pct']} | ${s['stake']:,.0f} | {t or ''} |")
+              f"{s['per_day']:.1f} | {s['days']} | {s['both_pct']} | ${s['stake']:,.0f} | {s['leagues']} | {t or ''} |")
 
 
 if __name__ == "__main__":
