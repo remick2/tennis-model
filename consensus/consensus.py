@@ -6,8 +6,12 @@ Each run:
   3. grades finished entries from Polymarket's market prices (gamma-api),
   4. rewrites consensus/summary.md,
   5. writes alert files into the folder given as argv[1] (consensus/cycle.sh turns each one into a
-     GitHub issue -> phone notification): play.md for NEW pre-game "Paper play" signals (3+ agree,
-     0 against) and week.md for the weekly check-in (every 7 days from 2026-11-03).
+     GitHub issue -> phone notification; line 1 of each file is the issue title):
+       play.md   NEW pre-game "Paper play" signals (3+ agree, 0 against)
+       report-*  official reports: old-roster final (Mon Nov 10), then new-roster reports every Friday
+                 from Nov 13
+       health.md daily roster health check: warns when a trader starts looking like Multicoloured-Serf
+                 (too many bets, in too many agreements) or ethanaz (betting both sides), or stops betting
 No end date: it keeps running until the workflow is disabled.
 
 Tiers (judged across all 15): Paper play = 3+ agree and nobody against; Track only = exactly 2
@@ -28,14 +32,33 @@ import requests
 ROOT = Path(__file__).resolve().parent
 LOG = ROOT / "signals.csv"
 SUMMARY = ROOT / "summary.md"
-CHECKPOINT = ROOT / "last_checkin.txt"   # date of the last weekly check-in issue
+REPORTS_SENT = ROOT / "reports_sent.txt"   # ids of official reports already opened as issues
+HEALTH = ROOT / "health.json"               # last daily roster health check + which warnings were sent
 
 DATA = "https://data-api.polymarket.com"
 GAMMA = "https://gamma-api.polymarket.com"
 UA = {"User-Agent": "consensus-paper-tracker/1.0"}
 
-START_DATE = "2026-11-03"   # tracking started; weekly check-ins count from here
+START_DATE = "2026-11-03"   # tracking started
 MIN_STAKE = 1000            # a trader counts on a side only with $1k+ in it
+
+# Roster 2 (Serf, googleplay, ethanaz, 0xd4aa6f8e, scootergene out) went live with the 6:40pm MT check
+# on Nov 7; its swap commit landed 00:54Z Nov 8. Rows logged before this are "old roster".
+ROSTER2_START = "2026-11-08T01:00:00Z"
+OLD_CORE10 = ["monkeymashingkeyboard", "googleplay", "jakepaulthegoat2008", "0xb4F978BE", "chongchong37",
+              "yabanci", "drainedandpoor", "ethanaz", "0x9f15613e", "ic4cream"]
+OLD_REPORT_DATE = date(2026, 11, 10)   # old roster's final report (Mon)
+NEW_REPORT_FIRST = date(2026, 11, 13)  # new roster's first report; then every Friday
+
+# Roster health (7-day window). "warn" = symptoms starting to leak in; "alert" = the Serf/ethanaz level.
+HEALTH_DAYS = 7
+HEALTH_RULES = [  # (key, label, kind, warn, alert)
+    ("per_day", "directional bets/day too high (Serf-style)", "high", 17, 20),
+    ("share", "share of all agreements (Serf-style)", "high", 0.33, 0.40),
+    ("both_pct", "% of markets bet on both sides (ethanaz-style)", "high", 10, 15),
+    ("per_day", "directional bets/day too low (below 5)", "low", 5, 3),
+]
+MIN_AGREEMENTS_FOR_SHARE = 10
 MT = ZoneInfo("America/Denver")
 
 # name -> proxy wallet. The first 10 are the "core 10".
@@ -75,6 +98,51 @@ def get(url, **params):
     r = requests.get(url, params=params, headers=UA, timeout=30)
     r.raise_for_status()
     return r.json()
+
+
+def get_retry(url, **params):
+    for i in range(4):
+        try:
+            return get(url, **params)
+        except Exception:
+            if i == 3:
+                raise
+            import time
+            time.sleep(2 * (i + 1))
+
+
+def buys(wallet, since_ts):
+    """BUY trades on dated (sports) events since since_ts (unix seconds)."""
+    out, cursor = [], None
+    for _ in range(10):
+        p = {"user": wallet, "limit": 500}
+        if cursor:
+            p["cursor"] = cursor
+        j = get_retry(f"{DATA}/v2/activity", **p)
+        d = j.get("data") or []
+        out += d
+        cursor = (j.get("pagination") or {}).get("next_cursor")
+        if not cursor or not d or d[-1]["timestamp"] < since_ts:
+            break
+    return [a for a in out if a["timestamp"] >= since_ts and a.get("type") == "TRADE" and a.get("side") == "BUY"
+            and re.search(r"\d{4}-\d{2}-\d{2}$", a.get("event_slug") or "")]
+
+
+def trader_stats(wallet, since_ts, days):
+    """Directional markets/day ($1k+, 75%+ on one side), active days, % of markets bet both sides, top sports."""
+    mk, leagues, active = {}, {}, set()
+    for a in buys(wallet, since_ts):
+        m = mk.setdefault(a["condition_id"], {})
+        m[a["outcome_index"]] = m.get(a["outcome_index"], 0.0) + float(a["usdc_size"])
+        lg = a["event_slug"].split("-")[0]
+        leagues[lg] = leagues.get(lg, 0.0) + float(a["usdc_size"])
+        active.add(datetime.fromtimestamp(a["timestamp"], MT).date())
+    both = sum(len(m) > 1 for m in mk.values())
+    directional = [m for m in mk.values() if sum(m.values()) >= MIN_STAKE and max(m.values()) >= 0.75 * sum(m.values())]
+    return {"per_day": round(len(directional) / days, 1), "days": len(active), "markets": len(mk),
+            "both_pct": round(100 * both / len(mk)) if mk else 0,
+            "stake": round(sum(sum(m.values()) for m in directional) / len(directional)) if directional else 0,
+            "leagues": ",".join(k for k, _ in sorted(leagues.items(), key=lambda x: -x[1])[:3])}
 
 
 def positions(wallet):
@@ -305,9 +373,14 @@ def record(rows):
     return f"{w}-{l}", f"{u:+.2f}", o
 
 
+def roster(r):
+    return "new" if r["logged_at"] >= ROSTER2_START else "old"
+
+
 def core10_tier(r):
-    agree = [n for n in r["agree"].split("; ") if n in CORE10]
-    against = [n for n in (r["against"] or "").split("; ") if n in CORE10]
+    core = CORE10 if roster(r) == "new" else OLD_CORE10
+    agree = [n for n in r["agree"].split("; ") if n in core]
+    against = [n for n in (r["against"] or "").split("; ") if n in core]
     if len(agree) < 2:
         return None
     return tier(len(agree), len(against))
@@ -337,24 +410,47 @@ RULES = ("Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, n
          "in-play = the agreement only showed up after the start, graded at the live price when logged.")
 
 
+def health_table(stats):
+    lines = ["| Trader | Bets/day | Active days | Both-sides % | Share of agreements | Avg stake | Top sports |",
+             "|---|---|---|---|---|---|---|"]
+    for n in TRADERS:
+        t = stats.get(n)
+        if not t:
+            lines.append(f"| {n} | — | — | — | — | — | (pull failed) |")
+            continue
+        share = f"{t['share'] * 100:.0f}% of {t['agreements']}" if t.get("agreements") else "—"
+        lines.append(f"| {n} | {t['per_day']} | {t['days']} | {t['both_pct']}% | {share} | ${t['stake']:,} | {t['leagues']} |")
+    return lines
+
+
 def write_summary(rows, now):
+    new = [r for r in rows if roster(r) == "new"]
+    old = [r for r in rows if roster(r) == "old"]
     lines = [f"# Consensus paper tracker — {now.astimezone(MT):%a %b %-d, %-I:%M%p} MT", "",
-             f"Paper tracking only, since {START_DATE}. 1 unit flat at the price when each signal was logged. "
-             "Roster change Nov 7 ~6-7pm MT: Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene out; "
-             "BreakTheBank, purplegatto, 999585, Kyn008 and JoeyAroyyOO in ('core 10' = the first 10 slots).",
-             "", *record_table(rows), "", RULES, "",
-             "## Open signals", "", "| Date | League | Game | Side | Rule | Timing | Agree | Against | Logged at |",
-             "|---|---|---|---|---|---|---|---|---|"]
+             "Paper tracking only. 1 unit flat at the price when each signal was logged.", "",
+             "## New roster (since Nov 7, 6:40pm MT)", "",
+             "In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the first 10 slots. "
+             "Official reports every Friday from Nov 13.", "", *record_table(new), "",
+             "## Old roster (Nov 3 – Nov 7, closed)", "",
+             "Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Rows logged before "
+             "the Nov 5 per-market fix are flagged 'old grouping'. Final report Mon Nov 10.", "",
+             *record_table(old), "", RULES, ""]
+    if HEALTH.exists():
+        h = json.loads(HEALTH.read_text())
+        lines += [f"## Roster health (last {HEALTH_DAYS} days, checked {h.get('date', '?')})", "",
+                  *health_table(h.get("stats", {})), ""]
+    lines += ["## Open signals", "", "| Roster | Date | League | Game | Side | Rule | Timing | Agree | Against | Logged at |",
+              "|---|---|---|---|---|---|---|---|---|---|"]
     for r in rows:
         if r["status"] == "open":
-            lines.append(f"| {r['game_date']} | {r['league']} | {r['game']} | {r['side']} ({r['market']}) | "
+            lines.append(f"| {roster(r)} | {r['game_date']} | {r['league']} | {r['game']} | {r['side']} ({r['market']}) | "
                          f"{r['tier']} | {'in-play' if in_play(r) else 'pre-game'} | {r['agree']} | "
                          f"{r['against'] or '—'} | {float(r['price_at_log']) * 100:.1f}c |")
     SUMMARY.write_text("\n".join(lines) + "\n")
 
 
 def alert(new_plays):
-    out = []
+    out = [f"Consensus paper play: {datetime.now(MT):%a %b %-d %-I:%M%p} MT"]
     for r, st in new_plays:
         when = st.astimezone(MT).strftime("%a %-I:%M%p MT") if st else "start time unknown"
         out.append(f"**PAPER PLAY: {r['side']} {r['market']} ({r['game']}) @ {float(r['price_at_log']) * 100:.1f}c "
@@ -364,21 +460,95 @@ def alert(new_plays):
     return "\n".join(out)
 
 
-def weekly_checkin(rows, today):
-    """Markdown for the weekly check-in, or '' if one isn't due. Due 7+ days after the last one."""
-    last = date.fromisoformat(CHECKPOINT.read_text().strip() if CHECKPOINT.exists() else START_DATE)
-    if today < last + timedelta(days=7):
-        return ""
-    CHECKPOINT.write_text(today.isoformat() + "\n")
-    week_start = (today - timedelta(days=7)).isoformat()
-    week = [r for r in rows if r["game_date"] >= week_start]
-    return "\n".join([
-        f"**Consensus weekly check-in** (week {(today - date.fromisoformat(START_DATE)).days // 7}). "
-        "Paper tracking only, 1 unit flat at the logged price.", "",
-        f"### Last 7 days (games since {week_start})", "", *record_table(week), "",
-        f"### All time (since {START_DATE})", "", *record_table(rows), "", RULES, "",
-        "It keeps running until you disable the `consensus-tracker` workflow in the Actions tab.",
+def roster_health(rows, now):
+    """Once a day after 8am MT: 7-day stats per trader. Returns (stats, warning markdown or '')."""
+    local = now.astimezone(MT)
+    state = json.loads(HEALTH.read_text()) if HEALTH.exists() else {}
+    if local.hour < 8 or state.get("date") == local.date().isoformat():
+        return None, ""
+    since = now - timedelta(days=HEALTH_DAYS)
+    stats = {}
+    for n, w in TRADERS.items():
+        try:
+            stats[n] = trader_stats(w, since.timestamp(), HEALTH_DAYS)
+        except Exception as e:
+            print(f"health pull failed for {n}: {type(e).__name__}", file=sys.stderr)
+    recent = [r for r in rows if roster(r) == "new" and r["logged_at"] >= since.strftime("%Y-%m-%dT%H:%M:%SZ")]
+    for n, t in stats.items():
+        t["agreements"] = len(recent)
+        t["share"] = round(sum(n in r["agree"].split("; ") for r in recent) / len(recent), 3) if recent else 0.0
+    sent = state.get("sent", {})
+    flags = []
+    for n, t in stats.items():
+        for key, label, kind, warn, alarm in HEALTH_RULES:
+            if key == "share" and t["agreements"] < MIN_AGREEMENTS_FOR_SHARE:
+                continue
+            if key == "per_day" and kind == "low" and t["days"] == 0 and t["markets"] == 0:
+                level = "alert"
+            elif kind == "high":
+                level = "alert" if t[key] > alarm else "warn" if t[key] > warn else None
+            else:
+                level = "alert" if t[key] < alarm else "warn" if t[key] < warn else None
+            if not level:
+                continue
+            k = f"{n}|{label}|{level}"
+            last = sent.get(k)
+            if last and date.fromisoformat(last) > local.date() - timedelta(days=7):
+                continue  # same warning already sent this week
+            sent[k] = local.date().isoformat()
+            val = f"{t[key] * 100:.0f}% of {t['agreements']}" if key == "share" else f"{t[key]}"
+            limit = (f"{alarm * 100:.0f}%" if key == "share" else alarm) if level == "alert" else \
+                    (f"{warn * 100:.0f}%" if key == "share" else warn)
+            flags.append(f"| {'🔴 ALERT' if level == 'alert' else '🟡 early warning'} | {n} | {label} | {val} | "
+                         f"{'over' if kind == 'high' else 'under'} {limit} |")
+    HEALTH.write_text(json.dumps({"date": local.date().isoformat(), "stats": stats, "sent": sent}, indent=1) + "\n")
+    if not flags:
+        return stats, ""
+    names = sorted({f.split(" | ")[1] for f in flags})
+    return stats, "\n".join([
+        f"Consensus roster warning: {', '.join(names)}",
+        f"Daily roster health check ({HEALTH_DAYS}-day window). Each warning is sent at most once a week.", "",
+        "| Level | Trader | Symptom | Now | Limit |", "|---|---|---|---|---|", *flags, "",
+        "Full roster stats are in `consensus/summary.md`. To look for a replacement, run the "
+        "`consensus-screen` workflow (Actions tab) or ask Claude.",
     ]) + "\n"
+
+
+def due_reports(rows, now, stats):
+    """Official reports due now: old-roster final (Nov 10), then new roster every Friday from Nov 13."""
+    local = now.astimezone(MT)
+    if local.hour < 8:
+        return []
+    sent = set(REPORTS_SENT.read_text().split()) if REPORTS_SENT.exists() else set()
+    d = local.date()
+    out = []
+    if d >= OLD_REPORT_DATE and "old-final" not in sent:
+        old = [r for r in rows if roster(r) == "old"]
+        clean = [r for r in old if "old grouping" not in (r.get("note") or "")]
+        out.append(("old-final", "\n".join([
+            "Consensus old roster: final report (Nov 3–7)",
+            "**Old roster, final.** Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene; "
+            "retired Nov 7 6:40pm MT. Paper tracking, 1 unit flat at the logged price.", "",
+            "### All old-roster signals", "", *record_table(old), "",
+            "### After the Nov 5 per-market fix only (cleanest data)", "", *record_table(clean), "",
+            f"Still open: {sum(r['status'] == 'open' for r in old)}. New-roster reports start Fri Nov 13.", "", RULES,
+        ]) + "\n"))
+    friday = d - timedelta(days=(d.weekday() - 4) % 7)
+    if friday >= NEW_REPORT_FIRST and f"new-{friday}" not in sent:
+        new = [r for r in rows if roster(r) == "new"]
+        wk = [r for r in new if r["logged_at"] >= (friday - timedelta(days=7)).isoformat()]
+        h = stats or (json.loads(HEALTH.read_text()).get("stats", {}) if HEALTH.exists() else {})
+        n = (friday - NEW_REPORT_FIRST).days // 7 + 1
+        out.append((f"new-{friday}", "\n".join([
+            f"Consensus new roster: report #{n} ({friday:%b %-d})",
+            f"**New roster, report #{n}.** Roster live since Nov 7 6:40pm MT. Paper tracking, 1 unit flat at the "
+            "logged price.", "",
+            f"### Last 7 days (logged since {friday - timedelta(days=7):%b %-d})", "", *record_table(wk), "",
+            "### Since the new roster started", "", *record_table(new), "", RULES, "",
+            f"### Roster health (last {HEALTH_DAYS} days)", "", *health_table(h), "",
+            "Watch for: >17 bets/day or >33% of agreements (Serf-style), >10% both sides (ethanaz-style), <5 bets/day.",
+        ]) + "\n"))
+    return out
 
 
 def main():
@@ -389,14 +559,20 @@ def main():
     new_plays = merge(rows, found, now)
     graded = grade(rows)
     save(rows)
+    stats, warning = roster_health(rows, now)
     write_summary(rows, now)
     print(f"logged {len(rows)} total, {len(new_plays)} new paper plays, graded {graded} this run, "
           f"failed traders: {', '.join(failed) or 'none'}")
     if new_plays:
         (out / "play.md").write_text(alert(new_plays))
-    week = weekly_checkin(rows, now.astimezone(MT).date())
-    if week:
-        (out / "week.md").write_text(week)
+    if warning:
+        (out / "health.md").write_text(warning)
+    reports = due_reports(rows, now, stats)
+    for rid, body in reports:
+        (out / f"report-{rid}.md").write_text(body)
+    if reports:
+        sent = REPORTS_SENT.read_text() if REPORTS_SENT.exists() else ""
+        REPORTS_SENT.write_text(sent + "".join(rid + "\n" for rid, _ in reports))
     if len(failed) > 5:
         raise SystemExit(f"{len(failed)} of {len(TRADERS)} trader pulls failed: {', '.join(failed)}")
 

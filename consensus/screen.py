@@ -7,26 +7,12 @@ the share of their markets they traded both sides of, and average stake per mark
 """
 import sys
 import time
-from collections import defaultdict
-
-import requests
 
 sys.path.insert(0, __file__.rsplit("/", 1)[0])
-from consensus import DATA, TRADERS, UA  # noqa: E402
+from consensus import DATA, TRADERS, get_retry, trader_stats  # noqa: E402
 
 DAYS = 7
 TOP = int(sys.argv[1]) if len(sys.argv) > 1 else 100
-
-
-def get(url, **params):
-    for i in range(4):
-        try:
-            r = requests.get(url, params=params, headers=UA, timeout=30)
-            r.raise_for_status()
-            return r.json()
-        except Exception:
-            time.sleep(2 * (i + 1))
-    return {}
 
 
 def leaderboard(n):
@@ -35,7 +21,7 @@ def leaderboard(n):
         p = {"category": "SPORTS", "timePeriod": "MONTH", "orderBy": "PNL", "limit": 50}
         if cursor:
             p["cursor"] = cursor
-        j = get(f"{DATA}/v2/leaderboard", **p)
+        j = get_retry(f"{DATA}/v2/leaderboard", **p)
         out += j.get("data") or []
         cursor = (j.get("pagination") or {}).get("next_cursor")
         if not cursor:
@@ -43,36 +29,11 @@ def leaderboard(n):
     return out[:n]
 
 
-def trades(wallet, since):
-    out, cursor = [], None
-    for _ in range(10):
-        p = {"user": wallet, "limit": 500}
-        if cursor:
-            p["cursor"] = cursor
-        j = get(f"{DATA}/v2/activity", **p)
-        d = j.get("data") or []
-        out += d
-        cursor = (j.get("pagination") or {}).get("next_cursor")
-        if not cursor or not d or d[-1]["timestamp"] < since:
-            break
-    return [a for a in out if a["timestamp"] >= since and a.get("type") == "TRADE" and a.get("side") == "BUY"
-            and a.get("event_slug", "")[-10:-8] == "20"]
-
-
 def stats(wallet, since):
-    mk = defaultdict(lambda: defaultdict(float))
-    days = set()
-    leagues = defaultdict(float)
-    for a in trades(wallet, since):
-        mk[a["condition_id"]][a["outcome_index"]] += float(a["usdc_size"])
-        leagues[a["event_slug"].split("-")[0]] += float(a["usdc_size"])
-        days.add(time.strftime("%Y-%m-%d", time.gmtime(a["timestamp"] - 7 * 3600)))
-    both = sum(len(s) > 1 for s in mk.values())
-    directional = [s for s in mk.values() if sum(s.values()) >= 1000 and max(s.values()) >= 0.75 * sum(s.values())]
-    stake = sum(sum(s.values()) for s in directional) / len(directional) if directional else 0
-    return {"per_day": len(directional) / DAYS, "days": len(days), "markets": len(mk),
-            "both_pct": round(100 * both / len(mk)) if mk else 0, "stake": stake,
-            "leagues": ",".join(k for k, _ in sorted(leagues.items(), key=lambda x: -x[1])[:3])}
+    try:
+        return trader_stats(wallet, since, DAYS)
+    except Exception:
+        return {"per_day": 0, "days": 0, "markets": 0, "both_pct": 0, "stake": 0, "leagues": "(pull failed)"}
 
 
 def main():
