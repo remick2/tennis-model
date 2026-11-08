@@ -311,7 +311,8 @@ def merge(rows, found, now):
         started = st is not None and st <= now
         game = event_info(s["event_slug"]).get("title") or s["title"].split(":")[0]
         game = re.sub(r"\s*-\s*(Game|Map) \d+ Winner$", "", game)
-        existing = next((r for r in rows if r["condition_id"] == s["condition_id"]
+        # only new-roster rows count as "already logged"; old-roster rows keep grading on their own
+        existing = next((r for r in rows if roster(r) == "new" and r["condition_id"] == s["condition_id"]
                          and str(r["outcome_index"]) == str(s["outcome_index"])), None)
         if existing:
             if (t == "Paper play" and existing["tier"] != "Paper play" and existing["status"] == "open"
@@ -326,8 +327,11 @@ def merge(rows, found, now):
             continue
         day = (st or now).astimezone(MT).strftime("%Y-%m-%d")
         prefix = s["event_slug"].split("-")[0]
+        rid = f"{day.replace('-', '')}-{s['event_slug']}-{re.sub(r'[^a-z0-9]+', '-', s['side'].lower()).strip('-')}"
+        if any(r["id"] == rid for r in rows):
+            rid += "-r2"
         row = {
-            "id": f"{day.replace('-', '')}-{s['event_slug']}-{re.sub(r'[^a-z0-9]+', '-', s['side'].lower()).strip('-')}",
+            "id": rid,
             "logged_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "game_date": day,
             "league": LEAGUES.get(prefix, prefix.upper()), "game": game, "event_slug": s["event_slug"],
             "side": s["side"], "market": market_label(s["title"], s["side"]),
