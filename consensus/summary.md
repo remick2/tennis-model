@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 8, 3:40PM MT
+# Consensus paper tracker — Sun Nov 8, 4:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,8 +9,8 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 0-0 | +0.00 | 2-0 | +0.26 | 2 |
-| Track only | all 15 | 3-2 | -0.02 | 6-1 | +3.40 | 3 |
-| Split | all 15 | 5-2 | +2.05 | 4-1 | +0.27 | 5 |
+| Track only | all 15 | 3-3 | -1.02 | 7-1 | +4.34 | 2 |
+| Split | all 15 | 6-3 | +1.55 | 4-1 | +0.27 | 4 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 1-0 | +0.16 | 1 |
 | Split | core 10 only | 1-1 | -0.10 | 2-0 | +0.40 | 0 |
@@ -56,13 +56,11 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 |---|---|---|---|---|---|---|---|---|---|
 | old | 2026-11-08 | NFL | Cardinals vs. Seahawks | Seahawks (Moneyline) | Track only | pre-game | (2 traders; names overwritten by Nov 8 upgrade bug) | — | 77.5c |
 | old | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
-| new | 2026-11-08 | NFL | Texans vs. Chargers | Texans (Moneyline) | Split | pre-game | monkeymashingkeyboard; darkumbreon88 | BreakTheBank | 66.5c |
-| new | 2026-11-08 | NBA | 76ers vs. Bulls | Bulls (Moneyline) | Split | pre-game | drainedandpoor; JoeyAroyyOO | purplegatto | 20.5c |
 | new | 2026-11-08 | NFL | Raiders vs. 49ers | 49ers (-9.5) (Spread) | Track only | pre-game | purplegatto; darkumbreon88 | — | 48.5c |
-| new | 2026-11-08 | NFL | Texans vs. Chargers | Chargers (+5.5) (Spread) | Track only | pre-game | jakepaulthegoat2008; BreakTheBank | — | 51.5c |
-| new | 2026-11-08 | NBA | 76ers vs. Bulls | Bulls (+9.5) (Spread) | Track only | in-play | drainedandpoor; BreakTheBank | — | 51.5c |
 | new | 2026-11-08 | NFL | Packers vs. Patriots | Packers (+3.5) (Spread) | Paper play | in-play | monkeymashingkeyboard; purplegatto; BreakTheBank | — | 81.5c |
 | new | 2026-11-08 | NFL | Packers vs. Patriots | Patriots (Moneyline) | Split | in-play | monkeymashingkeyboard; darkumbreon88 | BreakTheBank | 29.5c |
 | new | 2026-11-08 | NFL | Cardinals vs. Seahawks | Seahawks (Moneyline) | Paper play | pre-game | ic4cream; BreakTheBank; darkumbreon88 | — | 78.5c |
 | new | 2026-11-08 | NBA | Lakers vs. Pistons | Pistons (Moneyline) | Split | pre-game | purplegatto; ch27er | JoeyAroyyOO; jakepaulthegoat2008 | 69.5c |
 | new | 2026-11-08 | NBA | Lakers vs. Pistons | Lakers (Moneyline) | Split | pre-game | jakepaulthegoat2008; JoeyAroyyOO | ch27er; purplegatto | 30.5c |
+| new | 2026-11-08 | NBA | Heat vs. Kings | Kings (+10.5) (Spread) | Split | pre-game | drainedandpoor; ianf2026 | purplegatto | 48.5c |
+| new | 2026-11-08 | NBA | Lakers vs. Pistons | Pistons (-6.5) (Spread) | Track only | in-play | ch27er; ianf2026 | — | 12.5c |
