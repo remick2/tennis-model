@@ -87,3 +87,37 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-08T15:46:58+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.15,Carlos Alcaraz,polyus,0.83,0.9987,0.0,0.0,0,0.0,0.18,0.85,1.0492,0.0,2026-11-08T15:46:48+00:00
 2026-11-08T15:47:18+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.3,Santiago De La Fuente,polyus,0.66,0.9903,0.0,0.0,0,0.0,0.35,0.71,1.0902,0.0,2026-11-08T15:47:18+00:00
 2026-11-08T15:47:18+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.54,Justin Boulais,polyus,0.42,0.9943,0.0,0.0,0,0.0,0.58,0.49,1.1044,0.0,2026-11-08T15:47:18+00:00
+2026-11-08T15:47:28+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.3,Santiago De La Fuente,polyus,0.66,0.9903,0.0,7357.11,0,0.0,0.35,0.66,1.0415,0.0,2026-11-08T15:47:18+00:00
+2026-11-08T15:47:28+00:00,boulais v hudd,True,Emile Hudd,kalshi,0.54,Justin Boulais,polyus,0.42,0.9943,0.0,14446.79,0,0.0,0.58,0.42,1.034,0.0,2026-11-08T15:47:18+00:00
+2026-11-08T15:48:18+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.16,Carlos Alcaraz,polyus,0.81,0.9901,0.0,0.0,0,0.0,0.2,0.84,1.0605,0.0,2026-11-08T15:48:18+00:00
+2026-11-08T15:48:58+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.2,Carlos Alcaraz,polyus,0.71,0.9355,0.0,0.0,0,0.0,0.3,0.81,1.1354,0.0,2026-11-08T15:48:58+00:00
+2026-11-08T15:49:08+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.2,Carlos Alcaraz,polyus,0.71,0.9355,0.0,73694.08,0,0.0,0.3,0.71,1.039,0.0,2026-11-08T15:48:58+00:00
+2026-11-08T15:49:18+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.2,Carlos Alcaraz,polyus,0.71,0.9355,0.0,73694.08,0,0.0,0.3,0.71,1.039,0.0,2026-11-08T15:48:58+00:00
+2026-11-08T15:49:58+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.28,Santiago De la Fuente,kalshi,0.69,0.999,0.0,0.0,0,0.0,0.32,0.73,1.0789,0.0,2026-11-08T15:49:58+00:00
+2026-11-08T15:50:08+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.28,Santiago De la Fuente,kalshi,0.69,0.999,0.0,0.0,0,0.0,0.32,0.73,1.0789,0.1,2026-11-08T15:49:58+00:00
+2026-11-08T15:50:18+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.28,Santiago De la Fuente,kalshi,0.69,0.999,0.0,0.0,0,0.0,0.32,0.73,1.0789,0.0,2026-11-08T15:49:58+00:00
+2026-11-08T15:52:58+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.18,Luka Pavlovic,kalshi,0.77,0.9727,0.0,0.0,0,0.0,0.21,0.83,1.0614,0.0,2026-11-08T15:52:58+00:00
+2026-11-08T15:52:58+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.29,Santiago De La Fuente,polyus,0.67,0.9898,0.0,1124.51,0,0.0,0.34,0.67,1.0411,0.0,2026-11-08T15:52:58+00:00
+2026-11-08T15:53:28+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.29,Santiago De la Fuente,kalshi,0.67,0.9898,0.0,0.0,0,0.0,0.34,0.72,1.0897,0.0,2026-11-08T15:53:28+00:00
+2026-11-08T15:56:18+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.24,Lorenzo Carboni,polyus,0.71,0.9771,0.0,0.0,0,0.0,0.31,0.74,1.0783,0.0,2026-11-08T15:56:18+00:00
+2026-11-08T15:56:38+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.29,Santiago De La Fuente,polyus,0.67,0.9898,0.0,0.0,0,0.0,0.34,0.72,1.0897,0.0,2026-11-08T15:56:38+00:00
+2026-11-08T15:56:48+00:00,carboni v raquillet,True,Leo Raquillet,kalshi,0.29,Lorenzo Carboni,polyus,0.67,0.9898,0.0,0.0,0,0.0,0.34,0.7,1.0703,0.0,2026-11-08T15:56:48+00:00
+2026-11-08T15:56:48+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.29,Santiago De La Fuente,polyus,0.67,0.9898,0.0,0.0,0,0.0,0.34,0.72,1.0897,0.0,2026-11-08T15:56:38+00:00
+2026-11-08T15:57:08+00:00,boulais v hudd,True,Emile Hudd,polyus,0.58,Justin Boulais,kalshi,0.38,0.9934,0.0,0.0,0,0.0,0.6,0.43,1.0638,0.0,2026-11-08T15:57:08+00:00
+2026-11-08T15:57:18+00:00,boulais v hudd,True,Emile Hudd,polyus,0.58,Justin Boulais,kalshi,0.38,0.9934,0.0,0.0,0,0.0,0.6,0.43,1.0638,0.0,2026-11-08T15:57:08+00:00
+2026-11-08T15:57:48+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.34,Santiago De La Fuente,polyus,0.62,0.9921,0.0,0.0,0,0.0,0.38,0.67,1.0819,0.0,2026-11-08T15:57:48+00:00
+2026-11-08T15:57:58+00:00,camila v scott,True,Katrina Scott,kalshi,0.95,Maria Torres,polyus,0.04,0.996,0.0,0.0,0,0.0,0.97,0.05,1.0253,0.0,2026-11-08T15:57:58+00:00
+2026-11-08T15:59:08+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.23,Carlos Alcaraz,kalshi,0.74,0.9958,0.0,0.0,0,0.0,0.28,0.79,1.0956,0.0,2026-11-08T15:59:08+00:00
+2026-11-08T15:59:18+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.21,Carlos Alcaraz,kalshi,0.74,0.975,0.0,0.0,0,0.0,0.28,0.8,1.1052,0.0,2026-11-08T15:59:08+00:00
+2026-11-08T16:00:08+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.15,Carlos Alcaraz,kalshi,0.81,0.9796,99725.08,0.0,0,0.0,0.15,0.87,1.0368,0.0,2026-11-08T16:00:08+00:00
+2026-11-08T16:00:18+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.14,Carlos Alcaraz,kalshi,0.81,0.9691,0.0,0.0,0,0.0,0.15,0.87,1.0368,0.0,2026-11-08T16:00:08+00:00
+2026-11-08T16:00:18+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.15,Luka Pavlovic,kalshi,0.83,0.9987,0.0,0.0,0,0.0,0.18,0.86,1.0587,0.0,2026-11-08T16:00:18+00:00
+2026-11-08T16:00:28+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.15,Luka Pavlovic,kalshi,0.83,0.9987,0.0,0.0,0,0.0,0.18,0.86,1.0587,0.0,2026-11-08T16:00:18+00:00
+2026-11-08T16:00:48+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.12,Luka Pavlovic,kalshi,0.86,0.9958,0.0,0.0,0,0.0,0.15,0.89,1.0557,0.0,2026-11-08T16:00:48+00:00
+2026-11-08T16:00:58+00:00,fuente v monzon,True,Ignacio Monzon,kalshi,0.49,Santiago De La Fuente,polyus,0.45,0.9747,0.0,6013.0,0,0.0,0.56,0.45,1.0444,0.0,2026-11-08T16:00:58+00:00
+2026-11-08T16:00:58+00:00,grenier v pavlovic,True,Hugo Grenier,polyus,0.12,Luka Pavlovic,kalshi,0.86,0.9958,0.0,0.0,0,0.0,0.15,0.89,1.0557,0.1,2026-11-08T16:00:48+00:00
+2026-11-08T16:01:48+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.44,Santiago De la Fuente,kalshi,0.49,0.9646,0.0,0.0,0,0.0,0.52,0.57,1.1245,0.0,2026-11-08T16:01:48+00:00
+2026-11-08T16:01:58+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.44,Santiago De la Fuente,kalshi,0.49,0.9646,1067.01,0.0,0,0.0,0.44,0.57,1.0443,0.0,2026-11-08T16:01:48+00:00
+2026-11-08T16:02:08+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.44,Santiago De la Fuente,kalshi,0.49,0.9646,1067.01,0.0,0,0.0,0.44,0.58,1.0542,0.0,2026-11-08T16:01:48+00:00
+2026-11-08T16:02:18+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.38,Santiago De la Fuente,kalshi,0.49,0.9039,0.0,0.0,0,0.0,0.44,0.62,1.0936,0.0,2026-11-08T16:01:48+00:00
+2026-11-08T16:02:28+00:00,fuente v monzon,True,Ignacio Monzon,polyus,0.38,Santiago De la Fuente,kalshi,0.58,0.9934,800.11,0.0,0,0.0,0.38,0.62,1.0329,0.0,2026-11-08T16:01:48+00:00
