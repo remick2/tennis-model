@@ -143,3 +143,51 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-08T11:07:05+00:00,feldbausch v martineau,True,Kilian Feldbausch,kalshi,0.17,Matteo Martineau,polyus,0.8,0.991,0.0,6587.01,0,0.0,0.19,0.8,1.0119,0.0,2026-11-08T11:06:55+00:00
 2026-11-08T11:07:15+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.33,Oleksii Krutykh,kalshi,0.59,0.9523,0.0,0.0,0,0.0,0.49,0.68,1.2026,0.0,2026-11-08T11:07:05+00:00
 2026-11-08T11:07:25+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.33,Oleksii Krutykh,kalshi,0.59,0.9523,2785.02,0.0,0,0.0,0.33,0.68,1.0406,0.1,2026-11-08T11:07:05+00:00
+2026-11-08T11:07:35+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.33,Oleksii Krutykh,kalshi,0.59,0.9523,2785.02,0.0,0,0.0,0.33,0.7,1.0601,0.0,2026-11-08T11:07:05+00:00
+2026-11-08T11:07:45+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.32,Oleksii Krutykh,polyus,0.62,0.9716,0.0,0.0,0,0.0,0.4,0.68,1.1119,0.0,2026-11-08T11:07:45+00:00
+2026-11-08T11:07:55+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.32,Oleksii Krutykh,polyus,0.61,0.9618,0.0,7434.0,0,0.0,0.4,0.61,1.0433,0.1,2026-11-08T11:07:45+00:00
+2026-11-08T11:08:05+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.32,Oleksii Krutykh,polyus,0.53,0.8825,0.0,0.0,0,0.0,0.48,0.61,1.124,0.0,2026-11-08T11:07:45+00:00
+2026-11-08T11:08:05+00:00,feldbausch v martineau,True,Kilian Feldbausch,polyus,0.15,Matteo Martineau,kalshi,0.83,0.9987,0.0,0.0,0,0.0,0.16,0.86,1.0378,0.1,2026-11-08T11:08:05+00:00
+2026-11-08T11:08:15+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.4,Oleksii Krutykh,polyus,0.53,0.9641,0.0,0.0,0,0.0,0.48,0.61,1.124,0.0,2026-11-08T11:07:45+00:00
+2026-11-08T11:08:25+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.4,Oleksii Krutykh,polyus,0.53,0.9641,0.0,8440.02,0,0.0,0.48,0.53,1.0448,0.1,2026-11-08T11:07:45+00:00
+2026-11-08T11:08:35+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.4,Oleksii Krutykh,polyus,0.53,0.9641,0.0,8440.02,0,0.0,0.48,0.53,1.0448,0.0,2026-11-08T11:07:45+00:00
+2026-11-08T11:09:25+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.29,Oleksii Krutykh,kalshi,0.65,0.9702,539.19,0.0,0,0.0,0.29,0.72,1.0384,0.1,2026-11-08T11:09:25+00:00
+2026-11-08T11:10:05+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.12,Oleksii Krutykh,kalshi,0.67,0.8128,0.0,0.0,0,0.0,0.35,0.89,1.2627,0.1,2026-11-08T11:10:05+00:00
+2026-11-08T11:10:15+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.11,Oleksii Krutykh,kalshi,0.67,0.8023,0.0,0.0,0,0.0,0.35,0.9,1.2721,0.0,2026-11-08T11:10:05+00:00
+2026-11-08T11:10:25+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.11,Oleksii Krutykh,kalshi,0.67,0.8023,2524.23,0.0,0,0.0,0.11,0.9,1.0231,0.1,2026-11-08T11:10:05+00:00
+2026-11-08T11:12:25+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.08,Oleksii Krutykh,kalshi,0.89,0.982,1544.19,0.0,0,0.0,0.08,0.94,1.0291,0.1,2026-11-08T11:12:25+00:00
+2026-11-08T11:12:35+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.07,Oleksii Krutykh,kalshi,0.89,0.9714,0.0,0.0,0,0.0,0.08,0.94,1.0291,0.0,2026-11-08T11:12:25+00:00
+2026-11-08T11:12:55+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.07,Oleksii Krutykh,polyus,0.92,0.9997,0.0,0.0,0,0.0,0.12,0.95,1.0807,0.1,2026-11-08T11:12:55+00:00
+2026-11-08T11:13:05+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.04,Oleksii Krutykh,kalshi,0.94,0.9866,0.0,0.0,0,0.0,0.09,0.97,1.0677,0.0,2026-11-08T11:13:05+00:00
+2026-11-08T11:14:05+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.03,Oleksii Krutykh,polyus,0.94,0.976,0.0,0.0,0,0.0,0.07,0.98,1.0559,0.1,2026-11-08T11:14:05+00:00
+2026-11-08T11:14:15+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.03,Oleksii Krutykh,polyus,0.94,0.976,0.0,0.0,0,0.0,0.07,0.98,1.0559,0.0,2026-11-08T11:14:05+00:00
+2026-11-08T11:14:15+00:00,feldbausch v martineau,True,Kilian Feldbausch,polyus,0.16,Matteo Martineau,kalshi,0.82,0.9997,0.0,0.0,0,0.0,0.19,0.85,1.0596,0.1,2026-11-08T11:14:15+00:00
+2026-11-08T11:14:25+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.03,Oleksii Krutykh,polyus,0.93,0.9666,0.0,4.37,0,0.0,0.07,0.93,1.0091,0.1,2026-11-08T11:14:05+00:00
+2026-11-08T11:14:25+00:00,montes v sonego,True,Inaki Montes-de la Torre,kalshi,0.27,Lorenzo Sonego,polyus,0.68,0.9789,0.0,0.0,0,0.0,0.33,0.74,1.0988,0.1,2026-11-08T11:14:25+00:00
+2026-11-08T11:14:25+00:00,feldbausch v martineau,True,Kilian Feldbausch,polyus,0.16,Matteo Martineau,kalshi,0.82,0.9997,30726.96,0.0,0,0.0,0.16,0.85,1.0283,0.1,2026-11-08T11:14:15+00:00
+2026-11-08T11:14:35+00:00,montes v sonego,True,Inaki Montes-de la Torre,kalshi,0.27,Lorenzo Sonego,polyus,0.68,0.9789,0.0,29749.53,0,0.0,0.33,0.68,1.0406,0.1,2026-11-08T11:14:25+00:00
+2026-11-08T11:14:45+00:00,montes v sonego,True,Inaki Montes-de la Torre,kalshi,0.27,Lorenzo Sonego,polyus,0.68,0.9789,0.0,29749.53,0,0.0,0.33,0.68,1.0406,0.0,2026-11-08T11:14:25+00:00
+2026-11-08T11:14:45+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.04,Oleksii Krutykh,kalshi,0.94,0.9866,0.0,0.0,0,0.0,0.08,0.98,1.0665,0.0,2026-11-08T11:14:45+00:00
+2026-11-08T11:14:55+00:00,krutykh v wehnelt,True,Kai Wehnelt,polyus,0.03,Oleksii Krutykh,kalshi,0.94,0.976,2577.19,0.0,0,0.0,0.03,0.98,1.0134,0.1,2026-11-08T11:14:45+00:00
+2026-11-08T11:14:55+00:00,montes v sonego,True,Inaki Montes-de la Torre,kalshi,0.27,Lorenzo Sonego,polyus,0.7,0.9984,0.0,60264.649999999994,0,0.0,0.3,0.68,1.0098,0.0,2026-11-08T11:14:25+00:00
+2026-11-08T11:15:15+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.03,Oleksii Krutykh,polyus,0.95,0.9853,0.0,0.0,0,0.0,0.06,0.98,1.0453,0.0,2026-11-08T11:15:15+00:00
+2026-11-08T11:15:25+00:00,krutykh v wehnelt,True,Kai Wehnelt,kalshi,0.03,Oleksii Krutykh,polyus,0.95,0.9853,0.0,14819.3,0,0.0,0.06,0.95,1.0172,0.1,2026-11-08T11:15:15+00:00
+2026-11-08T11:16:25+00:00,montes v sonego,True,Inaki Montes,polyus,0.29,Lorenzo Sonego,kalshi,0.68,0.9995,0.0,0.0,0,0.0,0.32,0.72,1.0692,0.1,2026-11-08T11:16:25+00:00
+2026-11-08T11:16:35+00:00,basilashvili v gojo,True,Borna Gojo,kalshi,0.4,Nikoloz Basilashvili,polyus,0.56,0.9939,0.0,23904.25,0,0.0,0.46,0.56,1.0545,0.1,2026-11-08T11:16:35+00:00
+2026-11-08T11:16:45+00:00,basilashvili v gojo,True,Borna Gojo,kalshi,0.4,Nikoloz Basilashvili,polyus,0.55,0.984,0.0,0.0,0,0.0,0.46,0.56,1.0545,0.0,2026-11-08T11:16:35+00:00
+2026-11-08T11:16:55+00:00,basilashvili v gojo,True,Borna Gojo,kalshi,0.4,Nikoloz Basilashvili,polyus,0.55,0.984,0.0,0.0,0,0.0,0.46,0.56,1.0545,0.1,2026-11-08T11:16:35+00:00
+2026-11-08T11:16:55+00:00,montes v sonego,True,Inaki Montes-de la Torre,kalshi,0.29,Lorenzo Sonego,polyus,0.68,0.9995,0.0,0.0,0,0.0,0.34,0.72,1.0897,0.1,2026-11-08T11:16:55+00:00
+2026-11-08T11:17:05+00:00,basilashvili v gojo,True,Borna Gojo,kalshi,0.4,Nikoloz Basilashvili,polyus,0.55,0.984,0.0,0.12,0,0.0,0.48,0.55,1.0647,0.1,2026-11-08T11:16:35+00:00
+2026-11-08T11:17:05+00:00,montes v sonego,True,Inaki Montes-de la Torre,kalshi,0.29,Lorenzo Sonego,polyus,0.68,0.9995,0.0,36561.81,0,0.0,0.34,0.68,1.0508,0.1,2026-11-08T11:16:55+00:00
+2026-11-08T11:17:15+00:00,basilashvili v gojo,True,Borna Gojo,kalshi,0.47,Nikoloz Basilashvili,polyus,0.47,0.9747,0.0,0.0,0,0.0,0.55,0.55,1.1345,0.0,2026-11-08T11:16:35+00:00
+2026-11-08T11:17:25+00:00,basilashvili v gojo,True,Borna Gojo,kalshi,0.47,Nikoloz Basilashvili,polyus,0.47,0.9747,0.0,0.0,0,0.0,0.55,0.55,1.1345,0.0,2026-11-08T11:16:35+00:00
+2026-11-08T11:17:35+00:00,basilashvili v gojo,True,Borna Gojo,kalshi,0.47,Nikoloz Basilashvili,polyus,0.47,0.9747,0.0,54691.53,0,0.0,0.55,0.47,1.0546,0.1,2026-11-08T11:16:35+00:00
+2026-11-08T11:20:05+00:00,blinkova v lansere,True,Anna Blinkova,polyus,0.74,Sofya Lansere,kalshi,0.23,0.9958,0.0,0.0,0,0.0,0.76,0.27,1.0565,0.1,2026-11-08T11:20:05+00:00
+2026-11-08T11:20:15+00:00,blinkova v lansere,True,Anna Blinkova,polyus,0.74,Sofya Lansere,kalshi,0.23,0.9958,0.0,0.0,0,0.0,0.76,0.27,1.0565,0.0,2026-11-08T11:20:05+00:00
+2026-11-08T11:20:25+00:00,basilashvili v gojo,True,Borna Gojo,polyus,0.49,Nikoloz Basilashvili,kalshi,0.44,0.9646,0.0,0.0,0,0.0,0.54,0.53,1.1047,0.1,2026-11-08T11:20:25+00:00
+2026-11-08T11:21:05+00:00,feldbausch v martineau,True,Kilian Feldbausch,polyus,0.11,Matteo Martineau,kalshi,0.87,0.9947,0.0,0.0,0,0.0,0.12,0.9,1.0336,0.1,2026-11-08T11:21:05+00:00
+2026-11-08T11:21:05+00:00,basilashvili v gojo,True,Borna Gojo,kalshi,0.48,Nikoloz Basilashvili,polyus,0.48,0.9948,0.0,20211.05,0,0.0,0.53,0.48,1.0448,0.1,2026-11-08T11:21:05+00:00
+2026-11-08T11:21:35+00:00,montes v sonego,True,Inaki Montes-de la Torre,kalshi,0.35,Lorenzo Sonego,polyus,0.61,0.9925,0.0,21980.57,0,0.0,0.4,0.61,1.0433,0.1,2026-11-08T11:21:35+00:00
+2026-11-08T11:21:35+00:00,basilashvili v gojo,True,Borna Gojo,kalshi,0.51,Nikoloz Basilashvili,polyus,0.45,0.9947,0.0,20056.04,0,0.0,0.56,0.45,1.0444,0.1,2026-11-08T11:21:35+00:00
+2026-11-08T11:21:35+00:00,blinkova v lansere,True,Anna Blinkova,kalshi,0.75,Sofya Lansere,polyus,0.22,0.9951,0.0,0.0,0,0.0,0.79,0.25,1.0646,0.1,2026-11-08T11:21:35+00:00
+2026-11-08T11:21:45+00:00,blinkova v lansere,True,Anna Blinkova,kalshi,0.75,Sofya Lansere,polyus,0.22,0.9951,0.0,0.0,0,0.0,0.79,0.25,1.0646,0.0,2026-11-08T11:21:35+00:00
