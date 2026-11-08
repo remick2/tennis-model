@@ -1,4 +1,4 @@
-# Phase 2 scorecard  (Sat Nov 7 5:18PM MT)
+# Phase 2 scorecard  (Sat Nov 7 5:21PM MT)
 
 Snapshots: 120 runs, Nov 3 to Nov 8 00:17Z. Phase 3 gate (GATE row): US-venue price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
 
@@ -13,7 +13,7 @@ Snapshots: 120 runs, Nov 3 to Nov 8 00:17Z. Phase 3 gate (GATE row): US-venue pr
 
 |   graded_picks |   pick_won_% |   market_said_% |   roi_at_kalshi_% |   roi_se_% |   logged_picks |
 |---------------:|-------------:|----------------:|------------------:|-----------:|---------------:|
-|            174 |        66.09 |           65.59 |             -6.14 |       5.41 |            227 |
+|            174 |        66.09 |           65.59 |             -6.14 |       5.41 |            317 |
 
 ## Kalshi + Polymarket arbitrage check (best combo per match, all-in)
 
