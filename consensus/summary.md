@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 8, 11:40AM MT
+# Consensus paper tracker — Sun Nov 8, 12:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,8 +9,8 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 0-0 | +0.00 | 2-0 | +0.26 | 0 |
-| Track only | all 15 | 0-1 | -1.00 | 3-1 | -0.10 | 6 |
-| Split | all 15 | 3-0 | +2.44 | 4-1 | +0.27 | 3 |
+| Track only | all 15 | 0-1 | -1.00 | 3-1 | -0.10 | 7 |
+| Split | all 15 | 3-0 | +2.44 | 4-1 | +0.27 | 6 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 1-0 | +0.16 | 0 |
 | Split | core 10 only | 1-0 | +0.90 | 2-0 | +0.40 | 1 |
@@ -69,3 +69,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-08 | NFL | Cowboys vs. Colts | Colts (+4.5) (Spread) | Track only | in-play | 0xb4F978BE; BreakTheBank | — | 57.5c |
 | new | 2026-11-08 | NFL | Cowboys vs. Colts | Colts (+6.5) (Spread) | Track only | in-play | ic4cream; BreakTheBank | — | 63.0c |
 | new | 2026-11-08 | NFL | Giants vs. Eagles | Under 38.5 (Total) | Track only | in-play | ic4cream; BreakTheBank | — | 31.5c |
+| new | 2026-11-08 | NFL | Texans vs. Chargers | Texans (Moneyline) | Split | pre-game | monkeymashingkeyboard; darkumbreon88 | BreakTheBank | 66.5c |
+| new | 2026-11-08 | NBA | 76ers vs. Bulls | Bulls (Moneyline) | Split | pre-game | drainedandpoor; JoeyAroyyOO | purplegatto | 20.5c |
+| new | 2026-11-08 | La Liga | Club Atlético de Madrid vs. FC Barcelona | FC Barcelona win: No (3-way) | Split | pre-game | BreakTheBank; Kyn008 | 0xb4F978BE; darkumbreon88; yabanci | 48.5c |
+| new | 2026-11-08 | La Liga | Club Atlético de Madrid vs. FC Barcelona | Club Atlético de Madrid win: Yes (3-way) | Track only | pre-game | BreakTheBank; Kyn008 | — | 27.5c |
