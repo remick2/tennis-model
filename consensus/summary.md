@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 9, 1:40PM MT
+# Consensus paper tracker — Mon Nov 9, 2:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,8 +8,8 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| Paper play | all 15 | 1-0 | +0.27 | 3-0 | +0.49 | 0 |
-| Track only | all 15 | 4-3 | +0.04 | 7-3 | +2.34 | 3 |
+| Paper play | all 15 | 1-0 | +0.27 | 3-0 | +0.49 | 1 |
+| Track only | all 15 | 4-3 | +0.04 | 7-3 | +2.34 | 2 |
 | Split | all 15 | 8-4 | +3.89 | 5-3 | -0.58 | 0 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 2-0 | +0.39 | 2 |
@@ -56,5 +56,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 |---|---|---|---|---|---|---|---|---|---|
 | old | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
 | new | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; BreakTheBank | — | 62.5c |
-| new | 2026-11-09 | NFL | Bills vs. Vikings | Bills (-2.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; purplegatto | — | 57.5c |
+| new | 2026-11-09 | NFL | Bills vs. Vikings | Bills (-2.5) (Spread) | Paper play | pre-game | monkeymashingkeyboard; purplegatto; BreakTheBank | — | 58.5c |
 | new | 2026-11-09 | NBA | Nuggets vs. Rockets | Nuggets (Moneyline) | Track only | pre-game | purplegatto; 0xb4F978BE | — | 38.5c |
