@@ -171,3 +171,85 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T04:23:19+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.8,Kosuke Ogura,polyus,0.13,0.9491,0.0,0.0,0.0,0.0,0.88,0.24,1.1401,0.1,2026-11-09T04:23:19+00:00
 2026-11-09T04:23:59+00:00,ogura v shiraishi,True,Hikaru Shiraishi,polyus,0.83,Kosuke Ogura,kalshi,0.1,0.9461,10542.58,0.0,0.0,0.0,0.83,0.18,1.0301,0.1,2026-11-09T04:23:59+00:00
 2026-11-09T04:24:09+00:00,ogura v shiraishi,True,Hikaru Shiraishi,polyus,0.83,Kosuke Ogura,kalshi,0.1,0.9461,10542.58,0.0,0.0,0.0,0.83,0.18,1.0301,0.1,2026-11-09T04:23:59+00:00
+2026-11-09T04:24:29+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.91,Kosuke Ogura,polyus,0.06,0.9797,0.0,0.0,0.0,0.0,0.95,0.07,1.0278,0.1,2026-11-09T04:24:29+00:00
+2026-11-09T04:24:39+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.84,Kosuke Ogura,polyus,0.06,0.9133,0.0,0.0,0.0,0.0,0.95,0.07,1.0278,0.1,2026-11-09T04:24:29+00:00
+2026-11-09T04:24:49+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.84,Kosuke Ogura,polyus,0.06,0.9133,0.0,0.0,0.0,0.0,0.95,0.07,1.0278,0.1,2026-11-09T04:24:29+00:00
+2026-11-09T04:24:59+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.84,Kosuke Ogura,polyus,0.06,0.9133,0.0,34763.6,0.0,0.0,0.95,0.06,1.0172,0.1,2026-11-09T04:24:29+00:00
+2026-11-09T04:25:09+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.95,Kosuke Ogura,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,0.06,1.036,0.1,2026-11-09T04:24:29+00:00
+2026-11-09T04:25:19+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.95,Kosuke Ogura,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.96,0.06,1.0266,0.1,2026-11-09T04:24:29+00:00
+2026-11-09T04:25:29+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.95,Kosuke Ogura,polyus,0.04,0.996,0.0,121.01,0.0,0.0,0.96,0.04,1.0054,0.1,2026-11-09T04:24:29+00:00
+2026-11-09T04:27:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:27:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:27:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:28:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:28:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:28:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:28:39+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.94,Kosuke Ogura,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.97,0.07,1.0466,0.1,2026-11-09T04:28:39+00:00
+2026-11-09T04:28:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:28:49+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.94,Kosuke Ogura,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.97,0.07,1.0466,0.1,2026-11-09T04:28:39+00:00
+2026-11-09T04:28:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:28:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:29:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:29:19+00:00,ogura v shiraishi,True,Hikaru Shiraishi,kalshi,0.97,Kosuke Ogura,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,0.04,1.0334,0.1,2026-11-09T04:29:19+00:00
+2026-11-09T04:29:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:29:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:29:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:29:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:29:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:30:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:30:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:30:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:30:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:30:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:30:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:31:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:31:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:31:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:31:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:31:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:31:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:32:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:32:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:32:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:32:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:32:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:32:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:33:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:33:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:33:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:33:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:33:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:33:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:34:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:34:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:34:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:34:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:34:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:34:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:35:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:35:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:35:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:35:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:35:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:35:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:36:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:36:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:36:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:36:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:36:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:36:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:37:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:37:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:37:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:37:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:37:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:37:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:38:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:38:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:38:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.2,2026-11-09T04:27:39+00:00
+2026-11-09T04:38:39+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:38:49+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:38:59+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:39:09+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:39:19+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
+2026-11-09T04:39:29+00:00,bueno v seyboth,False,Gonzalo Bueno,polyus,0.14,Thiago Seyboth Wild,kalshi,0.84,0.9978,0.1,4.0,0.1,0.0,0.14,0.84,0.9978,0.1,2026-11-09T04:27:39+00:00
