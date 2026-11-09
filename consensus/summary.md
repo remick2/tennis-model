@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 9, 7:40AM MT
+# Consensus paper tracker — Mon Nov 9, 8:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,7 +9,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-0 | +0.27 | 3-0 | +0.49 | 0 |
-| Track only | all 15 | 4-3 | +0.04 | 7-3 | +2.34 | 0 |
+| Track only | all 15 | 4-3 | +0.04 | 7-3 | +2.34 | 1 |
 | Split | all 15 | 8-4 | +3.89 | 5-3 | -0.58 | 0 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 2-0 | +0.39 | 0 |
@@ -30,28 +30,29 @@ Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Ro
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
 
-## Roster health (last 7 days, checked 2026-11-08)
+## Roster health (last 7 days, checked 2026-11-09)
 
 | Trader | Bets/day | Active days | Both-sides % | Share of agreements | Avg stake | Top sports |
 |---|---|---|---|---|---|---|
-| monkeymashingkeyboard | 14.9 | 8 | 2% | 6% of 16 | $18,057 | nba,nfl,wta |
-| purplegatto | 12.9 | 6 | 7% | 19% of 16 | $5,149 | cfb,nba,nfl |
-| jakepaulthegoat2008 | 13.9 | 8 | 4% | 19% of 16 | $61,554 | nba,cs2,lol |
-| 0xb4F978BE | 16.4 | 8 | 6% | 12% of 16 | $11,981 | cfb,nfl,nba |
-| chongchong37 | 5.0 | 7 | 2% | 0% of 16 | $6,962 | nba,ucl,rou1 |
-| yabanci | 4.0 | 6 | 2% | 0% of 16 | $21,623 | cs2,uel,nba |
-| drainedandpoor | 6.0 | 8 | 2% | 6% of 16 | $14,706 | cs2,nba,lol |
-| 999585 | 8.9 | 8 | 6% | 12% of 16 | $116,070 | cfb,atp,nfl |
-| 0x9f15613e | 17.1 | 8 | 2% | 25% of 16 | $8,389 | nba,nfl,cfb |
-| ic4cream | 6.1 | 8 | 1% | 19% of 16 | $4,264 | nba,cfb,nhl |
-| BreakTheBank | 6.1 | 7 | 0% | 0% of 16 | $118,809 | nba,ucl,nfl |
-| ch27er | 10.3 | 8 | 0% | 25% of 16 | $21,128 | nba,ucl,nhl |
-| ianf2026 | — | — | — | — | — | (pull failed) |
-| JoeyAroyyOO | 9.1 | 7 | 0% | 0% of 16 | $6,331 | nba |
-| Kyn008 | 5.4 | 8 | 0% | 12% of 16 | $15,536 | epl,ucl,bra |
+| monkeymashingkeyboard | 14.0 | 8 | 2% | 14% of 42 | $18,239 | nba,nfl,wta |
+| purplegatto | 14.1 | 6 | 7% | 17% of 42 | $5,655 | cfb,nba,nfl |
+| jakepaulthegoat2008 | 12.6 | 7 | 3% | 12% of 42 | $63,773 | nba,lol,cs2 |
+| 0xb4F978BE | 17.4 | 7 | 6% | 12% of 42 | $11,270 | cfb,nba,ucl |
+| chongchong37 | 4.0 | 6 | 3% | 0% of 42 | $6,854 | nba,ucl,rou1 |
+| yabanci | 3.0 | 6 | 0% | 2% of 42 | $21,277 | uel,epl,cs2 |
+| drainedandpoor | 5.3 | 8 | 0% | 12% of 42 | $14,383 | cs2,nba,lol |
+| 999585 | 8.1 | 7 | 7% | 7% of 42 | $122,339 | cfb,nfl,atp |
+| 0x9f15613e | 17.0 | 8 | 2% | 12% of 42 | $8,674 | nba,nfl,cfb |
+| ic4cream | 6.3 | 8 | 1% | 14% of 42 | $4,758 | nba,nfl,cfb |
+| BreakTheBank | 10.9 | 8 | 0% | 31% of 42 | $109,452 | nba,nfl,ucl |
+| ch27er | 11.1 | 8 | 1% | 19% of 42 | $19,432 | nba,ucl,nhl |
+| ianf2026 | 8.9 | 7 | 6% | 7% of 42 | $4,173 | nba,uel,cbb |
+| JoeyAroyyOO | 7.1 | 6 | 0% | 10% of 42 | $7,047 | nba |
+| Kyn008 | 5.4 | 7 | 0% | 10% of 42 | $15,926 | epl,ucl,bra |
 
 ## Open signals
 
 | Roster | Date | League | Game | Side | Rule | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | old | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
+| new | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; BreakTheBank | — | 62.5c |
