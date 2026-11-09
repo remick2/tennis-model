@@ -1537,3 +1537,204 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T16:45:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,134.07,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:44:58+00:00
 2026-11-09T16:45:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,124.07,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
 2026-11-09T16:46:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,124.07,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:46:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,124.07,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:46:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,124.07,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:46:38+00:00,jeff v martin,True,Andres Martin,polyus,0.16,Filip Jeff Planinsek,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,0.23,0.85,1.1012,0.1,2026-11-09T16:46:38+00:00
+2026-11-09T16:46:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,124.07,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:46:38+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.96,Varvara Lepchenko,kalshi,0.03,0.9947,7214.71,0.0,0.0,0.0,0.96,0.04,1.0054,0.2,2026-11-09T16:46:38+00:00
+2026-11-09T16:46:48+00:00,jeff v martin,True,Andres Martin,polyus,0.16,Filip Jeff Planinsek,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,0.23,0.85,1.1012,0.1,2026-11-09T16:46:38+00:00
+2026-11-09T16:46:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,124.07,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:46:48+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.96,Varvara Lepchenko,kalshi,0.03,0.9947,7214.71,0.0,0.0,0.0,0.96,0.05,1.016,0.1,2026-11-09T16:46:38+00:00
+2026-11-09T16:46:58+00:00,jeff v martin,True,Andres Martin,polyus,0.16,Filip Jeff Planinsek,kalshi,0.8,0.9805,50.1,24998.48,50.1,0.97,0.16,0.8,0.9805,0.1,2026-11-09T16:46:38+00:00
+2026-11-09T16:46:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:46:58+00:00,kopp v mikrut,True,Luka Mikrut,kalshi,0.48,Sandro Kopp,polyus,0.48,0.9948,0.0,0.0,0.0,0.0,0.53,0.52,1.0848,0.1,2026-11-09T16:46:58+00:00
+2026-11-09T16:47:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:47:08+00:00,hercog v lepchenko,True,Polona Hercog,kalshi,0.96,Varvara Lepchenko,polyus,0.03,0.9947,0.0,48468.73,0.0,0.0,0.98,0.03,1.0134,0.2,2026-11-09T16:47:08+00:00
+2026-11-09T16:47:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:47:18+00:00,hercog v lepchenko,True,Polona Hercog,kalshi,0.96,Varvara Lepchenko,polyus,0.03,0.9947,0.0,48468.73,0.0,0.0,0.98,0.03,1.0134,0.1,2026-11-09T16:47:08+00:00
+2026-11-09T16:47:28+00:00,jeff v martin,True,Andres Martin,kalshi,0.21,Filip Jeff Planinsek,polyus,0.76,0.9943,0.0,13568.55,0.0,0.0,0.24,0.76,1.0254,0.1,2026-11-09T16:47:28+00:00
+2026-11-09T16:47:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:47:28+00:00,hercog v lepchenko,True,Polona Hercog,kalshi,0.96,Varvara Lepchenko,polyus,0.03,0.9947,0.0,48468.73,0.0,0.0,0.98,0.03,1.0134,0.1,2026-11-09T16:47:08+00:00
+2026-11-09T16:47:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:47:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:47:58+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.38,Lucas Poullain,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,0.44,0.63,1.1034,0.1,2026-11-09T16:47:58+00:00
+2026-11-09T16:47:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:48:08+00:00,jeff v martin,True,Andres Martin,polyus,0.16,Filip Jeff Planinsek,kalshi,0.77,0.9517,0.0,0.0,0.0,0.0,0.21,0.86,1.09,0.1,2026-11-09T16:48:08+00:00
+2026-11-09T16:48:08+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.38,Lucas Poullain,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,0.44,0.63,1.1034,0.1,2026-11-09T16:47:58+00:00
+2026-11-09T16:48:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:48:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T16:48:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:48:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:48:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T16:48:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:49:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:49:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:49:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:49:38+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.24,Lucas Poullain,kalshi,0.66,0.9284,0.0,0.0,0.0,0.0,0.35,0.77,1.1482,0.1,2026-11-09T16:49:38+00:00
+2026-11-09T16:49:38+00:00,jeff v martin,True,Andres Martin,polyus,0.15,Filip Jeff Planinsek,kalshi,0.8,0.9701,0.0,0.0,0.0,0.0,0.19,0.86,1.0691,0.1,2026-11-09T16:49:38+00:00
+2026-11-09T16:49:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:49:48+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.23,Lucas Poullain,kalshi,0.66,0.918,6018.32,0.0,0.0,0.0,0.23,0.78,1.0343,0.1,2026-11-09T16:49:38+00:00
+2026-11-09T16:49:48+00:00,jeff v martin,True,Andres Martin,polyus,0.15,Filip Jeff Planinsek,kalshi,0.8,0.9701,0.0,0.0,0.0,0.0,0.19,0.86,1.0691,0.1,2026-11-09T16:49:38+00:00
+2026-11-09T16:49:48+00:00,jakupovic v pigossi,True,Dalila Jakupovic,polyus,0.02,Laura Pigossi,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,0.03,,,0.2,2026-11-09T16:49:48+00:00
+2026-11-09T16:49:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:49:58+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.23,Lucas Poullain,kalshi,0.66,0.918,6018.32,0.0,0.0,0.0,0.23,0.8,1.0535,0.1,2026-11-09T16:49:38+00:00
+2026-11-09T16:49:58+00:00,jeff v martin,True,Andres Martin,polyus,0.15,Filip Jeff Planinsek,kalshi,0.8,0.9701,34917.57,0.0,0.0,0.0,0.15,0.86,1.0273,0.1,2026-11-09T16:49:38+00:00
+2026-11-09T16:49:58+00:00,gentzsch v houkes,True,Max Houkes,polyus,0.39,Tom Gentzsch,kalshi,0.57,0.9937,18518.91,0.0,0.0,0.0,0.39,0.62,1.043,0.2,2026-11-09T16:49:58+00:00
+2026-11-09T16:49:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:50:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:50:18+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.23,Lucas Poullain,polyus,0.72,0.9764,0.0,0.0,0.0,0.0,0.29,0.84,1.1538,0.1,2026-11-09T16:50:18+00:00
+2026-11-09T16:50:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:50:18+00:00,kopp v mikrut,True,Luka Mikrut,kalshi,0.46,Sandro Kopp,polyus,0.5,0.9948,0.0,0.0,0.0,0.0,0.51,0.55,1.0947,0.1,2026-11-09T16:50:18+00:00
+2026-11-09T16:50:28+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.23,Lucas Poullain,polyus,0.72,0.9764,0.0,0.0,0.0,0.0,0.29,0.84,1.1538,0.1,2026-11-09T16:50:18+00:00
+2026-11-09T16:50:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:50:28+00:00,kopp v mikrut,True,Luka Mikrut,kalshi,0.46,Sandro Kopp,polyus,0.5,0.9948,0.0,7256.77,0.0,0.0,0.51,0.5,1.0449,0.1,2026-11-09T16:50:18+00:00
+2026-11-09T16:50:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:50:38+00:00,jeff v martin,True,Andres Martin,kalshi,0.14,Filip Jeff Planinsek,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.2,0.88,1.0985,0.1,2026-11-09T16:50:38+00:00
+2026-11-09T16:50:48+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.29,Lucas Poullain,polyus,0.62,0.9408,0.0,38763.19,0.0,0.0,0.39,0.62,1.043,0.1,2026-11-09T16:50:48+00:00
+2026-11-09T16:50:48+00:00,jeff v martin,True,Andres Martin,kalshi,0.14,Filip Jeff Planinsek,polyus,0.81,0.9691,0.0,0.0,0.0,0.0,0.2,0.88,1.0985,0.1,2026-11-09T16:50:38+00:00
+2026-11-09T16:50:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:50:58+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.29,Lucas Poullain,polyus,0.61,0.9309,0.0,0.0,0.0,0.0,0.4,0.62,1.0532,0.1,2026-11-09T16:50:48+00:00
+2026-11-09T16:50:58+00:00,jeff v martin,True,Andres Martin,kalshi,0.14,Filip Jeff Planinsek,polyus,0.81,0.9691,0.0,35782.87,0.0,0.0,0.2,0.81,1.0319,0.1,2026-11-09T16:50:38+00:00
+2026-11-09T16:50:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T16:51:08+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.4,Lucas Poullain,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.45,0.62,1.1037,0.1,2026-11-09T16:50:48+00:00
+2026-11-09T16:51:08+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.54,Tatjana Maria,kalshi,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,0.47,1.0942,0.1,2026-11-09T16:51:08+00:00
+2026-11-09T16:51:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:51:18+00:00,jeff v martin,True,Andres Martin,kalshi,0.2,Filip Jeff Planinsek,polyus,0.77,0.9935,0.0,0.0,0.0,0.0,0.24,0.81,1.0735,0.1,2026-11-09T16:51:18+00:00
+2026-11-09T16:51:18+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.4,Lucas Poullain,polyus,0.56,0.9939,0.0,1747.66,0.0,0.0,0.45,0.56,1.0444,0.1,2026-11-09T16:50:48+00:00
+2026-11-09T16:51:18+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.54,Tatjana Maria,kalshi,0.42,0.9943,8768.73,0.0,0.0,0.0,0.54,0.47,1.0447,0.1,2026-11-09T16:51:08+00:00
+2026-11-09T16:51:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:51:28+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.4,Lucas Poullain,polyus,0.54,0.9741,0.0,0.0,0.0,0.0,0.48,0.56,1.0746,0.1,2026-11-09T16:50:48+00:00
+2026-11-09T16:51:28+00:00,jeff v martin,True,Andres Martin,kalshi,0.2,Filip Jeff Planinsek,polyus,0.77,0.9935,0.0,18283.73,0.0,0.0,0.24,0.77,1.0351,0.1,2026-11-09T16:51:18+00:00
+2026-11-09T16:51:28+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.54,Tatjana Maria,kalshi,0.42,0.9943,8768.73,0.0,0.0,0.0,0.54,0.47,1.0447,0.1,2026-11-09T16:51:08+00:00
+2026-11-09T16:51:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T16:51:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:51:48+00:00,jeff v martin,True,Andres Martin,polyus,0.2,Filip Jeff Planinsek,kalshi,0.77,0.9935,0.0,0.0,0.0,0.0,0.24,0.8,1.0639,0.1,2026-11-09T16:51:48+00:00
+2026-11-09T16:51:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:51:58+00:00,jeff v martin,True,Andres Martin,polyus,0.2,Filip Jeff Planinsek,kalshi,0.77,0.9935,27307.93,0.0,0.0,0.0,0.2,0.81,1.0319,0.1,2026-11-09T16:51:48+00:00
+2026-11-09T16:51:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:52:08+00:00,jeff v martin,True,Andres Martin,polyus,0.19,Filip Jeff Planinsek,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,0.2,0.82,1.0415,0.1,2026-11-09T16:51:48+00:00
+2026-11-09T16:52:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:52:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:52:28+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.47,Lucas Poullain,polyus,0.47,0.9747,0.0,0.0,0.0,0.0,0.54,0.55,1.1246,0.1,2026-11-09T16:52:28+00:00
+2026-11-09T16:52:28+00:00,gentzsch v houkes,True,Max Houkes,kalshi,0.4,Tom Gentzsch,polyus,0.56,0.9939,0.0,16765.95,0.0,0.0,0.44,0.56,1.0344,0.2,2026-11-09T16:52:28+00:00
+2026-11-09T16:52:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:52:38+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.47,Lucas Poullain,polyus,0.47,0.9747,0.0,0.0,0.0,0.0,0.54,0.55,1.1246,0.5,2026-11-09T16:52:28+00:00
+2026-11-09T16:52:38+00:00,jeff v martin,True,Andres Martin,polyus,0.15,Filip Jeff Planinsek,kalshi,0.81,0.9796,0.0,0.0,0.0,0.0,0.2,0.86,1.0795,0.1,2026-11-09T16:52:38+00:00
+2026-11-09T16:52:38+00:00,gentzsch v houkes,True,Max Houkes,kalshi,0.4,Tom Gentzsch,polyus,0.56,0.9939,0.0,16765.95,0.0,0.0,0.44,0.56,1.0344,0.1,2026-11-09T16:52:28+00:00
+2026-11-09T16:52:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T16:52:48+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.48,Tatjana Maria,kalshi,0.47,0.9848,183.32,0.0,0.0,0.0,0.48,0.53,1.0448,0.1,2026-11-09T16:52:48+00:00
+2026-11-09T16:52:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.0,100.0,0.0,0.0,,0.03,,6.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:52:58+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.48,Tatjana Maria,kalshi,0.47,0.9848,183.32,0.0,0.0,0.0,0.48,0.53,1.0448,0.1,2026-11-09T16:52:48+00:00
+2026-11-09T16:52:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:53:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T16:53:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:53:28+00:00,jeff v martin,True,Andres Martin,polyus,0.07,Filip Jeff Planinsek,kalshi,0.88,0.9619,29699.46,0.0,0.0,0.0,0.07,0.94,1.0185,0.2,2026-11-09T16:53:28+00:00
+2026-11-09T16:53:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:53:28+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.49,Lucas Poullain,kalshi,0.47,0.9948,0.0,0.0,0.0,0.0,0.58,0.52,1.1344,0.1,2026-11-09T16:53:28+00:00
+2026-11-09T16:53:38+00:00,jeff v martin,True,Andres Martin,polyus,0.07,Filip Jeff Planinsek,kalshi,0.88,0.9619,29699.46,0.0,0.0,0.0,0.07,0.94,1.0185,0.1,2026-11-09T16:53:28+00:00
+2026-11-09T16:53:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,100.0,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T16:53:38+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.49,Lucas Poullain,kalshi,0.47,0.9948,0.0,0.0,0.0,0.0,0.58,0.52,1.1344,0.1,2026-11-09T16:53:28+00:00
+2026-11-09T16:53:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,50.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:53:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,50.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:54:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,50.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:54:18+00:00,gentzsch v houkes,True,Max Houkes,polyus,0.39,Tom Gentzsch,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,0.43,0.62,1.0835,0.1,2026-11-09T16:54:18+00:00
+2026-11-09T16:54:18+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.44,Lucas Poullain,kalshi,0.52,0.9946,60992.19,0.0,0.0,0.0,0.44,0.57,1.0443,0.1,2026-11-09T16:54:18+00:00
+2026-11-09T16:54:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,50.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:54:28+00:00,gentzsch v houkes,True,Max Houkes,polyus,0.39,Tom Gentzsch,kalshi,0.57,0.9937,23032.87,0.0,0.0,0.0,0.39,0.62,1.043,0.2,2026-11-09T16:54:18+00:00
+2026-11-09T16:54:28+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.44,Lucas Poullain,kalshi,0.52,0.9946,60992.19,0.0,0.0,0.0,0.44,0.58,1.0542,0.1,2026-11-09T16:54:18+00:00
+2026-11-09T16:54:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,50.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:54:38+00:00,giovannini v maria,True,Luisina Giovannini,kalshi,0.48,Tatjana Maria,polyus,0.45,0.9647,0.0,0.0,0.0,0.0,0.56,0.5,1.0946,0.1,2026-11-09T16:54:38+00:00
+2026-11-09T16:54:38+00:00,kopp v mikrut,True,Luka Mikrut,kalshi,0.4,Sandro Kopp,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.44,0.63,1.1034,0.1,2026-11-09T16:54:38+00:00
+2026-11-09T16:54:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,50.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:54:48+00:00,giovannini v maria,True,Luisina Giovannini,kalshi,0.48,Tatjana Maria,polyus,0.45,0.9647,0.0,40858.9,0.0,0.0,0.56,0.45,1.0444,0.1,2026-11-09T16:54:38+00:00
+2026-11-09T16:54:48+00:00,kopp v mikrut,True,Luka Mikrut,kalshi,0.4,Sandro Kopp,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.46,0.63,1.1236,0.1,2026-11-09T16:54:38+00:00
+2026-11-09T16:54:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,50.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:54:58+00:00,gentzsch v houkes,True,Max Houkes,polyus,0.3,Tom Gentzsch,kalshi,0.62,0.9511,0.0,0.0,0.0,0.0,0.39,0.7,1.1212,0.2,2026-11-09T16:54:58+00:00
+2026-11-09T16:54:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,50.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:55:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,50.0,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:55:08+00:00,jeff v martin,True,Andres Martin,kalshi,0.07,Filip Jeff Planinsek,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,0.94,1.0397,0.1,2026-11-09T16:55:08+00:00
+2026-11-09T16:55:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.57,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:55:18+00:00,jeff v martin,True,Andres Martin,kalshi,0.07,Filip Jeff Planinsek,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.1,0.94,1.0502,0.1,2026-11-09T16:55:08+00:00
+2026-11-09T16:55:28+00:00,jeff v martin,True,Andres Martin,kalshi,0.07,Filip Jeff Planinsek,polyus,0.91,0.9902,0.0,0.0,0.0,0.0,0.1,0.94,1.0502,0.1,2026-11-09T16:55:08+00:00
+2026-11-09T16:55:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.57,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:55:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.57,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:55:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.57,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:55:48+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.95,Varvara Lepchenko,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,0.97,0.06,1.036,0.1,2026-11-09T16:55:48+00:00
+2026-11-09T16:55:58+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.5,Tatjana Maria,kalshi,0.43,0.9645,0.0,0.0,0.0,0.0,0.54,0.51,1.0848,0.1,2026-11-09T16:55:58+00:00
+2026-11-09T16:55:58+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.94,Varvara Lepchenko,kalshi,0.04,0.9866,0.0,0.0,0.0,0.0,0.97,0.07,1.0466,0.1,2026-11-09T16:55:48+00:00
+2026-11-09T16:55:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:56:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:56:18+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.47,Tatjana Maria,kalshi,0.47,0.9747,0.0,0.0,0.0,0.0,0.5,0.54,1.0748,0.1,2026-11-09T16:56:18+00:00
+2026-11-09T16:56:18+00:00,jeff v martin,True,Andres Martin,kalshi,0.08,Filip Jeff Planinsek,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.11,0.93,1.0514,0.1,2026-11-09T16:56:18+00:00
+2026-11-09T16:56:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T16:56:28+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.46,Tatjana Maria,kalshi,0.47,0.9647,0.0,0.0,0.0,0.0,0.5,0.55,1.0847,0.1,2026-11-09T16:56:18+00:00
+2026-11-09T16:56:28+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.92,Varvara Lepchenko,kalshi,0.06,0.9891,0.0,0.0,0.0,0.0,0.95,0.09,1.049,0.1,2026-11-09T16:56:28+00:00
+2026-11-09T16:56:28+00:00,jeff v martin,True,Andres Martin,kalshi,0.08,Filip Jeff Planinsek,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.11,0.93,1.0514,0.1,2026-11-09T16:56:18+00:00
+2026-11-09T16:56:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:56:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:56:38+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.92,Varvara Lepchenko,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,0.95,0.09,1.049,0.1,2026-11-09T16:56:28+00:00
+2026-11-09T16:56:48+00:00,jeff v martin,True,Andres Martin,polyus,0.08,Filip Jeff Planinsek,kalshi,0.9,0.9914,0.0,0.0,0.0,0.0,0.11,0.93,1.0514,0.1,2026-11-09T16:56:48+00:00
+2026-11-09T16:56:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T16:56:48+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.92,Varvara Lepchenko,kalshi,0.07,0.9997,31826.45,0.0,0.0,0.0,0.92,0.09,1.0208,0.1,2026-11-09T16:56:28+00:00
+2026-11-09T16:56:58+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.91,Varvara Lepchenko,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,0.92,0.1,1.0314,0.1,2026-11-09T16:56:28+00:00
+2026-11-09T16:56:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:57:08+00:00,jeff v martin,True,Andres Martin,polyus,0.06,Filip Jeff Planinsek,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,0.09,0.95,1.049,0.1,2026-11-09T16:57:08+00:00
+2026-11-09T16:57:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:57:18+00:00,jeff v martin,True,Andres Martin,polyus,0.06,Filip Jeff Planinsek,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,0.09,0.95,1.049,0.1,2026-11-09T16:57:08+00:00
+2026-11-09T16:57:18+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.89,Varvara Lepchenko,kalshi,0.09,0.9925,5830.0,0.0,0.0,0.0,0.89,0.11,1.0137,0.1,2026-11-09T16:57:18+00:00
+2026-11-09T16:57:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T16:57:28+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.89,Varvara Lepchenko,kalshi,0.09,0.9925,5830.0,0.0,0.0,0.0,0.89,0.11,1.0137,0.1,2026-11-09T16:57:18+00:00
+2026-11-09T16:57:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:57:28+00:00,jeff v martin,True,Andres Martin,polyus,0.04,Filip Jeff Planinsek,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,0.09,0.97,1.0677,0.1,2026-11-09T16:57:08+00:00
+2026-11-09T16:57:38+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.4,Lucas Poullain,polyus,0.55,0.984,0.0,0.0,0.0,0.0,0.46,0.57,1.0644,0.1,2026-11-09T16:57:38+00:00
+2026-11-09T16:57:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:57:38+00:00,jeff v martin,True,Andres Martin,polyus,0.04,Filip Jeff Planinsek,kalshi,0.95,0.996,38712.26,0.0,0.0,0.0,0.04,0.97,1.0147,0.1,2026-11-09T16:57:08+00:00
+2026-11-09T16:57:48+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.4,Lucas Poullain,polyus,0.53,0.9641,0.0,0.0,0.0,0.0,0.48,0.55,1.0647,0.1,2026-11-09T16:57:38+00:00
+2026-11-09T16:57:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,46.58,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:57:48+00:00,jeff v martin,True,Andres Martin,polyus,0.04,Filip Jeff Planinsek,kalshi,0.95,0.996,38712.26,0.0,0.0,0.0,0.04,0.97,1.0147,0.1,2026-11-09T16:57:08+00:00
+2026-11-09T16:57:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:58:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:58:18+00:00,kopp v mikrut,True,Luka Mikrut,kalshi,0.54,Sandro Kopp,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,0.46,1.0842,0.1,2026-11-09T16:58:18+00:00
+2026-11-09T16:58:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:58:18+00:00,batalla v hernandez,True,Alex Hernandez,polyus,0.14,Oriol Roca Batalla,kalshi,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,0.87,1.0577,0.1,2026-11-09T16:58:18+00:00
+2026-11-09T16:58:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:58:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:58:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:58:48+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.86,Varvara Lepchenko,kalshi,0.12,0.9958,0.0,0.0,0.0,0.0,0.9,0.14,1.0547,0.1,2026-11-09T16:58:48+00:00
+2026-11-09T16:58:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:58:58+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.86,Varvara Lepchenko,kalshi,0.12,0.9958,0.0,0.0,0.0,0.0,0.9,0.14,1.0547,0.1,2026-11-09T16:58:48+00:00
+2026-11-09T16:59:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:59:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:59:18+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.84,Varvara Lepchenko,kalshi,0.14,0.9978,5243.87,0.0,0.0,0.0,0.84,0.17,1.0292,0.1,2026-11-09T16:59:18+00:00
+2026-11-09T16:59:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:59:28+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.84,Varvara Lepchenko,kalshi,0.14,0.9978,5243.87,0.0,0.0,0.0,0.84,0.17,1.0292,0.1,2026-11-09T16:59:18+00:00
+2026-11-09T16:59:38+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.83,Varvara Lepchenko,kalshi,0.14,0.9882,0.0,0.0,0.0,0.0,0.84,0.18,1.0397,0.1,2026-11-09T16:59:18+00:00
+2026-11-09T16:59:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:59:38+00:00,jakupovic v pigossi,True,Dalila Jakupovic,polyus,0.03,Laura Pigossi,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,0.05,0.98,1.0347,0.1,2026-11-09T16:59:38+00:00
+2026-11-09T16:59:38+00:00,magadan v misolic,True,Alan Magadan,polyus,0.07,Filip Misolic,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,0.94,1.0396,0.1,2026-11-09T16:59:38+00:00
+2026-11-09T16:59:48+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.49,Lucas Poullain,polyus,0.45,0.9747,0.0,0.0,0.0,0.0,0.56,0.5,1.0946,0.1,2026-11-09T16:59:48+00:00
+2026-11-09T16:59:48+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.82,Varvara Lepchenko,kalshi,0.14,0.9787,18337.17,0.0,0.0,0.0,0.82,0.19,1.031,0.1,2026-11-09T16:59:18+00:00
+2026-11-09T16:59:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:59:48+00:00,jakupovic v pigossi,True,Dalila Jakupovic,polyus,0.03,Laura Pigossi,kalshi,0.96,0.9947,5969.09,0.0,0.0,0.0,0.03,0.98,1.0134,0.1,2026-11-09T16:59:38+00:00
+2026-11-09T16:59:48+00:00,magadan v misolic,True,Alan Magadan,polyus,0.07,Filip Misolic,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,0.94,1.0396,0.1,2026-11-09T16:59:38+00:00
+2026-11-09T16:59:58+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.49,Lucas Poullain,polyus,0.45,0.9747,0.0,0.0,0.0,0.0,0.56,0.5,1.0946,0.1,2026-11-09T16:59:48+00:00
+2026-11-09T16:59:58+00:00,kopp v mikrut,True,Luka Mikrut,kalshi,0.56,Sandro Kopp,polyus,0.4,0.9939,0.0,7088.14,0.0,0.0,0.61,0.4,1.0433,0.1,2026-11-09T16:59:58+00:00
+2026-11-09T16:59:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T16:59:58+00:00,magadan v misolic,True,Alan Magadan,polyus,0.07,Filip Misolic,kalshi,0.92,0.9997,10476.63,0.0,0.0,0.0,0.07,0.94,1.0185,0.1,2026-11-09T16:59:38+00:00
+2026-11-09T17:00:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T17:00:18+00:00,jakupovic v pigossi,True,Dalila Jakupovic,polyus,0.02,Laura Pigossi,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,0.03,0.99,1.0227,0.1,2026-11-09T17:00:18+00:00
+2026-11-09T17:00:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T17:00:28+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T17:00:38+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.5,Lucas Poullain,kalshi,0.45,0.9847,0.0,0.0,0.0,0.0,0.56,0.5,1.0946,0.1,2026-11-09T17:00:38+00:00
+2026-11-09T17:00:38+00:00,kopp v mikrut,True,Luka Mikrut,kalshi,0.61,Sandro Kopp,polyus,0.35,0.9925,0.0,0.0,0.0,0.0,0.66,0.4,1.0924,0.1,2026-11-09T17:00:38+00:00
+2026-11-09T17:00:38+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T17:00:48+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.54,Santiago De la Fuente,kalshi,0.41,0.9842,0.0,0.0,0.0,0.0,0.59,0.47,1.0942,0.1,2026-11-09T17:00:48+00:00
+2026-11-09T17:00:48+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.5,Lucas Poullain,kalshi,0.45,0.9847,0.01,0.0,0.0,0.0,0.5,0.51,1.0449,0.1,2026-11-09T17:00:38+00:00
+2026-11-09T17:00:48+00:00,kopp v mikrut,True,Luka Mikrut,kalshi,0.61,Sandro Kopp,polyus,0.35,0.9925,0.0,0.0,0.0,0.0,0.66,0.4,1.0924,0.1,2026-11-09T17:00:38+00:00
+2026-11-09T17:00:48+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T17:00:58+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.54,Santiago De la Fuente,kalshi,0.41,0.9842,0.0,0.0,0.0,0.0,0.59,0.47,1.0942,0.1,2026-11-09T17:00:48+00:00
+2026-11-09T17:00:58+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.5,Lucas Poullain,kalshi,0.45,0.9847,0.01,0.0,0.0,0.0,0.5,0.52,1.0548,0.1,2026-11-09T17:00:38+00:00
+2026-11-09T17:00:58+00:00,kopp v mikrut,True,Luka Mikrut,kalshi,0.61,Sandro Kopp,polyus,0.35,0.9925,0.0,36063.17,0.0,0.0,0.66,0.35,1.0415,0.2,2026-11-09T17:00:38+00:00
+2026-11-09T17:00:58+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.2,2026-11-09T16:45:58+00:00
+2026-11-09T17:01:08+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
+2026-11-09T17:01:18+00:00,barrena v manuel,False,Alex Barrena,polyus,0.96,Fabio Manuel Zavalaga Uculmana,kalshi,0.03,0.9947,0.1,66.37,0.1,0.0,0.96,0.03,0.9947,0.1,2026-11-09T16:45:58+00:00
