@@ -719,3 +719,131 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T06:55:49+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
 2026-11-09T06:55:59+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
 2026-11-09T06:55:59+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.2,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:09+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:09+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.2,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:19+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:19+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:29+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:29+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:39+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.2,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:39+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:49+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:49+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:59+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:56:59+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.2,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:09+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.73,Yusuke Kusuhara,kalshi,0.23,0.9861,0.0,0.0,0.0,0.0,0.78,0.28,1.086,0.1,2026-11-09T06:57:09+00:00
+2026-11-09T06:57:09+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:09+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:19+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:19+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:29+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:29+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:39+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:39+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:49+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.2,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:49+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:59+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:57:59+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:58:09+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:58:09+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:58:19+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,59.0,0.1,0.1,0.0,0.58,0.38,0.9934,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:58:19+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:58:29+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.58,Varvara Lepchenko,polyus,0.38,0.9934,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:58:29+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:58:29+00:00,broady v harris,True,Billy Harris,polyus,0.28,Liam Broady,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,0.32,0.72,1.0692,0.1,2026-11-09T06:58:29+00:00
+2026-11-09T06:58:39+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:58:39+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:58:39+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.76,Yusuke Kusuhara,kalshi,0.21,0.9943,0.0,0.0,0.0,0.0,,0.26,,6.1,2026-11-09T06:58:39+00:00
+2026-11-09T06:58:39+00:00,broady v harris,True,Billy Harris,polyus,0.28,Liam Broady,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,0.32,0.73,1.0789,3.1,2026-11-09T06:58:29+00:00
+2026-11-09T06:58:50+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:58:50+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:00+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:00+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:10+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:10+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:10+00:00,broady v harris,True,Billy Harris,polyus,0.24,Liam Broady,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,0.28,0.77,1.0764,0.1,2026-11-09T06:59:10+00:00
+2026-11-09T06:59:20+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:20+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,26.31,0.1,0.0,0.1,0.88,0.9936,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:30+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:30+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,0.0,0.0,0.0,0.1,0.89,1.0031,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:40+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.71,Yusuke Kusuhara,polyus,0.23,0.9667,0.0,0.0,0.0,0.0,0.79,0.31,1.1265,0.1,2026-11-09T06:59:40+00:00
+2026-11-09T06:59:40+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:40+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,0.0,0.0,0.0,0.1,0.89,1.0031,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:50+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.71,Yusuke Kusuhara,polyus,0.23,0.9667,0.0,0.0,0.0,0.0,0.79,0.31,1.1265,0.1,2026-11-09T06:59:40+00:00
+2026-11-09T06:59:50+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T06:59:50+00:00,magadan v misolic,False,Alan Magadan,polyus,0.1,Filip Misolic,kalshi,0.88,0.9936,0.1,0.0,0.0,0.0,0.1,0.89,1.0031,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:00:00+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:00:10+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.2,2026-11-09T06:54:29+00:00
+2026-11-09T07:00:20+00:00,broady v harris,True,Billy Harris,kalshi,0.24,Liam Broady,polyus,0.7,0.9674,0.0,0.0,0.0,0.0,0.31,0.75,1.088,0.1,2026-11-09T07:00:20+00:00
+2026-11-09T07:00:20+00:00,linette v tjen,True,Janice Tjen,polyus,0.68,Magda Linette,kalshi,0.27,0.9789,40479.4,0.0,0.0,0.0,0.68,0.33,1.0406,0.1,2026-11-09T07:00:20+00:00
+2026-11-09T07:00:20+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:00:30+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:00:40+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:00:50+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.2,2026-11-09T06:54:29+00:00
+2026-11-09T07:01:00+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:01:10+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.2,2026-11-09T06:54:29+00:00
+2026-11-09T07:01:20+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:01:30+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:01:40+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:01:40+00:00,broady v harris,True,Billy Harris,kalshi,0.29,Liam Broady,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,0.7,1.0703,0.1,2026-11-09T07:01:40+00:00
+2026-11-09T07:01:50+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:01:50+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.81,Yusuke Kusuhara,polyus,0.16,0.9901,0.0,0.0,0.0,0.0,0.85,0.2,1.07,0.1,2026-11-09T07:01:50+00:00
+2026-11-09T07:02:00+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:02:00+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.81,Yusuke Kusuhara,polyus,0.16,0.9901,0.0,1296.28,0.0,0.0,0.85,0.16,1.0283,0.1,2026-11-09T07:01:50+00:00
+2026-11-09T07:02:10+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:02:10+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.81,Yusuke Kusuhara,polyus,0.16,0.9901,0.0,1296.28,0.0,0.0,0.86,0.16,1.0378,0.1,2026-11-09T07:01:50+00:00
+2026-11-09T07:02:20+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.2,2026-11-09T06:54:29+00:00
+2026-11-09T07:02:20+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.47,Edward Winter,polyus,0.49,0.9948,0.0,0.0,0.0,0.0,0.51,0.56,1.1046,0.1,2026-11-09T07:02:20+00:00
+2026-11-09T07:02:30+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:02:30+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.85,Yusuke Kusuhara,polyus,0.12,0.9863,0.0,0.0,0.0,0.0,0.89,0.15,1.0557,0.1,2026-11-09T07:02:30+00:00
+2026-11-09T07:02:30+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.47,Edward Winter,polyus,0.49,0.9948,0.0,0.0,0.0,0.0,0.52,0.56,1.1146,0.1,2026-11-09T07:02:20+00:00
+2026-11-09T07:02:40+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:02:40+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.85,Yusuke Kusuhara,polyus,0.12,0.9863,0.0,0.0,0.0,0.0,0.89,0.15,1.0557,0.1,2026-11-09T07:02:30+00:00
+2026-11-09T07:02:50+00:00,hercog v lepchenko,False,Polona Hercog,kalshi,0.57,Varvara Lepchenko,polyus,0.38,0.9835,58.0,0.1,0.1,0.0,0.57,0.38,0.9835,0.1,2026-11-09T06:54:29+00:00
+2026-11-09T07:03:00+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.45,Edward Winter,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,0.47,0.55,1.0546,0.1,2026-11-09T07:03:00+00:00
+2026-11-09T07:03:00+00:00,broady v harris,True,Billy Harris,polyus,0.26,Liam Broady,kalshi,0.7,0.9881,34825.41,0.0,0.0,0.0,0.26,0.75,1.0365,0.1,2026-11-09T07:03:00+00:00
+2026-11-09T07:03:10+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.41,Edward Winter,kalshi,0.5,0.9443,0.0,0.0,0.0,0.0,0.47,0.61,1.114,0.1,2026-11-09T07:03:00+00:00
+2026-11-09T07:03:10+00:00,broady v harris,True,Billy Harris,polyus,0.26,Liam Broady,kalshi,0.7,0.9881,34825.41,0.0,0.0,0.0,0.26,0.75,1.0365,0.1,2026-11-09T07:03:00+00:00
+2026-11-09T07:03:20+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.89,Yusuke Kusuhara,polyus,0.08,0.982,0.0,0.0,0.0,0.0,0.93,0.13,1.0724,0.1,2026-11-09T07:03:20+00:00
+2026-11-09T07:03:20+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.41,Edward Winter,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,0.47,0.6,1.1041,0.1,2026-11-09T07:03:00+00:00
+2026-11-09T07:03:30+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.89,Yusuke Kusuhara,polyus,0.08,0.982,0.0,14646.69,0.0,0.0,0.93,0.08,1.0197,0.1,2026-11-09T07:03:20+00:00
+2026-11-09T07:03:30+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.41,Edward Winter,kalshi,0.55,0.9941,0.0,27631.29,0.0,0.0,0.47,0.55,1.0546,0.1,2026-11-09T07:03:00+00:00
+2026-11-09T07:03:30+00:00,broady v harris,True,Billy Harris,polyus,0.22,Liam Broady,kalshi,0.75,0.9951,3374.26,0.0,0.0,0.0,0.22,0.79,1.0335,0.1,2026-11-09T07:03:30+00:00
+2026-11-09T07:03:40+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.89,Yusuke Kusuhara,polyus,0.09,0.9925,0.0,31343.15,0.0,0.0,0.94,0.08,1.0291,0.1,2026-11-09T07:03:20+00:00
+2026-11-09T07:03:50+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.89,Yusuke Kusuhara,polyus,0.08,0.982,0.0,14646.69,0.0,0.0,0.92,0.08,1.0103,0.1,2026-11-09T07:03:20+00:00
+2026-11-09T07:04:00+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.38,Edward Winter,kalshi,0.55,0.9637,0.0,0.0,0.0,0.0,0.47,0.64,1.1434,0.1,2026-11-09T07:04:00+00:00
+2026-11-09T07:04:00+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.92,Yusuke Kusuhara,kalshi,0.07,0.9997,2320.61,0.0,0.0,0.0,0.92,0.09,1.0208,0.1,2026-11-09T07:04:00+00:00
+2026-11-09T07:04:20+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.37,Edward Winter,polyus,0.55,0.9535,0.0,0.0,0.0,0.0,0.46,0.63,1.1236,0.1,2026-11-09T07:04:20+00:00
+2026-11-09T07:04:20+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.89,Yusuke Kusuhara,kalshi,0.09,0.9925,0.0,0.0,0.0,0.0,0.92,0.12,1.0525,0.1,2026-11-09T07:04:20+00:00
+2026-11-09T07:04:30+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.37,Edward Winter,polyus,0.55,0.9535,0.0,0.0,0.0,0.0,0.46,0.63,1.1236,0.1,2026-11-09T07:04:20+00:00
+2026-11-09T07:04:30+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.89,Yusuke Kusuhara,kalshi,0.09,0.9925,1906.82,0.0,0.0,0.0,0.89,0.12,1.0242,0.1,2026-11-09T07:04:20+00:00
+2026-11-09T07:04:40+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.37,Edward Winter,polyus,0.55,0.9535,0.0,4.0,0.0,0.0,0.46,0.55,1.0446,0.1,2026-11-09T07:04:20+00:00
+2026-11-09T07:04:40+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.89,Yusuke Kusuhara,kalshi,0.09,0.9925,1906.82,0.0,0.0,0.0,0.89,0.13,1.0347,0.1,2026-11-09T07:04:20+00:00
+2026-11-09T07:04:50+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.84,Yusuke Kusuhara,kalshi,0.12,0.9767,0.0,0.0,0.0,0.0,0.89,0.17,1.0767,0.1,2026-11-09T07:04:20+00:00
+2026-11-09T07:05:10+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.46,Edward Winter,polyus,0.5,0.9948,0.0,7977.15,0.0,0.0,0.5,0.5,1.0349,0.1,2026-11-09T07:05:10+00:00
+2026-11-09T07:05:10+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.86,Yusuke Kusuhara,kalshi,0.12,0.9958,32608.83,0.0,0.0,0.0,0.84,0.16,1.0187,0.1,2026-11-09T07:05:10+00:00
+2026-11-09T07:05:30+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.86,Yusuke Kusuhara,polyus,0.12,0.9958,0.0,12292.9,0.0,0.0,0.89,0.12,1.0242,0.1,2026-11-09T07:05:30+00:00
+2026-11-09T07:05:40+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.86,Yusuke Kusuhara,polyus,0.12,0.9958,0.0,12292.9,0.0,0.0,0.89,0.12,1.0242,0.1,2026-11-09T07:05:30+00:00
+2026-11-09T07:06:00+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.84,Yusuke Kusuhara,kalshi,0.11,0.9662,0.0,0.0,0.0,0.0,0.93,0.17,1.1144,0.1,2026-11-09T07:06:00+00:00
+2026-11-09T07:06:10+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.84,Yusuke Kusuhara,kalshi,0.11,0.9662,0.0,0.0,0.0,0.0,0.93,0.17,1.1144,0.1,2026-11-09T07:06:00+00:00
+2026-11-09T07:06:20+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.84,Yusuke Kusuhara,kalshi,0.11,0.9662,0.0,0.0,0.0,0.0,0.93,0.17,1.1144,0.1,2026-11-09T07:06:00+00:00
+2026-11-09T07:06:50+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.84,Yusuke Kusuhara,polyus,0.12,0.9767,0.0,0.0,0.0,0.0,0.89,0.17,1.0767,0.1,2026-11-09T07:06:50+00:00
+2026-11-09T07:07:00+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.84,Yusuke Kusuhara,polyus,0.12,0.9767,0.0,14219.95,0.0,0.0,0.89,0.12,1.0242,0.1,2026-11-09T07:06:50+00:00
+2026-11-09T07:07:20+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.89,Yusuke Kusuhara,polyus,0.05,0.9502,0.0,0.0,0.0,0.0,0.95,0.12,1.0807,0.1,2026-11-09T07:07:20+00:00
+2026-11-09T07:07:30+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.89,Yusuke Kusuhara,polyus,0.06,0.9608,0.0,24022.550000000003,0.0,0.0,0.95,0.05,1.0066,0.1,2026-11-09T07:07:20+00:00
+2026-11-09T07:08:30+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.93,Yusuke Kusuhara,polyus,0.06,0.9985,0.0,13877.83,0.0,0.0,0.95,0.06,1.0172,0.1,2026-11-09T07:08:30+00:00
+2026-11-09T07:08:40+00:00,broady v harris,True,Billy Harris,kalshi,0.25,Liam Broady,polyus,0.71,0.9874,0.0,0.0,0.0,0.0,0.3,0.75,1.0777,0.1,2026-11-09T07:08:40+00:00
+2026-11-09T07:08:50+00:00,broady v harris,True,Billy Harris,kalshi,0.25,Liam Broady,polyus,0.71,0.9874,0.0,0.0,0.0,0.0,0.3,0.75,1.0777,0.1,2026-11-09T07:08:40+00:00
+2026-11-09T07:09:20+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.92,Yusuke Kusuhara,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,0.09,1.0397,0.1,2026-11-09T07:09:20+00:00
+2026-11-09T07:09:30+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.92,Yusuke Kusuhara,kalshi,0.07,0.9997,14044.95,0.0,0.0,0.0,0.92,0.09,1.0208,0.1,2026-11-09T07:09:20+00:00
+2026-11-09T07:09:40+00:00,broady v harris,True,Billy Harris,kalshi,0.27,Liam Broady,polyus,0.69,0.9887,0.0,0.0,0.0,0.0,0.32,0.74,1.0886,0.1,2026-11-09T07:09:40+00:00
+2026-11-09T07:09:40+00:00,dylan v kusuhara,True,Jay Dylan Friend,polyus,0.92,Yusuke Kusuhara,kalshi,0.07,0.9997,14044.95,0.0,0.0,0.0,0.92,0.09,1.0208,0.1,2026-11-09T07:09:20+00:00
+2026-11-09T07:09:50+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.92,Yusuke Kusuhara,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,0.09,1.0396,0.1,2026-11-09T07:09:50+00:00
+2026-11-09T07:10:00+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.92,Yusuke Kusuhara,polyus,0.07,0.9997,0.0,21696.34,0.0,0.0,0.94,0.07,1.0185,0.1,2026-11-09T07:09:50+00:00
+2026-11-09T07:10:10+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.49,Edward Winter,polyus,0.46,0.9848,0.0,1042.0,0.0,0.0,0.55,0.46,1.0446,0.1,2026-11-09T07:10:10+00:00
+2026-11-09T07:10:10+00:00,broady v harris,True,Billy Harris,polyus,0.28,Liam Broady,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,0.32,0.73,1.0789,0.1,2026-11-09T07:10:10+00:00
+2026-11-09T07:10:30+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.94,Yusuke Kusuhara,polyus,0.05,0.9972,0.0,12887.55,0.0,0.0,0.96,0.05,1.016,0.1,2026-11-09T07:10:30+00:00
+2026-11-09T07:10:40+00:00,broady v harris,True,Billy Harris,polyus,0.24,Liam Broady,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,0.28,0.77,1.0764,0.1,2026-11-09T07:10:40+00:00
+2026-11-09T07:10:40+00:00,dylan v kusuhara,True,Jay Dylan Hara Friend,kalshi,0.94,Yusuke Kusuhara,polyus,0.05,0.9972,0.0,12887.55,0.0,0.0,0.96,0.05,1.016,0.1,2026-11-09T07:10:30+00:00
+2026-11-09T07:11:00+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.55,Edward Winter,polyus,0.37,0.9535,0.0,0.0,0.0,0.0,0.64,0.45,1.1233,0.1,2026-11-09T07:11:00+00:00
+2026-11-09T07:11:10+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.55,Edward Winter,polyus,0.37,0.9535,0.0,22314.39,0.0,0.0,0.64,0.37,1.0423,0.2,2026-11-09T07:11:00+00:00
