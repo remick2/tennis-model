@@ -323,3 +323,83 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T20:55:11+00:00,alcala v mena,True,Facundo Mena,kalshi,0.15,Max Alcala Gurri,polyus,0.78,0.9509,0.0,21800.82,0.0,0.0,0.23,0.78,1.0343,0.1,2026-11-09T20:54:51+00:00
 2026-11-09T20:55:11+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.4,Karolina Muchova,polyus,0.55,0.984,0.0,0.0,0.0,0.0,0.46,0.56,1.0545,0.1,2026-11-09T20:55:11+00:00
 2026-11-09T20:55:51+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.47,Karolina Muchova,polyus,0.49,0.9948,0.0,0.0,0.0,0.0,0.52,0.54,1.0947,0.1,2026-11-09T20:55:51+00:00
+2026-11-09T20:56:01+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.47,Karolina Muchova,polyus,0.49,0.9948,0.0,0.0,0.0,0.0,0.52,0.54,1.0947,0.1,2026-11-09T20:55:51+00:00
+2026-11-09T20:56:11+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.47,Karolina Muchova,polyus,0.49,0.9948,0.0,48388.01,0.0,0.0,0.52,0.49,1.0448,0.1,2026-11-09T20:55:51+00:00
+2026-11-09T20:56:41+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.29,Tristan Boyer,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,0.35,0.72,1.0999,0.2,2026-11-09T20:56:41+00:00
+2026-11-09T20:56:51+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.29,Tristan Boyer,kalshi,0.67,0.9898,58905.76,0.0,0.0,0.0,0.29,0.72,1.0384,0.1,2026-11-09T20:56:41+00:00
+2026-11-09T20:56:51+00:00,alcala v mena,True,Facundo Mena,kalshi,0.23,Max Alcala Gurri,polyus,0.74,0.9958,0.0,0.0,0.0,0.0,0.26,0.79,1.075,0.1,2026-11-09T20:56:51+00:00
+2026-11-09T20:57:01+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.29,Tristan Boyer,kalshi,0.67,0.9898,58905.76,0.0,0.0,0.0,0.29,0.72,1.0384,0.1,2026-11-09T20:56:41+00:00
+2026-11-09T20:57:11+00:00,boyer v dellien,True,Hugo Dellien,kalshi,0.29,Tristan Boyer,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.33,0.72,1.0795,0.1,2026-11-09T20:57:11+00:00
+2026-11-09T20:57:21+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.55,Karolina Muchova,polyus,0.39,0.9739,0.0,0.0,0.0,0.0,0.62,0.46,1.1138,0.1,2026-11-09T20:57:21+00:00
+2026-11-09T20:57:21+00:00,boyer v dellien,True,Hugo Dellien,kalshi,0.29,Tristan Boyer,polyus,0.67,0.9898,0.0,4422.01,0.0,0.0,0.33,0.67,1.0308,0.1,2026-11-09T20:57:11+00:00
+2026-11-09T20:57:31+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.55,Karolina Muchova,polyus,0.39,0.9739,0.0,0.0,0.0,0.0,0.62,0.46,1.1138,0.1,2026-11-09T20:57:21+00:00
+2026-11-09T20:57:31+00:00,boyer v dellien,True,Hugo Dellien,kalshi,0.29,Tristan Boyer,polyus,0.67,0.9898,0.0,4422.01,0.0,0.0,0.34,0.67,1.0411,0.1,2026-11-09T20:57:11+00:00
+2026-11-09T20:57:41+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.55,Karolina Muchova,polyus,0.39,0.9739,0.0,42064.64,0.0,0.0,0.62,0.39,1.043,0.1,2026-11-09T20:57:21+00:00
+2026-11-09T20:59:01+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.29,Tristan Boyer,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,0.33,0.72,1.0795,0.1,2026-11-09T20:59:01+00:00
+2026-11-09T20:59:11+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.29,Tristan Boyer,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,0.33,0.72,1.0795,0.1,2026-11-09T20:59:01+00:00
+2026-11-09T20:59:11+00:00,alcala v mena,True,Facundo Mena,polyus,0.22,Max Alcala Gurri,kalshi,0.75,0.9951,0.0,0.0,0.0,0.0,0.24,0.79,1.0543,0.1,2026-11-09T20:59:11+00:00
+2026-11-09T20:59:31+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.21,Tristan Boyer,kalshi,0.72,0.9556,0.0,0.0,0.0,0.0,0.29,0.8,1.1155,0.1,2026-11-09T20:59:31+00:00
+2026-11-09T20:59:41+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.21,Tristan Boyer,kalshi,0.72,0.9556,0.0,0.0,0.0,0.0,0.29,0.8,1.1155,0.1,2026-11-09T20:59:31+00:00
+2026-11-09T21:00:01+00:00,alcala v mena,True,Facundo Mena,polyus,0.16,Max Alcala Gurri,kalshi,0.79,0.971,0.0,0.0,0.0,0.0,0.22,0.85,1.0909,0.1,2026-11-09T21:00:01+00:00
+2026-11-09T21:00:11+00:00,alcala v mena,True,Facundo Mena,polyus,0.16,Max Alcala Gurri,kalshi,0.79,0.971,19473.0,0.0,0.0,0.0,0.16,0.85,1.0283,0.1,2026-11-09T21:00:01+00:00
+2026-11-09T21:01:21+00:00,alcala v mena,True,Facundo Mena,polyus,0.09,Max Alcala Gurri,kalshi,0.87,0.9736,0.0,0.0,0.0,0.0,0.14,0.92,1.0735,0.1,2026-11-09T21:01:21+00:00
+2026-11-09T21:01:31+00:00,alcala v mena,True,Facundo Mena,polyus,0.09,Max Alcala Gurri,kalshi,0.88,0.9831,0.0,0.0,0.0,0.0,0.14,0.92,1.0735,0.1,2026-11-09T21:01:21+00:00
+2026-11-09T21:01:41+00:00,alcala v mena,True,Facundo Mena,polyus,0.09,Max Alcala Gurri,kalshi,0.88,0.9831,23085.27,0.0,0.0,0.0,0.09,0.92,1.0208,0.1,2026-11-09T21:01:21+00:00
+2026-11-09T21:01:51+00:00,alcala v mena,True,Facundo Mena,polyus,0.09,Max Alcala Gurri,kalshi,0.88,0.9831,23085.27,0.0,0.0,0.0,0.09,0.92,1.0208,0.2,2026-11-09T21:01:21+00:00
+2026-11-09T21:02:31+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.69,Karolina Muchova,polyus,0.28,0.999,0.0,0.0,0.0,0.0,0.72,0.32,1.0692,0.1,2026-11-09T21:02:31+00:00
+2026-11-09T21:02:41+00:00,alcala v mena,True,Facundo Mena,kalshi,0.09,Max Alcala Gurri,polyus,0.89,0.9925,0.0,23639.14,0.0,0.0,0.12,0.89,1.0242,0.1,2026-11-09T21:02:41+00:00
+2026-11-09T21:02:41+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.69,Karolina Muchova,polyus,0.28,0.999,0.0,41252.72,0.0,0.0,0.72,0.28,1.0281,0.1,2026-11-09T21:02:31+00:00
+2026-11-09T21:02:51+00:00,alcala v mena,True,Facundo Mena,kalshi,0.09,Max Alcala Gurri,polyus,0.89,0.9925,0.0,23639.14,0.0,0.0,0.12,0.89,1.0242,0.1,2026-11-09T21:02:41+00:00
+2026-11-09T21:02:51+00:00,boyer v dellien,True,Hugo Dellien,kalshi,0.22,Tristan Boyer,polyus,0.75,0.995,0.0,0.0,0.0,0.0,0.26,0.8,1.0846,0.1,2026-11-09T21:02:51+00:00
+2026-11-09T21:02:51+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.69,Karolina Muchova,polyus,0.28,0.999,0.0,41252.72,0.0,0.0,0.72,0.28,1.0281,0.1,2026-11-09T21:02:31+00:00
+2026-11-09T21:03:01+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.72,Karolina Muchova,polyus,0.24,0.9868,0.0,0.0,0.0,0.0,0.77,0.28,1.0764,0.1,2026-11-09T21:02:31+00:00
+2026-11-09T21:03:11+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.72,Karolina Muchova,polyus,0.24,0.9868,0.0,75136.21,0.0,0.0,0.77,0.24,1.0351,0.1,2026-11-09T21:02:31+00:00
+2026-11-09T21:03:21+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.72,Karolina Muchova,polyus,0.24,0.9868,0.0,75136.21,0.0,0.0,0.77,0.24,1.0351,0.1,2026-11-09T21:02:31+00:00
+2026-11-09T21:03:41+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.22,Tristan Boyer,kalshi,0.74,0.9854,0.0,0.0,0.0,0.0,0.26,0.79,1.075,0.1,2026-11-09T21:03:41+00:00
+2026-11-09T21:03:51+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.22,Tristan Boyer,kalshi,0.74,0.9854,26574.77,0.0,0.0,0.0,0.22,0.79,1.0335,0.1,2026-11-09T21:03:41+00:00
+2026-11-09T21:04:01+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.19,Tristan Boyer,kalshi,0.78,0.9927,0.0,0.0,0.0,0.0,0.22,0.82,1.0623,0.1,2026-11-09T21:03:41+00:00
+2026-11-09T21:04:11+00:00,burillo v lizarazo,True,Irene Burillo Escorihuela,kalshi,0.88,Yuliana Lizarazo,polyus,0.09,0.9831,0.0,0.0,0.0,0.0,0.92,0.11,1.042,0.1,2026-11-09T21:04:11+00:00
+2026-11-09T21:04:11+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.19,Tristan Boyer,kalshi,0.78,0.9927,0.0,0.0,0.0,0.0,0.22,0.82,1.0623,0.1,2026-11-09T21:03:41+00:00
+2026-11-09T21:04:21+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.74,Karolina Muchova,polyus,0.21,0.975,0.0,0.0,0.0,0.0,0.79,0.26,1.075,0.1,2026-11-09T21:04:21+00:00
+2026-11-09T21:04:21+00:00,alcala v mena,True,Facundo Mena,kalshi,0.09,Max Alcala Gurri,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,0.92,1.063,0.1,2026-11-09T21:04:21+00:00
+2026-11-09T21:04:21+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.19,Tristan Boyer,kalshi,0.78,0.9927,51425.98,0.0,0.0,0.0,0.19,0.82,1.031,0.1,2026-11-09T21:03:41+00:00
+2026-11-09T21:04:31+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.74,Karolina Muchova,polyus,0.21,0.975,0.0,0.0,0.0,0.0,0.79,0.26,1.075,0.1,2026-11-09T21:04:21+00:00
+2026-11-09T21:04:31+00:00,alcala v mena,True,Facundo Mena,kalshi,0.09,Max Alcala Gurri,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,0.92,1.063,0.1,2026-11-09T21:04:21+00:00
+2026-11-09T21:04:41+00:00,alcala v mena,True,Facundo Mena,kalshi,0.09,Max Alcala Gurri,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,0.92,1.063,0.1,2026-11-09T21:04:21+00:00
+2026-11-09T21:04:51+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.76,Karolina Muchova,kalshi,0.21,0.9943,0.0,0.0,0.0,0.0,0.8,0.25,1.0742,0.1,2026-11-09T21:04:51+00:00
+2026-11-09T21:05:01+00:00,alcala v mena,True,Facundo Mena,polyus,0.1,Max Alcala Gurri,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,0.91,1.0536,0.1,2026-11-09T21:05:01+00:00
+2026-11-09T21:05:01+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.76,Karolina Muchova,kalshi,0.21,0.9943,0.0,0.0,0.0,0.0,0.8,0.25,1.0742,0.1,2026-11-09T21:04:51+00:00
+2026-11-09T21:05:01+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.16,Tristan Boyer,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,0.17,0.85,1.0387,0.1,2026-11-09T21:05:01+00:00
+2026-11-09T21:05:11+00:00,alcala v mena,True,Facundo Mena,polyus,0.1,Max Alcala Gurri,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,0.91,1.0536,0.1,2026-11-09T21:05:01+00:00
+2026-11-09T21:05:11+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.76,Karolina Muchova,kalshi,0.21,0.9943,80410.87,0.0,0.0,0.0,0.76,0.25,1.0358,0.1,2026-11-09T21:04:51+00:00
+2026-11-09T21:05:11+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.16,Tristan Boyer,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,0.17,0.85,1.0387,0.1,2026-11-09T21:05:01+00:00
+2026-11-09T21:05:21+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.7,Karolina Muchova,kalshi,0.25,0.9777,0.0,0.0,0.0,0.0,0.76,0.31,1.0976,0.1,2026-11-09T21:04:51+00:00
+2026-11-09T21:05:31+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.7,Karolina Muchova,kalshi,0.25,0.9777,0.0,0.0,0.0,0.0,0.76,0.31,1.0976,0.1,2026-11-09T21:04:51+00:00
+2026-11-09T21:05:41+00:00,alcala v mena,True,Facundo Mena,kalshi,0.1,Max Alcala Gurri,polyus,0.85,0.9652,0.0,0.0,0.0,0.0,0.15,0.91,1.0746,0.1,2026-11-09T21:05:41+00:00
+2026-11-09T21:05:41+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.7,Karolina Muchova,kalshi,0.25,0.9777,74258.57,0.0,0.0,0.0,0.7,0.31,1.0396,0.2,2026-11-09T21:04:51+00:00
+2026-11-09T21:05:51+00:00,alcala v mena,True,Facundo Mena,kalshi,0.1,Max Alcala Gurri,polyus,0.85,0.9652,0.0,2066.01,0.0,0.0,0.16,0.85,1.0283,0.1,2026-11-09T21:05:41+00:00
+2026-11-09T21:06:01+00:00,boyer v dellien,True,Hugo Dellien,kalshi,0.14,Tristan Boyer,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,0.85,1.0387,0.1,2026-11-09T21:06:01+00:00
+2026-11-09T21:06:21+00:00,alcala v mena,True,Facundo Mena,polyus,0.11,Max Alcala Gurri,kalshi,0.84,0.9662,0.0,0.0,0.0,0.0,0.18,0.9,1.0966,0.1,2026-11-09T21:06:21+00:00
+2026-11-09T21:06:31+00:00,alcala v mena,True,Facundo Mena,polyus,0.12,Max Alcala Gurri,kalshi,0.84,0.9767,0.0,0.0,0.0,0.0,0.18,0.89,1.0871,0.1,2026-11-09T21:06:21+00:00
+2026-11-09T21:06:31+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.65,Karolina Muchova,kalshi,0.3,0.9805,0.0,0.0,0.0,0.0,0.71,0.36,1.1004,0.1,2026-11-09T21:06:31+00:00
+2026-11-09T21:06:41+00:00,alcala v mena,True,Facundo Mena,polyus,0.12,Max Alcala Gurri,kalshi,0.84,0.9767,0.0,0.0,0.0,0.0,0.18,0.89,1.0871,0.1,2026-11-09T21:06:21+00:00
+2026-11-09T21:06:41+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.65,Karolina Muchova,kalshi,0.3,0.9805,41747.57,0.0,0.0,0.0,0.65,0.36,1.0419,0.1,2026-11-09T21:06:31+00:00
+2026-11-09T21:07:01+00:00,boyer v dellien,True,Hugo Dellien,kalshi,0.15,Tristan Boyer,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.17,0.86,1.0482,0.1,2026-11-09T21:07:01+00:00
+2026-11-09T21:07:11+00:00,alcala v mena,True,Facundo Mena,polyus,0.08,Max Alcala Gurri,kalshi,0.89,0.982,0.0,0.0,0.0,0.0,0.12,0.92,1.0525,0.1,2026-11-09T21:07:11+00:00
+2026-11-09T21:07:11+00:00,boyer v dellien,True,Hugo Dellien,kalshi,0.15,Tristan Boyer,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.17,0.86,1.0482,0.1,2026-11-09T21:07:01+00:00
+2026-11-09T21:07:21+00:00,alcala v mena,True,Facundo Mena,polyus,0.09,Max Alcala Gurri,kalshi,0.89,0.9925,26228.420000000002,0.0,0.0,0.0,0.08,0.92,1.0103,0.1,2026-11-09T21:07:11+00:00
+2026-11-09T21:07:21+00:00,boyer v dellien,True,Hugo Dellien,kalshi,0.15,Tristan Boyer,polyus,0.83,0.9987,0.0,5306.38,0.0,0.0,0.18,0.83,1.0301,0.1,2026-11-09T21:07:01+00:00
+2026-11-09T21:07:31+00:00,hans v svajda,True,Max Hans Rehberg,polyus,0.67,Trevor Svajda,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,0.34,1.0897,0.1,2026-11-09T21:07:31+00:00
+2026-11-09T21:07:41+00:00,hans v svajda,True,Max Hans Rehberg,polyus,0.67,Trevor Svajda,kalshi,0.29,0.9898,26618.47,0.0,0.0,0.0,0.67,0.34,1.0411,0.1,2026-11-09T21:07:31+00:00
+2026-11-09T21:07:51+00:00,alcala v mena,True,Facundo Mena,polyus,0.06,Max Alcala Gurri,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,0.09,0.95,1.049,0.1,2026-11-09T21:07:51+00:00
+2026-11-09T21:07:51+00:00,hans v svajda,True,Max Hans Rehberg,polyus,0.67,Trevor Svajda,kalshi,0.29,0.9898,26618.47,0.0,0.0,0.0,0.67,0.36,1.0615,0.1,2026-11-09T21:07:31+00:00
+2026-11-09T21:08:11+00:00,boyer v dellien,True,Hugo Dellien,kalshi,0.15,Tristan Boyer,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,0.86,1.0587,0.1,2026-11-09T21:08:11+00:00
+2026-11-09T21:08:21+00:00,hans v svajda,True,Max Hans Rehberg,polyus,0.58,Trevor Svajda,kalshi,0.37,0.9832,0.0,0.0,0.0,0.0,0.65,0.43,1.113,0.1,2026-11-09T21:08:21+00:00
+2026-11-09T21:08:21+00:00,boyer v dellien,True,Hugo Dellien,kalshi,0.15,Tristan Boyer,polyus,0.83,0.9987,0.0,15058.17,0.0,0.0,0.18,0.83,1.0301,0.1,2026-11-09T21:08:11+00:00
+2026-11-09T21:09:01+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.68,Karolina Muchova,polyus,0.28,0.9892,0.0,0.0,0.0,0.0,0.73,0.33,1.0892,0.1,2026-11-09T21:09:01+00:00
+2026-11-09T21:09:11+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.68,Karolina Muchova,polyus,0.28,0.9892,0.0,53931.65,0.0,0.0,0.73,0.28,1.0378,0.1,2026-11-09T21:09:01+00:00
+2026-11-09T21:09:21+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.68,Karolina Muchova,polyus,0.28,0.9892,0.0,53931.65,0.0,0.0,0.73,0.28,1.0378,0.1,2026-11-09T21:09:01+00:00
+2026-11-09T21:09:41+00:00,hans v svajda,True,Max Hans Rehberg,polyus,0.53,Trevor Svajda,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,0.57,0.48,1.0845,0.1,2026-11-09T21:09:41+00:00
+2026-11-09T21:10:31+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.69,Karolina Muchova,polyus,0.27,0.9887,0.0,0.0,0.0,0.0,0.74,0.32,1.0886,0.1,2026-11-09T21:10:31+00:00
+2026-11-09T21:10:41+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.69,Karolina Muchova,polyus,0.27,0.9887,0.0,57809.61,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-09T21:10:31+00:00
+2026-11-09T21:11:01+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.67,Karolina Muchova,kalshi,0.27,0.9692,0.0,0.0,0.0,0.0,0.74,0.34,1.1091,0.1,2026-11-09T21:11:01+00:00
