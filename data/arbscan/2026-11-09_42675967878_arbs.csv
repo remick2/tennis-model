@@ -826,3 +826,75 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T22:56:01+00:00,ibraimi v langmo,False,Christian Langmo,kalshi,0.85,Ymerali Ibraimi,polyus,0.13,0.9968,436.0,0.1,0.1,0.0,0.85,0.13,0.9968,0.1,2026-11-09T22:56:01+00:00
 2026-11-09T22:56:11+00:00,ibraimi v langmo,False,Christian Langmo,kalshi,0.85,Ymerali Ibraimi,polyus,0.13,0.9968,436.0,0.1,0.1,0.0,0.85,0.13,0.9968,0.1,2026-11-09T22:56:01+00:00
 2026-11-09T22:56:21+00:00,ibraimi v langmo,False,Christian Langmo,kalshi,0.85,Ymerali Ibraimi,polyus,0.13,0.9968,436.0,0.1,0.1,0.0,0.85,0.13,0.9968,0.1,2026-11-09T22:56:01+00:00
+2026-11-09T22:57:31+00:00,chan v draxl,True,Duncan Chan,kalshi,0.29,Liam Draxl,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,0.74,1.1091,0.1,2026-11-09T22:57:31+00:00
+2026-11-09T22:57:41+00:00,chan v draxl,True,Duncan Chan,kalshi,0.29,Liam Draxl,polyus,0.67,0.9898,0.0,18357.81,0.0,0.0,0.34,0.67,1.0411,0.1,2026-11-09T22:57:31+00:00
+2026-11-09T22:58:01+00:00,chan v draxl,True,Duncan Chan,kalshi,0.34,Liam Draxl,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,0.67,1.092,0.1,2026-11-09T22:58:01+00:00
+2026-11-09T22:58:11+00:00,chan v draxl,True,Duncan Chan,kalshi,0.34,Liam Draxl,polyus,0.58,0.9526,0.0,13666.81,0.0,0.0,0.43,0.58,1.0441,0.1,2026-11-09T22:58:01+00:00
+2026-11-09T22:59:11+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.58,Sascha Gueymard Wayenburg,kalshi,0.32,0.9322,0.0,0.0,0.0,0.0,0.66,0.44,1.1328,0.1,2026-11-09T22:59:11+00:00
+2026-11-09T22:59:11+00:00,andreeva v svitolina,True,Elina Svitolina,polyus,0.2,Mirra Andreeva,kalshi,0.75,0.9742,0.0,0.0,0.0,0.0,0.23,0.81,1.0631,0.1,2026-11-09T22:59:11+00:00
+2026-11-09T22:59:21+00:00,andreeva v svitolina,True,Elina Svitolina,polyus,0.2,Mirra Andreeva,kalshi,0.75,0.9742,0.0,0.0,0.0,0.0,0.23,0.81,1.0631,0.1,2026-11-09T22:59:11+00:00
+2026-11-09T22:59:31+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.1,Nicolas Mejia,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,0.91,1.0536,0.1,2026-11-09T22:59:31+00:00
+2026-11-09T22:59:41+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.1,Nicolas Mejia,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,0.91,1.0536,0.1,2026-11-09T22:59:31+00:00
+2026-11-09T23:00:31+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.06,Nicolas Mejia,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,0.95,1.0384,0.1,2026-11-09T23:00:31+00:00
+2026-11-09T23:00:41+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.06,Nicolas Mejia,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,0.95,1.0384,0.1,2026-11-09T23:00:31+00:00
+2026-11-09T23:00:51+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.06,Nicolas Mejia,kalshi,0.93,0.9985,20803.53,0.0,0.0,0.0,0.06,0.95,1.0172,0.1,2026-11-09T23:00:31+00:00
+2026-11-09T23:01:01+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.06,Nicolas Mejia,kalshi,0.93,0.9985,20803.53,0.0,0.0,0.0,0.06,0.95,1.0172,0.1,2026-11-09T23:00:31+00:00
+2026-11-09T23:01:11+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.58,Sascha Gueymard-Wayenburg,polyus,0.38,0.9934,0.0,0.0,0.0,0.0,0.64,0.45,1.1233,0.1,2026-11-09T23:01:11+00:00
+2026-11-09T23:01:41+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.56,Sascha Gueymard Wayenburg,kalshi,0.38,0.9736,0.0,0.0,0.0,0.0,0.62,0.45,1.1037,0.1,2026-11-09T23:01:41+00:00
+2026-11-09T23:01:51+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.56,Sascha Gueymard Wayenburg,kalshi,0.38,0.9736,0.0,0.0,0.0,0.0,0.62,0.45,1.1037,0.1,2026-11-09T23:01:41+00:00
+2026-11-09T23:02:01+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.56,Sascha Gueymard Wayenburg,kalshi,0.38,0.9736,36809.81,0.0,0.0,0.0,0.56,0.45,1.0444,0.1,2026-11-09T23:01:41+00:00
+2026-11-09T23:02:41+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.58,Sascha Gueymard-Wayenburg,polyus,0.38,0.9934,0.0,0.0,0.0,0.0,0.63,0.45,1.1135,0.1,2026-11-09T23:02:41+00:00
+2026-11-09T23:02:51+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.58,Sascha Gueymard-Wayenburg,polyus,0.38,0.9934,0.0,0.0,0.0,0.0,0.63,0.45,1.1135,0.1,2026-11-09T23:02:41+00:00
+2026-11-09T23:03:01+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.58,Sascha Gueymard-Wayenburg,polyus,0.37,0.9833,0.0,0.0,0.0,0.0,0.64,0.38,1.0525,0.1,2026-11-09T23:02:41+00:00
+2026-11-09T23:03:31+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.56,Sascha Gueymard Wayenburg,kalshi,0.37,0.9634,47525.05,0.0,0.0,0.0,0.56,0.45,1.0444,0.1,2026-11-09T23:03:31+00:00
+2026-11-09T23:03:31+00:00,kennedy v mejia,True,Jack Kennedy,kalshi,0.04,Nicolas Mejia,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.06,0.97,1.036,0.1,2026-11-09T23:03:31+00:00
+2026-11-09T23:04:01+00:00,kennedy v mejia,True,Jack Kennedy,kalshi,0.06,Nicolas Mejia,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,0.95,1.0385,0.1,2026-11-09T23:04:01+00:00
+2026-11-09T23:04:11+00:00,kennedy v mejia,True,Jack Kennedy,kalshi,0.06,Nicolas Mejia,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,0.95,1.0385,0.1,2026-11-09T23:04:01+00:00
+2026-11-09T23:04:21+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.44,Sascha Gueymard Wayenburg,kalshi,0.45,0.9244,0.0,0.0,0.0,0.0,0.53,0.57,1.1345,0.1,2026-11-09T23:04:21+00:00
+2026-11-09T23:04:21+00:00,kennedy v mejia,True,Jack Kennedy,kalshi,0.06,Nicolas Mejia,polyus,0.93,0.9985,0.0,22227.38,0.0,0.0,0.08,0.93,1.0197,0.1,2026-11-09T23:04:01+00:00
+2026-11-09T23:04:31+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.43,Sascha Gueymard Wayenburg,kalshi,0.45,0.9144,0.0,0.0,0.0,0.0,0.44,0.58,1.0542,0.1,2026-11-09T23:04:21+00:00
+2026-11-09T23:04:41+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.43,Sascha Gueymard Wayenburg,kalshi,0.45,0.9144,0.0,0.0,0.0,0.0,0.44,0.58,1.0542,0.1,2026-11-09T23:04:21+00:00
+2026-11-09T23:04:41+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.06,Nicolas Mejia,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,0.95,1.0384,0.1,2026-11-09T23:04:41+00:00
+2026-11-09T23:04:51+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.43,Sascha Gueymard Wayenburg,kalshi,0.45,0.9144,0.0,0.0,0.0,0.0,0.44,0.58,1.0542,0.1,2026-11-09T23:04:21+00:00
+2026-11-09T23:04:51+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.06,Nicolas Mejia,kalshi,0.93,0.9985,54755.5,0.0,0.0,0.0,0.06,0.95,1.0172,0.1,2026-11-09T23:04:41+00:00
+2026-11-09T23:06:01+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.02,Nicolas Mejia,kalshi,0.96,0.9841,0.0,0.0,0.0,0.0,0.04,0.99,1.0334,0.1,2026-11-09T23:06:01+00:00
+2026-11-09T23:06:01+00:00,chan v draxl,True,Duncan Chan,polyus,0.19,Liam Draxl,kalshi,0.78,0.9927,0.0,0.0,0.0,0.0,0.23,0.81,1.0631,0.1,2026-11-09T23:06:01+00:00
+2026-11-09T23:06:01+00:00,rocha v tobon,True,Henrique Rocha,kalshi,0.58,Miguel Tobon,polyus,0.38,0.9934,0.0,1133.29,0.0,0.0,0.63,0.38,1.0427,0.1,2026-11-09T23:06:01+00:00
+2026-11-09T23:06:11+00:00,chan v draxl,True,Duncan Chan,polyus,0.19,Liam Draxl,kalshi,0.78,0.9927,15655.69,0.0,0.0,0.0,0.19,0.81,1.0215,0.1,2026-11-09T23:06:01+00:00
+2026-11-09T23:06:11+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.02,Nicolas Mejia,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,0.04,0.99,1.0334,0.1,2026-11-09T23:06:01+00:00
+2026-11-09T23:06:21+00:00,chan v draxl,True,Duncan Chan,polyus,0.19,Liam Draxl,kalshi,0.78,0.9927,15655.69,0.0,0.0,0.0,0.19,0.81,1.0215,0.1,2026-11-09T23:06:01+00:00
+2026-11-09T23:06:21+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.02,Nicolas Mejia,kalshi,0.97,0.9934,23277.41,0.0,0.0,0.0,0.02,0.99,1.0121,0.1,2026-11-09T23:06:01+00:00
+2026-11-09T23:06:31+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.02,Nicolas Mejia,kalshi,0.97,0.9934,23277.41,0.0,0.0,0.0,0.02,0.99,1.0121,0.1,2026-11-09T23:06:01+00:00
+2026-11-09T23:06:41+00:00,rocha v tobon,True,Henrique Rocha,polyus,0.57,Miguel Tobon,kalshi,0.38,0.9835,0.0,0.0,0.0,0.0,0.65,0.43,1.113,0.1,2026-11-09T23:06:41+00:00
+2026-11-09T23:06:51+00:00,rocha v tobon,True,Henrique Rocha,polyus,0.57,Miguel Tobon,kalshi,0.38,0.9835,0.0,0.0,0.0,0.0,0.65,0.43,1.113,0.1,2026-11-09T23:06:41+00:00
+2026-11-09T23:07:01+00:00,rocha v tobon,True,Henrique Rocha,polyus,0.57,Miguel Tobon,kalshi,0.38,0.9835,3270.33,0.0,0.0,0.0,0.57,0.43,1.0342,0.1,2026-11-09T23:06:41+00:00
+2026-11-09T23:07:01+00:00,andreeva v svitolina,True,Elina Svitolina,kalshi,0.18,Mirra Andreeva,polyus,0.79,0.9919,0.0,43079.16,0.0,0.0,0.22,0.79,1.0335,0.1,2026-11-09T23:07:01+00:00
+2026-11-09T23:07:41+00:00,andreeva v svitolina,True,Elina Svitolina,polyus,0.18,Mirra Andreeva,kalshi,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,0.83,1.0718,0.1,2026-11-09T23:07:41+00:00
+2026-11-09T23:07:51+00:00,andreeva v svitolina,True,Elina Svitolina,polyus,0.18,Mirra Andreeva,kalshi,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,0.83,1.0718,0.1,2026-11-09T23:07:41+00:00
+2026-11-09T23:08:21+00:00,andreeva v svitolina,True,Elina Svitolina,kalshi,0.18,Mirra Andreeva,polyus,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,0.83,1.0718,0.1,2026-11-09T23:08:21+00:00
+2026-11-09T23:08:21+00:00,chan v draxl,True,Duncan Chan,kalshi,0.21,Liam Draxl,polyus,0.76,0.9943,0.0,0.0,0.0,0.0,0.25,0.8,1.0742,0.1,2026-11-09T23:08:21+00:00
+2026-11-09T23:08:31+00:00,andreeva v svitolina,True,Elina Svitolina,kalshi,0.18,Mirra Andreeva,polyus,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,0.83,1.0718,0.1,2026-11-09T23:08:21+00:00
+2026-11-09T23:08:31+00:00,chan v draxl,True,Duncan Chan,kalshi,0.21,Liam Draxl,polyus,0.76,0.9943,0.0,0.0,0.0,0.0,0.25,0.8,1.0742,0.1,2026-11-09T23:08:21+00:00
+2026-11-09T23:08:41+00:00,andreeva v svitolina,True,Elina Svitolina,kalshi,0.18,Mirra Andreeva,polyus,0.78,0.9823,0.0,0.0,0.0,0.0,0.23,0.79,1.0439,0.1,2026-11-09T23:08:21+00:00
+2026-11-09T23:08:41+00:00,chan v draxl,True,Duncan Chan,kalshi,0.21,Liam Draxl,polyus,0.75,0.9846,0.0,20.0,0.0,0.0,0.25,0.75,1.0262,0.2,2026-11-09T23:08:21+00:00
+2026-11-09T23:08:41+00:00,rocha v tobon,True,Henrique Rocha,kalshi,0.57,Miguel Tobon,polyus,0.39,0.9937,0.0,0.0,0.0,0.0,0.62,0.42,1.0734,0.1,2026-11-09T23:08:41+00:00
+2026-11-09T23:08:51+00:00,andreeva v svitolina,True,Elina Svitolina,kalshi,0.18,Mirra Andreeva,polyus,0.72,0.9243,0.0,0.0,0.0,0.0,0.28,0.79,1.0956,0.1,2026-11-09T23:08:21+00:00
+2026-11-09T23:09:01+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.39,Sascha Gueymard Wayenburg,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,0.42,0.62,1.0734,0.1,2026-11-09T23:09:01+00:00
+2026-11-09T23:09:01+00:00,andreeva v svitolina,True,Elina Svitolina,kalshi,0.23,Mirra Andreeva,polyus,0.72,0.9764,0.0,0.0,0.0,0.0,0.29,0.79,1.1059,0.1,2026-11-09T23:08:21+00:00
+2026-11-09T23:09:01+00:00,chan v draxl,True,Duncan Chan,polyus,0.21,Liam Draxl,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,0.26,0.79,1.075,0.1,2026-11-09T23:09:01+00:00
+2026-11-09T23:09:11+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,polyus,0.39,Sascha Gueymard Wayenburg,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,0.42,0.62,1.0734,0.1,2026-11-09T23:09:01+00:00
+2026-11-09T23:09:11+00:00,andreeva v svitolina,True,Elina Svitolina,kalshi,0.23,Mirra Andreeva,polyus,0.72,0.9764,0.0,28963.5,0.0,0.0,0.29,0.72,1.0384,0.1,2026-11-09T23:08:21+00:00
+2026-11-09T23:09:11+00:00,chan v draxl,True,Duncan Chan,polyus,0.21,Liam Draxl,kalshi,0.76,0.9943,2698.59,0.0,0.0,0.0,0.21,0.79,1.0231,0.2,2026-11-09T23:09:01+00:00
+2026-11-09T23:09:21+00:00,rocha v tobon,True,Henrique Rocha,kalshi,0.63,Miguel Tobon,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,0.39,1.1018,0.1,2026-11-09T23:09:21+00:00
+2026-11-09T23:09:31+00:00,rocha v tobon,True,Henrique Rocha,kalshi,0.63,Miguel Tobon,polyus,0.33,0.9917,0.0,21824.41,0.0,0.0,0.68,0.33,1.0406,0.1,2026-11-09T23:09:21+00:00
+2026-11-09T23:09:41+00:00,rocha v tobon,True,Henrique Rocha,kalshi,0.63,Miguel Tobon,polyus,0.33,0.9917,0.0,21824.41,0.0,0.0,0.68,0.33,1.0406,0.1,2026-11-09T23:09:21+00:00
+2026-11-09T23:09:41+00:00,andreeva v svitolina,True,Elina Svitolina,polyus,0.22,Mirra Andreeva,kalshi,0.75,0.9951,0.0,0.0,0.0,0.0,0.23,0.78,1.0343,0.1,2026-11-09T23:09:41+00:00
+2026-11-09T23:09:51+00:00,andreeva v svitolina,True,Elina Svitolina,polyus,0.19,Mirra Andreeva,kalshi,0.75,0.9638,0.0,0.0,0.0,0.0,0.23,0.82,1.0726,0.1,2026-11-09T23:09:41+00:00
+2026-11-09T23:09:51+00:00,chan v draxl,True,Duncan Chan,polyus,0.16,Liam Draxl,kalshi,0.79,0.971,2440.0,0.0,0.0,0.0,0.16,0.83,1.0092,0.1,2026-11-09T23:09:51+00:00
+2026-11-09T23:09:51+00:00,rocha v tobon,True,Henrique Rocha,kalshi,0.63,Miguel Tobon,polyus,0.33,0.9917,0.0,21824.41,0.0,0.0,0.68,0.33,1.0406,0.1,2026-11-09T23:09:21+00:00
+2026-11-09T23:10:01+00:00,chan v draxl,True,Duncan Chan,polyus,0.16,Liam Draxl,kalshi,0.82,0.9997,2440.0,0.0,0.0,0.0,0.16,0.84,1.0187,0.1,2026-11-09T23:09:51+00:00
+2026-11-09T23:10:21+00:00,chan v draxl,True,Duncan Chan,polyus,0.1,Liam Draxl,kalshi,0.82,0.9366,0.0,0.0,0.0,0.0,0.19,0.9,1.107,0.1,2026-11-09T23:10:21+00:00
+2026-11-09T23:10:21+00:00,andreeva v svitolina,True,Elina Svitolina,polyus,0.16,Mirra Andreeva,kalshi,0.81,0.9901,0.0,0.0,0.0,0.0,0.19,0.85,1.0596,0.1,2026-11-09T23:10:21+00:00
+2026-11-09T23:10:31+00:00,andreeva v svitolina,True,Elina Svitolina,polyus,0.16,Mirra Andreeva,kalshi,0.81,0.9901,0.0,0.0,0.0,0.0,0.19,0.85,1.0596,0.1,2026-11-09T23:10:21+00:00
+2026-11-09T23:10:41+00:00,andreeva v svitolina,True,Elina Svitolina,polyus,0.16,Mirra Andreeva,kalshi,0.81,0.9901,26892.05,0.0,0.0,0.0,0.16,0.85,1.0283,0.1,2026-11-09T23:10:21+00:00
+2026-11-09T23:11:51+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.47,Sascha Gueymard-Wayenburg,polyus,0.48,0.9848,0.0,0.0,0.0,0.0,0.53,0.54,1.1047,0.1,2026-11-09T23:11:51+00:00
