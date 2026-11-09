@@ -416,6 +416,28 @@ def record_table(rows):
     return lines
 
 
+PRICE_BUCKETS = [("Underdog (<45c)", 0, 0.45), ("Coin flip (45-65c)", 0.45, 0.65),
+                 ("Favorite (65-80c)", 0.65, 0.80), ("Heavy favorite (80c+)", 0.80, 1.01)]
+
+
+def price_table(rows, tiers=("Paper play", "Track only")):
+    """Graded record by entry price. 'Expected' = wins the logged prices implied (sum of prices); beating it is
+    the edge signal. Heavy favorites going 4-0 proves little; coin flips and underdogs are the real test."""
+    lines = ["| Rule | Price range | Record | Units | Actual wins | Expected wins | Edge |",
+             "|---|---|---|---|---|---|---|"]
+    for t in tiers:
+        for label, lo, hi in PRICE_BUCKETS:
+            g = [r for r in rows if r["tier"] == t and r["status"] in ("W", "L")
+                 and lo <= float(r["price_at_log"]) < hi]
+            if not g:
+                continue
+            w = sum(r["status"] == "W" for r in g)
+            exp = sum(float(r["price_at_log"]) for r in g)
+            u = sum(float(r["units"]) for r in g)
+            lines.append(f"| {t} | {label} | {w}-{len(g) - w} | {u:+.2f} | {w} | {exp:.1f} | {w - exp:+.1f} |")
+    return lines
+
+
 RULES = ("Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. "
          "Split = 2+ agree but someone in the group is on the other side. "
          "Pre-game = logged before the game started (what you could actually bet off an alert); "
@@ -443,6 +465,8 @@ def write_summary(rows, now):
              "## New roster (since Nov 7, 6:40pm MT)", "",
              "In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the first 10 slots. "
              "Official reports every Friday from Nov 13.", "", *record_table(new), "",
+             "**By price** (new roster, pre-game, graded):", "",
+             *price_table([r for r in new if not in_play(r)]), "",
              "## Old roster (Nov 3 – Nov 7, closed)", "",
              "Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Rows logged before "
              "the Nov 5 per-market fix are flagged 'old grouping'. Final report Mon Nov 10.", "",
@@ -557,7 +581,12 @@ def due_reports(rows, now, stats):
             f"**New roster, report #{n}.** Roster live since Nov 7 6:40pm MT. Paper tracking, 1 unit flat at the "
             "logged price.", "",
             f"### Last 7 days (logged since {friday - timedelta(days=7):%b %-d})", "", *record_table(wk), "",
-            "### Since the new roster started", "", *record_table(new), "", RULES, "",
+            "### Since the new roster started", "", *record_table(new), "",
+            "### By price (since the new roster started)", "",
+            "Expected wins = what the market's prices implied. Beating it is the edge signal; heavy favorites "
+            "winning proves little.", "",
+            "**Pre-game:**", "", *price_table([r for r in new if not in_play(r)]), "",
+            "**In-play:**", "", *price_table([r for r in new if in_play(r)]), "", RULES, "",
             f"### Roster health (last {HEALTH_DAYS} days)", "", *health_table(h), "",
             "Watch for: >17 bets/day or >33% of agreements (Serf-style), >10% both sides (ethanaz-style), <5 bets/day.",
         ]) + "\n"))
