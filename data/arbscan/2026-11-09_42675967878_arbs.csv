@@ -1,0 +1,66 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-09T19:40:41+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.57,Lukas Neumayer,kalshi,0.39,0.9937,0.0,0.0,0,0.0,0.58,0.44,1.0542,0.2,2026-11-09T19:40:41+00:00
+2026-11-09T19:40:51+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.51,Lukas Neumayer,kalshi,0.39,0.934,0.0,0.0,0,0.0,0.58,0.5,1.1144,0.1,2026-11-09T19:40:41+00:00
+2026-11-09T19:40:51+00:00,milavsky v miyoshi,True,Daniel Milavsky,polyus,0.55,Kenta (2004) Miyoshi,kalshi,0.4,0.984,0.0,0.0,0,0.0,0.61,0.46,1.1039,0.1,2026-11-09T19:40:51+00:00
+2026-11-09T19:41:01+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.51,Lukas Neumayer,kalshi,0.44,0.9846,0.0,0.0,0,0.0,0.58,0.5,1.1144,0.1,2026-11-09T19:40:41+00:00
+2026-11-09T19:41:01+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.06,Nicolas Jarry,kalshi,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.94,1.0291,0.1,2026-11-09T19:41:01+00:00
+2026-11-09T19:41:11+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.49,Lukas Neumayer,kalshi,0.44,0.9646,0.0,0.0,0,0.0,0.51,0.52,1.0648,0.1,2026-11-09T19:40:41+00:00
+2026-11-09T19:41:11+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.06,Nicolas Jarry,kalshi,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.94,1.0291,0.1,2026-11-09T19:41:01+00:00
+2026-11-09T19:41:21+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.49,Lukas Neumayer,kalshi,0.44,0.9646,0.0,0.0,0,0.0,0.51,0.52,1.0648,0.1,2026-11-09T19:40:41+00:00
+2026-11-09T19:41:21+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.06,Nicolas Jarry,kalshi,0.93,0.9985,3794.87,0.0,0,0.0,0.06,0.94,1.0079,0.1,2026-11-09T19:41:01+00:00
+2026-11-09T19:41:31+00:00,neumayer v tabur,True,Clement Tabur,kalshi,0.49,Lukas Neumayer,polyus,0.45,0.9747,0.0,0.0,0,0.0,0.56,0.5,1.0946,0.1,2026-11-09T19:41:31+00:00
+2026-11-09T19:41:41+00:00,neumayer v tabur,True,Clement Tabur,kalshi,0.49,Lukas Neumayer,polyus,0.45,0.9747,0.0,25470.09,0,0.0,0.56,0.45,1.0444,0.1,2026-11-09T19:41:31+00:00
+2026-11-09T19:41:41+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.55,Kenta Miyoshi,polyus,0.4,0.984,0.0,0.0,0,0.0,0.6,0.46,1.0941,0.1,2026-11-09T19:41:41+00:00
+2026-11-09T19:41:51+00:00,neumayer v tabur,True,Clement Tabur,kalshi,0.49,Lukas Neumayer,polyus,0.45,0.9747,0.0,25470.09,0,0.0,0.57,0.45,1.0544,0.1,2026-11-09T19:41:31+00:00
+2026-11-09T19:41:51+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.55,Kenta Miyoshi,polyus,0.4,0.984,0.0,1383.02,0,0.0,0.6,0.4,1.0335,0.1,2026-11-09T19:41:41+00:00
+2026-11-09T19:42:01+00:00,neumayer v tabur,True,Clement Tabur,kalshi,0.57,Lukas Neumayer,polyus,0.39,0.9937,0.0,0.0,0,0.0,0.62,0.45,1.1037,0.1,2026-11-09T19:41:31+00:00
+2026-11-09T19:42:11+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.6,Kenta Miyoshi,polyus,0.34,0.9724,0.0,0.0,0,0.0,0.67,0.4,1.1022,0.1,2026-11-09T19:42:11+00:00
+2026-11-09T19:42:11+00:00,neumayer v tabur,True,Clement Tabur,kalshi,0.57,Lukas Neumayer,polyus,0.39,0.9937,0.0,20701.88,0,0.0,0.62,0.39,1.043,0.1,2026-11-09T19:41:31+00:00
+2026-11-09T19:42:21+00:00,neumayer v tabur,True,Clement Tabur,kalshi,0.57,Lukas Neumayer,polyus,0.36,0.9632,0.0,0.0,0,0.0,0.65,0.39,1.0725,0.1,2026-11-09T19:41:31+00:00
+2026-11-09T19:42:21+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.6,Kenta Miyoshi,polyus,0.34,0.9724,0.0,28243.3,0,0.0,0.67,0.34,1.0411,0.1,2026-11-09T19:42:11+00:00
+2026-11-09T19:42:21+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.05,Nicolas Jarry,kalshi,0.94,0.9972,0.0,0.0,0,0.0,0.09,0.96,1.0584,0.1,2026-11-09T19:42:21+00:00
+2026-11-09T19:42:41+00:00,kouame v strombachs,True,Moise Kouame,polyus,0.96,Robert Strombachs,kalshi,0.03,0.9947,0.0,0.0,0,0.0,0.99,0.05,1.044,0.1,2026-11-09T19:42:41+00:00
+2026-11-09T19:42:51+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.67,Kenta Miyoshi,polyus,0.22,0.9174,0.0,1094.01,0,0.0,0.78,0.22,1.0239,0.1,2026-11-09T19:42:51+00:00
+2026-11-09T19:42:51+00:00,kouame v strombachs,True,Moise Kouame,polyus,0.96,Robert Strombachs,kalshi,0.03,0.9947,0.0,0.0,0,0.0,0.99,0.05,1.044,0.1,2026-11-09T19:42:41+00:00
+2026-11-09T19:43:11+00:00,kouame v strombachs,True,Moise Kouame,kalshi,0.96,Robert Strombachs,polyus,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.06,1.0453,0.1,2026-11-09T19:43:11+00:00
+2026-11-09T19:43:21+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.78,Kenta Miyoshi,polyus,0.17,0.9718,0.0,37569.8,0,0.0,0.84,0.17,1.0292,0.1,2026-11-09T19:43:21+00:00
+2026-11-09T19:43:21+00:00,kouame v strombachs,True,Moise Kouame,kalshi,0.96,Robert Strombachs,polyus,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.06,1.0453,0.1,2026-11-09T19:43:11+00:00
+2026-11-09T19:43:21+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.06,Nicolas Jarry,polyus,0.93,0.9985,0.0,25956.53,0,0.0,0.08,0.93,1.0197,0.1,2026-11-09T19:43:21+00:00
+2026-11-09T19:43:21+00:00,grabher v zidansek,True,Julia Grabher,kalshi,0.83,Tamara Zidansek,polyus,0.15,0.9987,0.0,0.0,0,0.0,0.86,0.18,1.0587,0.1,2026-11-09T19:43:21+00:00
+2026-11-09T19:43:31+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.78,Kenta Miyoshi,polyus,0.17,0.9718,0.0,37569.8,0,0.0,0.84,0.17,1.0292,0.1,2026-11-09T19:43:21+00:00
+2026-11-09T19:43:31+00:00,grabher v zidansek,True,Julia Grabher,kalshi,0.83,Tamara Zidansek,polyus,0.14,0.9882,0.0,35093.11,0,0.0,0.87,0.14,1.0263,0.1,2026-11-09T19:43:21+00:00
+2026-11-09T19:43:31+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.06,Nicolas Jarry,polyus,0.93,0.9985,0.0,0.0,0,0.0,0.08,,,6.1,2026-11-09T19:43:21+00:00
+2026-11-09T19:43:41+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.78,Kenta Miyoshi,polyus,0.17,0.9718,0.0,37569.8,0,0.0,0.84,0.17,1.0292,1.1,2026-11-09T19:43:21+00:00
+2026-11-09T19:43:41+00:00,kouame v strombachs,True,Moise Kouame,kalshi,0.96,Robert Strombachs,polyus,0.02,0.9841,0.0,15987.86,0,0.0,0.99,0.02,1.0121,0.1,2026-11-09T19:43:41+00:00
+2026-11-09T19:43:41+00:00,grabher v zidansek,True,Julia Grabher,kalshi,0.83,Tamara Zidansek,polyus,0.14,0.9882,0.0,35093.11,0,0.0,0.87,0.14,1.0263,0.1,2026-11-09T19:43:21+00:00
+2026-11-09T19:43:41+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.06,Nicolas Jarry,polyus,0.93,0.9985,0.0,25956.53,0,0.0,0.08,0.93,1.0197,0.1,2026-11-09T19:43:21+00:00
+2026-11-09T19:44:01+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.06,Nicolas Jarry,kalshi,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.95,1.0384,0.1,2026-11-09T19:44:01+00:00
+2026-11-09T19:44:11+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.06,Nicolas Jarry,kalshi,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.95,1.0384,0.1,2026-11-09T19:44:01+00:00
+2026-11-09T19:45:21+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.04,Nicolas Jarry,kalshi,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.1,2026-11-09T19:45:21+00:00
+2026-11-09T19:45:31+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.04,Nicolas Jarry,kalshi,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.2,2026-11-09T19:45:21+00:00
+2026-11-09T19:45:31+00:00,grabher v zidansek,True,Julia Grabher,polyus,0.85,Tamara Zidansek,kalshi,0.13,0.9968,27197.78,0.0,0,0.0,0.85,0.17,1.0387,0.1,2026-11-09T19:45:31+00:00
+2026-11-09T19:45:41+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.04,Nicolas Jarry,kalshi,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.1,2026-11-09T19:45:21+00:00
+2026-11-09T19:45:41+00:00,grabher v zidansek,True,Julia Grabher,polyus,0.85,Tamara Zidansek,kalshi,0.13,0.9968,27197.78,0.0,0,0.0,0.85,0.17,1.0387,0.1,2026-11-09T19:45:31+00:00
+2026-11-09T19:45:51+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.83,Kenta Miyoshi,polyus,0.15,0.9987,0.0,33689.93,0,0.0,0.86,0.15,1.0273,0.1,2026-11-09T19:45:51+00:00
+2026-11-09T19:46:01+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.02,Nicolas Jarry,kalshi,0.97,0.9934,0.0,0.0,0,0.0,0.04,0.99,1.0334,0.1,2026-11-09T19:46:01+00:00
+2026-11-09T19:46:01+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.85,Kenta Miyoshi,polyus,0.13,0.9968,0.0,0.0,0,0.0,0.88,0.15,1.0463,0.1,2026-11-09T19:45:51+00:00
+2026-11-09T19:46:11+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.85,Kenta Miyoshi,polyus,0.13,0.9968,0.0,0.0,0,0.0,0.88,0.15,1.0463,0.1,2026-11-09T19:45:51+00:00
+2026-11-09T19:46:21+00:00,grabher v zidansek,True,Julia Grabher,kalshi,0.84,Tamara Zidansek,polyus,0.13,0.9873,0.0,0.0,0,0.0,0.88,0.15,1.0463,0.1,2026-11-09T19:46:21+00:00
+2026-11-09T19:46:21+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.02,Nicolas Jarry,kalshi,0.97,0.9934,40569.47,0.0,0,0.0,0.01,,,0.1,2026-11-09T19:46:21+00:00
+2026-11-09T19:46:21+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.85,Kenta Miyoshi,polyus,0.13,0.9968,0.0,22093.16,0,0.0,0.88,0.13,1.0253,0.1,2026-11-09T19:45:51+00:00
+2026-11-09T19:46:31+00:00,grabher v zidansek,True,Julia Grabher,kalshi,0.84,Tamara Zidansek,polyus,0.13,0.9873,0.0,27619.93,0,0.0,0.88,0.13,1.0253,0.1,2026-11-09T19:46:21+00:00
+2026-11-09T19:47:21+00:00,neumayer v tabur,True,Clement Tabur,kalshi,0.56,Lukas Neumayer,polyus,0.39,0.9838,0.0,0.0,0,0.0,0.62,0.43,1.0835,0.1,2026-11-09T19:47:21+00:00
+2026-11-09T19:47:21+00:00,grabher v zidansek,True,Julia Grabher,polyus,0.83,Tamara Zidansek,kalshi,0.14,0.9882,0.0,0.0,0,0.0,0.87,0.18,1.0682,0.1,2026-11-09T19:47:21+00:00
+2026-11-09T19:47:31+00:00,grabher v zidansek,True,Julia Grabher,polyus,0.82,Tamara Zidansek,kalshi,0.14,0.9787,1951.0,0.0,0,0.0,0.82,0.19,1.031,0.1,2026-11-09T19:47:21+00:00
+2026-11-09T19:47:31+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.85,Kenta Miyoshi,polyus,0.13,0.9968,0.0,0.0,0,0.0,0.87,0.17,1.0577,0.1,2026-11-09T19:47:31+00:00
+2026-11-09T19:47:41+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.85,Kenta Miyoshi,polyus,0.08,0.944,0.0,0.0,0,0.0,0.93,0.17,1.1144,0.1,2026-11-09T19:47:31+00:00
+2026-11-09T19:47:41+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.01,Nicolas Jarry,polyus,0.98,0.9921,0.0,0.0,0,0.0,0.03,,,0.2,2026-11-09T19:47:41+00:00
+2026-11-09T19:47:51+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.85,Kenta Miyoshi,polyus,0.08,0.944,0.0,46210.4,0,0.0,0.93,0.08,1.0197,0.2,2026-11-09T19:47:31+00:00
+2026-11-09T19:47:51+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.01,Nicolas Jarry,polyus,0.98,0.9921,0.0,22474.08,0,0.0,0.03,0.98,1.0134,0.1,2026-11-09T19:47:41+00:00
+2026-11-09T19:49:01+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.53,Lukas Neumayer,kalshi,0.43,0.9945,0.0,0.0,0,0.0,0.58,0.47,1.0844,0.1,2026-11-09T19:49:01+00:00
+2026-11-09T19:51:21+00:00,milavsky v miyoshi,True,Daniel Milavsky,polyus,0.88,Kenta (2004) Miyoshi,kalshi,0.1,0.9936,52358.78,0.0,0,0.0,0.88,0.13,1.0253,0.1,2026-11-09T19:51:21+00:00
+2026-11-09T19:51:31+00:00,milavsky v miyoshi,True,Daniel Milavsky,polyus,0.87,Kenta (2004) Miyoshi,kalshi,0.1,0.9842,0.0,0.0,0,0.0,0.88,0.13,1.0253,0.1,2026-11-09T19:51:21+00:00
+2026-11-09T19:51:41+00:00,milavsky v miyoshi,True,Daniel Milavsky,polyus,0.87,Kenta (2004) Miyoshi,kalshi,0.1,0.9842,0.0,0.0,0,0.0,0.88,0.13,1.0253,0.1,2026-11-09T19:51:21+00:00
+2026-11-09T19:51:51+00:00,milavsky v miyoshi,True,Daniel Milavsky,polyus,0.87,Kenta (2004) Miyoshi,kalshi,0.1,0.9842,0.01,0.0,0,0.0,0.87,0.13,1.0158,0.1,2026-11-09T19:51:21+00:00
+2026-11-09T19:52:11+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.88,Kenta Miyoshi,polyus,0.1,0.9936,0.0,0.0,0,0.0,0.91,0.14,1.0641,0.1,2026-11-09T19:52:11+00:00
+2026-11-09T19:52:21+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.88,Kenta Miyoshi,polyus,0.1,0.9936,0.0,46142.21,0,0.0,0.91,0.1,1.022,0.2,2026-11-09T19:52:11+00:00
