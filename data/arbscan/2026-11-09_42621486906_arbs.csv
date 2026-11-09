@@ -1879,3 +1879,79 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T17:16:18+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.47,Lucas Poullain,polyus,0.45,0.9546,0.0,0.0,0.0,0.0,0.57,0.54,1.1444,0.1,2026-11-09T17:16:18+00:00
 2026-11-09T17:16:18+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.28,Santiago De la Fuente,kalshi,0.68,0.9892,36168.76,0.0,0.0,0.0,0.28,0.69,0.999,0.1,2026-11-09T17:15:58+00:00
 2026-11-09T17:16:28+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.28,Santiago De La Fuente,polyus,0.68,0.9892,0.0,0.0,0.0,0.0,0.33,0.73,1.0892,0.1,2026-11-09T17:16:28+00:00
+2026-11-09T17:16:38+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.28,Santiago De La Fuente,polyus,0.69,0.999,0.0,0.0,0.0,0.0,0.33,0.73,1.0892,0.1,2026-11-09T17:16:28+00:00
+2026-11-09T17:16:48+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.48,Lucas Poullain,kalshi,0.45,0.9647,0.0,0.0,0.0,0.0,0.56,0.54,1.1345,0.1,2026-11-09T17:16:48+00:00
+2026-11-09T17:17:18+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.27,Santiago De La Fuente,polyus,0.67,0.9692,0.0,0.0,0.0,0.0,0.34,0.68,1.0508,0.1,2026-11-09T17:17:18+00:00
+2026-11-09T17:17:28+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.38,Lucas Poullain,kalshi,0.54,0.9538,0.0,0.0,0.0,0.0,0.39,0.63,1.0529,0.1,2026-11-09T17:17:28+00:00
+2026-11-09T17:17:38+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.38,Lucas Poullain,kalshi,0.54,0.9538,0.0,0.0,0.0,0.0,0.39,0.63,1.0529,0.1,2026-11-09T17:17:28+00:00
+2026-11-09T17:17:48+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.2,Lucas Poullain,kalshi,0.54,0.7685,0.0,0.0,0.0,0.0,0.39,0.81,1.2273,0.1,2026-11-09T17:17:28+00:00
+2026-11-09T17:17:58+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.2,Lucas Poullain,kalshi,0.54,0.7685,29951.89,0.0,0.0,0.0,0.2,0.81,1.0319,0.2,2026-11-09T17:17:28+00:00
+2026-11-09T17:17:58+00:00,hudd v legout,True,Emile Hudd,kalshi,0.06,Timo Legout,polyus,0.9,0.9702,0.0,13.1,0.0,0.0,0.13,0.9,1.0442,0.1,2026-11-09T17:17:58+00:00
+2026-11-09T17:17:58+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.34,Santiago De La Fuente,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,0.69,1.1115,0.1,2026-11-09T17:17:58+00:00
+2026-11-09T17:18:08+00:00,hudd v legout,True,Emile Hudd,kalshi,0.06,Timo Legout,polyus,0.91,0.9796,0.0,38.2,0.0,0.0,0.09,0.9,1.002,0.1,2026-11-09T17:17:58+00:00
+2026-11-09T17:18:08+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.34,Santiago De La Fuente,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,0.69,1.1115,0.1,2026-11-09T17:17:58+00:00
+2026-11-09T17:18:18+00:00,hudd v legout,True,Emile Hudd,kalshi,0.06,Timo Legout,polyus,0.91,0.9796,0.0,38.2,0.0,0.0,0.09,0.9,1.002,0.1,2026-11-09T17:17:58+00:00
+2026-11-09T17:18:18+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.34,Santiago De La Fuente,polyus,0.62,0.9921,0.0,40197.48,0.0,0.0,0.39,0.62,1.043,0.1,2026-11-09T17:17:58+00:00
+2026-11-09T17:18:28+00:00,hudd v legout,True,Emile Hudd,kalshi,0.06,Timo Legout,polyus,0.91,0.9796,0.0,36.11,0.0,0.0,0.1,0.91,1.022,0.1,2026-11-09T17:17:58+00:00
+2026-11-09T17:18:28+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.34,Santiago De La Fuente,polyus,0.62,0.9921,0.0,40197.48,0.0,0.0,0.39,0.62,1.043,0.1,2026-11-09T17:17:58+00:00
+2026-11-09T17:18:28+00:00,batalla v hernandez,True,Alex Hernandez,polyus,0.07,Oriol Roca Batalla,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,0.08,0.94,1.0291,0.1,2026-11-09T17:18:28+00:00
+2026-11-09T17:18:48+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.21,Lucas Poullain,polyus,0.74,0.975,0.0,0.0,0.0,0.0,0.27,0.81,1.1045,0.1,2026-11-09T17:18:48+00:00
+2026-11-09T17:18:48+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.33,Santiago De la Fuente,kalshi,0.62,0.9819,57017.89,0.0,0.0,0.0,0.33,0.68,1.0406,0.1,2026-11-09T17:18:48+00:00
+2026-11-09T17:18:58+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.32,Santiago De la Fuente,kalshi,0.62,0.9716,0.0,0.0,0.0,0.0,0.33,0.68,1.0406,0.1,2026-11-09T17:18:48+00:00
+2026-11-09T17:18:58+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.21,Lucas Poullain,polyus,0.74,0.975,0.0,38649.56,0.0,0.0,0.27,0.74,1.0372,0.1,2026-11-09T17:18:48+00:00
+2026-11-09T17:19:18+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.17,Lucas Poullain,kalshi,0.74,0.9333,0.0,0.0,0.0,0.0,0.27,0.84,1.1331,0.1,2026-11-09T17:19:18+00:00
+2026-11-09T17:19:18+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.27,Santiago De la Fuente,kalshi,0.68,0.9789,0.0,0.0,0.0,0.0,0.34,0.78,1.1476,0.1,2026-11-09T17:19:18+00:00
+2026-11-09T17:19:28+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.17,Lucas Poullain,kalshi,0.74,0.9333,64359.9,0.0,0.0,0.0,0.17,0.84,1.0292,0.1,2026-11-09T17:19:18+00:00
+2026-11-09T17:19:28+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.23,Santiago De la Fuente,kalshi,0.68,0.9375,0.0,0.0,0.0,0.0,0.34,0.78,1.1476,0.1,2026-11-09T17:19:18+00:00
+2026-11-09T17:19:58+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.07,Lucas Poullain,kalshi,0.84,0.9239,0.0,0.0,0.0,0.0,0.19,0.94,1.1446,0.1,2026-11-09T17:19:58+00:00
+2026-11-09T17:20:28+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.22,Santiago De La Fuente,polyus,0.73,0.9757,0.0,0.0,0.0,0.0,0.28,0.82,1.1244,0.1,2026-11-09T17:20:28+00:00
+2026-11-09T17:20:48+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.06,Lucas Poullain,polyus,0.91,0.9796,0.0,0.0,0.0,0.0,0.1,0.94,1.0502,0.1,2026-11-09T17:20:48+00:00
+2026-11-09T17:20:58+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.06,Lucas Poullain,polyus,0.9,0.9702,0.0,0.0,0.0,0.0,0.11,0.91,1.0325,0.1,2026-11-09T17:20:48+00:00
+2026-11-09T17:21:08+00:00,gentzsch v houkes,True,Max Houkes,polyus,0.46,Tom Gentzsch,kalshi,0.47,0.9647,15340.1,0.0,0.0,0.0,0.46,0.56,1.0545,0.1,2026-11-09T17:21:08+00:00
+2026-11-09T17:21:08+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.06,Lucas Poullain,polyus,0.92,0.9891,0.0,120758.75,0.0,0.0,0.08,0.91,1.0008,0.1,2026-11-09T17:20:48+00:00
+2026-11-09T17:21:18+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.28,Santiago De La Fuente,polyus,0.63,0.9403,0.0,60671.63,0.0,0.0,0.38,0.63,1.0427,0.1,2026-11-09T17:21:18+00:00
+2026-11-09T17:21:18+00:00,gentzsch v houkes,True,Max Houkes,polyus,0.45,Tom Gentzsch,kalshi,0.47,0.9546,0.0,0.0,0.0,0.0,0.46,0.56,1.0545,0.1,2026-11-09T17:21:08+00:00
+2026-11-09T17:21:18+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.06,Lucas Poullain,polyus,0.92,0.9891,0.0,120758.75,0.0,0.0,0.09,0.91,1.0114,0.1,2026-11-09T17:20:48+00:00
+2026-11-09T17:21:28+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.28,Santiago De La Fuente,polyus,0.63,0.9403,0.0,60671.63,0.0,0.0,0.38,0.63,1.0427,0.1,2026-11-09T17:21:18+00:00
+2026-11-09T17:21:38+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.28,Santiago De La Fuente,polyus,0.63,0.9403,0.0,60671.63,0.0,0.0,0.38,0.63,1.0427,0.1,2026-11-09T17:21:18+00:00
+2026-11-09T17:21:38+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.08,Lucas Poullain,polyus,0.86,0.9535,0.0,0.0,0.0,0.0,0.15,0.92,1.084,0.1,2026-11-09T17:21:38+00:00
+2026-11-09T17:21:48+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.08,Lucas Poullain,polyus,0.85,0.944,0.0,0.0,0.0,0.0,0.16,0.92,1.0945,0.1,2026-11-09T17:21:38+00:00
+2026-11-09T17:21:48+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.28,Santiago De La Fuente,polyus,0.65,0.9599,0.0,194.11,0.0,0.0,0.38,0.63,1.0427,0.1,2026-11-09T17:21:18+00:00
+2026-11-09T17:22:08+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.31,Santiago De la Fuente,kalshi,0.63,0.9712,0.0,0.0,0.0,0.0,0.38,0.7,1.1111,0.1,2026-11-09T17:22:08+00:00
+2026-11-09T17:22:18+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.3,Santiago De la Fuente,kalshi,0.63,0.9609,15520.66,0.0,0.0,0.0,0.3,0.71,1.039,0.1,2026-11-09T17:22:08+00:00
+2026-11-09T17:22:18+00:00,dougaz v mesa,True,Aziz Dougaz,polyus,0.92,Bernardo Munk Mesa,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,0.09,1.0397,0.1,2026-11-09T17:22:18+00:00
+2026-11-09T17:22:28+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.18,Lucas Poullain,polyus,0.57,0.7774,0.0,0.0,0.0,0.0,0.22,0.87,1.1099,0.1,2026-11-09T17:22:28+00:00
+2026-11-09T17:22:38+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.18,Lucas Poullain,polyus,0.54,0.7476,0.0,0.0,0.0,0.0,0.47,0.87,1.3653,0.1,2026-11-09T17:22:28+00:00
+2026-11-09T17:22:48+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.18,Lucas Poullain,polyus,0.53,0.7376,0.0,0.0,0.0,0.0,0.48,0.87,1.3753,0.1,2026-11-09T17:22:28+00:00
+2026-11-09T17:22:48+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.19,Santiago De la Fuente,kalshi,0.7,0.9154,67449.39,0.0,0.0,0.0,0.19,0.82,1.031,0.1,2026-11-09T17:22:48+00:00
+2026-11-09T17:23:38+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.61,Tatjana Maria,kalshi,0.35,0.9925,0.0,0.0,0.0,0.0,0.66,0.4,1.0924,0.1,2026-11-09T17:23:38+00:00
+2026-11-09T17:23:48+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.48,Lucas Poullain,polyus,0.19,0.6982,0.0,0.0,0.0,0.0,0.82,0.53,1.3776,0.1,2026-11-09T17:23:48+00:00
+2026-11-09T17:24:18+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.17,Santiago De La Fuente,polyus,0.76,0.9526,0.0,48866.86,0.0,0.0,0.25,0.76,1.0358,0.1,2026-11-09T17:24:18+00:00
+2026-11-09T17:24:28+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.17,Santiago De La Fuente,polyus,0.76,0.9526,0.0,48866.86,0.0,0.0,0.25,0.76,1.0358,0.1,2026-11-09T17:24:18+00:00
+2026-11-09T17:24:28+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.77,Lucas Poullain,kalshi,0.19,0.9831,73170.19,0.0,0.0,0.0,0.77,0.24,1.0351,0.1,2026-11-09T17:24:28+00:00
+2026-11-09T17:25:18+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.16,Santiago De la Fuente,kalshi,0.76,0.9421,89534.64,0.0,0.0,0.0,0.16,0.85,1.0283,0.1,2026-11-09T17:25:18+00:00
+2026-11-09T17:25:18+00:00,giovannini v maria,True,Luisina Giovannini,kalshi,0.66,Tatjana Maria,polyus,0.28,0.9697,0.0,0.0,0.0,0.0,0.73,0.32,1.0789,0.1,2026-11-09T17:25:18+00:00
+2026-11-09T17:25:28+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.16,Santiago De la Fuente,kalshi,0.76,0.9421,89534.64,0.0,0.0,0.0,0.16,0.85,1.0283,0.1,2026-11-09T17:25:18+00:00
+2026-11-09T17:25:48+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.16,Santiago De La Fuente,polyus,0.74,0.9228,0.0,0.0,0.0,0.0,0.27,0.89,1.1806,0.1,2026-11-09T17:25:48+00:00
+2026-11-09T17:25:48+00:00,baris v zahraj,True,Ozan Baris,kalshi,0.68,Patrick Zahraj,polyus,0.29,0.9995,0.0,0.0,0.0,0.0,0.71,0.33,1.0698,0.1,2026-11-09T17:25:48+00:00
+2026-11-09T17:25:48+00:00,hudd v legout,True,Emile Hudd,polyus,0.07,Timo Legout,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,0.08,0.93,1.0197,0.1,2026-11-09T17:25:48+00:00
+2026-11-09T17:25:58+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.16,Santiago De La Fuente,polyus,0.74,0.9228,0.0,0.0,0.0,0.0,0.27,0.89,1.1806,0.1,2026-11-09T17:25:48+00:00
+2026-11-09T17:25:58+00:00,baris v zahraj,True,Ozan Baris,kalshi,0.68,Patrick Zahraj,polyus,0.26,0.9686,0.0,0.0,0.0,0.0,0.74,0.33,1.0988,0.1,2026-11-09T17:25:48+00:00
+2026-11-09T17:25:58+00:00,hudd v legout,True,Emile Hudd,polyus,0.07,Timo Legout,kalshi,0.92,0.9997,248.01,0.0,0.0,0.0,0.07,0.93,1.0091,0.1,2026-11-09T17:25:48+00:00
+2026-11-09T17:26:18+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.65,Tatjana Maria,kalshi,0.3,0.9805,0.0,0.0,0.0,0.0,0.71,0.36,1.1004,0.1,2026-11-09T17:26:18+00:00
+2026-11-09T17:26:48+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.57,Tatjana Maria,kalshi,0.36,0.9632,0.0,0.0,0.0,0.0,0.65,0.44,1.1231,0.1,2026-11-09T17:26:48+00:00
+2026-11-09T17:26:58+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.56,Tatjana Maria,kalshi,0.36,0.9533,36256.84,0.0,0.0,0.0,0.56,0.45,1.0444,0.1,2026-11-09T17:26:48+00:00
+2026-11-09T17:26:58+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.1,Santiago De La Fuente,polyus,0.85,0.9652,0.0,0.0,0.0,0.0,0.16,0.91,1.0851,0.1,2026-11-09T17:26:58+00:00
+2026-11-09T17:27:08+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.1,Santiago De La Fuente,polyus,0.85,0.9652,0.0,0.0,0.0,0.0,0.16,0.91,1.0851,0.1,2026-11-09T17:26:58+00:00
+2026-11-09T17:27:18+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.1,Santiago De La Fuente,polyus,0.85,0.9652,0.0,66130.91,0.0,0.0,0.16,0.85,1.0283,0.1,2026-11-09T17:26:58+00:00
+2026-11-09T17:27:28+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.46,Tatjana Maria,kalshi,0.45,0.9446,0.0,0.0,0.0,0.0,0.53,0.55,1.1146,0.1,2026-11-09T17:27:28+00:00
+2026-11-09T17:27:38+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.44,Tatjana Maria,kalshi,0.48,0.9546,0.0,0.0,0.0,0.0,0.53,0.57,1.1345,0.1,2026-11-09T17:27:28+00:00
+2026-11-09T17:27:48+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.44,Tatjana Maria,kalshi,0.48,0.9546,0.0,0.0,0.0,0.0,0.53,0.57,1.1345,0.1,2026-11-09T17:27:28+00:00
+2026-11-09T17:27:58+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.44,Tatjana Maria,kalshi,0.48,0.9546,24187.6,0.0,0.0,0.0,0.44,0.57,1.0443,0.1,2026-11-09T17:27:28+00:00
+2026-11-09T17:28:08+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.44,Tatjana Maria,kalshi,0.48,0.9546,24187.6,0.0,0.0,0.0,0.44,0.57,1.0443,0.1,2026-11-09T17:27:28+00:00
+2026-11-09T17:28:08+00:00,baris v zahraj,True,Ozan Baris,polyus,0.68,Patrick Zahraj,kalshi,0.29,0.9995,1334.14,0.0,0.0,0.0,0.68,0.33,1.0406,0.2,2026-11-09T17:28:08+00:00
+2026-11-09T17:28:18+00:00,magadan v misolic,True,Alan Magadan,kalshi,0.09,Filip Misolic,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.12,0.9,1.0336,0.1,2026-11-09T17:28:18+00:00
+2026-11-09T17:28:18+00:00,baris v zahraj,True,Ozan Baris,polyus,0.68,Patrick Zahraj,kalshi,0.29,0.9995,1334.14,0.0,0.0,0.0,0.68,0.34,1.0508,0.1,2026-11-09T17:28:08+00:00
+2026-11-09T17:29:48+00:00,magadan v misolic,True,Alan Magadan,kalshi,0.12,Filip Misolic,polyus,0.86,0.9958,0.0,0.0,0.0,0.0,0.15,0.9,1.0652,0.2,2026-11-09T17:29:48+00:00
+2026-11-09T17:29:48+00:00,baris v zahraj,True,Ozan Baris,polyus,0.69,Patrick Zahraj,kalshi,0.28,0.999,0.0,0.0,0.0,0.0,0.73,0.32,1.0789,0.1,2026-11-09T17:29:48+00:00
+2026-11-09T17:31:08+00:00,hudd v legout,True,Emile Hudd,kalshi,0.05,Timo Legout,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,0.96,1.0372,0.1,2026-11-09T17:31:08+00:00
