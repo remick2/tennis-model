@@ -441,3 +441,44 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T05:09:29+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.31,Edward Winter,kalshi,0.64,0.981,14642.22,0.0,0.0,0.0,0.31,0.71,1.0493,0.1,2026-11-09T05:09:09+00:00
 2026-11-09T05:09:39+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.3,Edward Winter,polyus,0.66,0.9903,0.0,0.0,0.0,0.0,0.35,0.7,1.0805,0.1,2026-11-09T05:09:39+00:00
 2026-11-09T05:09:49+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.3,Edward Winter,polyus,0.66,0.9903,0.0,0.0,0.0,0.0,0.35,0.7,1.0805,0.1,2026-11-09T05:09:39+00:00
+2026-11-09T05:09:59+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.3,Edward Winter,polyus,0.66,0.9903,0.0,41794.23,0.0,0.0,0.35,0.66,1.0415,0.1,2026-11-09T05:09:39+00:00
+2026-11-09T05:10:09+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.3,Edward Winter,polyus,0.61,0.9412,0.0,0.0,0.0,0.0,0.4,0.66,1.0924,0.1,2026-11-09T05:09:39+00:00
+2026-11-09T05:10:39+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.35,Edward Winter,kalshi,0.61,0.9925,0.0,0.0,0.0,0.0,0.39,0.66,1.0822,0.1,2026-11-09T05:10:39+00:00
+2026-11-09T05:11:09+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.35,Edward Winter,polyus,0.61,0.9925,0.0,0.0,0.0,0.0,0.4,0.66,1.0924,0.1,2026-11-09T05:11:09+00:00
+2026-11-09T05:11:39+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.35,Edward Winter,kalshi,0.61,0.9925,0.0,0.0,0.0,0.0,0.4,0.66,1.0924,0.1,2026-11-09T05:11:39+00:00
+2026-11-09T05:11:49+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.35,Edward Winter,kalshi,0.61,0.9925,0.0,0.0,0.0,0.0,0.4,0.67,1.1022,0.1,2026-11-09T05:11:39+00:00
+2026-11-09T05:12:29+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.28,Edward Winter,kalshi,0.67,0.9795,0.0,0.0,0.0,0.0,0.34,0.73,1.0994,0.1,2026-11-09T05:12:29+00:00
+2026-11-09T05:12:39+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.29,Edward Winter,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,0.73,1.0994,0.1,2026-11-09T05:12:29+00:00
+2026-11-09T05:12:49+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.29,Edward Winter,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,0.72,1.0897,0.1,2026-11-09T05:12:29+00:00
+2026-11-09T05:12:59+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.29,Edward Winter,polyus,0.66,0.98,0.0,0.0,0.0,0.0,0.35,0.72,1.0999,0.1,2026-11-09T05:12:59+00:00
+2026-11-09T05:13:09+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.29,Edward Winter,polyus,0.66,0.98,0.0,0.0,0.0,0.0,0.37,0.72,1.1203,0.1,2026-11-09T05:12:59+00:00
+2026-11-09T05:13:19+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.29,Edward Winter,polyus,0.61,0.9309,0.0,0.0,0.0,0.0,0.4,0.72,1.1508,0.1,2026-11-09T05:12:59+00:00
+2026-11-09T05:16:29+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.4,Edward Winter,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.45,0.57,1.0544,0.1,2026-11-09T05:16:29+00:00
+2026-11-09T05:16:39+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.4,Edward Winter,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.45,0.57,1.0544,0.1,2026-11-09T05:16:29+00:00
+2026-11-09T05:16:49+00:00,hsiou v smith,True,Keegan Smith,kalshi,0.3,Yu-Hsiou Hsu,polyus,0.66,0.9903,0.0,0.0,0.0,0.0,0.34,0.68,1.0508,0.1,2026-11-09T05:16:49+00:00
+2026-11-09T05:16:49+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.4,Edward Winter,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.45,0.57,1.0544,0.1,2026-11-09T05:16:29+00:00
+2026-11-09T05:16:59+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.4,Edward Winter,polyus,0.5,0.9342,0.0,0.0,0.0,0.0,0.5,0.56,1.0946,0.1,2026-11-09T05:16:29+00:00
+2026-11-09T05:17:09+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.45,Edward Winter,polyus,0.5,0.9847,0.0,0.0,0.0,0.0,0.5,0.56,1.0946,0.1,2026-11-09T05:16:29+00:00
+2026-11-09T05:17:19+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.45,Edward Winter,polyus,0.5,0.9847,0.0,0.0,0.0,0.0,0.51,0.56,1.1046,0.1,2026-11-09T05:16:29+00:00
+2026-11-09T05:17:19+00:00,kang v schwaerzler,True,Joel Schwaerzler,kalshi,0.9,Mitsuki Wei Kang Leong,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.92,0.09,1.0208,0.1,2026-11-09T05:17:19+00:00
+2026-11-09T05:17:29+00:00,kang v schwaerzler,True,Joel Schwaerzler,kalshi,0.9,Mitsuki Wei Kang Leong,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.93,0.09,1.0302,0.1,2026-11-09T05:17:19+00:00
+2026-11-09T05:17:39+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.46,Edward Winter,kalshi,0.5,0.9948,0.0,0.0,0.0,0.0,0.51,0.55,1.0947,0.1,2026-11-09T05:17:39+00:00
+2026-11-09T05:17:49+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.46,Edward Winter,kalshi,0.5,0.9948,0.0,0.0,0.0,0.0,0.51,0.55,1.0947,0.1,2026-11-09T05:17:39+00:00
+2026-11-09T05:17:59+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.46,Edward Winter,kalshi,0.5,0.9948,35470.27,0.0,0.0,0.0,0.46,0.55,1.0446,0.1,2026-11-09T05:17:39+00:00
+2026-11-09T05:18:29+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.41,Edward Winter,kalshi,0.55,0.9941,21245.64,0.0,0.0,0.0,0.41,0.6,1.0436,0.1,2026-11-09T05:18:29+00:00
+2026-11-09T05:18:59+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.41,Edward Winter,polyus,0.55,0.9941,0.0,33707.55,0.0,0.0,0.46,0.55,1.0446,0.1,2026-11-09T05:18:59+00:00
+2026-11-09T05:20:29+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.47,Edward Winter,kalshi,0.47,0.9747,32368.94,0.0,0.0,0.0,0.47,0.54,1.0447,0.1,2026-11-09T05:20:29+00:00
+2026-11-09T05:20:39+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.47,Edward Winter,kalshi,0.47,0.9747,32368.94,0.0,0.0,0.0,0.47,0.54,1.0447,0.1,2026-11-09T05:20:29+00:00
+2026-11-09T05:20:49+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.47,Edward Winter,kalshi,0.47,0.9747,32368.94,0.0,0.0,0.0,0.47,0.54,1.0447,0.1,2026-11-09T05:20:29+00:00
+2026-11-09T05:20:49+00:00,hsiou v smith,True,Keegan Smith,polyus,0.25,Yu Hsiou Hsu,kalshi,0.72,0.9971,0.0,0.0,0.0,0.0,0.27,0.76,1.0565,0.1,2026-11-09T05:20:49+00:00
+2026-11-09T05:21:09+00:00,hsiou v smith,True,Keegan Smith,polyus,0.22,Yu Hsiou Hsu,kalshi,0.75,0.9951,22728.9,0.0,0.0,0.0,0.22,0.79,1.0335,0.1,2026-11-09T05:21:09+00:00
+2026-11-09T05:21:19+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.42,Edward Winter,kalshi,0.54,0.9943,0.0,0.0,0.0,0.0,0.47,0.59,1.0942,0.1,2026-11-09T05:21:19+00:00
+2026-11-09T05:21:19+00:00,hsiou v smith,True,Keegan Smith,polyus,0.22,Yu Hsiou Hsu,kalshi,0.75,0.9951,22728.9,0.0,0.0,0.0,0.22,0.79,1.0335,0.1,2026-11-09T05:21:09+00:00
+2026-11-09T05:21:29+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.42,Edward Winter,kalshi,0.54,0.9943,35262.54,0.0,0.0,0.0,0.42,0.59,1.0439,0.1,2026-11-09T05:21:19+00:00
+2026-11-09T05:21:39+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.42,Edward Winter,kalshi,0.54,0.9943,35262.54,0.0,0.0,0.0,0.42,0.59,1.0439,0.1,2026-11-09T05:21:19+00:00
+2026-11-09T05:23:19+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.42,Edward Winter,polyus,0.53,0.9844,0.0,0.0,0.0,0.0,0.48,0.58,1.0944,0.1,2026-11-09T05:23:19+00:00
+2026-11-09T05:24:09+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.48,Edward Winter,polyus,0.45,0.9647,0.0,0.0,0.0,0.0,0.56,0.53,1.1246,0.2,2026-11-09T05:24:09+00:00
+2026-11-09T05:24:19+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.48,Edward Winter,polyus,0.45,0.9647,0.0,0.0,0.0,0.0,0.56,0.53,1.1246,0.1,2026-11-09T05:24:09+00:00
+2026-11-09T05:24:29+00:00,ayeni v winter,True,Alafia Ayeni,kalshi,0.48,Edward Winter,polyus,0.45,0.9647,0.0,0.0,0.0,0.0,0.56,0.53,1.1246,0.1,2026-11-09T05:24:09+00:00
+2026-11-09T05:24:49+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.49,Edward Winter,kalshi,0.45,0.9747,0.0,0.0,0.0,0.0,0.56,0.52,1.1146,0.1,2026-11-09T05:24:49+00:00
+2026-11-09T05:24:59+00:00,ayeni v winter,True,Alafia Ayeni,polyus,0.49,Edward Winter,kalshi,0.45,0.9747,0.0,0.0,0.0,0.0,0.56,0.52,1.1146,0.1,2026-11-09T05:24:49+00:00
