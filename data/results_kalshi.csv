@@ -3300,7 +3300,6 @@ KXATPCHALLENGERMATCH-26OCT31ERECHE,atp,2026-11-01,ATP Challenger Taipei,Qualific
 KXATPCHALLENGERMATCH-26OCT31IMASTA,atp,2026-11-01,ATP Challenger Taipei,Qualification,Masamichi Imamura,Luca Staeheli
 KXATPCHALLENGERMATCH-26OCT31SAKSHI,atp,2026-11-01,ATP Challenger Taipei,Qualification,Yuta Shimizu,Dimitris Sakellaridis
 KXATPCHALLENGERMATCH-26OCT31SANZHU,atp,2026-11-01,ATP Challenger Taipei,Qualification,Evan Zhu,Akira Santillan
-KXWTACHALLENGERMATCH-26NOV01ALVPER,wta,2026-11-01,WTA 125K Cali,Qualification,Carolina Alves,Maria Paulina Perez Garcia
 KXWTACHALLENGERMATCH-26NOV01HERRIC,wta,2026-11-01,WTA 125K Cali,Qualification,Polona Hercog,Maria Jose Rico Sanchez
 KXWTACHALLENGERMATCH-26NOV01HERSCO,wta,2026-11-01,WTA 125K Cali,Qualification,Maria Fernanda Herazo Gonzalez,Katrina Scott
 KXWTACHALLENGERMATCH-26NOV01MANJAN,wta,2026-11-01,WTA 125K Cali,Qualification,Selena Janicijevic,Elizabeth Mandlik
@@ -3364,6 +3363,7 @@ KXATPCHALLENGERMATCH-26NOV02TOBSTO,atp,2026-11-02,ATP Challenger Costa do Sauipe
 KXATPCHALLENGERMATCH-26NOV02TROBAR,atp,2026-11-02,ATP Challenger Charlottesville,Qualification,James Kent Trotter,Ozan Baris
 KXATPCHALLENGERMATCH-26NOV02VASSCI,atp,2026-11-02,ATP Challenger Taranto,Qualification,Jacopo Vasami,Matteo Sciahbasi
 KXATPCHALLENGERMATCH-26NOV02VASURS,atp,2026-11-02,ATP Challenger Bratislava II,Qualification,Eero Vasa,Vadym Ursu
+KXWTACHALLENGERMATCH-26NOV01ALVPER,wta,2026-11-02,WTA 125K Cali,Qualification,Carolina Alves,Maria Paulina Perez Garcia
 KXWTACHALLENGERMATCH-26NOV01MARAND,wta,2026-11-02,WTA 125K Queretaro,Final,Bianca Andreescu,Tatjana Maria
 KXWTACHALLENGERMATCH-26NOV02ALVPER,wta,2026-11-02,WTA 125K Cali,Round Of 32,Carolina Alves,Maria Paulina Perez Garcia
 KXWTACHALLENGERMATCH-26NOV02BOERAC,wta,2026-11-02,WTA 125K Luanda,Qualification,Laura Boehner,Prathyusha Rachapudi
@@ -3641,9 +3641,12 @@ KXATPCHALLENGERMATCH-26NOV09GIUFOR,atp,2026-11-09,ATP Challenger Hersonissos 1/1
 KXATPCHALLENGERMATCH-26NOV09GREKRU,atp,2026-11-09,ATP Challenger Orleans,Final,Hugo Grenier,Martin Krumich
 KXATPCHALLENGERMATCH-26NOV09HEMPOU,atp,2026-11-09,ATP Challenger Orleans,Final,Calvin Hemery,Lucas Poullain
 KXATPCHALLENGERMATCH-26NOV09HOUGEN,atp,2026-11-09,ATP Challenger Orleans 1/16,Finals,Tom Gentzsch,Max Houkes
+KXATPCHALLENGERMATCH-26NOV09HUSBLA,atp,2026-11-09,ATP Challenger Knoxville,Final,Giles Hussey,Geoffrey Blancaneaux
+KXATPCHALLENGERMATCH-26NOV09JARZEI,atp,2026-11-09,ATP Challenger Lima,Final,Nicolas Jarry,Maximo Zeitune
 KXATPCHALLENGERMATCH-26NOV09KELVIV,atp,2026-11-09,ATP Challenger Monastir,Final,Pedro Vives Marcos,Yannik Kelm
 KXATPCHALLENGERMATCH-26NOV09KITGOB,atp,2026-11-09,ATP Challenger Orleans,Final,Adrien Gobat,Benjamin Kittay
 KXATPCHALLENGERMATCH-26NOV09KOPMIK,atp,2026-11-09,ATP Challenger Monastir 1/16,Finals,Luka Mikrut,Sandro Kopp
+KXATPCHALLENGERMATCH-26NOV09KOUSTR,atp,2026-11-09,ATP Challenger Monastir 1/16,Finals,Moise Kouame,Robert Strombachs
 KXATPCHALLENGERMATCH-26NOV09KRUMAX,atp,2026-11-09,ATP Challenger Knoxville,Final,Lui Maxted,Mitchell Krueger
 KXATPCHALLENGERMATCH-26NOV09KRUPAL,atp,2026-11-09,ATP Challenger Hersonissos,Final,Oskari Paldanius,Oleksii Krutykh
 KXATPCHALLENGERMATCH-26NOV09LEGHUD,atp,2026-11-09,ATP Challenger Knoxville,Final,Timo Legout,Emile Hudd
@@ -3663,8 +3666,11 @@ KXATPCHALLENGERMATCH-26NOV09ROCHER,atp,2026-11-09,ATP Challenger Lima,Final,Orio
 KXATPCHALLENGERMATCH-26NOV09RONGOM,atp,2026-11-09,ATP Challenger Lima,Final,Franco Roncadelli,Juan Sebastian Gomez
 KXATPCHALLENGERMATCH-26NOV09SAHBAR,atp,2026-11-09,ATP Challenger Monastir,Final,Nikolai Barsukov,Toufik Sahtali
 KXATPCHALLENGERMATCH-26NOV09SANDLF,atp,2026-11-09,ATP Challenger Lima,Final,Santiago De la Fuente,Carlos Sanchez Jover
+KXATPCHALLENGERMATCH-26NOV09TABNEU,atp,2026-11-09,ATP Challenger Orleans 1/16,Finals,Clement Tabur,Lukas Neumayer
 KXATPCHALLENGERMATCH-26NOV09TABNIK,atp,2026-11-09,ATP Challenger Lima,Final,Ryo Tabata,Johan Nikles
+KXWTACHALLENGERMATCH-26NOV09COSESQ,wta,2026-11-09,WTA Challenger Sopo,Round Of 32,Sofia Costoulas,Antonella Esquivel Usech
 KXWTACHALLENGERMATCH-26NOV09HERBAS,wta,2026-11-09,WTA Challenger Sopo 1/16,Finals,Marina Bassols Ribera,Maria Fernanda Herazo Gonzalez
 KXWTACHALLENGERMATCH-26NOV09HERLEP,wta,2026-11-09,WTA Challenger Sopo 1/16,Finals,Polona Hercog,Varvara Lepchenko
+KXWTACHALLENGERMATCH-26NOV09MANERJ,wta,2026-11-09,WTA Challenger Sopo,Round Of 32,Elizabeth Mandlik,Veronika Erjavec
 KXWTACHALLENGERMATCH-26NOV09MARGIO,wta,2026-11-09,WTA Challenger Sopo,Round Of 32,Tatjana Maria,Luisina Giovannini
 KXWTACHALLENGERMATCH-26NOV09PIGJAK,wta,2026-11-09,WTA Challenger Sopo 1/16,Finals,Laura Pigossi,Dalila Jakupovic
