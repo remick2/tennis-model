@@ -1,0 +1,38 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-09T00:00:02+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.09,Kenta (2004) Miyoshi,kalshi,0.88,0.9831,0.0,0.0,0,0.0,0.13,0.92,1.063,0.1,2026-11-09T00:00:02+00:00
+2026-11-09T00:00:12+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.1,Kenta (2004) Miyoshi,kalshi,0.88,0.9936,27794.879999999997,0.0,0,0.0,0.09,0.91,1.0114,0.1,2026-11-09T00:00:02+00:00
+2026-11-09T00:00:32+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.07,Kenta (2004) Miyoshi,kalshi,0.91,0.9903,0.0,0.0,0,0.0,0.09,0.94,1.0396,0.1,2026-11-09T00:00:32+00:00
+2026-11-09T00:00:42+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.07,Kenta (2004) Miyoshi,kalshi,0.91,0.9903,52972.65,0.0,0,0.0,0.07,0.94,1.0185,0.1,2026-11-09T00:00:32+00:00
+2026-11-09T00:00:52+00:00,gauff v pegula,True,Coco Gauff,polyus,0.59,Jessica Pegula,kalshi,0.36,0.9829,0.0,0.0,0,0.0,0.66,0.42,1.1126,0.1,2026-11-09T00:00:52+00:00
+2026-11-09T00:00:52+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.07,Kenta (2004) Miyoshi,kalshi,0.91,0.9903,52972.65,0.0,0,0.0,0.07,0.94,1.0185,0.1,2026-11-09T00:00:32+00:00
+2026-11-09T00:01:12+00:00,fenty v miyoshi,True,Andrew Fenty,kalshi,0.07,Kenta Miyoshi,polyus,0.92,0.9997,0.0,46560.97,0,0.0,0.09,0.92,1.0208,0.1,2026-11-09T00:01:12+00:00
+2026-11-09T00:01:22+00:00,fenty v miyoshi,True,Andrew Fenty,kalshi,0.07,Kenta Miyoshi,polyus,0.92,0.9997,0.0,46560.97,0,0.0,0.09,0.92,1.0208,0.1,2026-11-09T00:01:12+00:00
+2026-11-09T00:01:42+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.62,Jessica Pegula,polyus,0.33,0.9819,0.0,0.0,0,0.0,0.67,0.39,1.092,0.1,2026-11-09T00:01:42+00:00
+2026-11-09T00:01:52+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.62,Jessica Pegula,polyus,0.33,0.9819,0.0,0.0,0,0.0,0.68,0.39,1.1018,0.1,2026-11-09T00:01:42+00:00
+2026-11-09T00:01:52+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.07,Kenta (2004) Miyoshi,kalshi,0.92,0.9997,0.0,0.0,0,0.0,0.12,0.94,1.0713,0.1,2026-11-09T00:01:52+00:00
+2026-11-09T00:02:02+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.62,Jessica Pegula,polyus,0.33,0.9819,0.0,91238.28,0,0.0,0.68,0.33,1.0406,0.1,2026-11-09T00:01:42+00:00
+2026-11-09T00:02:12+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.62,Jessica Pegula,polyus,0.31,0.9614,0.0,0.0,0,0.0,0.7,0.33,1.0601,0.1,2026-11-09T00:01:42+00:00
+2026-11-09T00:02:22+00:00,fenty v miyoshi,True,Andrew Fenty,kalshi,0.07,Kenta Miyoshi,polyus,0.91,0.9902,0.0,0.0,0,0.0,0.1,0.94,1.0502,0.1,2026-11-09T00:02:22+00:00
+2026-11-09T00:02:32+00:00,gauff v pegula,True,Coco Gauff,polyus,0.6,Jessica Pegula,kalshi,0.33,0.9622,52865.24,0.0,0,0.0,0.6,0.41,1.0436,0.1,2026-11-09T00:02:32+00:00
+2026-11-09T00:02:32+00:00,fenty v miyoshi,True,Andrew Fenty,kalshi,0.07,Kenta Miyoshi,polyus,0.91,0.9902,0.0,0.0,0,0.0,0.1,0.94,1.0502,0.1,2026-11-09T00:02:22+00:00
+2026-11-09T00:02:42+00:00,gauff v pegula,True,Coco Gauff,polyus,0.6,Jessica Pegula,kalshi,0.33,0.9622,52865.24,0.0,0,0.0,0.6,0.41,1.0436,0.1,2026-11-09T00:02:32+00:00
+2026-11-09T00:02:52+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.6,Jessica Pegula,polyus,0.34,0.9724,0.0,0.0,0,0.0,0.67,0.41,1.1123,0.1,2026-11-09T00:02:52+00:00
+2026-11-09T00:02:52+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.07,Kenta (2004) Miyoshi,kalshi,0.91,0.9903,0.0,0.0,0,0.0,0.11,0.94,1.0608,0.1,2026-11-09T00:02:52+00:00
+2026-11-09T00:03:02+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.6,Jessica Pegula,polyus,0.33,0.9622,0.0,0.0,0,0.0,0.68,0.34,1.0508,0.1,2026-11-09T00:02:52+00:00
+2026-11-09T00:03:02+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.07,Kenta (2004) Miyoshi,kalshi,0.91,0.9903,0.0,0.0,0,0.0,0.11,0.94,1.0608,0.1,2026-11-09T00:02:52+00:00
+2026-11-09T00:03:12+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.6,Jessica Pegula,polyus,0.33,0.9622,0.0,0.0,0,0.0,0.68,0.34,1.0508,0.1,2026-11-09T00:02:52+00:00
+2026-11-09T00:03:22+00:00,fenty v miyoshi,True,Andrew Fenty,kalshi,0.07,Kenta Miyoshi,polyus,0.91,0.9902,0.0,0.0,0,0.0,0.1,0.93,1.0408,0.1,2026-11-09T00:03:22+00:00
+2026-11-09T00:03:32+00:00,gauff v pegula,True,Coco Gauff,polyus,0.55,Jessica Pegula,kalshi,0.33,0.9127,0.0,0.0,0,0.0,0.66,0.46,1.153,0.1,2026-11-09T00:03:32+00:00
+2026-11-09T00:03:32+00:00,fenty v miyoshi,True,Andrew Fenty,kalshi,0.07,Kenta Miyoshi,polyus,0.91,0.9902,0.0,0.0,0,0.0,0.1,0.93,1.0408,0.1,2026-11-09T00:03:22+00:00
+2026-11-09T00:03:42+00:00,gauff v pegula,True,Coco Gauff,polyus,0.55,Jessica Pegula,kalshi,0.33,0.9127,0.0,0.0,0,0.0,0.66,0.46,1.153,0.1,2026-11-09T00:03:32+00:00
+2026-11-09T00:04:42+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.06,Kenta (2004) Miyoshi,kalshi,0.93,0.9985,9267.25,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-09T00:04:42+00:00
+2026-11-09T00:04:52+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.06,Kenta (2004) Miyoshi,kalshi,0.93,0.9985,9267.25,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-09T00:04:42+00:00
+2026-11-09T00:05:02+00:00,fenty v miyoshi,True,Andrew Fenty,polyus,0.06,Kenta (2004) Miyoshi,kalshi,0.93,0.9985,9267.25,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-09T00:04:42+00:00
+2026-11-09T00:07:42+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.57,Jessica Pegula,polyus,0.39,0.9937,0.0,0.0,0,0.0,0.61,0.44,1.0838,0.1,2026-11-09T00:07:42+00:00
+2026-11-09T00:07:52+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.57,Jessica Pegula,polyus,0.39,0.9937,0.0,0.0,0,0.0,0.61,0.44,1.0838,0.1,2026-11-09T00:07:42+00:00
+2026-11-09T00:08:42+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.63,Jessica Pegula,polyus,0.32,0.9814,0.0,0.0,0,0.0,0.68,0.34,1.0508,0.1,2026-11-09T00:08:42+00:00
+2026-11-09T00:09:32+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.64,Jessica Pegula,polyus,0.31,0.981,0.0,63259.23,0,0.0,0.7,0.31,1.0396,0.1,2026-11-09T00:09:32+00:00
+2026-11-09T00:09:42+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.64,Jessica Pegula,polyus,0.31,0.981,0.0,63259.23,0,0.0,0.7,0.31,1.0396,0.1,2026-11-09T00:09:32+00:00
+2026-11-09T00:10:12+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.7,Jessica Pegula,polyus,0.26,0.9881,0.0,0.0,0,0.0,0.75,0.29,1.0674,0.1,2026-11-09T00:10:12+00:00
+2026-11-09T00:12:12+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.74,Jessica Pegula,polyus,0.23,0.9958,0.0,71676.11,0,0.0,0.78,0.23,1.0343,0.1,2026-11-09T00:12:12+00:00
+2026-11-09T00:12:22+00:00,gauff v pegula,True,Coco Gauff,kalshi,0.74,Jessica Pegula,polyus,0.23,0.9958,0.0,71676.11,0,0.0,0.78,0.23,1.0343,0.1,2026-11-09T00:12:12+00:00
