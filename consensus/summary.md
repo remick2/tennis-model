@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 8, 6:40PM MT
+# Consensus paper tracker — Sun Nov 8, 7:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,8 +9,8 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-0 | +0.27 | 3-0 | +0.49 | 0 |
-| Track only | all 15 | 4-3 | +0.04 | 7-2 | +3.34 | 1 |
-| Split | all 15 | 7-4 | +2.83 | 4-2 | -0.73 | 2 |
+| Track only | all 15 | 4-3 | +0.04 | 7-3 | +2.34 | 0 |
+| Split | all 15 | 7-4 | +2.83 | 4-3 | -1.73 | 2 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 2-0 | +0.39 | 0 |
 | Split | core 10 only | 1-1 | -0.10 | 2-0 | +0.40 | 0 |
@@ -56,5 +56,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 |---|---|---|---|---|---|---|---|---|---|
 | old | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
 | new | 2026-11-08 | NBA | Heat vs. Kings | Kings (+10.5) (Spread) | Split | pre-game | drainedandpoor; ianf2026 | purplegatto | 48.5c |
-| new | 2026-11-08 | NBA | Jazz vs. Timberwolves | Jazz (Moneyline) | Split | in-play | purplegatto; JoeyAroyyOO | jakepaulthegoat2008 | 14.5c |
-| new | 2026-11-08 | NBA | Jazz vs. Timberwolves | Over 222.5 (Total) | Track only | in-play | ianf2026; JoeyAroyyOO | — | 35.0c |
+| new | 2026-11-08 | NBA | Pelicans vs. Clippers | Clippers (Moneyline) | Split | in-play | drainedandpoor; ch27er | jakepaulthegoat2008 | 46.5c |
