@@ -2394,3 +2394,68 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T18:46:38+00:00,gentzsch v houkes,True,Max Houkes,polyus,0.03,Tom Gentzsch,kalshi,0.92,0.9572,36556.84,0.0,0.0,0.0,0.03,0.98,1.0134,0.1,2026-11-09T18:46:38+00:00
 2026-11-09T18:46:38+00:00,neumayer v tabur,True,Clement Tabur,kalshi,0.77,Lukas Neumayer,polyus,0.19,0.9831,0.0,0.0,0.0,0.0,0.82,0.22,1.0623,0.1,2026-11-09T18:46:28+00:00
 2026-11-09T18:47:18+00:00,kouame v strombachs,True,Moise Kouame,kalshi,0.75,Robert Strombachs,polyus,0.22,0.9951,0.0,0.0,0.0,0.0,0.79,0.25,1.0646,0.1,2026-11-09T18:47:18+00:00
+2026-11-09T18:48:39+00:00,kouame v strombachs,True,Moise Kouame,kalshi,0.83,Robert Strombachs,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,0.18,1.0682,0.2,2026-11-09T18:48:39+00:00
+2026-11-09T18:48:49+00:00,kouame v strombachs,True,Moise Kouame,kalshi,0.83,Robert Strombachs,polyus,0.14,0.9882,0.0,17830.36,0.0,0.0,0.87,0.14,1.0263,0.1,2026-11-09T18:48:39+00:00
+2026-11-09T18:48:49+00:00,bassols v fernanda,True,Maria Fernanda Herazo Gonzalez,kalshi,0.03,Marina Bassols Ribera,polyus,0.96,0.9947,0.0,0.0,0.0,0.0,0.04,0.98,1.0241,0.1,2026-11-09T18:48:49+00:00
+2026-11-09T18:48:59+00:00,bassols v fernanda,True,Maria Fernanda Herazo Gonzalez,kalshi,0.03,Marina Bassols Ribera,polyus,0.96,0.9947,0.0,28109.4,0.0,0.0,0.04,0.96,1.0054,0.1,2026-11-09T18:48:49+00:00
+2026-11-09T18:51:19+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.73,Lukas Neumayer,kalshi,0.24,0.9965,0.0,0.0,0.0,0.0,0.77,0.28,1.0764,0.1,2026-11-09T18:51:19+00:00
+2026-11-09T18:51:29+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.73,Lukas Neumayer,kalshi,0.24,0.9965,11683.01,0.0,0.0,0.0,0.73,0.28,1.0378,0.1,2026-11-09T18:51:19+00:00
+2026-11-09T18:51:59+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.65,Lukas Neumayer,kalshi,0.28,0.9599,24640.74,0.0,0.0,0.0,0.65,0.36,1.0419,0.1,2026-11-09T18:51:59+00:00
+2026-11-09T18:52:09+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.65,Lukas Neumayer,kalshi,0.28,0.9599,24640.74,0.0,0.0,0.0,0.65,0.36,1.0419,0.1,2026-11-09T18:51:59+00:00
+2026-11-09T18:52:29+00:00,blancaneaux v hussey,True,Geoffrey Blancaneaux,polyus,0.27,Giles Hussey,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,0.28,0.73,1.0378,0.1,2026-11-09T18:52:29+00:00
+2026-11-09T18:52:39+00:00,blancaneaux v hussey,True,Geoffrey Blancaneaux,polyus,0.27,Giles Hussey,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,0.28,0.73,1.0378,0.1,2026-11-09T18:52:29+00:00
+2026-11-09T18:52:49+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.12,Tomas Etcheverry,polyus,0.86,0.9958,0.0,0.0,0.0,0.0,0.15,0.89,1.0557,0.1,2026-11-09T18:52:49+00:00
+2026-11-09T18:52:59+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.12,Tomas Etcheverry,polyus,0.85,0.9863,0.0,0.0,0.0,0.0,0.16,0.89,1.0662,0.1,2026-11-09T18:52:49+00:00
+2026-11-09T18:52:59+00:00,blancaneaux v hussey,True,Geoffrey Blancaneaux,kalshi,0.27,Giles Hussey,polyus,0.7,0.9984,0.0,0.0,0.0,0.0,0.31,0.75,1.088,0.1,2026-11-09T18:52:59+00:00
+2026-11-09T18:53:09+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.12,Tomas Etcheverry,polyus,0.85,0.9863,0.0,15573.58,0.0,0.0,0.16,0.85,1.0283,0.1,2026-11-09T18:52:49+00:00
+2026-11-09T18:53:09+00:00,blancaneaux v hussey,True,Geoffrey Blancaneaux,kalshi,0.27,Giles Hussey,polyus,0.7,0.9984,0.0,0.0,0.0,0.0,0.31,0.75,1.088,0.1,2026-11-09T18:52:59+00:00
+2026-11-09T18:53:29+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.21,Nicolas Jarry,polyus,0.76,0.9943,0.0,50.0,0.0,0.0,0.27,0.76,1.0565,0.1,2026-11-09T18:53:29+00:00
+2026-11-09T18:53:39+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.21,Nicolas Jarry,polyus,0.74,0.975,0.0,0.0,0.0,0.0,0.27,0.76,1.0565,0.1,2026-11-09T18:53:29+00:00
+2026-11-09T18:53:39+00:00,dahlin v etcheverry,True,Max Dahlin,polyus,0.13,Tomas Martin Etcheverry,kalshi,0.85,0.9968,68920.27,0.0,0.0,0.0,0.13,0.88,1.0253,0.1,2026-11-09T18:53:39+00:00
+2026-11-09T18:53:59+00:00,blancaneaux v hussey,True,Geoffrey Blancaneaux,polyus,0.28,Giles Hussey,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,0.33,0.73,1.0892,0.1,2026-11-09T18:53:59+00:00
+2026-11-09T18:54:09+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.27,Nicolas Jarry,polyus,0.69,0.9887,0.0,0.0,0.0,0.0,0.37,0.73,1.13,0.1,2026-11-09T18:54:09+00:00
+2026-11-09T18:54:09+00:00,blancaneaux v hussey,True,Geoffrey Blancaneaux,polyus,0.27,Giles Hussey,kalshi,0.69,0.9887,0.0,0.0,0.0,0.0,0.33,0.73,1.0892,0.1,2026-11-09T18:53:59+00:00
+2026-11-09T18:54:39+00:00,dahlin v etcheverry,True,Max Dahlin,polyus,0.06,Tomas Martin Etcheverry,kalshi,0.9,0.9702,42746.94,0.0,0.0,0.0,0.06,0.95,1.0172,0.1,2026-11-09T18:54:39+00:00
+2026-11-09T18:54:49+00:00,dahlin v etcheverry,True,Max Dahlin,polyus,0.06,Tomas Martin Etcheverry,kalshi,0.9,0.9702,42746.94,0.0,0.0,0.0,0.06,0.95,1.0172,0.1,2026-11-09T18:54:39+00:00
+2026-11-09T18:54:59+00:00,milavsky v miyoshi,True,Daniel Milavsky,polyus,0.66,Kenta (2004) Miyoshi,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,0.69,0.35,1.0708,0.1,2026-11-09T18:54:59+00:00
+2026-11-09T18:55:29+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.05,Tomas Etcheverry,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,0.95,1.0279,0.1,2026-11-09T18:55:29+00:00
+2026-11-09T18:55:39+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.05,Tomas Etcheverry,polyus,0.93,0.9878,0.0,71038.69,0.0,0.0,0.08,0.93,1.0197,0.1,2026-11-09T18:55:29+00:00
+2026-11-09T18:55:49+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.05,Tomas Etcheverry,polyus,0.93,0.9878,0.0,71038.69,0.0,0.0,0.08,0.93,1.0197,0.1,2026-11-09T18:55:29+00:00
+2026-11-09T18:56:09+00:00,dahlin v etcheverry,True,Max Dahlin,polyus,0.05,Tomas Martin Etcheverry,kalshi,0.93,0.9879,46989.29,0.0,0.0,0.0,0.05,0.96,1.016,0.1,2026-11-09T18:56:09+00:00
+2026-11-09T18:56:19+00:00,dahlin v etcheverry,True,Max Dahlin,polyus,0.05,Tomas Martin Etcheverry,kalshi,0.93,0.9879,46989.29,0.0,0.0,0.0,0.05,0.96,1.016,0.1,2026-11-09T18:56:09+00:00
+2026-11-09T18:56:59+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.6,Lukas Neumayer,kalshi,0.35,0.9826,0.0,0.0,0.0,0.0,0.62,0.41,1.0633,0.1,2026-11-09T18:56:59+00:00
+2026-11-09T18:57:09+00:00,neumayer v tabur,True,Clement Tabur,polyus,0.59,Lukas Neumayer,kalshi,0.35,0.9727,0.0,0.0,0.0,0.0,0.62,0.42,1.0734,0.1,2026-11-09T18:56:59+00:00
+2026-11-09T18:57:19+00:00,erjavec v mandlik,True,Elizabeth Mandlik,kalshi,0.48,Veronika Erjavec,polyus,0.47,0.9848,0.0,0.0,0.0,0.0,0.54,0.51,1.0848,0.1,2026-11-09T18:57:19+00:00
+2026-11-09T18:57:29+00:00,erjavec v mandlik,True,Elizabeth Mandlik,kalshi,0.48,Veronika Erjavec,polyus,0.47,0.9848,0.0,0.0,0.0,0.0,0.54,0.51,1.0848,0.1,2026-11-09T18:57:19+00:00
+2026-11-09T18:57:39+00:00,jarry v zeitune,True,Maximo Zeitune,polyus,0.22,Nicolas Jarry,kalshi,0.69,0.9369,0.0,0.0,0.0,0.0,0.28,0.81,1.1148,0.1,2026-11-09T18:57:39+00:00
+2026-11-09T18:57:39+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.05,Tomas Etcheverry,polyus,0.91,0.969,0.0,74826.7,0.0,0.0,0.1,0.91,1.022,0.2,2026-11-09T18:57:39+00:00
+2026-11-09T18:57:49+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.06,Tomas Etcheverry,polyus,0.91,0.9796,0.0,74826.7,0.0,0.0,0.1,0.91,1.022,0.1,2026-11-09T18:57:39+00:00
+2026-11-09T18:57:59+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.06,Tomas Etcheverry,polyus,0.91,0.9796,0.0,74826.7,0.0,0.0,0.1,0.91,1.022,0.1,2026-11-09T18:57:39+00:00
+2026-11-09T18:58:09+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.06,Tomas Etcheverry,polyus,0.92,0.9891,0.0,39126.73,0.0,0.0,0.09,0.92,1.0208,0.2,2026-11-09T18:57:39+00:00
+2026-11-09T18:58:19+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.09,Tomas Etcheverry,polyus,0.87,0.9736,0.0,0.0,0.0,0.0,0.14,0.92,1.0735,0.1,2026-11-09T18:57:39+00:00
+2026-11-09T18:58:29+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.09,Tomas Etcheverry,polyus,0.87,0.9736,0.0,0.0,0.0,0.0,0.14,0.92,1.0735,0.1,2026-11-09T18:57:39+00:00
+2026-11-09T18:58:39+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.09,Tomas Etcheverry,polyus,0.88,0.9831,0.0,108.1,0.0,0.0,0.14,0.88,1.0358,0.1,2026-11-09T18:57:39+00:00
+2026-11-09T18:58:49+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.14,Tomas Etcheverry,polyus,0.83,0.9882,0.0,0.0,0.0,0.0,0.18,0.88,1.0777,0.1,2026-11-09T18:57:39+00:00
+2026-11-09T18:58:59+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.14,Tomas Etcheverry,polyus,0.83,0.9882,0.0,0.0,0.0,0.0,0.18,0.88,1.0777,0.1,2026-11-09T18:57:39+00:00
+2026-11-09T18:59:09+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.14,Tomas Etcheverry,polyus,0.83,0.9882,0.0,69916.25,0.0,0.0,0.18,0.83,1.0301,0.2,2026-11-09T18:57:39+00:00
+2026-11-09T18:59:09+00:00,erjavec v mandlik,True,Elizabeth Mandlik,polyus,0.49,Veronika Erjavec,kalshi,0.47,0.9948,0.0,0.0,0.0,0.0,0.56,0.52,1.1146,0.1,2026-11-09T18:59:09+00:00
+2026-11-09T18:59:29+00:00,dahlin v etcheverry,True,Max Dahlin,polyus,0.15,Tomas Martin Etcheverry,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,0.86,1.0587,0.1,2026-11-09T18:59:29+00:00
+2026-11-09T18:59:39+00:00,dahlin v etcheverry,True,Max Dahlin,polyus,0.15,Tomas Martin Etcheverry,kalshi,0.83,0.9987,117383.04,0.0,0.0,0.0,0.15,0.86,1.0273,0.2,2026-11-09T18:59:29+00:00
+2026-11-09T18:59:49+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.18,Nicolas Jarry,polyus,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,0.81,1.0527,0.1,2026-11-09T18:59:49+00:00
+2026-11-09T18:59:49+00:00,erjavec v mandlik,True,Elizabeth Mandlik,polyus,0.45,Veronika Erjavec,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,0.49,0.56,1.0846,0.1,2026-11-09T18:59:49+00:00
+2026-11-09T18:59:59+00:00,dahlin v etcheverry,True,Max Dahlin,polyus,0.1,Tomas Martin Etcheverry,kalshi,0.86,0.9747,0.0,0.0,0.0,0.0,0.15,0.91,1.0746,0.1,2026-11-09T18:59:59+00:00
+2026-11-09T18:59:59+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.18,Nicolas Jarry,polyus,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,0.81,1.0527,0.1,2026-11-09T18:59:49+00:00
+2026-11-09T18:59:59+00:00,erjavec v mandlik,True,Elizabeth Mandlik,polyus,0.45,Veronika Erjavec,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,0.49,0.56,1.0846,0.1,2026-11-09T18:59:49+00:00
+2026-11-09T19:00:09+00:00,dahlin v etcheverry,True,Max Dahlin,polyus,0.1,Tomas Martin Etcheverry,kalshi,0.86,0.9747,83920.91,0.0,0.0,0.0,0.1,0.91,1.022,0.2,2026-11-09T18:59:59+00:00
+2026-11-09T19:00:09+00:00,erjavec v mandlik,True,Elizabeth Mandlik,polyus,0.45,Veronika Erjavec,kalshi,0.51,0.9947,24563.71,0.0,0.0,0.0,0.45,0.55,1.0345,0.1,2026-11-09T18:59:49+00:00
+2026-11-09T19:00:19+00:00,dahlin v etcheverry,True,Max Dahlin,polyus,0.1,Tomas Martin Etcheverry,kalshi,0.86,0.9747,83920.91,0.0,0.0,0.0,0.1,0.91,1.022,0.1,2026-11-09T18:59:59+00:00
+2026-11-09T19:00:19+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.23,Nicolas Jarry,polyus,0.72,0.9764,0.0,0.0,0.0,0.0,0.31,0.79,1.1265,0.1,2026-11-09T19:00:19+00:00
+2026-11-09T19:00:29+00:00,jarry v zeitune,True,Maximo Zeitune,kalshi,0.23,Nicolas Jarry,polyus,0.59,0.8492,0.0,0.0,0.0,0.0,0.45,0.79,1.2689,0.1,2026-11-09T19:00:19+00:00
+2026-11-09T19:00:49+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.1,Tomas Etcheverry,polyus,0.87,0.9842,0.0,0.0,0.0,0.0,0.14,0.93,1.083,0.1,2026-11-09T19:00:49+00:00
+2026-11-09T19:01:19+00:00,erjavec v mandlik,True,Elizabeth Mandlik,kalshi,0.48,Veronika Erjavec,polyus,0.47,0.9848,0.0,0.0,0.0,0.0,0.54,0.53,1.1047,0.1,2026-11-09T19:01:19+00:00
+2026-11-09T19:01:29+00:00,milavsky v miyoshi,True,Daniel Milavsky,kalshi,0.72,Kenta Miyoshi,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.76,0.29,1.0771,0.1,2026-11-09T19:01:29+00:00
+2026-11-09T19:01:49+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.14,Tomas Etcheverry,polyus,0.81,0.9691,0.0,0.0,0.0,0.0,0.2,0.87,1.0891,0.1,2026-11-09T19:01:49+00:00
+2026-11-09T19:01:49+00:00,erjavec v mandlik,True,Elizabeth Mandlik,polyus,0.47,Veronika Erjavec,kalshi,0.48,0.9848,0.0,0.0,0.0,0.0,0.55,0.54,1.1246,0.1,2026-11-09T19:01:49+00:00
+2026-11-09T19:01:59+00:00,dahlin v etcheverry,True,Max Dahlin,kalshi,0.14,Tomas Etcheverry,polyus,0.81,0.9691,0.0,0.0,0.0,0.0,0.2,0.87,1.0891,0.1,2026-11-09T19:01:49+00:00
+2026-11-09T19:02:19+00:00,erjavec v mandlik,True,Elizabeth Mandlik,polyus,0.41,Veronika Erjavec,kalshi,0.54,0.9842,0.0,0.0,0.0,0.0,0.47,0.59,1.0942,0.1,2026-11-09T19:02:19+00:00
+2026-11-09T19:02:29+00:00,erjavec v mandlik,True,Elizabeth Mandlik,polyus,0.41,Veronika Erjavec,kalshi,0.54,0.9842,0.0,0.0,0.0,0.0,0.47,0.59,1.0942,0.1,2026-11-09T19:02:19+00:00
