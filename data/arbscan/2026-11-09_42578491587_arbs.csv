@@ -694,3 +694,82 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T12:51:04+00:00,kelm v marcos,True,Pedro Vives Marcos,polyus,0.82,Yannik Kelm,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,0.19,1.0691,0.0,2026-11-09T12:50:54+00:00
 2026-11-09T12:51:24+00:00,forti v giunta,True,Francesco Forti,kalshi,0.07,Massimo Giunta,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,0.94,1.0397,0.0,2026-11-09T12:51:24+00:00
 2026-11-09T12:51:34+00:00,forti v giunta,True,Francesco Forti,kalshi,0.07,Massimo Giunta,polyus,0.92,0.9997,0.0,42459.08,0.0,0.0,0.09,0.92,1.0208,0.0,2026-11-09T12:51:24+00:00
+2026-11-09T12:52:14+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.35,Nikita Mashtakov,polyus,0.6,0.9826,0.0,0.0,0.0,0.0,0.4,0.62,1.0532,0.0,2026-11-09T12:52:14+00:00
+2026-11-09T12:52:14+00:00,duckworth v norrie,True,Cameron Norrie,kalshi,0.94,James Duckworth,polyus,0.05,0.9972,0.0,25001.7,0.0,0.0,0.96,0.05,1.016,0.0,2026-11-09T12:52:14+00:00
+2026-11-09T12:52:24+00:00,forti v giunta,True,Francesco Forti,polyus,0.07,Massimo Giunta,kalshi,0.91,0.9903,0.0,0.0,0.0,0.0,0.09,0.93,1.0302,0.0,2026-11-09T12:52:24+00:00
+2026-11-09T12:52:24+00:00,dalmasso v echeverria,True,Guillaume Dalmasso,polyus,0.07,John Echeverria,kalshi,0.92,0.9997,0.01,5110.18,0.01,0.0,0.07,0.92,0.9997,0.0,2026-11-09T12:52:24+00:00
+2026-11-09T12:52:34+00:00,djuric v tepmahc,True,Branko Djuric,kalshi,0.42,Nicolas Tepmahc,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.49,0.6,1.1242,0.1,2026-11-09T12:52:34+00:00
+2026-11-09T12:52:34+00:00,forti v giunta,True,Francesco Forti,polyus,0.07,Massimo Giunta,kalshi,0.91,0.9903,1018.01,0.0,0.0,0.0,0.07,0.93,1.0091,0.0,2026-11-09T12:52:24+00:00
+2026-11-09T12:52:34+00:00,dalmasso v echeverria,True,Guillaume Dalmasso,polyus,0.07,John Echeverria,kalshi,0.92,0.9997,0.01,5110.18,0.01,0.0,0.07,0.92,0.9997,0.0,2026-11-09T12:52:24+00:00
+2026-11-09T12:52:44+00:00,djuric v tepmahc,True,Branko Djuric,kalshi,0.42,Nicolas Tepmahc,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.49,0.6,1.1242,0.1,2026-11-09T12:52:34+00:00
+2026-11-09T12:52:44+00:00,forti v giunta,True,Francesco Forti,polyus,0.07,Massimo Giunta,kalshi,0.91,0.9903,1018.01,0.0,0.0,0.0,0.07,0.93,1.0091,0.0,2026-11-09T12:52:24+00:00
+2026-11-09T12:52:44+00:00,dalmasso v echeverria,True,Guillaume Dalmasso,polyus,0.07,John Echeverria,kalshi,0.92,0.9997,0.01,1625.33,0.01,0.0,0.07,0.92,0.9997,0.0,2026-11-09T12:52:24+00:00
+2026-11-09T12:52:54+00:00,djuric v tepmahc,True,Branko Djuric,polyus,0.42,Nicolas Tepmahc,kalshi,0.51,0.9644,0.0,0.0,0.0,0.0,0.49,0.59,1.1143,0.0,2026-11-09T12:52:54+00:00
+2026-11-09T12:52:54+00:00,forti v giunta,True,Francesco Forti,polyus,0.05,Massimo Giunta,kalshi,0.93,0.9879,0.0,0.0,0.0,0.0,0.07,0.95,1.0278,0.0,2026-11-09T12:52:24+00:00
+2026-11-09T12:53:04+00:00,djuric v tepmahc,True,Branko Djuric,polyus,0.42,Nicolas Tepmahc,kalshi,0.51,0.9644,0.0,0.0,0.0,0.0,0.49,0.59,1.1143,0.0,2026-11-09T12:52:54+00:00
+2026-11-09T12:53:04+00:00,forti v giunta,True,Francesco Forti,polyus,0.05,Massimo Giunta,kalshi,0.93,0.9879,27763.5,0.0,0.0,0.0,0.05,0.95,1.0066,0.0,2026-11-09T12:52:24+00:00
+2026-11-09T12:53:14+00:00,djuric v tepmahc,True,Branko Djuric,polyus,0.42,Nicolas Tepmahc,kalshi,0.51,0.9644,0.0,0.0,0.0,0.0,0.49,0.59,1.1143,0.0,2026-11-09T12:52:54+00:00
+2026-11-09T12:53:14+00:00,forti v giunta,True,Francesco Forti,polyus,0.05,Massimo Giunta,kalshi,0.93,0.9879,27763.5,0.0,0.0,0.0,0.05,0.95,1.0066,0.0,2026-11-09T12:52:24+00:00
+2026-11-09T12:53:34+00:00,djuric v tepmahc,True,Branko Djuric,polyus,0.36,Nicolas Tepmahc,kalshi,0.59,0.9829,0.0,0.0,0.0,0.0,0.42,0.64,1.0931,0.0,2026-11-09T12:53:34+00:00
+2026-11-09T12:53:44+00:00,djuric v tepmahc,True,Branko Djuric,polyus,0.36,Nicolas Tepmahc,kalshi,0.59,0.9829,0.0,0.0,0.0,0.0,0.42,0.64,1.0931,0.0,2026-11-09T12:53:34+00:00
+2026-11-09T12:54:14+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.42,Nikita Mashtakov,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.49,0.63,1.1537,0.0,2026-11-09T12:54:14+00:00
+2026-11-09T12:55:14+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.43,Nikita Mashtakov,kalshi,0.52,0.9845,0.0,0.0,0.0,0.0,0.52,0.59,1.1443,0.0,2026-11-09T12:55:14+00:00
+2026-11-09T12:55:24+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.43,Nikita Mashtakov,kalshi,0.52,0.9845,57026.73,0.0,0.0,0.0,0.43,0.59,1.054,0.0,2026-11-09T12:55:14+00:00
+2026-11-09T12:55:34+00:00,grenier v krumich,True,Hugo Grenier,polyus,0.41,Martin Krumich,kalshi,0.53,0.9742,0.0,0.0,0.0,0.0,0.45,0.61,1.0939,0.0,2026-11-09T12:55:34+00:00
+2026-11-09T12:55:34+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.42,Nikita Mashtakov,kalshi,0.52,0.9744,0.0,0.0,0.0,0.0,0.43,0.59,1.054,0.1,2026-11-09T12:55:14+00:00
+2026-11-09T12:56:04+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.42,Nikita Mashtakov,polyus,0.5,0.9544,0.0,0.0,0.0,0.0,0.51,0.59,1.1343,0.0,2026-11-09T12:56:04+00:00
+2026-11-09T12:56:34+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.42,Nikita Mashtakov,kalshi,0.5,0.9544,0.0,0.0,0.0,0.0,0.51,0.59,1.1343,0.0,2026-11-09T12:56:34+00:00
+2026-11-09T12:56:34+00:00,grenier v krumich,True,Hugo Grenier,polyus,0.36,Martin Krumich,kalshi,0.58,0.9731,0.0,0.0,0.0,0.0,0.43,0.65,1.113,0.0,2026-11-09T12:56:34+00:00
+2026-11-09T12:56:34+00:00,hanfmann v michelsen,True,Alex Michelsen,kalshi,0.94,Yannick Hanfmann,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,0.07,1.0372,0.0,2026-11-09T12:56:34+00:00
+2026-11-09T12:56:44+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.41,Nikita Mashtakov,kalshi,0.5,0.9443,0.0,0.0,0.0,0.0,0.51,0.59,1.1343,0.1,2026-11-09T12:56:34+00:00
+2026-11-09T12:56:44+00:00,hanfmann v michelsen,True,Alex Michelsen,kalshi,0.94,Yannick Hanfmann,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,0.07,1.0372,0.0,2026-11-09T12:56:34+00:00
+2026-11-09T12:56:54+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.41,Nikita Mashtakov,kalshi,0.5,0.9443,2139.01,0.0,0.0,0.0,0.41,0.59,1.0337,0.0,2026-11-09T12:56:34+00:00
+2026-11-09T12:57:04+00:00,kelm v marcos,True,Pedro Vives Marcos,polyus,0.81,Yannik Kelm,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,0.83,0.2,1.051,0.0,2026-11-09T12:57:04+00:00
+2026-11-09T12:57:34+00:00,hanfmann v michelsen,True,Alex Michelsen,kalshi,0.96,Yannick Hanfmann,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,0.04,1.024,0.0,2026-11-09T12:57:34+00:00
+2026-11-09T12:57:44+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.41,Nikita Mashtakov,kalshi,0.46,0.9042,0.0,0.0,0.0,0.0,0.55,0.59,1.1741,0.0,2026-11-09T12:57:44+00:00
+2026-11-09T12:57:54+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.42,Nikita Mashtakov,kalshi,0.42,0.874,0.0,0.0,0.0,0.0,0.55,0.58,1.1643,0.0,2026-11-09T12:57:44+00:00
+2026-11-09T12:58:04+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.42,Nikita Mashtakov,kalshi,0.42,0.874,2852.5,0.0,0.0,0.0,0.42,0.58,1.034,0.0,2026-11-09T12:57:44+00:00
+2026-11-09T12:58:04+00:00,hanfmann v michelsen,True,Alex Michelsen,kalshi,0.97,Yannick Hanfmann,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,0.03,1.0227,0.0,2026-11-09T12:58:04+00:00
+2026-11-09T12:58:14+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.43,Nikita Mashtakov,kalshi,0.42,0.8841,25569.63,0.0,0.0,0.0,0.42,0.58,1.034,0.0,2026-11-09T12:57:44+00:00
+2026-11-09T12:58:24+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.43,Nikita Mashtakov,polyus,0.45,0.9144,0.0,0.0,0.0,0.0,0.56,0.59,1.1841,0.0,2026-11-09T12:58:24+00:00
+2026-11-09T12:58:34+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.43,Nikita Mashtakov,polyus,0.45,0.9144,0.0,6143.78,0.0,0.0,0.56,0.45,1.0444,0.0,2026-11-09T12:58:24+00:00
+2026-11-09T12:58:44+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.43,Nikita Mashtakov,polyus,0.45,0.9144,0.0,6143.78,0.0,0.0,0.56,0.45,1.0444,0.0,2026-11-09T12:58:24+00:00
+2026-11-09T12:59:04+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.56,Nikita Mashtakov,polyus,0.29,0.8816,0.0,0.0,0.0,0.0,0.72,0.48,1.2315,0.0,2026-11-09T12:59:04+00:00
+2026-11-09T12:59:14+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.56,Nikita Mashtakov,polyus,0.31,0.9021,0.0,0.0,0.0,0.0,0.7,0.48,1.212,0.0,2026-11-09T12:59:04+00:00
+2026-11-09T13:00:14+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.72,Edas Butvilas,polyus,0.23,0.9764,0.0,0.0,0.0,0.0,0.78,0.27,1.0757,0.0,2026-11-09T13:00:14+00:00
+2026-11-09T13:00:34+00:00,butvilas v ravel,True,Cosme de Ravel,polyus,0.74,Edas Butvilas,kalshi,0.23,0.9958,31849.86,0.0,0.0,0.0,0.74,0.27,1.0372,0.0,2026-11-09T13:00:34+00:00
+2026-11-09T13:00:44+00:00,butvilas v ravel,True,Cosme de Ravel,polyus,0.74,Edas Butvilas,kalshi,0.23,0.9958,31849.86,0.0,0.0,0.0,0.74,0.27,1.0372,0.0,2026-11-09T13:00:34+00:00
+2026-11-09T13:00:54+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.68,Nikita Mashtakov,kalshi,0.26,0.9686,0.0,0.0,0.0,0.0,0.75,0.33,1.1085,0.0,2026-11-09T13:00:54+00:00
+2026-11-09T13:00:54+00:00,dalmasso v echeverria,True,Guillaume Dalmasso,polyus,0.04,John Echeverria,kalshi,0.95,0.996,3693.28,0.0,0.0,0.0,0.04,0.97,1.0147,0.0,2026-11-09T13:00:54+00:00
+2026-11-09T13:01:04+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.68,Nikita Mashtakov,kalshi,0.26,0.9686,18120.47,0.0,0.0,0.0,0.68,0.33,1.0406,0.0,2026-11-09T13:00:54+00:00
+2026-11-09T13:01:04+00:00,dalmasso v echeverria,True,Guillaume Dalmasso,polyus,0.04,John Echeverria,kalshi,0.95,0.996,3693.28,0.0,0.0,0.0,0.04,0.97,1.0147,0.0,2026-11-09T13:00:54+00:00
+2026-11-09T13:01:14+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.75,Edas Butvilas,polyus,0.2,0.9742,0.0,31858.39,0.0,0.0,0.82,0.2,1.0415,0.0,2026-11-09T13:01:14+00:00
+2026-11-09T13:01:44+00:00,butvilas v ravel,True,Cosme de Ravel,polyus,0.71,Edas Butvilas,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,0.75,0.3,1.0777,0.0,2026-11-09T13:01:44+00:00
+2026-11-09T13:01:54+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.67,Nikita Mashtakov,polyus,0.28,0.9795,0.0,0.0,0.0,0.0,0.75,0.36,1.1391,0.0,2026-11-09T13:01:54+00:00
+2026-11-09T13:02:04+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.67,Nikita Mashtakov,polyus,0.28,0.9795,0.0,32860.92,0.0,0.0,0.75,0.28,1.0571,0.0,2026-11-09T13:01:54+00:00
+2026-11-09T13:02:14+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.72,Edas Butvilas,polyus,0.25,0.9971,0.0,60.01,0.0,0.0,0.75,0.25,1.0262,0.0,2026-11-09T13:02:14+00:00
+2026-11-09T13:02:24+00:00,djuric v tepmahc,True,Branko Djuric,kalshi,0.38,Nicolas Tepmahc,polyus,0.58,0.9934,0.0,760.67,0.0,0.0,0.43,0.58,1.0441,0.0,2026-11-09T13:02:24+00:00
+2026-11-09T13:02:24+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.72,Edas Butvilas,polyus,0.25,0.9971,0.0,60.01,0.0,0.0,0.76,0.25,1.0358,0.0,2026-11-09T13:02:14+00:00
+2026-11-09T13:02:34+00:00,djuric v tepmahc,True,Branko Djuric,kalshi,0.38,Nicolas Tepmahc,polyus,0.58,0.9934,0.0,760.67,0.0,0.0,0.43,0.58,1.0441,0.0,2026-11-09T13:02:24+00:00
+2026-11-09T13:02:54+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.72,Edas Butvilas,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.76,0.29,1.0771,0.0,2026-11-09T13:02:54+00:00
+2026-11-09T13:03:04+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.72,Edas Butvilas,polyus,0.25,0.9971,0.0,31798.41,0.0,0.0,0.76,0.25,1.0358,0.0,2026-11-09T13:02:54+00:00
+2026-11-09T13:03:14+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.66,Nikita Mashtakov,kalshi,0.29,0.98,0.0,0.0,0.0,0.0,0.75,0.35,1.129,0.0,2026-11-09T13:03:14+00:00
+2026-11-09T13:03:24+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.65,Nikita Mashtakov,kalshi,0.29,0.9702,0.0,0.0,0.0,0.0,0.75,0.35,1.129,0.0,2026-11-09T13:03:14+00:00
+2026-11-09T13:03:34+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.66,Nikita Mashtakov,kalshi,0.29,0.98,37946.89,0.0,0.0,0.0,0.65,0.37,1.0521,0.0,2026-11-09T13:03:14+00:00
+2026-11-09T13:03:34+00:00,butvilas v ravel,True,Cosme de Ravel,polyus,0.72,Edas Butvilas,kalshi,0.25,0.9971,32721.99,0.0,0.0,0.0,0.72,0.29,1.0384,0.0,2026-11-09T13:03:34+00:00
+2026-11-09T13:03:44+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.63,Nikita Mashtakov,kalshi,0.29,0.9506,0.0,0.0,0.0,0.0,0.65,0.39,1.0725,0.0,2026-11-09T13:03:14+00:00
+2026-11-09T13:03:44+00:00,butvilas v ravel,True,Cosme de Ravel,polyus,0.72,Edas Butvilas,kalshi,0.25,0.9971,32721.99,0.0,0.0,0.0,0.72,0.29,1.0384,0.0,2026-11-09T13:03:34+00:00
+2026-11-09T13:04:14+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.5,Nikita Mashtakov,kalshi,0.39,0.924,0.0,0.0,0.0,0.0,0.63,0.51,1.1737,0.0,2026-11-09T13:04:14+00:00
+2026-11-09T13:04:14+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.72,Edas Butvilas,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.76,0.29,1.0771,0.0,2026-11-09T13:04:14+00:00
+2026-11-09T13:04:24+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.49,Nikita Mashtakov,kalshi,0.47,0.9948,0.0,0.0,0.0,0.0,0.63,0.52,1.1837,0.0,2026-11-09T13:04:14+00:00
+2026-11-09T13:04:34+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.49,Nikita Mashtakov,kalshi,0.47,0.9948,0.01,0.0,0.0,0.0,0.49,0.52,1.0448,0.0,2026-11-09T13:04:14+00:00
+2026-11-09T13:04:44+00:00,andreev v mashtakov,True,Adrian Andreev,polyus,0.49,Nikita Mashtakov,kalshi,0.47,0.9948,0.01,0.0,0.0,0.0,0.49,0.53,1.0548,0.0,2026-11-09T13:04:14+00:00
+2026-11-09T13:04:54+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.49,Nikita Mashtakov,polyus,0.37,0.8937,0.0,0.0,0.0,0.0,0.65,0.52,1.2033,0.1,2026-11-09T13:04:54+00:00
+2026-11-09T13:05:04+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.49,Nikita Mashtakov,polyus,0.36,0.8835,0.0,170.45,0.0,0.0,0.65,0.36,1.0419,0.0,2026-11-09T13:04:54+00:00
+2026-11-09T13:05:14+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.49,Nikita Mashtakov,polyus,0.37,0.8937,0.0,18506.66,0.0,0.0,0.65,0.36,1.0419,0.0,2026-11-09T13:04:54+00:00
+2026-11-09T13:05:54+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.61,Nikita Mashtakov,polyus,0.27,0.9104,0.0,0.0,0.0,0.0,0.74,0.36,1.1295,0.0,2026-11-09T13:05:54+00:00
+2026-11-09T13:06:04+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.61,Nikita Mashtakov,polyus,0.27,0.9104,0.0,21076.68,0.0,0.0,0.74,0.27,1.0372,0.0,2026-11-09T13:05:54+00:00
+2026-11-09T13:06:14+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.61,Nikita Mashtakov,polyus,0.27,0.9104,0.0,21076.68,0.0,0.0,0.74,0.27,1.0372,0.0,2026-11-09T13:05:54+00:00
+2026-11-09T13:06:24+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.61,Nikita Mashtakov,polyus,0.29,0.931,0.0,34553.3,0.0,0.0,0.74,0.27,1.0372,0.0,2026-11-09T13:05:54+00:00
+2026-11-09T13:06:34+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.61,Nikita Mashtakov,polyus,0.27,0.9104,0.0,0.0,0.0,0.0,0.72,0.3,1.0487,0.0,2026-11-09T13:05:54+00:00
+2026-11-09T13:06:54+00:00,andreev v mashtakov,True,Adrian Andreev,kalshi,0.74,Nikita Mashtakov,polyus,0.21,0.975,0.0,0.0,0.0,0.0,0.8,0.3,1.1258,0.0,2026-11-09T13:06:54+00:00
