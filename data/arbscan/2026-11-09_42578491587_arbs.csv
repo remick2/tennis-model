@@ -993,3 +993,33 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T13:52:04+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.49,Edas Butvilas,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,0.52,1.0947,0.0,2026-11-09T13:52:04+00:00
 2026-11-09T13:52:14+00:00,gojo v machac,True,Borna Gojo,polyus,0.52,Tomas Machac,kalshi,0.44,0.9946,0.0,0.0,0.0,0.0,0.56,0.51,1.1046,0.0,2026-11-09T13:51:54+00:00
 2026-11-09T13:52:14+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.49,Edas Butvilas,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,0.52,1.0947,0.0,2026-11-09T13:52:04+00:00
+2026-11-09T13:52:34+00:00,gojo v machac,True,Borna Gojo,polyus,0.45,Tomas Machac,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,0.52,0.56,1.1146,0.0,2026-11-09T13:52:34+00:00
+2026-11-09T13:52:44+00:00,gojo v machac,True,Borna Gojo,polyus,0.45,Tomas Machac,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,0.52,0.55,1.1047,0.0,2026-11-09T13:52:34+00:00
+2026-11-09T13:52:54+00:00,gojo v machac,True,Borna Gojo,kalshi,0.46,Tomas Machac,polyus,0.49,0.9848,0.0,0.0,0.0,0.0,0.52,0.56,1.1146,0.0,2026-11-09T13:52:54+00:00
+2026-11-09T13:53:04+00:00,gojo v machac,True,Borna Gojo,kalshi,0.46,Tomas Machac,polyus,0.49,0.9848,0.0,0.0,0.0,0.0,0.52,0.56,1.1146,0.0,2026-11-09T13:52:54+00:00
+2026-11-09T13:53:14+00:00,gojo v machac,True,Borna Gojo,kalshi,0.46,Tomas Machac,polyus,0.5,0.9948,0.0,0.0,0.0,0.0,0.52,0.56,1.1146,0.0,2026-11-09T13:52:54+00:00
+2026-11-09T13:53:24+00:00,gojo v machac,True,Borna Gojo,polyus,0.45,Tomas Machac,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,0.52,0.56,1.1146,0.0,2026-11-09T13:53:24+00:00
+2026-11-09T13:53:34+00:00,gojo v machac,True,Borna Gojo,polyus,0.45,Tomas Machac,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,0.52,0.56,1.1146,0.1,2026-11-09T13:53:24+00:00
+2026-11-09T13:54:34+00:00,gojo v machac,True,Borna Gojo,polyus,0.45,Tomas Machac,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,0.51,0.56,1.1046,0.0,2026-11-09T13:54:34+00:00
+2026-11-09T13:54:44+00:00,gojo v machac,True,Borna Gojo,polyus,0.45,Tomas Machac,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,0.51,0.56,1.1046,0.0,2026-11-09T13:54:34+00:00
+2026-11-09T13:54:54+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.45,Edas Butvilas,polyus,0.5,0.9847,0.0,40785.38,0.0,0.0,0.51,0.5,1.0449,0.0,2026-11-09T13:54:54+00:00
+2026-11-09T13:54:54+00:00,gojo v machac,True,Borna Gojo,polyus,0.45,Tomas Machac,kalshi,0.51,0.9947,12658.45,0.0,0.0,0.0,0.45,0.58,1.0643,0.0,2026-11-09T13:54:34+00:00
+2026-11-09T13:55:04+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.45,Edas Butvilas,polyus,0.5,0.9847,0.0,40785.38,0.0,0.0,0.51,0.5,1.0449,0.0,2026-11-09T13:54:54+00:00
+2026-11-09T13:55:04+00:00,gojo v machac,True,Borna Gojo,polyus,0.45,Tomas Machac,kalshi,0.51,0.9947,12658.45,0.0,0.0,0.0,0.45,0.59,1.0741,0.0,2026-11-09T13:54:34+00:00
+2026-11-09T13:55:14+00:00,gojo v machac,True,Borna Gojo,kalshi,0.46,Tomas Machac,polyus,0.5,0.9948,0.0,0.0,0.0,0.0,0.51,0.56,1.1046,0.1,2026-11-09T13:55:14+00:00
+2026-11-09T13:55:24+00:00,butvilas v ravel,True,Cosme de Ravel,polyus,0.45,Edas Butvilas,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,0.51,0.56,1.1046,0.0,2026-11-09T13:55:24+00:00
+2026-11-09T13:55:24+00:00,gojo v machac,True,Borna Gojo,kalshi,0.46,Tomas Machac,polyus,0.5,0.9948,0.0,41208.32,0.0,0.0,0.51,0.5,1.0449,0.0,2026-11-09T13:55:14+00:00
+2026-11-09T13:55:34+00:00,butvilas v ravel,True,Cosme de Ravel,polyus,0.45,Edas Butvilas,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,0.51,0.56,1.1046,0.0,2026-11-09T13:55:24+00:00
+2026-11-09T13:55:34+00:00,gojo v machac,True,Borna Gojo,kalshi,0.46,Tomas Machac,polyus,0.5,0.9948,0.0,41208.32,0.0,0.0,0.51,0.5,1.0449,0.0,2026-11-09T13:55:14+00:00
+2026-11-09T13:55:44+00:00,grenier v krumich,True,Hugo Grenier,kalshi,0.67,Martin Krumich,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.71,0.34,1.08,0.0,2026-11-09T13:55:44+00:00
+2026-11-09T13:55:54+00:00,grenier v krumich,True,Hugo Grenier,kalshi,0.67,Martin Krumich,polyus,0.29,0.9898,0.0,3715.65,0.0,0.0,0.71,0.29,1.0287,0.0,2026-11-09T13:55:44+00:00
+2026-11-09T13:56:04+00:00,barsukov v sahtali,True,Nikolai Barsukov,kalshi,0.6,Toufik Sahtali,polyus,0.35,0.9826,0.0,0.0,0.0,0.0,0.67,0.39,1.092,0.0,2026-11-09T13:56:04+00:00
+2026-11-09T13:56:04+00:00,grenier v krumich,True,Hugo Grenier,kalshi,0.67,Martin Krumich,polyus,0.29,0.9898,0.0,3715.65,0.0,0.0,0.71,0.29,1.0287,0.0,2026-11-09T13:55:44+00:00
+2026-11-09T13:56:04+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.45,Edas Butvilas,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,0.59,1.1243,0.0,2026-11-09T13:56:04+00:00
+2026-11-09T13:56:24+00:00,grenier v krumich,True,Hugo Grenier,polyus,0.67,Martin Krumich,kalshi,0.29,0.9898,10539.92,0.0,0.0,0.0,0.67,0.34,1.0411,0.0,2026-11-09T13:56:24+00:00
+2026-11-09T13:56:34+00:00,grenier v krumich,True,Hugo Grenier,polyus,0.67,Martin Krumich,kalshi,0.29,0.9898,10539.92,0.0,0.0,0.0,0.67,0.34,1.0411,0.0,2026-11-09T13:56:24+00:00
+2026-11-09T13:58:04+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.5,Semen Pankin,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,0.56,0.5,1.0946,0.0,2026-11-09T13:58:04+00:00
+2026-11-09T13:58:14+00:00,barsukov v sahtali,True,Nikolai Barsukov,kalshi,0.6,Toufik Sahtali,polyus,0.35,0.9826,0.0,0.0,0.0,0.0,0.66,0.4,1.0924,0.0,2026-11-09T13:58:14+00:00
+2026-11-09T13:58:14+00:00,butvilas v ravel,True,Cosme Rolland de Ravel,kalshi,0.53,Edas Butvilas,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.58,0.48,1.0944,0.0,2026-11-09T13:58:14+00:00
+2026-11-09T13:58:14+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.5,Semen Pankin,kalshi,0.46,0.9948,0.11,0.0,0.0,0.0,0.5,0.5,1.0349,0.0,2026-11-09T13:58:04+00:00
+2026-11-09T13:58:44+00:00,gojo v machac,True,Borna Gojo,polyus,0.44,Tomas Machac,kalshi,0.5,0.9746,0.0,0.0,0.0,0.0,0.51,0.57,1.1145,0.0,2026-11-09T13:58:44+00:00
