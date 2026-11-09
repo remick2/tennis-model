@@ -1144,3 +1144,215 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T16:15:27+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
 2026-11-09T16:15:37+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
 2026-11-09T16:15:47+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:15:57+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.14,Luca Nardi,kalshi,0.79,0.95,0.0,0.0,0.0,0.0,0.21,0.87,1.0994,0.1,2026-11-09T16:15:57+00:00
+2026-11-09T16:15:57+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:16:07+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.13,Luca Nardi,kalshi,0.79,0.9395,0.0,0.0,0.0,0.0,0.21,0.88,1.1089,0.1,2026-11-09T16:15:57+00:00
+2026-11-09T16:16:07+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:16:17+00:00,jeff v martin,True,Andres Martin,polyus,0.96,Filip Jeff Planinsek,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,0.99,0.05,1.044,0.1,2026-11-09T16:16:17+00:00
+2026-11-09T16:16:17+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:16:27+00:00,jeff v martin,True,Andres Martin,polyus,0.96,Filip Jeff Planinsek,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,0.99,0.05,1.044,0.1,2026-11-09T16:16:17+00:00
+2026-11-09T16:16:27+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:16:37+00:00,nardi v ritschard,True,Alexander Ritschard,kalshi,0.13,Luca Nardi,polyus,0.79,0.9394,0.0,0.0,0.0,0.0,0.22,0.88,1.1194,0.1,2026-11-09T16:16:37+00:00
+2026-11-09T16:16:37+00:00,jeff v martin,True,Andres Martin,polyus,0.96,Filip Jeff Planinsek,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,0.99,0.05,1.044,0.1,2026-11-09T16:16:17+00:00
+2026-11-09T16:16:37+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:16:47+00:00,nardi v ritschard,True,Alexander Ritschard,kalshi,0.13,Luca Nardi,polyus,0.79,0.9394,0.0,15984.85,0.0,0.0,0.22,0.79,1.0335,0.1,2026-11-09T16:16:37+00:00
+2026-11-09T16:16:47+00:00,jeff v martin,True,Andres Martin,polyus,0.96,Filip Jeff Planinsek,kalshi,0.03,0.9947,19260.47,0.0,0.0,0.0,0.96,0.05,1.016,0.1,2026-11-09T16:16:17+00:00
+2026-11-09T16:16:47+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:16:57+00:00,jakupovic v pigossi,True,Dalila Jakupovic,polyus,0.11,Laura Pigossi,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,0.13,0.89,1.0347,0.1,2026-11-09T16:16:57+00:00
+2026-11-09T16:16:57+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:17:07+00:00,jakupovic v pigossi,True,Dalila Jakupovic,polyus,0.11,Laura Pigossi,kalshi,0.87,0.9947,22701.57,0.0,0.0,0.0,0.11,0.89,1.0137,0.1,2026-11-09T16:16:57+00:00
+2026-11-09T16:17:07+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:17:17+00:00,nardi v ritschard,True,Alexander Ritschard,kalshi,0.22,Luca Nardi,polyus,0.68,0.9271,0.0,19259.9,0.0,0.0,0.34,0.68,1.0508,0.2,2026-11-09T16:17:17+00:00
+2026-11-09T16:17:17+00:00,jeff v martin,True,Andres Martin,polyus,0.9,Filip Jeff Planinsek,kalshi,0.05,0.9596,0.0,0.0,0.0,0.0,0.96,0.11,1.0795,0.1,2026-11-09T16:17:17+00:00
+2026-11-09T16:17:17+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:17:27+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:17:37+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:17:47+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.7,Santiago De La Fuente,polyus,0.26,0.9881,0.0,0.0,0.0,0.0,0.75,0.32,1.0982,0.1,2026-11-09T16:17:47+00:00
+2026-11-09T16:17:47+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:17:47+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.83,Semen Pankin,polyus,0.15,0.9987,0.0,25696.0,0.0,0.0,0.86,0.15,1.0273,0.1,2026-11-09T16:17:47+00:00
+2026-11-09T16:17:57+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:18:07+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.23,Luca Nardi,kalshi,0.7,0.957,0.0,0.0,0.0,0.0,0.32,0.78,1.1271,0.1,2026-11-09T16:18:07+00:00
+2026-11-09T16:18:07+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:18:17+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.23,Luca Nardi,kalshi,0.7,0.957,0.0,0.0,0.0,0.0,0.32,0.78,1.1271,0.1,2026-11-09T16:18:07+00:00
+2026-11-09T16:18:17+00:00,giovannini v maria,True,Luisina Giovannini,kalshi,0.49,Tatjana Maria,polyus,0.45,0.9747,0.0,0.0,0.0,0.0,0.55,0.48,1.0647,0.1,2026-11-09T16:18:17+00:00
+2026-11-09T16:18:17+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.69,Santiago De la Fuente,kalshi,0.26,0.9783,0.0,0.0,0.0,0.0,0.75,0.32,1.0983,0.1,2026-11-09T16:18:17+00:00
+2026-11-09T16:18:17+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:18:27+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:18:37+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:18:47+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:18:47+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.84,Semen Pankin,polyus,0.14,0.9978,0.0,0.0,0.0,0.0,0.87,0.17,1.0577,0.1,2026-11-09T16:18:47+00:00
+2026-11-09T16:18:57+00:00,giovannini v maria,True,Luisina Giovannini,polyus,0.48,Tatjana Maria,kalshi,0.45,0.9647,0.0,0.0,0.0,0.0,0.53,0.53,1.0947,0.1,2026-11-09T16:18:57+00:00
+2026-11-09T16:18:57+00:00,hercog v lepchenko,True,Polona Hercog,kalshi,0.84,Varvara Lepchenko,polyus,0.13,0.9873,0.0,0.0,0.0,0.0,0.88,0.15,1.0463,0.1,2026-11-09T16:18:57+00:00
+2026-11-09T16:18:57+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:19:07+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.6,Santiago De la Fuente,kalshi,0.31,0.9417,0.0,0.0,0.0,0.0,0.74,0.41,1.1803,0.1,2026-11-09T16:19:07+00:00
+2026-11-09T16:19:07+00:00,nardi v ritschard,True,Alexander Ritschard,kalshi,0.22,Luca Nardi,polyus,0.71,0.9563,0.0,0.0,0.0,0.0,0.3,0.83,1.1545,0.1,2026-11-09T16:19:07+00:00
+2026-11-09T16:19:07+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:19:17+00:00,nardi v ritschard,True,Alexander Ritschard,kalshi,0.22,Luca Nardi,polyus,0.7,0.9466,0.0,0.0,0.0,0.0,0.31,0.83,1.1648,0.1,2026-11-09T16:19:07+00:00
+2026-11-09T16:19:17+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.63,Santiago De la Fuente,kalshi,0.31,0.9712,0.0,0.0,0.0,0.0,0.74,0.38,1.1499,0.1,2026-11-09T16:19:07+00:00
+2026-11-09T16:19:17+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:19:27+00:00,nardi v ritschard,True,Alexander Ritschard,kalshi,0.22,Luca Nardi,polyus,0.7,0.9466,0.0,52276.79,0.0,0.0,0.31,0.7,1.0396,0.1,2026-11-09T16:19:07+00:00
+2026-11-09T16:19:27+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.63,Santiago De la Fuente,kalshi,0.31,0.9712,15080.56,0.0,0.0,0.0,0.63,0.38,1.0427,0.1,2026-11-09T16:19:07+00:00
+2026-11-09T16:19:27+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:19:37+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.6,Santiago De la Fuente,kalshi,0.31,0.9417,0.0,0.0,0.0,0.0,0.63,0.41,1.0731,0.1,2026-11-09T16:19:07+00:00
+2026-11-09T16:19:37+00:00,nardi v ritschard,True,Alexander Ritschard,kalshi,0.22,Luca Nardi,polyus,0.72,0.966,0.0,99225.78,0.0,0.0,0.23,0.7,0.957,0.1,2026-11-09T16:19:07+00:00
+2026-11-09T16:19:37+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1337.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:19:47+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.23,Luca Nardi,kalshi,0.7,0.957,0.0,0.0,0.0,0.0,0.31,0.78,1.1169,0.1,2026-11-09T16:19:47+00:00
+2026-11-09T16:19:47+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:19:57+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.63,Santiago De La Fuente,polyus,0.29,0.9506,0.0,12700.87,0.0,0.0,0.72,0.29,1.0384,0.1,2026-11-09T16:19:57+00:00
+2026-11-09T16:19:57+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.23,Luca Nardi,kalshi,0.7,0.957,52224.12,0.0,0.0,0.0,0.23,0.78,1.0343,0.1,2026-11-09T16:19:47+00:00
+2026-11-09T16:19:57+00:00,nikles v tabata,True,Johan Nikles,polyus,0.14,Ryo Tabata,kalshi,0.83,0.9882,21333.4,0.0,0.0,0.0,0.14,0.87,1.0263,0.1,2026-11-09T16:19:57+00:00
+2026-11-09T16:19:57+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:20:07+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.63,Santiago De La Fuente,polyus,0.29,0.9506,0.0,12700.87,0.0,0.0,0.72,0.29,1.0384,0.1,2026-11-09T16:19:57+00:00
+2026-11-09T16:20:07+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.23,Luca Nardi,kalshi,0.7,0.957,52224.12,0.0,0.0,0.0,0.23,0.78,1.0343,0.1,2026-11-09T16:19:47+00:00
+2026-11-09T16:20:07+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.79,Semen Pankin,kalshi,0.16,0.9709,0.0,0.0,0.0,0.0,0.85,0.22,1.0909,0.1,2026-11-09T16:20:07+00:00
+2026-11-09T16:20:07+00:00,nikles v tabata,True,Johan Nikles,polyus,0.14,Ryo Tabata,kalshi,0.83,0.9882,21333.4,0.0,0.0,0.0,0.14,0.87,1.0263,0.1,2026-11-09T16:19:57+00:00
+2026-11-09T16:20:07+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:20:17+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.79,Semen Pankin,kalshi,0.16,0.9709,63563.97,0.0,0.0,0.0,0.79,0.22,1.0335,0.1,2026-11-09T16:20:07+00:00
+2026-11-09T16:20:17+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.2,2026-11-09T15:43:26+00:00
+2026-11-09T16:20:27+00:00,nardi v ritschard,True,Alexander Ritschard,kalshi,0.23,Luca Nardi,polyus,0.69,0.9473,0.0,0.0,0.0,0.0,0.37,0.78,1.1782,0.1,2026-11-09T16:20:27+00:00
+2026-11-09T16:20:27+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.79,Semen Pankin,kalshi,0.16,0.9709,63563.97,0.0,0.0,0.0,0.79,0.22,1.0335,0.1,2026-11-09T16:20:07+00:00
+2026-11-09T16:20:27+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:20:37+00:00,nardi v ritschard,True,Alexander Ritschard,kalshi,0.23,Luca Nardi,polyus,0.64,0.8984,0.0,0.0,0.0,0.0,0.37,0.78,1.1782,0.1,2026-11-09T16:20:27+00:00
+2026-11-09T16:20:37+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.79,Semen Pankin,kalshi,0.16,0.9709,63563.97,0.0,0.0,0.0,0.79,0.22,1.0335,0.1,2026-11-09T16:20:07+00:00
+2026-11-09T16:20:37+00:00,nikles v tabata,True,Johan Nikles,kalshi,0.13,Ryo Tabata,polyus,0.84,0.9873,0.0,0.0,0.0,0.0,0.17,0.87,1.0577,0.1,2026-11-09T16:20:37+00:00
+2026-11-09T16:20:37+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:20:47+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.79,Semen Pankin,polyus,0.18,0.9919,0.0,0.0,0.0,0.0,0.83,0.24,1.0926,0.1,2026-11-09T16:20:47+00:00
+2026-11-09T16:20:47+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.2,2026-11-09T15:43:26+00:00
+2026-11-09T16:20:57+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.6,Santiago De la Fuente,kalshi,0.29,0.9211,22421.19,0.0,0.0,0.0,0.6,0.41,1.0436,0.1,2026-11-09T16:20:57+00:00
+2026-11-09T16:20:57+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.79,Semen Pankin,polyus,0.17,0.9814,0.0,0.0,0.0,0.0,0.84,0.24,1.1021,0.1,2026-11-09T16:20:47+00:00
+2026-11-09T16:20:57+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:21:07+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.23,Luca Nardi,kalshi,0.64,0.8984,0.0,0.0,0.0,0.0,0.37,0.78,1.1782,0.1,2026-11-09T16:21:07+00:00
+2026-11-09T16:21:07+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.6,Santiago De la Fuente,kalshi,0.29,0.9211,22421.19,0.0,0.0,0.0,0.6,0.41,1.0436,0.1,2026-11-09T16:20:57+00:00
+2026-11-09T16:21:07+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.79,Semen Pankin,polyus,0.16,0.971,0.0,0.0,0.0,0.0,0.85,0.24,1.1116,0.1,2026-11-09T16:20:47+00:00
+2026-11-09T16:21:07+00:00,nikles v tabata,True,Johan Nikles,polyus,0.13,Ryo Tabata,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,0.17,0.88,1.0672,0.1,2026-11-09T16:21:07+00:00
+2026-11-09T16:21:07+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:21:17+00:00,kopp v mikrut,True,Luka Mikrut,polyus,0.63,Sandro Kopp,kalshi,0.33,0.9917,640.27,0.0,0.0,0.0,0.63,0.38,1.0427,0.1,2026-11-09T16:21:17+00:00
+2026-11-09T16:21:17+00:00,giovannini v maria,True,Luisina Giovannini,kalshi,0.48,Tatjana Maria,polyus,0.48,0.9948,0.0,0.0,0.0,0.0,0.52,0.54,1.0947,0.1,2026-11-09T16:21:17+00:00
+2026-11-09T16:21:17+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.2,2026-11-09T15:43:26+00:00
+2026-11-09T16:21:27+00:00,kopp v mikrut,True,Luka Mikrut,polyus,0.63,Sandro Kopp,kalshi,0.33,0.9917,640.27,0.0,0.0,0.0,0.63,0.38,1.0427,0.1,2026-11-09T16:21:17+00:00
+2026-11-09T16:21:27+00:00,giovannini v maria,True,Luisina Giovannini,kalshi,0.48,Tatjana Maria,polyus,0.48,0.9948,0.0,0.0,0.0,0.0,0.53,0.54,1.1047,0.1,2026-11-09T16:21:17+00:00
+2026-11-09T16:21:27+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:21:37+00:00,kopp v mikrut,True,Luka Mikrut,polyus,0.63,Sandro Kopp,kalshi,0.33,0.9917,640.27,0.0,0.0,0.0,0.63,0.4,1.063,0.1,2026-11-09T16:21:17+00:00
+2026-11-09T16:21:37+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:21:47+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.09,Luca Nardi,kalshi,0.79,0.8973,0.0,0.0,0.0,0.0,0.25,0.92,1.1882,0.1,2026-11-09T16:21:47+00:00
+2026-11-09T16:21:47+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.64,Santiago De La Fuente,polyus,0.27,0.9398,0.0,0.0,0.0,0.0,0.73,0.4,1.1605,0.1,2026-11-09T16:21:47+00:00
+2026-11-09T16:21:47+00:00,kopp v mikrut,True,Luka Mikrut,polyus,0.54,Sandro Kopp,kalshi,0.4,0.9741,752.54,0.0,0.0,0.0,0.54,0.47,1.0447,0.1,2026-11-09T16:21:17+00:00
+2026-11-09T16:21:47+00:00,nikles v tabata,True,Johan Nikles,polyus,0.1,Ryo Tabata,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,0.91,1.0536,0.1,2026-11-09T16:21:47+00:00
+2026-11-09T16:21:47+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.2,2026-11-09T15:43:26+00:00
+2026-11-09T16:21:57+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.09,Luca Nardi,kalshi,0.79,0.8973,47075.47,0.0,0.0,0.0,0.09,0.92,1.0208,0.1,2026-11-09T16:21:47+00:00
+2026-11-09T16:21:57+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.64,Santiago De La Fuente,polyus,0.27,0.9398,0.0,0.01,0.0,0.0,0.73,0.27,1.0275,0.1,2026-11-09T16:21:47+00:00
+2026-11-09T16:21:57+00:00,kopp v mikrut,True,Luka Mikrut,polyus,0.54,Sandro Kopp,kalshi,0.4,0.9741,752.54,0.0,0.0,0.0,0.54,0.47,1.0447,0.1,2026-11-09T16:21:17+00:00
+2026-11-09T16:21:57+00:00,nikles v tabata,True,Johan Nikles,polyus,0.1,Ryo Tabata,kalshi,0.88,0.9936,21578.45,0.0,0.0,0.0,0.1,0.91,1.022,0.3,2026-11-09T16:21:47+00:00
+2026-11-09T16:21:57+00:00,giovannini v maria,True,Luisina Giovannini,kalshi,0.53,Tatjana Maria,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.58,0.48,1.0944,0.1,2026-11-09T16:21:57+00:00
+2026-11-09T16:21:57+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.0,0.0,0.0,0.85,,,6.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:22:07+00:00,nardi v ritschard,True,Alexander Ritschard,polyus,0.09,Luca Nardi,kalshi,0.79,0.8973,47075.47,0.0,0.0,0.0,0.09,0.92,1.0208,3.1,2026-11-09T16:21:47+00:00
+2026-11-09T16:22:07+00:00,fuente v jover,True,Carlos Sanchez Jover,kalshi,0.64,Santiago De La Fuente,polyus,0.26,0.9295,0.0,0.0,0.0,0.0,0.73,0.27,1.0275,0.1,2026-11-09T16:21:47+00:00
+2026-11-09T16:22:07+00:00,kopp v mikrut,True,Luka Mikrut,polyus,0.54,Sandro Kopp,kalshi,0.4,0.9741,752.54,0.0,0.0,0.0,0.54,0.47,1.0447,0.1,2026-11-09T16:21:17+00:00
+2026-11-09T16:22:07+00:00,nikles v tabata,True,Johan Nikles,polyus,0.1,Ryo Tabata,kalshi,0.88,0.9936,21578.45,0.0,0.0,0.0,0.1,0.91,1.022,0.1,2026-11-09T16:21:47+00:00
+2026-11-09T16:22:07+00:00,giovannini v maria,True,Luisina Giovannini,kalshi,0.53,Tatjana Maria,polyus,0.43,0.9945,0.0,19434.7,0.0,0.0,0.58,0.43,1.0441,0.1,2026-11-09T16:21:57+00:00
+2026-11-09T16:22:07+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.0,0.0,0.0,0.85,,,6.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:22:18+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,3.2,2026-11-09T15:43:26+00:00
+2026-11-09T16:22:28+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.79,Semen Pankin,polyus,0.17,0.9814,0.0,0.0,0.0,0.0,0.84,0.21,1.0709,0.1,2026-11-09T16:22:28+00:00
+2026-11-09T16:22:28+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.2,2026-11-09T15:43:26+00:00
+2026-11-09T16:22:38+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.79,Semen Pankin,polyus,0.17,0.9814,0.0,0.0,0.0,0.0,0.84,0.21,1.0709,0.1,2026-11-09T16:22:28+00:00
+2026-11-09T16:22:38+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:22:48+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.65,Santiago De la Fuente,kalshi,0.29,0.9702,0.0,0.0,0.0,0.0,0.71,0.36,1.1004,0.1,2026-11-09T16:22:48+00:00
+2026-11-09T16:22:48+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.79,Semen Pankin,polyus,0.17,0.9814,0.0,36198.28,0.0,0.0,0.84,0.17,1.0292,0.1,2026-11-09T16:22:28+00:00
+2026-11-09T16:22:48+00:00,kopp v mikrut,True,Luka Mikrut,polyus,0.49,Sandro Kopp,kalshi,0.47,0.9948,221.04,0.0,0.0,0.0,0.49,0.51,1.0349,0.1,2026-11-09T16:22:48+00:00
+2026-11-09T16:22:48+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:22:58+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:22:58+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.84,Semen Pankin,polyus,0.14,0.9978,0.0,0.0,0.0,0.0,0.87,0.17,1.0577,0.1,2026-11-09T16:22:28+00:00
+2026-11-09T16:23:08+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.84,Semen Pankin,polyus,0.13,0.9873,0.0,0.0,0.0,0.0,0.88,0.17,1.0672,0.1,2026-11-09T16:22:28+00:00
+2026-11-09T16:23:08+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:23:18+00:00,jeff v martin,True,Andres Martin,polyus,0.77,Filip Jeff Planinsek,kalshi,0.19,0.9831,16422.37,0.0,0.0,0.0,0.77,0.24,1.0351,0.1,2026-11-09T16:23:18+00:00
+2026-11-09T16:23:18+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.84,Semen Pankin,polyus,0.13,0.9873,0.0,42248.37,0.0,0.0,0.88,0.13,1.0253,0.1,2026-11-09T16:22:28+00:00
+2026-11-09T16:23:18+00:00,nikles v tabata,True,Johan Nikles,kalshi,0.08,Ryo Tabata,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.12,0.91,1.0431,0.1,2026-11-09T16:23:18+00:00
+2026-11-09T16:23:18+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:23:28+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:23:38+00:00,nikles v tabata,True,Johan Nikles,kalshi,0.11,Ryo Tabata,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,0.89,1.0452,0.1,2026-11-09T16:23:38+00:00
+2026-11-09T16:23:38+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:23:48+00:00,fuente v jover,True,Carlos Sanchez Jover,polyus,0.5,Santiago De la Fuente,kalshi,0.36,0.8935,0.0,0.0,0.0,0.0,0.66,0.51,1.2031,0.1,2026-11-09T16:23:48+00:00
+2026-11-09T16:23:48+00:00,nikles v tabata,True,Johan Nikles,kalshi,0.11,Ryo Tabata,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,0.89,1.0452,0.1,2026-11-09T16:23:38+00:00
+2026-11-09T16:23:48+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:23:58+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:24:08+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:24:18+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:24:28+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:24:28+00:00,jeff v martin,True,Andres Martin,polyus,0.7,Filip Jeff Planinsek,kalshi,0.27,0.9984,0.0,0.0,0.0,0.0,0.77,0.31,1.1073,0.1,2026-11-09T16:24:28+00:00
+2026-11-09T16:24:38+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:24:48+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:24:58+00:00,hemery v poullain,True,Calvin Hemery,polyus,0.42,Lucas Poullain,kalshi,0.5,0.9544,0.0,0.0,0.0,0.0,0.49,0.59,1.1143,0.1,2026-11-09T16:24:58+00:00
+2026-11-09T16:24:58+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:25:08+00:00,jeff v martin,True,Andres Martin,polyus,0.63,Filip Jeff Planinsek,kalshi,0.31,0.9712,0.0,0.0,0.0,0.0,0.7,0.38,1.1111,0.1,2026-11-09T16:25:08+00:00
+2026-11-09T16:25:08+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:25:18+00:00,jeff v martin,True,Andres Martin,polyus,0.63,Filip Jeff Planinsek,kalshi,0.31,0.9712,27740.06,0.0,0.0,0.0,0.63,0.38,1.0427,0.1,2026-11-09T16:25:08+00:00
+2026-11-09T16:25:18+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:25:28+00:00,jeff v martin,True,Andres Martin,polyus,0.63,Filip Jeff Planinsek,kalshi,0.31,0.9712,27740.06,0.0,0.0,0.0,0.63,0.38,1.0427,0.1,2026-11-09T16:25:08+00:00
+2026-11-09T16:25:28+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.87,Semen Pankin,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,0.13,1.0442,0.1,2026-11-09T16:25:28+00:00
+2026-11-09T16:25:28+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:25:38+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:25:48+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:25:58+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:26:08+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.46,Lucas Poullain,polyus,0.5,0.9948,0.0,10461.65,0.0,0.0,0.51,0.5,1.0449,0.1,2026-11-09T16:26:08+00:00
+2026-11-09T16:26:08+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:26:18+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.46,Lucas Poullain,polyus,0.5,0.9948,0.0,10461.65,0.0,0.0,0.51,0.5,1.0449,0.1,2026-11-09T16:26:08+00:00
+2026-11-09T16:26:18+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:26:28+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.2,2026-11-09T15:43:26+00:00
+2026-11-09T16:26:38+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.91,Semen Pankin,polyus,0.06,0.9797,0.0,0.0,0.0,0.0,0.95,0.1,1.0596,0.1,2026-11-09T16:26:38+00:00
+2026-11-09T16:26:38+00:00,nikles v tabata,True,Johan Nikles,kalshi,0.15,Ryo Tabata,polyus,0.82,0.9892,0.0,45540.15,0.0,0.0,0.19,0.82,1.031,0.1,2026-11-09T16:26:38+00:00
+2026-11-09T16:26:38+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:26:48+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.91,Semen Pankin,polyus,0.06,0.9797,0.0,48209.01,0.0,0.0,0.95,0.06,1.0172,0.1,2026-11-09T16:26:38+00:00
+2026-11-09T16:26:48+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:26:58+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:26:58+00:00,nikles v tabata,True,Johan Nikles,polyus,0.16,Ryo Tabata,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,0.85,1.0596,0.1,2026-11-09T16:26:58+00:00
+2026-11-09T16:27:08+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:27:08+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.93,Semen Pankin,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,0.08,1.0385,0.1,2026-11-09T16:27:08+00:00
+2026-11-09T16:27:08+00:00,nikles v tabata,True,Johan Nikles,polyus,0.16,Ryo Tabata,kalshi,0.82,0.9997,8085.13,0.0,0.0,0.0,0.16,0.86,1.0378,0.1,2026-11-09T16:26:58+00:00
+2026-11-09T16:27:18+00:00,nikles v tabata,True,Johan Nikles,polyus,0.12,Ryo Tabata,kalshi,0.82,0.9577,0.0,0.0,0.0,0.0,0.16,0.89,1.0662,0.1,2026-11-09T16:26:58+00:00
+2026-11-09T16:27:18+00:00,hercog v lepchenko,True,Polona Hercog,polyus,0.87,Varvara Lepchenko,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,0.88,0.14,1.0358,0.1,2026-11-09T16:27:18+00:00
+2026-11-09T16:27:18+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:27:18+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.93,Semen Pankin,kalshi,0.06,0.9985,52489.23,0.0,0.0,0.0,0.93,0.08,1.0197,0.1,2026-11-09T16:27:08+00:00
+2026-11-09T16:27:28+00:00,nikles v tabata,True,Johan Nikles,polyus,0.12,Ryo Tabata,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,0.16,0.89,1.0662,0.1,2026-11-09T16:26:58+00:00
+2026-11-09T16:27:28+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:27:38+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:27:48+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.9,Semen Pankin,kalshi,0.08,0.9914,39551.31,0.0,0.0,0.0,0.9,0.11,1.0231,0.1,2026-11-09T16:27:48+00:00
+2026-11-09T16:27:48+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:27:58+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.9,Semen Pankin,kalshi,0.08,0.9914,39551.31,0.0,0.0,0.0,0.9,0.11,1.0231,0.1,2026-11-09T16:27:48+00:00
+2026-11-09T16:27:58+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1411.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:28:08+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.9,Semen Pankin,kalshi,0.08,0.9914,39551.31,0.0,0.0,0.0,0.9,0.11,1.0231,0.1,2026-11-09T16:27:48+00:00
+2026-11-09T16:28:08+00:00,nikles v tabata,True,Johan Nikles,kalshi,0.13,Ryo Tabata,polyus,0.85,0.9968,0.0,13099.95,0.0,0.0,0.16,0.85,1.0283,0.1,2026-11-09T16:28:08+00:00
+2026-11-09T16:28:08+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:28:18+00:00,janvier v pankin,True,Maxime Janvier,polyus,0.88,Semen Pankin,kalshi,0.08,0.9725,0.0,0.0,0.0,0.0,0.91,0.13,1.0536,0.1,2026-11-09T16:27:48+00:00
+2026-11-09T16:28:18+00:00,nikles v tabata,True,Johan Nikles,kalshi,0.13,Ryo Tabata,polyus,0.85,0.9968,0.0,13099.95,0.0,0.0,0.16,0.85,1.0283,0.1,2026-11-09T16:28:08+00:00
+2026-11-09T16:28:18+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:28:28+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:28:38+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.2,2026-11-09T15:43:26+00:00
+2026-11-09T16:28:48+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.2,2026-11-09T15:43:26+00:00
+2026-11-09T16:28:58+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:29:08+00:00,nikles v tabata,True,Johan Nikles,kalshi,0.16,Ryo Tabata,polyus,0.78,0.9613,0.0,0.0,0.0,0.0,0.23,0.79,1.0439,0.1,2026-11-09T16:29:08+00:00
+2026-11-09T16:29:08+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:29:18+00:00,nikles v tabata,True,Johan Nikles,kalshi,0.16,Ryo Tabata,polyus,0.78,0.9613,0.0,0.0,0.0,0.0,0.23,0.79,1.0439,0.1,2026-11-09T16:29:08+00:00
+2026-11-09T16:29:18+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.53,Lucas Poullain,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.57,0.48,1.0845,0.1,2026-11-09T16:29:18+00:00
+2026-11-09T16:29:18+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:29:28+00:00,nikles v tabata,True,Johan Nikles,kalshi,0.16,Ryo Tabata,polyus,0.8,0.9805,0.0,21281.73,0.0,0.0,0.25,0.79,1.0647,0.1,2026-11-09T16:29:08+00:00
+2026-11-09T16:29:28+00:00,hemery v poullain,True,Calvin Hemery,kalshi,0.53,Lucas Poullain,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.57,0.48,1.0845,0.1,2026-11-09T16:29:18+00:00
+2026-11-09T16:29:28+00:00,hercog v lepchenko,True,Polona Hercog,kalshi,0.86,Varvara Lepchenko,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.89,0.13,1.0347,0.1,2026-11-09T16:29:28+00:00
+2026-11-09T16:29:28+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:29:38+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:29:48+00:00,nikles v tabata,True,Johan Nikles,polyus,0.17,Ryo Tabata,kalshi,0.79,0.9814,0.0,0.0,0.0,0.0,0.19,0.84,1.0501,0.1,2026-11-09T16:29:48+00:00
+2026-11-09T16:29:48+00:00,giovannini v maria,True,Luisina Giovannini,kalshi,0.54,Tatjana Maria,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,0.47,1.0942,0.1,2026-11-09T16:29:48+00:00
+2026-11-09T16:29:48+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:29:58+00:00,nikles v tabata,True,Johan Nikles,polyus,0.14,Ryo Tabata,kalshi,0.79,0.95,0.0,0.0,0.0,0.0,0.19,0.89,1.0975,0.1,2026-11-09T16:29:48+00:00
+2026-11-09T16:29:58+00:00,giovannini v maria,True,Luisina Giovannini,kalshi,0.54,Tatjana Maria,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,0.47,1.0942,0.1,2026-11-09T16:29:48+00:00
+2026-11-09T16:29:58+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:30:08+00:00,nikles v tabata,True,Johan Nikles,polyus,0.12,Ryo Tabata,kalshi,0.79,0.929,25920.25,0.0,0.0,0.0,0.12,0.89,1.0242,0.1,2026-11-09T16:29:48+00:00
+2026-11-09T16:30:08+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:30:18+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:30:28+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.86,Semen Pankin,polyus,0.11,0.9852,0.0,0.0,0.0,0.0,0.9,0.16,1.0756,0.1,2026-11-09T16:30:28+00:00
+2026-11-09T16:30:28+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:30:38+00:00,nikles v tabata,True,Johan Nikles,polyus,0.07,Ryo Tabata,kalshi,0.89,0.9714,17380.08,0.0,0.0,0.0,0.07,0.94,1.0185,0.1,2026-11-09T16:30:38+00:00
+2026-11-09T16:30:38+00:00,janvier v pankin,True,Maxime Janvier,kalshi,0.86,Semen Pankin,polyus,0.11,0.9852,0.0,0.0,0.0,0.0,0.9,0.16,1.0756,0.1,2026-11-09T16:30:28+00:00
+2026-11-09T16:30:38+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:30:48+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
+2026-11-09T16:30:58+00:00,hercog v lepchenko,True,Polona Hercog,kalshi,0.87,Varvara Lepchenko,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,0.12,1.0336,0.1,2026-11-09T16:30:58+00:00
+2026-11-09T16:30:58+00:00,matsuda v schoenhaus,False,Max Schoenhaus,kalshi,0.85,Ryuki Matsuda,polyus,0.13,0.9968,1520.0,0.03,0.03,0.0,0.85,0.13,0.9968,0.1,2026-11-09T15:43:26+00:00
