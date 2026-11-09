@@ -496,3 +496,47 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-09T21:37:11+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.88,Karolina Muchova,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,0.13,1.0536,0.1,2026-11-09T21:36:51+00:00
 2026-11-09T21:39:41+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.92,Karolina Muchova,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.93,0.09,1.0302,0.1,2026-11-09T21:39:41+00:00
 2026-11-09T21:39:51+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.92,Karolina Muchova,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,0.08,1.0291,0.1,2026-11-09T21:39:41+00:00
+2026-11-09T21:43:51+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.35,Sascha Gueymard-Wayenburg,polyus,0.58,0.9629,0.0,0.0,0.0,0.0,0.43,0.66,1.1228,0.1,2026-11-09T21:43:51+00:00
+2026-11-09T21:44:01+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.35,Sascha Gueymard-Wayenburg,polyus,0.57,0.953,0.0,0.0,0.0,0.0,0.44,0.58,1.0542,0.1,2026-11-09T21:43:51+00:00
+2026-11-09T21:44:51+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.4,Sascha Gueymard-Wayenburg,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.45,0.61,1.0939,0.2,2026-11-09T21:44:51+00:00
+2026-11-09T21:45:01+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.4,Sascha Gueymard-Wayenburg,polyus,0.56,0.9939,0.0,5722.04,0.0,0.0,0.46,0.56,1.0545,0.1,2026-11-09T21:44:51+00:00
+2026-11-09T21:45:21+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.46,Sascha Gueymard-Wayenburg,polyus,0.48,0.9747,0.0,0.0,0.0,0.0,0.53,0.56,1.1246,0.1,2026-11-09T21:45:21+00:00
+2026-11-09T21:45:31+00:00,budkov v gueymard,True,Nicolai Budkov Kjaer,kalshi,0.46,Sascha Gueymard-Wayenburg,polyus,0.48,0.9747,0.0,10423.79,0.0,0.0,0.53,0.48,1.0448,0.2,2026-11-09T21:45:21+00:00
+2026-11-09T21:46:21+00:00,hans v svajda,True,Max Hans Rehberg,kalshi,0.73,Trevor Svajda,polyus,0.24,0.9965,0.0,60909.38,0.0,0.0,0.77,0.24,1.0351,0.1,2026-11-09T21:46:21+00:00
+2026-11-09T21:46:31+00:00,hans v svajda,True,Max Hans Rehberg,kalshi,0.73,Trevor Svajda,polyus,0.24,0.9965,0.0,60909.38,0.0,0.0,0.77,0.24,1.0351,0.1,2026-11-09T21:46:21+00:00
+2026-11-09T21:46:51+00:00,hans v svajda,True,Max Hans Rehberg,kalshi,0.73,Trevor Svajda,polyus,0.22,0.9757,0.0,67292.83,0.0,0.0,0.79,0.22,1.0335,0.1,2026-11-09T21:46:51+00:00
+2026-11-09T21:47:21+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.91,Karolina Muchova,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.93,0.11,1.0514,0.1,2026-11-09T21:47:21+00:00
+2026-11-09T21:47:51+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.9,Karolina Muchova,kalshi,0.08,0.9914,0.0,0.0,0.0,0.0,0.94,0.11,1.0608,0.1,2026-11-09T21:47:51+00:00
+2026-11-09T21:48:21+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.9,Karolina Muchova,polyus,0.07,0.9808,0.0,24534.47,0.0,0.0,0.94,0.07,1.0185,0.1,2026-11-09T21:48:21+00:00
+2026-11-09T21:48:31+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.9,Karolina Muchova,polyus,0.07,0.9808,0.0,24534.47,0.0,0.0,0.94,0.07,1.0185,0.1,2026-11-09T21:48:21+00:00
+2026-11-09T21:48:51+00:00,kennedy v mejia,True,Jack Kennedy,kalshi,0.3,Nicolas Mejia,polyus,0.66,0.9903,0.0,974.89,0.0,0.0,0.35,0.66,1.0415,0.1,2026-11-09T21:48:51+00:00
+2026-11-09T21:49:01+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.94,Karolina Muchova,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.96,0.07,1.0372,0.1,2026-11-09T21:49:01+00:00
+2026-11-09T21:49:11+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.94,Karolina Muchova,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,0.07,1.0372,0.1,2026-11-09T21:49:01+00:00
+2026-11-09T21:50:41+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.96,Karolina Muchova,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,0.97,0.05,1.0253,0.1,2026-11-09T21:50:41+00:00
+2026-11-09T21:51:01+00:00,hans v svajda,True,Max Hans Rehberg,kalshi,0.8,Trevor Svajda,polyus,0.15,0.9701,0.0,0.0,0.0,0.0,0.86,0.21,1.09,0.1,2026-11-09T21:51:01+00:00
+2026-11-09T21:51:11+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.95,Karolina Muchova,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,0.96,0.06,1.0266,0.1,2026-11-09T21:51:11+00:00
+2026-11-09T21:51:21+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.25,Nicolas Mejia,kalshi,0.71,0.9874,0.0,0.0,0.0,0.0,0.29,0.76,1.0771,0.1,2026-11-09T21:51:21+00:00
+2026-11-09T21:51:31+00:00,hans v svajda,True,Max Hans Rehberg,polyus,0.81,Trevor Svajda,kalshi,0.15,0.9796,0.0,0.0,0.0,0.0,0.86,0.2,1.0796,0.1,2026-11-09T21:51:31+00:00
+2026-11-09T21:51:31+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.25,Nicolas Mejia,kalshi,0.71,0.9874,0.0,0.0,0.0,0.0,0.29,0.76,1.0771,0.1,2026-11-09T21:51:21+00:00
+2026-11-09T21:51:41+00:00,hans v svajda,True,Max Hans Rehberg,polyus,0.81,Trevor Svajda,kalshi,0.15,0.9796,0.0,0.0,0.0,0.0,0.86,0.2,1.0796,0.1,2026-11-09T21:51:31+00:00
+2026-11-09T21:51:41+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.25,Nicolas Mejia,kalshi,0.71,0.9874,0.0,0.0,0.0,0.0,0.29,0.76,1.0771,0.1,2026-11-09T21:51:21+00:00
+2026-11-09T21:51:51+00:00,hans v svajda,True,Max Hans Rehberg,polyus,0.81,Trevor Svajda,kalshi,0.15,0.9796,60100.45,0.0,0.0,0.0,0.81,0.2,1.0319,0.1,2026-11-09T21:51:31+00:00
+2026-11-09T21:51:51+00:00,kennedy v mejia,True,Jack Kennedy,polyus,0.25,Nicolas Mejia,kalshi,0.71,0.9874,38599.58,0.0,0.0,0.0,0.25,0.76,1.0358,0.1,2026-11-09T21:51:21+00:00
+2026-11-09T21:52:31+00:00,hans v svajda,True,Max Hans Rehberg,kalshi,0.82,Trevor Svajda,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,0.2,1.0795,0.1,2026-11-09T21:52:31+00:00
+2026-11-09T21:52:41+00:00,hans v svajda,True,Max Hans Rehberg,kalshi,0.82,Trevor Svajda,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,0.2,1.0795,0.1,2026-11-09T21:52:31+00:00
+2026-11-09T21:52:51+00:00,hans v svajda,True,Max Hans Rehberg,kalshi,0.82,Trevor Svajda,polyus,0.13,0.9682,0.0,0.0,0.0,0.0,0.88,0.15,1.0463,0.1,2026-11-09T21:52:31+00:00
+2026-11-09T21:53:11+00:00,hans v svajda,True,Max Hans Rehberg,kalshi,0.86,Trevor Svajda,polyus,0.06,0.9323,0.0,0.0,0.0,0.0,0.94,0.15,1.1028,0.1,2026-11-09T21:53:11+00:00
+2026-11-09T21:53:21+00:00,hans v svajda,True,Max Hans Rehberg,kalshi,0.86,Trevor Svajda,polyus,0.06,0.9323,0.0,36989.29,0.0,0.0,0.95,0.06,1.0172,0.1,2026-11-09T21:53:11+00:00
+2026-11-09T21:54:41+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.91,Karolina Muchova,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,0.94,0.1,1.0502,0.1,2026-11-09T21:54:41+00:00
+2026-11-09T21:54:51+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.91,Karolina Muchova,kalshi,0.07,0.9902,8889.0,0.0,0.0,0.0,0.91,0.1,1.022,0.1,2026-11-09T21:54:41+00:00
+2026-11-09T21:55:01+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.91,Karolina Muchova,kalshi,0.07,0.9902,8889.0,0.0,0.0,0.0,0.91,0.1,1.022,0.1,2026-11-09T21:54:41+00:00
+2026-11-09T21:55:11+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.91,Karolina Muchova,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,0.1,1.0502,0.1,2026-11-09T21:55:11+00:00
+2026-11-09T21:55:21+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.91,Karolina Muchova,polyus,0.07,0.9903,0.0,97410.35,0.0,0.0,0.94,0.07,1.0185,0.1,2026-11-09T21:55:11+00:00
+2026-11-09T21:55:31+00:00,hans v svajda,True,Max Hans Rehberg,polyus,0.92,Trevor Svajda,kalshi,0.06,0.9891,0.0,0.0,0.0,0.0,0.95,0.09,1.049,0.1,2026-11-09T21:55:31+00:00
+2026-11-09T21:55:31+00:00,muchova v sabalenka,True,Aryna Sabalenka,kalshi,0.91,Karolina Muchova,polyus,0.07,0.9903,0.0,97410.35,0.0,0.0,0.94,0.07,1.0185,0.1,2026-11-09T21:55:11+00:00
+2026-11-09T21:55:41+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.9,Karolina Muchova,kalshi,0.07,0.9808,0.0,0.0,0.0,0.0,0.94,0.11,1.0608,0.1,2026-11-09T21:55:41+00:00
+2026-11-09T21:55:51+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.9,Karolina Muchova,kalshi,0.07,0.9808,98767.37,0.0,0.0,0.0,0.9,0.11,1.0231,0.1,2026-11-09T21:55:41+00:00
+2026-11-09T21:56:01+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.89,Karolina Muchova,kalshi,0.07,0.9714,0.0,0.0,0.0,0.0,0.9,0.12,1.0336,0.1,2026-11-09T21:55:41+00:00
+2026-11-09T21:56:21+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.84,Karolina Muchova,kalshi,0.12,0.9767,63792.53,0.0,0.0,0.0,0.84,0.17,1.0292,0.1,2026-11-09T21:56:21+00:00
+2026-11-09T21:56:31+00:00,muchova v sabalenka,True,Aryna Sabalenka,polyus,0.84,Karolina Muchova,kalshi,0.12,0.9767,63792.53,0.0,0.0,0.0,0.84,0.17,1.0292,0.2,2026-11-09T21:56:21+00:00
+2026-11-09T21:56:31+00:00,hans v svajda,True,Max Hans Rehberg,polyus,0.91,Trevor Svajda,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,0.94,0.1,1.0502,0.1,2026-11-09T21:56:31+00:00
