@@ -1027,3 +1027,72 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-10T23:04:36+00:00,galarneau v kozlov,True,Alexis Galarneau,polyus,0.11,Stefan Kozlov,kalshi,0.85,0.9757,0.0,0.0,0,0.0,0.16,0.9,1.0756,0.1,2026-11-10T23:04:36+00:00
 2026-11-10T23:04:46+00:00,galarneau v kozlov,True,Alexis Galarneau,polyus,0.11,Stefan Kozlov,kalshi,0.85,0.9757,30365.64,0.0,0,0.0,0.11,0.9,1.0231,0.1,2026-11-10T23:04:36+00:00
 2026-11-10T23:06:06+00:00,hussey v zheng,True,Giles Hussey,polyus,0.63,Michael Zheng,kalshi,0.33,0.9917,0.0,0.0,0,0.0,0.7,0.37,1.1009,0.1,2026-11-10T23:06:06+00:00
+2026-11-10T23:08:46+00:00,hussey v zheng,True,Giles Hussey,polyus,0.56,Michael Zheng,kalshi,0.4,0.9939,43612.38,0.0,0,0.0,0.56,0.45,1.0444,0.1,2026-11-10T23:08:46+00:00
+2026-11-10T23:08:56+00:00,gauff v noskova,True,Coco Gauff,polyus,0.11,Linda Noskova,kalshi,0.87,0.9947,0.0,0.0,0,0.0,0.14,0.9,1.0547,0.0,2026-11-10T23:08:56+00:00
+2026-11-10T23:09:16+00:00,gauff v noskova,True,Coco Gauff,polyus,0.08,Linda Noskova,kalshi,0.9,0.9914,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.0,2026-11-10T23:09:16+00:00
+2026-11-10T23:09:26+00:00,gauff v noskova,True,Coco Gauff,polyus,0.08,Linda Noskova,kalshi,0.9,0.9914,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.0,2026-11-10T23:09:16+00:00
+2026-11-10T23:09:26+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.55,Michael Zheng,polyus,0.41,0.9941,0.0,0.0,0,0.0,0.6,0.48,1.1141,0.0,2026-11-10T23:09:26+00:00
+2026-11-10T23:09:36+00:00,gauff v noskova,True,Coco Gauff,kalshi,0.08,Linda Noskova,polyus,0.9,0.9914,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.0,2026-11-10T23:09:36+00:00
+2026-11-10T23:09:36+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.55,Michael Zheng,polyus,0.41,0.9941,0.0,0.0,0,0.0,0.6,0.48,1.1141,0.0,2026-11-10T23:09:26+00:00
+2026-11-10T23:09:46+00:00,gauff v noskova,True,Coco Gauff,kalshi,0.08,Linda Noskova,polyus,0.9,0.9914,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.0,2026-11-10T23:09:36+00:00
+2026-11-10T23:09:46+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.55,Michael Zheng,polyus,0.41,0.9941,0.0,52185.75,0,0.0,0.6,0.41,1.0436,0.1,2026-11-10T23:09:26+00:00
+2026-11-10T23:09:56+00:00,gauff v noskova,True,Coco Gauff,kalshi,0.08,Linda Noskova,polyus,0.88,0.9725,0.0,0.0,0,0.0,0.13,0.93,1.0724,0.0,2026-11-10T23:09:36+00:00
+2026-11-10T23:09:56+00:00,hussey v zheng,True,Giles Hussey,polyus,0.55,Michael Zheng,kalshi,0.41,0.9941,0.0,0.0,0,0.0,0.6,0.46,1.0941,0.0,2026-11-10T23:09:56+00:00
+2026-11-10T23:10:06+00:00,hussey v zheng,True,Giles Hussey,polyus,0.55,Michael Zheng,kalshi,0.41,0.9941,0.0,0.0,0,0.0,0.6,0.46,1.0941,0.0,2026-11-10T23:09:56+00:00
+2026-11-10T23:10:16+00:00,hussey v zheng,True,Giles Hussey,polyus,0.55,Michael Zheng,kalshi,0.41,0.9941,56709.67,0.0,0,0.0,0.55,0.48,1.0647,0.0,2026-11-10T23:09:56+00:00
+2026-11-10T23:10:36+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.53,Michael Zheng,polyus,0.42,0.9844,0.0,0.0,0,0.0,0.59,0.46,1.0842,0.0,2026-11-10T23:10:36+00:00
+2026-11-10T23:10:46+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.53,Michael Zheng,polyus,0.42,0.9844,0.0,55163.61,0,0.0,0.59,0.42,1.0439,0.1,2026-11-10T23:10:36+00:00
+2026-11-10T23:10:56+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.53,Michael Zheng,polyus,0.42,0.9844,0.0,55163.61,0,0.0,0.6,0.42,1.0537,0.0,2026-11-10T23:10:36+00:00
+2026-11-10T23:11:36+00:00,hussey v zheng,True,Giles Hussey,polyus,0.51,Michael Zheng,kalshi,0.42,0.9644,0.0,0.0,0,0.0,0.6,0.5,1.1342,0.0,2026-11-10T23:11:36+00:00
+2026-11-10T23:11:36+00:00,galarneau v kozlov,True,Alexis Galarneau,kalshi,0.07,Stefan Kozlov,polyus,0.92,0.9997,0.0,0.0,0,0.0,0.08,0.94,1.0291,0.1,2026-11-10T23:11:36+00:00
+2026-11-10T23:12:06+00:00,hussey v zheng,True,Giles Hussey,polyus,0.47,Michael Zheng,kalshi,0.47,0.9747,0.0,0.0,0,0.0,0.51,0.59,1.1343,0.0,2026-11-10T23:12:06+00:00
+2026-11-10T23:12:06+00:00,gauff v noskova,True,Coco Gauff,polyus,0.1,Linda Noskova,kalshi,0.88,0.9936,0.0,0.0,0,0.0,0.11,0.91,1.0325,0.1,2026-11-10T23:12:06+00:00
+2026-11-10T23:12:16+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.49,Michael Zheng,polyus,0.43,0.9545,0.0,49397.86,0,0.0,0.59,0.43,1.054,0.0,2026-11-10T23:12:16+00:00
+2026-11-10T23:12:16+00:00,gauff v noskova,True,Coco Gauff,polyus,0.1,Linda Noskova,kalshi,0.88,0.9936,0.0,0.0,0,0.0,0.11,0.91,1.0325,0.0,2026-11-10T23:12:06+00:00
+2026-11-10T23:12:26+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.49,Michael Zheng,polyus,0.43,0.9545,0.0,49397.86,0,0.0,0.59,0.43,1.054,0.0,2026-11-10T23:12:16+00:00
+2026-11-10T23:12:36+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.49,Michael Zheng,polyus,0.42,0.9444,0.0,0.0,0,0.0,0.6,0.43,1.0638,0.0,2026-11-10T23:12:16+00:00
+2026-11-10T23:12:46+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.6,Michael Zheng,polyus,0.36,0.9928,0.0,28670.41,0,0.0,0.65,0.36,1.0419,0.1,2026-11-10T23:12:16+00:00
+2026-11-10T23:12:56+00:00,barrios v pablo,True,Juan Pablo Varillas,kalshi,0.26,Tomas Barrios,polyus,0.71,0.9978,0.0,0.0,0,0.0,0.3,0.75,1.0777,0.0,2026-11-10T23:12:56+00:00
+2026-11-10T23:13:06+00:00,barrios v pablo,True,Juan Pablo Varillas,kalshi,0.26,Tomas Barrios,polyus,0.71,0.9978,0.0,0.0,0,0.0,0.3,0.75,1.0777,0.0,2026-11-10T23:12:56+00:00
+2026-11-10T23:13:16+00:00,barrios v pablo,True,Juan Pablo Varillas,kalshi,0.26,Tomas Barrios,polyus,0.71,0.9978,0.0,14198.3,0,0.0,0.3,0.71,1.039,0.1,2026-11-10T23:12:56+00:00
+2026-11-10T23:13:36+00:00,hussey v zheng,True,Giles Hussey,polyus,0.5,Michael Zheng,kalshi,0.42,0.9544,0.0,0.0,0,0.0,0.59,0.51,1.1343,0.0,2026-11-10T23:13:36+00:00
+2026-11-10T23:13:46+00:00,hussey v zheng,True,Giles Hussey,polyus,0.5,Michael Zheng,kalshi,0.42,0.9544,66214.85,0.0,0,0.0,0.5,0.51,1.0449,0.1,2026-11-10T23:13:36+00:00
+2026-11-10T23:13:56+00:00,hussey v zheng,True,Giles Hussey,polyus,0.44,Michael Zheng,kalshi,0.51,0.9846,0.0,0.0,0,0.0,0.5,0.59,1.1243,0.0,2026-11-10T23:13:36+00:00
+2026-11-10T23:14:06+00:00,hussey v zheng,True,Giles Hussey,polyus,0.45,Michael Zheng,kalshi,0.51,0.9947,0.0,0.0,0,0.0,0.5,0.58,1.1144,0.0,2026-11-10T23:13:36+00:00
+2026-11-10T23:14:16+00:00,hussey v zheng,True,Giles Hussey,polyus,0.38,Michael Zheng,kalshi,0.51,0.9239,50605.15,0.0,0,0.0,0.38,0.63,1.0427,0.0,2026-11-10T23:13:36+00:00
+2026-11-10T23:14:46+00:00,galarneau v kozlov,True,Alexis Galarneau,kalshi,0.1,Stefan Kozlov,polyus,0.88,0.9936,0.0,0.0,0,0.0,0.13,0.9,1.0442,0.1,2026-11-10T23:14:46+00:00
+2026-11-10T23:15:46+00:00,barrios v pablo,True,Juan Pablo Varillas,polyus,0.24,Marcelo Tomas Barrios Vera,kalshi,0.73,0.9965,0.0,0.0,0,0.0,0.28,0.77,1.0764,0.1,2026-11-10T23:15:46+00:00
+2026-11-10T23:15:56+00:00,galarneau v kozlov,True,Alexis Galarneau,kalshi,0.15,Stefan Kozlov,polyus,0.82,0.9892,0.0,0.0,0,0.0,0.19,0.87,1.0786,0.0,2026-11-10T23:15:56+00:00
+2026-11-10T23:15:56+00:00,barrios v pablo,True,Juan Pablo Varillas,polyus,0.24,Marcelo Tomas Barrios Vera,kalshi,0.73,0.9965,0.0,0.0,0,0.0,0.28,0.77,1.0764,0.0,2026-11-10T23:15:46+00:00
+2026-11-10T23:16:06+00:00,galarneau v kozlov,True,Alexis Galarneau,kalshi,0.15,Stefan Kozlov,polyus,0.82,0.9892,0.0,0.0,0,0.0,0.19,0.87,1.0786,0.0,2026-11-10T23:15:56+00:00
+2026-11-10T23:16:06+00:00,barrios v pablo,True,Juan Pablo Varillas,polyus,0.24,Marcelo Tomas Barrios Vera,kalshi,0.73,0.9965,0.0,0.0,0,0.0,0.28,0.77,1.0764,0.0,2026-11-10T23:15:46+00:00
+2026-11-10T23:16:36+00:00,hussey v zheng,True,Giles Hussey,polyus,0.32,Michael Zheng,kalshi,0.64,0.9913,0.0,0.0,0,0.0,0.34,0.69,1.0606,0.0,2026-11-10T23:16:36+00:00
+2026-11-10T23:16:56+00:00,hussey v zheng,True,Giles Hussey,polyus,0.3,Michael Zheng,kalshi,0.66,0.9903,0.0,0.0,0,0.0,0.31,0.71,1.0493,0.1,2026-11-10T23:16:56+00:00
+2026-11-10T23:17:06+00:00,hussey v zheng,True,Giles Hussey,polyus,0.3,Michael Zheng,kalshi,0.66,0.9903,0.0,0.0,0,0.0,0.31,0.71,1.0493,0.0,2026-11-10T23:16:56+00:00
+2026-11-10T23:17:36+00:00,gauff v noskova,True,Coco Gauff,kalshi,0.11,Linda Noskova,polyus,0.86,0.9852,0.0,0.0,0,0.0,0.15,0.88,1.0463,0.1,2026-11-10T23:17:36+00:00
+2026-11-10T23:17:46+00:00,gauff v noskova,True,Coco Gauff,kalshi,0.11,Linda Noskova,polyus,0.86,0.9852,0.0,0.0,0,0.0,0.15,0.88,1.0463,0.0,2026-11-10T23:17:36+00:00
+2026-11-10T23:18:06+00:00,gauff v noskova,True,Coco Gauff,kalshi,0.15,Linda Noskova,polyus,0.83,0.9987,0.0,0.0,0,0.0,0.18,0.87,1.0682,0.0,2026-11-10T23:18:06+00:00
+2026-11-10T23:18:16+00:00,gauff v noskova,True,Coco Gauff,kalshi,0.15,Linda Noskova,polyus,0.82,0.9892,0.0,0.0,0,0.0,0.19,0.87,1.0786,0.0,2026-11-10T23:18:06+00:00
+2026-11-10T23:18:36+00:00,gauff v noskova,True,Coco Gauff,polyus,0.16,Linda Noskova,kalshi,0.82,0.9997,0.0,0.0,0,0.0,0.19,0.85,1.0596,0.0,2026-11-10T23:18:36+00:00
+2026-11-10T23:18:46+00:00,gauff v noskova,True,Coco Gauff,polyus,0.16,Linda Noskova,kalshi,0.82,0.9997,0.0,0.0,0,0.0,0.19,0.85,1.0596,0.0,2026-11-10T23:18:36+00:00
+2026-11-10T23:18:56+00:00,gauff v noskova,True,Coco Gauff,polyus,0.16,Linda Noskova,kalshi,0.82,0.9997,0.0,0.0,0,0.0,0.19,0.85,1.0596,0.0,2026-11-10T23:18:36+00:00
+2026-11-10T23:19:26+00:00,gauff v noskova,True,Coco Gauff,polyus,0.13,Linda Noskova,kalshi,0.85,0.9968,0.0,0.0,0,0.0,0.16,0.89,1.0662,0.0,2026-11-10T23:19:26+00:00
+2026-11-10T23:19:36+00:00,gauff v noskova,True,Coco Gauff,polyus,0.12,Linda Noskova,kalshi,0.86,0.9958,58637.97,0.0,0,0.0,0.12,0.89,1.0242,0.1,2026-11-10T23:19:26+00:00
+2026-11-10T23:19:46+00:00,gauff v noskova,True,Coco Gauff,polyus,0.12,Linda Noskova,kalshi,0.86,0.9958,58637.97,0.0,0,0.0,0.12,0.89,1.0242,0.0,2026-11-10T23:19:26+00:00
+2026-11-10T23:19:56+00:00,gauff v noskova,True,Coco Gauff,polyus,0.12,Linda Noskova,kalshi,0.86,0.9958,58637.97,0.0,0,0.0,0.12,0.89,1.0242,0.0,2026-11-10T23:19:26+00:00
+2026-11-10T23:20:06+00:00,gauff v noskova,True,Coco Gauff,polyus,0.08,Linda Noskova,kalshi,0.89,0.982,0.0,0.0,0,0.0,0.13,0.93,1.0724,0.1,2026-11-10T23:19:26+00:00
+2026-11-10T23:20:16+00:00,gauff v noskova,True,Coco Gauff,polyus,0.08,Linda Noskova,kalshi,0.89,0.982,0.0,0.0,0,0.0,0.13,0.93,1.0724,0.0,2026-11-10T23:19:26+00:00
+2026-11-10T23:20:26+00:00,gauff v noskova,True,Coco Gauff,polyus,0.08,Linda Noskova,kalshi,0.89,0.982,0.0,0.0,0,0.0,0.13,0.93,1.0724,0.0,2026-11-10T23:19:26+00:00
+2026-11-10T23:20:36+00:00,gauff v noskova,True,Coco Gauff,polyus,0.06,Linda Noskova,kalshi,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.96,1.0478,0.1,2026-11-10T23:19:26+00:00
+2026-11-10T23:20:46+00:00,gauff v noskova,True,Coco Gauff,polyus,0.05,Linda Noskova,kalshi,0.93,0.9879,0.0,0.0,0,0.0,0.08,0.96,1.0478,0.0,2026-11-10T23:19:26+00:00
+2026-11-10T23:20:56+00:00,gauff v noskova,True,Coco Gauff,polyus,0.05,Linda Noskova,kalshi,0.93,0.9879,0.0,0.0,0,0.0,0.08,0.96,1.0478,0.0,2026-11-10T23:19:26+00:00
+2026-11-10T23:21:06+00:00,barrios v pablo,True,Juan Pablo Varillas,kalshi,0.26,Tomas Barrios,polyus,0.71,0.9978,0.0,0.0,0,0.0,0.3,0.75,1.0777,0.1,2026-11-10T23:21:06+00:00
+2026-11-10T23:21:16+00:00,barrios v pablo,True,Juan Pablo Varillas,kalshi,0.26,Tomas Barrios,polyus,0.7,0.9881,0.0,100.0,0,0.0,0.3,0.7,1.0293,0.1,2026-11-10T23:21:06+00:00
+2026-11-10T23:21:56+00:00,barrios v pablo,True,Juan Pablo Varillas,kalshi,0.3,Tomas Barrios,polyus,0.64,0.9707,0.0,0.0,0,0.0,0.37,0.7,1.1009,0.1,2026-11-10T23:21:56+00:00
+2026-11-10T23:21:56+00:00,galarneau v kozlov,True,Alexis Galarneau,kalshi,0.21,Stefan Kozlov,polyus,0.76,0.9943,0.0,0.0,0,0.0,0.24,0.78,1.0447,0.0,2026-11-10T23:21:56+00:00
+2026-11-10T23:22:06+00:00,barrios v pablo,True,Juan Pablo Varillas,kalshi,0.3,Tomas Barrios,polyus,0.64,0.9707,0.0,0.0,0,0.0,0.37,0.7,1.1009,0.0,2026-11-10T23:21:56+00:00
+2026-11-10T23:22:06+00:00,galarneau v kozlov,True,Alexis Galarneau,kalshi,0.21,Stefan Kozlov,polyus,0.76,0.9943,0.0,0.0,0,0.0,0.24,0.78,1.0447,0.0,2026-11-10T23:21:56+00:00
+2026-11-10T23:22:36+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.29,Michael Zheng,polyus,0.68,0.9995,0.0,0.0,0,0.0,0.33,0.72,1.0795,0.0,2026-11-10T23:22:36+00:00
+2026-11-10T23:23:06+00:00,barrios v pablo,True,Juan Pablo Varillas,polyus,0.28,Marcelo Tomas Barrios Vera,kalshi,0.68,0.9892,0.0,0.0,0,0.0,0.33,0.73,1.0892,0.0,2026-11-10T23:23:06+00:00
+2026-11-10T23:23:16+00:00,barrios v pablo,True,Juan Pablo Varillas,polyus,0.28,Marcelo Tomas Barrios Vera,kalshi,0.69,0.999,1518.04,0.0,0,0.0,0.28,0.73,1.0378,0.1,2026-11-10T23:23:06+00:00
+2026-11-10T23:23:26+00:00,barrios v pablo,True,Juan Pablo Varillas,polyus,0.28,Marcelo Tomas Barrios Vera,kalshi,0.69,0.999,1518.04,0.0,0,0.0,0.28,0.73,1.0378,0.0,2026-11-10T23:23:06+00:00
