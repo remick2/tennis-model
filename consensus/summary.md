@@ -1,4 +1,4 @@
-# Consensus paper tracker — Tue Nov 10, 3:40PM MT
+# Consensus paper tracker — Tue Nov 10, 4:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 2-1 | -0.02 | 4-0 | +1.36 | 0 |
-| Track only | all 15 | 5-4 | -0.36 | 10-6 | +1.03 | 1 |
-| Split | all 15 | 10-5 | +5.39 | 6-4 | -1.34 | 1 |
+| Track only | all 15 | 5-4 | -0.36 | 10-6 | +1.03 | 4 |
+| Split | all 15 | 10-5 | +5.39 | 6-4 | -1.34 | 2 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
-| Track only | core 10 only | 1-2 | -1.29 | 3-1 | +0.26 | 1 |
-| Split | core 10 only | 1-1 | -0.10 | 2-0 | +0.40 | 1 |
+| Track only | core 10 only | 1-2 | -1.29 | 3-1 | +0.26 | 4 |
+| Split | core 10 only | 1-1 | -0.10 | 2-0 | +0.40 | 2 |
 
 **By price** (new roster, pre-game, graded):
 
@@ -67,3 +67,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-10 | NBA | Celtics vs. 76ers | Celtics (Moneyline) | Split | pre-game | monkeymashingkeyboard; drainedandpoor | purplegatto | 51.5c |
 | new | 2026-11-10 | CFB | Ohio vs. Miami (OH) | Miami (OH) (+1.5) (Spread) | Track only | pre-game | 0xb4F978BE; 0x9f15613e | — | 51.5c |
+| new | 2026-11-10 | NBA | Clippers vs. Suns | Suns (-3.5) (Spread) | Track only | pre-game | monkeymashingkeyboard; jakepaulthegoat2008 | — | 50.5c |
+| new | 2026-11-10 | NBA | Clippers vs. Suns | Suns (Moneyline) | Split | pre-game | monkeymashingkeyboard; jakepaulthegoat2008 | drainedandpoor | 62.5c |
+| new | 2026-11-10 | NBA | Celtics vs. 76ers | Celtics (-1.5) (Spread) | Track only | pre-game | purplegatto; jakepaulthegoat2008 | — | 52.5c |
+| new | 2026-11-11 | CS2 | Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B | FUT Esports (Map handicap) | Track only | pre-game | jakepaulthegoat2008; drainedandpoor | — | 49.5c |
