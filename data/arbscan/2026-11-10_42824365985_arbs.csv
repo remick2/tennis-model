@@ -888,3 +888,202 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-10T16:26:48+00:00,gormaz v monnet,True,Carole Monnet,polyus,0.55,Leyre Romero Gormaz,kalshi,0.39,0.9739,0.0,0.0,0,0.0,0.61,0.46,1.1039,0.0,2026-11-10T16:26:38+00:00
 2026-11-10T16:26:48+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.71,Miomir Kecmanovic,kalshi,0.26,0.9978,69520.32,0.0,0,0.0,0.71,0.3,1.039,0.0,2026-11-10T16:26:38+00:00
 2026-11-10T16:26:48+00:00,barsukov v moeller,True,Marvin Moeller,kalshi,0.93,Nikolai Barsukov,polyus,0.06,0.9985,0.0,0.0,0,0.0,0.95,0.08,1.0384,0.1,2026-11-10T16:26:48+00:00
+2026-11-10T16:27:18+00:00,riera v tubello,True,Alice Tubello,polyus,0.29,Julia Riera,kalshi,0.64,0.9604,0.0,0.0,0,0.0,0.37,0.72,1.1203,0.0,2026-11-10T16:27:18+00:00
+2026-11-10T16:27:28+00:00,clarke v janvier,True,Jay Clarke,polyus,0.26,Maxime Janvier,kalshi,0.68,0.9686,0.0,0.0,0,0.0,0.33,0.75,1.1085,0.1,2026-11-10T16:27:28+00:00
+2026-11-10T16:27:38+00:00,riera v tubello,True,Alice Tubello,kalshi,0.29,Julia Riera,polyus,0.54,0.8617,0.0,10250.0,0,0.0,0.48,0.53,1.0448,0.1,2026-11-10T16:27:38+00:00
+2026-11-10T16:27:38+00:00,clarke v janvier,True,Jay Clarke,polyus,0.26,Maxime Janvier,kalshi,0.68,0.9686,0.0,0.0,0,0.0,0.33,0.75,1.1085,0.0,2026-11-10T16:27:28+00:00
+2026-11-10T16:27:38+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.92,Nikolai Barsukov,kalshi,0.06,0.9891,0.0,0.0,0,0.0,0.95,0.08,1.0385,0.0,2026-11-10T16:27:38+00:00
+2026-11-10T16:27:48+00:00,riera v tubello,True,Alice Tubello,kalshi,0.29,Julia Riera,polyus,0.54,0.8617,0.0,10250.0,0,0.0,0.48,0.53,1.0448,0.0,2026-11-10T16:27:38+00:00
+2026-11-10T16:27:48+00:00,clarke v janvier,True,Jay Clarke,polyus,0.26,Maxime Janvier,kalshi,0.68,0.9686,0.0,0.0,0,0.0,0.33,0.75,1.1085,0.0,2026-11-10T16:27:28+00:00
+2026-11-10T16:27:48+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.92,Nikolai Barsukov,kalshi,0.06,0.9891,0.0,0.0,0,0.0,0.95,0.08,1.0385,0.0,2026-11-10T16:27:38+00:00
+2026-11-10T16:27:58+00:00,riera v tubello,True,Alice Tubello,kalshi,0.29,Julia Riera,polyus,0.51,0.8318,0.0,0.0,0,0.0,0.5,0.53,1.0648,0.0,2026-11-10T16:27:38+00:00
+2026-11-10T16:27:58+00:00,clarke v janvier,True,Jay Clarke,polyus,0.26,Maxime Janvier,kalshi,0.68,0.9686,1021.05,0.0,0,0.0,0.26,0.75,1.0365,0.1,2026-11-10T16:27:28+00:00
+2026-11-10T16:28:08+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.26,Maxime Janvier,polyus,0.69,0.9783,0.0,0.0,0,0.0,0.32,0.75,1.0983,0.0,2026-11-10T16:28:08+00:00
+2026-11-10T16:28:08+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.73,John Echeverria,polyus,0.23,0.9861,0.0,0.0,0,0.0,0.78,0.28,1.086,0.0,2026-11-10T16:28:08+00:00
+2026-11-10T16:28:08+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,kalshi,0.72,Miomir Kecmanovic,polyus,0.25,0.9971,0.0,0.0,0,0.0,0.76,0.29,1.0771,0.0,2026-11-10T16:28:08+00:00
+2026-11-10T16:28:18+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.73,John Echeverria,polyus,0.23,0.9861,0.0,0.0,0,0.0,0.78,0.28,1.086,0.0,2026-11-10T16:28:08+00:00
+2026-11-10T16:28:18+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.26,Maxime Janvier,polyus,0.71,0.9978,0.0,0.0,0,0.0,0.33,0.75,1.1085,0.0,2026-11-10T16:28:08+00:00
+2026-11-10T16:28:28+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.26,Maxime Janvier,polyus,0.63,0.9197,0.0,17210.58,0,0.0,0.38,0.63,1.0427,0.0,2026-11-10T16:28:08+00:00
+2026-11-10T16:28:28+00:00,riera v tubello,True,Alice Tubello,polyus,0.36,Julia Riera,kalshi,0.54,0.9334,0.0,0.0,0,0.0,0.52,0.65,1.2033,0.0,2026-11-10T16:28:28+00:00
+2026-11-10T16:28:28+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.73,John Echeverria,polyus,0.22,0.9757,0.0,6178.34,0,0.0,0.79,0.22,1.0335,0.0,2026-11-10T16:28:08+00:00
+2026-11-10T16:28:38+00:00,gormaz v monnet,True,Carole Monnet,polyus,0.55,Leyre Romero Gormaz,kalshi,0.4,0.984,2349.7,0.0,0,0.0,0.55,0.46,1.0446,0.1,2026-11-10T16:28:38+00:00
+2026-11-10T16:28:38+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.72,Miomir Kecmanovic,kalshi,0.25,0.9971,0.0,0.0,0,0.0,0.76,0.29,1.0771,0.1,2026-11-10T16:28:38+00:00
+2026-11-10T16:28:38+00:00,barsukov v moeller,True,Marvin Moeller,kalshi,0.92,Nikolai Barsukov,polyus,0.07,0.9997,0.0,0.0,0,0.0,0.95,0.09,1.049,0.0,2026-11-10T16:28:38+00:00
+2026-11-10T16:28:48+00:00,riera v tubello,True,Alice Tubello,kalshi,0.36,Julia Riera,polyus,0.53,0.9234,0.0,0.0,0,0.0,0.48,0.65,1.1633,0.0,2026-11-10T16:28:48+00:00
+2026-11-10T16:28:48+00:00,gormaz v monnet,True,Carole Monnet,polyus,0.55,Leyre Romero Gormaz,kalshi,0.4,0.984,2349.7,0.0,0,0.0,0.55,0.46,1.0446,0.0,2026-11-10T16:28:38+00:00
+2026-11-10T16:28:48+00:00,barsukov v moeller,True,Marvin Moeller,kalshi,0.92,Nikolai Barsukov,polyus,0.06,0.9891,0.0,0.0,0,0.0,0.95,0.09,1.049,0.0,2026-11-10T16:28:38+00:00
+2026-11-10T16:28:48+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.72,Miomir Kecmanovic,kalshi,0.25,0.9971,64559.57,0.0,0,0.0,0.72,0.29,1.0384,0.0,2026-11-10T16:28:38+00:00
+2026-11-10T16:28:58+00:00,riera v tubello,True,Alice Tubello,kalshi,0.36,Julia Riera,polyus,0.53,0.9234,0.0,0.0,0,0.0,0.48,0.65,1.1633,0.1,2026-11-10T16:28:48+00:00
+2026-11-10T16:28:58+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.38,Maxime Janvier,polyus,0.53,0.9438,0.0,0.0,0,0.0,0.47,0.63,1.1336,0.1,2026-11-10T16:28:58+00:00
+2026-11-10T16:28:58+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.7,Miomir Kecmanovic,kalshi,0.25,0.9777,0.0,0.0,0,0.0,0.72,0.31,1.059,0.0,2026-11-10T16:28:38+00:00
+2026-11-10T16:28:58+00:00,gormaz v monnet,True,Carole Monnet,polyus,0.55,Leyre Romero Gormaz,kalshi,0.4,0.984,2349.7,0.0,0,0.0,0.55,0.49,1.0747,0.0,2026-11-10T16:28:38+00:00
+2026-11-10T16:28:58+00:00,barsukov v moeller,True,Marvin Moeller,kalshi,0.92,Nikolai Barsukov,polyus,0.06,0.9891,0.0,4782.05,0,0.0,0.95,0.06,1.0172,0.0,2026-11-10T16:28:38+00:00
+2026-11-10T16:28:58+00:00,jeff v kimhi,True,Filip Jeff Planinsek,kalshi,0.86,Orel Kimhi,polyus,0.12,0.9958,0.0,0.0,0,0.0,0.89,,,6.1,2026-11-10T16:28:58+00:00
+2026-11-10T16:29:18+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.92,Nikolai Barsukov,kalshi,0.06,0.9891,0.0,0.0,0,0.0,0.95,0.09,1.049,0.0,2026-11-10T16:29:18+00:00
+2026-11-10T16:29:28+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.92,Nikolai Barsukov,kalshi,0.06,0.9891,31328.77,0.0,0,0.0,0.92,0.09,1.0208,0.1,2026-11-10T16:29:18+00:00
+2026-11-10T16:29:48+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.47,Maxime Janvier,polyus,0.46,0.9647,0.0,0.0,0,0.0,0.55,0.53,1.1146,0.0,2026-11-10T16:29:48+00:00
+2026-11-10T16:29:48+00:00,barton v maxted,True,Hynek Barton,kalshi,0.66,Lui Maxted,polyus,0.29,0.98,0.0,0.0,0,0.0,0.72,0.35,1.0999,0.0,2026-11-10T16:29:48+00:00
+2026-11-10T16:29:58+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.47,Maxime Janvier,polyus,0.46,0.9647,0.0,49657.53,0,0.0,0.55,0.46,1.0446,0.1,2026-11-10T16:29:48+00:00
+2026-11-10T16:29:58+00:00,barton v maxted,True,Hynek Barton,kalshi,0.66,Lui Maxted,polyus,0.28,0.9697,0.0,0.0,0,0.0,0.72,0.35,1.0999,0.0,2026-11-10T16:29:48+00:00
+2026-11-10T16:30:08+00:00,riera v tubello,True,Alice Tubello,kalshi,0.34,Julia Riera,polyus,0.53,0.903,0.0,6106.4,0,0.0,0.48,0.53,1.0448,0.1,2026-11-10T16:30:08+00:00
+2026-11-10T16:30:18+00:00,riera v tubello,True,Alice Tubello,kalshi,0.34,Julia Riera,polyus,0.53,0.903,0.0,6106.4,0,0.0,0.49,0.53,1.0548,0.0,2026-11-10T16:30:08+00:00
+2026-11-10T16:30:18+00:00,echeverria v ouakaa,True,Aziz Ouakaa,polyus,0.72,John Echeverria,kalshi,0.24,0.9868,0.0,0.0,0,0.0,0.78,0.3,1.1066,0.0,2026-11-10T16:30:18+00:00
+2026-11-10T16:30:28+00:00,riera v tubello,True,Alice Tubello,kalshi,0.48,Julia Riera,polyus,0.4,0.9142,0.0,0.0,0,0.0,0.61,0.53,1.174,0.0,2026-11-10T16:30:08+00:00
+2026-11-10T16:30:28+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.48,Leyre Romero Gormaz,polyus,0.46,0.9747,0.0,0.0,0,0.0,0.55,0.53,1.1146,0.0,2026-11-10T16:30:28+00:00
+2026-11-10T16:30:28+00:00,echeverria v ouakaa,True,Aziz Ouakaa,polyus,0.71,John Echeverria,kalshi,0.24,0.9771,8010.21,0.0,0,0.0,0.71,0.3,1.039,0.0,2026-11-10T16:30:18+00:00
+2026-11-10T16:30:28+00:00,clarke v janvier,True,Jay Clarke,polyus,0.5,Maxime Janvier,kalshi,0.46,0.9948,0.0,0.0,0,0.0,0.55,0.51,1.0947,0.0,2026-11-10T16:30:28+00:00
+2026-11-10T16:30:38+00:00,riera v tubello,True,Alice Tubello,kalshi,0.48,Julia Riera,polyus,0.4,0.9142,0.0,25697.31,0,0.0,0.61,0.4,1.0433,0.0,2026-11-10T16:30:08+00:00
+2026-11-10T16:30:38+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.48,Leyre Romero Gormaz,polyus,0.46,0.9747,0.0,176.55,0,0.0,0.55,0.46,1.0446,0.0,2026-11-10T16:30:28+00:00
+2026-11-10T16:30:48+00:00,riera v tubello,True,Alice Tubello,kalshi,0.48,Julia Riera,polyus,0.4,0.9142,0.0,25697.31,0,0.0,0.61,0.4,1.0433,0.0,2026-11-10T16:30:08+00:00
+2026-11-10T16:30:48+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.57,Miomir Kecmanovic,kalshi,0.37,0.9734,6480.61,0.0,0,0.0,0.57,0.44,1.0443,0.1,2026-11-10T16:30:48+00:00
+2026-11-10T16:30:48+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.48,Leyre Romero Gormaz,polyus,0.46,0.9747,0.0,176.55,0,0.0,0.55,0.46,1.0446,0.0,2026-11-10T16:30:28+00:00
+2026-11-10T16:30:58+00:00,barton v maxted,True,Hynek Barton,polyus,0.67,Lui Maxted,kalshi,0.27,0.9692,0.0,0.0,0,0.0,0.74,0.34,1.1091,0.0,2026-11-10T16:30:58+00:00
+2026-11-10T16:30:58+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.57,Miomir Kecmanovic,kalshi,0.37,0.9734,6480.61,0.0,0,0.0,0.57,0.44,1.0443,0.0,2026-11-10T16:30:48+00:00
+2026-11-10T16:30:58+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.55,Leyre Romero Gormaz,polyus,0.39,0.9739,0.0,0.0,0,0.0,0.62,0.46,1.1138,0.0,2026-11-10T16:30:28+00:00
+2026-11-10T16:30:58+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.71,John Echeverria,polyus,0.24,0.9771,0.0,9663.18,0,0.0,0.77,0.24,1.0351,0.1,2026-11-10T16:30:58+00:00
+2026-11-10T16:31:08+00:00,riera v tubello,True,Alice Tubello,kalshi,0.61,Julia Riera,polyus,0.3,0.9412,0.0,15971.97,0,0.0,0.71,0.3,1.039,0.1,2026-11-10T16:31:08+00:00
+2026-11-10T16:31:08+00:00,barton v maxted,True,Hynek Barton,polyus,0.67,Lui Maxted,kalshi,0.27,0.9692,0.0,0.0,0,0.0,0.74,0.34,1.1091,0.0,2026-11-10T16:30:58+00:00
+2026-11-10T16:31:08+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.55,Leyre Romero Gormaz,polyus,0.39,0.9739,0.0,7888.01,0,0.0,0.62,0.39,1.043,0.0,2026-11-10T16:30:28+00:00
+2026-11-10T16:31:08+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.5,Maxime Janvier,polyus,0.44,0.9746,0.0,0.0,0,0.0,0.56,0.5,1.0946,0.0,2026-11-10T16:31:08+00:00
+2026-11-10T16:31:08+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.71,John Echeverria,polyus,0.24,0.9771,0.0,9663.18,0,0.0,0.77,0.24,1.0351,0.0,2026-11-10T16:30:58+00:00
+2026-11-10T16:31:08+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.59,Miomir Kecmanovic,kalshi,0.37,0.9931,0.0,0.0,0,0.0,,0.49,,6.1,2026-11-10T16:30:48+00:00
+2026-11-10T16:31:08+00:00,jeff v kimhi,True,Filip Jeff Planinsek,polyus,0.84,Orel Kimhi,kalshi,0.14,0.9978,0.0,0.0,0,0.0,,0.17,,6.1,2026-11-10T16:31:08+00:00
+2026-11-10T16:31:21+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.71,John Echeverria,polyus,0.18,0.9147,0.0,0.0,0,0.0,0.83,0.24,1.0926,0.0,2026-11-10T16:30:58+00:00
+2026-11-10T16:31:21+00:00,gormaz v monnet,True,Carole Monnet,polyus,0.55,Leyre Romero Gormaz,kalshi,0.39,0.9739,0.0,0.0,0,0.0,0.62,0.46,1.1138,0.0,2026-11-10T16:31:21+00:00
+2026-11-10T16:31:21+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.5,Maxime Janvier,polyus,0.44,0.9746,0.0,0.0,0,0.0,0.57,0.5,1.1045,0.1,2026-11-10T16:31:08+00:00
+2026-11-10T16:31:21+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.85,Nikolai Barsukov,kalshi,0.13,0.9968,0.0,0.0,0,0.0,0.86,0.16,1.0378,0.0,2026-11-10T16:31:21+00:00
+2026-11-10T16:31:21+00:00,jeff v kimhi,True,Filip Jeff Planinsek,polyus,0.84,Orel Kimhi,kalshi,0.14,0.9978,7076.61,0.0,0,0.0,0.84,0.17,1.0292,0.0,2026-11-10T16:31:08+00:00
+2026-11-10T16:31:31+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.77,John Echeverria,polyus,0.18,0.9727,0.0,9384.72,0,0.0,0.83,0.18,1.0301,0.0,2026-11-10T16:30:58+00:00
+2026-11-10T16:31:31+00:00,gormaz v monnet,True,Carole Monnet,polyus,0.55,Leyre Romero Gormaz,kalshi,0.39,0.9739,0.0,0.0,0,0.0,,0.46,,6.1,2026-11-10T16:31:21+00:00
+2026-11-10T16:31:31+00:00,barton v maxted,True,Hynek Barton,kalshi,0.67,Lui Maxted,polyus,0.28,0.9795,0.0,0.0,0,0.0,0.73,,,6.1,2026-11-10T16:31:31+00:00
+2026-11-10T16:31:31+00:00,fuente v rincon,True,Daniel Rincon,polyus,0.48,Santiago De la Fuente,kalshi,0.47,0.9848,30873.89,0.0,0,0.0,0.48,0.54,1.0547,0.0,2026-11-10T16:31:31+00:00
+2026-11-10T16:31:44+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,kalshi,0.57,Miomir Kecmanovic,polyus,0.35,0.953,0.0,16094.89,0,0.0,0.66,0.35,1.0415,0.1,2026-11-10T16:31:44+00:00
+2026-11-10T16:31:44+00:00,gormaz v monnet,True,Carole Monnet,polyus,0.54,Leyre Romero Gormaz,kalshi,0.39,0.9639,0.0,0.0,0,0.0,0.55,0.48,1.0647,0.1,2026-11-10T16:31:21+00:00
+2026-11-10T16:31:44+00:00,barton v maxted,True,Hynek Barton,kalshi,0.67,Lui Maxted,polyus,0.28,0.9795,0.0,8742.88,0,0.0,0.74,0.28,1.0475,0.1,2026-11-10T16:31:31+00:00
+2026-11-10T16:31:44+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.77,John Echeverria,polyus,0.19,0.9831,0.0,14167.919999999998,0,0.0,0.82,0.18,1.0206,0.0,2026-11-10T16:30:58+00:00
+2026-11-10T16:31:44+00:00,fuente v rincon,True,Daniel Rincon,polyus,0.48,Santiago De la Fuente,kalshi,0.47,0.9848,0.0,0.0,0,0.0,,0.55,,6.1,2026-11-10T16:31:31+00:00
+2026-11-10T16:31:54+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,kalshi,0.61,Miomir Kecmanovic,polyus,0.35,0.9925,0.0,16094.89,0,0.0,0.66,0.35,1.0415,0.0,2026-11-10T16:31:44+00:00
+2026-11-10T16:32:04+00:00,fuente v rincon,True,Daniel Rincon,polyus,0.38,Santiago De la Fuente,kalshi,0.54,0.9538,28325.29,0.0,0,0.0,0.38,0.64,1.0525,0.1,2026-11-10T16:32:04+00:00
+2026-11-10T16:32:04+00:00,echeverria v ouakaa,True,Aziz Ouakaa,polyus,0.77,John Echeverria,kalshi,0.18,0.9726,0.0,0.0,0,0.0,0.82,0.24,1.083,0.1,2026-11-10T16:32:04+00:00
+2026-11-10T16:32:04+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.54,Leyre Romero Gormaz,polyus,0.4,0.9741,0.0,26481.87,0,0.0,0.61,0.4,1.0433,0.1,2026-11-10T16:32:04+00:00
+2026-11-10T16:32:04+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,kalshi,0.61,Miomir Kecmanovic,polyus,0.34,0.9822,0.0,0.0,0,0.0,0.66,0.35,1.0415,0.0,2026-11-10T16:31:44+00:00
+2026-11-10T16:32:14+00:00,barton v maxted,True,Hynek Barton,kalshi,0.73,Lui Maxted,polyus,0.18,0.9341,0.0,31027.57,0,0.0,0.84,0.18,1.0397,0.0,2026-11-10T16:32:14+00:00
+2026-11-10T16:32:14+00:00,fuente v rincon,True,Daniel Rincon,polyus,0.37,Santiago De la Fuente,kalshi,0.54,0.9436,0.0,0.0,0,0.0,0.38,0.64,1.0525,0.0,2026-11-10T16:32:04+00:00
+2026-11-10T16:32:14+00:00,echeverria v ouakaa,True,Aziz Ouakaa,polyus,0.77,John Echeverria,kalshi,0.18,0.9726,0.0,0.0,0,0.0,0.82,0.24,1.083,0.0,2026-11-10T16:32:04+00:00
+2026-11-10T16:32:14+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.54,Leyre Romero Gormaz,polyus,0.4,0.9741,0.0,0.0,0,0.0,0.61,,,6.1,2026-11-10T16:32:04+00:00
+2026-11-10T16:32:14+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,kalshi,0.61,Miomir Kecmanovic,polyus,0.35,0.9925,129114.44,0.0,0,0.0,0.58,,,6.1,2026-11-10T16:31:44+00:00
+2026-11-10T16:32:27+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.54,Leyre Romero Gormaz,polyus,0.34,0.913,0.0,0.0,0,0.0,0.67,0.4,1.1022,0.0,2026-11-10T16:32:04+00:00
+2026-11-10T16:32:27+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.57,Miomir Kecmanovic,kalshi,0.34,0.9427,0.0,0.0,0,0.0,0.67,0.44,1.1426,0.0,2026-11-10T16:32:27+00:00
+2026-11-10T16:32:27+00:00,angelo v tabata,True,Juan Carlos Prado Angelo,kalshi,0.68,Ryo Tabata,polyus,0.28,0.9892,0.0,0.0,0,0.0,0.73,0.32,1.0789,0.0,2026-11-10T16:32:27+00:00
+2026-11-10T16:32:37+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.57,Miomir Kecmanovic,kalshi,0.34,0.9427,0.0,0.0,0,0.0,0.67,0.44,1.1426,0.0,2026-11-10T16:32:27+00:00
+2026-11-10T16:32:37+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.77,John Echeverria,polyus,0.18,0.9727,0.0,0.0,0,0.0,0.83,0.24,1.0926,0.0,2026-11-10T16:32:37+00:00
+2026-11-10T16:32:37+00:00,angelo v tabata,True,Juan Carlos Prado Angelo,kalshi,0.68,Ryo Tabata,polyus,0.28,0.9892,0.0,0.0,0,0.0,0.72,0.32,1.0692,0.0,2026-11-10T16:32:27+00:00
+2026-11-10T16:32:37+00:00,henning v mihai,True,Philip Henning,kalshi,0.51,Radu Mihai Papoe,polyus,0.45,0.9947,0.0,0.0,0,0.0,0.56,0.47,1.0646,0.0,2026-11-10T16:32:37+00:00
+2026-11-10T16:32:47+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.38,Miomir Kecmanovic,kalshi,0.44,0.8536,0.0,0.0,0,0.0,0.62,0.65,1.3023,0.1,2026-11-10T16:32:27+00:00
+2026-11-10T16:32:47+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.77,John Echeverria,polyus,0.18,0.9727,0.0,0.0,0,0.0,0.83,0.24,1.0926,0.0,2026-11-10T16:32:37+00:00
+2026-11-10T16:32:47+00:00,henning v mihai,True,Philip Henning,kalshi,0.51,Radu Mihai Papoe,polyus,0.45,0.9947,0.0,0.0,0,0.0,0.56,0.47,1.0646,0.0,2026-11-10T16:32:37+00:00
+2026-11-10T16:32:47+00:00,angelo v tabata,True,Juan Carlos Prado Angelo,kalshi,0.68,Ryo Tabata,polyus,0.29,0.9995,0.0,25.0,0,0.0,0.72,0.29,1.0384,0.0,2026-11-10T16:32:27+00:00
+2026-11-10T16:32:57+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.35,Miomir Kecmanovic,kalshi,0.44,0.8231,0.0,0.0,0,0.0,0.62,0.66,1.3121,0.0,2026-11-10T16:32:27+00:00
+2026-11-10T16:33:07+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.35,Miomir Kecmanovic,kalshi,0.44,0.8231,0.0,0.0,0,0.0,0.62,0.66,1.3121,0.0,2026-11-10T16:32:27+00:00
+2026-11-10T16:33:07+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.83,John Echeverria,polyus,0.14,0.9882,0.0,0.0,0,0.0,0.87,0.18,1.0682,0.1,2026-11-10T16:33:07+00:00
+2026-11-10T16:33:07+00:00,jeff v kimhi,True,Filip Jeff Planinsek,kalshi,0.87,Orel Kimhi,polyus,0.11,0.9947,0.0,0.0,0,0.0,0.9,0.15,1.0652,0.0,2026-11-10T16:33:07+00:00
+2026-11-10T16:33:17+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.83,John Echeverria,polyus,0.14,0.9882,0.0,0.0,0,0.0,0.87,0.18,1.0682,0.0,2026-11-10T16:33:07+00:00
+2026-11-10T16:33:17+00:00,jeff v kimhi,True,Filip Jeff Planinsek,kalshi,0.87,Orel Kimhi,polyus,0.11,0.9947,0.0,5495.11,0,0.0,0.9,0.11,1.0231,0.0,2026-11-10T16:33:07+00:00
+2026-11-10T16:33:17+00:00,angelo v tabata,True,Juan Carlos Prado Angelo,kalshi,0.72,Ryo Tabata,polyus,0.25,0.9971,0.0,0.0,0,0.0,0.75,0.29,1.0674,0.0,2026-11-10T16:33:17+00:00
+2026-11-10T16:33:47+00:00,jeff v kimhi,True,Filip Jeff Planinsek,polyus,0.86,Orel Kimhi,kalshi,0.11,0.9852,0.0,0.0,0,0.0,0.91,0.15,1.0746,0.1,2026-11-10T16:33:47+00:00
+2026-11-10T16:34:17+00:00,fuente v rincon,True,Daniel Rincon,polyus,0.31,Santiago De la Fuente,kalshi,0.64,0.981,0.0,0.0,0,0.0,0.33,0.7,1.0601,0.0,2026-11-10T16:34:17+00:00
+2026-11-10T16:34:27+00:00,fuente v rincon,True,Daniel Rincon,polyus,0.3,Santiago De la Fuente,kalshi,0.64,0.9707,0.0,0.0,0,0.0,0.33,0.71,1.0698,0.0,2026-11-10T16:34:17+00:00
+2026-11-10T16:34:27+00:00,barton v maxted,True,Hynek Barton,polyus,0.76,Lui Maxted,kalshi,0.2,0.9839,0.0,0.0,0,0.0,0.81,0.25,1.0838,0.0,2026-11-10T16:34:27+00:00
+2026-11-10T16:34:37+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.66,Gilles Arnaud Bailly,kalshi,0.24,0.9284,0.0,0.0,0,0.0,0.74,0.35,1.1193,0.0,2026-11-10T16:34:37+00:00
+2026-11-10T16:34:37+00:00,barton v maxted,True,Hynek Barton,polyus,0.76,Lui Maxted,kalshi,0.2,0.9839,0.0,0.0,0,0.0,0.81,0.25,1.0838,0.0,2026-11-10T16:34:27+00:00
+2026-11-10T16:34:37+00:00,henning v mihai,True,Philip Henning,kalshi,0.56,Radu Mihai Papoe,polyus,0.4,0.9939,0.0,0.0,0,0.0,0.61,0.44,1.0838,0.0,2026-11-10T16:34:37+00:00
+2026-11-10T16:34:47+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.66,Gilles Arnaud Bailly,kalshi,0.3,0.9903,34541.48,0.0,0,0.0,0.66,0.35,1.0415,0.1,2026-11-10T16:34:37+00:00
+2026-11-10T16:34:47+00:00,barsukov v moeller,True,Marvin Moeller,kalshi,0.88,Nikolai Barsukov,polyus,0.1,0.9936,0.0,0.0,0,0.0,0.91,0.12,1.0431,0.0,2026-11-10T16:34:47+00:00
+2026-11-10T16:34:57+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.66,Gilles Arnaud Bailly,kalshi,0.3,0.9903,34541.48,0.0,0,0.0,0.66,0.35,1.0415,0.0,2026-11-10T16:34:37+00:00
+2026-11-10T16:34:57+00:00,barsukov v moeller,True,Marvin Moeller,kalshi,0.88,Nikolai Barsukov,polyus,0.1,0.9936,0.0,0.0,0,0.0,0.91,0.12,1.0431,0.0,2026-11-10T16:34:47+00:00
+2026-11-10T16:35:07+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.63,Gilles Arnaud Bailly,kalshi,0.3,0.9609,0.0,0.0,0,0.0,0.66,0.38,1.0721,0.0,2026-11-10T16:34:37+00:00
+2026-11-10T16:35:07+00:00,henning v mihai,True,Philip Henning,kalshi,0.57,Radu Mihai Papoe,polyus,0.36,0.9632,0.0,0.0,0,0.0,0.65,0.4,1.0826,0.0,2026-11-10T16:35:07+00:00
+2026-11-10T16:35:07+00:00,barton v maxted,True,Hynek Barton,polyus,0.7,Lui Maxted,kalshi,0.24,0.9674,0.0,0.0,0,0.0,0.77,0.31,1.1073,0.0,2026-11-10T16:35:07+00:00
+2026-11-10T16:35:07+00:00,fuente v rincon,True,Daniel Rincon,kalshi,0.31,Santiago De La Fuente,polyus,0.63,0.9712,0.0,0.0,0,0.0,0.37,0.68,1.0814,0.1,2026-11-10T16:35:07+00:00
+2026-11-10T16:35:07+00:00,bronzetti v pareja,True,Julieta Pareja,polyus,0.25,Lucia Bronzetti,kalshi,0.71,0.9874,0.0,0.0,0,0.0,0.31,0.76,1.0976,0.1,2026-11-10T16:35:07+00:00
+2026-11-10T16:35:07+00:00,izquierdo v jarry,True,Nicolas Jarry,kalshi,0.65,Nikolas Sanchez Izquierdo,polyus,0.31,0.9908,0.0,0.0,0,0.0,0.7,,,6.1,2026-11-10T16:35:07+00:00
+2026-11-10T16:35:07+00:00,barsukov v moeller,True,Marvin Moeller,kalshi,0.88,Nikolai Barsukov,polyus,0.1,0.9936,0.0,0.0,0,0.0,0.92,,,6.1,2026-11-10T16:34:47+00:00
+2026-11-10T16:35:20+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.54,Gilles Arnaud Bailly,kalshi,0.35,0.9232,0.0,0.0,0,0.0,0.63,0.49,1.1537,0.0,2026-11-10T16:34:37+00:00
+2026-11-10T16:35:20+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.88,Nikolai Barsukov,kalshi,0.1,0.9936,0.0,0.0,0,0.0,0.91,0.13,1.0536,0.1,2026-11-10T16:35:20+00:00
+2026-11-10T16:35:30+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.52,Gilles Arnaud Bailly,kalshi,0.35,0.9033,0.0,0.0,0,0.0,0.63,0.49,1.1537,0.0,2026-11-10T16:34:37+00:00
+2026-11-10T16:35:30+00:00,fuente v rincon,True,Daniel Rincon,kalshi,0.34,Santiago De La Fuente,polyus,0.62,0.9921,0.0,0.0,0,0.0,0.39,0.68,1.1018,0.0,2026-11-10T16:35:30+00:00
+2026-11-10T16:35:30+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.88,Nikolai Barsukov,kalshi,0.1,0.9936,0.0,0.0,0,0.0,0.91,0.13,1.0536,0.0,2026-11-10T16:35:20+00:00
+2026-11-10T16:35:30+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.87,John Echeverria,polyus,0.11,0.9947,0.0,0.0,0,0.0,0.9,0.14,1.0547,0.1,2026-11-10T16:35:30+00:00
+2026-11-10T16:36:00+00:00,barton v maxted,True,Hynek Barton,polyus,0.66,Lui Maxted,kalshi,0.29,0.98,0.0,0.0,0,0.0,0.71,0.35,1.0902,0.0,2026-11-10T16:36:00+00:00
+2026-11-10T16:36:00+00:00,henning v mihai,True,Philip Henning,kalshi,0.62,Radu Mihai Papoe,polyus,0.34,0.9921,0.0,0.0,0,0.0,0.67,0.39,1.092,0.0,2026-11-10T16:36:00+00:00
+2026-11-10T16:36:10+00:00,fuente v rincon,True,Daniel Rincon,kalshi,0.39,Santiago De La Fuente,polyus,0.56,0.9838,0.0,1196.47,0,0.0,0.45,0.56,1.0444,0.1,2026-11-10T16:36:10+00:00
+2026-11-10T16:36:10+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.71,Leyre Romero Gormaz,polyus,0.26,0.9978,0.0,0.0,0,0.0,0.75,0.3,1.0777,0.1,2026-11-10T16:36:10+00:00
+2026-11-10T16:36:20+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.59,Maxime Janvier,polyus,0.36,0.9829,0.0,0.0,0,0.0,0.65,0.41,1.0927,0.0,2026-11-10T16:36:20+00:00
+2026-11-10T16:36:20+00:00,fuente v rincon,True,Daniel Rincon,kalshi,0.39,Santiago De La Fuente,polyus,0.56,0.9838,0.0,1196.47,0,0.0,0.45,0.56,1.0444,0.0,2026-11-10T16:36:10+00:00
+2026-11-10T16:36:20+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.71,Leyre Romero Gormaz,polyus,0.26,0.9978,0.0,0.0,0,0.0,0.75,0.3,1.0777,0.0,2026-11-10T16:36:10+00:00
+2026-11-10T16:36:30+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.59,Maxime Janvier,polyus,0.36,0.9829,0.0,17835.76,0,0.0,0.65,0.36,1.0419,0.0,2026-11-10T16:36:20+00:00
+2026-11-10T16:36:30+00:00,fuente v rincon,True,Daniel Rincon,kalshi,0.39,Santiago De La Fuente,polyus,0.56,0.9838,0.0,1196.47,0,0.0,0.47,0.56,1.0646,0.0,2026-11-10T16:36:10+00:00
+2026-11-10T16:36:50+00:00,fuente v rincon,True,Daniel Rincon,polyus,0.39,Santiago De la Fuente,kalshi,0.54,0.9639,0.0,0.0,0,0.0,0.46,0.62,1.1138,0.0,2026-11-10T16:36:50+00:00
+2026-11-10T16:36:50+00:00,bronzetti v pareja,True,Julieta Pareja,polyus,0.25,Lucia Bronzetti,kalshi,0.72,0.9971,0.0,0.0,0,0.0,0.29,0.76,1.0771,0.0,2026-11-10T16:36:50+00:00
+2026-11-10T16:36:50+00:00,riera v tubello,True,Alice Tubello,kalshi,0.7,Julia Riera,polyus,0.27,0.9984,0.0,0.0,0,0.0,0.74,0.29,1.0578,0.1,2026-11-10T16:36:50+00:00
+2026-11-10T16:37:00+00:00,fuente v rincon,True,Daniel Rincon,polyus,0.38,Santiago De la Fuente,kalshi,0.54,0.9538,0.0,0.0,0,0.0,0.46,0.62,1.1138,0.0,2026-11-10T16:36:50+00:00
+2026-11-10T16:37:20+00:00,henning v mihai,True,Philip Henning,polyus,0.59,Radu Mihai Papoe,kalshi,0.37,0.9931,0.0,0.0,0,0.0,0.64,0.42,1.0931,0.0,2026-11-10T16:37:20+00:00
+2026-11-10T16:37:20+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.86,Nikolai Barsukov,kalshi,0.12,0.9958,0.0,0.0,0,0.0,0.89,0.15,1.0557,0.0,2026-11-10T16:37:20+00:00
+2026-11-10T16:37:30+00:00,fuente v rincon,True,Daniel Rincon,kalshi,0.39,Santiago De La Fuente,polyus,0.56,0.9838,0.0,0.0,0,0.0,0.45,0.63,1.1135,0.0,2026-11-10T16:37:30+00:00
+2026-11-10T16:37:30+00:00,henning v mihai,True,Philip Henning,polyus,0.59,Radu Mihai Papoe,kalshi,0.37,0.9931,1283.31,0.0,0,0.0,0.59,0.42,1.0439,0.0,2026-11-10T16:37:20+00:00
+2026-11-10T16:37:30+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.86,Nikolai Barsukov,kalshi,0.12,0.9958,0.0,0.0,0,0.0,0.89,0.15,1.0557,0.1,2026-11-10T16:37:20+00:00
+2026-11-10T16:37:30+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.73,Leyre Romero Gormaz,polyus,0.24,0.9965,0.0,0.0,0,0.0,0.77,0.29,1.0867,0.0,2026-11-10T16:37:30+00:00
+2026-11-10T16:37:40+00:00,bronzetti v pareja,True,Julieta Pareja,polyus,0.19,Lucia Bronzetti,kalshi,0.76,0.9735,0.0,0.0,0,0.0,0.25,0.82,1.0934,0.0,2026-11-10T16:37:40+00:00
+2026-11-10T16:37:40+00:00,fuente v rincon,True,Daniel Rincon,kalshi,0.39,Santiago De La Fuente,polyus,0.56,0.9838,0.0,9970.08,0,0.0,0.47,0.56,1.0646,0.0,2026-11-10T16:37:30+00:00
+2026-11-10T16:37:40+00:00,henning v mihai,True,Philip Henning,polyus,0.59,Radu Mihai Papoe,kalshi,0.37,0.9931,0.0,0.0,0,0.0,,0.44,,6.1,2026-11-10T16:37:20+00:00
+2026-11-10T16:37:40+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.86,Nikolai Barsukov,kalshi,0.12,0.9958,0.0,0.0,0,0.0,,0.14,,6.1,2026-11-10T16:37:20+00:00
+2026-11-10T16:37:40+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.73,Leyre Romero Gormaz,polyus,0.24,0.9965,0.0,35637.23,0,0.0,0.78,0.24,1.0447,0.0,2026-11-10T16:37:30+00:00
+2026-11-10T16:37:40+00:00,riera v tubello,True,Alice Tubello,polyus,0.68,Julia Riera,kalshi,0.29,0.9995,30537.17,0.0,0,0.0,0.68,0.32,1.0304,0.1,2026-11-10T16:37:40+00:00
+2026-11-10T16:37:53+00:00,bronzetti v pareja,True,Julieta Pareja,polyus,0.19,Lucia Bronzetti,kalshi,0.76,0.9735,0.0,0.0,0,0.0,0.25,0.82,1.0934,0.0,2026-11-10T16:37:40+00:00
+2026-11-10T16:37:53+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.73,Leyre Romero Gormaz,polyus,0.24,0.9965,0.0,35637.23,0,0.0,0.78,0.24,1.0447,0.0,2026-11-10T16:37:30+00:00
+2026-11-10T16:37:53+00:00,riera v tubello,True,Alice Tubello,polyus,0.68,Julia Riera,kalshi,0.29,0.9995,0.0,0.0,0,0.0,,0.33,,6.1,2026-11-10T16:37:40+00:00
+2026-11-10T16:38:03+00:00,bronzetti v pareja,True,Julieta Pareja,polyus,0.19,Lucia Bronzetti,kalshi,0.76,0.9735,0.0,0.0,0,0.0,0.25,0.82,1.0934,0.0,2026-11-10T16:37:40+00:00
+2026-11-10T16:38:03+00:00,clarke v janvier,True,Jay Clarke,polyus,0.61,Maxime Janvier,kalshi,0.35,0.9925,0.0,0.0,0,0.0,0.66,0.4,1.0924,0.0,2026-11-10T16:38:03+00:00
+2026-11-10T16:38:03+00:00,gormaz v monnet,True,Carole Monnet,kalshi,0.73,Leyre Romero Gormaz,polyus,0.24,0.9965,0.0,35637.23,0,0.0,0.78,0.24,1.0447,0.1,2026-11-10T16:37:30+00:00
+2026-11-10T16:38:03+00:00,riera v tubello,True,Alice Tubello,polyus,0.68,Julia Riera,kalshi,0.29,0.9995,0.0,0.0,0,0.0,,0.36,,6.1,2026-11-10T16:37:40+00:00
+2026-11-10T16:38:13+00:00,jeff v kimhi,True,Filip Jeff Planinsek,kalshi,0.9,Orel Kimhi,polyus,0.06,0.9702,0.0,3015.01,0,0.0,0.95,0.06,1.0172,0.1,2026-11-10T16:38:13+00:00
+2026-11-10T16:38:13+00:00,clarke v janvier,True,Jay Clarke,polyus,0.61,Maxime Janvier,kalshi,0.35,0.9925,0.0,0.0,0,0.0,0.66,0.4,1.0924,0.0,2026-11-10T16:38:03+00:00
+2026-11-10T16:38:43+00:00,clarke v janvier,True,Jay Clarke,polyus,0.56,Maxime Janvier,kalshi,0.4,0.9939,0.0,0.0,0,0.0,0.61,0.45,1.0939,0.0,2026-11-10T16:38:43+00:00
+2026-11-10T16:38:43+00:00,batalla v magadan,False,Alan Magadan,polyus,0.14,Oriol Roca Batalla,kalshi,0.84,0.9978,0.0,0.0,0,0.0,0.17,0.88,1.0672,0.0,2026-11-10T16:38:43+00:00
+2026-11-10T16:38:53+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.96,John Echeverria,polyus,0.03,0.9947,0.0,0.0,0,0.0,0.99,0.06,1.0546,0.0,2026-11-10T16:38:53+00:00
+2026-11-10T16:39:03+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.96,John Echeverria,polyus,0.02,0.9841,0.0,0.0,0,0.0,0.99,0.03,1.0227,0.1,2026-11-10T16:38:53+00:00
+2026-11-10T16:39:13+00:00,nardi v piros,True,Luca Nardi,kalshi,0.58,Zsombor Piros,polyus,0.37,0.9833,0.0,0.0,0,0.0,0.64,0.39,1.0627,0.0,2026-11-10T16:39:13+00:00
+2026-11-10T16:39:13+00:00,echeverria v ouakaa,True,Aziz Ouakaa,kalshi,0.96,John Echeverria,polyus,0.02,0.9841,0.0,0.0,0,0.0,0.99,0.03,1.0227,0.0,2026-11-10T16:38:53+00:00
+2026-11-10T16:39:23+00:00,bronzetti v pareja,True,Julieta Pareja,polyus,0.16,Lucia Bronzetti,kalshi,0.82,0.9997,0.0,0.0,0,0.0,0.19,0.85,1.0596,0.0,2026-11-10T16:39:23+00:00
+2026-11-10T16:39:33+00:00,nardi v piros,True,Luca Nardi,polyus,0.58,Zsombor Piros,kalshi,0.37,0.9832,0.0,0.0,0,0.0,0.63,0.44,1.1034,0.0,2026-11-10T16:39:33+00:00
+2026-11-10T16:39:33+00:00,bronzetti v pareja,True,Julieta Pareja,polyus,0.16,Lucia Bronzetti,kalshi,0.82,0.9997,0.0,0.0,0,0.0,0.19,0.85,1.0596,0.0,2026-11-10T16:39:23+00:00
+2026-11-10T16:39:43+00:00,nardi v piros,True,Luca Nardi,polyus,0.57,Zsombor Piros,kalshi,0.37,0.9734,0.0,0.0,0,0.0,0.63,0.44,1.1034,0.0,2026-11-10T16:39:33+00:00
+2026-11-10T16:39:53+00:00,bronzetti v pareja,True,Julieta Pareja,kalshi,0.16,Lucia Bronzetti,polyus,0.82,0.9997,0.0,0.0,0,0.0,0.18,0.85,1.0492,0.0,2026-11-10T16:39:53+00:00
+2026-11-10T16:40:03+00:00,jeff v kimhi,True,Filip Jeff Planinsek,polyus,0.93,Orel Kimhi,kalshi,0.05,0.9878,0.0,0.0,0,0.0,0.95,0.08,1.0385,0.0,2026-11-10T16:40:03+00:00
+2026-11-10T16:40:03+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.82,Nikolai Barsukov,kalshi,0.16,0.9997,4150.84,0.0,0,0.0,0.82,0.19,1.031,0.1,2026-11-10T16:40:03+00:00
+2026-11-10T16:40:03+00:00,bronzetti v pareja,True,Julieta Pareja,kalshi,0.16,Lucia Bronzetti,polyus,0.82,0.9997,0.0,0.0,0,0.0,0.18,0.85,1.0492,0.0,2026-11-10T16:39:53+00:00
+2026-11-10T16:40:13+00:00,nardi v piros,True,Luca Nardi,kalshi,0.57,Zsombor Piros,polyus,0.38,0.9835,0.0,0.0,0,0.0,0.63,0.42,1.0832,0.1,2026-11-10T16:40:13+00:00
+2026-11-10T16:40:13+00:00,jeff v kimhi,True,Filip Jeff Planinsek,polyus,0.93,Orel Kimhi,kalshi,0.05,0.9878,4982.47,0.0,0,0.0,0.93,0.08,1.0197,0.1,2026-11-10T16:40:03+00:00
+2026-11-10T16:40:13+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.82,Nikolai Barsukov,kalshi,0.16,0.9997,4150.84,0.0,0,0.0,0.82,0.19,1.031,0.0,2026-11-10T16:40:03+00:00
+2026-11-10T16:40:43+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.78,Nikolai Barsukov,kalshi,0.19,0.9927,0.0,0.0,0,0.0,0.82,0.23,1.0727,0.0,2026-11-10T16:40:43+00:00
+2026-11-10T16:40:53+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.78,Nikolai Barsukov,kalshi,0.19,0.9927,0.0,0.0,0,0.0,0.82,0.23,1.0727,0.0,2026-11-10T16:40:43+00:00
+2026-11-10T16:40:53+00:00,nardi v piros,True,Luca Nardi,polyus,0.58,Zsombor Piros,kalshi,0.38,0.9934,0.0,0.0,0,0.0,0.63,0.43,1.0934,0.0,2026-11-10T16:40:53+00:00
+2026-11-10T16:41:03+00:00,alberto v arnaud,True,Carlo Alberto Caniato,kalshi,0.53,Gilles Arnaud Bailly,polyus,0.39,0.954,0.0,0.0,0,0.0,0.62,0.47,1.1238,0.0,2026-11-10T16:41:03+00:00
+2026-11-10T16:41:03+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.78,Nikolai Barsukov,kalshi,0.19,0.9927,766.79,0.0,0,0.0,0.78,0.23,1.0343,0.1,2026-11-10T16:40:43+00:00
+2026-11-10T16:41:03+00:00,nardi v piros,True,Luca Nardi,polyus,0.58,Zsombor Piros,kalshi,0.38,0.9934,38745.14,0.0,0,0.0,0.58,0.43,1.0441,0.1,2026-11-10T16:40:53+00:00
+2026-11-10T16:41:03+00:00,jeff v kimhi,True,Filip Jeff Planinsek,kalshi,0.94,Orel Kimhi,polyus,0.05,0.9972,0.0,0.0,0,0.0,0.96,0.06,1.0266,0.0,2026-11-10T16:41:03+00:00
+2026-11-10T16:41:13+00:00,alberto v arnaud,True,Carlo Alberto Caniato,kalshi,0.57,Gilles Arnaud Bailly,polyus,0.38,0.9835,0.0,1779.28,0,0.0,0.63,0.38,1.0427,0.1,2026-11-10T16:41:03+00:00
+2026-11-10T16:41:23+00:00,alberto v arnaud,True,Carlo Alberto Caniato,kalshi,0.57,Gilles Arnaud Bailly,polyus,0.38,0.9835,0.0,1779.28,0,0.0,0.63,0.38,1.0427,0.0,2026-11-10T16:41:03+00:00
+2026-11-10T16:41:23+00:00,angelo v tabata,True,Juan Carlos Prado,polyus,0.72,Ryo Tabata,kalshi,0.24,0.9868,0.0,0.0,0,0.0,0.76,0.28,1.0668,0.1,2026-11-10T16:41:23+00:00
+2026-11-10T16:41:23+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.74,Nikolai Barsukov,kalshi,0.23,0.9958,0.0,0.0,0,0.0,0.78,0.27,1.0757,0.0,2026-11-10T16:41:23+00:00
+2026-11-10T16:41:33+00:00,angelo v tabata,True,Juan Carlos Prado,polyus,0.72,Ryo Tabata,kalshi,0.24,0.9868,0.0,0.0,0,0.0,0.76,0.29,1.0771,0.0,2026-11-10T16:41:23+00:00
+2026-11-10T16:41:33+00:00,barsukov v moeller,True,Marvin Moeller,polyus,0.74,Nikolai Barsukov,kalshi,0.23,0.9958,507.68,0.0,0,0.0,0.74,0.27,1.0372,0.1,2026-11-10T16:41:23+00:00
+2026-11-10T16:41:43+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.55,Gilles Arnaud Bailly,kalshi,0.38,0.9637,9968.72,0.0,0,0.0,0.55,0.46,1.0446,0.1,2026-11-10T16:41:43+00:00
+2026-11-10T16:41:43+00:00,bronzetti v pareja,True,Julieta Pareja,polyus,0.19,Lucia Bronzetti,kalshi,0.78,0.9927,0.0,0.0,0,0.0,0.23,0.82,1.0726,0.1,2026-11-10T16:41:43+00:00
+2026-11-10T16:41:53+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.55,Gilles Arnaud Bailly,kalshi,0.38,0.9637,9968.72,0.0,0,0.0,0.55,0.51,1.0947,0.0,2026-11-10T16:41:43+00:00
+2026-11-10T16:41:53+00:00,angelo v tabata,True,Juan Carlos Prado,polyus,0.66,Ryo Tabata,kalshi,0.28,0.9697,0.0,0.0,0,0.0,0.72,0.35,1.0999,0.1,2026-11-10T16:41:53+00:00
+2026-11-10T16:41:53+00:00,bronzetti v pareja,True,Julieta Pareja,polyus,0.19,Lucia Bronzetti,kalshi,0.78,0.9927,0.0,0.0,0,0.0,0.23,0.82,1.0726,0.0,2026-11-10T16:41:43+00:00
+2026-11-10T16:41:53+00:00,nedic v ribecai,True,Andrej Nedic,polyus,0.13,Michele Ribecai,kalshi,0.85,0.9968,0.0,0.0,0,0.0,0.16,0.88,1.0567,0.1,2026-11-10T16:41:53+00:00
+2026-11-10T16:42:03+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.49,Gilles Arnaud Bailly,kalshi,0.38,0.9039,0.0,0.0,0,0.0,0.55,0.51,1.0947,0.0,2026-11-10T16:41:43+00:00
+2026-11-10T16:42:03+00:00,angelo v tabata,True,Juan Carlos Prado,polyus,0.65,Ryo Tabata,kalshi,0.28,0.9599,0.0,0.0,0,0.0,0.72,0.37,1.1203,0.0,2026-11-10T16:41:53+00:00
+2026-11-10T16:42:03+00:00,nedic v ribecai,True,Andrej Nedic,polyus,0.12,Michele Ribecai,kalshi,0.85,0.9863,0.0,0.0,0,0.0,0.16,0.89,1.0662,0.0,2026-11-10T16:41:53+00:00
