@@ -250,3 +250,57 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-10T10:00:08+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.95,Sergey Fomin,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,0.97,0.05,1.0253,0.0,2026-11-10T10:00:08+00:00
 2026-11-10T10:00:48+00:00,cruz v geerts,True,Juan Martin,polyus,0.31,Michael Geerts,kalshi,0.64,0.981,0.0,0.0,0.0,0.0,0.4,0.69,1.1217,0.0,2026-11-10T10:00:48+00:00
 2026-11-10T10:00:58+00:00,cruz v geerts,True,Juan Martin,polyus,0.31,Michael Geerts,kalshi,0.64,0.981,0.0,0.0,0.0,0.0,0.4,0.7,1.1314,0.0,2026-11-10T10:00:48+00:00
+2026-11-10T10:01:08+00:00,cruz v geerts,True,Juan Martin,polyus,0.31,Michael Geerts,kalshi,0.64,0.981,9159.83,0.0,0.0,0.0,0.31,0.7,1.0396,0.0,2026-11-10T10:00:48+00:00
+2026-11-10T10:01:08+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.93,Sergey Fomin,kalshi,0.05,0.9878,0.0,0.0,0.0,0.0,0.95,0.08,1.0385,0.0,2026-11-10T10:01:08+00:00
+2026-11-10T10:01:18+00:00,cruz v geerts,True,Juan Martin,polyus,0.29,Michael Geerts,kalshi,0.64,0.9604,0.0,0.0,0.0,0.0,0.31,0.72,1.059,0.0,2026-11-10T10:00:48+00:00
+2026-11-10T10:01:18+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.93,Sergey Fomin,kalshi,0.05,0.9878,0.0,0.0,0.0,0.0,0.95,0.08,1.0385,0.0,2026-11-10T10:01:08+00:00
+2026-11-10T10:01:28+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.92,Sergey Fomin,kalshi,0.05,0.9784,0.0,0.0,0.0,0.0,0.93,0.08,1.0197,0.0,2026-11-10T10:01:08+00:00
+2026-11-10T10:01:38+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.29,Michael Geerts,polyus,0.62,0.9408,0.0,20.0,0.0,0.0,0.38,0.62,1.0329,0.0,2026-11-10T10:01:38+00:00
+2026-11-10T10:01:48+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.29,Michael Geerts,polyus,0.62,0.9408,0.0,20.0,0.0,0.0,0.38,0.62,1.0329,0.0,2026-11-10T10:01:38+00:00
+2026-11-10T10:01:58+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.29,Michael Geerts,polyus,0.58,0.9013,0.0,0.0,0.0,0.0,0.42,0.62,1.0734,0.0,2026-11-10T10:01:38+00:00
+2026-11-10T10:02:08+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.87,Sergey Fomin,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,0.93,0.14,1.083,0.0,2026-11-10T10:02:08+00:00
+2026-11-10T10:02:08+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.38,Michael Geerts,polyus,0.58,0.9934,0.0,32032.67,0.0,0.0,0.44,0.58,1.0542,0.0,2026-11-10T10:01:38+00:00
+2026-11-10T10:02:18+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.87,Sergey Fomin,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,0.93,0.14,1.083,0.0,2026-11-10T10:02:08+00:00
+2026-11-10T10:02:28+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.87,Sergey Fomin,kalshi,0.1,0.9842,33613.55,0.0,0.0,0.0,0.87,0.14,1.0263,0.0,2026-11-10T10:02:08+00:00
+2026-11-10T10:02:38+00:00,cruz v geerts,True,Juan Martin,polyus,0.37,Michael Geerts,kalshi,0.59,0.9931,6.01,0.0,0.0,0.0,0.37,0.64,1.0423,0.0,2026-11-10T10:02:38+00:00
+2026-11-10T10:02:48+00:00,cruz v geerts,True,Juan Martin,polyus,0.37,Michael Geerts,kalshi,0.59,0.9931,6.01,0.0,0.0,0.0,0.37,0.64,1.0423,0.0,2026-11-10T10:02:38+00:00
+2026-11-10T10:03:28+00:00,fomin v xilas,True,Ioannis Xilas,kalshi,0.87,Sergey Fomin,polyus,0.09,0.9736,0.0,12576.05,0.0,0.0,0.92,0.09,1.0208,0.0,2026-11-10T10:03:28+00:00
+2026-11-10T10:03:28+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.41,Michael Geerts,polyus,0.55,0.9941,0.0,0.0,0.0,0.0,0.46,0.58,1.0743,0.0,2026-11-10T10:03:28+00:00
+2026-11-10T10:04:28+00:00,fomin v xilas,True,Ioannis Xilas,kalshi,0.92,Sergey Fomin,polyus,0.05,0.9785,0.0,0.0,0.0,0.0,0.96,0.13,1.1005,0.0,2026-11-10T10:04:28+00:00
+2026-11-10T10:04:38+00:00,fomin v xilas,True,Ioannis Xilas,kalshi,0.92,Sergey Fomin,polyus,0.05,0.9785,0.0,0.0,0.0,0.0,0.96,0.13,1.1005,0.0,2026-11-10T10:04:28+00:00
+2026-11-10T10:05:18+00:00,fomin v xilas,True,Ioannis Xilas,kalshi,0.96,Sergey Fomin,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,0.05,1.0347,0.0,2026-11-10T10:05:18+00:00
+2026-11-10T10:05:28+00:00,fomin v xilas,True,Ioannis Xilas,kalshi,0.96,Sergey Fomin,polyus,0.03,0.9947,0.0,16958.34,0.0,0.0,0.98,0.03,1.0134,0.0,2026-11-10T10:05:18+00:00
+2026-11-10T10:05:38+00:00,fomin v xilas,True,Ioannis Xilas,kalshi,0.96,Sergey Fomin,polyus,0.03,0.9947,0.0,16958.34,0.0,0.0,0.98,0.03,1.0134,0.0,2026-11-10T10:05:18+00:00
+2026-11-10T10:05:58+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.47,Michael Geerts,polyus,0.48,0.9848,0.0,0.0,0.0,0.0,0.53,0.54,1.1047,0.0,2026-11-10T10:05:58+00:00
+2026-11-10T10:06:08+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.47,Michael Geerts,polyus,0.48,0.9848,0.0,31665.03,0.0,0.0,0.53,0.48,1.0448,0.0,2026-11-10T10:05:58+00:00
+2026-11-10T10:06:08+00:00,angelini v bertrand,True,Lorenzo Angelini,kalshi,0.46,Robin Bertrand,polyus,0.5,0.9948,0.0,34924.49,0.0,0.0,0.51,0.5,1.0449,0.0,2026-11-10T10:06:08+00:00
+2026-11-10T10:06:28+00:00,cruz v geerts,True,Juan Martin,polyus,0.48,Michael Geerts,kalshi,0.48,0.9948,0.0,0.0,0.0,0.0,0.53,0.54,1.1047,0.0,2026-11-10T10:06:28+00:00
+2026-11-10T10:06:38+00:00,cruz v geerts,True,Juan Martin,polyus,0.48,Michael Geerts,kalshi,0.48,0.9948,6333.32,0.0,0.0,0.0,0.48,0.53,1.0448,0.0,2026-11-10T10:06:28+00:00
+2026-11-10T10:06:58+00:00,cruz v geerts,True,Juan Martin,polyus,0.43,Michael Geerts,kalshi,0.53,0.9945,0.0,0.0,0.0,0.0,0.48,0.58,1.0944,0.0,2026-11-10T10:06:58+00:00
+2026-11-10T10:07:08+00:00,cruz v geerts,True,Juan Martin,polyus,0.43,Michael Geerts,kalshi,0.53,0.9945,0.01,0.0,0.0,0.0,0.43,0.57,1.0342,0.0,2026-11-10T10:06:58+00:00
+2026-11-10T10:07:18+00:00,cruz v geerts,True,Juan Martin,polyus,0.43,Michael Geerts,kalshi,0.53,0.9945,0.01,0.0,0.0,0.0,0.43,0.58,1.0441,0.0,2026-11-10T10:06:58+00:00
+2026-11-10T10:07:28+00:00,cruz v geerts,True,Juan Martin,polyus,0.43,Michael Geerts,kalshi,0.53,0.9945,0.01,0.0,0.0,0.0,0.43,0.58,1.0441,0.0,2026-11-10T10:06:58+00:00
+2026-11-10T10:07:58+00:00,angelini v bertrand,True,Lorenzo Angelini,kalshi,0.52,Robin Bertrand,polyus,0.44,0.9946,0.0,0.0,0.0,0.0,0.57,0.51,1.1145,0.0,2026-11-10T10:07:58+00:00
+2026-11-10T10:08:58+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.52,Robin Bertrand,kalshi,0.42,0.9744,0.0,0.0,0.0,0.0,0.59,0.49,1.1143,0.0,2026-11-10T10:08:58+00:00
+2026-11-10T10:09:08+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.52,Robin Bertrand,kalshi,0.42,0.9744,228.09,0.0,0.0,0.0,0.52,0.49,1.0448,0.0,2026-11-10T10:08:58+00:00
+2026-11-10T10:09:38+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.47,Robin Bertrand,kalshi,0.49,0.9948,8616.7,0.0,0.0,0.0,0.47,0.54,1.0447,0.0,2026-11-10T10:09:38+00:00
+2026-11-10T10:10:08+00:00,angelini v bertrand,True,Lorenzo Angelini,kalshi,0.47,Robin Bertrand,polyus,0.48,0.9848,0.0,0.0,0.0,0.0,0.53,0.49,1.0548,0.0,2026-11-10T10:10:08+00:00
+2026-11-10T10:10:58+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.46,Robin Bertrand,kalshi,0.48,0.9747,0.0,0.0,0.0,0.0,0.53,0.55,1.1146,0.0,2026-11-10T10:10:58+00:00
+2026-11-10T10:11:08+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.46,Robin Bertrand,kalshi,0.48,0.9747,9018.91,0.0,0.0,0.0,0.46,0.55,1.0446,0.0,2026-11-10T10:10:58+00:00
+2026-11-10T10:11:28+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.41,Robin Bertrand,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,0.46,0.6,1.0941,0.0,2026-11-10T10:11:28+00:00
+2026-11-10T10:11:38+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.41,Robin Bertrand,kalshi,0.55,0.9941,13625.88,0.0,0.0,0.0,0.41,0.6,1.0436,0.0,2026-11-10T10:11:28+00:00
+2026-11-10T10:12:28+00:00,angelini v bertrand,True,Lorenzo Angelini,kalshi,0.41,Robin Bertrand,polyus,0.55,0.9941,0.0,0.0,0.0,0.0,0.46,0.6,1.0941,0.0,2026-11-10T10:12:28+00:00
+2026-11-10T10:13:18+00:00,angelini v bertrand,True,Lorenzo Angelini,kalshi,0.4,Robin Bertrand,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.46,0.65,1.1432,0.0,2026-11-10T10:13:18+00:00
+2026-11-10T10:13:28+00:00,angelini v bertrand,True,Lorenzo Angelini,kalshi,0.4,Robin Bertrand,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.46,0.65,1.1432,0.0,2026-11-10T10:13:18+00:00
+2026-11-10T10:13:38+00:00,cruz v geerts,True,Juan Martin,polyus,0.45,Michael Geerts,kalshi,0.5,0.9847,23904.59,0.0,0.0,0.0,0.45,0.55,1.0345,0.0,2026-11-10T10:13:38+00:00
+2026-11-10T10:13:48+00:00,cruz v geerts,True,Juan Martin,polyus,0.45,Michael Geerts,kalshi,0.5,0.9847,23904.59,0.0,0.0,0.0,0.45,0.56,1.0444,0.0,2026-11-10T10:13:38+00:00
+2026-11-10T10:13:58+00:00,cruz v geerts,True,Juan Martin,polyus,0.45,Michael Geerts,kalshi,0.5,0.9847,23904.59,0.0,0.0,0.0,0.45,0.55,1.0345,0.0,2026-11-10T10:13:38+00:00
+2026-11-10T10:14:28+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.39,Robin Bertrand,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,0.4,0.62,1.0532,0.0,2026-11-10T10:14:28+00:00
+2026-11-10T10:14:38+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.39,Robin Bertrand,kalshi,0.57,0.9937,0.01,0.0,0.0,0.0,0.39,0.61,1.0332,0.0,2026-11-10T10:14:28+00:00
+2026-11-10T10:14:48+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.29,Robin Bertrand,kalshi,0.63,0.9506,0.0,0.0,0.0,0.0,0.39,0.72,1.1406,0.0,2026-11-10T10:14:28+00:00
+2026-11-10T10:14:58+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.29,Robin Bertrand,kalshi,0.63,0.9506,0.0,0.0,0.0,0.0,0.39,0.72,1.1406,0.0,2026-11-10T10:14:28+00:00
+2026-11-10T10:15:08+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.29,Robin Bertrand,kalshi,0.63,0.9506,5.01,0.0,0.0,0.0,0.29,0.68,0.9995,0.0,2026-11-10T10:14:28+00:00
+2026-11-10T10:15:08+00:00,sachko v svrcina,True,Dalibor Svrcina,polyus,0.69,Vitaliy Sachko,kalshi,0.27,0.9887,15869.08,0.0,0.0,0.0,0.69,0.32,1.0401,0.0,2026-11-10T10:15:08+00:00
+2026-11-10T10:15:28+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.18,Robin Bertrand,kalshi,0.74,0.9437,0.0,0.0,0.0,0.0,0.29,0.84,1.1537,0.0,2026-11-10T10:15:28+00:00
+2026-11-10T10:15:38+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.17,Robin Bertrand,kalshi,0.74,0.9333,35180.26,0.0,0.0,0.0,0.17,0.84,1.0292,0.0,2026-11-10T10:15:28+00:00
+2026-11-10T10:15:38+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.44,Michael Geerts,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.5,0.55,1.0847,0.0,2026-11-10T10:15:38+00:00
