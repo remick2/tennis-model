@@ -1,127 +1,216 @@
-ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
-2026-11-10T01:20:47+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.11,Lautaro Midon,polyus,0.85,0.9757,0.0,0.01,0.0,0.0,0.13,0.85,0.9968,0.1,2026-11-10T01:20:47+00:00
-2026-11-10T01:20:57+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.11,Lautaro Midon,polyus,0.85,0.9757,0.0,0.01,0.0,0.0,0.13,0.85,0.9968,0.0,2026-11-10T01:20:47+00:00
-2026-11-10T01:21:07+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.11,Lautaro Midon,polyus,0.85,0.9757,0.0,0.01,0.0,0.0,0.12,0.85,0.9863,0.0,2026-11-10T01:20:47+00:00
-2026-11-10T01:21:17+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.13,Lautaro Midon,polyus,0.85,0.9968,10.37,0.01,0.01,0.0,0.13,0.85,0.9968,0.0,2026-11-10T01:20:47+00:00
-2026-11-10T01:21:17+00:00,broska v emil,True,Carl Overbeck,polyus,0.82,Florian Broska,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,0.86,0.19,1.0691,0.1,2026-11-10T01:21:17+00:00
-2026-11-10T01:21:27+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.13,Lautaro Midon,polyus,0.85,0.9968,0.0,0.01,0.0,0.0,0.17,0.85,1.0387,0.0,2026-11-10T01:20:47+00:00
-2026-11-10T01:21:27+00:00,broska v emil,True,Carl Overbeck,polyus,0.82,Florian Broska,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,0.86,0.2,1.0796,0.0,2026-11-10T01:21:17+00:00
-2026-11-10T01:21:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.81,Florian Broska,kalshi,0.16,0.9901,0.1,0.0,0.0,0.0,0.81,0.21,1.0423,0.1,2026-11-10T01:21:17+00:00
-2026-11-10T01:21:37+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.13,Lautaro Midon,polyus,0.85,0.9968,0.0,0.01,0.0,0.0,0.17,0.85,1.0387,0.1,2026-11-10T01:20:47+00:00
-2026-11-10T01:21:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.77,Florian Broska,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,0.24,1.0735,0.0,2026-11-10T01:21:17+00:00
-2026-11-10T01:21:57+00:00,broska v emil,True,Carl Overbeck,polyus,0.77,Florian Broska,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,0.24,1.0735,0.0,2026-11-10T01:21:17+00:00
-2026-11-10T01:22:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.76,Florian Broska,kalshi,0.2,0.9839,0.0,0.0,0.0,0.0,0.81,0.24,1.0735,0.0,2026-11-10T01:21:17+00:00
-2026-11-10T01:22:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.71,Florian Broska,kalshi,0.24,0.9771,0.0,0.0,0.0,0.0,0.76,0.3,1.0874,0.0,2026-11-10T01:22:37+00:00
-2026-11-10T01:22:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.71,Florian Broska,kalshi,0.24,0.9771,41245.83,0.0,0.0,0.0,0.71,0.3,1.039,0.0,2026-11-10T01:22:37+00:00
-2026-11-10T01:23:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.66,Florian Broska,kalshi,0.28,0.9697,0.0,0.0,0.0,0.0,0.73,0.35,1.1096,0.0,2026-11-10T01:23:47+00:00
-2026-11-10T01:23:57+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.8,0.9805,0.01,40.16,0.01,0.0,0.16,0.8,0.9805,0.0,2026-11-10T01:23:57+00:00
-2026-11-10T01:24:07+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.8,0.9805,0.01,0.0,0.0,0.0,0.16,0.82,0.9997,0.1,2026-11-10T01:23:57+00:00
-2026-11-10T01:24:07+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.38,Mili Poljicak,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.43,0.65,1.113,0.0,2026-11-10T01:24:07+00:00
-2026-11-10T01:24:17+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.57,Naoya Honda,kalshi,0.36,0.9632,0.0,0.0,0.0,0.0,0.65,0.44,1.1231,0.1,2026-11-10T01:24:17+00:00
-2026-11-10T01:24:17+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.8,0.9805,0.01,0.0,0.0,0.0,0.16,0.82,0.9997,0.0,2026-11-10T01:23:57+00:00
-2026-11-10T01:24:17+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.38,Mili Poljicak,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.43,0.65,1.113,0.0,2026-11-10T01:24:07+00:00
-2026-11-10T01:24:27+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.82,0.9997,0.01,11.04,0.01,0.0,0.16,0.82,0.9997,0.0,2026-11-10T01:23:57+00:00
-2026-11-10T01:24:37+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.45,Mili Poljicak,polyus,0.5,0.9847,0.0,0.0,0.0,0.0,0.51,0.58,1.1244,0.0,2026-11-10T01:24:37+00:00
-2026-11-10T01:24:37+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.82,0.9997,0.01,495.17,0.01,0.0,0.16,0.8,0.9805,0.0,2026-11-10T01:23:57+00:00
-2026-11-10T01:24:47+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.45,Mili Poljicak,polyus,0.5,0.9847,0.0,0.0,0.0,0.0,0.51,0.58,1.1244,0.1,2026-11-10T01:24:37+00:00
-2026-11-10T01:24:47+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.82,0.9997,0.01,102.0,0.01,0.0,0.16,0.81,0.9901,0.0,2026-11-10T01:23:57+00:00
-2026-11-10T01:24:57+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.81,0.9901,0.01,5.07,0.01,0.0,0.16,0.81,0.9901,0.0,2026-11-10T01:23:57+00:00
-2026-11-10T01:25:07+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.81,0.9901,0.01,26.07,0.01,0.0,0.16,0.81,0.9901,0.1,2026-11-10T01:23:57+00:00
-2026-11-10T01:26:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.66,Florian Broska,polyus,0.3,0.9903,0.0,0.0,0.0,0.0,0.71,0.35,1.0902,0.0,2026-11-10T01:26:37+00:00
-2026-11-10T01:27:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.67,Florian Broska,polyus,0.28,0.9795,0.0,0.0,0.0,0.0,0.73,0.34,1.0994,0.0,2026-11-10T01:27:37+00:00
-2026-11-10T01:27:57+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.28,0.9795,0.0,0.0,0.0,0.0,0.73,0.34,1.0994,0.0,2026-11-10T01:27:57+00:00
-2026-11-10T01:28:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.28,0.9795,0.0,0.0,0.0,0.0,0.73,0.34,1.0994,0.0,2026-11-10T01:27:57+00:00
-2026-11-10T01:28:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.67,Florian Broska,polyus,0.28,0.9795,0.0,0.0,0.0,0.0,0.74,0.34,1.1091,0.0,2026-11-10T01:28:37+00:00
-2026-11-10T01:28:47+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.67,Florian Broska,polyus,0.27,0.9692,0.0,1022.2,0.0,0.0,0.74,0.27,1.0372,0.0,2026-11-10T01:28:37+00:00
-2026-11-10T01:28:47+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,0.14,0.87,1.0263,0.1,2026-11-10T01:28:47+00:00
-2026-11-10T01:28:47+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.44,Mili Poljicak,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.49,0.57,1.0945,0.1,2026-11-10T01:28:47+00:00
-2026-11-10T01:28:57+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.0,5.1,0.0,0.0,0.14,0.87,1.0263,0.0,2026-11-10T01:28:47+00:00
-2026-11-10T01:29:07+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.01,0.0,0.0,0.0,0.11,0.88,1.0042,0.1,2026-11-10T01:28:47+00:00
-2026-11-10T01:29:17+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.01,0.0,0.0,0.0,0.11,0.88,1.0042,0.0,2026-11-10T01:28:47+00:00
-2026-11-10T01:29:27+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.25,0.9485,0.0,0.0,0.0,0.0,0.76,0.34,1.1284,0.0,2026-11-10T01:29:27+00:00
-2026-11-10T01:29:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.25,0.9485,0.0,0.0,0.0,0.0,0.76,0.34,1.1284,0.0,2026-11-10T01:29:27+00:00
-2026-11-10T01:29:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.68,Florian Broska,kalshi,0.25,0.9582,58405.03,0.0,0.0,0.0,0.67,0.33,1.0308,0.1,2026-11-10T01:29:27+00:00
-2026-11-10T01:30:07+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.68,Florian Broska,polyus,0.27,0.9789,0.0,0.0,0.0,0.0,0.74,0.34,1.1091,0.0,2026-11-10T01:30:07+00:00
-2026-11-10T01:30:07+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.83,Moerani Bouzige,kalshi,0.14,0.9882,0.0,0.0,0.0,0.0,0.88,0.18,1.0777,0.0,2026-11-10T01:30:07+00:00
-2026-11-10T01:30:17+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.68,Florian Broska,polyus,0.27,0.9789,0.0,28673.35,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-10T01:30:07+00:00
-2026-11-10T01:30:17+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.83,Moerani Bouzige,kalshi,0.14,0.9882,3096.69,0.0,0.0,0.0,0.83,0.18,1.0301,0.1,2026-11-10T01:30:07+00:00
-2026-11-10T01:30:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.27,0.9692,0.0,0.0,0.0,0.0,0.74,0.34,1.1091,0.0,2026-11-10T01:30:37+00:00
-2026-11-10T01:30:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.27,0.9692,42456.89,0.0,0.0,0.0,0.67,0.32,1.0206,0.0,2026-11-10T01:30:37+00:00
-2026-11-10T01:31:17+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.68,Florian Broska,polyus,0.27,0.9789,0.0,31255.21,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-10T01:31:17+00:00
-2026-11-10T01:31:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.68,Florian Broska,kalshi,0.27,0.9789,0.0,0.0,0.0,0.0,0.74,0.33,1.0988,0.0,2026-11-10T01:31:37+00:00
-2026-11-10T01:31:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.68,Florian Broska,kalshi,0.27,0.9789,31051.8,0.0,0.0,0.0,0.68,0.33,1.0406,0.1,2026-11-10T01:31:37+00:00
-2026-11-10T01:31:57+00:00,broska v emil,True,Carl Overbeck,polyus,0.64,Florian Broska,kalshi,0.27,0.9398,0.0,0.0,0.0,0.0,0.68,0.37,1.0814,0.0,2026-11-10T01:31:37+00:00
-2026-11-10T01:32:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.66,Florian Broska,kalshi,0.27,0.9594,0.0,0.0,0.0,0.0,0.68,0.35,1.061,0.0,2026-11-10T01:31:37+00:00
-2026-11-10T01:32:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.65,Florian Broska,polyus,0.27,0.9496,0.0,0.0,0.0,0.0,0.74,0.33,1.0988,0.0,2026-11-10T01:32:37+00:00
-2026-11-10T01:32:47+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.69,Florian Broska,polyus,0.26,0.9783,0.0,0.0,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-10T01:32:37+00:00
-2026-11-10T01:33:17+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.01,61.88,0.01,0.0,0.11,0.87,0.9947,0.0,2026-11-10T01:33:17+00:00
-2026-11-10T01:33:27+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.01,61.88,0.01,0.0,0.11,0.87,0.9947,0.0,2026-11-10T01:33:17+00:00
-2026-11-10T01:33:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.63,Florian Broska,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,0.4,1.1119,0.0,2026-11-10T01:33:37+00:00
-2026-11-10T01:33:37+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.01,0.0,0.0,0.0,0.11,0.89,1.0137,0.1,2026-11-10T01:33:17+00:00
-2026-11-10T01:34:37+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.59,Mili Poljicak,polyus,0.36,0.9829,0.0,0.0,0.0,0.0,0.65,0.41,1.0927,0.0,2026-11-10T01:34:37+00:00
-2026-11-10T01:35:57+00:00,honda v hsin,True,Chun Hsin Tseng,kalshi,0.61,Naoya Honda,polyus,0.35,0.9925,0.0,13991.86,0.0,0.0,0.66,0.35,1.0415,0.1,2026-11-10T01:35:57+00:00
-2026-11-10T01:36:07+00:00,honda v hsin,True,Chun Hsin Tseng,kalshi,0.61,Naoya Honda,polyus,0.35,0.9925,0.0,13991.86,0.0,0.0,0.66,0.35,1.0415,0.0,2026-11-10T01:35:57+00:00
-2026-11-10T01:36:47+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.57,Naoya Honda,kalshi,0.39,0.9937,0.0,0.0,0.0,0.0,0.62,0.44,1.0936,0.1,2026-11-10T01:36:47+00:00
-2026-11-10T01:38:07+00:00,poljicak v uchida,True,Kaichi Uchida,polyus,0.58,Mili Poljicak,kalshi,0.37,0.9832,0.0,0.0,0.0,0.0,0.62,0.42,1.0734,0.0,2026-11-10T01:38:07+00:00
-2026-11-10T01:38:07+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.5,Naoya Honda,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,0.53,0.5,1.0648,0.0,2026-11-10T01:38:07+00:00
-2026-11-10T01:38:47+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.78,Shunsuke Nakagawa,polyus,0.19,0.9927,0.0,0.0,0.0,0.0,0.82,0.23,1.0726,0.0,2026-11-10T01:38:47+00:00
-2026-11-10T01:38:57+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.78,Shunsuke Nakagawa,polyus,0.19,0.9927,0.0,5567.38,0.0,0.0,0.83,0.19,1.0406,0.0,2026-11-10T01:38:47+00:00
-2026-11-10T01:39:07+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.78,Shunsuke Nakagawa,polyus,0.19,0.9927,0.0,5567.38,0.0,0.0,0.82,0.19,1.031,0.0,2026-11-10T01:38:47+00:00
-2026-11-10T01:40:17+00:00,broska v emil,True,Carl Overbeck,polyus,0.54,Florian Broska,kalshi,0.37,0.9436,41306.9,0.0,0.0,0.0,0.54,0.47,1.0447,0.1,2026-11-10T01:40:17+00:00
-2026-11-10T01:40:27+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.54,Florian Broska,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,0.47,1.0942,0.0,2026-11-10T01:40:27+00:00
-2026-11-10T01:40:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.54,Florian Broska,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,0.47,1.0942,0.0,2026-11-10T01:40:27+00:00
-2026-11-10T01:41:17+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.5,Florian Broska,polyus,0.43,0.9645,0.0,40453.95,0.0,0.0,0.58,0.43,1.0441,0.1,2026-11-10T01:41:17+00:00
-2026-11-10T01:45:47+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.47,Naoya Honda,kalshi,0.48,0.9848,0.0,0.0,0.0,0.0,0.5,0.54,1.0748,0.0,2026-11-10T01:45:47+00:00
-2026-11-10T01:47:57+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.85,Thomas Fancutt,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,0.17,1.0672,0.0,2026-11-10T01:47:57+00:00
-2026-11-10T01:48:07+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.85,Thomas Fancutt,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,0.17,1.0672,0.1,2026-11-10T01:47:57+00:00
-2026-11-10T01:48:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.6,Florian Broska,kalshi,0.35,0.9826,0.0,0.0,0.0,0.0,0.63,0.41,1.0731,0.0,2026-11-10T01:48:37+00:00
-2026-11-10T01:48:37+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.88,Thomas Fancutt,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,0.13,1.0536,0.0,2026-11-10T01:48:37+00:00
-2026-11-10T01:48:57+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.54,Ognjen Milic,polyus,0.41,0.9842,0.0,0.0,0.0,0.0,0.6,0.47,1.1041,0.0,2026-11-10T01:48:57+00:00
-2026-11-10T01:48:57+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.28,Lautaro Midon,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,0.31,0.73,1.0687,0.0,2026-11-10T01:48:57+00:00
-2026-11-10T01:49:07+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.54,Ognjen Milic,polyus,0.41,0.9842,0.0,14194.54,0.0,0.0,0.6,0.41,1.0436,0.1,2026-11-10T01:48:57+00:00
-2026-11-10T01:49:07+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.28,Lautaro Midon,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,0.31,0.74,1.0783,0.0,2026-11-10T01:48:57+00:00
-2026-11-10T01:49:37+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T01:49:37+00:00
-2026-11-10T01:49:57+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.58,Ognjen Milic,polyus,0.37,0.9833,0.0,0.0,0.0,0.0,0.64,0.44,1.1133,0.0,2026-11-10T01:49:57+00:00
-2026-11-10T01:50:07+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.58,Ognjen Milic,polyus,0.37,0.9833,0.0,20091.57,0.0,0.0,0.64,0.37,1.0423,0.1,2026-11-10T01:49:57+00:00
-2026-11-10T01:51:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.57,Florian Broska,kalshi,0.39,0.9937,0.0,0.0,0.0,0.0,0.59,0.5,1.1243,0.0,2026-11-10T01:51:47+00:00
-2026-11-10T01:51:57+00:00,broska v emil,True,Carl Overbeck,polyus,0.51,Florian Broska,kalshi,0.42,0.9644,31864.13,0.0,0.0,0.0,0.51,0.5,1.0449,0.1,2026-11-10T01:51:47+00:00
-2026-11-10T01:52:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.51,Florian Broska,kalshi,0.42,0.9644,31864.13,0.0,0.0,0.0,0.51,0.5,1.0449,0.1,2026-11-10T01:51:47+00:00
-2026-11-10T01:52:07+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.17,1.0482,0.0,2026-11-10T01:52:07+00:00
-2026-11-10T01:52:17+00:00,dellavedova v fancutt,True,Matthew Dellavedova,polyus,0.87,Thomas Fancutt,kalshi,0.11,0.9947,19786.8,0.0,0.0,0.0,0.87,0.14,1.0263,0.1,2026-11-10T01:52:17+00:00
-2026-11-10T01:52:17+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.17,1.0482,0.0,2026-11-10T01:52:07+00:00
-2026-11-10T01:52:37+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.83,Shunsuke Nakagawa,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T01:52:37+00:00
-2026-11-10T01:52:47+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.57,Florian Broska,polyus,0.38,0.9835,0.0,0.0,0.0,0.0,0.63,0.44,1.1034,0.0,2026-11-10T01:52:47+00:00
-2026-11-10T01:52:47+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.83,Shunsuke Nakagawa,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T01:52:37+00:00
-2026-11-10T01:53:17+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,0.85,0.18,1.0492,0.1,2026-11-10T01:53:17+00:00
-2026-11-10T01:53:27+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,0.85,0.18,1.0492,0.0,2026-11-10T01:53:17+00:00
-2026-11-10T01:53:37+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.86,Thomas Fancutt,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.89,0.15,1.0557,0.0,2026-11-10T01:53:37+00:00
-2026-11-10T01:53:37+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,21922.09,0.0,0.0,0.0,0.83,0.18,1.0301,0.0,2026-11-10T01:53:17+00:00
-2026-11-10T01:53:47+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.83,Shunsuke Nakagawa,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T01:53:47+00:00
-2026-11-10T01:53:57+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.83,Shunsuke Nakagawa,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T01:53:47+00:00
-2026-11-10T01:54:07+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.83,Shunsuke Nakagawa,polyus,0.15,0.9987,0.0,6252.26,0.0,0.0,0.87,0.15,1.0368,0.0,2026-11-10T01:53:47+00:00
-2026-11-10T01:55:37+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.7,Ognjen Milic,polyus,0.27,0.9984,0.0,12467.49,0.0,0.0,0.74,0.27,1.0372,0.0,2026-11-10T01:55:37+00:00
-2026-11-10T01:56:57+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.75,Moerani Bouzige,polyus,0.2,0.9742,0.0,12281.16,0.0,0.0,0.81,0.2,1.0319,0.1,2026-11-10T01:56:57+00:00
-2026-11-10T01:57:07+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.75,Moerani Bouzige,polyus,0.2,0.9742,0.0,12281.16,0.0,0.0,0.81,0.2,1.0319,0.0,2026-11-10T01:56:57+00:00
-2026-11-10T01:57:17+00:00,broska v emil,True,Carl Overbeck,polyus,0.54,Florian Broska,kalshi,0.38,0.9538,0.0,0.0,0.0,0.0,0.63,0.47,1.1336,0.0,2026-11-10T01:57:17+00:00
-2026-11-10T01:57:17+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.75,Moerani Bouzige,polyus,0.2,0.9742,0.0,12281.16,0.0,0.0,0.81,0.2,1.0319,0.0,2026-11-10T01:56:57+00:00
-2026-11-10T01:57:27+00:00,broska v emil,True,Carl Overbeck,polyus,0.54,Florian Broska,kalshi,0.41,0.9842,71631.44,0.0,0.0,0.0,0.53,0.47,1.0347,0.1,2026-11-10T01:57:17+00:00
-2026-11-10T01:57:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.53,Florian Broska,kalshi,0.41,0.9742,37583.95,0.0,0.0,0.0,0.53,0.48,1.0448,0.0,2026-11-10T01:57:17+00:00
-2026-11-10T01:57:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.54,Florian Broska,kalshi,0.41,0.9842,71631.44,0.0,0.0,0.0,0.53,0.48,1.0448,0.0,2026-11-10T01:57:17+00:00
-2026-11-10T02:01:57+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.29,Lautaro Midon,kalshi,0.63,0.9506,0.0,0.0,0.0,0.0,0.36,0.72,1.1101,0.0,2026-11-10T02:01:57+00:00
-2026-11-10T02:02:07+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.28,Lautaro Midon,kalshi,0.63,0.9403,0.0,0.0,0.0,0.0,0.36,0.73,1.1198,0.0,2026-11-10T02:01:57+00:00
-2026-11-10T02:02:17+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.28,Lautaro Midon,kalshi,0.63,0.9403,0.0,0.0,0.0,0.0,0.36,0.73,1.1198,0.0,2026-11-10T02:01:57+00:00
-2026-11-10T02:02:27+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.85,Moerani Bouzige,kalshi,0.13,0.9968,0.0,0.0,0.0,0.0,0.87,0.16,1.0473,0.0,2026-11-10T02:02:27+00:00
-2026-11-10T02:02:37+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.85,Moerani Bouzige,kalshi,0.13,0.9968,17444.14,0.0,0.0,0.0,0.85,0.16,1.0283,0.0,2026-11-10T02:02:27+00:00
-2026-11-10T02:02:47+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.58,Florian Broska,polyus,0.38,0.9934,0.0,0.0,0.0,0.0,0.63,0.43,1.0934,0.0,2026-11-10T02:02:47+00:00
-2026-11-10T02:02:47+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.85,Moerani Bouzige,kalshi,0.13,0.9968,17444.14,0.0,0.0,0.0,0.85,0.16,1.0283,0.0,2026-11-10T02:02:27+00:00
-2026-11-10T02:04:17+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.85,Moerani Bouzige,polyus,0.12,0.9863,0.0,0.0,0.0,0.0,0.89,0.16,1.0662,0.0,2026-11-10T02:04:17+00:00
-2026-11-10T02:04:47+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.82,Shunsuke Nakagawa,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,0.83,0.2,1.051,0.0,2026-11-10T02:04:47+00:00
-2026-11-10T02:05:17+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.86,Moerani Bouzige,kalshi,0.11,0.9852,0.0,0.0,0.0,0.0,0.9,0.15,1.0652,0.0,2026-11-10T02:05:17+00:00
-2026-11-10T02:05:17+00:00,broska v emil,True,Carl Overbeck,polyus,0.58,Florian Broska,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,0.63,0.43,1.0934,0.0,2026-11-10T02:05:17+00:00
-2026-11-10T02:05:27+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.86,Moerani Bouzige,kalshi,0.11,0.9852,0.0,0.0,0.0,0.0,0.9,0.15,1.0652,0.0,2026-11-10T02:05:17+00:00
-2026-11-10T02:05:27+00:00,broska v emil,True,Carl Overbeck,polyus,0.58,Florian Broska,kalshi,0.38,0.9934,0.01,0.0,0.0,0.0,0.58,0.42,1.034,0.0,2026-11-10T02:05:17+00:00
-2026-11-10T02:05:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.55,Florian Broska,kalshi,0.38,0.9637,0.0,0.0,0.0,0.0,0.58,0.45,1.0643,0.1,2026-11-10T02:05:17+00:00
-2026-11-10T02:05:37+00:00,poljicak v uchida,True,Kaichi Uchida,polyus,0.6,Mili Poljicak,kalshi,0.35,0.9826,400.0,0.0,0.0,0.0,0.6,0.4,1.0335,0.1,2026-11-10T02:05:37+00:00
-2026-11-10T02:05:37+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.86,Moerani Bouzige,kalshi,0.11,0.9852,20438.82,0.0,0.0,0.0,0.86,0.15,1.0273,0.0,2026-11-10T02:05:17+00:00
-2026-11-10T02:05:37+00:00,milic v shiraishi,True,Hikaru Shiraishi,polyus,0.77,Ognjen Milic,kalshi,0.2,0.9935,0.01,0.0,0.0,0.0,0.77,0.23,1.0247,0.1,2026-11-10T02:05:37+00:00
-2026-11-10T02:06:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.53,Florian Broska,kalshi,0.42,0.9844,0.0,0.0,0.0,0.0,0.56,0.48,1.0746,0.0,2026-11-10T02:06:07+00:00
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen,size_1s,locked_1s,size_3s,locked_3s,bot_ok
+2026-11-10T01:20:47+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.11,Lautaro Midon,polyus,0.85,0.9757,0.0,0.01,0.0,0.0,0.13,0.85,0.9968,0.1,2026-11-10T01:20:47+00:00,,,,,
+2026-11-10T01:20:57+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.11,Lautaro Midon,polyus,0.85,0.9757,0.0,0.01,0.0,0.0,0.13,0.85,0.9968,0.0,2026-11-10T01:20:47+00:00,,,,,
+2026-11-10T01:21:07+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.11,Lautaro Midon,polyus,0.85,0.9757,0.0,0.01,0.0,0.0,0.12,0.85,0.9863,0.0,2026-11-10T01:20:47+00:00,,,,,
+2026-11-10T01:21:17+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.13,Lautaro Midon,polyus,0.85,0.9968,10.37,0.01,0.01,0.0,0.13,0.85,0.9968,0.0,2026-11-10T01:20:47+00:00,,,,,
+2026-11-10T01:21:17+00:00,broska v emil,True,Carl Overbeck,polyus,0.82,Florian Broska,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,0.86,0.19,1.0691,0.1,2026-11-10T01:21:17+00:00,,,,,
+2026-11-10T01:21:27+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.13,Lautaro Midon,polyus,0.85,0.9968,0.0,0.01,0.0,0.0,0.17,0.85,1.0387,0.0,2026-11-10T01:20:47+00:00,,,,,
+2026-11-10T01:21:27+00:00,broska v emil,True,Carl Overbeck,polyus,0.82,Florian Broska,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,0.86,0.2,1.0796,0.0,2026-11-10T01:21:17+00:00,,,,,
+2026-11-10T01:21:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.81,Florian Broska,kalshi,0.16,0.9901,0.1,0.0,0.0,0.0,0.81,0.21,1.0423,0.1,2026-11-10T01:21:17+00:00,,,,,
+2026-11-10T01:21:37+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.13,Lautaro Midon,polyus,0.85,0.9968,0.0,0.01,0.0,0.0,0.17,0.85,1.0387,0.1,2026-11-10T01:20:47+00:00,,,,,
+2026-11-10T01:21:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.77,Florian Broska,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,0.24,1.0735,0.0,2026-11-10T01:21:17+00:00,,,,,
+2026-11-10T01:21:57+00:00,broska v emil,True,Carl Overbeck,polyus,0.77,Florian Broska,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,0.24,1.0735,0.0,2026-11-10T01:21:17+00:00,,,,,
+2026-11-10T01:22:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.76,Florian Broska,kalshi,0.2,0.9839,0.0,0.0,0.0,0.0,0.81,0.24,1.0735,0.0,2026-11-10T01:21:17+00:00,,,,,
+2026-11-10T01:22:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.71,Florian Broska,kalshi,0.24,0.9771,0.0,0.0,0.0,0.0,0.76,0.3,1.0874,0.0,2026-11-10T01:22:37+00:00,,,,,
+2026-11-10T01:22:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.71,Florian Broska,kalshi,0.24,0.9771,41245.83,0.0,0.0,0.0,0.71,0.3,1.039,0.0,2026-11-10T01:22:37+00:00,,,,,
+2026-11-10T01:23:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.66,Florian Broska,kalshi,0.28,0.9697,0.0,0.0,0.0,0.0,0.73,0.35,1.1096,0.0,2026-11-10T01:23:47+00:00,,,,,
+2026-11-10T01:23:57+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.8,0.9805,0.01,40.16,0.01,0.0,0.16,0.8,0.9805,0.0,2026-11-10T01:23:57+00:00,,,,,
+2026-11-10T01:24:07+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.8,0.9805,0.01,0.0,0.0,0.0,0.16,0.82,0.9997,0.1,2026-11-10T01:23:57+00:00,,,,,
+2026-11-10T01:24:07+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.38,Mili Poljicak,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.43,0.65,1.113,0.0,2026-11-10T01:24:07+00:00,,,,,
+2026-11-10T01:24:17+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.57,Naoya Honda,kalshi,0.36,0.9632,0.0,0.0,0.0,0.0,0.65,0.44,1.1231,0.1,2026-11-10T01:24:17+00:00,,,,,
+2026-11-10T01:24:17+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.8,0.9805,0.01,0.0,0.0,0.0,0.16,0.82,0.9997,0.0,2026-11-10T01:23:57+00:00,,,,,
+2026-11-10T01:24:17+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.38,Mili Poljicak,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.43,0.65,1.113,0.0,2026-11-10T01:24:07+00:00,,,,,
+2026-11-10T01:24:27+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.82,0.9997,0.01,11.04,0.01,0.0,0.16,0.82,0.9997,0.0,2026-11-10T01:23:57+00:00,,,,,
+2026-11-10T01:24:37+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.45,Mili Poljicak,polyus,0.5,0.9847,0.0,0.0,0.0,0.0,0.51,0.58,1.1244,0.0,2026-11-10T01:24:37+00:00,,,,,
+2026-11-10T01:24:37+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.82,0.9997,0.01,495.17,0.01,0.0,0.16,0.8,0.9805,0.0,2026-11-10T01:23:57+00:00,,,,,
+2026-11-10T01:24:47+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.45,Mili Poljicak,polyus,0.5,0.9847,0.0,0.0,0.0,0.0,0.51,0.58,1.1244,0.1,2026-11-10T01:24:37+00:00,,,,,
+2026-11-10T01:24:47+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.82,0.9997,0.01,102.0,0.01,0.0,0.16,0.81,0.9901,0.0,2026-11-10T01:23:57+00:00,,,,,
+2026-11-10T01:24:57+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.81,0.9901,0.01,5.07,0.01,0.0,0.16,0.81,0.9901,0.0,2026-11-10T01:23:57+00:00,,,,,
+2026-11-10T01:25:07+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.16,Lautaro Midon,kalshi,0.81,0.9901,0.01,26.07,0.01,0.0,0.16,0.81,0.9901,0.1,2026-11-10T01:23:57+00:00,,,,,
+2026-11-10T01:26:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.66,Florian Broska,polyus,0.3,0.9903,0.0,0.0,0.0,0.0,0.71,0.35,1.0902,0.0,2026-11-10T01:26:37+00:00,,,,,
+2026-11-10T01:27:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.67,Florian Broska,polyus,0.28,0.9795,0.0,0.0,0.0,0.0,0.73,0.34,1.0994,0.0,2026-11-10T01:27:37+00:00,,,,,
+2026-11-10T01:27:57+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.28,0.9795,0.0,0.0,0.0,0.0,0.73,0.34,1.0994,0.0,2026-11-10T01:27:57+00:00,,,,,
+2026-11-10T01:28:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.28,0.9795,0.0,0.0,0.0,0.0,0.73,0.34,1.0994,0.0,2026-11-10T01:27:57+00:00,,,,,
+2026-11-10T01:28:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.67,Florian Broska,polyus,0.28,0.9795,0.0,0.0,0.0,0.0,0.74,0.34,1.1091,0.0,2026-11-10T01:28:37+00:00,,,,,
+2026-11-10T01:28:47+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.67,Florian Broska,polyus,0.27,0.9692,0.0,1022.2,0.0,0.0,0.74,0.27,1.0372,0.0,2026-11-10T01:28:37+00:00,,,,,
+2026-11-10T01:28:47+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,0.14,0.87,1.0263,0.1,2026-11-10T01:28:47+00:00,,,,,
+2026-11-10T01:28:47+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.44,Mili Poljicak,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.49,0.57,1.0945,0.1,2026-11-10T01:28:47+00:00,,,,,
+2026-11-10T01:28:57+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.0,5.1,0.0,0.0,0.14,0.87,1.0263,0.0,2026-11-10T01:28:47+00:00,,,,,
+2026-11-10T01:29:07+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.01,0.0,0.0,0.0,0.11,0.88,1.0042,0.1,2026-11-10T01:28:47+00:00,,,,,
+2026-11-10T01:29:17+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.01,0.0,0.0,0.0,0.11,0.88,1.0042,0.0,2026-11-10T01:28:47+00:00,,,,,
+2026-11-10T01:29:27+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.25,0.9485,0.0,0.0,0.0,0.0,0.76,0.34,1.1284,0.0,2026-11-10T01:29:27+00:00,,,,,
+2026-11-10T01:29:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.25,0.9485,0.0,0.0,0.0,0.0,0.76,0.34,1.1284,0.0,2026-11-10T01:29:27+00:00,,,,,
+2026-11-10T01:29:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.68,Florian Broska,kalshi,0.25,0.9582,58405.03,0.0,0.0,0.0,0.67,0.33,1.0308,0.1,2026-11-10T01:29:27+00:00,,,,,
+2026-11-10T01:30:07+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.68,Florian Broska,polyus,0.27,0.9789,0.0,0.0,0.0,0.0,0.74,0.34,1.1091,0.0,2026-11-10T01:30:07+00:00,,,,,
+2026-11-10T01:30:07+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.83,Moerani Bouzige,kalshi,0.14,0.9882,0.0,0.0,0.0,0.0,0.88,0.18,1.0777,0.0,2026-11-10T01:30:07+00:00,,,,,
+2026-11-10T01:30:17+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.68,Florian Broska,polyus,0.27,0.9789,0.0,28673.35,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-10T01:30:07+00:00,,,,,
+2026-11-10T01:30:17+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.83,Moerani Bouzige,kalshi,0.14,0.9882,3096.69,0.0,0.0,0.0,0.83,0.18,1.0301,0.1,2026-11-10T01:30:07+00:00,,,,,
+2026-11-10T01:30:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.27,0.9692,0.0,0.0,0.0,0.0,0.74,0.34,1.1091,0.0,2026-11-10T01:30:37+00:00,,,,,
+2026-11-10T01:30:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.67,Florian Broska,kalshi,0.27,0.9692,42456.89,0.0,0.0,0.0,0.67,0.32,1.0206,0.0,2026-11-10T01:30:37+00:00,,,,,
+2026-11-10T01:31:17+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.68,Florian Broska,polyus,0.27,0.9789,0.0,31255.21,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-10T01:31:17+00:00,,,,,
+2026-11-10T01:31:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.68,Florian Broska,kalshi,0.27,0.9789,0.0,0.0,0.0,0.0,0.74,0.33,1.0988,0.0,2026-11-10T01:31:37+00:00,,,,,
+2026-11-10T01:31:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.68,Florian Broska,kalshi,0.27,0.9789,31051.8,0.0,0.0,0.0,0.68,0.33,1.0406,0.1,2026-11-10T01:31:37+00:00,,,,,
+2026-11-10T01:31:57+00:00,broska v emil,True,Carl Overbeck,polyus,0.64,Florian Broska,kalshi,0.27,0.9398,0.0,0.0,0.0,0.0,0.68,0.37,1.0814,0.0,2026-11-10T01:31:37+00:00,,,,,
+2026-11-10T01:32:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.66,Florian Broska,kalshi,0.27,0.9594,0.0,0.0,0.0,0.0,0.68,0.35,1.061,0.0,2026-11-10T01:31:37+00:00,,,,,
+2026-11-10T01:32:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.65,Florian Broska,polyus,0.27,0.9496,0.0,0.0,0.0,0.0,0.74,0.33,1.0988,0.0,2026-11-10T01:32:37+00:00,,,,,
+2026-11-10T01:32:47+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.69,Florian Broska,polyus,0.26,0.9783,0.0,0.0,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-10T01:32:37+00:00,,,,,
+2026-11-10T01:33:17+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.01,61.88,0.01,0.0,0.11,0.87,0.9947,0.0,2026-11-10T01:33:17+00:00,,,,,
+2026-11-10T01:33:27+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.01,61.88,0.01,0.0,0.11,0.87,0.9947,0.0,2026-11-10T01:33:17+00:00,,,,,
+2026-11-10T01:33:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.63,Florian Broska,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,0.4,1.1119,0.0,2026-11-10T01:33:37+00:00,,,,,
+2026-11-10T01:33:37+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.11,Lautaro Midon,kalshi,0.87,0.9947,0.01,0.0,0.0,0.0,0.11,0.89,1.0137,0.1,2026-11-10T01:33:17+00:00,,,,,
+2026-11-10T01:34:37+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.59,Mili Poljicak,polyus,0.36,0.9829,0.0,0.0,0.0,0.0,0.65,0.41,1.0927,0.0,2026-11-10T01:34:37+00:00,,,,,
+2026-11-10T01:35:57+00:00,honda v hsin,True,Chun Hsin Tseng,kalshi,0.61,Naoya Honda,polyus,0.35,0.9925,0.0,13991.86,0.0,0.0,0.66,0.35,1.0415,0.1,2026-11-10T01:35:57+00:00,,,,,
+2026-11-10T01:36:07+00:00,honda v hsin,True,Chun Hsin Tseng,kalshi,0.61,Naoya Honda,polyus,0.35,0.9925,0.0,13991.86,0.0,0.0,0.66,0.35,1.0415,0.0,2026-11-10T01:35:57+00:00,,,,,
+2026-11-10T01:36:47+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.57,Naoya Honda,kalshi,0.39,0.9937,0.0,0.0,0.0,0.0,0.62,0.44,1.0936,0.1,2026-11-10T01:36:47+00:00,,,,,
+2026-11-10T01:38:07+00:00,poljicak v uchida,True,Kaichi Uchida,polyus,0.58,Mili Poljicak,kalshi,0.37,0.9832,0.0,0.0,0.0,0.0,0.62,0.42,1.0734,0.0,2026-11-10T01:38:07+00:00,,,,,
+2026-11-10T01:38:07+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.5,Naoya Honda,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,0.53,0.5,1.0648,0.0,2026-11-10T01:38:07+00:00,,,,,
+2026-11-10T01:38:47+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.78,Shunsuke Nakagawa,polyus,0.19,0.9927,0.0,0.0,0.0,0.0,0.82,0.23,1.0726,0.0,2026-11-10T01:38:47+00:00,,,,,
+2026-11-10T01:38:57+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.78,Shunsuke Nakagawa,polyus,0.19,0.9927,0.0,5567.38,0.0,0.0,0.83,0.19,1.0406,0.0,2026-11-10T01:38:47+00:00,,,,,
+2026-11-10T01:39:07+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.78,Shunsuke Nakagawa,polyus,0.19,0.9927,0.0,5567.38,0.0,0.0,0.82,0.19,1.031,0.0,2026-11-10T01:38:47+00:00,,,,,
+2026-11-10T01:40:17+00:00,broska v emil,True,Carl Overbeck,polyus,0.54,Florian Broska,kalshi,0.37,0.9436,41306.9,0.0,0.0,0.0,0.54,0.47,1.0447,0.1,2026-11-10T01:40:17+00:00,,,,,
+2026-11-10T01:40:27+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.54,Florian Broska,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,0.47,1.0942,0.0,2026-11-10T01:40:27+00:00,,,,,
+2026-11-10T01:40:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.54,Florian Broska,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,0.47,1.0942,0.0,2026-11-10T01:40:27+00:00,,,,,
+2026-11-10T01:41:17+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.5,Florian Broska,polyus,0.43,0.9645,0.0,40453.95,0.0,0.0,0.58,0.43,1.0441,0.1,2026-11-10T01:41:17+00:00,,,,,
+2026-11-10T01:45:47+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.47,Naoya Honda,kalshi,0.48,0.9848,0.0,0.0,0.0,0.0,0.5,0.54,1.0748,0.0,2026-11-10T01:45:47+00:00,,,,,
+2026-11-10T01:47:57+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.85,Thomas Fancutt,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,0.17,1.0672,0.0,2026-11-10T01:47:57+00:00,,,,,
+2026-11-10T01:48:07+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.85,Thomas Fancutt,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,0.17,1.0672,0.1,2026-11-10T01:47:57+00:00,,,,,
+2026-11-10T01:48:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.6,Florian Broska,kalshi,0.35,0.9826,0.0,0.0,0.0,0.0,0.63,0.41,1.0731,0.0,2026-11-10T01:48:37+00:00,,,,,
+2026-11-10T01:48:37+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.88,Thomas Fancutt,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,0.13,1.0536,0.0,2026-11-10T01:48:37+00:00,,,,,
+2026-11-10T01:48:57+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.54,Ognjen Milic,polyus,0.41,0.9842,0.0,0.0,0.0,0.0,0.6,0.47,1.1041,0.0,2026-11-10T01:48:57+00:00,,,,,
+2026-11-10T01:48:57+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.28,Lautaro Midon,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,0.31,0.73,1.0687,0.0,2026-11-10T01:48:57+00:00,,,,,
+2026-11-10T01:49:07+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.54,Ognjen Milic,polyus,0.41,0.9842,0.0,14194.54,0.0,0.0,0.6,0.41,1.0436,0.1,2026-11-10T01:48:57+00:00,,,,,
+2026-11-10T01:49:07+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.28,Lautaro Midon,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,0.31,0.74,1.0783,0.0,2026-11-10T01:48:57+00:00,,,,,
+2026-11-10T01:49:37+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T01:49:37+00:00,,,,,
+2026-11-10T01:49:57+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.58,Ognjen Milic,polyus,0.37,0.9833,0.0,0.0,0.0,0.0,0.64,0.44,1.1133,0.0,2026-11-10T01:49:57+00:00,,,,,
+2026-11-10T01:50:07+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.58,Ognjen Milic,polyus,0.37,0.9833,0.0,20091.57,0.0,0.0,0.64,0.37,1.0423,0.1,2026-11-10T01:49:57+00:00,,,,,
+2026-11-10T01:51:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.57,Florian Broska,kalshi,0.39,0.9937,0.0,0.0,0.0,0.0,0.59,0.5,1.1243,0.0,2026-11-10T01:51:47+00:00,,,,,
+2026-11-10T01:51:57+00:00,broska v emil,True,Carl Overbeck,polyus,0.51,Florian Broska,kalshi,0.42,0.9644,31864.13,0.0,0.0,0.0,0.51,0.5,1.0449,0.1,2026-11-10T01:51:47+00:00,,,,,
+2026-11-10T01:52:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.51,Florian Broska,kalshi,0.42,0.9644,31864.13,0.0,0.0,0.0,0.51,0.5,1.0449,0.1,2026-11-10T01:51:47+00:00,,,,,
+2026-11-10T01:52:07+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.17,1.0482,0.0,2026-11-10T01:52:07+00:00,,,,,
+2026-11-10T01:52:17+00:00,dellavedova v fancutt,True,Matthew Dellavedova,polyus,0.87,Thomas Fancutt,kalshi,0.11,0.9947,19786.8,0.0,0.0,0.0,0.87,0.14,1.0263,0.1,2026-11-10T01:52:17+00:00,,,,,
+2026-11-10T01:52:17+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.17,1.0482,0.0,2026-11-10T01:52:07+00:00,,,,,
+2026-11-10T01:52:37+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.83,Shunsuke Nakagawa,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T01:52:37+00:00,,,,,
+2026-11-10T01:52:47+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.57,Florian Broska,polyus,0.38,0.9835,0.0,0.0,0.0,0.0,0.63,0.44,1.1034,0.0,2026-11-10T01:52:47+00:00,,,,,
+2026-11-10T01:52:47+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.83,Shunsuke Nakagawa,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T01:52:37+00:00,,,,,
+2026-11-10T01:53:17+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,0.85,0.18,1.0492,0.1,2026-11-10T01:53:17+00:00,,,,,
+2026-11-10T01:53:27+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,0.85,0.18,1.0492,0.0,2026-11-10T01:53:17+00:00,,,,,
+2026-11-10T01:53:37+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.86,Thomas Fancutt,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.89,0.15,1.0557,0.0,2026-11-10T01:53:37+00:00,,,,,
+2026-11-10T01:53:37+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.83,Shunsuke Nakagawa,kalshi,0.15,0.9987,21922.09,0.0,0.0,0.0,0.83,0.18,1.0301,0.0,2026-11-10T01:53:17+00:00,,,,,
+2026-11-10T01:53:47+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.83,Shunsuke Nakagawa,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T01:53:47+00:00,,,,,
+2026-11-10T01:53:57+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.83,Shunsuke Nakagawa,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T01:53:47+00:00,,,,,
+2026-11-10T01:54:07+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.83,Shunsuke Nakagawa,polyus,0.15,0.9987,0.0,6252.26,0.0,0.0,0.87,0.15,1.0368,0.0,2026-11-10T01:53:47+00:00,,,,,
+2026-11-10T01:55:37+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.7,Ognjen Milic,polyus,0.27,0.9984,0.0,12467.49,0.0,0.0,0.74,0.27,1.0372,0.0,2026-11-10T01:55:37+00:00,,,,,
+2026-11-10T01:56:57+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.75,Moerani Bouzige,polyus,0.2,0.9742,0.0,12281.16,0.0,0.0,0.81,0.2,1.0319,0.1,2026-11-10T01:56:57+00:00,,,,,
+2026-11-10T01:57:07+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.75,Moerani Bouzige,polyus,0.2,0.9742,0.0,12281.16,0.0,0.0,0.81,0.2,1.0319,0.0,2026-11-10T01:56:57+00:00,,,,,
+2026-11-10T01:57:17+00:00,broska v emil,True,Carl Overbeck,polyus,0.54,Florian Broska,kalshi,0.38,0.9538,0.0,0.0,0.0,0.0,0.63,0.47,1.1336,0.0,2026-11-10T01:57:17+00:00,,,,,
+2026-11-10T01:57:17+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.75,Moerani Bouzige,polyus,0.2,0.9742,0.0,12281.16,0.0,0.0,0.81,0.2,1.0319,0.0,2026-11-10T01:56:57+00:00,,,,,
+2026-11-10T01:57:27+00:00,broska v emil,True,Carl Overbeck,polyus,0.54,Florian Broska,kalshi,0.41,0.9842,71631.44,0.0,0.0,0.0,0.53,0.47,1.0347,0.1,2026-11-10T01:57:17+00:00,,,,,
+2026-11-10T01:57:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.53,Florian Broska,kalshi,0.41,0.9742,37583.95,0.0,0.0,0.0,0.53,0.48,1.0448,0.0,2026-11-10T01:57:17+00:00,,,,,
+2026-11-10T01:57:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.54,Florian Broska,kalshi,0.41,0.9842,71631.44,0.0,0.0,0.0,0.53,0.48,1.0448,0.0,2026-11-10T01:57:17+00:00,,,,,
+2026-11-10T02:01:57+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.29,Lautaro Midon,kalshi,0.63,0.9506,0.0,0.0,0.0,0.0,0.36,0.72,1.1101,0.0,2026-11-10T02:01:57+00:00,,,,,
+2026-11-10T02:02:07+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.28,Lautaro Midon,kalshi,0.63,0.9403,0.0,0.0,0.0,0.0,0.36,0.73,1.1198,0.0,2026-11-10T02:01:57+00:00,,,,,
+2026-11-10T02:02:17+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.28,Lautaro Midon,kalshi,0.63,0.9403,0.0,0.0,0.0,0.0,0.36,0.73,1.1198,0.0,2026-11-10T02:01:57+00:00,,,,,
+2026-11-10T02:02:27+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.85,Moerani Bouzige,kalshi,0.13,0.9968,0.0,0.0,0.0,0.0,0.87,0.16,1.0473,0.0,2026-11-10T02:02:27+00:00,,,,,
+2026-11-10T02:02:37+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.85,Moerani Bouzige,kalshi,0.13,0.9968,17444.14,0.0,0.0,0.0,0.85,0.16,1.0283,0.0,2026-11-10T02:02:27+00:00,,,,,
+2026-11-10T02:02:47+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.58,Florian Broska,polyus,0.38,0.9934,0.0,0.0,0.0,0.0,0.63,0.43,1.0934,0.0,2026-11-10T02:02:47+00:00,,,,,
+2026-11-10T02:02:47+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.85,Moerani Bouzige,kalshi,0.13,0.9968,17444.14,0.0,0.0,0.0,0.85,0.16,1.0283,0.0,2026-11-10T02:02:27+00:00,,,,,
+2026-11-10T02:04:17+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.85,Moerani Bouzige,polyus,0.12,0.9863,0.0,0.0,0.0,0.0,0.89,0.16,1.0662,0.0,2026-11-10T02:04:17+00:00,,,,,
+2026-11-10T02:04:47+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.82,Shunsuke Nakagawa,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,0.83,0.2,1.051,0.0,2026-11-10T02:04:47+00:00,,,,,
+2026-11-10T02:05:17+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.86,Moerani Bouzige,kalshi,0.11,0.9852,0.0,0.0,0.0,0.0,0.9,0.15,1.0652,0.0,2026-11-10T02:05:17+00:00,,,,,
+2026-11-10T02:05:17+00:00,broska v emil,True,Carl Overbeck,polyus,0.58,Florian Broska,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,0.63,0.43,1.0934,0.0,2026-11-10T02:05:17+00:00,,,,,
+2026-11-10T02:05:27+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.86,Moerani Bouzige,kalshi,0.11,0.9852,0.0,0.0,0.0,0.0,0.9,0.15,1.0652,0.0,2026-11-10T02:05:17+00:00,,,,,
+2026-11-10T02:05:27+00:00,broska v emil,True,Carl Overbeck,polyus,0.58,Florian Broska,kalshi,0.38,0.9934,0.01,0.0,0.0,0.0,0.58,0.42,1.034,0.0,2026-11-10T02:05:17+00:00,,,,,
+2026-11-10T02:05:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.55,Florian Broska,kalshi,0.38,0.9637,0.0,0.0,0.0,0.0,0.58,0.45,1.0643,0.1,2026-11-10T02:05:17+00:00,,,,,
+2026-11-10T02:05:37+00:00,poljicak v uchida,True,Kaichi Uchida,polyus,0.6,Mili Poljicak,kalshi,0.35,0.9826,400.0,0.0,0.0,0.0,0.6,0.4,1.0335,0.1,2026-11-10T02:05:37+00:00,,,,,
+2026-11-10T02:05:37+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.86,Moerani Bouzige,kalshi,0.11,0.9852,20438.82,0.0,0.0,0.0,0.86,0.15,1.0273,0.0,2026-11-10T02:05:17+00:00,,,,,
+2026-11-10T02:05:37+00:00,milic v shiraishi,True,Hikaru Shiraishi,polyus,0.77,Ognjen Milic,kalshi,0.2,0.9935,0.01,0.0,0.0,0.0,0.77,0.23,1.0247,0.1,2026-11-10T02:05:37+00:00,,,,,
+2026-11-10T02:06:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.53,Florian Broska,kalshi,0.42,0.9844,0.0,0.0,0.0,0.0,0.56,0.48,1.0746,0.0,2026-11-10T02:06:07+00:00,,,,,
+2026-11-10T02:06:17+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.95,Thomas Fancutt,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.96,0.05,1.016,0.0,2026-11-10T02:06:17+00:00,,,,,
+2026-11-10T02:06:27+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.95,Thomas Fancutt,polyus,0.04,0.996,0.0,811.23,0.0,0.0,0.96,0.04,1.0054,0.1,2026-11-10T02:06:17+00:00,,,,,
+2026-11-10T02:06:37+00:00,dellavedova v fancutt,True,Matthew Dellavedova,kalshi,0.95,Thomas Fancutt,polyus,0.04,0.996,0.0,811.23,0.0,0.0,0.96,0.04,1.0054,0.0,2026-11-10T02:06:17+00:00,,,,,
+2026-11-10T02:06:57+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.8,Shunsuke Nakagawa,kalshi,0.17,0.991,0.0,0.0,0.0,0.0,0.86,0.2,1.0796,0.0,2026-11-10T02:06:57+00:00,,,,,
+2026-11-10T02:07:07+00:00,jorda v nakagawa,True,David Jorda Sanchis,polyus,0.74,Shunsuke Nakagawa,kalshi,0.17,0.9332,31665.69,0.0,0.0,0.0,0.74,0.27,1.0372,0.1,2026-11-10T02:06:57+00:00,,,,,
+2026-11-10T02:07:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.45,Florian Broska,kalshi,0.49,0.9747,0.0,0.0,0.0,0.0,0.56,0.56,1.1544,0.0,2026-11-10T02:07:07+00:00,,,,,
+2026-11-10T02:07:37+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.48,Naoya Honda,kalshi,0.48,0.9948,31186.15,0.0,0.0,0.0,0.48,0.53,1.0448,0.1,2026-11-10T02:07:37+00:00,,,,,
+2026-11-10T02:08:07+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.47,Florian Broska,polyus,0.44,0.9446,0.0,0.0,0.0,0.0,0.57,0.5,1.1045,0.0,2026-11-10T02:08:07+00:00,,,,,
+2026-11-10T02:08:07+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.45,Naoya Honda,kalshi,0.51,0.9947,33027.42,0.0,0.0,0.0,0.45,0.56,1.0444,0.0,2026-11-10T02:08:07+00:00,,,,,
+2026-11-10T02:08:47+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.57,Florian Broska,polyus,0.39,0.9937,0.0,0.0,0.0,0.0,0.62,0.4,1.0532,0.0,2026-11-10T02:08:47+00:00,,,,,
+2026-11-10T02:09:17+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.39,Naoya Honda,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,0.43,0.62,1.0835,0.0,2026-11-10T02:09:17+00:00,,,,,
+2026-11-10T02:09:27+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.39,Naoya Honda,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,0.43,0.62,1.0835,0.0,2026-11-10T02:09:17+00:00,,,,,
+2026-11-10T02:09:37+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.2,Lautaro Midon,polyus,0.77,0.9935,12.09,0.01,0.01,0.0,0.2,0.77,0.9935,0.0,2026-11-10T02:09:37+00:00,,,,,
+2026-11-10T02:09:47+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.33,Naoya Honda,kalshi,0.62,0.9819,0.0,0.0,0.0,0.0,0.39,0.68,1.1018,0.0,2026-11-10T02:09:47+00:00,,,,,
+2026-11-10T02:09:47+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.2,Lautaro Midon,polyus,0.77,0.9935,107.99,0.01,0.01,0.0,0.2,0.77,0.9935,0.0,2026-11-10T02:09:37+00:00,,,,,
+2026-11-10T02:09:57+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.33,Naoya Honda,kalshi,0.62,0.9819,0.0,0.0,0.0,0.0,0.39,0.68,1.1018,0.0,2026-11-10T02:09:47+00:00,,,,,
+2026-11-10T02:09:57+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.2,Lautaro Midon,polyus,0.77,0.9935,0.0,0.01,0.0,0.0,0.21,0.77,1.0039,0.0,2026-11-10T02:09:37+00:00,,,,,
+2026-11-10T02:10:07+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.2,Lautaro Midon,polyus,0.77,0.9935,60.48,0.01,0.01,0.0,0.2,0.77,0.9935,0.1,2026-11-10T02:09:37+00:00,,,,,
+2026-11-10T02:10:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.54,Florian Broska,kalshi,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,0.46,1.0842,0.0,2026-11-10T02:10:37+00:00,,,,,
+2026-11-10T02:10:47+00:00,broska v emil,True,Carl Overbeck,polyus,0.54,Florian Broska,kalshi,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,0.46,1.0842,0.0,2026-11-10T02:10:37+00:00,,,,,
+2026-11-10T02:10:57+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.67,Mili Poljicak,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,0.34,1.0897,0.0,2026-11-10T02:10:57+00:00,,,,,
+2026-11-10T02:11:07+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.29,Naoya Honda,kalshi,0.65,0.9702,34075.64,0.0,0.0,0.0,0.29,0.72,1.0384,0.1,2026-11-10T02:11:07+00:00,,,,,
+2026-11-10T02:11:07+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.81,Ognjen Milic,polyus,0.15,0.9796,0.0,0.0,0.0,0.0,0.86,0.18,1.0587,0.0,2026-11-10T02:11:07+00:00,,,,,
+2026-11-10T02:11:07+00:00,broska v emil,True,Carl Overbeck,polyus,0.53,Florian Broska,kalshi,0.42,0.9844,0.0,0.0,0.0,0.0,0.57,0.48,1.0845,0.0,2026-11-10T02:11:07+00:00,,,,,
+2026-11-10T02:11:07+00:00,poljicak v uchida,True,Kaichi Uchida,kalshi,0.67,Mili Poljicak,polyus,0.29,0.9898,0.0,0.11,0.0,0.0,0.73,0.29,1.0481,0.1,2026-11-10T02:10:57+00:00,,,,,
+2026-11-10T02:11:07+00:00,dellavedova v fancutt,True,Matthew Dellavedova,polyus,0.95,Thomas Fancutt,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,0.97,0.06,1.036,0.0,2026-11-10T02:11:07+00:00,,,,,
+2026-11-10T02:11:37+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.84,Ognjen Milic,polyus,0.14,0.9978,0.0,0.0,0.0,0.0,0.88,0.15,1.0463,0.0,2026-11-10T02:11:37+00:00,,,,,
+2026-11-10T02:11:57+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.19,Naoya Honda,kalshi,0.73,0.9445,0.0,0.0,0.0,0.0,0.28,0.81,1.1148,0.0,2026-11-10T02:11:57+00:00,,,,,
+2026-11-10T02:11:57+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.77,Moerani Bouzige,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,0.24,1.0735,0.0,2026-11-10T02:11:57+00:00,,,,,
+2026-11-10T02:12:07+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.19,Naoya Honda,kalshi,0.73,0.9445,29829.54,0.0,0.0,0.0,0.19,0.82,1.031,0.1,2026-11-10T02:11:57+00:00,,,,,
+2026-11-10T02:12:07+00:00,bouzige v oconnell,True,Christopher O'Connell,polyus,0.77,Moerani Bouzige,kalshi,0.2,0.9935,19412.38,0.0,0.0,0.0,0.77,0.24,1.0351,0.0,2026-11-10T02:11:57+00:00,,,,,
+2026-11-10T02:12:17+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.52,Florian Broska,polyus,0.4,0.9542,0.0,0.0,0.0,0.0,0.61,0.49,1.134,0.0,2026-11-10T02:12:17+00:00,,,,,
+2026-11-10T02:12:27+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.52,Florian Broska,polyus,0.4,0.9542,0.0,0.0,0.0,0.0,0.61,0.49,1.134,0.0,2026-11-10T02:12:17+00:00,,,,,
+2026-11-10T02:12:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.52,Florian Broska,polyus,0.37,0.9237,0.0,0.0,0.0,0.0,0.64,0.4,1.0728,0.0,2026-11-10T02:12:17+00:00,,,,,
+2026-11-10T02:12:57+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.64,Florian Broska,polyus,0.25,0.9192,0.0,0.0,0.0,0.0,0.76,0.4,1.1894,0.0,2026-11-10T02:12:57+00:00,,,,,
+2026-11-10T02:13:07+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.64,Florian Broska,polyus,0.25,0.9192,0.0,5543.8,0.0,0.0,0.76,0.25,1.0358,0.0,2026-11-10T02:12:57+00:00,,,,,
+2026-11-10T02:13:17+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.79,Moerani Bouzige,polyus,0.18,0.9919,0.0,0.0,0.0,0.0,0.82,0.22,1.0623,0.0,2026-11-10T02:13:17+00:00,,,,,
+2026-11-10T02:13:27+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.79,Moerani Bouzige,polyus,0.18,0.9919,0.0,0.0,0.0,0.0,0.83,0.22,1.0718,0.0,2026-11-10T02:13:17+00:00,,,,,
+2026-11-10T02:13:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.69,Florian Broska,kalshi,0.25,0.968,25502.97,0.0,0.0,0.0,0.69,0.32,1.0401,0.0,2026-11-10T02:13:37+00:00,,,,,
+2026-11-10T02:13:37+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.79,Moerani Bouzige,polyus,0.18,0.9919,0.0,20096.99,0.0,0.0,0.83,0.18,1.0301,0.0,2026-11-10T02:13:17+00:00,,,,,
+2026-11-10T02:14:07+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.69,Florian Broska,polyus,0.22,0.9369,0.0,11420.71,0.0,0.0,0.79,0.22,1.0335,0.0,2026-11-10T02:14:07+00:00,,,,,
+2026-11-10T02:14:17+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.69,Florian Broska,polyus,0.22,0.9369,0.0,11420.71,0.0,0.0,0.78,0.22,1.0239,0.0,2026-11-10T02:14:07+00:00,,,,,
+2026-11-10T02:14:17+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.2,Naoya Honda,kalshi,0.77,0.9935,0.0,0.0,0.0,0.0,0.24,0.81,1.0734,0.0,2026-11-10T02:14:17+00:00,,,,,
+2026-11-10T02:14:27+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.69,Florian Broska,polyus,0.16,0.8743,0.0,0.0,0.0,0.0,0.86,0.22,1.1004,0.0,2026-11-10T02:14:07+00:00,,,,,
+2026-11-10T02:14:27+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.2,Naoya Honda,kalshi,0.77,0.9935,0.0,0.0,0.0,0.0,0.24,0.81,1.0734,0.0,2026-11-10T02:14:17+00:00,,,,,
+2026-11-10T02:14:27+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.92,Ognjen Milic,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,0.08,1.0291,0.0,2026-11-10T02:14:27+00:00,,,,,
+2026-11-10T02:14:37+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.78,Florian Broska,polyus,0.16,0.9614,0.0,67300.66,0.0,0.0,0.86,0.16,1.0378,0.0,2026-11-10T02:14:07+00:00,,,,,
+2026-11-10T02:14:47+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.78,Florian Broska,polyus,0.16,0.9614,0.0,67300.66,0.0,0.0,0.85,0.16,1.0283,0.0,2026-11-10T02:14:07+00:00,,,,,
+2026-11-10T02:14:57+00:00,jorda v nakagawa,True,David Jorda Sanchis,kalshi,0.73,Shunsuke Nakagawa,polyus,0.24,0.9965,0.0,0.0,0.0,0.0,0.76,0.25,1.0358,0.0,2026-11-10T02:14:57+00:00,,,,,
+2026-11-10T02:15:17+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.14,Naoya Honda,kalshi,0.84,0.9978,0.0,0.0,0.0,0.0,0.16,0.87,1.0473,0.0,2026-11-10T02:15:17+00:00,,,,,
+2026-11-10T02:15:27+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.14,Naoya Honda,kalshi,0.84,0.9978,0.0,0.0,0.0,0.0,0.16,0.87,1.0473,0.0,2026-11-10T02:15:17+00:00,,,,,
+2026-11-10T02:15:37+00:00,milic v shiraishi,True,Hikaru Shiraishi,polyus,0.92,Ognjen Milic,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,0.09,1.0397,0.1,2026-11-10T02:15:37+00:00,,,,,
+2026-11-10T02:15:47+00:00,milic v shiraishi,True,Hikaru Shiraishi,polyus,0.92,Ognjen Milic,kalshi,0.07,0.9997,9250.03,0.0,0.0,0.0,0.92,0.09,1.0208,0.1,2026-11-10T02:15:37+00:00,,,,,
+2026-11-10T02:15:57+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.81,Florian Broska,polyus,0.08,0.9059,0.0,0.0,0.0,0.0,0.94,0.2,1.1551,0.0,2026-11-10T02:15:57+00:00,,,,,
+2026-11-10T02:15:57+00:00,milic v shiraishi,True,Hikaru Shiraishi,polyus,0.92,Ognjen Milic,kalshi,0.07,0.9997,9250.03,0.0,0.0,0.0,0.92,0.1,1.0314,0.0,2026-11-10T02:15:37+00:00,,,,,
+2026-11-10T02:16:07+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.91,Ognjen Milic,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.93,0.09,1.0302,0.0,2026-11-10T02:16:07+00:00,,,,,
+2026-11-10T02:16:17+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.91,Ognjen Milic,polyus,0.07,0.9903,0.0,783.99,0.0,0.0,0.93,0.07,1.0091,0.1,2026-11-10T02:16:07+00:00,,,,,
+2026-11-10T02:16:27+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.91,Ognjen Milic,polyus,0.07,0.9903,0.0,783.99,0.0,0.0,0.93,0.07,1.0091,0.0,2026-11-10T02:16:07+00:00,,,,,
+2026-11-10T02:16:37+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.91,Ognjen Milic,polyus,0.07,0.9903,13708.66,783.99,783.99,7.64,0.91,0.07,0.9903,0.0,2026-11-10T02:16:07+00:00,783.99,7.64,0.0,0.0,True
+2026-11-10T02:16:57+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.93,Florian Broska,polyus,0.03,0.9666,0.0,0.0,0.0,0.0,0.98,0.07,1.0559,0.0,2026-11-10T02:16:57+00:00,,,,,
+2026-11-10T02:17:07+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.93,Florian Broska,polyus,0.03,0.9666,0.0,45188.74,0.0,0.0,0.98,0.03,1.0134,0.0,2026-11-10T02:16:57+00:00,,,,,
+2026-11-10T02:17:07+00:00,milic v shiraishi,True,Hikaru Shiraishi,polyus,0.9,Ognjen Milic,kalshi,0.08,0.9914,0.0,0.0,0.0,0.0,0.91,0.11,1.0325,0.0,2026-11-10T02:17:07+00:00,,,,,
+2026-11-10T02:17:27+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.07,Naoya Honda,kalshi,0.91,0.9903,0.0,0.0,0.0,0.0,0.1,0.94,1.0502,0.0,2026-11-10T02:17:27+00:00,,,,,
+2026-11-10T02:17:27+00:00,milic v shiraishi,True,Hikaru Shiraishi,polyus,0.87,Ognjen Milic,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,0.14,1.0547,0.0,2026-11-10T02:17:27+00:00,,,,,
+2026-11-10T02:17:37+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.07,Naoya Honda,kalshi,0.91,0.9903,0.0,0.0,0.0,0.0,0.1,0.94,1.0502,0.0,2026-11-10T02:17:27+00:00,,,,,
+2026-11-10T02:17:37+00:00,milic v shiraishi,True,Hikaru Shiraishi,polyus,0.87,Ognjen Milic,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,0.14,1.0547,0.0,2026-11-10T02:17:27+00:00,,,,,
+2026-11-10T02:18:07+00:00,honda v hsin,True,Chun Hsin Tseng,kalshi,0.07,Naoya Honda,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,0.94,1.0397,0.0,2026-11-10T02:18:07+00:00,,,,,
+2026-11-10T02:18:17+00:00,milic v shiraishi,True,Hikaru Shiraishi,polyus,0.83,Ognjen Milic,kalshi,0.15,0.9987,0.1,55.22,0.1,0.0,0.83,0.15,0.9987,0.1,2026-11-10T02:18:17+00:00,,,,,
+2026-11-10T02:18:27+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.85,Ognjen Milic,polyus,0.11,0.9757,0.0,0.0,0.0,0.0,0.9,0.2,1.1174,0.0,2026-11-10T02:18:27+00:00,,,,,
+2026-11-10T02:18:27+00:00,broska v emil,True,Carl Overbeck,polyus,0.91,Florian Broska,kalshi,0.06,0.9796,0.0,0.0,0.0,0.0,0.95,0.1,1.0596,0.0,2026-11-10T02:18:27+00:00,,,,,
+2026-11-10T02:18:37+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.85,Ognjen Milic,polyus,0.11,0.9757,0.0,0.0,0.0,0.0,0.9,0.2,1.1174,0.0,2026-11-10T02:18:27+00:00,,,,,
+2026-11-10T02:18:37+00:00,broska v emil,True,Carl Overbeck,polyus,0.91,Florian Broska,kalshi,0.06,0.9796,68769.35,0.0,0.0,0.0,0.91,0.1,1.022,0.0,2026-11-10T02:18:27+00:00,,,,,
+2026-11-10T02:19:27+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.89,Ognjen Milic,polyus,0.08,0.982,0.0,0.0,0.0,0.0,0.93,0.11,1.0514,0.0,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:19:27+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.82,Moerani Bouzige,polyus,0.16,0.9997,0.0,0.0,0.0,0.0,0.84,0.19,1.0501,0.0,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:19:27+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.07,Naoya Honda,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,0.11,0.94,1.0608,0.1,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:19:37+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.89,Ognjen Milic,polyus,0.08,0.982,0.0,0.0,0.0,0.0,0.93,0.11,1.0514,0.0,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:19:37+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.82,Moerani Bouzige,polyus,0.16,0.9997,0.0,13153.17,0.0,0.0,0.85,0.16,1.0283,0.1,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:19:37+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.07,Naoya Honda,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,0.11,0.94,1.0608,0.0,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:19:47+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.89,Ognjen Milic,polyus,0.08,0.982,0.0,1292.7,0.0,0.0,0.92,0.08,1.0103,0.1,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:19:47+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.82,Moerani Bouzige,polyus,0.16,0.9997,0.0,13153.17,0.0,0.0,0.87,0.16,1.0473,0.1,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:19:47+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.07,Naoya Honda,kalshi,0.92,0.9997,147.01,0.0,0.0,0.0,0.07,0.95,1.0278,0.1,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:19:57+00:00,milic v shiraishi,True,Hikaru Shiraishi,kalshi,0.89,Ognjen Milic,polyus,0.09,0.9925,0.0,7479.69,0.0,0.0,0.92,0.08,1.0103,0.0,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:19:57+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.82,Moerani Bouzige,polyus,0.16,0.9997,0.0,13153.17,0.0,0.0,0.87,0.16,1.0473,0.0,2026-11-10T02:19:27+00:00,,,,,
+2026-11-10T02:20:07+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.02,Naoya Honda,kalshi,0.95,0.9747,0.0,0.0,0.0,0.0,0.07,0.99,1.0652,0.0,2026-11-10T02:20:07+00:00,,,,,
+2026-11-10T02:20:17+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.02,Naoya Honda,kalshi,0.95,0.9747,9163.47,0.0,0.0,0.0,0.02,0.99,1.0121,0.1,2026-11-10T02:20:07+00:00,,,,,
+2026-11-10T02:20:27+00:00,honda v hsin,True,Chun-Hsin Tseng,polyus,0.02,Naoya Honda,kalshi,0.95,0.9747,9163.47,0.0,0.0,0.0,0.02,0.99,1.0121,0.0,2026-11-10T02:20:07+00:00,,,,,
+2026-11-10T02:20:57+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.89,Moerani Bouzige,polyus,0.07,0.9714,0.0,0.0,0.0,0.0,0.94,0.12,1.0713,0.0,2026-11-10T02:20:57+00:00,,,,,
+2026-11-10T02:21:07+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.88,Moerani Bouzige,polyus,0.07,0.9619,0.0,31441.29,0.0,0.0,0.94,0.07,1.0185,0.1,2026-11-10T02:20:57+00:00,,,,,
+2026-11-10T02:21:17+00:00,bouzige v oconnell,True,Christopher O'Connell,kalshi,0.88,Moerani Bouzige,polyus,0.07,0.9619,0.0,31441.29,0.0,0.0,0.94,0.07,1.0185,0.0,2026-11-10T02:20:57+00:00,,,,,
