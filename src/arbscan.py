@@ -11,8 +11,8 @@ Each scan (default every 10s; well under Kalshi's ~20 req/s and Polymarket US's 
   - if a cross-venue combo costs < $1: re-check both order books for size at those prices, then again
     at +1s and +3s (simulating a bot that fires both orders at once): bot_ok = still >= MIN_LOCK at +1s
   - log one summary row per scan, every sub-$1 combo, and how long each arb lasted
-  - open a GitHub issue (phone alert) for a NEW gate-quality arb: still >= MIN_LOCK at +1s even if either
-    leg fills one cent worse (gate_ok)
+  - open a GitHub issue (phone alert) for a NEW gate-quality arb (gate_ok): both legs still there at +1s
+    and a bot with Remick's bankroll nets >= MIN_LOCK after fees
 Commits data every 15 min; hands off to a new GitHub run before the 6h job limit.
 
 Run: python arbscan.py --minutes 340 [--interval 60] [--once]
@@ -37,7 +37,8 @@ POLYUS = "https://gateway.polymarket.us"
 K_SERIES = ["KXATPMATCH", "KXWTAMATCH", "KXATPCHALLENGERMATCH", "KXWTACHALLENGERMATCH"]
 FEE = {"kalshi": 0.07, "polyus": 0.0695}
 MIN_LOCK = 1.00          # dollars locked before an alert is worth it
-SLIP = 0.01              # gate rule (Nov 10): must still profit if either leg fills one cent worse
+SLIP = 0.01              # info only: what a 1-cent slip on either leg would do
+BANKROLL = 690.0         # Remick's bankroll: the gate asks what a bot with this much money would net
 RUN = os.environ.get("GITHUB_RUN_ID", "local")  # each run writes its own files (no git conflicts between runs)
 S = requests.Session()
 
@@ -168,7 +169,7 @@ def alert(r):
             f"- **Buy {r['leg_b']} on {r['src_b'].upper()} @ {r['px_b']:.2f}**\n"
             f"- **Size: {int(r['size'])} shares each** · all-in ${r['total']:.3f} per pair "
             f"→ {100 * (1 - r['total']):.1f}¢ locked per $1\n"
-            f"- Survives a 1¢ slip on either leg: **${r.get('locked_slip_1s', 0):.2f}** locked (all-in ${r.get('total_slip', 0):.3f}).\n"
+            f"- **At your ${BANKROLL:.0f} bankroll: ${r.get('bankroll_profit', 0):.2f} profit** (after fees and fee rounding).\n"
             f"- Seen {mt}. Still there 1s later (simulated bot): **{'YES' if r.get('bot_ok') else 'NO'}** "
             f"(${r.get('locked_1s', 0):.2f} locked at +1s, ${r.get('locked_3s', 0):.2f} at +3s).\n\n"
             "Both venues settle walkovers at the last fair price and retirements to the official winner.")
@@ -252,7 +253,12 @@ def main():
                                SLIP + fb * ((r.px_b + SLIP) * (1 - r.px_b - SLIP) - r.px_b * (1 - r.px_b)))
                     rec["total_slip"] = round(r.total + slip, 4)
                     rec["locked_slip_1s"] = round(rec["size_1s"] * (1 - rec["total_slip"]), 2)
-                    rec["gate_ok"] = rec["bot_ok"] and rec["locked_slip_1s"] >= MIN_LOCK  # what the arb gate counts
+                    # gate (Remick, Nov 10): a ready bot is expected to profit. Both legs still there at +1s at
+                    # the quoted prices, and buying with BANKROLL nets >= $1 after fees, incl. up to 1 cent of
+                    # per-order fee rounding on each venue.
+                    n = min(rec["size_1s"], BANKROLL / r.total)
+                    rec["bankroll_profit"] = round(n * (1 - r.total) - 0.02, 2)
+                    rec["gate_ok"] = rec["bot_ok"] and rec["bankroll_profit"] >= MIN_LOCK
                 if rec.get("gate_ok") and (r.key, day) not in alerted:  # alert only on gate-quality arbs
                     alerted.add((r.key, day)); alert(rec)
         # arbs that closed since the last scan: log their lifetime. minutes = upper bound (first seen ->
