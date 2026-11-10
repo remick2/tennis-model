@@ -1209,3 +1209,73 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-10T14:03:08+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.17,Pedro Vives Marcos,kalshi,0.76,0.9526,0.0,0.0,0.0,0.0,0.27,0.84,1.1331,0.0,2026-11-10T14:02:58+00:00
 2026-11-10T14:03:18+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.2,Pedro Vives Marcos,kalshi,0.76,0.9839,41390.68,0.0,0.0,0.0,0.17,0.84,1.0292,0.0,2026-11-10T14:02:58+00:00
 2026-11-10T14:03:28+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.19,Pedro Vives Marcos,kalshi,0.76,0.9735,41330.58,0.0,0.0,0.0,0.17,0.84,1.0292,0.0,2026-11-10T14:02:58+00:00
+2026-11-10T14:03:48+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.19,Pedro Vives Marcos,polyus,0.75,0.9638,0.0,646.34,0.0,0.0,0.26,0.75,1.0365,0.0,2026-11-10T14:03:48+00:00
+2026-11-10T14:03:58+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.19,Pedro Vives Marcos,polyus,0.75,0.9638,0.0,646.34,0.0,0.0,0.27,0.75,1.0468,0.0,2026-11-10T14:03:48+00:00
+2026-11-10T14:04:18+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.17,Pedro Vives Marcos,kalshi,0.76,0.9526,3118.81,0.0,0.0,0.0,0.17,0.84,1.0292,0.0,2026-11-10T14:04:18+00:00
+2026-11-10T14:04:28+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.17,Pedro Vives Marcos,kalshi,0.76,0.9526,3118.81,0.0,0.0,0.0,0.17,0.84,1.0292,0.0,2026-11-10T14:04:18+00:00
+2026-11-10T14:04:38+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.21,Pedro Vives Marcos,kalshi,0.76,0.9943,19323.14,0.0,0.0,0.0,0.17,0.84,1.0292,0.0,2026-11-10T14:04:18+00:00
+2026-11-10T14:04:48+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.17,Pedro Vives Marcos,polyus,0.74,0.9332,0.0,0.0,0.0,0.0,0.27,0.76,1.0565,0.0,2026-11-10T14:04:48+00:00
+2026-11-10T14:04:58+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.17,Pedro Vives Marcos,polyus,0.74,0.9332,0.0,0.0,0.0,0.0,0.27,0.76,1.0565,0.0,2026-11-10T14:04:48+00:00
+2026-11-10T14:05:08+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.17,Pedro Vives Marcos,polyus,0.74,0.9332,0.0,0.0,0.0,0.0,0.27,0.76,1.0565,0.0,2026-11-10T14:04:48+00:00
+2026-11-10T14:05:18+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.17,Pedro Vives Marcos,kalshi,0.74,0.9333,0.0,0.0,0.0,0.0,0.29,0.84,1.1537,0.1,2026-11-10T14:05:18+00:00
+2026-11-10T14:05:28+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.17,Pedro Vives Marcos,kalshi,0.74,0.9333,0.0,0.0,0.0,0.0,0.29,0.84,1.1537,0.0,2026-11-10T14:05:18+00:00
+2026-11-10T14:05:38+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.17,Pedro Vives Marcos,kalshi,0.74,0.9333,0.0,0.0,0.0,0.0,0.29,0.84,1.1537,0.1,2026-11-10T14:05:18+00:00
+2026-11-10T14:05:48+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.23,Pedro Vives Marcos,kalshi,0.74,0.9958,170.32,0.0,0.0,0.0,0.17,0.83,1.0197,0.0,2026-11-10T14:05:18+00:00
+2026-11-10T14:05:58+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.19,Pedro Vives Marcos,polyus,0.74,0.9541,0.0,0.0,0.0,0.0,0.27,0.84,1.1331,0.0,2026-11-10T14:05:58+00:00
+2026-11-10T14:06:08+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.19,Pedro Vives Marcos,polyus,0.74,0.9541,0.0,0.0,0.0,0.0,0.27,0.84,1.1331,0.0,2026-11-10T14:05:58+00:00
+2026-11-10T14:06:18+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.19,Pedro Vives Marcos,polyus,0.74,0.9541,0.0,614.44,0.0,0.0,0.27,0.74,1.0372,0.0,2026-11-10T14:05:58+00:00
+2026-11-10T14:06:48+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.18,Pedro Vives Marcos,kalshi,0.74,0.9437,3508.4,0.0,0.0,0.0,0.17,0.83,1.0197,0.0,2026-11-10T14:06:48+00:00
+2026-11-10T14:07:08+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.36,Raul Brancaccio,kalshi,0.6,0.9928,16706.95,0.0,0.0,0.0,0.36,0.66,1.0517,0.0,2026-11-10T14:07:08+00:00
+2026-11-10T14:07:18+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.36,Raul Brancaccio,kalshi,0.6,0.9928,16706.95,0.0,0.0,0.0,0.36,0.66,1.0517,0.0,2026-11-10T14:07:08+00:00
+2026-11-10T14:07:58+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.27,Pedro Vives Marcos,polyus,0.68,0.9789,0.0,0.0,0.0,0.0,0.32,0.72,1.0692,0.1,2026-11-10T14:07:58+00:00
+2026-11-10T14:08:08+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.25,Raul Brancaccio,kalshi,0.66,0.9387,5439.97,0.0,0.0,0.0,0.25,0.76,1.0358,0.0,2026-11-10T14:08:08+00:00
+2026-11-10T14:08:28+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.19,Pedro Vives Marcos,kalshi,0.69,0.9057,0.0,0.0,0.0,0.0,0.33,0.82,1.1757,0.0,2026-11-10T14:08:28+00:00
+2026-11-10T14:08:38+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.19,Pedro Vives Marcos,kalshi,0.69,0.9057,0.0,0.0,0.0,0.0,0.33,0.82,1.1757,0.0,2026-11-10T14:08:28+00:00
+2026-11-10T14:09:08+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.21,Raul Brancaccio,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,0.22,0.8,1.0431,0.0,2026-11-10T14:09:08+00:00
+2026-11-10T14:09:18+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.21,Pedro Vives Marcos,polyus,0.73,0.9653,0.0,0.0,0.0,0.0,0.29,0.86,1.1728,0.0,2026-11-10T14:09:18+00:00
+2026-11-10T14:09:28+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.21,Pedro Vives Marcos,polyus,0.71,0.9459,0.0,0.0,0.0,0.0,0.3,0.86,1.1831,0.0,2026-11-10T14:09:18+00:00
+2026-11-10T14:09:38+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.21,Pedro Vives Marcos,polyus,0.71,0.9459,0.0,0.0,0.0,0.0,0.3,0.86,1.1831,0.1,2026-11-10T14:09:18+00:00
+2026-11-10T14:09:58+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.2,Pedro Vives Marcos,kalshi,0.7,0.9258,0.0,0.0,0.0,0.0,0.31,0.81,1.1456,0.1,2026-11-10T14:09:58+00:00
+2026-11-10T14:09:58+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.21,Raul Brancaccio,polyus,0.76,0.9943,0.0,0.0,0.0,0.0,0.26,0.8,1.0846,0.0,2026-11-10T14:09:58+00:00
+2026-11-10T14:10:08+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.2,Pedro Vives Marcos,kalshi,0.7,0.9258,0.0,0.0,0.0,0.0,0.31,0.81,1.1456,0.0,2026-11-10T14:09:58+00:00
+2026-11-10T14:10:08+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.21,Raul Brancaccio,polyus,0.74,0.975,0.0,0.0,0.0,0.0,0.26,0.76,1.0461,0.1,2026-11-10T14:09:58+00:00
+2026-11-10T14:10:28+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.13,Pedro Vives Marcos,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,0.2,0.88,1.0985,0.0,2026-11-10T14:10:28+00:00
+2026-11-10T14:10:28+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.22,Raul Brancaccio,kalshi,0.74,0.9854,0.0,0.0,0.0,0.0,0.25,0.79,1.0646,0.0,2026-11-10T14:10:28+00:00
+2026-11-10T14:10:38+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.13,Pedro Vives Marcos,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,0.2,0.88,1.0985,0.1,2026-11-10T14:10:28+00:00
+2026-11-10T14:10:38+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.22,Raul Brancaccio,kalshi,0.74,0.9854,12.01,0.0,0.0,0.0,0.22,0.79,1.0335,0.0,2026-11-10T14:10:28+00:00
+2026-11-10T14:10:48+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.23,Raul Brancaccio,kalshi,0.74,0.9958,19625.64,0.0,0.0,0.0,0.22,0.79,1.0335,0.0,2026-11-10T14:10:28+00:00
+2026-11-10T14:10:58+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.09,Pedro Vives Marcos,kalshi,0.88,0.9831,0.0,0.0,0.0,0.0,0.14,0.93,1.0829,0.0,2026-11-10T14:10:58+00:00
+2026-11-10T14:10:58+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.82,Pavlos Tsitsipas,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,0.85,0.19,1.0596,0.0,2026-11-10T14:10:58+00:00
+2026-11-10T14:11:08+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.09,Pedro Vives Marcos,kalshi,0.88,0.9831,0.0,0.0,0.0,0.0,0.14,0.93,1.0829,0.0,2026-11-10T14:10:58+00:00
+2026-11-10T14:11:08+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.82,Pavlos Tsitsipas,kalshi,0.16,0.9997,34533.62,0.0,0.0,0.0,0.82,0.19,1.031,0.0,2026-11-10T14:10:58+00:00
+2026-11-10T14:11:18+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.08,Pedro Vives Marcos,kalshi,0.88,0.9725,27645.48,0.0,0.0,0.0,0.08,0.93,1.0197,0.0,2026-11-10T14:10:58+00:00
+2026-11-10T14:11:18+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.82,Pavlos Tsitsipas,kalshi,0.16,0.9997,34533.62,0.0,0.0,0.0,0.82,0.2,1.0415,0.0,2026-11-10T14:10:58+00:00
+2026-11-10T14:11:28+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.21,Raul Brancaccio,polyus,0.75,0.9846,0.0,0.0,0.0,0.0,0.27,0.81,1.1045,0.0,2026-11-10T14:11:28+00:00
+2026-11-10T14:11:38+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.21,Raul Brancaccio,polyus,0.75,0.9846,0.0,15991.14,0.0,0.0,0.26,0.75,1.0365,0.0,2026-11-10T14:11:28+00:00
+2026-11-10T14:11:48+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.21,Raul Brancaccio,polyus,0.73,0.9653,0.0,0.0,0.0,0.0,0.27,0.75,1.0468,0.0,2026-11-10T14:11:28+00:00
+2026-11-10T14:12:08+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.27,Raul Brancaccio,polyus,0.67,0.9692,0.0,0.0,0.0,0.0,0.34,0.77,1.138,0.0,2026-11-10T14:12:08+00:00
+2026-11-10T14:12:08+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.8,Pavlos Tsitsipas,polyus,0.16,0.9805,0.0,12245.31,0.0,0.0,0.85,0.16,1.0283,0.0,2026-11-10T14:12:08+00:00
+2026-11-10T14:12:18+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.27,Raul Brancaccio,polyus,0.66,0.9594,0.0,0.0,0.0,0.0,0.35,0.77,1.1482,0.0,2026-11-10T14:12:08+00:00
+2026-11-10T14:12:18+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.8,Pavlos Tsitsipas,polyus,0.16,0.9805,0.0,12245.31,0.0,0.0,0.85,0.16,1.0283,0.0,2026-11-10T14:12:08+00:00
+2026-11-10T14:12:18+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.72,Benjamin Pietri,kalshi,0.25,0.9971,1029.98,0.0,0.0,0.0,0.72,0.29,1.0384,0.0,2026-11-10T14:12:18+00:00
+2026-11-10T14:12:48+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.35,Raul Brancaccio,polyus,0.56,0.943,0.0,0.0,0.0,0.0,0.45,0.66,1.1429,0.0,2026-11-10T14:12:48+00:00
+2026-11-10T14:13:18+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.85,Pavlos Tsitsipas,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.87,0.14,1.0263,0.0,2026-11-10T14:13:18+00:00
+2026-11-10T14:13:38+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.48,Raul Brancaccio,polyus,0.48,0.9948,0.0,0.0,0.0,0.0,0.53,0.55,1.1146,0.0,2026-11-10T14:13:38+00:00
+2026-11-10T14:13:48+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.48,Raul Brancaccio,polyus,0.48,0.9948,0.0,0.0,0.0,0.0,0.53,0.55,1.1146,0.0,2026-11-10T14:13:38+00:00
+2026-11-10T14:13:48+00:00,andreev v pietri,True,Adrian Andreev,kalshi,0.68,Benjamin Pietri,polyus,0.29,0.9995,0.0,23532.65,0.0,0.0,0.72,0.29,1.0384,0.1,2026-11-10T14:13:48+00:00
+2026-11-10T14:14:08+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.68,Benjamin Pietri,kalshi,0.29,0.9995,0.0,0.0,0.0,0.0,0.72,0.33,1.0795,0.0,2026-11-10T14:14:08+00:00
+2026-11-10T14:14:18+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.68,Benjamin Pietri,kalshi,0.29,0.9995,22833.14,0.0,0.0,0.0,0.68,0.33,1.0406,0.0,2026-11-10T14:14:08+00:00
+2026-11-10T14:14:28+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.68,Benjamin Pietri,kalshi,0.29,0.9995,22833.14,0.0,0.0,0.0,0.68,0.33,1.0406,0.0,2026-11-10T14:14:08+00:00
+2026-11-10T14:14:28+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.07,Pedro Vives Marcos,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,0.08,0.94,1.0291,0.0,2026-11-10T14:14:28+00:00
+2026-11-10T14:14:38+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.68,Benjamin Pietri,kalshi,0.29,0.9995,22833.14,0.0,0.0,0.0,0.68,0.34,1.0508,0.0,2026-11-10T14:14:08+00:00
+2026-11-10T14:14:48+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.62,Benjamin Pietri,kalshi,0.33,0.9819,0.0,0.0,0.0,0.0,0.68,0.39,1.1018,0.0,2026-11-10T14:14:08+00:00
+2026-11-10T14:14:48+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.07,Pedro Vives Marcos,polyus,0.91,0.9902,0.0,47548.97,0.0,0.0,0.1,0.91,1.022,0.0,2026-11-10T14:14:48+00:00
+2026-11-10T14:14:58+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.62,Benjamin Pietri,kalshi,0.33,0.9819,16862.03,0.0,0.0,0.0,0.62,0.39,1.043,0.0,2026-11-10T14:14:08+00:00
+2026-11-10T14:14:58+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.07,Pedro Vives Marcos,polyus,0.92,0.9997,0.0,77345.66,0.0,0.0,0.1,0.91,1.022,0.0,2026-11-10T14:14:48+00:00
+2026-11-10T14:15:08+00:00,dhamne v marcos,True,Manas Dhamne,kalshi,0.07,Pedro Vives Marcos,polyus,0.9,0.9808,0.0,0.0,0.0,0.0,0.11,0.91,1.0325,0.0,2026-11-10T14:14:48+00:00
+2026-11-10T14:15:08+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.62,Benjamin Pietri,kalshi,0.33,0.9819,16862.03,0.0,0.0,0.0,0.62,0.39,1.043,0.0,2026-11-10T14:14:08+00:00
+2026-11-10T14:15:48+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.07,Pedro Vives Marcos,kalshi,0.9,0.9808,49399.38,0.0,0.0,0.0,0.07,0.94,1.0185,0.1,2026-11-10T14:15:48+00:00
+2026-11-10T14:15:58+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.06,Pedro Vives Marcos,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,0.07,0.95,1.0278,0.0,2026-11-10T14:15:48+00:00
+2026-11-10T14:16:08+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.03,Pedro Vives Marcos,kalshi,0.9,0.9383,0.0,0.0,0.0,0.0,0.07,0.98,1.0559,0.0,2026-11-10T14:15:48+00:00
+2026-11-10T14:18:28+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.55,Raul Brancaccio,kalshi,0.41,0.9941,0.0,0.0,0.0,0.0,0.6,0.46,1.0941,0.0,2026-11-10T14:18:28+00:00
+2026-11-10T14:18:38+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.55,Raul Brancaccio,kalshi,0.41,0.9941,31937.43,0.0,0.0,0.0,0.55,0.46,1.0446,0.0,2026-11-10T14:18:28+00:00
