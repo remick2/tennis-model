@@ -1279,3 +1279,24 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-10T14:16:08+00:00,dhamne v marcos,True,Manoj Dhamne Manas,polyus,0.03,Pedro Vives Marcos,kalshi,0.9,0.9383,0.0,0.0,0.0,0.0,0.07,0.98,1.0559,0.0,2026-11-10T14:15:48+00:00
 2026-11-10T14:18:28+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.55,Raul Brancaccio,kalshi,0.41,0.9941,0.0,0.0,0.0,0.0,0.6,0.46,1.0941,0.0,2026-11-10T14:18:28+00:00
 2026-11-10T14:18:38+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.55,Raul Brancaccio,kalshi,0.41,0.9941,31937.43,0.0,0.0,0.0,0.55,0.46,1.0446,0.0,2026-11-10T14:18:28+00:00
+2026-11-10T14:19:08+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.51,Raul Brancaccio,kalshi,0.45,0.9947,29849.79,0.0,0.0,0.0,0.51,0.5,1.0449,0.0,2026-11-10T14:19:08+00:00
+2026-11-10T14:19:18+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.51,Raul Brancaccio,kalshi,0.45,0.9947,29849.79,0.0,0.0,0.0,0.51,0.5,1.0449,0.0,2026-11-10T14:19:08+00:00
+2026-11-10T14:20:28+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.73,Pavlos Tsitsipas,kalshi,0.22,0.9757,0.0,0.0,0.0,0.0,0.78,0.27,1.0757,0.0,2026-11-10T14:20:28+00:00
+2026-11-10T14:20:28+00:00,altmaier v gobat,True,Adrien Gobat,polyus,0.13,Daniel Altmaier,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,0.14,0.88,1.0358,0.0,2026-11-10T14:20:28+00:00
+2026-11-10T14:20:38+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.73,Pavlos Tsitsipas,kalshi,0.22,0.9757,8736.06,0.0,0.0,0.0,0.73,0.28,1.0378,0.0,2026-11-10T14:20:28+00:00
+2026-11-10T14:20:38+00:00,altmaier v gobat,True,Adrien Gobat,polyus,0.13,Daniel Altmaier,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,0.14,0.88,1.0358,0.0,2026-11-10T14:20:28+00:00
+2026-11-10T14:20:48+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.73,Pavlos Tsitsipas,kalshi,0.24,0.9965,8736.06,0.0,0.0,0.0,0.73,0.28,1.0378,0.0,2026-11-10T14:20:28+00:00
+2026-11-10T14:20:58+00:00,clarke v janvier,True,Jay Clarke,polyus,0.7,Maxime Janvier,kalshi,0.27,0.9984,0.0,0.0,0.0,0.0,0.74,0.31,1.0783,0.0,2026-11-10T14:20:58+00:00
+2026-11-10T14:21:08+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.5,Raul Brancaccio,polyus,0.45,0.9847,0.0,27955.98,0.0,0.0,0.56,0.45,1.0444,0.0,2026-11-10T14:21:08+00:00
+2026-11-10T14:21:08+00:00,clarke v janvier,True,Jay Clarke,polyus,0.7,Maxime Janvier,kalshi,0.27,0.9984,599.21,0.0,0.0,0.0,0.7,0.31,1.0396,0.1,2026-11-10T14:20:58+00:00
+2026-11-10T14:21:38+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.75,Pavlos Tsitsipas,polyus,0.21,0.9847,0.0,22026.77,0.0,0.0,0.8,0.21,1.0327,0.0,2026-11-10T14:21:38+00:00
+2026-11-10T14:21:38+00:00,brancaccio v paldanius,True,Oskari Paldanius,kalshi,0.53,Raul Brancaccio,polyus,0.43,0.9945,0.0,27963.66,0.0,0.0,0.58,0.43,1.0441,0.0,2026-11-10T14:21:38+00:00
+2026-11-10T14:21:48+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.75,Pavlos Tsitsipas,polyus,0.21,0.9847,0.0,22026.77,0.0,0.0,0.8,0.21,1.0327,0.0,2026-11-10T14:21:38+00:00
+2026-11-10T14:21:58+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.75,Pavlos Tsitsipas,polyus,0.21,0.9847,0.0,22026.77,0.0,0.0,0.8,0.21,1.0327,0.1,2026-11-10T14:21:38+00:00
+2026-11-10T14:22:08+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.75,Pavlos Tsitsipas,polyus,0.21,0.9847,0.0,24570.88,0.0,0.0,0.8,0.21,1.0327,0.0,2026-11-10T14:21:38+00:00
+2026-11-10T14:22:38+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.76,Pavlos Tsitsipas,kalshi,0.21,0.9943,24918.97,0.0,0.0,0.0,0.76,0.25,1.0358,0.0,2026-11-10T14:22:38+00:00
+2026-11-10T14:23:38+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.68,Pavlos Tsitsipas,kalshi,0.25,0.9582,17270.59,0.0,0.0,0.0,0.68,0.33,1.0406,0.0,2026-11-10T14:23:38+00:00
+2026-11-10T14:23:48+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.66,Pavlos Tsitsipas,kalshi,0.25,0.9387,0.0,0.0,0.0,0.0,0.68,0.34,1.0508,0.0,2026-11-10T14:23:38+00:00
+2026-11-10T14:23:58+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.54,Raul Brancaccio,kalshi,0.41,0.9842,0.0,0.0,0.0,0.0,0.59,0.46,1.0842,0.0,2026-11-10T14:23:58+00:00
+2026-11-10T14:24:08+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.54,Raul Brancaccio,kalshi,0.41,0.9842,4904.01,0.0,0.0,0.0,0.54,0.46,1.0347,0.0,2026-11-10T14:23:58+00:00
+2026-11-10T14:24:18+00:00,brancaccio v paldanius,True,Oskari Paldanius,polyus,0.55,Raul Brancaccio,kalshi,0.41,0.9941,29502.54,0.0,0.0,0.0,0.54,0.46,1.0347,0.1,2026-11-10T14:23:58+00:00
