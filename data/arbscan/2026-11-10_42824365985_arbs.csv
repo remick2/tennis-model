@@ -173,3 +173,103 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-10T15:09:28+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.58,Maxime Janvier,polyus,0.38,0.9934,0.0,3104.17,0,0.0,0.63,0.38,1.0427,0.0,2026-11-10T15:09:08+00:00
 2026-11-10T15:10:18+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.55,Miomir Kecmanovic,kalshi,0.4,0.984,0.0,0.0,0,0.0,0.57,0.46,1.0644,0.1,2026-11-10T15:10:18+00:00
 2026-11-10T15:10:28+00:00,kecmanovic v rinderknech,True,Arthur Rinderknech,polyus,0.55,Miomir Kecmanovic,kalshi,0.4,0.984,0.0,0.0,0,0.0,0.57,0.45,1.0544,0.0,2026-11-10T15:10:18+00:00
+2026-11-10T15:11:48+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.66,Maxime Janvier,polyus,0.3,0.9903,0.0,10348.96,0,0.0,0.71,0.3,1.039,0.1,2026-11-10T15:11:48+00:00
+2026-11-10T15:11:58+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.66,Maxime Janvier,polyus,0.3,0.9903,0.0,10348.96,0,0.0,0.71,0.3,1.039,0.0,2026-11-10T15:11:48+00:00
+2026-11-10T15:12:08+00:00,nardi v piros,True,Luca Nardi,polyus,0.52,Zsombor Piros,kalshi,0.43,0.9845,0.0,0.0,0,0.0,0.58,0.48,1.0944,0.0,2026-11-10T15:12:08+00:00
+2026-11-10T15:12:08+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.66,Maxime Janvier,polyus,0.3,0.9903,0.0,10348.96,0,0.0,0.71,0.3,1.039,0.0,2026-11-10T15:11:48+00:00
+2026-11-10T15:12:58+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.45,Pavlos Tsitsipas,polyus,0.51,0.9947,0.0,41098.04,0,0.0,0.5,0.51,1.0449,0.1,2026-11-10T15:12:58+00:00
+2026-11-10T15:13:08+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.45,Pavlos Tsitsipas,polyus,0.51,0.9947,0.0,41098.04,0,0.0,0.5,0.51,1.0449,0.0,2026-11-10T15:12:58+00:00
+2026-11-10T15:13:28+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.63,Maxime Janvier,polyus,0.33,0.9917,0.0,0.0,0,0.0,0.68,0.37,1.0814,0.1,2026-11-10T15:13:28+00:00
+2026-11-10T15:13:38+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.63,Maxime Janvier,polyus,0.33,0.9917,0.0,0.0,0,0.0,0.68,0.37,1.0814,0.0,2026-11-10T15:13:28+00:00
+2026-11-10T15:14:18+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.53,Pavlos Tsitsipas,kalshi,0.43,0.9945,0.0,0.0,0,0.0,0.58,0.48,1.0944,0.0,2026-11-10T15:14:18+00:00
+2026-11-10T15:14:28+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.53,Pavlos Tsitsipas,kalshi,0.43,0.9945,39303.49,0.0,0,0.0,0.53,0.48,1.0448,0.0,2026-11-10T15:14:18+00:00
+2026-11-10T15:14:28+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.74,Benjamin Pietri,kalshi,0.23,0.9958,0.0,0.0,0,0.0,0.77,0.27,1.0661,0.1,2026-11-10T15:14:28+00:00
+2026-11-10T15:14:28+00:00,canas v rahmani,True,Alejandro Moro Canas,polyus,0.95,Kasra Rahmani,kalshi,0.04,0.996,0.0,0.0,0,0.0,0.96,0.06,1.0266,0.0,2026-11-10T15:14:28+00:00
+2026-11-10T15:14:38+00:00,canas v rahmani,True,Alejandro Moro Canas,polyus,0.95,Kasra Rahmani,kalshi,0.04,0.996,2405.73,0.0,0,0.0,0.95,0.06,1.0172,0.1,2026-11-10T15:14:28+00:00
+2026-11-10T15:14:48+00:00,canas v rahmani,True,Alejandro Moro Canas,polyus,0.95,Kasra Rahmani,kalshi,0.04,0.996,2405.73,0.0,0,0.0,0.95,0.06,1.0172,0.0,2026-11-10T15:14:28+00:00
+2026-11-10T15:14:48+00:00,angelo v tabata,True,Juan Carlos Prado,polyus,0.82,Ryo Tabata,kalshi,0.16,0.9997,0.0,0.0,0,0.0,0.83,0.18,1.0301,0.1,2026-11-10T15:14:48+00:00
+2026-11-10T15:14:58+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.48,Pavlos Tsitsipas,kalshi,0.48,0.9948,0.0,0.0,0,0.0,0.57,0.53,1.1345,0.1,2026-11-10T15:14:58+00:00
+2026-11-10T15:14:58+00:00,canas v rahmani,True,Alejandro Moro Canas,polyus,0.95,Kasra Rahmani,kalshi,0.04,0.996,2405.73,0.0,0,0.0,0.95,0.06,1.0172,0.0,2026-11-10T15:14:28+00:00
+2026-11-10T15:14:58+00:00,angelo v tabata,True,Juan Carlos Prado,polyus,0.82,Ryo Tabata,kalshi,0.16,0.9997,0.0,0.0,0,0.0,0.83,0.19,1.0406,0.0,2026-11-10T15:14:48+00:00
+2026-11-10T15:15:08+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.47,Pavlos Tsitsipas,kalshi,0.46,0.9647,0.0,0.0,0,0.0,0.57,0.54,1.1444,0.0,2026-11-10T15:14:58+00:00
+2026-11-10T15:15:18+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.47,Pavlos Tsitsipas,kalshi,0.46,0.9647,0.0,0.0,0,0.0,0.57,0.54,1.1444,0.0,2026-11-10T15:14:58+00:00
+2026-11-10T15:15:28+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.47,Pavlos Tsitsipas,kalshi,0.46,0.9647,41689.3,0.0,0,0.0,0.47,0.54,1.0447,0.0,2026-11-10T15:14:58+00:00
+2026-11-10T15:15:48+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.42,Pavlos Tsitsipas,kalshi,0.54,0.9943,0.0,0.0,0,0.0,0.47,0.61,1.114,0.0,2026-11-10T15:15:48+00:00
+2026-11-10T15:15:48+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.72,Benjamin Pietri,kalshi,0.25,0.9971,31315.74,0.0,0,0.0,0.72,0.29,1.0384,0.1,2026-11-10T15:15:48+00:00
+2026-11-10T15:15:58+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.4,Pavlos Tsitsipas,kalshi,0.54,0.9741,48613.86,0.0,0,0.0,0.4,0.61,1.0433,0.1,2026-11-10T15:15:48+00:00
+2026-11-10T15:15:58+00:00,andreev v pietri,True,Adrian Andreev,polyus,0.72,Benjamin Pietri,kalshi,0.25,0.9971,31315.74,0.0,0,0.0,0.72,0.29,1.0384,0.0,2026-11-10T15:15:48+00:00
+2026-11-10T15:16:18+00:00,andreev v pietri,True,Adrian Andreev,kalshi,0.72,Benjamin Pietri,polyus,0.25,0.9971,0.0,0.0,0,0.0,0.76,0.29,1.0771,0.1,2026-11-10T15:16:18+00:00
+2026-11-10T15:16:28+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.4,Pavlos Tsitsipas,polyus,0.55,0.984,0.0,46461.81,0,0.0,0.46,0.55,1.0446,0.0,2026-11-10T15:16:28+00:00
+2026-11-10T15:16:28+00:00,andreev v pietri,True,Adrian Andreev,kalshi,0.72,Benjamin Pietri,polyus,0.25,0.9971,0.0,0.0,0,0.0,0.76,0.29,1.0771,0.0,2026-11-10T15:16:18+00:00
+2026-11-10T15:16:58+00:00,andreev v pietri,True,Adrian Andreev,kalshi,0.76,Benjamin Pietri,polyus,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.24,1.0639,0.1,2026-11-10T15:16:58+00:00
+2026-11-10T15:17:08+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.4,Pavlos Tsitsipas,kalshi,0.55,0.984,0.0,0.0,0,0.0,0.5,0.61,1.144,0.0,2026-11-10T15:17:08+00:00
+2026-11-10T15:17:08+00:00,andreev v pietri,True,Adrian Andreev,kalshi,0.76,Benjamin Pietri,polyus,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.24,1.0639,0.0,2026-11-10T15:16:58+00:00
+2026-11-10T15:17:48+00:00,canas v rahmani,True,Alejandro Moro Canas,polyus,0.94,Kasra Rahmani,kalshi,0.05,0.9972,0.0,0.0,0,0.0,0.96,0.07,1.0372,0.0,2026-11-10T15:17:48+00:00
+2026-11-10T15:17:58+00:00,canas v rahmani,True,Alejandro Moro Canas,polyus,0.94,Kasra Rahmani,kalshi,0.05,0.9972,0.0,0.0,0,0.0,0.96,0.07,1.0372,0.0,2026-11-10T15:17:48+00:00
+2026-11-10T15:18:08+00:00,canas v rahmani,True,Alejandro Moro Canas,polyus,0.94,Kasra Rahmani,kalshi,0.05,0.9972,2155.22,0.0,0,0.0,0.94,0.07,1.0185,0.1,2026-11-10T15:17:48+00:00
+2026-11-10T15:18:48+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.69,Gilles Arnaud Bailly,kalshi,0.28,0.999,0.0,0.0,0,0.0,0.74,0.32,1.0886,0.0,2026-11-10T15:18:48+00:00
+2026-11-10T15:18:58+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.69,Gilles Arnaud Bailly,kalshi,0.28,0.999,0.0,0.0,0,0.0,0.74,0.32,1.0886,0.0,2026-11-10T15:18:48+00:00
+2026-11-10T15:19:08+00:00,canas v rahmani,True,Alejandro Moro Canas,kalshi,0.91,Kasra Rahmani,polyus,0.07,0.9903,0.0,4275.29,0,0.0,0.94,0.07,1.0185,0.1,2026-11-10T15:19:08+00:00
+2026-11-10T15:19:18+00:00,canas v rahmani,True,Alejandro Moro Canas,kalshi,0.91,Kasra Rahmani,polyus,0.07,0.9903,0.0,4275.29,0,0.0,0.94,0.07,1.0185,0.0,2026-11-10T15:19:08+00:00
+2026-11-10T15:19:28+00:00,canas v rahmani,True,Alejandro Moro Canas,kalshi,0.91,Kasra Rahmani,polyus,0.07,0.9903,0.0,4275.29,0,0.0,0.94,0.07,1.0185,0.0,2026-11-10T15:19:08+00:00
+2026-11-10T15:19:38+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.29,Pavlos Tsitsipas,kalshi,0.66,0.98,0.0,0.0,0,0.0,0.35,0.72,1.0999,0.0,2026-11-10T15:19:38+00:00
+2026-11-10T15:19:48+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.28,Pavlos Tsitsipas,kalshi,0.66,0.9697,0.0,0.0,0,0.0,0.35,0.73,1.1096,0.0,2026-11-10T15:19:38+00:00
+2026-11-10T15:19:48+00:00,canas v rahmani,True,Alejandro Moro Canas,kalshi,0.94,Kasra Rahmani,polyus,0.05,0.9972,0.0,0.0,0,0.0,0.95,0.07,1.0278,0.0,2026-11-10T15:19:48+00:00
+2026-11-10T15:19:58+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.28,Pavlos Tsitsipas,kalshi,0.66,0.9697,0.01,0.0,0,0.0,0.28,0.73,1.0378,0.1,2026-11-10T15:19:38+00:00
+2026-11-10T15:19:58+00:00,canas v rahmani,True,Alejandro Moro Canas,kalshi,0.94,Kasra Rahmani,polyus,0.05,0.9972,0.0,0.0,0,0.0,0.95,0.07,1.0278,0.0,2026-11-10T15:19:48+00:00
+2026-11-10T15:20:28+00:00,altmaier v gobat,True,Adrien Gobat,kalshi,0.3,Daniel Altmaier,polyus,0.66,0.9903,0.0,0.0,0,0.0,0.35,0.7,1.0805,0.0,2026-11-10T15:20:28+00:00
+2026-11-10T15:20:38+00:00,altmaier v gobat,True,Adrien Gobat,kalshi,0.3,Daniel Altmaier,polyus,0.66,0.9903,0.0,0.0,0,0.0,0.35,0.7,1.0805,0.0,2026-11-10T15:20:28+00:00
+2026-11-10T15:20:38+00:00,nardi v piros,True,Luca Nardi,kalshi,0.52,Zsombor Piros,polyus,0.44,0.9946,0.0,0.0,0,0.0,0.57,0.46,1.0644,0.0,2026-11-10T15:20:38+00:00
+2026-11-10T15:20:48+00:00,nardi v piros,True,Luca Nardi,kalshi,0.52,Zsombor Piros,polyus,0.44,0.9946,0.0,10845.91,0,0.0,0.57,0.44,1.0443,0.1,2026-11-10T15:20:38+00:00
+2026-11-10T15:20:58+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.31,Pavlos Tsitsipas,polyus,0.65,0.9908,0.0,81261.57,0,0.0,0.36,0.65,1.0419,0.1,2026-11-10T15:20:58+00:00
+2026-11-10T15:20:58+00:00,clarke v janvier,True,Jay Clarke,polyus,0.63,Maxime Janvier,kalshi,0.33,0.9917,20625.96,0.0,0,0.0,0.63,0.38,1.0427,0.1,2026-11-10T15:20:58+00:00
+2026-11-10T15:21:08+00:00,alberto v arnaud,True,Carlo Alberto Caniato,kalshi,0.75,Gilles Arnaud Bailly,polyus,0.21,0.9847,0.0,0.0,0,0.0,0.8,0.26,1.0846,0.0,2026-11-10T15:21:08+00:00
+2026-11-10T15:21:08+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.31,Pavlos Tsitsipas,polyus,0.65,0.9908,0.0,81261.57,0,0.0,0.36,0.65,1.0419,0.0,2026-11-10T15:20:58+00:00
+2026-11-10T15:21:08+00:00,clarke v janvier,True,Jay Clarke,polyus,0.63,Maxime Janvier,kalshi,0.33,0.9917,20625.96,0.0,0,0.0,0.63,0.38,1.0427,0.0,2026-11-10T15:20:58+00:00
+2026-11-10T15:21:18+00:00,alberto v arnaud,True,Carlo Alberto Caniato,kalshi,0.75,Gilles Arnaud Bailly,polyus,0.21,0.9847,0.0,15201.97,0,0.0,0.8,0.21,1.0327,0.1,2026-11-10T15:21:08+00:00
+2026-11-10T15:21:18+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.31,Pavlos Tsitsipas,polyus,0.65,0.9908,0.0,81261.57,0,0.0,0.36,0.65,1.0419,0.0,2026-11-10T15:20:58+00:00
+2026-11-10T15:21:18+00:00,clarke v janvier,True,Jay Clarke,polyus,0.63,Maxime Janvier,kalshi,0.33,0.9917,20625.96,0.0,0,0.0,0.63,0.38,1.0427,0.0,2026-11-10T15:20:58+00:00
+2026-11-10T15:21:48+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.36,Pavlos Tsitsipas,polyus,0.6,0.9928,0.0,0.0,0,0.0,0.41,0.61,1.0535,0.1,2026-11-10T15:21:48+00:00
+2026-11-10T15:22:08+00:00,clarke v janvier,True,Jay Clarke,polyus,0.59,Maxime Janvier,kalshi,0.34,0.9625,0.0,0.0,0,0.0,0.67,0.42,1.1224,0.0,2026-11-10T15:22:08+00:00
+2026-11-10T15:22:18+00:00,clarke v janvier,True,Jay Clarke,polyus,0.59,Maxime Janvier,kalshi,0.34,0.9625,0.0,0.0,0,0.0,0.67,0.42,1.1224,0.0,2026-11-10T15:22:08+00:00
+2026-11-10T15:22:18+00:00,nardi v piros,True,Luca Nardi,kalshi,0.56,Zsombor Piros,polyus,0.38,0.9736,0.0,0.0,0,0.0,0.63,0.43,1.0934,0.0,2026-11-10T15:22:18+00:00
+2026-11-10T15:22:18+00:00,alberto v arnaud,True,Carlo Alberto Caniato,polyus,0.74,Gilles Arnaud Bailly,kalshi,0.21,0.975,0.0,0.0,0,0.0,0.77,0.27,1.0661,0.1,2026-11-10T15:22:18+00:00
+2026-11-10T15:22:48+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.36,Pavlos Tsitsipas,kalshi,0.59,0.9829,0.0,0.0,0,0.0,0.44,0.65,1.123,0.0,2026-11-10T15:22:48+00:00
+2026-11-10T15:22:58+00:00,clarke v janvier,True,Jay Clarke,polyus,0.54,Maxime Janvier,kalshi,0.4,0.9741,0.0,0.0,0,0.0,0.61,0.47,1.114,0.0,2026-11-10T15:22:58+00:00
+2026-11-10T15:22:58+00:00,altmaier v gobat,True,Adrien Gobat,polyus,0.28,Daniel Altmaier,kalshi,0.69,0.999,0.0,0.0,0,0.0,0.31,0.73,1.0687,0.0,2026-11-10T15:22:58+00:00
+2026-11-10T15:23:08+00:00,clarke v janvier,True,Jay Clarke,polyus,0.54,Maxime Janvier,kalshi,0.4,0.9741,0.0,0.0,0,0.0,0.61,0.47,1.114,0.0,2026-11-10T15:22:58+00:00
+2026-11-10T15:23:08+00:00,altmaier v gobat,True,Adrien Gobat,polyus,0.28,Daniel Altmaier,kalshi,0.69,0.999,0.0,0.0,0,0.0,0.31,0.73,1.0687,0.0,2026-11-10T15:22:58+00:00
+2026-11-10T15:23:18+00:00,clarke v janvier,True,Jay Clarke,polyus,0.54,Maxime Janvier,kalshi,0.4,0.9741,0.0,0.0,0,0.0,0.61,0.47,1.114,0.1,2026-11-10T15:22:58+00:00
+2026-11-10T15:23:18+00:00,altmaier v gobat,True,Adrien Gobat,polyus,0.27,Daniel Altmaier,kalshi,0.69,0.9887,0.0,0.0,0,0.0,0.29,0.73,1.0481,0.1,2026-11-10T15:22:58+00:00
+2026-11-10T15:23:18+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.35,Pavlos Tsitsipas,kalshi,0.61,0.9925,0.0,0.0,0,0.0,0.36,0.66,1.0517,0.0,2026-11-10T15:23:18+00:00
+2026-11-10T15:23:28+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.54,Maxime Janvier,polyus,0.39,0.9639,0.0,0.0,0,0.0,0.62,0.47,1.1238,0.1,2026-11-10T15:23:28+00:00
+2026-11-10T15:23:28+00:00,nardi v piros,True,Luca Nardi,polyus,0.56,Zsombor Piros,kalshi,0.4,0.9939,0.0,0.0,0,0.0,0.61,0.45,1.0939,0.1,2026-11-10T15:23:28+00:00
+2026-11-10T15:23:28+00:00,barton v maxted,True,Hynek Barton,kalshi,0.44,Lui Maxted,polyus,0.52,0.9946,0.0,0.0,0,0.0,0.49,0.57,1.0945,0.0,2026-11-10T15:23:28+00:00
+2026-11-10T15:23:38+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.54,Maxime Janvier,polyus,0.39,0.9639,0.0,0.0,0,0.0,0.62,0.47,1.1238,0.0,2026-11-10T15:23:28+00:00
+2026-11-10T15:23:38+00:00,nardi v piros,True,Luca Nardi,polyus,0.56,Zsombor Piros,kalshi,0.4,0.9939,0.0,0.0,0,0.0,0.61,0.45,1.0939,0.0,2026-11-10T15:23:28+00:00
+2026-11-10T15:23:38+00:00,barton v maxted,True,Hynek Barton,kalshi,0.44,Lui Maxted,polyus,0.52,0.9946,0.0,28010.58,0,0.0,0.49,0.52,1.0448,0.1,2026-11-10T15:23:28+00:00
+2026-11-10T15:23:38+00:00,angelo v tabata,True,Juan Carlos Prado Angelo,kalshi,0.85,Ryo Tabata,polyus,0.13,0.9968,0.0,0.01,0,0.0,0.89,0.13,1.0347,0.1,2026-11-10T15:23:38+00:00
+2026-11-10T15:23:48+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.54,Maxime Janvier,polyus,0.39,0.9639,0.0,0.0,0,0.0,0.62,0.47,1.1238,0.0,2026-11-10T15:23:28+00:00
+2026-11-10T15:23:48+00:00,barton v maxted,True,Hynek Barton,kalshi,0.44,Lui Maxted,polyus,0.51,0.9846,0.0,0.0,0,0.0,0.5,0.52,1.0548,0.0,2026-11-10T15:23:28+00:00
+2026-11-10T15:23:48+00:00,altmaier v gobat,True,Adrien Gobat,kalshi,0.27,Daniel Altmaier,polyus,0.69,0.9887,0.0,33847.15,0,0.0,0.31,0.69,1.0298,0.1,2026-11-10T15:23:48+00:00
+2026-11-10T15:23:58+00:00,clarke v janvier,True,Jay Clarke,polyus,0.53,Maxime Janvier,kalshi,0.39,0.954,0.0,0.0,0,0.0,0.62,0.47,1.1238,0.0,2026-11-10T15:23:58+00:00
+2026-11-10T15:24:08+00:00,clarke v janvier,True,Jay Clarke,polyus,0.53,Maxime Janvier,kalshi,0.39,0.954,0.0,0.0,0,0.0,0.62,0.48,1.1338,0.0,2026-11-10T15:23:58+00:00
+2026-11-10T15:24:08+00:00,canas v rahmani,True,Alejandro Moro Canas,kalshi,0.95,Kasra Rahmani,polyus,0.04,0.996,0.0,0.0,0,0.0,0.96,0.06,1.0266,0.1,2026-11-10T15:24:08+00:00
+2026-11-10T15:24:18+00:00,clarke v janvier,True,Jay Clarke,polyus,0.53,Maxime Janvier,kalshi,0.39,0.954,0.0,0.0,0,0.0,0.62,0.48,1.1338,0.0,2026-11-10T15:23:58+00:00
+2026-11-10T15:24:18+00:00,canas v rahmani,True,Alejandro Moro Canas,kalshi,0.95,Kasra Rahmani,polyus,0.04,0.996,0.0,0.0,0,0.0,0.97,0.06,1.036,0.0,2026-11-10T15:24:08+00:00
+2026-11-10T15:24:28+00:00,clarke v janvier,True,Jay Clarke,polyus,0.53,Maxime Janvier,kalshi,0.39,0.954,1066.19,0.0,0,0.0,0.53,0.48,1.0448,0.1,2026-11-10T15:23:58+00:00
+2026-11-10T15:24:28+00:00,canas v rahmani,True,Alejandro Moro Canas,kalshi,0.95,Kasra Rahmani,polyus,0.04,0.996,0.0,0.0,0,0.0,0.97,0.06,1.036,0.0,2026-11-10T15:24:08+00:00
+2026-11-10T15:24:48+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.38,Pavlos Tsitsipas,polyus,0.55,0.9637,0.0,0.0,0,0.0,0.46,0.67,1.1628,0.0,2026-11-10T15:24:48+00:00
+2026-11-10T15:24:58+00:00,cretu v tsitsipas,True,Cezar Cretu (b. 2001),kalshi,0.38,Pavlos Tsitsipas,polyus,0.55,0.9637,0.0,0.0,0,0.0,0.46,0.67,1.1628,0.0,2026-11-10T15:24:48+00:00
+2026-11-10T15:24:58+00:00,fuente v rincon,True,Daniel Rincon,kalshi,0.8,Santiago De La Fuente,polyus,0.17,0.991,0.0,0.0,0,0.0,0.83,0.18,1.0301,0.0,2026-11-10T15:24:58+00:00
+2026-11-10T15:24:58+00:00,angelo v tabata,True,Juan Carlos Prado,polyus,0.83,Ryo Tabata,kalshi,0.15,0.9987,0.0,0.0,0,0.0,0.85,0.18,1.0492,0.0,2026-11-10T15:24:58+00:00
+2026-11-10T15:25:18+00:00,clarke v janvier,True,Jay Clarke,polyus,0.46,Maxime Janvier,kalshi,0.48,0.9747,0.0,0.0,0,0.0,0.53,0.55,1.1146,0.1,2026-11-10T15:25:18+00:00
+2026-11-10T15:25:28+00:00,clarke v janvier,True,Jay Clarke,polyus,0.46,Maxime Janvier,kalshi,0.48,0.9747,20603.38,0.0,0,0.0,0.46,0.55,1.0446,0.1,2026-11-10T15:25:18+00:00
+2026-11-10T15:25:28+00:00,jeff v kimhi,True,Filip Jeff Planinsek,kalshi,0.73,Orel Kimhi,polyus,0.24,0.9965,0.0,0.0,0,0.0,0.77,0.26,1.0558,0.0,2026-11-10T15:25:28+00:00
+2026-11-10T15:25:38+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.4,Pavlos Tsitsipas,kalshi,0.54,0.9741,0.0,0.0,0,0.0,0.48,0.61,1.124,0.1,2026-11-10T15:25:38+00:00
+2026-11-10T15:25:48+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.4,Pavlos Tsitsipas,kalshi,0.54,0.9741,0.0,0.0,0,0.0,0.48,0.61,1.124,0.0,2026-11-10T15:25:38+00:00
+2026-11-10T15:25:48+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.46,Maxime Janvier,polyus,0.49,0.9848,0.0,0.0,0,0.0,0.52,0.55,1.1047,0.0,2026-11-10T15:25:48+00:00
+2026-11-10T15:25:58+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.4,Pavlos Tsitsipas,kalshi,0.54,0.9741,0.0,0.0,0,0.0,0.48,0.61,1.124,0.0,2026-11-10T15:25:38+00:00
+2026-11-10T15:25:58+00:00,clarke v janvier,True,Jay Clarke,kalshi,0.46,Maxime Janvier,polyus,0.49,0.9848,0.0,2437.01,0,0.0,0.52,0.49,1.0448,0.0,2026-11-10T15:25:48+00:00
+2026-11-10T15:26:18+00:00,cretu v tsitsipas,True,Cezar Cretu,polyus,0.32,Pavlos Tsitsipas,kalshi,0.61,0.9618,0.0,0.0,0,0.0,0.4,0.69,1.1217,0.1,2026-11-10T15:26:18+00:00
+2026-11-10T15:26:18+00:00,clarke v janvier,True,Jay Clarke,polyus,0.45,Maxime Janvier,kalshi,0.49,0.9747,0.0,0.0,0,0.0,0.52,0.55,1.1047,0.0,2026-11-10T15:26:18+00:00
