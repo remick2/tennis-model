@@ -555,3 +555,134 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-10T21:37:05+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.68,Marco Cecchinato,kalshi,0.26,0.9686,0.0,0.0,0,0.0,0.73,0.33,1.0892,0.1,2026-11-10T21:36:45+00:00
 2026-11-10T21:37:15+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.9,Marta Kostyuk,polyus,0.08,0.9914,0.0,0.0,0,0.0,0.93,0.1,1.0408,0.0,2026-11-10T21:37:15+00:00
 2026-11-10T21:37:15+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.05,Michael Mmoh,kalshi,0.94,0.9972,7340.11,0.0,0,0.0,0.05,0.96,1.016,0.1,2026-11-10T21:37:15+00:00
+2026-11-10T21:37:25+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.67,Marco Cecchinato,polyus,0.28,0.9795,0.0,10968.21,0,0.0,0.73,0.28,1.0378,0.0,2026-11-10T21:37:25+00:00
+2026-11-10T21:37:25+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.05,Michael Mmoh,polyus,0.93,0.9878,0.0,0.0,0,0.0,0.08,0.96,1.0478,0.0,2026-11-10T21:37:25+00:00
+2026-11-10T21:37:35+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.67,Marco Cecchinato,polyus,0.28,0.9795,0.0,10968.21,0,0.0,0.73,0.28,1.0378,0.0,2026-11-10T21:37:25+00:00
+2026-11-10T21:37:35+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.05,Michael Mmoh,polyus,0.93,0.9878,0.0,0.0,0,0.0,0.08,0.96,1.0478,0.0,2026-11-10T21:37:25+00:00
+2026-11-10T21:37:45+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.05,Michael Mmoh,polyus,0.93,0.9878,0.0,2959.87,0,0.0,0.08,0.93,1.0197,0.0,2026-11-10T21:37:25+00:00
+2026-11-10T21:37:55+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.75,Marco Cecchinato,polyus,0.19,0.9638,0.0,0.0,0,0.0,0.82,0.37,1.2165,0.1,2026-11-10T21:37:55+00:00
+2026-11-10T21:37:55+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.05,Michael Mmoh,kalshi,0.93,0.9879,0.0,0.0,0,0.0,0.08,0.97,1.0572,0.0,2026-11-10T21:37:55+00:00
+2026-11-10T21:38:05+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.75,Marco Cecchinato,polyus,0.19,0.9638,0.0,0.0,0,0.0,0.82,0.37,1.2165,0.0,2026-11-10T21:37:55+00:00
+2026-11-10T21:38:05+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.04,Michael Mmoh,kalshi,0.93,0.9772,0.0,0.0,0,0.0,0.08,0.97,1.0572,0.0,2026-11-10T21:37:55+00:00
+2026-11-10T21:38:15+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.75,Marco Cecchinato,polyus,0.19,0.9638,0.0,0.01,0,0.0,0.82,0.19,1.031,0.0,2026-11-10T21:37:55+00:00
+2026-11-10T21:38:15+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.05,Michael Mmoh,kalshi,0.93,0.9879,60417.42,0.0,0,0.0,0.04,0.97,1.0147,0.0,2026-11-10T21:37:55+00:00
+2026-11-10T21:38:15+00:00,kostyuk v pegula,True,Jessica Pegula,polyus,0.89,Marta Kostyuk,kalshi,0.09,0.9925,0.0,0.0,0,0.0,0.92,0.12,1.0525,0.0,2026-11-10T21:38:15+00:00
+2026-11-10T21:38:15+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.21,Ozan Baris,polyus,0.76,0.9943,0.0,0.0,0,0.0,0.25,0.8,1.0742,0.0,2026-11-10T21:38:15+00:00
+2026-11-10T21:38:35+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.04,Michael Mmoh,polyus,0.93,0.9772,0.0,0.0,0,0.0,0.08,0.97,1.0572,0.0,2026-11-10T21:38:35+00:00
+2026-11-10T21:38:45+00:00,kostyuk v pegula,True,Jessica Pegula,polyus,0.84,Marta Kostyuk,kalshi,0.12,0.9767,0.0,0.0,0,0.0,0.89,0.17,1.0767,0.0,2026-11-10T21:38:45+00:00
+2026-11-10T21:38:45+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.04,Michael Mmoh,polyus,0.93,0.9772,0.0,34728.52,0,0.0,0.08,0.93,1.0197,0.0,2026-11-10T21:38:35+00:00
+2026-11-10T21:38:45+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.82,Marco Cecchinato,polyus,0.14,0.9787,0.0,49578.58,0,0.0,0.87,0.14,1.0263,0.0,2026-11-10T21:38:45+00:00
+2026-11-10T21:38:55+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.04,Michael Mmoh,polyus,0.93,0.9772,0.0,34728.52,0,0.0,0.12,0.93,1.0619,0.0,2026-11-10T21:38:35+00:00
+2026-11-10T21:38:55+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.82,Marco Cecchinato,polyus,0.14,0.9787,0.0,49578.58,0,0.0,0.87,0.14,1.0263,0.0,2026-11-10T21:38:45+00:00
+2026-11-10T21:38:55+00:00,kolar v lucas,True,Joao Lucas Da Silva,polyus,0.62,Zdenek Kolar,kalshi,0.33,0.9819,0.0,0.0,0,0.0,0.65,0.39,1.0725,0.0,2026-11-10T21:38:55+00:00
+2026-11-10T21:38:55+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.21,Ozan Baris,kalshi,0.76,0.9943,9845.0,0.0,0,0.0,0.21,0.8,1.0327,0.1,2026-11-10T21:38:55+00:00
+2026-11-10T21:39:05+00:00,kolar v lucas,True,Joao Lucas Da Silva,polyus,0.62,Zdenek Kolar,kalshi,0.33,0.9819,0.0,0.0,0,0.0,0.65,0.39,1.0725,0.0,2026-11-10T21:38:55+00:00
+2026-11-10T21:39:05+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.04,Michael Mmoh,polyus,0.94,0.9866,0.0,42494.619999999995,0,0.0,0.12,0.93,1.0619,0.0,2026-11-10T21:38:35+00:00
+2026-11-10T21:39:05+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.82,Marco Cecchinato,polyus,0.15,0.9892,0.0,86089.78,0,0.0,0.86,0.14,1.0168,0.0,2026-11-10T21:38:45+00:00
+2026-11-10T21:39:05+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.21,Ozan Baris,kalshi,0.76,0.9943,9845.0,0.0,0,0.0,0.21,0.79,1.0231,0.0,2026-11-10T21:38:55+00:00
+2026-11-10T21:39:15+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.04,Michael Mmoh,kalshi,0.94,0.9866,11837.26,0.0,0,0.0,0.04,0.97,1.0147,0.0,2026-11-10T21:39:15+00:00
+2026-11-10T21:39:25+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.04,Michael Mmoh,kalshi,0.94,0.9866,11837.26,0.0,0,0.0,0.04,0.97,1.0147,0.1,2026-11-10T21:39:15+00:00
+2026-11-10T21:39:25+00:00,kostyuk v pegula,True,Jessica Pegula,polyus,0.8,Marta Kostyuk,kalshi,0.17,0.991,0.0,0.0,0,0.0,0.84,0.21,1.071,0.0,2026-11-10T21:39:25+00:00
+2026-11-10T21:39:25+00:00,alves v samson,True,Carolina Alves,kalshi,0.6,Laura Samson,polyus,0.36,0.9928,0.0,0.0,0,0.0,0.64,0.41,1.0829,0.0,2026-11-10T21:39:25+00:00
+2026-11-10T21:39:35+00:00,kostyuk v pegula,True,Jessica Pegula,polyus,0.79,Marta Kostyuk,kalshi,0.17,0.9814,29459.0,0.0,0,0.0,0.79,0.22,1.0335,0.0,2026-11-10T21:39:25+00:00
+2026-11-10T21:39:35+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.21,Ozan Baris,polyus,0.75,0.9846,0.0,0.0,0,0.0,0.26,0.79,1.075,0.0,2026-11-10T21:39:35+00:00
+2026-11-10T21:39:35+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.04,Michael Mmoh,kalshi,0.94,0.9866,11837.26,0.0,0,0.0,0.04,0.98,1.024,0.0,2026-11-10T21:39:15+00:00
+2026-11-10T21:39:35+00:00,alves v samson,True,Carolina Alves,kalshi,0.6,Laura Samson,polyus,0.36,0.9928,0.0,45797.96,0,0.0,0.65,0.36,1.0419,0.1,2026-11-10T21:39:25+00:00
+2026-11-10T21:39:45+00:00,alves v samson,True,Carolina Alves,kalshi,0.6,Laura Samson,polyus,0.36,0.9928,0.0,45797.96,0,0.0,0.66,0.36,1.0517,0.0,2026-11-10T21:39:25+00:00
+2026-11-10T21:39:45+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.82,Marco Cecchinato,kalshi,0.16,0.9997,34444.81,0.0,0,0.0,0.82,0.19,1.031,0.0,2026-11-10T21:39:45+00:00
+2026-11-10T21:39:55+00:00,kolar v lucas,True,Joao Lucas Reis Da Silva,kalshi,0.62,Zdenek Kolar,polyus,0.34,0.9921,0.0,1050.9,0,0.0,0.67,0.34,1.0411,0.1,2026-11-10T21:39:55+00:00
+2026-11-10T21:39:55+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.82,Marco Cecchinato,kalshi,0.16,0.9997,34444.81,0.0,0,0.0,0.82,0.19,1.031,0.0,2026-11-10T21:39:45+00:00
+2026-11-10T21:40:05+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.79,Marta Kostyuk,polyus,0.18,0.9919,0.0,0.0,0,0.0,0.83,0.22,1.0718,0.0,2026-11-10T21:40:05+00:00
+2026-11-10T21:40:05+00:00,kolar v lucas,True,Joao Lucas Reis Da Silva,kalshi,0.62,Zdenek Kolar,polyus,0.34,0.9921,0.0,1050.9,0,0.0,0.67,0.34,1.0411,0.1,2026-11-10T21:39:55+00:00
+2026-11-10T21:40:05+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.82,Marco Cecchinato,kalshi,0.16,0.9997,34444.81,0.0,0,0.0,0.82,0.19,1.031,0.0,2026-11-10T21:39:45+00:00
+2026-11-10T21:40:15+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.79,Marta Kostyuk,polyus,0.18,0.9919,0.0,0.0,0,0.0,0.83,0.22,1.0718,0.0,2026-11-10T21:40:05+00:00
+2026-11-10T21:40:25+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.79,Marta Kostyuk,polyus,0.17,0.9814,0.0,0.0,0,0.0,0.84,0.22,1.0813,0.0,2026-11-10T21:40:05+00:00
+2026-11-10T21:40:35+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.79,Marta Kostyuk,polyus,0.17,0.9814,0.0,61587.0,0,0.0,0.85,0.17,1.0387,0.0,2026-11-10T21:40:05+00:00
+2026-11-10T21:40:45+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.81,Marco Cecchinato,polyus,0.14,0.9691,0.0,21664.81,0,0.0,0.87,0.14,1.0263,0.0,2026-11-10T21:40:45+00:00
+2026-11-10T21:40:55+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.81,Marco Cecchinato,polyus,0.14,0.9691,0.0,21664.81,0,0.0,0.87,0.14,1.0263,0.0,2026-11-10T21:40:45+00:00
+2026-11-10T21:40:55+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.84,Marta Kostyuk,polyus,0.12,0.9767,0.0,0.0,0,0.0,0.89,0.17,1.0767,0.0,2026-11-10T21:40:55+00:00
+2026-11-10T21:41:05+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.81,Marco Cecchinato,polyus,0.14,0.9691,0.0,21664.81,0,0.0,0.87,0.14,1.0263,0.0,2026-11-10T21:40:45+00:00
+2026-11-10T21:41:05+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.84,Marta Kostyuk,polyus,0.12,0.9767,0.0,39568.15,0,0.0,0.89,0.12,1.0242,0.0,2026-11-10T21:40:55+00:00
+2026-11-10T21:41:25+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.87,Marco Cecchinato,polyus,0.11,0.9947,0.0,0.0,0,0.0,0.9,0.14,1.0547,0.0,2026-11-10T21:41:25+00:00
+2026-11-10T21:41:35+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.89,Marta Kostyuk,polyus,0.06,0.9608,0.0,31897.0,0,0.0,0.95,0.06,1.0172,0.0,2026-11-10T21:41:35+00:00
+2026-11-10T21:41:35+00:00,kolar v lucas,True,Joao Lucas Da Silva,polyus,0.6,Zdenek Kolar,kalshi,0.35,0.9826,0.0,0.0,0,0.0,0.65,0.41,1.0927,0.0,2026-11-10T21:41:35+00:00
+2026-11-10T21:41:35+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.87,Marco Cecchinato,polyus,0.11,0.9947,0.0,0.0,0,0.0,0.9,0.14,1.0547,0.0,2026-11-10T21:41:25+00:00
+2026-11-10T21:41:45+00:00,alves v samson,True,Carolina Alves,kalshi,0.68,Laura Samson,polyus,0.29,0.9995,0.0,0.0,0,0.0,0.72,0.33,1.0795,0.1,2026-11-10T21:41:45+00:00
+2026-11-10T21:42:45+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.12,Ozan Baris,kalshi,0.85,0.9863,0.0,0.0,0,0.0,0.15,0.89,1.0557,0.0,2026-11-10T21:42:45+00:00
+2026-11-10T21:43:15+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.89,Marco Cecchinato,kalshi,0.09,0.9925,0.0,0.0,0,0.0,0.92,0.12,1.0525,0.0,2026-11-10T21:43:15+00:00
+2026-11-10T21:43:25+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.1,Ozan Baris,polyus,0.87,0.9842,0.0,10717.79,0,0.0,0.14,0.87,1.0263,0.1,2026-11-10T21:43:25+00:00
+2026-11-10T21:43:25+00:00,alves v samson,True,Carolina M. Alves,polyus,0.68,Laura Samson,kalshi,0.29,0.9995,0.0,0.0,0,0.0,0.72,0.33,1.0795,0.0,2026-11-10T21:43:25+00:00
+2026-11-10T21:43:35+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.1,Ozan Baris,polyus,0.87,0.9842,0.0,10717.79,0,0.0,0.14,0.87,1.0263,0.0,2026-11-10T21:43:25+00:00
+2026-11-10T21:43:35+00:00,alves v samson,True,Carolina M. Alves,polyus,0.68,Laura Samson,kalshi,0.29,0.9995,38293.06,0.0,0,0.0,0.68,0.33,1.0406,0.1,2026-11-10T21:43:25+00:00
+2026-11-10T21:43:45+00:00,kolar v lucas,True,Joao Lucas Reis Da Silva,kalshi,0.59,Zdenek Kolar,polyus,0.35,0.9727,0.0,0.0,0,0.0,0.67,0.43,1.1325,0.0,2026-11-10T21:43:45+00:00
+2026-11-10T21:43:45+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.95,Marta Kostyuk,polyus,0.04,0.996,0.0,0.0,0,0.0,0.97,0.06,1.036,0.0,2026-11-10T21:43:45+00:00
+2026-11-10T21:44:05+00:00,alves v samson,True,Carolina M. Alves,polyus,0.63,Laura Samson,kalshi,0.33,0.9917,40215.65,0.0,0,0.0,0.63,0.38,1.0427,0.1,2026-11-10T21:44:05+00:00
+2026-11-10T21:44:15+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.1,Ozan Baris,kalshi,0.88,0.9936,0.0,0.0,0,0.0,0.13,0.91,1.0536,0.0,2026-11-10T21:44:15+00:00
+2026-11-10T21:44:25+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.09,Ozan Baris,kalshi,0.88,0.9831,2029.7,0.0,0,0.0,0.09,0.92,1.0208,0.1,2026-11-10T21:44:15+00:00
+2026-11-10T21:44:25+00:00,kostyuk v pegula,True,Jessica Pegula,polyus,0.95,Marta Kostyuk,kalshi,0.04,0.996,0.0,0.0,0,0.0,0.97,0.06,1.036,0.0,2026-11-10T21:44:25+00:00
+2026-11-10T21:44:35+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.08,Ozan Baris,kalshi,0.88,0.9725,0.0,0.0,0,0.0,0.09,0.93,1.0302,0.0,2026-11-10T21:44:15+00:00
+2026-11-10T21:44:35+00:00,kostyuk v pegula,True,Jessica Pegula,polyus,0.94,Marta Kostyuk,kalshi,0.04,0.9866,0.0,0.0,0,0.0,0.95,0.06,1.0172,0.0,2026-11-10T21:44:25+00:00
+2026-11-10T21:44:55+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.09,Ozan Baris,polyus,0.89,0.9925,0.0,8710.04,0,0.0,0.11,0.89,1.0137,0.1,2026-11-10T21:44:55+00:00
+2026-11-10T21:45:05+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.09,Ozan Baris,polyus,0.89,0.9925,0.0,8710.04,0,0.0,0.12,0.89,1.0242,0.0,2026-11-10T21:44:55+00:00
+2026-11-10T21:45:15+00:00,kostyuk v pegula,True,Jessica Pegula,polyus,0.91,Marta Kostyuk,kalshi,0.07,0.9902,0.0,0.0,0,0.0,0.94,0.1,1.0502,0.0,2026-11-10T21:45:15+00:00
+2026-11-10T21:45:25+00:00,kostyuk v pegula,True,Jessica Pegula,polyus,0.9,Marta Kostyuk,kalshi,0.07,0.9808,0.0,0.0,0,0.0,0.94,0.11,1.0608,0.0,2026-11-10T21:45:15+00:00
+2026-11-10T21:45:35+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.11,Ozan Baris,polyus,0.85,0.9757,0.0,0.0,0,0.0,0.15,0.91,1.0746,0.0,2026-11-10T21:45:35+00:00
+2026-11-10T21:45:35+00:00,kostyuk v pegula,True,Jessica Pegula,polyus,0.9,Marta Kostyuk,kalshi,0.07,0.9808,16846.69,0.0,0,0.0,0.9,0.11,1.0231,0.1,2026-11-10T21:45:15+00:00
+2026-11-10T21:45:45+00:00,alves v samson,True,Carolina Alves,kalshi,0.61,Laura Samson,polyus,0.3,0.9412,0.0,0.0,0,0.0,0.71,0.37,1.1106,0.1,2026-11-10T21:45:45+00:00
+2026-11-10T21:45:45+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.9,Marta Kostyuk,polyus,0.07,0.9808,0.0,0.0,0,0.0,0.94,0.11,1.0608,0.0,2026-11-10T21:45:45+00:00
+2026-11-10T21:45:45+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.12,Ozan Baris,polyus,0.85,0.9863,0.0,0.0,0,0.0,0.16,0.91,1.0851,0.0,2026-11-10T21:45:35+00:00
+2026-11-10T21:45:55+00:00,alves v samson,True,Carolina Alves,kalshi,0.64,Laura Samson,polyus,0.3,0.9707,0.0,0.0,0,0.0,0.71,0.37,1.1106,0.0,2026-11-10T21:45:45+00:00
+2026-11-10T21:45:55+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.12,Ozan Baris,polyus,0.85,0.9863,0.0,13616.4,0,0.0,0.16,0.85,1.0283,0.1,2026-11-10T21:45:35+00:00
+2026-11-10T21:45:55+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.9,Marta Kostyuk,polyus,0.08,0.9914,0.0,0.0,0,0.0,0.93,0.11,1.0514,0.0,2026-11-10T21:45:45+00:00
+2026-11-10T21:46:05+00:00,alves v samson,True,Carolina Alves,kalshi,0.64,Laura Samson,polyus,0.3,0.9707,0.0,516.0,0,0.0,0.71,0.3,1.039,0.1,2026-11-10T21:45:45+00:00
+2026-11-10T21:46:15+00:00,alves v samson,True,Carolina Alves,kalshi,0.64,Laura Samson,polyus,0.3,0.9707,0.0,516.0,0,0.0,0.73,0.3,1.0584,0.1,2026-11-10T21:45:45+00:00
+2026-11-10T21:46:15+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.93,Marta Kostyuk,polyus,0.04,0.9772,0.0,0.0,0,0.0,0.97,0.08,1.0572,0.0,2026-11-10T21:46:15+00:00
+2026-11-10T21:46:15+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.12,Ozan Baris,kalshi,0.85,0.9863,0.0,0.0,0,0.0,0.16,0.89,1.0662,0.0,2026-11-10T21:46:15+00:00
+2026-11-10T21:46:25+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.93,Marta Kostyuk,polyus,0.03,0.9666,0.0,0.0,0,0.0,0.98,0.08,1.0665,0.0,2026-11-10T21:46:15+00:00
+2026-11-10T21:46:25+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.86,Marco Cecchinato,polyus,0.12,0.9958,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.0,2026-11-10T21:46:25+00:00
+2026-11-10T21:46:35+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.1,Ozan Baris,kalshi,0.85,0.9652,0.0,0.0,0,0.0,0.14,0.91,1.0641,0.0,2026-11-10T21:46:35+00:00
+2026-11-10T21:46:35+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.93,Marta Kostyuk,polyus,0.03,0.9666,0.0,49863.97,0,0.0,0.98,0.03,1.0134,0.0,2026-11-10T21:46:15+00:00
+2026-11-10T21:46:35+00:00,alves v samson,True,Carolina Alves,kalshi,0.71,Laura Samson,polyus,0.24,0.9771,0.0,39302.0,0,0.0,0.77,0.24,1.0351,0.1,2026-11-10T21:46:35+00:00
+2026-11-10T21:46:35+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.86,Marco Cecchinato,polyus,0.12,0.9958,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.0,2026-11-10T21:46:25+00:00
+2026-11-10T21:46:45+00:00,alves v samson,True,Carolina Alves,kalshi,0.71,Laura Samson,polyus,0.24,0.9771,0.0,39302.0,0,0.0,0.77,0.24,1.0351,0.0,2026-11-10T21:46:35+00:00
+2026-11-10T21:46:45+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.12,Ozan Baris,polyus,0.85,0.9863,0.0,0.0,0,0.0,0.16,0.87,1.0473,0.0,2026-11-10T21:46:45+00:00
+2026-11-10T21:46:55+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.12,Ozan Baris,polyus,0.85,0.9863,0.0,13222.96,0,0.0,0.16,0.85,1.0283,0.1,2026-11-10T21:46:45+00:00
+2026-11-10T21:46:55+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.89,Marco Cecchinato,polyus,0.09,0.9925,0.0,0.0,0,0.0,0.92,0.12,1.0525,0.0,2026-11-10T21:46:55+00:00
+2026-11-10T21:47:05+00:00,alves v samson,True,Carolina Alves,kalshi,0.77,Laura Samson,polyus,0.18,0.9727,0.0,67203.01,0,0.0,0.83,0.18,1.0301,0.1,2026-11-10T21:47:05+00:00
+2026-11-10T21:47:05+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.12,Ozan Baris,polyus,0.85,0.9863,0.0,13222.96,0,0.0,0.16,0.85,1.0283,0.0,2026-11-10T21:46:45+00:00
+2026-11-10T21:47:05+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.89,Marco Cecchinato,polyus,0.09,0.9925,0.0,0.0,0,0.0,0.92,0.12,1.0525,0.0,2026-11-10T21:46:55+00:00
+2026-11-10T21:47:15+00:00,alves v samson,True,Carolina Alves,kalshi,0.77,Laura Samson,polyus,0.18,0.9727,0.0,67203.01,0,0.0,0.83,0.18,1.0301,0.0,2026-11-10T21:47:05+00:00
+2026-11-10T21:47:45+00:00,alves v samson,True,Carolina Alves,kalshi,0.83,Laura Samson,polyus,0.14,0.9882,0.0,0.0,0,0.0,0.87,0.17,1.0577,0.0,2026-11-10T21:47:45+00:00
+2026-11-10T21:48:35+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.12,Ozan Baris,polyus,0.85,0.9863,0.0,0.0,0,0.0,0.16,0.94,1.1133,0.0,2026-11-10T21:48:35+00:00
+2026-11-10T21:48:35+00:00,alves v samson,True,Carolina M. Alves,polyus,0.84,Laura Samson,kalshi,0.14,0.9978,0.0,0.0,0,0.0,0.85,0.17,1.0387,0.0,2026-11-10T21:48:35+00:00
+2026-11-10T21:48:45+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.12,Ozan Baris,polyus,0.85,0.9863,0.0,0.0,0,0.0,0.16,0.94,1.1133,0.0,2026-11-10T21:48:35+00:00
+2026-11-10T21:48:55+00:00,kolar v lucas,True,Joao Lucas Da Silva,polyus,0.54,Zdenek Kolar,kalshi,0.42,0.9943,0.0,0.0,0,0.0,0.59,0.47,1.0942,0.0,2026-11-10T21:48:55+00:00
+2026-11-10T21:49:05+00:00,kolar v lucas,True,Joao Lucas Da Silva,polyus,0.54,Zdenek Kolar,kalshi,0.42,0.9943,0.0,0.0,0,0.0,0.59,0.47,1.0942,0.0,2026-11-10T21:48:55+00:00
+2026-11-10T21:49:15+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.12,Ozan Baris,kalshi,0.85,0.9863,0.0,0.0,0,0.0,0.15,0.89,1.0557,0.0,2026-11-10T21:49:15+00:00
+2026-11-10T21:49:15+00:00,alves v samson,True,Carolina Alves,kalshi,0.84,Laura Samson,polyus,0.13,0.9873,0.0,0.0,0,0.0,0.88,0.16,1.0567,0.1,2026-11-10T21:49:15+00:00
+2026-11-10T21:49:15+00:00,kolar v lucas,True,Joao Lucas Da Silva,polyus,0.54,Zdenek Kolar,kalshi,0.42,0.9943,0.0,0.0,0,0.0,0.59,0.51,1.1343,0.0,2026-11-10T21:48:55+00:00
+2026-11-10T21:49:25+00:00,alves v samson,True,Carolina Alves,kalshi,0.84,Laura Samson,polyus,0.13,0.9873,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.0,2026-11-10T21:49:15+00:00
+2026-11-10T21:49:35+00:00,alves v samson,True,Carolina Alves,kalshi,0.84,Laura Samson,polyus,0.12,0.9767,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.0,2026-11-10T21:49:15+00:00
+2026-11-10T21:49:35+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.1,Ozan Baris,kalshi,0.87,0.9842,0.0,0.0,0,0.0,0.12,0.91,1.0431,0.0,2026-11-10T21:49:35+00:00
+2026-11-10T21:49:45+00:00,kolar v lucas,True,Joao Lucas Reis Da Silva,kalshi,0.54,Zdenek Kolar,polyus,0.39,0.9639,0.0,0.0,0,0.0,0.62,0.43,1.0835,0.0,2026-11-10T21:49:45+00:00
+2026-11-10T21:49:45+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.1,Ozan Baris,kalshi,0.87,0.9842,0.0,0.0,0,0.0,0.12,0.93,1.0619,0.0,2026-11-10T21:49:35+00:00
+2026-11-10T21:49:55+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.1,Ozan Baris,polyus,0.85,0.9652,0.0,0.0,0,0.0,0.16,0.89,1.0662,0.0,2026-11-10T21:49:55+00:00
+2026-11-10T21:49:55+00:00,alves v samson,True,Carolina M. Alves,polyus,0.85,Laura Samson,kalshi,0.12,0.9863,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.0,2026-11-10T21:49:55+00:00
+2026-11-10T21:50:05+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.1,Ozan Baris,polyus,0.85,0.9652,0.0,11541.0,0,0.0,0.16,0.85,1.0283,0.0,2026-11-10T21:49:55+00:00
+2026-11-10T21:50:05+00:00,alves v samson,True,Carolina M. Alves,polyus,0.85,Laura Samson,kalshi,0.12,0.9863,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.0,2026-11-10T21:49:55+00:00
+2026-11-10T21:50:15+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.1,Ozan Baris,polyus,0.85,0.9652,0.0,11541.0,0,0.0,0.16,0.85,1.0283,0.0,2026-11-10T21:49:55+00:00
+2026-11-10T21:50:25+00:00,alves v samson,True,Carolina M. Alves,polyus,0.8,Laura Samson,kalshi,0.16,0.9805,0.0,0.0,0,0.0,0.85,0.21,1.0805,0.0,2026-11-10T21:50:25+00:00
+2026-11-10T21:50:35+00:00,alves v samson,True,Carolina M. Alves,polyus,0.8,Laura Samson,kalshi,0.16,0.9805,0.0,0.0,0,0.0,0.85,0.21,1.0805,0.0,2026-11-10T21:50:25+00:00
+2026-11-10T21:50:45+00:00,alves v samson,True,Carolina M. Alves,polyus,0.8,Laura Samson,kalshi,0.16,0.9805,57939.3,0.0,0,0.0,0.8,0.21,1.0327,0.1,2026-11-10T21:50:25+00:00
+2026-11-10T21:50:55+00:00,alves v samson,True,Carolina Alves,kalshi,0.8,Laura Samson,polyus,0.17,0.991,0.0,0.0,0,0.0,0.84,0.21,1.0709,0.0,2026-11-10T21:50:55+00:00
+2026-11-10T21:50:55+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.93,Marco Cecchinato,kalshi,0.06,0.9985,0.0,0.0,0,0.0,0.94,0.08,1.0291,0.0,2026-11-10T21:50:55+00:00
+2026-11-10T21:51:05+00:00,alves v samson,True,Carolina Alves,kalshi,0.8,Laura Samson,polyus,0.17,0.991,0.0,0.0,0,0.0,0.84,0.21,1.0709,0.0,2026-11-10T21:50:55+00:00
+2026-11-10T21:51:05+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.93,Marco Cecchinato,kalshi,0.06,0.9985,0.0,0.0,0,0.0,0.94,0.08,1.0291,0.0,2026-11-10T21:50:55+00:00
+2026-11-10T21:51:15+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.93,Valentina Mediorreal Arias,kalshi,0.06,0.9985,0.0,0.0,0,0.0,0.94,0.08,1.0291,0.0,2026-11-10T21:51:15+00:00
+2026-11-10T21:51:15+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.93,Marco Cecchinato,kalshi,0.06,0.9985,0.0,0.0,0,0.0,0.94,0.08,1.0291,0.0,2026-11-10T21:50:55+00:00
+2026-11-10T21:51:25+00:00,alves v samson,True,Carolina Alves,kalshi,0.86,Laura Samson,polyus,0.11,0.9852,0.0,0.0,0,0.0,0.9,0.17,1.0861,0.0,2026-11-10T21:51:25+00:00
+2026-11-10T21:51:25+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.93,Marco Cecchinato,kalshi,0.06,0.9985,172.02,0.0,0,0.0,0.93,0.08,1.0197,0.0,2026-11-10T21:50:55+00:00
+2026-11-10T21:51:35+00:00,alves v samson,True,Carolina Alves,kalshi,0.86,Laura Samson,polyus,0.11,0.9852,0.0,0.0,0,0.0,0.9,0.17,1.0861,0.0,2026-11-10T21:51:25+00:00
+2026-11-10T21:51:35+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.92,Marco Cecchinato,kalshi,0.06,0.9891,0.0,0.0,0,0.0,0.93,0.09,1.0303,0.0,2026-11-10T21:50:55+00:00
+2026-11-10T21:51:45+00:00,alves v samson,True,Carolina Alves,kalshi,0.86,Laura Samson,polyus,0.11,0.9852,0.0,27371.49,0,0.0,0.9,0.11,1.0231,0.1,2026-11-10T21:51:25+00:00
+2026-11-10T21:52:15+00:00,alves v samson,True,Carolina M. Alves,polyus,0.85,Laura Samson,kalshi,0.13,0.9968,30212.94,0.0,0,0.0,0.85,0.16,1.0283,0.1,2026-11-10T21:52:15+00:00
