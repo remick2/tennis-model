@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 9, 5:40PM MT
+# Consensus paper tracker — Mon Nov 9, 6:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,7 +9,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-0 | +0.27 | 3-0 | +0.49 | 3 |
-| Track only | all 15 | 4-3 | +0.04 | 7-3 | +2.34 | 4 |
+| Track only | all 15 | 4-3 | +0.04 | 7-3 | +2.34 | 5 |
 | Split | all 15 | 8-4 | +3.89 | 5-3 | -0.58 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
 | Track only | core 10 only | 0-0 | +0.00 | 2-0 | +0.39 | 4 |
@@ -75,3 +75,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-09 | NBA | Lakers vs. Hawks | Lakers (+2.5) (Spread) | Track only | in-play | jakepaulthegoat2008; BreakTheBank | — | 77.5c |
 | new | 2026-11-09 | NBA | Grizzlies vs. Raptors | Grizzlies (Moneyline) | Paper play | in-play | jakepaulthegoat2008; drainedandpoor; BreakTheBank | — | 53.5c |
 | new | 2026-11-09 | NBA | Grizzlies vs. Raptors | Grizzlies (-2.5) (Spread) | Track only | in-play | jakepaulthegoat2008; BreakTheBank | — | 45.5c |
+| new | 2026-11-09 | NBA | Pacers vs. Mavericks | Mavericks (-3.5) (Spread) | Track only | in-play | monkeymashingkeyboard; ianf2026 | — | 43.5c |
