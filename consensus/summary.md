@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 9, 4:40PM MT
+# Consensus paper tracker — Mon Nov 9, 5:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,12 +8,22 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| Paper play | all 15 | 1-0 | +0.27 | 3-0 | +0.49 | 2 |
-| Track only | all 15 | 4-3 | +0.04 | 7-3 | +2.34 | 2 |
-| Split | all 15 | 8-4 | +3.89 | 5-3 | -0.58 | 2 |
+| Paper play | all 15 | 1-0 | +0.27 | 3-0 | +0.49 | 3 |
+| Track only | all 15 | 4-3 | +0.04 | 7-3 | +2.34 | 4 |
+| Split | all 15 | 8-4 | +3.89 | 5-3 | -0.58 | 3 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
-| Track only | core 10 only | 0-0 | +0.00 | 2-0 | +0.39 | 3 |
+| Track only | core 10 only | 0-0 | +0.00 | 2-0 | +0.39 | 4 |
 | Split | core 10 only | 1-1 | -0.10 | 2-0 | +0.40 | 0 |
+
+**By price** (new roster, pre-game, graded):
+
+| Rule | Price range | Record | Units | Actual wins | Expected wins | Edge |
+|---|---|---|---|---|---|---|
+| Paper play | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
+| Track only | Underdog (<45c) | 0-1 | -1.00 | 0 | 0.3 | -0.3 |
+| Track only | Coin flip (45-65c) | 3-1 | +1.80 | 3 | 2.1 | +0.9 |
+| Track only | Favorite (65-80c) | 0-1 | -1.00 | 0 | 0.7 | -0.7 |
+| Track only | Heavy favorite (80c+) | 1-0 | +0.24 | 1 | 0.8 | +0.2 |
 
 ## Old roster (Nov 3 – Nov 7, closed)
 
@@ -61,3 +71,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-09 | NBA | Wizards vs. Pistons | Pistons (-10.5) (Spread) | Split | pre-game | 0x9f15613e; ianf2026 | monkeymashingkeyboard | 43.5c |
 | new | 2026-11-09 | NBA | Lakers vs. Hawks | Lakers (Moneyline) | Split | pre-game | jakepaulthegoat2008; BreakTheBank | 0xb4F978BE | 45.5c |
 | new | 2026-11-09 | NBA | Wizards vs. Pistons | Wizards (+9.5) (Spread) | Paper play | pre-game | jakepaulthegoat2008; 0x9f15613e; BreakTheBank | — | 51.5c |
+| new | 2026-11-09 | NBA | Wizards vs. Pistons | Wizards (+10.5) (Spread) | Split | in-play | monkeymashingkeyboard; ianf2026 | 0x9f15613e | 54.0c |
+| new | 2026-11-09 | NBA | Lakers vs. Hawks | Lakers (+2.5) (Spread) | Track only | in-play | jakepaulthegoat2008; BreakTheBank | — | 77.5c |
+| new | 2026-11-09 | NBA | Grizzlies vs. Raptors | Grizzlies (Moneyline) | Paper play | in-play | jakepaulthegoat2008; drainedandpoor; BreakTheBank | — | 53.5c |
+| new | 2026-11-09 | NBA | Grizzlies vs. Raptors | Grizzlies (-2.5) (Spread) | Track only | in-play | jakepaulthegoat2008; BreakTheBank | — | 45.5c |
