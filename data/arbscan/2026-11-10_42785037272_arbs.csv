@@ -1,39 +1,117 @@
 ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
-2026-11-10T08:46:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.36,Tristan Schoolkate,polyus,0.6,0.9928,0.0,0.0,0,0.0,0.4,0.65,1.0826,0.0,2026-11-10T08:46:18+00:00
-2026-11-10T08:46:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.36,Tristan Schoolkate,polyus,0.6,0.9928,0.0,26530.58,0,0.0,0.41,0.6,1.0436,0.0,2026-11-10T08:46:18+00:00
-2026-11-10T08:46:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.36,Tristan Schoolkate,polyus,0.6,0.9928,0.0,26530.58,0,0.0,0.41,0.6,1.0436,0.0,2026-11-10T08:46:18+00:00
-2026-11-10T08:46:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.36,Tristan Schoolkate,kalshi,0.6,0.9928,23904.63,0.0,0,0.0,0.36,0.65,1.0419,0.0,2026-11-10T08:46:58+00:00
-2026-11-10T08:47:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.36,Tristan Schoolkate,kalshi,0.6,0.9928,23904.63,0.0,0,0.0,0.36,0.65,1.0419,0.0,2026-11-10T08:46:58+00:00
-2026-11-10T08:47:08+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.4,Michael Geerts,polyus,0.56,0.9939,0.0,0.0,0,0.0,0.45,0.61,1.0939,0.0,2026-11-10T08:47:08+00:00
-2026-11-10T08:48:08+00:00,fomin v xilas,True,Ioannis Xilas,kalshi,0.53,Sergey Fomin,polyus,0.42,0.9844,0.0,0.0,0,0.0,0.59,0.45,1.0741,0.0,2026-11-10T08:48:08+00:00
-2026-11-10T08:48:28+00:00,cruz v geerts,True,Juan Martin,polyus,0.35,Michael Geerts,kalshi,0.6,0.9826,11202.29,0.0,0,0.0,0.35,0.65,1.0317,0.0,2026-11-10T08:48:28+00:00
-2026-11-10T08:48:28+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.53,Sergey Fomin,kalshi,0.43,0.9945,0.0,0.0,0,0.0,0.59,0.48,1.1043,0.0,2026-11-10T08:48:28+00:00
-2026-11-10T08:48:38+00:00,cruz v geerts,True,Juan Martin,polyus,0.35,Michael Geerts,kalshi,0.6,0.9826,11202.29,0.0,0,0.0,0.35,0.65,1.0317,0.0,2026-11-10T08:48:28+00:00
-2026-11-10T08:48:38+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.52,Sergey Fomin,kalshi,0.43,0.9845,0.0,0.0,0,0.0,0.59,0.49,1.1143,0.0,2026-11-10T08:48:28+00:00
-2026-11-10T08:49:08+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.2,Robin Bertrand,kalshi,0.73,0.9549,0.0,0.0,0,0.0,0.25,0.81,1.0838,0.0,2026-11-10T08:49:08+00:00
-2026-11-10T08:49:48+00:00,angelini v bertrand,True,Lorenzo Angelini,kalshi,0.2,Robin Bertrand,polyus,0.76,0.9839,0.0,0.0,0,0.0,0.25,0.81,1.0838,0.0,2026-11-10T08:49:48+00:00
-2026-11-10T08:50:38+00:00,cruz v geerts,True,Juan Martin,polyus,0.38,Michael Geerts,kalshi,0.57,0.9835,0.0,0.0,0,0.0,0.5,0.63,1.1637,0.0,2026-11-10T08:50:38+00:00
-2026-11-10T08:50:48+00:00,cruz v geerts,True,Juan Martin,polyus,0.38,Michael Geerts,kalshi,0.57,0.9835,0.0,0.0,0,0.0,0.5,0.64,1.1735,0.0,2026-11-10T08:50:38+00:00
-2026-11-10T08:51:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.28,Tristan Schoolkate,kalshi,0.68,0.9892,0.0,0.0,0,0.0,0.33,0.74,1.0988,0.0,2026-11-10T08:51:38+00:00
-2026-11-10T08:51:48+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.26,Tristan Schoolkate,kalshi,0.68,0.9686,0.0,0.0,0,0.0,0.33,0.75,1.1085,0.0,2026-11-10T08:51:38+00:00
-2026-11-10T08:51:48+00:00,cruz v geerts,True,Juan Martin,polyus,0.33,Michael Geerts,kalshi,0.62,0.9819,0.0,0.0,0,0.0,0.38,0.68,1.0916,0.0,2026-11-10T08:51:48+00:00
-2026-11-10T08:51:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.26,Tristan Schoolkate,kalshi,0.68,0.9686,31849.99,0.0,0,0.0,0.26,0.75,1.0365,0.0,2026-11-10T08:51:38+00:00
-2026-11-10T08:51:58+00:00,cruz v geerts,True,Juan Martin,polyus,0.33,Michael Geerts,kalshi,0.62,0.9819,25305.61,0.0,0,0.0,0.33,0.68,1.0406,0.0,2026-11-10T08:51:48+00:00
-2026-11-10T08:52:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.26,Tristan Schoolkate,kalshi,0.68,0.9686,31849.99,0.0,0,0.0,0.26,0.75,1.0365,0.0,2026-11-10T08:51:38+00:00
-2026-11-10T08:52:08+00:00,cruz v geerts,True,Juan Martin,polyus,0.33,Michael Geerts,kalshi,0.62,0.9819,25305.61,0.0,0,0.0,0.33,0.68,1.0406,0.0,2026-11-10T08:51:48+00:00
-2026-11-10T08:52:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.69,0.9783,0.0,0.0,0,0.0,0.32,0.75,1.0983,0.0,2026-11-10T08:52:18+00:00
-2026-11-10T08:52:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.69,0.9783,0.0,115.01,0,0.0,0.32,0.69,1.0401,0.0,2026-11-10T08:52:18+00:00
-2026-11-10T08:52:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.7,0.9881,0.0,11390.11,0,0.0,0.31,0.69,1.0298,0.0,2026-11-10T08:52:18+00:00
-2026-11-10T08:52:48+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.32,Tristan Schoolkate,polyus,0.63,0.9814,0.0,0.0,0,0.0,0.37,0.69,1.0912,0.0,2026-11-10T08:52:18+00:00
-2026-11-10T08:52:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.32,Tristan Schoolkate,polyus,0.63,0.9814,0.0,30777.24,0,0.0,0.37,0.63,1.0325,0.0,2026-11-10T08:52:18+00:00
-2026-11-10T08:53:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.32,Tristan Schoolkate,polyus,0.63,0.9814,0.0,30777.24,0,0.0,0.37,0.63,1.0325,0.0,2026-11-10T08:52:18+00:00
-2026-11-10T08:53:58+00:00,cruz v geerts,True,Juan Martin,polyus,0.38,Michael Geerts,kalshi,0.58,0.9934,44289.28,0.0,0,0.0,0.38,0.63,1.0427,0.0,2026-11-10T08:53:58+00:00
-2026-11-10T08:54:08+00:00,cruz v geerts,True,Juan Martin,polyus,0.38,Michael Geerts,kalshi,0.58,0.9934,44289.28,0.0,0,0.0,0.38,0.63,1.0427,0.0,2026-11-10T08:53:58+00:00
-2026-11-10T08:55:18+00:00,cruz v geerts,True,Juan Martin,polyus,0.38,Michael Geerts,kalshi,0.58,0.9934,0.0,0.0,0,0.0,0.41,0.64,1.0829,0.0,2026-11-10T08:55:18+00:00
-2026-11-10T08:55:48+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.38,Sergey Fomin,kalshi,0.57,0.9835,0.0,0.0,0,0.0,0.4,0.63,1.063,0.0,2026-11-10T08:55:48+00:00
-2026-11-10T08:57:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.27,Tristan Schoolkate,kalshi,0.67,0.9692,0.0,0.0,0,0.0,0.36,0.74,1.1295,0.0,2026-11-10T08:57:08+00:00
-2026-11-10T08:57:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.27,Tristan Schoolkate,kalshi,0.67,0.9692,0.0,0.0,0,0.0,0.36,0.74,1.1295,0.0,2026-11-10T08:57:08+00:00
-2026-11-10T08:57:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.27,Tristan Schoolkate,kalshi,0.67,0.9692,768.01,0.0,0,0.0,0.27,0.75,1.0468,0.0,2026-11-10T08:57:08+00:00
-2026-11-10T08:57:48+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.69,0.9783,0.0,0.0,0,0.0,0.32,0.74,1.0886,0.0,2026-11-10T08:57:48+00:00
-2026-11-10T08:57:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.69,0.9783,0.0,44.01,0,0.0,0.33,0.69,1.0503,0.0,2026-11-10T08:57:48+00:00
-2026-11-10T08:58:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.64,0.9295,0.0,0.0,0,0.0,0.37,0.69,1.0912,0.0,2026-11-10T08:57:48+00:00
+2026-11-10T08:46:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.36,Tristan Schoolkate,polyus,0.6,0.9928,0.0,0.0,0.0,0.0,0.4,0.65,1.0826,0.0,2026-11-10T08:46:18+00:00
+2026-11-10T08:46:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.36,Tristan Schoolkate,polyus,0.6,0.9928,0.0,26530.58,0.0,0.0,0.41,0.6,1.0436,0.0,2026-11-10T08:46:18+00:00
+2026-11-10T08:46:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.36,Tristan Schoolkate,polyus,0.6,0.9928,0.0,26530.58,0.0,0.0,0.41,0.6,1.0436,0.0,2026-11-10T08:46:18+00:00
+2026-11-10T08:46:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.36,Tristan Schoolkate,kalshi,0.6,0.9928,23904.63,0.0,0.0,0.0,0.36,0.65,1.0419,0.0,2026-11-10T08:46:58+00:00
+2026-11-10T08:47:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.36,Tristan Schoolkate,kalshi,0.6,0.9928,23904.63,0.0,0.0,0.0,0.36,0.65,1.0419,0.0,2026-11-10T08:46:58+00:00
+2026-11-10T08:47:08+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.4,Michael Geerts,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.45,0.61,1.0939,0.0,2026-11-10T08:47:08+00:00
+2026-11-10T08:48:08+00:00,fomin v xilas,True,Ioannis Xilas,kalshi,0.53,Sergey Fomin,polyus,0.42,0.9844,0.0,0.0,0.0,0.0,0.59,0.45,1.0741,0.0,2026-11-10T08:48:08+00:00
+2026-11-10T08:48:28+00:00,cruz v geerts,True,Juan Martin,polyus,0.35,Michael Geerts,kalshi,0.6,0.9826,11202.29,0.0,0.0,0.0,0.35,0.65,1.0317,0.0,2026-11-10T08:48:28+00:00
+2026-11-10T08:48:28+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.53,Sergey Fomin,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,0.59,0.48,1.1043,0.0,2026-11-10T08:48:28+00:00
+2026-11-10T08:48:38+00:00,cruz v geerts,True,Juan Martin,polyus,0.35,Michael Geerts,kalshi,0.6,0.9826,11202.29,0.0,0.0,0.0,0.35,0.65,1.0317,0.0,2026-11-10T08:48:28+00:00
+2026-11-10T08:48:38+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.52,Sergey Fomin,kalshi,0.43,0.9845,0.0,0.0,0.0,0.0,0.59,0.49,1.1143,0.0,2026-11-10T08:48:28+00:00
+2026-11-10T08:49:08+00:00,angelini v bertrand,True,Lorenzo Angelini,polyus,0.2,Robin Bertrand,kalshi,0.73,0.9549,0.0,0.0,0.0,0.0,0.25,0.81,1.0838,0.0,2026-11-10T08:49:08+00:00
+2026-11-10T08:49:48+00:00,angelini v bertrand,True,Lorenzo Angelini,kalshi,0.2,Robin Bertrand,polyus,0.76,0.9839,0.0,0.0,0.0,0.0,0.25,0.81,1.0838,0.0,2026-11-10T08:49:48+00:00
+2026-11-10T08:50:38+00:00,cruz v geerts,True,Juan Martin,polyus,0.38,Michael Geerts,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,0.5,0.63,1.1637,0.0,2026-11-10T08:50:38+00:00
+2026-11-10T08:50:48+00:00,cruz v geerts,True,Juan Martin,polyus,0.38,Michael Geerts,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,0.5,0.64,1.1735,0.0,2026-11-10T08:50:38+00:00
+2026-11-10T08:51:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.28,Tristan Schoolkate,kalshi,0.68,0.9892,0.0,0.0,0.0,0.0,0.33,0.74,1.0988,0.0,2026-11-10T08:51:38+00:00
+2026-11-10T08:51:48+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.26,Tristan Schoolkate,kalshi,0.68,0.9686,0.0,0.0,0.0,0.0,0.33,0.75,1.1085,0.0,2026-11-10T08:51:38+00:00
+2026-11-10T08:51:48+00:00,cruz v geerts,True,Juan Martin,polyus,0.33,Michael Geerts,kalshi,0.62,0.9819,0.0,0.0,0.0,0.0,0.38,0.68,1.0916,0.0,2026-11-10T08:51:48+00:00
+2026-11-10T08:51:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.26,Tristan Schoolkate,kalshi,0.68,0.9686,31849.99,0.0,0.0,0.0,0.26,0.75,1.0365,0.0,2026-11-10T08:51:38+00:00
+2026-11-10T08:51:58+00:00,cruz v geerts,True,Juan Martin,polyus,0.33,Michael Geerts,kalshi,0.62,0.9819,25305.61,0.0,0.0,0.0,0.33,0.68,1.0406,0.0,2026-11-10T08:51:48+00:00
+2026-11-10T08:52:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.26,Tristan Schoolkate,kalshi,0.68,0.9686,31849.99,0.0,0.0,0.0,0.26,0.75,1.0365,0.0,2026-11-10T08:51:38+00:00
+2026-11-10T08:52:08+00:00,cruz v geerts,True,Juan Martin,polyus,0.33,Michael Geerts,kalshi,0.62,0.9819,25305.61,0.0,0.0,0.0,0.33,0.68,1.0406,0.0,2026-11-10T08:51:48+00:00
+2026-11-10T08:52:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.69,0.9783,0.0,0.0,0.0,0.0,0.32,0.75,1.0983,0.0,2026-11-10T08:52:18+00:00
+2026-11-10T08:52:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.69,0.9783,0.0,115.01,0.0,0.0,0.32,0.69,1.0401,0.0,2026-11-10T08:52:18+00:00
+2026-11-10T08:52:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.7,0.9881,0.0,11390.11,0.0,0.0,0.31,0.69,1.0298,0.0,2026-11-10T08:52:18+00:00
+2026-11-10T08:52:48+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.32,Tristan Schoolkate,polyus,0.63,0.9814,0.0,0.0,0.0,0.0,0.37,0.69,1.0912,0.0,2026-11-10T08:52:18+00:00
+2026-11-10T08:52:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.32,Tristan Schoolkate,polyus,0.63,0.9814,0.0,30777.24,0.0,0.0,0.37,0.63,1.0325,0.0,2026-11-10T08:52:18+00:00
+2026-11-10T08:53:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.32,Tristan Schoolkate,polyus,0.63,0.9814,0.0,30777.24,0.0,0.0,0.37,0.63,1.0325,0.0,2026-11-10T08:52:18+00:00
+2026-11-10T08:53:58+00:00,cruz v geerts,True,Juan Martin,polyus,0.38,Michael Geerts,kalshi,0.58,0.9934,44289.28,0.0,0.0,0.0,0.38,0.63,1.0427,0.0,2026-11-10T08:53:58+00:00
+2026-11-10T08:54:08+00:00,cruz v geerts,True,Juan Martin,polyus,0.38,Michael Geerts,kalshi,0.58,0.9934,44289.28,0.0,0.0,0.0,0.38,0.63,1.0427,0.0,2026-11-10T08:53:58+00:00
+2026-11-10T08:55:18+00:00,cruz v geerts,True,Juan Martin,polyus,0.38,Michael Geerts,kalshi,0.58,0.9934,0.0,0.0,0.0,0.0,0.41,0.64,1.0829,0.0,2026-11-10T08:55:18+00:00
+2026-11-10T08:55:48+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.38,Sergey Fomin,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,0.4,0.63,1.063,0.0,2026-11-10T08:55:48+00:00
+2026-11-10T08:57:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.27,Tristan Schoolkate,kalshi,0.67,0.9692,0.0,0.0,0.0,0.0,0.36,0.74,1.1295,0.0,2026-11-10T08:57:08+00:00
+2026-11-10T08:57:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.27,Tristan Schoolkate,kalshi,0.67,0.9692,0.0,0.0,0.0,0.0,0.36,0.74,1.1295,0.0,2026-11-10T08:57:08+00:00
+2026-11-10T08:57:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.27,Tristan Schoolkate,kalshi,0.67,0.9692,768.01,0.0,0.0,0.0,0.27,0.75,1.0468,0.0,2026-11-10T08:57:08+00:00
+2026-11-10T08:57:48+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.69,0.9783,0.0,0.0,0.0,0.0,0.32,0.74,1.0886,0.0,2026-11-10T08:57:48+00:00
+2026-11-10T08:57:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.69,0.9783,0.0,44.01,0.0,0.0,0.33,0.69,1.0503,0.0,2026-11-10T08:57:48+00:00
+2026-11-10T08:58:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.26,Tristan Schoolkate,polyus,0.64,0.9295,0.0,0.0,0.0,0.0,0.37,0.69,1.0912,0.0,2026-11-10T08:57:48+00:00
+2026-11-10T09:01:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.39,Tristan Schoolkate,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,0.45,0.62,1.1037,0.0,2026-11-10T09:01:58+00:00
+2026-11-10T09:02:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.39,Tristan Schoolkate,polyus,0.55,0.9739,0.0,0.0,0.0,0.0,0.46,0.62,1.1138,0.0,2026-11-10T09:02:18+00:00
+2026-11-10T09:02:18+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.27,Michael Geerts,polyus,0.7,0.9984,0.0,0.0,0.0,0.0,0.3,0.73,1.0584,0.0,2026-11-10T09:02:18+00:00
+2026-11-10T09:02:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.39,Tristan Schoolkate,polyus,0.55,0.9739,0.0,0.0,0.0,0.0,0.46,0.62,1.1138,0.0,2026-11-10T09:02:18+00:00
+2026-11-10T09:02:28+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.27,Michael Geerts,polyus,0.7,0.9984,0.0,0.0,0.0,0.0,0.3,0.73,1.0584,0.0,2026-11-10T09:02:18+00:00
+2026-11-10T09:02:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.39,Tristan Schoolkate,polyus,0.55,0.9739,0.0,2455.54,0.0,0.0,0.47,0.55,1.0546,0.0,2026-11-10T09:02:18+00:00
+2026-11-10T09:02:38+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.27,Michael Geerts,polyus,0.69,0.9887,0.0,0.0,0.0,0.0,0.32,0.7,1.0498,0.0,2026-11-10T09:02:18+00:00
+2026-11-10T09:02:48+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.39,Tristan Schoolkate,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,0.46,0.62,1.1138,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:02:48+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:02:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.39,Tristan Schoolkate,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,0.46,0.62,1.1138,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:02:58+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:03:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.39,Tristan Schoolkate,kalshi,0.55,0.9739,2289.66,0.0,0.0,0.0,0.39,0.6,1.0233,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:03:08+00:00,bolt v moriya,True,Alex Bolt,kalshi,0.8,Hiroki Moriya,polyus,0.16,0.9805,0.0,0.0,0.0,0.0,0.85,0.21,1.0805,0.0,2026-11-10T09:03:08+00:00
+2026-11-10T09:03:08+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:03:18+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:03:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.41,Tristan Schoolkate,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.47,0.62,1.1238,0.0,2026-11-10T09:03:28+00:00
+2026-11-10T09:03:28+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:03:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.41,Tristan Schoolkate,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.48,0.54,1.0547,0.0,2026-11-10T09:03:28+00:00
+2026-11-10T09:03:38+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:03:48+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:03:58+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.1,2026-11-10T09:02:48+00:00
+2026-11-10T09:04:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.41,Tristan Schoolkate,kalshi,0.53,0.9742,0.0,0.0,0.0,0.0,0.51,0.6,1.1442,0.0,2026-11-10T09:04:08+00:00
+2026-11-10T09:04:08+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:04:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.4,Tristan Schoolkate,kalshi,0.53,0.9641,0.0,0.0,0.0,0.0,0.51,0.61,1.154,0.0,2026-11-10T09:04:08+00:00
+2026-11-10T09:04:18+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:04:28+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:04:38+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:04:48+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:04:58+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:05:08+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,0.0,0.0,0.0,0.83,0.16,1.0092,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:05:18+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:05:28+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:05:38+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:05:48+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:05:58+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:06:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.35,Tristan Schoolkate,polyus,0.6,0.9826,0.0,1602.0,0.0,0.0,0.41,0.6,1.0436,0.0,2026-11-10T09:06:08+00:00
+2026-11-10T09:06:08+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:06:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.35,Tristan Schoolkate,polyus,0.6,0.9826,0.0,1602.0,0.0,0.0,0.41,0.6,1.0436,0.0,2026-11-10T09:06:08+00:00
+2026-11-10T09:06:18+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:06:28+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:06:38+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:06:48+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:06:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.36,Tristan Schoolkate,polyus,0.6,0.9928,0.0,0.0,0.0,0.0,0.4,0.65,1.0826,0.0,2026-11-10T09:06:58+00:00
+2026-11-10T09:06:58+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:07:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.36,Tristan Schoolkate,polyus,0.6,0.9928,0.0,1579.91,0.0,0.0,0.4,0.6,1.0335,0.0,2026-11-10T09:06:58+00:00
+2026-11-10T09:07:08+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:07:18+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,3.0,0.11,0.0,0.83,0.15,0.9987,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:07:28+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,0.0,0.0,0.0,0.83,0.16,1.0092,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:07:38+00:00,fuente v rincon,False,Daniel Rincon,polyus,0.83,Santiago De la Fuente,kalshi,0.15,0.9987,0.11,0.0,0.0,0.0,0.83,0.16,1.0092,0.0,2026-11-10T09:02:48+00:00
+2026-11-10T09:09:48+00:00,fomin v xilas,True,Ioannis Xilas,polyus,0.45,Sergey Fomin,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,0.49,0.55,1.0747,0.0,2026-11-10T09:09:48+00:00
+2026-11-10T09:10:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.46,Tristan Schoolkate,polyus,0.47,0.9647,0.0,38247.99,0.0,0.0,0.54,0.47,1.0447,0.0,2026-11-10T09:10:08+00:00
+2026-11-10T09:10:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.46,Tristan Schoolkate,polyus,0.47,0.9647,0.0,38247.99,0.0,0.0,0.55,0.47,1.0546,0.0,2026-11-10T09:10:08+00:00
+2026-11-10T09:10:48+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.56,Tristan Schoolkate,polyus,0.34,0.9328,0.0,0.0,0.0,0.0,0.67,0.46,1.1627,0.0,2026-11-10T09:10:48+00:00
+2026-11-10T09:11:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.6,Tristan Schoolkate,kalshi,0.34,0.9724,0.0,0.0,0.0,0.0,0.68,0.4,1.1119,0.0,2026-11-10T09:11:28+00:00
+2026-11-10T09:11:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.6,Tristan Schoolkate,kalshi,0.34,0.9724,3894.83,0.0,0.0,0.0,0.6,0.41,1.0436,0.0,2026-11-10T09:11:28+00:00
+2026-11-10T09:11:38+00:00,fomin v xilas,True,Ioannis Xilas,kalshi,0.51,Sergey Fomin,polyus,0.44,0.9846,0.0,0.0,0.0,0.0,0.56,0.49,1.0846,0.0,2026-11-10T09:11:38+00:00
+2026-11-10T09:11:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.6,Tristan Schoolkate,polyus,0.23,0.8591,0.0,0.0,0.0,0.0,0.77,0.41,1.2092,0.0,2026-11-10T09:11:58+00:00
+2026-11-10T09:12:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.6,Tristan Schoolkate,polyus,0.23,0.8591,0.0,38332.88,0.0,0.0,0.79,0.23,1.0439,0.0,2026-11-10T09:11:58+00:00
+2026-11-10T09:12:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.69,Tristan Schoolkate,kalshi,0.23,0.9473,0.0,0.0,0.0,0.0,0.78,0.32,1.1272,0.0,2026-11-10T09:12:28+00:00
+2026-11-10T09:12:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.69,Tristan Schoolkate,kalshi,0.23,0.9473,25.110000000000003,0.0,0.0,0.0,0.68,0.32,1.0304,0.0,2026-11-10T09:12:28+00:00
+2026-11-10T09:12:48+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.68,Tristan Schoolkate,polyus,0.27,0.9789,0.0,0.0,0.0,0.0,0.75,0.33,1.1085,0.0,2026-11-10T09:12:48+00:00
+2026-11-10T09:12:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.54,Tristan Schoolkate,kalshi,0.32,0.8925,0.0,0.0,0.0,0.0,0.68,0.47,1.1826,0.0,2026-11-10T09:12:58+00:00
+2026-11-10T09:13:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.54,Tristan Schoolkate,kalshi,0.32,0.8925,2429.01,0.0,0.0,0.0,0.54,0.47,1.0447,0.0,2026-11-10T09:12:58+00:00
+2026-11-10T09:13:18+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.4,Michael Geerts,polyus,0.56,0.9939,0.0,793.85,0.0,0.0,0.45,0.56,1.0444,0.0,2026-11-10T09:13:18+00:00
+2026-11-10T09:13:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.47,Tristan Schoolkate,kalshi,0.47,0.9747,0.0,0.0,0.0,0.0,0.54,0.54,1.1147,0.0,2026-11-10T09:13:28+00:00
+2026-11-10T09:13:28+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.4,Michael Geerts,polyus,0.56,0.9939,0.0,793.85,0.0,0.0,0.45,0.56,1.0444,0.0,2026-11-10T09:13:18+00:00
+2026-11-10T09:13:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.47,Tristan Schoolkate,kalshi,0.47,0.9747,2396.6,0.0,0.0,0.0,0.47,0.54,1.0447,0.0,2026-11-10T09:13:28+00:00
+2026-11-10T09:13:38+00:00,cruz v geerts,True,Juan Cruz Martin Manzano,kalshi,0.4,Michael Geerts,polyus,0.56,0.9939,0.0,793.85,0.0,0.0,0.44,0.56,1.0344,0.0,2026-11-10T09:13:18+00:00
+2026-11-10T09:13:58+00:00,cruz v geerts,True,Juan Martin,polyus,0.39,Michael Geerts,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,0.45,0.62,1.1037,0.0,2026-11-10T09:13:58+00:00
+2026-11-10T09:14:08+00:00,cruz v geerts,True,Juan Martin,polyus,0.39,Michael Geerts,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,0.45,0.62,1.1037,0.0,2026-11-10T09:13:58+00:00
+2026-11-10T09:14:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.47,Tristan Schoolkate,polyus,0.48,0.9848,0.0,0.0,0.0,0.0,0.54,0.57,1.1444,0.0,2026-11-10T09:14:18+00:00
+2026-11-10T09:14:18+00:00,cruz v geerts,True,Juan Martin,polyus,0.39,Michael Geerts,kalshi,0.57,0.9937,6181.94,0.0,0.0,0.0,0.39,0.62,1.043,0.0,2026-11-10T09:13:58+00:00
+2026-11-10T09:14:28+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.45,Tristan Schoolkate,polyus,0.46,0.9446,0.0,0.0,0.0,0.0,0.54,0.57,1.1444,0.0,2026-11-10T09:14:18+00:00
+2026-11-10T09:14:38+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.45,Tristan Schoolkate,polyus,0.47,0.9546,0.0,38765.950000000004,0.0,0.0,0.54,0.46,1.0347,0.0,2026-11-10T09:14:18+00:00
+2026-11-10T09:14:48+00:00,hewitt v schoolkate,True,Cruz Hewitt,kalshi,0.45,Tristan Schoolkate,polyus,0.46,0.9446,0.0,1195.26,0.0,0.0,0.55,0.46,1.0446,0.0,2026-11-10T09:14:18+00:00
+2026-11-10T09:14:58+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.48,Tristan Schoolkate,kalshi,0.46,0.9747,0.0,0.0,0.0,0.0,0.55,0.53,1.1146,0.0,2026-11-10T09:14:58+00:00
+2026-11-10T09:15:08+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.47,Tristan Schoolkate,kalshi,0.46,0.9647,37359.44,0.0,0.0,0.0,0.47,0.54,1.0447,0.0,2026-11-10T09:14:58+00:00
+2026-11-10T09:15:18+00:00,hewitt v schoolkate,True,Cruz Hewitt,polyus,0.47,Tristan Schoolkate,kalshi,0.46,0.9647,37359.44,0.0,0.0,0.0,0.47,0.54,1.0447,0.0,2026-11-10T09:14:58+00:00
