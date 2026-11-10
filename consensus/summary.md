@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 9, 8:40PM MT
+# Consensus paper tracker — Mon Nov 9, 9:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,21 +8,21 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| Paper play | all 15 | 1-1 | -0.73 | 4-0 | +1.36 | 1 |
-| Track only | all 15 | 4-3 | +0.04 | 9-3 | +3.83 | 6 |
+| Paper play | all 15 | 2-1 | -0.02 | 4-0 | +1.36 | 0 |
+| Track only | all 15 | 5-4 | -0.36 | 9-6 | +0.83 | 1 |
 | Split | all 15 | 10-4 | +6.39 | 5-4 | -1.58 | 2 |
 | Paper play | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 0 |
-| Track only | core 10 only | 0-1 | -1.00 | 3-0 | +1.26 | 3 |
+| Track only | core 10 only | 1-2 | -1.29 | 3-1 | +0.26 | 0 |
 | Split | core 10 only | 1-1 | -0.10 | 2-0 | +0.40 | 0 |
 
 **By price** (new roster, pre-game, graded):
 
 | Rule | Price range | Record | Units | Actual wins | Expected wins | Edge |
 |---|---|---|---|---|---|---|
-| Paper play | Coin flip (45-65c) | 0-1 | -1.00 | 0 | 0.5 | -0.5 |
+| Paper play | Coin flip (45-65c) | 1-1 | -0.29 | 1 | 1.1 | -0.1 |
 | Paper play | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
-| Track only | Underdog (<45c) | 0-1 | -1.00 | 0 | 0.3 | -0.3 |
-| Track only | Coin flip (45-65c) | 3-1 | +1.80 | 3 | 2.1 | +0.9 |
+| Track only | Underdog (<45c) | 0-2 | -2.00 | 0 | 0.7 | -0.7 |
+| Track only | Coin flip (45-65c) | 4-1 | +2.40 | 4 | 2.7 | +1.3 |
 | Track only | Favorite (65-80c) | 0-1 | -1.00 | 0 | 0.7 | -0.7 |
 | Track only | Heavy favorite (80c+) | 1-0 | +0.24 | 1 | 0.8 | +0.2 |
 
@@ -33,7 +33,7 @@ Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Ro
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | Paper play | all 15 | 1-2 | -0.98 | 1-2 | -1.43 | 0 |
-| Track only | all 15 | 24-16 | +0.59 | 9-5 | +3.85 | 1 |
+| Track only | all 15 | 25-16 | +1.22 | 9-5 | +3.85 | 0 |
 | Split | all 15 | 9-12 | -3.86 | 11-9 | +1.37 | 0 |
 | Paper play | core 10 only | 0-0 | +0.00 | 0-0 | +0.00 | 0 |
 | Track only | core 10 only | 4-6 | -2.54 | 4-2 | +0.08 | 0 |
@@ -65,13 +65,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 
 | Roster | Date | League | Game | Side | Rule | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
-| old | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; darkumbreon88 | — | 61.5c |
-| new | 2026-11-09 | NFL | Bills vs. Vikings | Bills (Moneyline) | Track only | pre-game | monkeymashingkeyboard; BreakTheBank | — | 62.5c |
-| new | 2026-11-09 | NFL | Bills vs. Vikings | Bills (-2.5) (Spread) | Paper play | pre-game | monkeymashingkeyboard; purplegatto; BreakTheBank | — | 58.5c |
-| new | 2026-11-09 | NBA | Nuggets vs. Rockets | Nuggets (Moneyline) | Track only | pre-game | purplegatto; 0xb4F978BE | — | 38.5c |
-| new | 2026-11-09 | NBA | Pacers vs. Mavericks | Mavericks (-3.5) (Spread) | Track only | in-play | monkeymashingkeyboard; ianf2026 | — | 43.5c |
 | new | 2026-11-09 | NBA | Pelicans vs. Warriors | Pelicans (+11.5) (Spread) | Split | pre-game | purplegatto; ianf2026 | BreakTheBank | 51.5c |
-| new | 2026-11-09 | NBA | Nuggets vs. Rockets | Nuggets (+9.5) (Spread) | Track only | in-play | purplegatto; ianf2026 | — | 40.5c |
-| new | 2026-11-09 | NBA | Spurs vs. Suns | Suns (Moneyline) | Track only | in-play | jakepaulthegoat2008; drainedandpoor | — | 15.5c |
 | new | 2026-11-09 | NBA | Pelicans vs. Warriors | Warriors (-11.5) (Spread) | Split | in-play | BreakTheBank; ch27er | 0xb4F978BE; ianf2026; purplegatto | 80.5c |
 | new | 2026-11-09 | NBA | Pelicans vs. Warriors | Warriors (-9.5) (Spread) | Track only | in-play | ch27er; ianf2026 | — | 83.5c |
