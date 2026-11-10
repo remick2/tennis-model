@@ -83,3 +83,28 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-10T00:34:01+00:00,chidekh v latak,True,Clement Chidekh,kalshi,0.93,Marcel Latak,polyus,0.05,0.9879,0.0,11857.89,0,0.0,0.96,0.05,1.016,0.1,2026-11-10T00:33:51+00:00
 2026-11-10T00:34:11+00:00,chidekh v latak,True,Clement Chidekh,kalshi,0.93,Marcel Latak,polyus,0.05,0.9879,0.0,11857.89,0,0.0,0.96,0.05,1.016,0.2,2026-11-10T00:33:51+00:00
 2026-11-10T00:42:31+00:00,chidekh v latak,True,Clement Chidekh,polyus,0.92,Marcel Latak,kalshi,0.07,0.9997,0.0,0.0,0,0.0,0.94,0.08,1.0291,0.1,2026-11-10T00:42:31+00:00
+2026-11-10T00:44:51+00:00,hoole v ryan,True,Casey Hoole,kalshi,0.87,Sam Ziegann,polyus,0.11,0.9947,0.0,0.0,0,0.0,0.9,0.13,1.0442,0.1,2026-11-10T00:44:51+00:00
+2026-11-10T00:49:21+00:00,shepp v sweeny,True,Anton Shepp,polyus,0.07,Dane Sweeny,kalshi,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0396,0.1,2026-11-10T00:49:21+00:00
+2026-11-10T00:49:31+00:00,shepp v sweeny,True,Anton Shepp,polyus,0.07,Dane Sweeny,kalshi,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0396,0.1,2026-11-10T00:49:21+00:00
+2026-11-10T00:51:21+00:00,cordova v midon,True,Arklon Huertas Del Pino Cordova,kalshi,0.17,Lautaro Midon,polyus,0.8,0.991,0.0,90.1,0,0.0,0.25,0.79,1.0647,0.1,2026-11-10T00:51:21+00:00
+2026-11-10T00:52:11+00:00,hoole v ryan,True,Casey Hoole,kalshi,0.94,Sam Ziegann,polyus,0.04,0.9866,0.0,0.0,0,0.0,0.97,0.07,1.0466,0.1,2026-11-10T00:52:11+00:00
+2026-11-10T00:52:21+00:00,hoole v ryan,True,Casey Hoole,kalshi,0.94,Sam Ziegann,polyus,0.04,0.9866,0.0,0.0,0,0.0,0.97,0.07,1.0466,0.1,2026-11-10T00:52:11+00:00
+2026-11-10T00:52:41+00:00,chidekh v latak,True,Clement Chidekh,kalshi,0.88,Marcel Latak,polyus,0.1,0.9936,0.0,0.0,0,0.0,0.91,0.13,1.0536,0.1,2026-11-10T00:52:41+00:00
+2026-11-10T00:52:51+00:00,chidekh v latak,True,Clement Chidekh,kalshi,0.88,Marcel Latak,polyus,0.1,0.9936,0.0,7829.26,0,0.0,0.91,0.1,1.022,0.1,2026-11-10T00:52:41+00:00
+2026-11-10T00:53:31+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.37,Lautaro Midon,kalshi,0.59,0.9931,0.0,0.0,0,0.0,0.43,0.65,1.113,0.1,2026-11-10T00:53:31+00:00
+2026-11-10T00:53:41+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.37,Lautaro Midon,kalshi,0.59,0.9931,0.0,0.0,0,0.0,0.43,0.65,1.113,0.1,2026-11-10T00:53:31+00:00
+2026-11-10T00:53:51+00:00,chidekh v latak,True,Clement Chidekh,polyus,0.83,Marcel Latak,kalshi,0.12,0.9672,6272.0,0.0,0,0.0,0.83,0.17,1.0197,0.1,2026-11-10T00:53:51+00:00
+2026-11-10T00:54:01+00:00,chidekh v latak,True,Clement Chidekh,polyus,0.83,Marcel Latak,kalshi,0.12,0.9672,6272.0,0.0,0,0.0,0.83,0.17,1.0197,0.1,2026-11-10T00:53:51+00:00
+2026-11-10T00:54:11+00:00,chidekh v latak,True,Clement Chidekh,polyus,0.84,Marcel Latak,kalshi,0.12,0.9767,17719.940000000002,0.0,0,0.0,0.83,0.17,1.0197,0.1,2026-11-10T00:53:51+00:00
+2026-11-10T00:54:21+00:00,broska v emil,True,Carl Emil Overbeck,kalshi,0.88,Florian Broska,polyus,0.1,0.9936,0.0,0.0,0,0.0,0.91,0.13,1.0536,0.1,2026-11-10T00:54:21+00:00
+2026-11-10T00:54:21+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.29,Lautaro Midon,kalshi,0.68,0.9995,0.0,0.0,0,0.0,0.32,0.7,1.0498,0.1,2026-11-10T00:54:21+00:00
+2026-11-10T00:54:31+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.29,Lautaro Midon,kalshi,0.68,0.9995,0.0,0.0,0,0.0,0.32,0.79,1.1367,0.1,2026-11-10T00:54:21+00:00
+2026-11-10T00:54:41+00:00,cordova v midon,True,Arklon Del Pino,polyus,0.29,Lautaro Midon,kalshi,0.68,0.9995,0.0,0.0,0,0.0,0.32,0.84,1.1845,0.1,2026-11-10T00:54:21+00:00
+2026-11-10T00:56:41+00:00,chidekh v latak,True,Clement Chidekh,kalshi,0.83,Marcel Latak,polyus,0.15,0.9987,0.0,0.0,0,0.0,0.86,0.18,1.0587,0.1,2026-11-10T00:56:41+00:00
+2026-11-10T00:56:51+00:00,chidekh v latak,True,Clement Chidekh,kalshi,0.83,Marcel Latak,polyus,0.15,0.9987,0.0,15357.56,0,0.0,0.86,0.15,1.0273,0.1,2026-11-10T00:56:41+00:00
+2026-11-10T00:57:01+00:00,chidekh v latak,True,Clement Chidekh,kalshi,0.83,Marcel Latak,polyus,0.14,0.9882,0.0,0.0,0,0.0,0.89,0.15,1.0557,0.1,2026-11-10T00:56:41+00:00
+2026-11-10T00:57:21+00:00,chidekh v latak,True,Clement Chidekh,kalshi,0.86,Marcel Latak,polyus,0.11,0.9852,0.0,9907.3,0,0.0,0.9,0.11,1.0231,0.2,2026-11-10T00:57:21+00:00
+2026-11-10T00:57:31+00:00,chidekh v latak,True,Clement Chidekh,kalshi,0.86,Marcel Latak,polyus,0.11,0.9852,0.0,9907.3,0,0.0,0.9,0.11,1.0231,0.1,2026-11-10T00:57:21+00:00
+2026-11-10T00:58:01+00:00,broska v emil,True,Carl Overbeck,polyus,0.83,Florian Broska,kalshi,0.15,0.9987,31464.02,0.0,0,0.0,0.83,0.18,1.0301,0.1,2026-11-10T00:58:01+00:00
+2026-11-10T00:58:21+00:00,broska v emil,True,Carl Overbeck,polyus,0.79,Florian Broska,kalshi,0.18,0.9919,0.0,0.0,0,0.0,0.83,0.21,1.0614,0.1,2026-11-10T00:58:21+00:00
+2026-11-10T00:58:31+00:00,broska v emil,True,Carl Overbeck,polyus,0.79,Florian Broska,kalshi,0.18,0.9919,30970.98,0.0,0,0.0,0.79,0.22,1.0335,0.1,2026-11-10T00:58:21+00:00
