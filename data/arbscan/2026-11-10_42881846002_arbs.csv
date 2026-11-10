@@ -160,3 +160,89 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-10T20:36:05+00:00,batalla v magadan,True,Alan Magadan,polyus,0.82,Oriol Roca Batalla,kalshi,0.16,0.9997,0.0,0.0,0,0.0,0.84,0.2,1.0605,0.0,2026-11-10T20:35:55+00:00
 2026-11-10T20:36:15+00:00,alves v samson,True,Carolina M. Alves,polyus,0.14,Laura Samson,kalshi,0.84,0.9978,25938.12,0.0,0,0.0,0.14,0.87,1.0263,0.1,2026-11-10T20:35:35+00:00
 2026-11-10T20:36:35+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.81,Oriol Roca Batalla,polyus,0.13,0.9586,0.0,0.0,0,0.0,0.88,0.2,1.0985,0.0,2026-11-10T20:36:35+00:00
+2026-11-10T20:36:45+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.81,Oriol Roca Batalla,polyus,0.13,0.9586,0.0,32027.34,0,0.0,0.88,0.13,1.0253,0.0,2026-11-10T20:36:35+00:00
+2026-11-10T20:36:55+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.81,Oriol Roca Batalla,polyus,0.13,0.9586,0.0,32027.34,0,0.0,0.88,0.13,1.0253,0.0,2026-11-10T20:36:35+00:00
+2026-11-10T20:37:05+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.81,Oriol Roca Batalla,polyus,0.13,0.9586,0.0,32027.34,0,0.0,0.88,0.13,1.0253,0.0,2026-11-10T20:36:35+00:00
+2026-11-10T20:37:25+00:00,batalla v magadan,True,Alan Magadan,polyus,0.81,Oriol Roca Batalla,kalshi,0.13,0.9586,0.0,0.0,0,0.0,0.88,0.2,1.0985,0.0,2026-11-10T20:37:25+00:00
+2026-11-10T20:37:35+00:00,batalla v magadan,True,Alan Magadan,polyus,0.8,Oriol Roca Batalla,kalshi,0.13,0.949,0.0,0.0,0,0.0,0.88,0.21,1.109,0.0,2026-11-10T20:37:25+00:00
+2026-11-10T20:37:55+00:00,kostyuk v pegula,True,Jessica Pegula,polyus,0.71,Marta Kostyuk,kalshi,0.26,0.9978,0.0,0.0,0,0.0,0.74,0.3,1.0681,0.0,2026-11-10T20:37:55+00:00
+2026-11-10T20:39:05+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.17,Michael Mmoh,kalshi,0.8,0.991,0.0,0.0,0,0.0,0.2,0.84,1.0605,0.0,2026-11-10T20:39:05+00:00
+2026-11-10T20:39:05+00:00,alves v samson,True,Carolina Alves,kalshi,0.14,Laura Samson,polyus,0.84,0.9978,0.0,0.0,0,0.0,0.17,0.87,1.0577,0.0,2026-11-10T20:39:05+00:00
+2026-11-10T20:39:15+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.17,Michael Mmoh,kalshi,0.8,0.991,0.0,0.0,0,0.0,0.2,0.84,1.0605,0.0,2026-11-10T20:39:05+00:00
+2026-11-10T20:39:25+00:00,alves v samson,True,Carolina Alves,kalshi,0.17,Laura Samson,polyus,0.8,0.991,0.0,0.0,0,0.0,0.21,0.84,1.071,0.0,2026-11-10T20:39:25+00:00
+2026-11-10T20:39:35+00:00,alves v samson,True,Carolina Alves,kalshi,0.17,Laura Samson,polyus,0.8,0.991,0.0,0.0,0,0.0,0.21,0.84,1.071,0.0,2026-11-10T20:39:25+00:00
+2026-11-10T20:40:05+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.75,Marta Kostyuk,polyus,0.22,0.9951,0.0,0.0,0,0.0,0.78,0.23,1.0343,0.0,2026-11-10T20:40:05+00:00
+2026-11-10T20:40:05+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.13,Michael Mmoh,kalshi,0.85,0.9968,0.0,0.0,0,0.0,0.16,0.87,1.0473,0.0,2026-11-10T20:40:05+00:00
+2026-11-10T20:40:15+00:00,kostyuk v pegula,True,Jessica Pegula,kalshi,0.75,Marta Kostyuk,polyus,0.22,0.9951,0.0,58275.65,0,0.0,0.79,0.22,1.0335,0.1,2026-11-10T20:40:05+00:00
+2026-11-10T20:40:15+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.13,Michael Mmoh,kalshi,0.85,0.9968,0.0,0.0,0,0.0,0.16,0.88,1.0567,0.0,2026-11-10T20:40:05+00:00
+2026-11-10T20:40:25+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.13,Michael Mmoh,kalshi,0.85,0.9968,7304.01,0.0,0,0.0,0.13,0.88,1.0253,0.1,2026-11-10T20:40:05+00:00
+2026-11-10T20:40:35+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.13,Michael Mmoh,kalshi,0.85,0.9968,7304.01,0.0,0,0.0,0.13,0.88,1.0253,0.0,2026-11-10T20:40:05+00:00
+2026-11-10T20:41:45+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.11,Michael Mmoh,kalshi,0.86,0.9852,0.0,0.0,0,0.0,0.17,0.9,1.0861,0.0,2026-11-10T20:41:45+00:00
+2026-11-10T20:41:45+00:00,alves v samson,True,Carolina Alves,kalshi,0.24,Laura Samson,polyus,0.72,0.9868,0.0,21581.94,0,0.0,0.29,0.72,1.0384,0.1,2026-11-10T20:41:45+00:00
+2026-11-10T20:41:55+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.11,Michael Mmoh,kalshi,0.86,0.9852,8348.92,0.0,0,0.0,0.11,0.9,1.0231,0.1,2026-11-10T20:41:45+00:00
+2026-11-10T20:42:05+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.11,Michael Mmoh,kalshi,0.86,0.9852,8348.92,0.0,0,0.0,0.11,0.9,1.0231,0.0,2026-11-10T20:41:45+00:00
+2026-11-10T20:44:15+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.75,Oriol Roca Batalla,polyus,0.19,0.9638,0.0,0.0,0,0.0,0.83,0.2,1.051,0.0,2026-11-10T20:44:15+00:00
+2026-11-10T20:44:15+00:00,grenier v jacquet,True,Hugo Grenier,polyus,0.05,Kyrian Jacquet,kalshi,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.96,1.0372,0.1,2026-11-10T20:44:15+00:00
+2026-11-10T20:45:15+00:00,batalla v magadan,True,Alan Magadan,polyus,0.76,Oriol Roca Batalla,kalshi,0.13,0.9106,14572.56,0.0,0,0.0,0.76,0.25,1.0358,0.1,2026-11-10T20:45:15+00:00
+2026-11-10T20:45:45+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.44,Marco Cecchinato,polyus,0.51,0.9846,0.0,0.0,0,0.0,0.5,0.57,1.1045,0.0,2026-11-10T20:45:45+00:00
+2026-11-10T20:45:55+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.44,Marco Cecchinato,polyus,0.51,0.9846,0.0,0.0,0,0.0,0.5,0.57,1.1045,0.0,2026-11-10T20:45:45+00:00
+2026-11-10T20:45:55+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.14,Michael Mmoh,polyus,0.84,0.9978,0.0,0.0,0,0.0,0.17,0.88,1.0672,0.0,2026-11-10T20:45:55+00:00
+2026-11-10T20:46:05+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.44,Marco Cecchinato,polyus,0.51,0.9846,0.0,2320.08,0,0.0,0.5,0.51,1.0449,0.1,2026-11-10T20:45:45+00:00
+2026-11-10T20:46:05+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.14,Michael Mmoh,polyus,0.84,0.9978,0.0,10057.18,0,0.0,0.18,0.84,1.0397,0.0,2026-11-10T20:45:55+00:00
+2026-11-10T20:46:15+00:00,batalla v magadan,True,Alan Magadan,polyus,0.59,Oriol Roca Batalla,kalshi,0.24,0.8596,0.0,0.0,0,0.0,0.77,0.42,1.2194,0.1,2026-11-10T20:46:15+00:00
+2026-11-10T20:46:25+00:00,batalla v magadan,True,Alan Magadan,polyus,0.58,Oriol Roca Batalla,kalshi,0.24,0.8497,0.0,0.0,0,0.0,0.77,0.43,1.2295,0.0,2026-11-10T20:46:15+00:00
+2026-11-10T20:46:35+00:00,batalla v magadan,True,Alan Magadan,polyus,0.58,Oriol Roca Batalla,kalshi,0.24,0.8497,0.0,0.0,0,0.0,0.77,0.43,1.2295,0.0,2026-11-10T20:46:15+00:00
+2026-11-10T20:46:35+00:00,grenier v jacquet,True,Hugo Grenier,polyus,0.04,Kyrian Jacquet,kalshi,0.95,0.996,0.0,0.0,0,0.0,0.06,0.96,1.0266,0.1,2026-11-10T20:46:35+00:00
+2026-11-10T20:46:45+00:00,grenier v jacquet,True,Hugo Grenier,polyus,0.04,Kyrian Jacquet,kalshi,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.0,2026-11-10T20:46:35+00:00
+2026-11-10T20:46:45+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.7,Ozan Baris,kalshi,0.27,0.9984,0.0,0.0,0,0.0,0.74,0.31,1.0783,0.1,2026-11-10T20:46:45+00:00
+2026-11-10T20:46:55+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.58,Oriol Roca Batalla,polyus,0.25,0.8601,0.0,0.0,0,0.0,0.76,0.44,1.2299,0.1,2026-11-10T20:46:55+00:00
+2026-11-10T20:46:55+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.14,Michael Mmoh,kalshi,0.84,0.9978,0.0,0.0,0,0.0,0.17,0.88,1.0672,0.1,2026-11-10T20:46:55+00:00
+2026-11-10T20:46:55+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.7,Ozan Baris,kalshi,0.27,0.9984,0.0,0.0,0,0.0,0.74,0.31,1.0783,0.0,2026-11-10T20:46:45+00:00
+2026-11-10T20:47:05+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.58,Oriol Roca Batalla,polyus,0.25,0.8601,0.0,0.0,0,0.0,0.76,0.44,1.2299,0.0,2026-11-10T20:46:55+00:00
+2026-11-10T20:47:05+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.13,Michael Mmoh,kalshi,0.84,0.9873,2626.0,0.0,0,0.0,0.13,0.88,1.0253,0.0,2026-11-10T20:46:55+00:00
+2026-11-10T20:47:05+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.7,Ozan Baris,kalshi,0.27,0.9984,0.0,0.0,0,0.0,0.74,0.31,1.0783,0.0,2026-11-10T20:46:45+00:00
+2026-11-10T20:47:15+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.7,Ozan Baris,polyus,0.26,0.9881,0.0,0.0,0,0.0,0.75,0.31,1.088,0.1,2026-11-10T20:47:15+00:00
+2026-11-10T20:47:25+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.76,Oriol Roca Batalla,polyus,0.11,0.8896,0.0,0.0,0,0.0,0.9,0.26,1.1797,0.0,2026-11-10T20:47:25+00:00
+2026-11-10T20:47:25+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.46,Marco Cecchinato,polyus,0.47,0.9647,0.0,0.0,0,0.0,0.54,0.55,1.1246,0.0,2026-11-10T20:47:25+00:00
+2026-11-10T20:47:25+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.7,Ozan Baris,polyus,0.26,0.9881,0.0,0.0,0,0.0,0.75,0.31,1.088,0.0,2026-11-10T20:47:15+00:00
+2026-11-10T20:47:25+00:00,grenier v jacquet,True,Hugo Grenier,kalshi,0.05,Kyrian Jacquet,polyus,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.96,1.0372,0.0,2026-11-10T20:47:25+00:00
+2026-11-10T20:47:35+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.76,Oriol Roca Batalla,polyus,0.12,0.9001,0.0,0.0,0,0.0,0.88,0.26,1.1608,0.0,2026-11-10T20:47:25+00:00
+2026-11-10T20:47:35+00:00,cecchinato v comesana,True,Francisco Comesana,kalshi,0.46,Marco Cecchinato,polyus,0.47,0.9647,0.0,2570.95,0,0.0,0.54,0.47,1.0447,0.1,2026-11-10T20:47:25+00:00
+2026-11-10T20:47:35+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.7,Ozan Baris,polyus,0.26,0.9881,0.0,0.0,0,0.0,0.75,0.31,1.088,0.0,2026-11-10T20:47:15+00:00
+2026-11-10T20:47:35+00:00,grenier v jacquet,True,Hugo Grenier,kalshi,0.05,Kyrian Jacquet,polyus,0.94,0.9972,0.0,6234.31,0,0.0,0.07,0.94,1.0185,0.1,2026-11-10T20:47:25+00:00
+2026-11-10T20:47:45+00:00,alves v samson,True,Carolina Alves,kalshi,0.31,Laura Samson,polyus,0.65,0.9908,0.0,0.0,0,0.0,0.36,0.7,1.0907,0.0,2026-11-10T20:47:45+00:00
+2026-11-10T20:47:55+00:00,alves v samson,True,Carolina Alves,kalshi,0.31,Laura Samson,polyus,0.64,0.981,0.0,0.0,0,0.0,0.37,0.65,1.0521,0.1,2026-11-10T20:47:45+00:00
+2026-11-10T20:47:55+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.7,Ozan Baris,kalshi,0.26,0.9881,0.0,0.0,0,0.0,0.75,0.31,1.088,0.0,2026-11-10T20:47:55+00:00
+2026-11-10T20:47:55+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.14,Michael Mmoh,polyus,0.84,0.9978,0.0,0.0,0,0.0,0.17,0.88,1.0672,0.0,2026-11-10T20:47:55+00:00
+2026-11-10T20:48:05+00:00,batalla v magadan,True,Alan Magadan,polyus,0.74,Oriol Roca Batalla,kalshi,0.12,0.8808,0.0,0.0,0,0.0,0.87,0.27,1.1617,0.0,2026-11-10T20:48:05+00:00
+2026-11-10T20:48:05+00:00,alves v samson,True,Carolina Alves,kalshi,0.31,Laura Samson,polyus,0.64,0.981,0.0,0.0,0,0.0,0.37,0.65,1.0521,0.0,2026-11-10T20:47:45+00:00
+2026-11-10T20:48:05+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.7,Ozan Baris,kalshi,0.26,0.9881,0.0,0.0,0,0.0,0.75,0.31,1.088,0.0,2026-11-10T20:47:55+00:00
+2026-11-10T20:48:05+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.14,Michael Mmoh,polyus,0.84,0.9978,0.0,5865.01,0,0.0,0.17,0.84,1.0292,0.0,2026-11-10T20:47:55+00:00
+2026-11-10T20:48:15+00:00,alves v samson,True,Carolina Alves,kalshi,0.37,Laura Samson,polyus,0.58,0.9832,0.0,0.0,0,0.0,0.43,0.65,1.113,0.0,2026-11-10T20:47:45+00:00
+2026-11-10T20:48:25+00:00,alves v samson,True,Carolina Alves,kalshi,0.37,Laura Samson,polyus,0.58,0.9832,0.0,34439.57,0,0.0,0.43,0.58,1.0441,0.0,2026-11-10T20:47:45+00:00
+2026-11-10T20:48:25+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.7,Ozan Baris,polyus,0.27,0.9984,0.0,0.0,0,0.0,0.74,0.31,1.0783,0.0,2026-11-10T20:48:25+00:00
+2026-11-10T20:48:35+00:00,alves v samson,True,Carolina Alves,kalshi,0.37,Laura Samson,polyus,0.58,0.9832,0.0,34439.57,0,0.0,0.44,0.58,1.0542,0.0,2026-11-10T20:47:45+00:00
+2026-11-10T20:48:35+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.14,Michael Mmoh,kalshi,0.84,0.9978,13531.9,0.0,0,0.0,0.14,0.88,1.0358,0.1,2026-11-10T20:48:35+00:00
+2026-11-10T20:48:35+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.7,Ozan Baris,polyus,0.27,0.9984,0.0,0.0,0,0.0,0.74,0.31,1.0783,0.1,2026-11-10T20:48:25+00:00
+2026-11-10T20:48:45+00:00,alves v samson,True,Carolina M. Alves,polyus,0.37,Laura Samson,kalshi,0.58,0.9833,0.0,0.0,0,0.0,0.43,0.64,1.1032,0.0,2026-11-10T20:48:45+00:00
+2026-11-10T20:48:55+00:00,batalla v magadan,True,Alan Magadan,polyus,0.66,Oriol Roca Batalla,kalshi,0.28,0.9697,0.0,0.0,0,0.0,0.7,0.46,1.192,0.0,2026-11-10T20:48:55+00:00
+2026-11-10T20:48:55+00:00,alves v samson,True,Carolina M. Alves,polyus,0.37,Laura Samson,kalshi,0.58,0.9833,21340.58,0.0,0,0.0,0.37,0.64,1.0423,0.0,2026-11-10T20:48:45+00:00
+2026-11-10T20:49:05+00:00,batalla v magadan,True,Alan Magadan,polyus,0.56,Oriol Roca Batalla,kalshi,0.28,0.8712,0.0,0.0,0,0.0,0.7,0.45,1.1819,0.0,2026-11-10T20:48:55+00:00
+2026-11-10T20:49:05+00:00,alves v samson,True,Carolina M. Alves,polyus,0.37,Laura Samson,kalshi,0.58,0.9833,21340.58,0.0,0,0.0,0.37,0.64,1.0423,0.0,2026-11-10T20:48:45+00:00
+2026-11-10T20:49:05+00:00,mayo v mmoh,True,Aidan Mayo,kalshi,0.13,Michael Mmoh,polyus,0.84,0.9873,0.0,0.0,0,0.0,0.17,0.88,1.0672,0.1,2026-11-10T20:49:05+00:00
+2026-11-10T20:49:35+00:00,blanch v topo,True,Dali Blanch,kalshi,0.56,Marko Topo,polyus,0.39,0.9838,0.0,0.0,0,0.0,0.62,0.44,1.0936,0.0,2026-11-10T20:49:35+00:00
+2026-11-10T20:49:35+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.55,Oriol Roca Batalla,polyus,0.41,0.9941,0.0,0.0,0,0.0,0.69,0.43,1.152,0.0,2026-11-10T20:49:35+00:00
+2026-11-10T20:49:45+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.55,Oriol Roca Batalla,polyus,0.26,0.8407,0.0,33767.76,0,0.0,0.75,0.26,1.0365,0.1,2026-11-10T20:49:35+00:00
+2026-11-10T20:49:45+00:00,blanch v topo,True,Dali Blanch,kalshi,0.56,Marko Topo,polyus,0.39,0.9838,0.0,0.0,0,0.0,0.62,0.44,1.0936,0.0,2026-11-10T20:49:35+00:00
+2026-11-10T20:49:45+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.14,Michael Mmoh,kalshi,0.84,0.9978,0.0,0.0,0,0.0,0.18,0.87,1.0682,0.0,2026-11-10T20:49:45+00:00
+2026-11-10T20:49:55+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.14,Michael Mmoh,kalshi,0.84,0.9978,0.0,0.0,0,0.0,0.18,0.87,1.0682,0.1,2026-11-10T20:49:45+00:00
+2026-11-10T20:50:05+00:00,blanch v topo,True,Dali Blanch,polyus,0.57,Marko ToPo,kalshi,0.39,0.9937,0.0,0.0,0,0.0,0.62,0.43,1.0835,0.0,2026-11-10T20:50:05+00:00
+2026-11-10T20:50:05+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.14,Michael Mmoh,kalshi,0.84,0.9978,38665.38,0.0,0,0.0,0.14,0.87,1.0263,0.0,2026-11-10T20:49:45+00:00
+2026-11-10T20:50:15+00:00,alves v samson,True,Carolina M. Alves,polyus,0.26,Laura Samson,kalshi,0.7,0.9881,0.0,0.0,0,0.0,0.31,0.75,1.088,0.0,2026-11-10T20:50:15+00:00
+2026-11-10T20:50:15+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.14,Michael Mmoh,kalshi,0.84,0.9978,38665.38,0.0,0,0.0,0.14,0.87,1.0263,0.0,2026-11-10T20:49:45+00:00
+2026-11-10T20:50:25+00:00,blanch v topo,True,Dali Blanch,polyus,0.53,Marko ToPo,kalshi,0.43,0.9945,0.0,0.0,0,0.0,0.61,0.48,1.124,0.1,2026-11-10T20:50:25+00:00
+2026-11-10T20:50:35+00:00,blanch v topo,True,Dali Blanch,polyus,0.53,Marko ToPo,kalshi,0.43,0.9945,0.0,0.0,0,0.0,0.61,0.47,1.114,0.0,2026-11-10T20:50:25+00:00
+2026-11-10T20:51:15+00:00,alves v samson,True,Carolina M. Alves,polyus,0.22,Laura Samson,kalshi,0.75,0.9951,0.0,0.0,0,0.0,0.26,0.79,1.075,0.1,2026-11-10T20:51:15+00:00
+2026-11-10T20:51:25+00:00,batalla v magadan,True,Alan Magadan,polyus,0.55,Oriol Roca Batalla,kalshi,0.31,0.8922,0.0,0.0,0,0.0,0.73,0.44,1.2009,0.0,2026-11-10T20:51:25+00:00
+2026-11-10T20:51:35+00:00,batalla v magadan,True,Alan Magadan,polyus,0.59,Oriol Roca Batalla,kalshi,0.31,0.9318,0.0,0.0,0,0.0,0.73,0.42,1.1808,0.0,2026-11-10T20:51:25+00:00
+2026-11-10T20:51:45+00:00,batalla v magadan,True,Alan Magadan,polyus,0.59,Oriol Roca Batalla,kalshi,0.31,0.9318,12006.77,0.0,0,0.0,0.59,0.42,1.0439,0.0,2026-11-10T20:51:25+00:00
