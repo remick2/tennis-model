@@ -1,0 +1,105 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-10T20:06:25+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.82,Rebeka Masarova,polyus,0.13,0.9682,0.0,32923.69,0,0.0,0.88,0.13,1.0253,0.1,2026-11-10T20:06:25+00:00
+2026-11-10T20:06:25+00:00,garcia v scott,True,Andrea Lazaro Garcia,kalshi,0.85,Katrina Scott,polyus,0.11,0.9757,0.0,0.0,0,0.0,0.9,0.2,1.1174,0.1,2026-11-10T20:06:25+00:00
+2026-11-10T20:06:25+00:00,alves v samson,False,Carolina Alves,kalshi,0.31,Laura Samson,polyus,0.64,0.981,0.0,0.0,0,0.0,0.37,0.69,1.0912,0.0,2026-11-10T20:06:25+00:00
+2026-11-10T20:06:55+00:00,garcia v scott,True,Andrea Lazaro Garcia,polyus,0.85,Katrina Scott,kalshi,0.11,0.9757,18834.57,0.0,0,0.0,0.85,0.16,1.0283,0.0,2026-11-10T20:06:55+00:00
+2026-11-10T20:06:55+00:00,grenier v jacquet,True,Hugo Grenier,kalshi,0.28,Kyrian Jacquet,polyus,0.68,0.9892,0.0,0.0,0,0.0,0.33,0.73,1.0892,0.1,2026-11-10T20:06:55+00:00
+2026-11-10T20:07:05+00:00,garcia v scott,True,Andrea Lazaro Garcia,polyus,0.85,Katrina Scott,kalshi,0.11,0.9757,18834.57,0.0,0,0.0,0.85,0.17,1.0387,0.0,2026-11-10T20:06:55+00:00
+2026-11-10T20:07:05+00:00,grenier v jacquet,True,Hugo Grenier,kalshi,0.28,Kyrian Jacquet,polyus,0.68,0.9892,0.0,0.0,0,0.0,0.33,0.73,1.0892,0.0,2026-11-10T20:06:55+00:00
+2026-11-10T20:07:15+00:00,debru v malige,True,Gabriel Debru,polyus,0.22,Mae Malige,kalshi,0.66,0.9076,0.0,0.0,0,0.0,0.35,0.79,1.1674,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:15+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.81,Rebeka Masarova,kalshi,0.14,0.9691,0.0,0.0,0,0.0,0.86,0.2,1.0796,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:15+00:00,garcia v scott,True,Andrea Lazaro Garcia,kalshi,0.9,Katrina Scott,polyus,0.07,0.9808,0.0,0.0,0,0.0,0.94,0.16,1.1133,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:15+00:00,grenier v jacquet,True,Hugo Grenier,kalshi,0.28,Kyrian Jacquet,polyus,0.68,0.9892,0.0,0.0,0,0.0,0.33,0.73,1.0892,0.0,2026-11-10T20:06:55+00:00
+2026-11-10T20:07:25+00:00,debru v malige,True,Gabriel Debru,polyus,0.22,Mae Malige,kalshi,0.66,0.9076,20382.07,0.0,0,0.0,0.22,0.79,1.0335,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:25+00:00,garcia v scott,True,Andrea Lazaro Garcia,kalshi,0.84,Katrina Scott,polyus,0.07,0.9239,0.0,6557.26,0,0.0,0.94,0.07,1.0185,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:25+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.42,Marco Cecchinato,kalshi,0.48,0.9344,0.0,0.0,0,0.0,0.51,0.59,1.1343,0.1,2026-11-10T20:07:25+00:00
+2026-11-10T20:07:25+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.8,Rebeka Masarova,kalshi,0.16,0.9805,55902.53,0.0,0,0.0,0.8,0.21,1.0327,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:35+00:00,debru v malige,True,Gabriel Debru,polyus,0.22,Mae Malige,kalshi,0.66,0.9076,20382.07,0.0,0,0.0,0.22,0.79,1.0335,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:35+00:00,garcia v scott,True,Andrea Lazaro Garcia,kalshi,0.84,Katrina Scott,polyus,0.07,0.9239,0.0,6557.26,0,0.0,0.95,0.07,1.0278,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:35+00:00,cecchinato v comesana,True,Francisco Comesana,polyus,0.42,Marco Cecchinato,kalshi,0.48,0.9344,0.0,0.0,0,0.0,0.51,0.59,1.1343,0.0,2026-11-10T20:07:25+00:00
+2026-11-10T20:07:35+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.79,Rebeka Masarova,kalshi,0.16,0.9709,0.0,0.0,0,0.0,0.8,0.22,1.0431,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:45+00:00,garcia v scott,True,Andrea Lazaro Garcia,kalshi,0.84,Katrina Scott,polyus,0.07,0.9239,0.0,6557.26,0,0.0,0.95,0.07,1.0278,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:45+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.8,Rebeka Masarova,kalshi,0.16,0.9805,55902.53,0.0,0,0.0,0.8,0.23,1.0535,0.0,2026-11-10T20:07:15+00:00
+2026-11-10T20:07:55+00:00,debru v malige,True,Gabriel Debru,kalshi,0.22,Mae Malige,polyus,0.65,0.8978,0.0,30072.36,0,0.0,0.36,0.65,1.0419,0.1,2026-11-10T20:07:55+00:00
+2026-11-10T20:07:55+00:00,grenier v jacquet,True,Hugo Grenier,polyus,0.25,Kyrian Jacquet,kalshi,0.72,0.9971,0.0,0.0,0,0.0,0.27,0.76,1.0565,0.1,2026-11-10T20:07:55+00:00
+2026-11-10T20:08:05+00:00,debru v malige,True,Gabriel Debru,kalshi,0.22,Mae Malige,polyus,0.65,0.8978,0.0,30072.36,0,0.0,0.36,0.65,1.0419,0.0,2026-11-10T20:07:55+00:00
+2026-11-10T20:08:05+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.67,Rebeka Masarova,kalshi,0.22,0.9174,0.0,0.0,0,0.0,0.8,0.33,1.1566,0.0,2026-11-10T20:08:05+00:00
+2026-11-10T20:08:05+00:00,grenier v jacquet,True,Hugo Grenier,polyus,0.24,Kyrian Jacquet,kalshi,0.72,0.9868,0.0,0.0,0,0.0,0.27,0.77,1.0661,0.0,2026-11-10T20:07:55+00:00
+2026-11-10T20:08:15+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.67,Rebeka Masarova,kalshi,0.22,0.9174,0.0,0.0,0,0.0,0.8,0.33,1.1566,0.0,2026-11-10T20:08:05+00:00
+2026-11-10T20:08:25+00:00,debru v malige,True,Gabriel Debru,polyus,0.16,Mae Malige,kalshi,0.65,0.8353,61062.48,0.0,0,0.0,0.16,0.85,1.0283,0.1,2026-11-10T20:08:25+00:00
+2026-11-10T20:08:35+00:00,debru v malige,True,Gabriel Debru,polyus,0.16,Mae Malige,kalshi,0.65,0.8353,61062.48,0.0,0,0.0,0.16,0.85,1.0283,0.1,2026-11-10T20:08:25+00:00
+2026-11-10T20:08:35+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.62,Rebeka Masarova,kalshi,0.33,0.9819,0.0,0.0,0,0.0,0.67,0.37,1.0717,0.1,2026-11-10T20:08:35+00:00
+2026-11-10T20:08:55+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.65,Rebeka Masarova,polyus,0.23,0.9082,0.0,40747.9,0,0.0,0.78,0.23,1.0343,0.1,2026-11-10T20:08:55+00:00
+2026-11-10T20:08:55+00:00,debru v malige,True,Gabriel Debru,kalshi,0.16,Mae Malige,polyus,0.81,0.9901,0.0,0.0,0,0.0,0.2,0.88,1.0985,0.1,2026-11-10T20:08:55+00:00
+2026-11-10T20:09:05+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.65,Rebeka Masarova,polyus,0.23,0.9082,0.0,40747.9,0,0.0,0.78,0.23,1.0343,0.0,2026-11-10T20:08:55+00:00
+2026-11-10T20:09:05+00:00,blanch v topo,True,Dali Blanch,polyus,0.75,Marko ToPo,kalshi,0.2,0.9742,11513.16,0.0,0,0.0,0.75,0.26,1.0365,0.1,2026-11-10T20:09:05+00:00
+2026-11-10T20:09:15+00:00,debru v malige,True,Gabriel Debru,kalshi,0.2,Mae Malige,polyus,0.65,0.877,0.0,0.0,0,0.0,0.37,0.88,1.2737,0.0,2026-11-10T20:09:15+00:00
+2026-11-10T20:09:15+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.65,Rebeka Masarova,polyus,0.23,0.9082,0.0,40747.9,0,0.0,0.78,0.23,1.0343,0.0,2026-11-10T20:08:55+00:00
+2026-11-10T20:09:15+00:00,blanch v topo,True,Dali Blanch,polyus,0.75,Marko ToPo,kalshi,0.22,0.995,11513.16,0.0,0,0.0,0.75,0.26,1.0365,0.0,2026-11-10T20:09:05+00:00
+2026-11-10T20:09:25+00:00,debru v malige,True,Gabriel Debru,kalshi,0.2,Mae Malige,polyus,0.64,0.8672,0.0,17142.45,0,0.0,0.37,0.64,1.0423,0.1,2026-11-10T20:09:15+00:00
+2026-11-10T20:09:25+00:00,blanch v topo,True,Dali Blanch,polyus,0.75,Marko ToPo,kalshi,0.22,0.995,11513.16,0.0,0,0.0,0.75,0.27,1.0468,0.0,2026-11-10T20:09:05+00:00
+2026-11-10T20:09:35+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.78,Rebeka Masarova,polyus,0.15,0.9509,0.0,0.0,0,0.0,0.86,0.32,1.2036,0.1,2026-11-10T20:09:35+00:00
+2026-11-10T20:09:35+00:00,debru v malige,True,Gabriel Debru,kalshi,0.2,Mae Malige,polyus,0.76,0.9839,0.0,104708.06,0,0.0,0.23,0.64,0.8984,0.0,2026-11-10T20:09:15+00:00
+2026-11-10T20:09:35+00:00,blanch v topo,True,Dali Blanch,polyus,0.75,Marko ToPo,kalshi,0.22,0.995,0.01,0.0,0,0.0,0.75,0.28,1.0571,0.1,2026-11-10T20:09:05+00:00
+2026-11-10T20:09:45+00:00,debru v malige,True,Gabriel Debru,polyus,0.22,Mae Malige,kalshi,0.63,0.8782,0.0,0.0,0,0.0,0.37,0.79,1.1878,0.0,2026-11-10T20:09:45+00:00
+2026-11-10T20:09:45+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.78,Rebeka Masarova,polyus,0.15,0.9509,0.0,0.0,0,0.0,0.86,0.32,1.2036,0.0,2026-11-10T20:09:35+00:00
+2026-11-10T20:09:45+00:00,blanch v topo,True,Dali Blanch,polyus,0.68,Marko ToPo,kalshi,0.27,0.9789,0.0,0.0,0,0.0,0.75,0.33,1.1085,0.0,2026-11-10T20:09:05+00:00
+2026-11-10T20:09:55+00:00,debru v malige,True,Gabriel Debru,polyus,0.22,Mae Malige,kalshi,0.63,0.8782,27667.87,0.0,0,0.0,0.22,0.79,1.0335,0.1,2026-11-10T20:09:45+00:00
+2026-11-10T20:09:55+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.78,Rebeka Masarova,polyus,0.15,0.9509,0.0,4313.28,0,0.0,0.86,0.15,1.0273,0.1,2026-11-10T20:09:35+00:00
+2026-11-10T20:09:55+00:00,blanch v topo,True,Dali Blanch,polyus,0.68,Marko ToPo,kalshi,0.27,0.9789,0.0,0.0,0,0.0,0.75,0.33,1.1085,0.0,2026-11-10T20:09:05+00:00
+2026-11-10T20:10:05+00:00,debru v malige,True,Gabriel Debru,polyus,0.22,Mae Malige,kalshi,0.63,0.8782,27667.87,0.0,0,0.0,0.22,0.84,1.0813,0.0,2026-11-10T20:09:45+00:00
+2026-11-10T20:10:05+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.86,Rebeka Masarova,polyus,0.1,0.9747,0.0,0.0,0,0.0,0.91,0.15,1.0746,0.1,2026-11-10T20:09:35+00:00
+2026-11-10T20:10:05+00:00,blanch v topo,True,Dali Blanch,polyus,0.68,Marko ToPo,kalshi,0.27,0.9789,17948.85,0.0,0,0.0,0.68,0.33,1.0406,0.1,2026-11-10T20:09:05+00:00
+2026-11-10T20:10:15+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.86,Rebeka Masarova,polyus,0.1,0.9747,0.0,0.0,0,0.0,0.91,0.15,1.0746,0.0,2026-11-10T20:09:35+00:00
+2026-11-10T20:10:25+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.86,Rebeka Masarova,polyus,0.1,0.9747,0.0,45843.54,0,0.0,0.91,0.1,1.022,0.1,2026-11-10T20:09:35+00:00
+2026-11-10T20:12:15+00:00,blanch v topo,True,Dali Blanch,kalshi,0.68,Marko Topo,polyus,0.29,0.9995,0.0,0.0,0,0.0,0.71,0.32,1.0595,0.0,2026-11-10T20:12:15+00:00
+2026-11-10T20:12:25+00:00,blanch v topo,True,Dali Blanch,kalshi,0.68,Marko Topo,polyus,0.29,0.9995,0.0,0.0,0,0.0,0.72,0.32,1.0692,0.0,2026-11-10T20:12:15+00:00
+2026-11-10T20:12:55+00:00,blanch v topo,True,Dali Blanch,kalshi,0.72,Marko Topo,polyus,0.25,0.9971,0.0,0.0,0,0.0,0.76,0.3,1.0874,0.0,2026-11-10T20:12:55+00:00
+2026-11-10T20:13:05+00:00,blanch v topo,True,Dali Blanch,kalshi,0.72,Marko Topo,polyus,0.25,0.9971,0.0,30112.33,0,0.0,0.76,0.25,1.0358,0.1,2026-11-10T20:12:55+00:00
+2026-11-10T20:14:05+00:00,blanch v topo,True,Dali Blanch,polyus,0.68,Marko ToPo,kalshi,0.28,0.9892,4310.19,0.0,0,0.0,0.68,0.32,1.0304,0.1,2026-11-10T20:14:05+00:00
+2026-11-10T20:14:15+00:00,blanch v topo,True,Dali Blanch,polyus,0.68,Marko ToPo,kalshi,0.28,0.9892,4310.19,0.0,0,0.0,0.68,0.32,1.0304,0.0,2026-11-10T20:14:05+00:00
+2026-11-10T20:14:25+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.46,Oriol Roca Batalla,polyus,0.47,0.9647,0.0,0.0,0,0.0,0.54,0.55,1.1246,0.0,2026-11-10T20:14:25+00:00
+2026-11-10T20:14:35+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.46,Oriol Roca Batalla,polyus,0.47,0.9647,0.0,19675.25,0,0.0,0.54,0.47,1.0447,0.0,2026-11-10T20:14:25+00:00
+2026-11-10T20:14:45+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.46,Oriol Roca Batalla,polyus,0.47,0.9647,0.0,19675.25,0,0.0,0.55,0.47,1.0546,0.0,2026-11-10T20:14:25+00:00
+2026-11-10T20:14:45+00:00,grenier v jacquet,True,Hugo Grenier,polyus,0.11,Kyrian Jacquet,kalshi,0.84,0.9662,0.0,0.0,0,0.0,0.16,0.9,1.0756,0.0,2026-11-10T20:14:45+00:00
+2026-11-10T20:14:55+00:00,grenier v jacquet,True,Hugo Grenier,polyus,0.11,Kyrian Jacquet,kalshi,0.86,0.9852,24475.72,0.0,0,0.0,0.11,0.9,1.0231,0.0,2026-11-10T20:14:45+00:00
+2026-11-10T20:15:05+00:00,batalla v magadan,True,Alan Magadan,polyus,0.49,Oriol Roca Batalla,kalshi,0.46,0.9848,26718.67,0.0,0,0.0,0.49,0.52,1.0448,0.1,2026-11-10T20:15:05+00:00
+2026-11-10T20:15:05+00:00,grenier v jacquet,True,Hugo Grenier,polyus,0.11,Kyrian Jacquet,kalshi,0.86,0.9852,24475.72,0.0,0,0.0,0.11,0.9,1.0231,0.0,2026-11-10T20:14:45+00:00
+2026-11-10T20:15:15+00:00,batalla v magadan,True,Alan Magadan,polyus,0.48,Oriol Roca Batalla,kalshi,0.46,0.9747,0.0,0.0,0,0.0,0.49,0.53,1.0548,0.0,2026-11-10T20:15:05+00:00
+2026-11-10T20:15:15+00:00,grenier v jacquet,True,Hugo Grenier,polyus,0.11,Kyrian Jacquet,kalshi,0.86,0.9852,24475.72,0.0,0,0.0,0.11,0.9,1.0231,0.0,2026-11-10T20:14:45+00:00
+2026-11-10T20:15:15+00:00,alves v samson,False,Carolina M. Alves,polyus,0.31,Laura Samson,kalshi,0.65,0.9908,0.0,0.0,0,0.0,0.32,0.7,1.0498,0.1,2026-11-10T20:15:15+00:00
+2026-11-10T20:15:35+00:00,alves v samson,False,Carolina Alves,kalshi,0.31,Laura Samson,polyus,0.65,0.9908,0.0,0.0,0,0.0,0.36,0.69,1.081,0.0,2026-11-10T20:15:35+00:00
+2026-11-10T20:15:45+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.48,Oriol Roca Batalla,polyus,0.42,0.9344,0.0,0.0,0,0.0,0.6,0.53,1.1641,0.0,2026-11-10T20:15:45+00:00
+2026-11-10T20:15:45+00:00,alves v samson,False,Carolina Alves,kalshi,0.31,Laura Samson,polyus,0.65,0.9908,0.0,21633.48,0,0.0,0.38,0.65,1.0623,0.0,2026-11-10T20:15:35+00:00
+2026-11-10T20:16:15+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.6,Oriol Roca Batalla,polyus,0.28,0.9108,0.0,0.0,0,0.0,0.72,0.45,1.2013,0.0,2026-11-10T20:16:15+00:00
+2026-11-10T20:16:35+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.86,Rebeka Masarova,polyus,0.09,0.9641,0.0,45562.96,0,0.0,0.92,0.09,1.0208,0.0,2026-11-10T20:16:35+00:00
+2026-11-10T20:16:45+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.86,Rebeka Masarova,polyus,0.09,0.9641,0.0,45562.96,0,0.0,0.92,0.09,1.0208,0.0,2026-11-10T20:16:35+00:00
+2026-11-10T20:17:15+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.92,Rebeka Masarova,polyus,0.06,0.9891,0.0,0.0,0,0.0,0.94,0.09,1.0396,0.0,2026-11-10T20:17:15+00:00
+2026-11-10T20:17:25+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.86,Rebeka Masarova,kalshi,0.1,0.9747,0.0,0.0,0,0.0,0.92,0.15,1.084,0.0,2026-11-10T20:17:25+00:00
+2026-11-10T20:17:35+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.86,Rebeka Masarova,kalshi,0.1,0.9747,77744.54,0.0,0,0.0,0.86,0.15,1.0273,0.0,2026-11-10T20:17:25+00:00
+2026-11-10T20:17:55+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.72,Oriol Roca Batalla,polyus,0.24,0.9868,0.0,0.0,0,0.0,0.77,0.29,1.0867,0.0,2026-11-10T20:17:55+00:00
+2026-11-10T20:17:55+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.83,Rebeka Masarova,kalshi,0.15,0.9987,0.0,0.0,0,0.0,0.86,0.17,1.0482,0.0,2026-11-10T20:17:55+00:00
+2026-11-10T20:18:05+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.76,Rebeka Masarova,kalshi,0.15,0.9316,0.0,0.0,0,0.0,0.83,0.25,1.1029,0.0,2026-11-10T20:17:55+00:00
+2026-11-10T20:18:05+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.5,Michael Mmoh,kalshi,0.45,0.9847,0.0,0.0,0,0.0,0.57,0.51,1.1145,0.0,2026-11-10T20:18:05+00:00
+2026-11-10T20:18:05+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.72,Oriol Roca Batalla,polyus,0.24,0.9868,0.0,4344.62,0,0.0,0.77,0.24,1.0351,0.1,2026-11-10T20:17:55+00:00
+2026-11-10T20:18:15+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.75,Rebeka Masarova,kalshi,0.17,0.9429,0.0,0.0,0,0.0,0.83,0.26,1.1133,0.0,2026-11-10T20:17:55+00:00
+2026-11-10T20:18:25+00:00,andreescu v masarova,True,Bianca Andreescu,polyus,0.75,Rebeka Masarova,kalshi,0.17,0.9429,0.0,0.0,0,0.0,0.83,0.26,1.1133,0.0,2026-11-10T20:17:55+00:00
+2026-11-10T20:18:35+00:00,batalla v magadan,True,Alan Magadan,polyus,0.72,Oriol Roca Batalla,kalshi,0.24,0.9868,23686.27,0.0,0,0.0,0.72,0.3,1.0487,0.1,2026-11-10T20:18:35+00:00
+2026-11-10T20:18:45+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.41,Michael Mmoh,kalshi,0.52,0.9643,0.0,0.0,0,0.0,0.5,0.6,1.1342,0.0,2026-11-10T20:18:45+00:00
+2026-11-10T20:18:55+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.41,Michael Mmoh,kalshi,0.52,0.9643,17605.05,0.0,0,0.0,0.41,0.6,1.0436,0.0,2026-11-10T20:18:45+00:00
+2026-11-10T20:19:05+00:00,mayo v mmoh,True,Aidan Mayo,polyus,0.41,Michael Mmoh,kalshi,0.52,0.9643,17605.05,0.0,0,0.0,0.41,0.6,1.0436,0.0,2026-11-10T20:18:45+00:00
+2026-11-10T20:19:15+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.84,Rebeka Masarova,polyus,0.07,0.9239,0.0,0.0,0,0.0,0.94,0.17,1.1238,0.1,2026-11-10T20:19:15+00:00
+2026-11-10T20:19:15+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.71,Oriol Roca Batalla,polyus,0.25,0.9874,0.0,0.0,0,0.0,0.76,0.3,1.0874,0.1,2026-11-10T20:19:15+00:00
+2026-11-10T20:19:25+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.84,Rebeka Masarova,polyus,0.07,0.9239,0.0,0.0,0,0.0,0.94,0.17,1.1238,0.0,2026-11-10T20:19:15+00:00
+2026-11-10T20:19:25+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.71,Oriol Roca Batalla,polyus,0.25,0.9874,0.0,0.0,0,0.0,0.76,0.3,1.0874,0.0,2026-11-10T20:19:15+00:00
+2026-11-10T20:19:35+00:00,andreescu v masarova,True,Bianca Andreescu,kalshi,0.84,Rebeka Masarova,polyus,0.07,0.9239,0.0,50575.97,0,0.0,0.95,0.07,1.0278,0.0,2026-11-10T20:19:15+00:00
+2026-11-10T20:19:35+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.71,Oriol Roca Batalla,polyus,0.25,0.9874,0.0,19136.69,0,0.0,0.76,0.25,1.0358,0.1,2026-11-10T20:19:15+00:00
+2026-11-10T20:19:45+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.76,Oriol Roca Batalla,polyus,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.25,1.0742,0.0,2026-11-10T20:19:15+00:00
+2026-11-10T20:19:55+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.76,Oriol Roca Batalla,polyus,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.25,1.0742,0.0,2026-11-10T20:19:15+00:00
+2026-11-10T20:20:05+00:00,batalla v magadan,True,Alan Magadan,kalshi,0.76,Oriol Roca Batalla,polyus,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.25,1.0742,0.0,2026-11-10T20:19:15+00:00
+2026-11-10T20:20:15+00:00,batalla v magadan,True,Alan Magadan,polyus,0.76,Oriol Roca Batalla,kalshi,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.24,1.0639,0.0,2026-11-10T20:20:15+00:00
+2026-11-10T20:20:25+00:00,batalla v magadan,True,Alan Magadan,polyus,0.76,Oriol Roca Batalla,kalshi,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.24,1.0639,0.0,2026-11-10T20:20:15+00:00
+2026-11-10T20:20:35+00:00,batalla v magadan,True,Alan Magadan,polyus,0.76,Oriol Roca Batalla,kalshi,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.25,1.0742,0.0,2026-11-10T20:20:15+00:00
+2026-11-10T20:20:55+00:00,batalla v magadan,True,Alan Magadan,polyus,0.68,Oriol Roca Batalla,kalshi,0.25,0.9582,0.0,0.0,0,0.0,0.76,0.33,1.1182,0.0,2026-11-10T20:20:55+00:00
+2026-11-10T20:21:05+00:00,batalla v magadan,True,Alan Magadan,polyus,0.68,Oriol Roca Batalla,kalshi,0.25,0.9582,0.0,0.0,0,0.0,0.76,0.33,1.1182,0.0,2026-11-10T20:20:55+00:00
+2026-11-10T20:21:15+00:00,batalla v magadan,True,Alan Magadan,polyus,0.68,Oriol Roca Batalla,kalshi,0.25,0.9582,25446.49,0.0,0,0.0,0.68,0.33,1.0406,0.1,2026-11-10T20:20:55+00:00

@@ -1,0 +1,43 @@
+key,legs,first_seen,closed_by,kind,minutes,min_minutes
+andreescu v masarova,Bianca Andreescu@kalshi + Rebeka Masarova@polyus,2026-11-10T20:06:25+00:00,2026-11-10T20:06:35+00:00,any,0.2,0.0
+garcia v scott,Andrea Lazaro Garcia@kalshi + Katrina Scott@polyus,2026-11-10T20:06:25+00:00,2026-11-10T20:06:35+00:00,any,0.2,0.0
+alves v samson,Carolina Alves@kalshi + Laura Samson@polyus,2026-11-10T20:06:25+00:00,2026-11-10T20:06:35+00:00,any,0.2,0.0
+garcia v scott,Andrea Lazaro Garcia@polyus + Katrina Scott@kalshi,2026-11-10T20:06:55+00:00,2026-11-10T20:07:15+00:00,any,0.3,0.2
+grenier v jacquet,Hugo Grenier@kalshi + Kyrian Jacquet@polyus,2026-11-10T20:06:55+00:00,2026-11-10T20:07:25+00:00,any,0.5,0.3
+debru v malige,Gabriel Debru@polyus + Mae Malige@kalshi,2026-11-10T20:07:15+00:00,2026-11-10T20:07:45+00:00,any,0.5,0.3
+cecchinato v comesana,Francisco Comesana@polyus + Marco Cecchinato@kalshi,2026-11-10T20:07:25+00:00,2026-11-10T20:07:45+00:00,any,0.3,0.2
+andreescu v masarova,Bianca Andreescu@polyus + Rebeka Masarova@kalshi,2026-11-10T20:07:15+00:00,2026-11-10T20:07:55+00:00,any,0.7,0.5
+garcia v scott,Andrea Lazaro Garcia@kalshi + Katrina Scott@polyus,2026-11-10T20:07:15+00:00,2026-11-10T20:07:55+00:00,any,0.7,0.5
+debru v malige,Gabriel Debru@kalshi + Mae Malige@polyus,2026-11-10T20:07:55+00:00,2026-11-10T20:08:15+00:00,any,0.3,0.2
+grenier v jacquet,Hugo Grenier@polyus + Kyrian Jacquet@kalshi,2026-11-10T20:07:55+00:00,2026-11-10T20:08:15+00:00,any,0.3,0.2
+andreescu v masarova,Bianca Andreescu@polyus + Rebeka Masarova@kalshi,2026-11-10T20:08:05+00:00,2026-11-10T20:08:25+00:00,any,0.3,0.2
+debru v malige,Gabriel Debru@polyus + Mae Malige@kalshi,2026-11-10T20:08:25+00:00,2026-11-10T20:08:45+00:00,any,0.3,0.2
+andreescu v masarova,Bianca Andreescu@polyus + Rebeka Masarova@kalshi,2026-11-10T20:08:35+00:00,2026-11-10T20:08:45+00:00,any,0.2,0.0
+debru v malige,Gabriel Debru@kalshi + Mae Malige@polyus,2026-11-10T20:08:55+00:00,2026-11-10T20:09:05+00:00,any,0.2,0.0
+andreescu v masarova,Bianca Andreescu@kalshi + Rebeka Masarova@polyus,2026-11-10T20:08:55+00:00,2026-11-10T20:09:25+00:00,any,0.5,0.3
+debru v malige,Gabriel Debru@kalshi + Mae Malige@polyus,2026-11-10T20:09:15+00:00,2026-11-10T20:09:45+00:00,any,0.5,0.3
+blanch v topo,Dali Blanch@polyus + Marko ToPo@kalshi,2026-11-10T20:09:05+00:00,2026-11-10T20:10:15+00:00,any,1.2,1.0
+debru v malige,Gabriel Debru@polyus + Mae Malige@kalshi,2026-11-10T20:09:45+00:00,2026-11-10T20:10:15+00:00,any,0.5,0.3
+andreescu v masarova,Bianca Andreescu@kalshi + Rebeka Masarova@polyus,2026-11-10T20:09:35+00:00,2026-11-10T20:10:35+00:00,any,1.0,0.8
+blanch v topo,Dali Blanch@kalshi + Marko Topo@polyus,2026-11-10T20:12:15+00:00,2026-11-10T20:12:35+00:00,any,0.3,0.2
+blanch v topo,Dali Blanch@kalshi + Marko Topo@polyus,2026-11-10T20:12:55+00:00,2026-11-10T20:13:15+00:00,any,0.3,0.2
+blanch v topo,Dali Blanch@polyus + Marko ToPo@kalshi,2026-11-10T20:14:05+00:00,2026-11-10T20:14:25+00:00,any,0.3,0.2
+batalla v magadan,Alan Magadan@kalshi + Oriol Roca Batalla@polyus,2026-11-10T20:14:25+00:00,2026-11-10T20:14:55+00:00,any,0.5,0.3
+grenier v jacquet,Hugo Grenier@polyus + Kyrian Jacquet@kalshi,2026-11-10T20:14:45+00:00,2026-11-10T20:15:25+00:00,any,0.7,0.5
+batalla v magadan,Alan Magadan@polyus + Oriol Roca Batalla@kalshi,2026-11-10T20:15:05+00:00,2026-11-10T20:15:25+00:00,any,0.3,0.2
+alves v samson,Carolina M. Alves@polyus + Laura Samson@kalshi,2026-11-10T20:15:15+00:00,2026-11-10T20:15:25+00:00,any,0.2,0.0
+alves v samson,Carolina Alves@kalshi + Laura Samson@polyus,2026-11-10T20:15:35+00:00,2026-11-10T20:15:55+00:00,any,0.3,0.2
+batalla v magadan,Alan Magadan@kalshi + Oriol Roca Batalla@polyus,2026-11-10T20:15:45+00:00,2026-11-10T20:15:55+00:00,any,0.2,0.0
+batalla v magadan,Alan Magadan@kalshi + Oriol Roca Batalla@polyus,2026-11-10T20:16:15+00:00,2026-11-10T20:16:25+00:00,any,0.2,0.0
+andreescu v masarova,Bianca Andreescu@kalshi + Rebeka Masarova@polyus,2026-11-10T20:16:35+00:00,2026-11-10T20:16:55+00:00,any,0.3,0.2
+andreescu v masarova,Bianca Andreescu@kalshi + Rebeka Masarova@polyus,2026-11-10T20:17:15+00:00,2026-11-10T20:17:25+00:00,any,0.2,0.0
+andreescu v masarova,Bianca Andreescu@polyus + Rebeka Masarova@kalshi,2026-11-10T20:17:25+00:00,2026-11-10T20:17:45+00:00,any,0.3,0.2
+batalla v magadan,Alan Magadan@kalshi + Oriol Roca Batalla@polyus,2026-11-10T20:17:55+00:00,2026-11-10T20:18:15+00:00,any,0.3,0.2
+mayo v mmoh,Aidan Mayo@polyus + Michael Mmoh@kalshi,2026-11-10T20:18:05+00:00,2026-11-10T20:18:15+00:00,any,0.2,0.0
+andreescu v masarova,Bianca Andreescu@polyus + Rebeka Masarova@kalshi,2026-11-10T20:17:55+00:00,2026-11-10T20:18:35+00:00,any,0.7,0.5
+batalla v magadan,Alan Magadan@polyus + Oriol Roca Batalla@kalshi,2026-11-10T20:18:35+00:00,2026-11-10T20:18:45+00:00,any,0.2,0.0
+mayo v mmoh,Aidan Mayo@polyus + Michael Mmoh@kalshi,2026-11-10T20:18:45+00:00,2026-11-10T20:19:15+00:00,any,0.5,0.3
+andreescu v masarova,Bianca Andreescu@kalshi + Rebeka Masarova@polyus,2026-11-10T20:19:15+00:00,2026-11-10T20:19:45+00:00,any,0.5,0.3
+batalla v magadan,Alan Magadan@kalshi + Oriol Roca Batalla@polyus,2026-11-10T20:19:15+00:00,2026-11-10T20:20:15+00:00,any,1.0,0.8
+batalla v magadan,Alan Magadan@polyus + Oriol Roca Batalla@kalshi,2026-11-10T20:20:15+00:00,2026-11-10T20:20:45+00:00,any,0.5,0.3
+batalla v magadan,Alan Magadan@polyus + Oriol Roca Batalla@kalshi,2026-11-10T20:20:55+00:00,2026-11-10T20:21:25+00:00,any,0.5,0.3
