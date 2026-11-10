@@ -933,3 +933,62 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-10T22:37:16+00:00,hussey v zheng,True,Giles Hussey,polyus,0.52,Michael Zheng,kalshi,0.44,0.9946,0.0,0.0,0,0.0,0.57,0.49,1.0945,0.1,2026-11-10T22:37:16+00:00
 2026-11-10T22:37:26+00:00,hussey v zheng,True,Giles Hussey,polyus,0.52,Michael Zheng,kalshi,0.44,0.9946,0.0,0.0,0,0.0,0.57,0.5,1.1045,0.0,2026-11-10T22:37:16+00:00
 2026-11-10T22:37:36+00:00,kolar v lucas,True,Joao Lucas Reis Da Silva,kalshi,0.94,Zdenek Kolar,polyus,0.05,0.9972,0.0,0.0,0,0.0,0.96,0.07,1.0372,0.1,2026-11-10T22:37:36+00:00
+2026-11-10T22:38:36+00:00,kolar v lucas,True,Joao Lucas Reis Da Silva,kalshi,0.96,Zdenek Kolar,polyus,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.0,2026-11-10T22:38:36+00:00
+2026-11-10T22:39:26+00:00,arias v carle,True,Maria Carle,kalshi,0.92,Valentina Mediorreal,polyus,0.07,0.9997,0.0,0.0,0,0.0,0.93,0.08,1.0197,0.0,2026-11-10T22:39:26+00:00
+2026-11-10T22:39:36+00:00,alves v samson,True,Carolina M. Alves,polyus,0.3,Laura Samson,kalshi,0.66,0.9903,0.0,0.0,0,0.0,0.35,0.71,1.0902,0.1,2026-11-10T22:39:36+00:00
+2026-11-10T22:39:36+00:00,arias v carle,True,Maria Carle,kalshi,0.92,Valentina Mediorreal,polyus,0.07,0.9997,0.0,0.0,0,0.0,0.94,0.08,1.0291,0.0,2026-11-10T22:39:26+00:00
+2026-11-10T22:39:46+00:00,alves v samson,True,Carolina M. Alves,polyus,0.3,Laura Samson,kalshi,0.66,0.9903,0.0,0.0,0,0.0,0.35,0.71,1.0902,0.0,2026-11-10T22:39:36+00:00
+2026-11-10T22:40:16+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.92,Valentina Mediorreal Arias,kalshi,0.07,0.9997,0.0,0.0,0,0.0,0.93,0.09,1.0303,0.1,2026-11-10T22:40:16+00:00
+2026-11-10T22:40:36+00:00,alves v samson,True,Carolina M. Alves,polyus,0.28,Laura Samson,kalshi,0.69,0.999,0.0,0.0,0,0.0,0.33,0.74,1.0988,0.1,2026-11-10T22:40:36+00:00
+2026-11-10T22:40:46+00:00,alves v samson,True,Carolina M. Alves,polyus,0.27,Laura Samson,kalshi,0.69,0.9887,0.0,0.0,0,0.0,0.33,0.74,1.0988,0.0,2026-11-10T22:40:36+00:00
+2026-11-10T22:40:56+00:00,alves v samson,True,Carolina M. Alves,polyus,0.24,Laura Samson,kalshi,0.69,0.9576,828.0,0.0,0,0.0,0.24,0.77,1.0351,0.1,2026-11-10T22:40:36+00:00
+2026-11-10T22:41:36+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.56,Michael Zheng,polyus,0.39,0.9838,0.0,0.0,0,0.0,0.62,0.42,1.0734,0.1,2026-11-10T22:41:36+00:00
+2026-11-10T22:41:46+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.85,Valentina Mediorreal Arias,kalshi,0.13,0.9968,0.0,0.0,0,0.0,0.9,0.16,1.0757,0.0,2026-11-10T22:41:46+00:00
+2026-11-10T22:41:56+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.84,Valentina Mediorreal Arias,kalshi,0.13,0.9873,0.0,0.0,0,0.0,0.85,0.17,1.0387,0.0,2026-11-10T22:41:46+00:00
+2026-11-10T22:42:36+00:00,arias v carle,True,Maria Carle,kalshi,0.83,Valentina Mediorreal,polyus,0.12,0.9672,0.0,0.0,0,0.0,0.89,0.17,1.0767,0.1,2026-11-10T22:42:36+00:00
+2026-11-10T22:42:46+00:00,arias v carle,True,Maria Carle,kalshi,0.83,Valentina Mediorreal,polyus,0.12,0.9672,0.0,0.0,0,0.0,0.89,0.17,1.0767,0.0,2026-11-10T22:42:36+00:00
+2026-11-10T22:42:46+00:00,alves v samson,True,Carolina M. Alves,polyus,0.17,Laura Samson,kalshi,0.8,0.991,0.0,0.0,0,0.0,0.21,0.84,1.0709,0.1,2026-11-10T22:42:46+00:00
+2026-11-10T22:42:56+00:00,arias v carle,True,Maria Carle,kalshi,0.83,Valentina Mediorreal,polyus,0.12,0.9672,0.0,29023.43,0,0.0,0.89,0.12,1.0242,0.1,2026-11-10T22:42:36+00:00
+2026-11-10T22:43:16+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.85,Valentina Mediorreal Arias,kalshi,0.12,0.9863,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.0,2026-11-10T22:43:16+00:00
+2026-11-10T22:43:26+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.85,Valentina Mediorreal Arias,kalshi,0.12,0.9863,27793.78,0.0,0,0.0,0.85,0.16,1.0283,0.0,2026-11-10T22:43:16+00:00
+2026-11-10T22:43:56+00:00,arias v carle,True,Maria Carle,kalshi,0.85,Valentina Mediorreal,polyus,0.12,0.9863,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.1,2026-11-10T22:43:56+00:00
+2026-11-10T22:44:36+00:00,kolar v lucas,True,Joao Lucas Reis Da Silva,kalshi,0.97,Zdenek Kolar,polyus,0.02,0.9934,0.0,0.0,0,0.0,0.99,0.03,1.0227,0.0,2026-11-10T22:44:36+00:00
+2026-11-10T22:44:46+00:00,arias v carle,True,Maria Carle,kalshi,0.89,Valentina Mediorreal,polyus,0.09,0.9925,0.0,0.0,0,0.0,0.92,0.13,1.063,0.1,2026-11-10T22:44:46+00:00
+2026-11-10T22:44:46+00:00,kolar v lucas,True,Joao Lucas Reis Da Silva,kalshi,0.97,Zdenek Kolar,polyus,0.02,0.9934,0.0,2836.0,0,0.0,0.99,0.02,1.0121,0.1,2026-11-10T22:44:36+00:00
+2026-11-10T22:45:26+00:00,hussey v zheng,True,Giles Hussey,polyus,0.6,Michael Zheng,kalshi,0.36,0.9928,0.0,0.0,0,0.0,0.63,0.41,1.0731,0.1,2026-11-10T22:45:26+00:00
+2026-11-10T22:45:36+00:00,hussey v zheng,True,Giles Hussey,polyus,0.6,Michael Zheng,kalshi,0.36,0.9928,30829.45,0.0,0,0.0,0.6,0.41,1.0436,0.1,2026-11-10T22:45:26+00:00
+2026-11-10T22:45:46+00:00,hussey v zheng,True,Giles Hussey,polyus,0.6,Michael Zheng,kalshi,0.36,0.9928,30829.45,0.0,0,0.0,0.6,0.41,1.0436,0.0,2026-11-10T22:45:26+00:00
+2026-11-10T22:45:56+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.89,Valentina Mediorreal Arias,kalshi,0.09,0.9925,0.0,0.0,0,0.0,0.92,0.12,1.0525,0.0,2026-11-10T22:45:56+00:00
+2026-11-10T22:46:06+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.88,Valentina Mediorreal Arias,kalshi,0.09,0.9831,0.0,0.0,0,0.0,0.92,0.13,1.063,0.0,2026-11-10T22:45:56+00:00
+2026-11-10T22:46:16+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.87,Valentina Mediorreal Arias,kalshi,0.09,0.9736,0.0,0.0,0,0.0,0.92,0.14,1.0735,0.0,2026-11-10T22:45:56+00:00
+2026-11-10T22:46:26+00:00,galarneau v kozlov,True,Alexis Galarneau,polyus,0.29,Stefan Kozlov,kalshi,0.68,0.9995,0.0,0.0,0,0.0,0.33,0.72,1.0795,0.1,2026-11-10T22:46:26+00:00
+2026-11-10T22:46:36+00:00,arias v carle,True,Maria Carle,kalshi,0.88,Valentina Mediorreal,polyus,0.09,0.9831,0.0,0.0,0,0.0,0.92,0.14,1.0735,0.1,2026-11-10T22:46:36+00:00
+2026-11-10T22:46:36+00:00,galarneau v kozlov,True,Alexis Galarneau,polyus,0.29,Stefan Kozlov,kalshi,0.68,0.9995,0.0,0.0,0,0.0,0.33,0.72,1.0795,0.0,2026-11-10T22:46:26+00:00
+2026-11-10T22:46:46+00:00,arias v carle,True,Maria Carle,kalshi,0.88,Valentina Mediorreal,polyus,0.09,0.9831,0.0,0.0,0,0.0,0.92,0.14,1.0735,0.0,2026-11-10T22:46:36+00:00
+2026-11-10T22:46:56+00:00,arias v carle,True,Maria Carle,kalshi,0.88,Valentina Mediorreal,polyus,0.09,0.9831,0.0,56037.52,0,0.0,0.92,0.09,1.0208,0.0,2026-11-10T22:46:36+00:00
+2026-11-10T22:46:56+00:00,gauff v noskova,True,Coco Gauff,polyus,0.45,Linda Noskova,kalshi,0.51,0.9947,43919.03,0.0,0,0.0,0.45,0.56,1.0444,0.1,2026-11-10T22:46:56+00:00
+2026-11-10T22:46:56+00:00,alves v samson,True,Carolina M. Alves,polyus,0.06,Laura Samson,kalshi,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.95,1.0384,0.0,2026-11-10T22:46:56+00:00
+2026-11-10T22:47:06+00:00,arias v carle,True,Maria Carle,kalshi,0.92,Valentina Mediorreal,polyus,0.07,0.9997,0.0,0.0,0,0.0,0.94,0.09,1.0396,0.1,2026-11-10T22:46:36+00:00
+2026-11-10T22:47:16+00:00,arias v carle,True,Maria Carle,kalshi,0.92,Valentina Mediorreal,polyus,0.07,0.9997,0.0,0.0,0,0.0,0.94,0.09,1.0396,0.0,2026-11-10T22:46:36+00:00
+2026-11-10T22:47:26+00:00,arias v carle,True,Maria Carle,kalshi,0.92,Valentina Mediorreal,polyus,0.07,0.9997,0.0,74852.52,0,0.0,0.94,0.07,1.0185,0.1,2026-11-10T22:46:36+00:00
+2026-11-10T22:47:46+00:00,arias v carle,True,Maria Carle,kalshi,0.94,Valentina Mediorreal,polyus,0.05,0.9972,0.0,0.0,0,0.0,0.96,0.07,1.0372,0.0,2026-11-10T22:47:46+00:00
+2026-11-10T22:47:56+00:00,alves v samson,True,Carolina M. Alves,polyus,0.03,Laura Samson,kalshi,0.96,0.9947,0.0,0.0,0,0.0,0.05,0.98,1.0347,0.0,2026-11-10T22:47:56+00:00
+2026-11-10T22:47:56+00:00,arias v carle,True,Maria Carle,kalshi,0.94,Valentina Mediorreal,polyus,0.05,0.9972,0.0,59110.5,0,0.0,0.96,0.05,1.016,0.1,2026-11-10T22:47:46+00:00
+2026-11-10T22:48:06+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.59,Michael Zheng,polyus,0.37,0.9931,0.0,0.0,0,0.0,0.63,0.41,1.0731,0.1,2026-11-10T22:48:06+00:00
+2026-11-10T22:48:26+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.94,Valentina Mediorreal Arias,kalshi,0.05,0.9972,0.0,0.0,0,0.0,0.95,0.07,1.0279,0.0,2026-11-10T22:48:26+00:00
+2026-11-10T22:48:56+00:00,arias v carle,True,Maria Carle,kalshi,0.93,Valentina Mediorreal,polyus,0.06,0.9985,0.0,41978.57,0,0.0,0.95,0.06,1.0172,0.1,2026-11-10T22:48:56+00:00
+2026-11-10T22:49:06+00:00,arias v carle,True,Maria Carle,kalshi,0.93,Valentina Mediorreal,polyus,0.06,0.9985,0.0,41978.57,0,0.0,0.95,0.06,1.0172,0.0,2026-11-10T22:48:56+00:00
+2026-11-10T22:49:16+00:00,arias v carle,True,Maria Carle,kalshi,0.93,Valentina Mediorreal,polyus,0.06,0.9985,0.0,41978.57,0,0.0,0.95,0.06,1.0172,0.0,2026-11-10T22:48:56+00:00
+2026-11-10T22:49:36+00:00,arias v carle,True,Maria Carle,kalshi,0.95,Valentina Mediorreal,polyus,0.04,0.996,0.0,0.0,0,0.0,0.97,0.06,1.036,0.1,2026-11-10T22:49:36+00:00
+2026-11-10T22:49:46+00:00,alves v samson,True,Carolina Alves,kalshi,0.02,Laura Samson,polyus,0.97,0.9934,0.0,0.0,0,0.0,0.04,0.98,1.0241,0.0,2026-11-10T22:49:46+00:00
+2026-11-10T22:49:46+00:00,arias v carle,True,Maria Carle,kalshi,0.95,Valentina Mediorreal,polyus,0.04,0.996,0.0,0.0,0,0.0,0.97,0.06,1.036,0.0,2026-11-10T22:49:36+00:00
+2026-11-10T22:50:06+00:00,galarneau v kozlov,True,Alexis Galarneau,kalshi,0.26,Stefan Kozlov,polyus,0.7,0.9881,0.0,0.0,0,0.0,0.31,0.75,1.088,0.0,2026-11-10T22:50:06+00:00
+2026-11-10T22:50:16+00:00,galarneau v kozlov,True,Alexis Galarneau,kalshi,0.26,Stefan Kozlov,polyus,0.7,0.9881,0.0,17994.21,0,0.0,0.31,0.7,1.0396,0.0,2026-11-10T22:50:06+00:00
+2026-11-10T22:50:16+00:00,alves v samson,True,Carolina Alves,kalshi,0.04,Laura Samson,polyus,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.1,2026-11-10T22:50:16+00:00
+2026-11-10T22:50:46+00:00,galarneau v kozlov,True,Alexis Galarneau,kalshi,0.31,Stefan Kozlov,polyus,0.64,0.981,0.0,0.0,0,0.0,0.38,0.69,1.1014,0.1,2026-11-10T22:50:46+00:00
+2026-11-10T22:50:46+00:00,arias v carle,True,Maria Carle,kalshi,0.96,Valentina Mediorreal,polyus,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.0,2026-11-10T22:50:46+00:00
+2026-11-10T22:51:06+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.95,Valentina Mediorreal Arias,kalshi,0.03,0.9853,0.0,0.0,0,0.0,0.98,0.06,1.0453,0.1,2026-11-10T22:51:06+00:00
+2026-11-10T22:51:16+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.95,Valentina Mediorreal Arias,kalshi,0.03,0.9853,0.0,0.0,0,0.0,0.98,0.06,1.0453,0.0,2026-11-10T22:51:06+00:00
+2026-11-10T22:52:46+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.95,Valentina Mediorreal Arias,kalshi,0.04,0.996,0.0,0.0,0,0.0,0.97,0.06,1.036,0.1,2026-11-10T22:52:46+00:00
+2026-11-10T22:52:56+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.95,Valentina Mediorreal Arias,kalshi,0.04,0.996,525.01,0.0,0,0.0,0.95,0.06,1.0172,0.1,2026-11-10T22:52:46+00:00
+2026-11-10T22:53:06+00:00,arias v carle,True,Maria Lourdes Carle,polyus,0.93,Valentina Mediorreal Arias,kalshi,0.04,0.9772,0.0,0.0,0,0.0,0.95,0.08,1.0385,0.0,2026-11-10T22:52:46+00:00
