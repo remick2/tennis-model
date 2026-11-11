@@ -150,3 +150,105 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-11T19:18:29+00:00,andreescu v pigossi,True,Bianca Andreescu,polyus,0.91,Laura Pigossi,kalshi,0.06,0.9796,0.0,0.0,0,0.0,0.94,0.1,1.0502,0.1,2026-11-11T19:18:29+00:00
 2026-11-11T19:18:39+00:00,andreescu v pigossi,True,Bianca Andreescu,polyus,0.91,Laura Pigossi,kalshi,0.06,0.9796,0.0,0.0,0,0.0,0.94,0.1,1.0502,0.1,2026-11-11T19:18:29+00:00
 2026-11-11T19:18:49+00:00,andreescu v pigossi,True,Bianca Andreescu,polyus,0.91,Laura Pigossi,kalshi,0.06,0.9796,0.0,0.0,0,0.0,0.94,0.09,1.0397,0.1,2026-11-11T19:18:29+00:00
+2026-11-11T19:19:19+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.28,Marina Bassols Ribera,kalshi,0.66,0.9697,0.0,0.0,0,0.0,0.32,0.73,1.0789,0.1,2026-11-11T19:19:19+00:00
+2026-11-11T19:19:19+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.54,Julia Grabher,kalshi,0.4,0.9741,0.0,0.0,0,0.0,0.6,0.47,1.1041,0.1,2026-11-11T19:19:19+00:00
+2026-11-11T19:19:29+00:00,andreescu v pigossi,True,Bianca Andreescu,kalshi,0.92,Laura Pigossi,polyus,0.07,0.9997,0.0,5150.75,0,0.0,0.95,0.07,1.0278,0.1,2026-11-11T19:19:29+00:00
+2026-11-11T19:19:39+00:00,andreescu v pigossi,True,Bianca Andreescu,kalshi,0.92,Laura Pigossi,polyus,0.06,0.9891,0.0,0.0,0,0.0,0.94,0.07,1.0185,0.1,2026-11-11T19:19:29+00:00
+2026-11-11T19:19:49+00:00,andreescu v pigossi,True,Bianca Andreescu,kalshi,0.92,Laura Pigossi,polyus,0.06,0.9891,0.0,0.0,0,0.0,0.98,0.07,1.0559,0.2,2026-11-11T19:19:29+00:00
+2026-11-11T19:19:59+00:00,piros v tabur,True,Clement Tabur,polyus,0.49,Zsombor Piros,kalshi,0.41,0.9343,0.0,0.0,0,0.0,0.56,0.52,1.1146,0.1,2026-11-11T19:19:59+00:00
+2026-11-11T19:19:59+00:00,andreescu v pigossi,True,Bianca Andreescu,kalshi,0.95,Laura Pigossi,polyus,0.03,0.9853,0.0,8388.2,0,0.0,0.98,0.03,1.0134,0.1,2026-11-11T19:19:29+00:00
+2026-11-11T19:20:09+00:00,piros v tabur,True,Clement Tabur,polyus,0.49,Zsombor Piros,kalshi,0.41,0.9343,55957.32,0.0,0,0.0,0.49,0.52,1.0448,0.1,2026-11-11T19:19:59+00:00
+2026-11-11T19:20:09+00:00,andreescu v pigossi,True,Bianca Andreescu,kalshi,0.95,Laura Pigossi,polyus,0.03,0.9853,0.0,8388.2,0,0.0,0.98,0.03,1.0134,0.1,2026-11-11T19:19:29+00:00
+2026-11-11T19:20:19+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.54,Julia Grabher,polyus,0.41,0.9842,0.0,0.0,0,0.0,0.6,0.49,1.1242,0.1,2026-11-11T19:20:19+00:00
+2026-11-11T19:20:19+00:00,andreescu v pigossi,True,Bianca Andreescu,kalshi,0.95,Laura Pigossi,polyus,0.03,0.9853,0.0,8388.2,0,0.0,0.98,0.03,1.0134,0.1,2026-11-11T19:19:29+00:00
+2026-11-11T19:20:39+00:00,piros v tabur,True,Clement Tabur,kalshi,0.49,Zsombor Piros,polyus,0.47,0.9948,0.0,0.0,0,0.0,0.54,0.51,1.0848,0.1,2026-11-11T19:20:39+00:00
+2026-11-11T19:20:49+00:00,piros v tabur,True,Clement Tabur,kalshi,0.49,Zsombor Piros,polyus,0.47,0.9948,0.0,0.0,0,0.0,0.54,0.51,1.0848,0.1,2026-11-11T19:20:39+00:00
+2026-11-11T19:20:59+00:00,piros v tabur,True,Clement Tabur,kalshi,0.49,Zsombor Piros,polyus,0.47,0.9948,0.0,0.0,0,0.0,0.55,0.51,1.0947,0.1,2026-11-11T19:20:39+00:00
+2026-11-11T19:21:09+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.6,Julia Grabher,polyus,0.34,0.9724,0.0,16821.94,0,0.0,0.67,0.34,1.0411,0.2,2026-11-11T19:21:09+00:00
+2026-11-11T19:21:09+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.46,Casper Ruud,polyus,0.48,0.9747,0.0,0.0,0,0.0,0.53,0.53,1.0947,0.1,2026-11-11T19:21:09+00:00
+2026-11-11T19:21:19+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.6,Julia Grabher,polyus,0.34,0.9724,0.0,16821.94,0,0.0,0.67,0.34,1.0411,0.1,2026-11-11T19:21:09+00:00
+2026-11-11T19:21:29+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.6,Julia Grabher,polyus,0.34,0.9724,0.0,16821.94,0,0.0,0.67,0.34,1.0411,0.1,2026-11-11T19:21:09+00:00
+2026-11-11T19:21:29+00:00,piros v tabur,True,Clement Tabur,polyus,0.45,Zsombor Piros,kalshi,0.49,0.9747,0.0,0.0,0,0.0,0.52,0.55,1.1047,0.1,2026-11-11T19:21:29+00:00
+2026-11-11T19:21:39+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.6,Julia Grabher,polyus,0.34,0.9724,0.0,13741.01,0,0.0,0.67,0.34,1.0411,0.2,2026-11-11T19:21:09+00:00
+2026-11-11T19:21:39+00:00,piros v tabur,True,Clement Tabur,polyus,0.45,Zsombor Piros,kalshi,0.49,0.9747,0.01,0.0,0,0.0,0.45,0.56,1.0444,0.1,2026-11-11T19:21:29+00:00
+2026-11-11T19:21:49+00:00,piros v tabur,True,Clement Tabur,polyus,0.31,Zsombor Piros,kalshi,0.49,0.8324,0.0,0.0,0,0.0,0.45,0.7,1.1819,0.1,2026-11-11T19:21:29+00:00
+2026-11-11T19:21:59+00:00,piros v tabur,True,Clement Tabur,polyus,0.31,Zsombor Piros,kalshi,0.58,0.9219,0.0,0.0,0,0.0,0.45,0.7,1.1819,0.1,2026-11-11T19:21:29+00:00
+2026-11-11T19:21:59+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.57,Casper Ruud,polyus,0.37,0.9734,0.0,46137.06,0,0.0,0.64,0.37,1.0423,0.2,2026-11-11T19:21:59+00:00
+2026-11-11T19:22:09+00:00,piros v tabur,True,Clement Tabur,polyus,0.31,Zsombor Piros,kalshi,0.58,0.9219,47580.09,0.0,0,0.0,0.31,0.7,1.0396,0.1,2026-11-11T19:21:29+00:00
+2026-11-11T19:22:09+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.57,Casper Ruud,polyus,0.37,0.9734,0.0,46137.06,0,0.0,0.64,0.37,1.0423,0.1,2026-11-11T19:21:59+00:00
+2026-11-11T19:22:09+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.67,Julia Grabher,polyus,0.29,0.9898,0.0,13509.56,0,0.0,0.72,0.29,1.0384,0.2,2026-11-11T19:22:09+00:00
+2026-11-11T19:22:19+00:00,piros v tabur,True,Clement Tabur,polyus,0.31,Zsombor Piros,kalshi,0.58,0.9219,47580.09,0.0,0,0.0,0.31,0.7,1.0396,0.1,2026-11-11T19:21:29+00:00
+2026-11-11T19:22:19+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.57,Casper Ruud,polyus,0.39,0.9937,0.0,72897.16,0,0.0,0.62,0.37,1.0227,0.1,2026-11-11T19:21:59+00:00
+2026-11-11T19:22:29+00:00,piros v tabur,True,Clement Tabur,polyus,0.31,Zsombor Piros,kalshi,0.58,0.9219,47580.09,0.0,0,0.0,0.31,0.7,1.0396,0.1,2026-11-11T19:21:29+00:00
+2026-11-11T19:22:29+00:00,ruud v shevchenko,True,Alexander Shevchenko,polyus,0.57,Casper Ruud,kalshi,0.39,0.9937,0.0,0.0,0,0.0,0.64,0.45,1.1233,0.1,2026-11-11T19:22:29+00:00
+2026-11-11T19:22:39+00:00,andreescu v pigossi,True,Bianca Andreescu,polyus,0.97,Laura Pigossi,kalshi,0.02,0.9934,0.0,0.0,0,0.0,0.98,0.04,1.0241,0.1,2026-11-11T19:22:39+00:00
+2026-11-11T19:22:39+00:00,ruud v shevchenko,True,Alexander Shevchenko,polyus,0.57,Casper Ruud,kalshi,0.39,0.9937,87926.73,0.0,0,0.0,0.57,0.45,1.0544,0.1,2026-11-11T19:22:29+00:00
+2026-11-11T19:22:49+00:00,ruud v shevchenko,True,Alexander Shevchenko,polyus,0.56,Casper Ruud,kalshi,0.39,0.9838,0.0,0.0,0,0.0,0.57,0.45,1.0544,0.1,2026-11-11T19:22:29+00:00
+2026-11-11T19:23:09+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.67,Julia Grabher,polyus,0.28,0.9795,0.0,0.0,0,0.0,0.74,0.34,1.1091,0.1,2026-11-11T19:23:09+00:00
+2026-11-11T19:23:19+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.56,Casper Ruud,polyus,0.3,0.8918,0.0,0.0,0,0.0,0.71,0.42,1.1613,0.1,2026-11-11T19:23:19+00:00
+2026-11-11T19:23:19+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.67,Julia Grabher,polyus,0.27,0.9692,0.0,0.0,0,0.0,0.74,0.28,1.0475,0.1,2026-11-11T19:23:09+00:00
+2026-11-11T19:23:29+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.56,Casper Ruud,polyus,0.3,0.8918,0.0,0.0,0,0.0,0.71,0.42,1.1613,0.1,2026-11-11T19:23:19+00:00
+2026-11-11T19:23:39+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.69,Julia Grabher,kalshi,0.28,0.999,0.0,0.0,0,0.0,0.73,0.32,1.0789,0.1,2026-11-11T19:23:39+00:00
+2026-11-11T19:23:49+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.71,Casper Ruud,polyus,0.26,0.9978,0.0,0.0,0,0.0,0.76,0.3,1.0874,0.1,2026-11-11T19:23:49+00:00
+2026-11-11T19:23:59+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.71,Casper Ruud,polyus,0.24,0.9771,0.0,0.0,0,0.0,0.82,0.3,1.1449,0.1,2026-11-11T19:23:49+00:00
+2026-11-11T19:24:09+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.76,Casper Ruud,polyus,0.11,0.8896,0.0,0.0,0,0.0,0.9,0.2,1.1174,0.1,2026-11-11T19:23:49+00:00
+2026-11-11T19:24:09+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.61,Julia Grabher,kalshi,0.32,0.9618,0.0,0.0,0,0.0,0.69,0.4,1.1217,0.1,2026-11-11T19:24:09+00:00
+2026-11-11T19:24:19+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.76,Casper Ruud,polyus,0.11,0.8896,0.0,0.0,0,0.0,0.9,0.2,1.1174,0.1,2026-11-11T19:23:49+00:00
+2026-11-11T19:24:29+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.76,Casper Ruud,polyus,0.11,0.8896,0.0,0.0,0,0.0,0.9,0.2,1.1174,0.1,2026-11-11T19:23:49+00:00
+2026-11-11T19:24:29+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.61,Julia Grabher,polyus,0.33,0.972,0.0,0.0,0,0.0,0.68,0.4,1.1119,0.1,2026-11-11T19:24:29+00:00
+2026-11-11T19:24:39+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.61,Julia Grabher,polyus,0.33,0.972,0.0,0.0,0,0.0,0.68,0.4,1.1119,0.1,2026-11-11T19:24:29+00:00
+2026-11-11T19:24:49+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.61,Julia Grabher,polyus,0.33,0.972,0.0,10104.26,0,0.0,0.68,0.33,1.0406,0.1,2026-11-11T19:24:29+00:00
+2026-11-11T19:24:49+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.79,Michael Mmoh,polyus,0.18,0.9919,0.0,0.0,0,0.0,0.82,0.22,1.0623,0.1,2026-11-11T19:24:49+00:00
+2026-11-11T19:24:59+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.91,Casper Ruud,polyus,0.06,0.9797,0.0,0.0,0,0.0,0.95,0.11,1.0701,0.1,2026-11-11T19:24:59+00:00
+2026-11-11T19:24:59+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.79,Michael Mmoh,polyus,0.18,0.9919,0.0,35981.05,0,0.0,0.82,0.18,1.0206,0.1,2026-11-11T19:24:49+00:00
+2026-11-11T19:24:59+00:00,andreescu v pigossi,True,Bianca Andreescu,polyus,0.95,Laura Pigossi,kalshi,0.04,0.996,0.0,0.0,0,0.0,0.97,0.06,1.036,0.1,2026-11-11T19:24:59+00:00
+2026-11-11T19:25:09+00:00,andreescu v pigossi,True,Bianca Andreescu,polyus,0.94,Laura Pigossi,kalshi,0.04,0.9866,0.0,0.0,0,0.0,0.97,0.07,1.0466,0.1,2026-11-11T19:24:59+00:00
+2026-11-11T19:25:19+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.6,Julia Grabher,kalshi,0.34,0.9724,0.0,0.0,0,0.0,0.69,0.4,1.1217,0.1,2026-11-11T19:25:19+00:00
+2026-11-11T19:25:19+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.95,Casper Ruud,polyus,0.03,0.9853,0.0,0.0,0,0.0,0.98,0.06,1.0453,0.2,2026-11-11T19:25:19+00:00
+2026-11-11T19:25:19+00:00,andreescu v pigossi,True,Bianca Andreescu,polyus,0.94,Laura Pigossi,kalshi,0.04,0.9866,0.0,0.0,0,0.0,0.97,0.07,1.0466,0.1,2026-11-11T19:24:59+00:00
+2026-11-11T19:25:29+00:00,ruud v shevchenko,True,Aleksandr Shevchenko,kalshi,0.95,Casper Ruud,polyus,0.03,0.9853,0.0,0.0,0,0.0,0.98,0.06,1.0453,0.1,2026-11-11T19:25:19+00:00
+2026-11-11T19:25:39+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.82,Michael Mmoh,polyus,0.13,0.9682,0.0,0.0,0,0.0,0.88,0.18,1.0777,0.1,2026-11-11T19:25:39+00:00
+2026-11-11T19:25:39+00:00,andreescu v pigossi,True,Bianca Andreescu,kalshi,0.94,Laura Pigossi,polyus,0.04,0.9866,0.0,0.0,0,0.0,0.97,0.07,1.0466,0.1,2026-11-11T19:25:39+00:00
+2026-11-11T19:25:49+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.82,Michael Mmoh,polyus,0.13,0.9682,0.0,0.0,0,0.0,0.88,0.18,1.0777,0.1,2026-11-11T19:25:39+00:00
+2026-11-11T19:25:49+00:00,andreescu v pigossi,True,Bianca Andreescu,kalshi,0.94,Laura Pigossi,polyus,0.04,0.9866,0.0,0.0,0,0.0,0.97,0.07,1.0466,0.1,2026-11-11T19:25:39+00:00
+2026-11-11T19:25:59+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.54,Julia Grabher,kalshi,0.4,0.9741,0.0,0.0,0,0.0,0.6,0.47,1.1041,0.1,2026-11-11T19:25:59+00:00
+2026-11-11T19:25:59+00:00,andreescu v pigossi,True,Bianca Andreescu,kalshi,0.94,Laura Pigossi,polyus,0.04,0.9866,0.0,34379.83,0,0.0,0.97,0.04,1.0147,0.1,2026-11-11T19:25:39+00:00
+2026-11-11T19:26:09+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.54,Julia Grabher,kalshi,0.42,0.9943,0.0,0.0,0,0.0,0.6,0.47,1.1041,0.1,2026-11-11T19:25:59+00:00
+2026-11-11T19:26:19+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.54,Julia Grabher,kalshi,0.42,0.9943,46396.02,0.0,0,0.0,0.54,0.47,1.0447,0.1,2026-11-11T19:25:59+00:00
+2026-11-11T19:26:29+00:00,andreescu v pigossi,True,Bianca Andreescu,kalshi,0.97,Laura Pigossi,polyus,0.02,0.9934,0.0,5628.12,0,0.0,0.99,0.02,1.0121,0.1,2026-11-11T19:26:29+00:00
+2026-11-11T19:26:29+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.54,Julia Grabher,kalshi,0.42,0.9943,46396.02,0.0,0,0.0,0.54,0.47,1.0447,0.1,2026-11-11T19:25:59+00:00
+2026-11-11T19:26:39+00:00,milavsky v mmoh,True,Daniel Milavsky,polyus,0.83,Michael Mmoh,kalshi,0.13,0.9777,0.0,0.0,0,0.0,0.88,0.18,1.0777,0.1,2026-11-11T19:26:39+00:00
+2026-11-11T19:26:39+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.22,Tristan Boyer,polyus,0.75,0.995,0.0,0.0,0,0.0,0.26,0.8,1.0846,0.2,2026-11-11T19:26:39+00:00
+2026-11-11T19:26:49+00:00,milavsky v mmoh,True,Daniel Milavsky,polyus,0.83,Michael Mmoh,kalshi,0.13,0.9777,0.0,0.0,0,0.0,0.88,0.18,1.0777,0.1,2026-11-11T19:26:39+00:00
+2026-11-11T19:26:49+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.22,Tristan Boyer,polyus,0.75,0.995,0.0,0.01,0,0.0,0.27,0.75,1.0468,0.2,2026-11-11T19:26:39+00:00
+2026-11-11T19:27:09+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.21,Tristan Boyer,kalshi,0.75,0.9847,0.0,0.0,0,0.0,0.26,0.8,1.0846,0.1,2026-11-11T19:27:09+00:00
+2026-11-11T19:27:49+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.54,Julia Grabher,polyus,0.42,0.9943,0.0,0.0,0,0.0,0.59,0.43,1.054,0.1,2026-11-11T19:27:49+00:00
+2026-11-11T19:27:59+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.54,Julia Grabher,polyus,0.42,0.9943,0.0,0.0,0,0.0,0.59,0.43,1.054,0.1,2026-11-11T19:27:49+00:00
+2026-11-11T19:27:59+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.22,Marina Bassols Ribera,kalshi,0.75,0.9951,12029.24,0.0,0,0.0,0.22,0.79,1.0335,0.1,2026-11-11T19:27:59+00:00
+2026-11-11T19:28:59+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.84,Michael Mmoh,polyus,0.13,0.9873,0.0,0.0,0,0.0,0.88,0.17,1.0672,0.1,2026-11-11T19:28:59+00:00
+2026-11-11T19:29:09+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.84,Michael Mmoh,polyus,0.13,0.9873,0.0,0.0,0,0.0,0.88,0.17,1.0672,0.1,2026-11-11T19:28:59+00:00
+2026-11-11T19:29:19+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.84,Michael Mmoh,polyus,0.13,0.9873,0.0,0.0,0,0.0,0.88,0.17,1.0672,0.1,2026-11-11T19:28:59+00:00
+2026-11-11T19:29:29+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.84,Michael Mmoh,polyus,0.14,0.9978,0.0,45930.53,0,0.0,0.89,0.13,1.0347,0.1,2026-11-11T19:28:59+00:00
+2026-11-11T19:29:39+00:00,milavsky v mmoh,True,Daniel Milavsky,polyus,0.83,Michael Mmoh,kalshi,0.13,0.9777,0.0,0.0,0,0.0,0.88,0.18,1.0777,0.1,2026-11-11T19:29:39+00:00
+2026-11-11T19:29:49+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.7,Julia Grabher,polyus,0.24,0.9674,0.0,1500.0,0,0.0,0.77,0.24,1.0351,0.1,2026-11-11T19:29:49+00:00
+2026-11-11T19:29:49+00:00,milavsky v mmoh,True,Daniel Milavsky,polyus,0.83,Michael Mmoh,kalshi,0.13,0.9777,0.0,0.0,0,0.0,0.88,0.18,1.0777,0.1,2026-11-11T19:29:39+00:00
+2026-11-11T19:29:49+00:00,piros v tabur,True,Clement Tabur,polyus,0.21,Zsombor Piros,kalshi,0.76,0.9943,0.0,0.0,0,0.0,0.24,0.8,1.0639,0.1,2026-11-11T19:29:49+00:00
+2026-11-11T19:29:59+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.71,Julia Grabher,polyus,0.24,0.9771,0.0,1500.0,0,0.0,0.77,0.24,1.0351,0.1,2026-11-11T19:29:49+00:00
+2026-11-11T19:29:59+00:00,milavsky v mmoh,True,Daniel Milavsky,polyus,0.83,Michael Mmoh,kalshi,0.13,0.9777,53533.89,0.0,0,0.0,0.83,0.18,1.0301,0.1,2026-11-11T19:29:39+00:00
+2026-11-11T19:29:59+00:00,piros v tabur,True,Clement Tabur,polyus,0.21,Zsombor Piros,kalshi,0.76,0.9943,0.0,0.0,0,0.0,,0.81,,6.1,2026-11-11T19:29:49+00:00
+2026-11-11T19:30:09+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.71,Julia Grabher,polyus,0.24,0.9771,0.0,1500.0,0,0.0,0.77,0.24,1.0351,1.1,2026-11-11T19:29:49+00:00
+2026-11-11T19:30:19+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.71,Julia Grabher,polyus,0.25,0.9874,0.0,38858.65,0,0.0,0.78,0.24,1.0447,0.1,2026-11-11T19:29:49+00:00
+2026-11-11T19:30:39+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.77,Julia Grabher,polyus,0.17,0.9622,0.0,0.0,0,0.0,0.84,0.24,1.1021,0.1,2026-11-11T19:30:39+00:00
+2026-11-11T19:30:49+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.77,Julia Grabher,polyus,0.17,0.9622,0.0,8334.17,0,0.0,0.84,0.17,1.0292,0.1,2026-11-11T19:30:39+00:00
+2026-11-11T19:31:09+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.78,Julia Grabher,kalshi,0.18,0.9823,0.0,0.0,0,0.0,0.84,0.25,1.1125,0.1,2026-11-11T19:31:09+00:00
+2026-11-11T19:31:09+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.14,Tristan Boyer,kalshi,0.84,0.9978,0.0,0.0,0,0.0,0.18,0.88,1.0777,0.2,2026-11-11T19:31:09+00:00
+2026-11-11T19:31:19+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.78,Julia Grabher,kalshi,0.18,0.9823,17974.48,0.0,0,0.0,0.78,0.25,1.0551,0.1,2026-11-11T19:31:09+00:00
+2026-11-11T19:31:19+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.14,Tristan Boyer,kalshi,0.84,0.9978,31596.31,0.0,0,0.0,0.14,0.88,1.0358,0.1,2026-11-11T19:31:09+00:00
+2026-11-11T19:31:39+00:00,piros v tabur,True,Clement Tabur,polyus,0.12,Zsombor Piros,kalshi,0.82,0.9577,0.0,0.0,0,0.0,0.19,0.89,1.0975,0.1,2026-11-11T19:31:39+00:00
+2026-11-11T19:31:49+00:00,piros v tabur,True,Clement Tabur,polyus,0.12,Zsombor Piros,kalshi,0.82,0.9577,39248.82,0.0,0,0.0,0.12,0.89,1.0242,0.1,2026-11-11T19:31:39+00:00
+2026-11-11T19:31:49+00:00,burillo v grabher,True,Irene Burillo Escorihuela,kalshi,0.77,Julia Grabher,polyus,0.17,0.9622,0.0,0.0,0,0.0,0.84,0.23,1.0917,0.1,2026-11-11T19:31:49+00:00
+2026-11-11T19:33:09+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.87,Julia Grabher,kalshi,0.09,0.9736,0.0,0.0,0,0.0,0.92,0.14,1.0735,0.1,2026-11-11T19:33:09+00:00
+2026-11-11T19:33:19+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.87,Julia Grabher,kalshi,0.09,0.9736,47298.21,0.0,0,0.0,0.87,0.14,1.0263,0.1,2026-11-11T19:33:09+00:00
+2026-11-11T19:33:29+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.87,Julia Grabher,kalshi,0.09,0.9736,47298.21,0.0,0,0.0,0.87,0.14,1.0263,0.1,2026-11-11T19:33:09+00:00
+2026-11-11T19:33:39+00:00,burillo v grabher,True,Irene Burillo Escorihuela,polyus,0.87,Julia Grabher,kalshi,0.09,0.9736,47298.21,0.0,0,0.0,0.87,0.14,1.0263,0.1,2026-11-11T19:33:09+00:00
+2026-11-11T19:33:49+00:00,piros v tabur,True,Clement Tabur,polyus,0.05,Zsombor Piros,kalshi,0.92,0.9785,0.0,0.0,0,0.0,0.06,0.96,1.0266,0.1,2026-11-11T19:33:49+00:00
