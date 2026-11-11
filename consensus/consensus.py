@@ -59,37 +59,25 @@ HEALTH_RULES = [  # (key, label, kind, warn, alert)
     ("per_day", "directional bets/day too low (below 5)", "low", 5, 3),
 ]
 MIN_AGREEMENTS_FOR_SHARE = 10
+# Replacement rule (Remick, Nov 11): a red ALERT starts a clock; if the trader is still past an alert line at the
+# daily check SWAP_AFTER_DAYS later, he is replaced automatically (bench pick first, else best screened candidate).
+SWAP_AFTER_DAYS = 2
+# A replacement must look healthy: well inside every line, active most days, rarely both sides
+CANDIDATE = {"min_per_day": 5, "max_per_day": 16, "min_days": 5, "max_both_pct": 8}
+SCREEN_TOP = 150
 MT = ZoneInfo("America/Denver")
 
 # name -> proxy wallet. The first 10 are the "core 10".
-TRADERS = {
-    "monkeymashingkeyboard": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
-    "purplegatto": "0x032eb1bc893940263ad0b01889f262fc232f2a9e",  # Nov 7, replaced googleplay (2.4/day)
-    "jakepaulthegoat2008": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
-    "0xb4F978BE": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
-    "chongchong37": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
-    "yabanci": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
-    "drainedandpoor": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
-    "999585": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",  # Nov 7, replaced ethanaz (both sides of 29% of markets)
-    "0x9f15613e": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-    "ic4cream": "0x27f738fe203827445690339104aae35b20bc44b0",
-    # Nov 7: replaced Multicoloured-Serf (~22 directional mkts/day, both sides of 20% of markets; he was in
-    # over half of all agreements) with BreakTheBank (#1 monthly sports PnL, ~6/day, never both sides)
-    "BreakTheBank": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
-    "ch27er": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
-    # Nov 8: replaced darkumbreon88 (in 50% of new-roster agreements, mostly in-play EPL with ch27er)
-    "ianf2026": "0x81d972dbea298a5064d4ba51031e0386182fe9c9",
-    "JoeyAroyyOO": "0xc3744a19f42266ce6fa2736f52eae6e178b20f3e",  # Nov 7, replaced scootergene (0.4/day)
-    "Kyn008": "0xd29312e2446a746bbd94408e1c475f1ec6d7d683",  # Nov 7, replaced 0xd4aa6f8e (2.1/day)
-}
-CORE10 = list(TRADERS)[:10]
+ROSTER_FILE = ROOT / "roster.json"   # who is tracked; edited by the 2-day replacement rule
 
-# Bench: pre-screened swaps (Nov 7 consensus-screen, 7-day window), named in roster warnings for that trader.
-BENCH = {
-    "0x9f15613e": ("AppleTiiime", "0x951634357346bb291df117f9ac410100feea2104",
-                   "#99 sports PnL, NBA, 7.7 bets/day, active 7/7 days, never both sides; "
-                   "no second backup left; run consensus-screen"),
-}
+
+def load_roster():
+    return json.loads(ROSTER_FILE.read_text())
+
+
+_roster = load_roster()
+TRADERS = {t["name"]: t["wallet"] for t in _roster["traders"]}   # name -> proxy wallet; first 10 = core 10
+CORE10 = list(TRADERS)[:10]
 
 FIELDS = ["id", "logged_at", "game_date", "league", "game", "event_slug", "side", "market",
           "agree", "against", "agree_n", "against_n", "core10_n", "their_entry", "price_at_log",
@@ -501,12 +489,89 @@ def alert(new_plays):
     return "\n".join(out)
 
 
+def _swapped(notes):
+    return [tuple(x.split(" → ")) for x in re.findall(r"\*\*(.+? → .+?)\.\*\*", "\n".join(notes))]
+
+
+def qualifies(t):
+    c = CANDIDATE
+    return (c["min_per_day"] <= t["per_day"] <= c["max_per_day"] and t["days"] >= c["min_days"]
+            and t["both_pct"] <= c["max_both_pct"])
+
+
+def pick_replacement(out_name, now):
+    """Bench pick if it still qualifies, else the best leaderboard trader by sports overlap with the group."""
+    since = (now - timedelta(days=HEALTH_DAYS)).timestamp()
+    taken = {w.lower() for w in TRADERS.values()} | {r["wallet"].lower() for r in _roster.get("removed", [])}
+    for b in _roster.get("bench", {}).get(out_name, []):
+        if b["wallet"].lower() in taken:
+            continue
+        t = trader_stats(b["wallet"], since, HEALTH_DAYS)
+        if qualifies(t):
+            return b["name"], b["wallet"], (f"bench pick; {t['per_day']} bets/day, active {t['days']} days, "
+                                            f"{t['both_pct']}% both sides, mostly {t['leagues']}")
+    # group's sports, weighted by how many tracked traders bet them
+    h = json.loads(HEALTH.read_text()).get("stats", {}) if HEALTH.exists() else {}
+    group = {}
+    for n, st in h.items():
+        if n != out_name:
+            for lg in (st.get("leagues") or "").split(","):
+                if lg:
+                    group[lg] = group.get(lg, 0) + 1
+    best = None
+    cursor, seen = None, 0
+    while seen < SCREEN_TOP:
+        p = {"category": "SPORTS", "timePeriod": "MONTH", "orderBy": "PNL", "limit": 50}
+        if cursor:
+            p["cursor"] = cursor
+        j = get_retry(f"{DATA}/v2/leaderboard", **p)
+        for u in j.get("data") or []:
+            seen += 1
+            w = u["user_id"].lower()
+            if w in taken or float(u.get("pnl") or 0) <= 0:
+                continue
+            try:
+                t = trader_stats(w, since, HEALTH_DAYS)
+            except Exception:
+                continue
+            if not qualifies(t):
+                continue
+            overlap = sum(group.get(lg, 0) for lg in t["leagues"].split(",") if lg)
+            score = (overlap, -seen)            # most sports overlap, then highest on the board
+            if best is None or score > best[0]:
+                best = (score, u["user_name"], w, t, seen)
+        cursor = (j.get("pagination") or {}).get("next_cursor")
+        if not cursor:
+            break
+    if not best:
+        return None, None, None
+    _, name, w, t, rank = best
+    return name, w, (f"screened #{rank} on the monthly sports board; {t['per_day']} bets/day, active {t['days']} "
+                     f"days, {t['both_pct']}% both sides, mostly {t['leagues']}")
+
+
+def swap_trader(out_name, new_name, new_wallet, note, today):
+    global TRADERS, CORE10
+    r = load_roster()
+    for t in r["traders"]:
+        if t["name"] == out_name:
+            r.setdefault("removed", []).append({"name": t["name"], "wallet": t["wallet"], "date": today.isoformat()})
+            t.update(name=new_name, wallet=new_wallet, note=note)
+            break
+    r.get("bench", {}).pop(out_name, None)
+    ROSTER_FILE.write_text(json.dumps(r, indent=1) + "\n")
+    _roster.clear()
+    _roster.update(r)
+    TRADERS = {t["name"]: t["wallet"] for t in r["traders"]}
+    CORE10 = list(TRADERS)[:10]
+
+
 def roster_health(rows, now):
     """Once a day after 8am MT: 7-day stats per trader. Returns (stats, warning markdown or '')."""
     local = now.astimezone(MT)
     state = json.loads(HEALTH.read_text()) if HEALTH.exists() else {}
     if local.hour < 8 or state.get("date") == local.date().isoformat():
-        return None, ""
+        return None, "", ""
     since = now - timedelta(days=HEALTH_DAYS)
     stats = {}
     for n, w in TRADERS.items():
@@ -540,20 +605,62 @@ def roster_health(rows, now):
             val = f"{t[key] * 100:.0f}% of {t['agreements']}" if key == "share" else f"{t[key]}"
             limit = (f"{alarm * 100:.0f}%" if key == "share" else alarm) if level == "alert" else \
                     (f"{warn * 100:.0f}%" if key == "share" else warn)
-            bench = f"{BENCH[n][0]} ({BENCH[n][2]})" if n in BENCH else "run consensus-screen"
+            b = _roster.get("bench", {}).get(n)
+            bench = f"{b[0]['name']} ({b[0]['note']})" if b else "auto-screen at swap time"
             flags.append(f"| {'🔴 ALERT' if level == 'alert' else '🟡 early warning'} | {n} | {label} | {val} | "
                          f"{'over' if kind == 'high' else 'under'} {limit} | {bench} |")
-    HEALTH.write_text(json.dumps({"date": local.date().isoformat(), "stats": stats, "sent": sent}, indent=1) + "\n")
+    # --- 2-day replacement clock (alert level only)
+    clock = state.get("clock", {})
+    swaps = []
+    for n, t in stats.items():
+        breach = [label for key, label, kind, warn, alarm in HEALTH_RULES
+                  if not (key == "share" and t["agreements"] < MIN_AGREEMENTS_FOR_SHARE)
+                  and ((kind == "high" and t[key] > alarm) or (kind == "low" and t[key] < alarm))]
+        if not breach:
+            clock.pop(n, None)          # recovered: clock resets
+            continue
+        start = date.fromisoformat(clock.setdefault(n, local.date().isoformat()))
+        if local.date() >= start + timedelta(days=SWAP_AFTER_DAYS):
+            swaps.append((n, breach, start))
+    swap_notes = []
+    for n, breach, start in swaps:
+        try:
+            new_name, new_wallet, why = pick_replacement(n, now)
+        except Exception as e:
+            swap_notes.append(f"- Could not find a replacement for **{n}** ({type(e).__name__}); will retry tomorrow.")
+            continue
+        if not new_name:
+            swap_notes.append(f"- **{n}** is due for replacement but no candidate passed the screen; will retry tomorrow.")
+            continue
+        swap_trader(n, new_name, new_wallet, f"{local.date():%b %-d}, auto-replaced {n} ({'; '.join(breach)} "
+                                             f"since {start:%b %-d})", local.date())
+        clock.pop(n, None)
+        swap_notes.append(f"- **{n} → {new_name}.** {n} was past the line ({'; '.join(breach)}) since {start:%b %-d}. "
+                          f"{new_name}: {why}.")
+    HEALTH.write_text(json.dumps({"date": local.date().isoformat(), "stats": stats, "sent": sent, "clock": clock},
+                                 indent=1) + "\n")
+    if swap_notes:
+        swap_md = "\n".join([
+            f"Consensus roster swap: {', '.join(f'{a} → {b}' for a, b in _swapped(swap_notes))}" if _swapped(swap_notes)
+            else "Consensus roster swap: no candidate found",
+            f"Automatic {SWAP_AFTER_DAYS}-day rule: a trader still past a red alert line {SWAP_AFTER_DAYS} days after "
+            "the alert is replaced (bench pick first, otherwise the best screened leaderboard trader).", "",
+            *swap_notes, "", "The roster lives in `consensus/roster.json`; edit it to undo or pick someone else.",
+        ]) + "\n"
+    else:
+        swap_md = ""
+    on_clock = [f"{n} (since {d})" for n, d in clock.items()]
     if not flags:
-        return stats, ""
+        return stats, "", swap_md
     names = sorted({f.split(" | ")[1] for f in flags})
     return stats, "\n".join([
         f"Consensus roster warning: {', '.join(names)}",
         f"Daily roster health check ({HEALTH_DAYS}-day window). Each warning is sent at most once a week.", "",
         "| Level | Trader | Symptom | Now | Limit | Swap candidate |", "|---|---|---|---|---|---|", *flags, "",
-        "Full roster stats are in `consensus/summary.md`. To look for a replacement, run the "
-        "`consensus-screen` workflow (Actions tab) or ask Claude.",
-    ]) + "\n"
+        f"On the {SWAP_AFTER_DAYS}-day replacement clock: {', '.join(on_clock) or 'nobody'}. A 🔴 alert starts the "
+        f"clock; still past the line {SWAP_AFTER_DAYS} days later = automatic swap.", "",
+        "Full roster stats are in `consensus/summary.md`.",
+    ]) + "\n", swap_md
 
 
 def due_reports(rows, now, stats):
@@ -606,7 +713,7 @@ def main():
     new_plays = merge(rows, found, now)
     graded = grade(rows)
     save(rows)
-    stats, warning = roster_health(rows, now)
+    stats, warning, swap = roster_health(rows, now)
     write_summary(rows, now)
     print(f"logged {len(rows)} total, {len(new_plays)} new paper plays, graded {graded} this run, "
           f"failed traders: {', '.join(failed) or 'none'}")
@@ -614,6 +721,8 @@ def main():
         (out / "play.md").write_text(alert(new_plays))
     if warning:
         (out / "health.md").write_text(warning)
+    if swap:
+        (out / "swap.md").write_text(swap)
     reports = due_reports(rows, now, stats)
     for rid, body in reports:
         (out / f"report-{rid}.md").write_text(body)

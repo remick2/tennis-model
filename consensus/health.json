@@ -163,5 +163,9 @@
   "BreakTheBank|share of all agreements (Serf-style)|warn": "2026-11-10",
   "chongchong37|directional bets/day too low (below 5)|alert": "2026-11-11",
   "Kyn008|directional bets/day too low (below 5)|warn": "2026-11-11"
+ },
+ "clock": {
+  "yabanci": "2026-11-10",
+  "chongchong37": "2026-11-11"
  }
 }

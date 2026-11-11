@@ -14,7 +14,7 @@ for f in "$out"/*.md; do
   gh issue create --title "$title" --body-file "$f.body" || echo "issue failed: $title"
 done
 git add consensus/signals.csv consensus/summary.md
-for f in consensus/reports_sent.txt consensus/health.json; do [ -f "$f" ] && git add "$f"; done
+for f in consensus/reports_sent.txt consensus/health.json consensus/roster.json; do [ -f "$f" ] && git add "$f"; done
 git diff --cached --quiet || git commit -qm "consensus $(date -u +%Y-%m-%dT%H:%MZ)"
 for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
 exit $rc

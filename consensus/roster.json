@@ -1,0 +1,135 @@
+{
+ "_about": "Tracked traders for the consensus tracker. The first 10 are the 'core 10' slots; a swap keeps the slot. consensus.py edits this file itself when the 2-day replacement rule fires; you can also edit it by hand.",
+ "traders": [
+  {
+   "name": "monkeymashingkeyboard",
+   "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+   "note": "original"
+  },
+  {
+   "name": "purplegatto",
+   "wallet": "0x032eb1bc893940263ad0b01889f262fc232f2a9e",
+   "note": "Nov 7, replaced googleplay (2.4/day)"
+  },
+  {
+   "name": "jakepaulthegoat2008",
+   "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+   "note": "original"
+  },
+  {
+   "name": "0xb4F978BE",
+   "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+   "note": "original"
+  },
+  {
+   "name": "chongchong37",
+   "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+   "note": "original"
+  },
+  {
+   "name": "yabanci",
+   "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+   "note": "original"
+  },
+  {
+   "name": "drainedandpoor",
+   "wallet": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+   "note": "original"
+  },
+  {
+   "name": "999585",
+   "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+   "note": "Nov 7, replaced ethanaz (both sides of 29% of markets)"
+  },
+  {
+   "name": "0x9f15613e",
+   "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+   "note": "original"
+  },
+  {
+   "name": "ic4cream",
+   "wallet": "0x27f738fe203827445690339104aae35b20bc44b0",
+   "note": "original"
+  },
+  {
+   "name": "BreakTheBank",
+   "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+   "note": "Nov 7, replaced Multicoloured-Serf (~22/day, 20% both sides, in over half of agreements)"
+  },
+  {
+   "name": "ch27er",
+   "wallet": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
+   "note": "original"
+  },
+  {
+   "name": "ianf2026",
+   "wallet": "0x81d972dbea298a5064d4ba51031e0386182fe9c9",
+   "note": "Nov 8, replaced darkumbreon88 (in 50% of agreements)"
+  },
+  {
+   "name": "JoeyAroyyOO",
+   "wallet": "0xc3744a19f42266ce6fa2736f52eae6e178b20f3e",
+   "note": "Nov 7, replaced scootergene (0.4/day)"
+  },
+  {
+   "name": "Kyn008",
+   "wallet": "0xd29312e2446a746bbd94408e1c475f1ec6d7d683",
+   "note": "Nov 7, replaced 0xd4aa6f8e (2.1/day)"
+  }
+ ],
+ "bench": {
+  "0x9f15613e": [
+   {
+    "name": "AppleTiiime",
+    "wallet": "0x951634357346bb291df117f9ac410100feea2104",
+    "note": "NBA, ~7/day, never both sides"
+   }
+  ],
+  "yabanci": [
+   {
+    "name": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "note": "CS2/LoL/NBA, 5.6/day, #44 sports PnL"
+   }
+  ],
+  "chongchong37": [
+   {
+    "name": "bands1",
+    "wallet": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f",
+    "note": "NFL/CFB/NBA, 6.1/day"
+   }
+  ]
+ },
+ "removed": [
+  {
+   "name": "Multicoloured-Serf",
+   "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+   "date": "2026-11-07"
+  },
+  {
+   "name": "googleplay",
+   "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+   "date": "2026-11-07"
+  },
+  {
+   "name": "ethanaz",
+   "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+   "date": "2026-11-07"
+  },
+  {
+   "name": "0xd4aa6f8e",
+   "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+   "date": "2026-11-07"
+  },
+  {
+   "name": "scootergene",
+   "wallet": "0xf3a6ac44c5c90ff2b4afa4459f71acc2e57971bd",
+   "date": "2026-11-07"
+  },
+  {
+   "name": "darkumbreon88",
+   "wallet": "0x0235dc24b38772bf3339a9e5ec5db3d3a05fcee5",
+   "date": "2026-11-08"
+  }
+ ]
+}
