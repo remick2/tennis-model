@@ -403,6 +403,11 @@ def in_play(r):
     return "in progress when logged" in (r.get("note") or "")
 
 
+# How a rule is shown in tables, so each row says how many agreed
+LABEL = {"Paper play": "3+ agree (paper play)", "Track only": "2 agree",
+         "Split": "2+ agree, 1+ against (split)"}
+
+
 def record_table(rows):
     """One row per rule and group, with pre-game (bettable) and in-play results side by side."""
     lines = ["| Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |",
@@ -412,7 +417,7 @@ def record_table(rows):
             sel = [r for r in rows if pick(r, t)]
             pre_rec, pre_u, pre_o = record([r for r in sel if not in_play(r)])
             live_rec, live_u, live_o = record([r for r in sel if in_play(r)])
-            lines.append(f"| {t} | {group} | {pre_rec} | {pre_u} | {live_rec} | {live_u} | {pre_o + live_o} |")
+            lines.append(f"| {LABEL[t]} | {group} | {pre_rec} | {pre_u} | {live_rec} | {live_u} | {pre_o + live_o} |")
     return lines
 
 
@@ -434,7 +439,7 @@ def price_table(rows, tiers=("Paper play", "Track only")):
             w = sum(r["status"] == "W" for r in g)
             exp = sum(float(r["price_at_log"]) for r in g)
             u = sum(float(r["units"]) for r in g)
-            lines.append(f"| {t} | {label} | {w}-{len(g) - w} | {u:+.2f} | {w} | {exp:.1f} | {w - exp:+.1f} |")
+            lines.append(f"| {LABEL[t]} | {label} | {w}-{len(g) - w} | {u:+.2f} | {w} | {exp:.1f} | {w - exp:+.1f} |")
     return lines
 
 
@@ -475,13 +480,13 @@ def write_summary(rows, now):
         h = json.loads(HEALTH.read_text())
         lines += [f"## Roster health (last {HEALTH_DAYS} days, checked {h.get('date', '?')})", "",
                   *health_table(h.get("stats", {})), ""]
-    lines += ["## Open signals", "", "| Roster | Date | League | Game | Side | Rule | Timing | Agree | Against | Logged at |",
+    lines += ["## Open signals", "", "| Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |",
               "|---|---|---|---|---|---|---|---|---|---|"]
     for r in rows:
         if r["status"] == "open":
             lines.append(f"| {roster(r)} | {r['game_date']} | {r['league']} | {r['game']} | {r['side']} ({r['market']}) | "
-                         f"{r['tier']} | {'in-play' if in_play(r) else 'pre-game'} | {r['agree']} | "
-                         f"{r['against'] or '—'} | {float(r['price_at_log']) * 100:.1f}c |")
+                         f"{r['agree_n']} agree, {r['against_n']} against | {'in-play' if in_play(r) else 'pre-game'} | "
+                         f"{r['agree']} | {r['against'] or '—'} | {float(r['price_at_log']) * 100:.1f}c |")
     SUMMARY.write_text("\n".join(lines) + "\n")
 
 
