@@ -1,4 +1,4 @@
-# Consensus paper tracker — Wed Nov 11, 12:40AM MT
+# Consensus paper tracker — Wed Nov 11, 1:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 3-1 | +0.90 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 7-5 | +0.52 | 12-8 | -0.26 | 1 |
+| 2 agree | all 15 | 8-5 | +1.54 | 12-8 | -0.26 | 0 |
 | 2+ agree, 1+ against (split) | all 15 | 13-7 | +6.04 | 11-7 | +0.04 | 0 |
 | 3+ agree (paper play) | core 10 only | 1-0 | +0.92 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 3-3 | -0.41 | 5-1 | +0.89 | 1 |
+| 2 agree | core 10 only | 4-3 | +0.61 | 5-1 | +0.89 | 0 |
 | 2+ agree, 1+ against (split) | core 10 only | 3-2 | +0.44 | 4-0 | +1.39 | 0 |
 
 **By price** (new roster, pre-game, graded):
@@ -22,7 +22,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | 3+ agree (paper play) | Coin flip (45-65c) | 2-1 | +0.63 | 2 | 1.6 | +0.4 |
 | 3+ agree (paper play) | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
 | 2 agree | Underdog (<45c) | 0-3 | -3.00 | 0 | 1.0 | -1.0 |
-| 2 agree | Coin flip (45-65c) | 6-1 | +4.28 | 6 | 3.7 | +2.3 |
+| 2 agree | Coin flip (45-65c) | 7-1 | +5.30 | 7 | 4.2 | +2.8 |
 | 2 agree | Favorite (65-80c) | 0-1 | -1.00 | 0 | 0.7 | -0.7 |
 | 2 agree | Heavy favorite (80c+) | 1-0 | +0.24 | 1 | 0.8 | +0.2 |
 
@@ -65,4 +65,3 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
-| new | 2026-11-11 | CS2 | Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B | FUT Esports (Map handicap) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; drainedandpoor | — | 49.5c |
