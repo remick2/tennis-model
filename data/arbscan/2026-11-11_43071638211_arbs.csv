@@ -593,3 +593,26 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-11T22:04:00+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.73,Karolina Muchova,polyus,0.23,0.9861,0.0,0.0,0,0.0,0.78,0.25,1.055,0.1,2026-11-11T22:03:50+00:00
 2026-11-11T22:04:10+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.73,Karolina Muchova,polyus,0.2,0.9549,0.0,59788.98,0,0.0,0.81,0.2,1.0319,0.1,2026-11-11T22:03:50+00:00
 2026-11-11T22:04:40+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.78,Karolina Muchova,polyus,0.18,0.9823,0.0,58985.61,0,0.0,0.83,0.18,1.0301,0.1,2026-11-11T22:04:40+00:00
+2026-11-11T22:05:50+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.82,Karolina Muchova,kalshi,0.16,0.9997,0.0,0.0,0,0.0,0.85,0.19,1.0596,0.1,2026-11-11T22:05:50+00:00
+2026-11-11T22:06:00+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.82,Karolina Muchova,kalshi,0.16,0.9997,0.0,0.0,0,0.0,0.85,0.19,1.0596,0.1,2026-11-11T22:05:50+00:00
+2026-11-11T22:06:10+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.82,Karolina Muchova,kalshi,0.16,0.9997,56688.23,0.0,0,0.0,0.82,0.19,1.031,0.2,2026-11-11T22:05:50+00:00
+2026-11-11T22:07:00+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.84,Karolina Muchova,polyus,0.13,0.9873,0.0,0.0,0,0.0,0.88,0.17,1.0672,0.1,2026-11-11T22:07:00+00:00
+2026-11-11T22:07:10+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.84,Karolina Muchova,polyus,0.13,0.9873,0.0,53480.2,0,0.0,0.88,0.13,1.0253,0.1,2026-11-11T22:07:00+00:00
+2026-11-11T22:07:20+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.84,Karolina Muchova,polyus,0.12,0.9767,0.0,0.0,0,0.0,0.89,0.13,1.0347,0.1,2026-11-11T22:07:00+00:00
+2026-11-11T22:07:40+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.89,Karolina Muchova,polyus,0.08,0.982,0.0,68801.46,0,0.0,0.93,0.08,1.0197,0.1,2026-11-11T22:07:40+00:00
+2026-11-11T22:07:50+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.89,Karolina Muchova,polyus,0.08,0.982,0.0,68801.46,0,0.0,0.94,0.08,1.0291,0.1,2026-11-11T22:07:40+00:00
+2026-11-11T22:08:10+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.91,Karolina Muchova,kalshi,0.07,0.9902,52936.7,0.0,0,0.0,0.91,0.1,1.022,0.2,2026-11-11T22:08:10+00:00
+2026-11-11T22:08:20+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.91,Karolina Muchova,kalshi,0.07,0.9902,52936.7,0.0,0,0.0,0.91,0.1,1.022,0.1,2026-11-11T22:08:10+00:00
+2026-11-11T22:08:30+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.91,Karolina Muchova,kalshi,0.07,0.9902,52936.7,0.0,0,0.0,0.91,0.1,1.022,0.1,2026-11-11T22:08:10+00:00
+2026-11-11T22:09:00+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.86,Karolina Muchova,kalshi,0.1,0.9747,0.0,0.0,0,0.0,0.92,0.15,1.084,0.1,2026-11-11T22:09:00+00:00
+2026-11-11T22:09:10+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.86,Karolina Muchova,kalshi,0.09,0.9641,0.0,0.0,0,0.0,0.92,0.15,1.084,0.1,2026-11-11T22:09:00+00:00
+2026-11-11T22:09:20+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.86,Karolina Muchova,kalshi,0.09,0.9641,68343.23,0.0,0,0.0,0.86,0.15,1.0273,0.1,2026-11-11T22:09:00+00:00
+2026-11-11T22:09:30+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.86,Karolina Muchova,kalshi,0.09,0.9641,68343.23,0.0,0,0.0,0.86,0.14,1.0168,0.1,2026-11-11T22:09:00+00:00
+2026-11-11T22:10:00+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.87,Karolina Muchova,polyus,0.1,0.9842,0.0,0.0,0,0.0,0.91,0.15,1.0746,0.1,2026-11-11T22:10:00+00:00
+2026-11-11T22:10:50+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.92,Karolina Muchova,polyus,0.04,0.9678,0.0,0.0,0,0.0,0.97,0.1,1.0783,0.1,2026-11-11T22:10:50+00:00
+2026-11-11T22:11:00+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.92,Karolina Muchova,polyus,0.04,0.9678,0.0,0.0,0,0.0,0.97,0.1,1.0783,0.1,2026-11-11T22:10:50+00:00
+2026-11-11T22:11:10+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.92,Karolina Muchova,polyus,0.04,0.9678,0.0,0.0,0,0.0,0.97,0.1,1.0783,0.1,2026-11-11T22:10:50+00:00
+2026-11-11T22:13:20+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.97,Karolina Muchova,polyus,0.02,0.9934,0.0,0.0,0,0.0,0.99,0.03,1.0227,0.1,2026-11-11T22:13:20+00:00
+2026-11-11T22:13:30+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.97,Karolina Muchova,polyus,0.02,0.9934,0.0,0.0,0,0.0,0.99,0.03,1.0227,0.1,2026-11-11T22:13:20+00:00
+2026-11-11T22:14:40+00:00,bellucci v gueymard,True,Mattia Bellucci,polyus,0.69,Sascha Gueymard Wayenburg,kalshi,0.28,0.999,0.0,0.0,0,0.0,0.72,0.32,1.0692,0.1,2026-11-11T22:14:40+00:00
+2026-11-11T22:14:50+00:00,bellucci v gueymard,True,Mattia Bellucci,polyus,0.69,Sascha Gueymard Wayenburg,kalshi,0.28,0.999,20458.6,0.0,0,0.0,0.69,0.32,1.0401,0.1,2026-11-11T22:14:40+00:00
