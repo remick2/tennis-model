@@ -1,0 +1,44 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-11T13:08:14+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.26,Daniel Altmaier,kalshi,0.7,0.9881,0.0,0.0,0,0.0,0.31,0.74,1.0783,0.0,2026-11-11T13:08:14+00:00
+2026-11-11T13:08:24+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.26,Daniel Altmaier,kalshi,0.7,0.9881,0.0,0.0,0,0.0,0.31,0.75,1.088,0.0,2026-11-11T13:08:14+00:00
+2026-11-11T13:08:44+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.54,Lorenzo Sonego,polyus,0.39,0.9639,0.0,0.0,0,0.0,0.62,0.47,1.1238,0.0,2026-11-11T13:08:44+00:00
+2026-11-11T13:09:04+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,kalshi,0.26,Daniel Altmaier,polyus,0.71,0.9978,0.0,22678.16,0,0.0,0.3,0.71,1.039,0.0,2026-11-11T13:09:04+00:00
+2026-11-11T13:09:14+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,kalshi,0.26,Daniel Altmaier,polyus,0.71,0.9978,0.0,22678.16,0,0.0,0.3,0.71,1.039,0.0,2026-11-11T13:09:04+00:00
+2026-11-11T13:10:04+00:00,clarke v marcos,True,Jay Clarke,polyus,0.15,Pedro Vives Marcos,kalshi,0.82,0.9892,0.0,0.0,0,0.0,0.19,0.86,1.0691,0.1,2026-11-11T13:10:04+00:00
+2026-11-11T13:10:14+00:00,clarke v marcos,True,Jay Clarke,polyus,0.15,Pedro Vives Marcos,kalshi,0.82,0.9892,0.0,0.0,0,0.0,0.19,0.86,1.0691,0.1,2026-11-11T13:10:04+00:00
+2026-11-11T13:10:44+00:00,coulibaly v mikrut,True,Eliakim Coulibaly,polyus,0.2,Luka Mikrut,kalshi,0.77,0.9935,0.0,0.0,0,0.0,0.21,0.81,1.0423,0.0,2026-11-11T13:10:44+00:00
+2026-11-11T13:11:24+00:00,clarke v marcos,True,Jay Clarke,kalshi,0.16,Pedro Vives Marcos,polyus,0.82,0.9997,0.0,31457.97,0,0.0,0.19,0.82,1.031,0.2,2026-11-11T13:11:24+00:00
+2026-11-11T13:11:34+00:00,clarke v marcos,True,Jay Clarke,kalshi,0.16,Pedro Vives Marcos,polyus,0.82,0.9997,0.0,31457.97,0,0.0,0.19,0.82,1.031,0.0,2026-11-11T13:11:24+00:00
+2026-11-11T13:11:44+00:00,clarke v marcos,True,Jay Clarke,kalshi,0.16,Pedro Vives Marcos,polyus,0.82,0.9997,0.0,31457.97,0,0.0,0.19,0.82,1.031,0.0,2026-11-11T13:11:24+00:00
+2026-11-11T13:12:04+00:00,coulibaly v mikrut,True,Eliakim Coulibaly,polyus,0.14,Luka Mikrut,kalshi,0.83,0.9882,0.0,0.0,0,0.0,0.19,0.87,1.0786,0.0,2026-11-11T13:12:04+00:00
+2026-11-11T13:12:04+00:00,clarke v marcos,True,Jay Clarke,polyus,0.15,Pedro Vives Marcos,kalshi,0.82,0.9892,0.0,0.0,0,0.0,0.22,0.86,1.1004,0.0,2026-11-11T13:12:04+00:00
+2026-11-11T13:12:14+00:00,coulibaly v mikrut,True,Eliakim Coulibaly,polyus,0.14,Luka Mikrut,kalshi,0.83,0.9882,26886.17,0.0,0,0.0,0.14,0.87,1.0263,0.0,2026-11-11T13:12:04+00:00
+2026-11-11T13:12:14+00:00,clarke v marcos,True,Jay Clarke,polyus,0.15,Pedro Vives Marcos,kalshi,0.82,0.9892,0.0,0.0,0,0.0,0.22,0.86,1.1004,0.0,2026-11-11T13:12:04+00:00
+2026-11-11T13:12:24+00:00,coulibaly v mikrut,True,Eliakim Coulibaly,polyus,0.14,Luka Mikrut,kalshi,0.83,0.9882,26886.17,0.0,0,0.0,0.14,0.88,1.0358,0.0,2026-11-11T13:12:04+00:00
+2026-11-11T13:12:24+00:00,clarke v marcos,True,Jay Clarke,polyus,0.15,Pedro Vives Marcos,kalshi,0.82,0.9892,29529.23,0.0,0,0.0,0.15,0.87,1.0368,0.1,2026-11-11T13:12:04+00:00
+2026-11-11T13:12:34+00:00,clarke v marcos,True,Jay Clarke,polyus,0.1,Pedro Vives Marcos,kalshi,0.87,0.9842,0.0,0.0,0,0.0,0.15,0.91,1.0746,0.0,2026-11-11T13:12:04+00:00
+2026-11-11T13:12:44+00:00,clarke v marcos,True,Jay Clarke,polyus,0.09,Pedro Vives Marcos,kalshi,0.87,0.9736,0.0,0.0,0,0.0,0.15,0.91,1.0746,0.0,2026-11-11T13:12:04+00:00
+2026-11-11T13:12:44+00:00,coulibaly v mikrut,True,Eliakim Coulibaly,polyus,0.1,Luka Mikrut,kalshi,0.87,0.9842,33026.91,0.0,0,0.0,0.1,0.91,1.022,0.0,2026-11-11T13:12:44+00:00
+2026-11-11T13:12:54+00:00,clarke v marcos,True,Jay Clarke,polyus,0.09,Pedro Vives Marcos,kalshi,0.87,0.9736,29004.75,0.0,0,0.0,0.09,0.92,1.0208,0.0,2026-11-11T13:12:04+00:00
+2026-11-11T13:12:54+00:00,coulibaly v mikrut,True,Eliakim Coulibaly,polyus,0.1,Luka Mikrut,kalshi,0.87,0.9842,33026.91,0.0,0,0.0,0.1,0.91,1.022,0.0,2026-11-11T13:12:44+00:00
+2026-11-11T13:13:44+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.69,Lorenzo Sonego,polyus,0.27,0.9887,0.0,0.0,0,0.0,0.74,0.31,1.0783,0.0,2026-11-11T13:13:44+00:00
+2026-11-11T13:15:14+00:00,clarke v marcos,True,Jay Clarke,polyus,0.06,Pedro Vives Marcos,kalshi,0.93,0.9985,0.0,0.0,0,0.0,0.07,0.95,1.0278,0.0,2026-11-11T13:15:14+00:00
+2026-11-11T13:16:14+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.26,Daniel Altmaier,kalshi,0.7,0.9881,0.0,0.0,0,0.0,0.28,0.75,1.0571,0.0,2026-11-11T13:16:14+00:00
+2026-11-11T13:16:34+00:00,feldbausch v pereira,True,Kilian Feldbausch,kalshi,0.49,Tiago Pereira,polyus,0.46,0.9848,0.0,0.0,0,0.0,0.55,0.51,1.0947,0.0,2026-11-11T13:16:34+00:00
+2026-11-11T13:16:44+00:00,feldbausch v pereira,True,Kilian Feldbausch,kalshi,0.49,Tiago Pereira,polyus,0.46,0.9848,0.0,0.0,0,0.0,0.55,0.51,1.0947,0.1,2026-11-11T13:16:34+00:00
+2026-11-11T13:16:54+00:00,feldbausch v pereira,True,Kilian Feldbausch,kalshi,0.55,Tiago Pereira,polyus,0.4,0.984,0.0,0.0,0,0.0,0.61,0.46,1.1039,0.0,2026-11-11T13:16:34+00:00
+2026-11-11T13:17:04+00:00,feldbausch v pereira,True,Kilian Feldbausch,kalshi,0.55,Tiago Pereira,polyus,0.4,0.984,0.0,0.0,0,0.0,0.61,0.46,1.1039,0.0,2026-11-11T13:16:34+00:00
+2026-11-11T13:17:14+00:00,feldbausch v pereira,True,Kilian Feldbausch,kalshi,0.55,Tiago Pereira,polyus,0.4,0.984,0.0,0.0,0,0.0,0.61,0.46,1.1039,0.0,2026-11-11T13:16:34+00:00
+2026-11-11T13:17:44+00:00,feldbausch v pereira,True,Kilian Feldbausch,kalshi,0.61,Tiago Pereira,polyus,0.34,0.9822,0.0,0.0,0,0.0,0.68,0.4,1.1119,0.0,2026-11-11T13:17:44+00:00
+2026-11-11T13:17:54+00:00,feldbausch v pereira,True,Kilian Feldbausch,kalshi,0.61,Tiago Pereira,polyus,0.33,0.972,0.0,0.0,0,0.0,0.68,0.34,1.0508,0.0,2026-11-11T13:17:44+00:00
+2026-11-11T13:21:24+00:00,coulibaly v mikrut,True,Eliakim Coulibaly,polyus,0.08,Luka Mikrut,kalshi,0.9,0.9914,0.0,0.0,0,0.0,0.1,0.93,1.0408,0.0,2026-11-11T13:21:24+00:00
+2026-11-11T13:21:34+00:00,coulibaly v mikrut,True,Eliakim Coulibaly,polyus,0.08,Luka Mikrut,kalshi,0.9,0.9914,0.0,0.0,0,0.0,0.1,0.92,1.0314,0.0,2026-11-11T13:21:24+00:00
+2026-11-11T13:21:44+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,kalshi,0.38,Daniel Altmaier,polyus,0.57,0.9835,0.0,0.0,0,0.0,0.43,0.65,1.113,0.0,2026-11-11T13:21:44+00:00
+2026-11-11T13:21:44+00:00,coulibaly v mikrut,True,Eliakim Coulibaly,polyus,0.08,Luka Mikrut,kalshi,0.9,0.9914,0.0,0.0,0,0.0,0.1,0.92,1.0314,0.0,2026-11-11T13:21:24+00:00
+2026-11-11T13:22:04+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.68,Lorenzo Sonego,polyus,0.29,0.9995,0.0,0.0,0,0.0,0.72,0.33,1.0795,0.0,2026-11-11T13:22:04+00:00
+2026-11-11T13:22:14+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.68,Lorenzo Sonego,polyus,0.29,0.9995,0.0,0.0,0,0.0,0.72,0.33,1.0795,0.0,2026-11-11T13:22:04+00:00
+2026-11-11T13:22:24+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.68,Lorenzo Sonego,polyus,0.29,0.9995,0.0,0.0,0,0.0,0.74,0.33,1.0988,0.0,2026-11-11T13:22:04+00:00
+2026-11-11T13:22:34+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.68,Lorenzo Sonego,polyus,0.27,0.9789,0.0,0.1,0,0.0,0.76,0.27,1.0565,0.0,2026-11-11T13:22:04+00:00
+2026-11-11T13:22:44+00:00,sonego v tabilo,True,Alejandro Tabilo,polyus,0.69,Lorenzo Sonego,kalshi,0.28,0.999,0.0,0.0,0,0.0,0.75,0.32,1.0983,0.0,2026-11-11T13:22:44+00:00
+2026-11-11T13:22:54+00:00,sonego v tabilo,True,Alejandro Tabilo,polyus,0.69,Lorenzo Sonego,kalshi,0.28,0.999,0.0,0.0,0,0.0,0.75,0.32,1.0983,0.1,2026-11-11T13:22:44+00:00
+2026-11-11T13:23:04+00:00,sonego v tabilo,True,Alejandro Tabilo,polyus,0.69,Lorenzo Sonego,kalshi,0.28,0.999,49291.16,0.0,0,0.0,0.69,0.32,1.0401,0.0,2026-11-11T13:22:44+00:00
