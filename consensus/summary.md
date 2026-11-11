@@ -1,4 +1,4 @@
-# Consensus paper tracker — Tue Nov 10, 6:40PM MT
+# Consensus paper tracker — Tue Nov 10, 7:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 2-1 | -0.02 | 4-0 | +1.36 | 1 |
-| 2 agree | all 15 | 5-4 | -0.36 | 10-6 | +1.03 | 8 |
-| 2+ agree, 1+ against (split) | all 15 | 10-5 | +5.39 | 6-4 | -1.34 | 4 |
+| 2 agree | all 15 | 5-4 | -0.36 | 11-6 | +1.07 | 7 |
+| 2+ agree, 1+ against (split) | all 15 | 10-5 | +5.39 | 6-4 | -1.34 | 6 |
 | 3+ agree (paper play) | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 1-2 | -1.29 | 3-1 | +0.26 | 5 |
+| 2 agree | core 10 only | 1-2 | -1.29 | 4-1 | +0.30 | 4 |
 | 2+ agree, 1+ against (split) | core 10 only | 1-1 | -0.10 | 2-0 | +0.40 | 3 |
 
 **By price** (new roster, pre-game, graded):
@@ -74,7 +74,8 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-10 | NBA | Heat vs. Jazz | Jazz (Moneyline) | 2 agree, 0 against | pre-game | purplegatto; jakepaulthegoat2008 | — | 29.5c |
 | new | 2026-11-10 | NBA | Heat vs. Jazz | Heat (-8.5) (Spread) | 2 agree, 1 against | pre-game | ic4cream; ianf2026 | jakepaulthegoat2008 | 43.5c |
 | new | 2026-11-10 | NBA | Bucks vs. Knicks | Over 222.5 (Total) | 2 agree, 0 against | in-play | ic4cream; JoeyAroyyOO | — | 49.5c |
-| new | 2026-11-10 | CFB | Western Michigan vs. Akron | Western Michigan (Moneyline) | 2 agree, 0 against | in-play | purplegatto; 999585 | — | 96.5c |
 | new | 2026-11-10 | NBA | Magic vs. Kings | Kings (Moneyline) | 2 agree, 1 against | pre-game | jakepaulthegoat2008; drainedandpoor | purplegatto | 34.5c |
 | new | 2026-11-10 | NBA | Celtics vs. 76ers | Celtics (-2.5) (Spread) | 2 agree, 0 against | in-play | BreakTheBank; ianf2026 | — | 60.0c |
 | new | 2026-11-10 | NBA | Bucks vs. Knicks | Over 221.5 (Total) | 2 agree, 0 against | in-play | ianf2026; JoeyAroyyOO | — | 9.5c |
+| new | 2026-11-10 | NBA | Clippers vs. Suns | Clippers (+3.5) (Spread) | 2 agree, 2 against | in-play | BreakTheBank; ianf2026 | jakepaulthegoat2008; monkeymashingkeyboard | 32.0c |
+| new | 2026-11-10 | NBA | Clippers vs. Suns | Clippers (Moneyline) | 2 agree, 2 against | in-play | drainedandpoor; BreakTheBank | jakepaulthegoat2008; monkeymashingkeyboard | 22.5c |
