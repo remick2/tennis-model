@@ -1,0 +1,26 @@
+{
+ "started": "2026-11-11T22:16:09+00:00",
+ "cash": {
+  "kalshi": 134.74,
+  "polyus": 0.27
+ },
+ "open": [
+  {
+   "id": "9ee8d5eda7c1",
+   "key": "bellucci v gueymard",
+   "opened": "2026-11-11T22:24:03+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV11BELGUE-GUE",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 559,
+    "kalshi": 559
+   },
+   "cost": 554.99,
+   "expected": 4.01
+  }
+ ],
+ "settled_pnl": 0.0,
+ "unwind_pnl": 0.0,
+ "fires": 1,
+ "settled": 0
+}
