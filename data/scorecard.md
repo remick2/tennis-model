@@ -1,6 +1,6 @@
-# Phase 2 scorecard  (Tue Nov 10 8:17PM MT)
+# Phase 2 scorecard  (Tue Nov 10 8:19PM MT)
 
-Snapshots: 209 runs, Nov 3 to Nov 11 03:17Z. Phase 3 gate (GATE row): US-venue price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
+Snapshots: 210 runs, Nov 3 to Nov 11 03:17Z. Phase 3 gate (GATE row): US-venue price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
 
 | group                                                  |   sides |   avg_price_edge_c |   with_close |   avg_clv_c |   clv_se_c |   beat_close_% |   settled |   won |   roi_% |   roi_se_% |
 |:-------------------------------------------------------|--------:|-------------------:|-------------:|------------:|-----------:|---------------:|----------:|------:|--------:|-----------:|
@@ -21,4 +21,4 @@ Snapshots: 209 runs, Nov 3 to Nov 11 03:17Z. Phase 3 gate (GATE row): US-venue p
 | 2026-11-08 |     29 |       0.6709 |       128 |           147 |
 | 2026-11-09 |     29 |       0.6709 |       179 |           225 |
 | 2026-11-10 |     29 |       0.9385 |       108 |           130 |
-| 2026-11-11 |      4 |       0.9828 |        13 |            13 |
+| 2026-11-11 |      5 |       0.9828 |        16 |            16 |
