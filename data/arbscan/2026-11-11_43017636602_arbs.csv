@@ -274,3 +274,30 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-11T14:19:34+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.29,Daniel Altmaier,kalshi,0.61,0.931,0.0,0.0,0,0.0,0.38,0.72,1.1305,0.0,2026-11-11T14:19:34+00:00
 2026-11-11T14:19:34+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.4,Lorenzo Sonego,polyus,0.56,0.9939,0.0,0.0,0,0.0,0.45,0.6,1.084,0.0,2026-11-11T14:19:24+00:00
 2026-11-11T14:19:44+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.29,Daniel Altmaier,kalshi,0.61,0.931,0.0,0.0,0,0.0,0.38,0.73,1.1402,0.0,2026-11-11T14:19:34+00:00
+2026-11-11T14:28:04+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.27,Daniel Altmaier,kalshi,0.7,0.9984,276.69,0.0,0,0.0,0.27,0.75,1.0468,0.1,2026-11-11T14:28:04+00:00
+2026-11-11T14:31:04+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.22,Daniel Altmaier,kalshi,0.75,0.9951,46491.07,0.0,0,0.0,0.22,0.79,1.0335,0.1,2026-11-11T14:31:04+00:00
+2026-11-11T14:31:14+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.22,Daniel Altmaier,kalshi,0.75,0.9951,46491.07,0.0,0,0.0,0.22,0.79,1.0335,0.0,2026-11-11T14:31:04+00:00
+2026-11-11T14:31:44+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.17,Daniel Altmaier,kalshi,0.8,0.991,0.0,0.0,0,0.0,0.24,0.84,1.1021,0.1,2026-11-11T14:31:44+00:00
+2026-11-11T14:32:34+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.14,Daniel Altmaier,kalshi,0.82,0.9787,43985.96,0.0,0,0.0,0.14,0.87,1.0263,0.0,2026-11-11T14:32:34+00:00
+2026-11-11T14:32:44+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.14,Daniel Altmaier,kalshi,0.82,0.9787,43985.96,0.0,0,0.0,0.14,0.88,1.0358,0.0,2026-11-11T14:32:34+00:00
+2026-11-11T14:32:54+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.08,Daniel Altmaier,kalshi,0.88,0.9725,0.0,0.0,0,0.0,0.14,0.93,1.0829,0.0,2026-11-11T14:32:34+00:00
+2026-11-11T14:33:04+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.08,Daniel Altmaier,kalshi,0.88,0.9725,4956.53,0.0,0,0.0,0.08,0.93,1.0197,0.1,2026-11-11T14:32:34+00:00
+2026-11-11T14:33:14+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.08,Daniel Altmaier,kalshi,0.88,0.9725,4956.53,0.0,0,0.0,0.08,0.93,1.0197,0.0,2026-11-11T14:32:34+00:00
+2026-11-11T14:33:24+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.08,Daniel Altmaier,kalshi,0.88,0.9725,4956.53,0.0,0,0.0,0.08,0.93,1.0197,0.0,2026-11-11T14:32:34+00:00
+2026-11-11T14:33:34+00:00,altmaier v gadamauri,True,Buvaysar Gadamauri,polyus,0.07,Daniel Altmaier,kalshi,0.88,0.9619,0.0,0.0,0,0.0,0.08,0.94,1.0291,0.0,2026-11-11T14:32:34+00:00
+2026-11-11T14:33:34+00:00,canas v dougaz,True,Alejandro Moro Canas,kalshi,0.89,Aziz Dougaz,polyus,0.09,0.9925,0.0,0.0,0,0.0,0.91,0.11,1.0325,0.0,2026-11-11T14:33:34+00:00
+2026-11-11T14:35:44+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.5,Lorenzo Sonego,polyus,0.45,0.9847,0.0,0.0,0,0.0,0.55,0.51,1.0947,0.0,2026-11-11T14:35:44+00:00
+2026-11-11T14:35:54+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.5,Lorenzo Sonego,polyus,0.45,0.9847,0.0,1600.01,0,0.0,0.55,0.45,1.0345,0.0,2026-11-11T14:35:44+00:00
+2026-11-11T14:36:24+00:00,canas v dougaz,True,Alejandro Moro Canas,kalshi,0.92,Aziz Dougaz,polyus,0.04,0.9678,0.0,0.0,0,0.0,0.97,0.08,1.0572,0.0,2026-11-11T14:36:24+00:00
+2026-11-11T14:36:34+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.57,Lorenzo Sonego,polyus,0.36,0.9632,0.0,0.0,0,0.0,0.65,0.44,1.123,0.0,2026-11-11T14:36:34+00:00
+2026-11-11T14:36:34+00:00,canas v dougaz,True,Alejandro Moro Canas,kalshi,0.93,Aziz Dougaz,polyus,0.04,0.9772,0.0,0.0,0,0.0,0.97,0.08,1.0572,0.0,2026-11-11T14:36:24+00:00
+2026-11-11T14:36:44+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.57,Lorenzo Sonego,polyus,0.36,0.9632,0.0,0.0,0,0.0,0.65,0.44,1.123,0.1,2026-11-11T14:36:34+00:00
+2026-11-11T14:36:44+00:00,canas v dougaz,True,Alejandro Moro Canas,kalshi,0.93,Aziz Dougaz,polyus,0.04,0.9772,0.0,43893.88,0,0.0,0.97,0.04,1.0147,0.1,2026-11-11T14:36:24+00:00
+2026-11-11T14:36:54+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.57,Lorenzo Sonego,polyus,0.36,0.9632,0.0,27284.22,0,0.0,0.65,0.36,1.0419,0.1,2026-11-11T14:36:34+00:00
+2026-11-11T14:36:54+00:00,canas v dougaz,True,Alejandro Moro Canas,kalshi,0.93,Aziz Dougaz,polyus,0.04,0.9772,0.0,43893.88,0,0.0,0.97,0.04,1.0147,0.1,2026-11-11T14:36:24+00:00
+2026-11-11T14:37:34+00:00,sonego v tabilo,True,Alejandro Tabilo,polyus,0.59,Lorenzo Sonego,kalshi,0.36,0.9829,0.0,0.0,0,0.0,0.61,0.42,1.0636,0.0,2026-11-11T14:37:34+00:00
+2026-11-11T14:38:04+00:00,sonego v tabilo,True,Alejandro Tabilo,kalshi,0.59,Lorenzo Sonego,polyus,0.37,0.9931,11940.17,0.0,0,0.0,0.55,0.39,0.9739,0.0,2026-11-11T14:38:04+00:00
+2026-11-11T14:38:14+00:00,sonego v tabilo,True,Alejandro Tabilo,polyus,0.55,Lorenzo Sonego,kalshi,0.35,0.9331,0.0,0.0,0,0.0,0.62,0.47,1.1238,0.0,2026-11-11T14:38:14+00:00
+2026-11-11T14:38:24+00:00,sonego v tabilo,True,Alejandro Tabilo,polyus,0.55,Lorenzo Sonego,kalshi,0.35,0.9331,49293.64,0.0,0,0.0,0.55,0.47,1.0546,0.0,2026-11-11T14:38:14+00:00
+2026-11-11T14:38:34+00:00,sonego v tabilo,True,Alejandro Tabilo,polyus,0.54,Lorenzo Sonego,kalshi,0.35,0.9232,0.0,0.0,0,0.0,0.55,0.47,1.0546,0.0,2026-11-11T14:38:14+00:00
+2026-11-11T14:38:54+00:00,sonego v tabilo,True,Alejandro Tabilo,polyus,0.48,Lorenzo Sonego,kalshi,0.46,0.9747,0.0,0.0,0,0.0,0.61,0.53,1.174,0.0,2026-11-11T14:38:54+00:00
