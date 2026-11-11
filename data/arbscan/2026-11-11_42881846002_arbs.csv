@@ -179,3 +179,18 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-11T01:23:06+00:00,miyoshi v shick,True,Braden Shick,polyus,0.35,Kenta Miyoshi (b. 2004),kalshi,0.61,0.9925,0.0,0.0,0,0.0,0.39,0.66,1.0822,0.1,2026-11-11T01:23:06+00:00
 2026-11-11T01:23:16+00:00,miyoshi v shick,True,Braden Shick,polyus,0.35,Kenta Miyoshi (b. 2004),kalshi,0.61,0.9925,0.0,0.0,0,0.0,0.39,0.66,1.0822,0.1,2026-11-11T01:23:06+00:00
 2026-11-11T01:23:26+00:00,miyoshi v shick,True,Braden Shick,polyus,0.35,Kenta Miyoshi (b. 2004),kalshi,0.61,0.9925,53835.18,0.0,0,0.0,0.35,0.66,1.0415,0.1,2026-11-11T01:23:06+00:00
+2026-11-11T01:30:36+00:00,giron v kasnikowski,True,Maks Kasnikowski,kalshi,0.15,Marcos Giron,polyus,0.83,0.9987,0.0,0.0,0,0.0,0.18,0.85,1.0492,0.0,2026-11-11T01:30:36+00:00
+2026-11-11T01:30:46+00:00,giron v kasnikowski,True,Maks Kasnikowski,kalshi,0.15,Marcos Giron,polyus,0.83,0.9987,0.0,0.0,0,0.0,0.18,0.85,1.0492,0.0,2026-11-11T01:30:36+00:00
+2026-11-11T01:30:56+00:00,giron v kasnikowski,True,Maks Kasnikowski,kalshi,0.15,Marcos Giron,polyus,0.83,0.9987,0.0,0.01,0,0.0,0.18,0.83,1.0301,0.1,2026-11-11T01:30:36+00:00
+2026-11-11T01:32:46+00:00,dellavedova v gorzny,True,Matthew Dellavedova,polyus,0.05,Sebastian Gorzny,kalshi,0.94,0.9972,43579.07,0.0,0,0.0,0.05,0.96,1.016,0.0,2026-11-11T01:32:46+00:00
+2026-11-11T01:34:16+00:00,miyoshi v shick,True,Braden Shick,kalshi,0.39,Kenta Miyoshi,polyus,0.57,0.9937,0.0,0.0,0,0.0,0.44,0.61,1.0838,0.1,2026-11-11T01:34:16+00:00
+2026-11-11T01:34:56+00:00,miyoshi v shick,True,Braden Shick,polyus,0.37,Kenta Miyoshi (b. 2004),kalshi,0.58,0.9833,0.0,0.0,0,0.0,0.45,0.64,1.1233,0.1,2026-11-11T01:34:56+00:00
+2026-11-11T01:35:16+00:00,miyoshi v shick,True,Braden Shick,polyus,0.36,Kenta Miyoshi (b. 2004),kalshi,0.6,0.9928,0.0,0.0,0,0.0,0.37,0.65,1.0521,0.0,2026-11-11T01:35:16+00:00
+2026-11-11T01:35:26+00:00,miyoshi v shick,True,Braden Shick,polyus,0.36,Kenta Miyoshi (b. 2004),kalshi,0.6,0.9928,0.0,0.0,0,0.0,0.37,0.65,1.0521,0.0,2026-11-11T01:35:16+00:00
+2026-11-11T01:38:46+00:00,giron v kasnikowski,True,Maks Kasnikowski,kalshi,0.15,Marcos Giron,polyus,0.83,0.9987,0.0,0.0,0,0.0,0.18,0.84,1.0397,0.1,2026-11-11T01:38:46+00:00
+2026-11-11T01:39:06+00:00,dellavedova v gorzny,True,Matthew Dellavedova,kalshi,0.04,Sebastian Gorzny,polyus,0.94,0.9866,0.0,0.0,0,0.0,0.07,0.97,1.0466,0.0,2026-11-11T01:39:06+00:00
+2026-11-11T01:39:16+00:00,miyoshi v shick,True,Braden Shick,kalshi,0.45,Kenta Miyoshi,polyus,0.5,0.9847,0.0,0.0,0,0.0,0.51,0.56,1.1046,0.1,2026-11-11T01:39:16+00:00
+2026-11-11T01:39:16+00:00,dellavedova v gorzny,True,Matthew Dellavedova,kalshi,0.04,Sebastian Gorzny,polyus,0.94,0.9866,0.0,55555.68,0,0.0,0.07,0.94,1.0185,0.1,2026-11-11T01:39:06+00:00
+2026-11-11T01:39:26+00:00,dellavedova v gorzny,True,Matthew Dellavedova,polyus,0.05,Sebastian Gorzny,kalshi,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.96,1.0372,0.0,2026-11-11T01:39:26+00:00
+2026-11-11T01:39:36+00:00,dellavedova v gorzny,True,Matthew Dellavedova,polyus,0.05,Sebastian Gorzny,kalshi,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.96,1.0372,0.0,2026-11-11T01:39:26+00:00
+2026-11-11T01:39:46+00:00,dellavedova v gorzny,True,Matthew Dellavedova,polyus,0.05,Sebastian Gorzny,kalshi,0.94,0.9972,0.0,0.0,0,0.0,0.06,0.96,1.0266,0.1,2026-11-11T01:39:26+00:00
