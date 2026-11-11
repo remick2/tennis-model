@@ -6,9 +6,10 @@ plus pre-match ones within 2c of an arb):
   2. for every cross-venue way to hold both players (Kalshi YES on A / NO on B's ticker, Polymarket US
      long / short), walks both ladders together, buying pairs while each extra pair costs < $1 after fees,
      capped by the paper cash sitting on each venue
-  3. if the whole order would net >= $1: "fires" two limit IOC orders (logged exactly as they'd be sent),
-     then re-reads both books to see what would actually have filled at those limits (one API round trip
-     later, about when real orders would land)
+  3. if the whole order would net >= $1: "fires" two limit IOC orders (logged exactly as they'd be sent):
+     Polymarket US first, then Kalshi for only the shares that filled (Polymarket US liquidity blinks out
+     mid-point; Kalshi's holds). Fills are simulated by re-reading each book when its order would land.
+     The both-at-once version is logged alongside as a what-if.
   4. if one leg fills short: first tries to buy the missing shares on that venue at break-even or better,
      then sells any leftover shares on the other leg at the bid (the "unwind"), and books the loss
   5. holds hedged pairs to settlement and pays each venue its winning leg (Kalshi result; Polymarket US
@@ -230,13 +231,16 @@ def summary(L):
              f"- Fires: {L['fires']} · settled: {L['settled']} · settled P&L **${L['settled_pnl']:+.2f}** "
              f"(includes unwinds: ${L['unwind_pnl']:+.2f})"]
     if len(f):
-        both = (f.filled_a >= f.shares) & (f.filled_b >= f.shares)
-        lines += [f"- Both legs fully filled: {both.mean():.0%} of fires · one leg short: {(f.filled_a != f.filled_b).sum()}"
-                  f" · expected ${f.expected.sum():.2f} vs simulated ${pd.to_numeric(f.sim_profit, errors='coerce').sum():.2f}",
+        new = f[f.get("mode", pd.Series(index=f.index, dtype=object)) == "polyus_first"] if "mode" in f else f.iloc[0:0]
+        num = lambda c: pd.to_numeric(new[c], errors="coerce").sum() if len(new) and c in new else 0.0
+        lines += [f"- Since the Polymarket-US-first switch: {len(new)} fires, {int(((new.filled_a > 0) | (new.filled_b > 0)).sum()) if len(new) else 0} traded, "
+                  f"{int((new.filled_a != new.filled_b).sum()) if len(new) else 0} with one leg short · simulated ${num('sim_profit'):.2f} "
+                  f"vs ${num('both_profit'):.2f} if both orders had gone at once",
+                  f"- All fires: {len(f)} · expected ${f.expected.sum():.2f} · simulated ${pd.to_numeric(f.sim_profit, errors='coerce').sum():.2f}",
                   f"- Median book-read time {1000 * f.read_secs.median():.0f} ms, fill check {1000 * f.fill_secs.median():.0f} ms",
                   "", "## Last 15 fires", "",
-                  f[["ts", "key", "live", "shares", "total", "expected", "filled_a", "filled_b", "unwind_pnl",
-                     "sim_profit"]].tail(15).to_markdown(index=False)]
+                  f[[c for c in ["ts", "key", "live", "mode", "shares", "total", "expected", "filled_a", "filled_b", "unwind_pnl",
+                       "sim_profit", "both_profit"] if c in f]].tail(15).to_markdown(index=False)]
     (OUT / "summary.md").write_text("\n".join(lines) + "\n")
 
 
@@ -305,85 +309,107 @@ def cycle(U, L, consumed, pool):
     return fires, best_total, read_secs
 
 
+def outcome(ia, got_a, ib, got_b, book_a, book_b, consumed, take_liq):
+    """What the bot ends up holding after both IOC legs: if one leg came up short, first buy the missing
+    shares on that venue at break-even or better (chase), then sell any leftover extra at the bid (unwind).
+    take_liq=True records the liquidity used (the real path); False for a what-if."""
+    qa, qb = sum(q for _, q in got_a), sum(q for _, q in got_b)
+    (pxa, fea), (pxb, feb) = leg_cost(got_a, FEE[ia[0]]), leg_cost(got_b, FEE[ib[0]])
+    spent = {ia[0]: pxa + fea, ib[0]: pxb + feb}
+    held = {ia[0]: qa, ib[0]: qb}
+    o = {"filled_a": qa, "filled_b": qb, "chase": 0, "unwound": 0, "unwind_pnl": 0.0, "naked": 0, "chase_fills": None,
+         "chase_inst": None}
+    if take_liq:
+        consumed.add(ia, got_a); consumed.add(ib, got_b)
+    if qa != qb:
+        long_i, short_i = (ia, ib) if qa > qb else (ib, ia)
+        short_book, long_book = (book_b, book_a) if qa > qb else (book_a, book_b)
+        extra = abs(qa - qb)
+        avg_long = spent[long_i[0]] / max(qa, qb)
+        if short_book:   # 1) chase on the short venue while the pair still costs <= $1
+            ladder = consumed.adjust(short_i, short_book[short_i[2]]["ask"])
+            ch = take([(p, q) for p, q in ladder if avg_long + unit_cost(p, FEE[short_i[0]]) <= 1.0], 1.0, extra)
+            o["chase"] = sum(q for _, q in ch)
+            if o["chase"]:
+                if take_liq:
+                    consumed.add(short_i, ch)
+                cp, cf = leg_cost(ch, FEE[short_i[0]])
+                spent[short_i[0]] += cp + cf
+                held[short_i[0]] += o["chase"]
+                o["chase_fills"], o["chase_inst"] = ch, short_i
+        left = extra - o["chase"]
+        if left > 0:     # 2) unwind the rest on the long venue at the bid
+            sold = take(long_book[long_i[2]]["bid"] if long_book else [], 0.0, left, better=lambda p, lim: p > lim)
+            o["unwound"] = sum(q for _, q in sold)
+            proceeds = sum(p * q for p, q in sold) - ceil_cent(sum(FEE[long_i[0]] * p * (1 - p) * q for p, q in sold))
+            o["unwind_pnl"] = round(proceeds - avg_long * o["unwound"], 2)
+            spent[long_i[0]] -= proceeds
+            held[long_i[0]] -= o["unwound"]
+            o["naked"] = left - o["unwound"]   # couldn't sell: rides to settlement unhedged
+    o["spent"], o["held"] = spent, held
+    o["cost"] = round(sum(spent.values()), 2)
+    hedged = min(held.values())
+    o["profit"] = None if o["naked"] else round(hedged - o["cost"], 2)   # cost is net of any unwind sale
+    return o
+
+
 def fire(key, m, L, consumed, pool, exp, ia, ib, sh, fa, fb, sa, sb, read_secs):
+    """Real path (ledger): Polymarket US order first; the Kalshi order goes out only for what filled, one
+    round trip later. What-if (logged only): both orders at once. Polymarket US liquidity blinks in and out
+    during live points (Nov 11: 3 of the first 4 simultaneous fires got 0 on Polymarket US and had to sell
+    the Kalshi leg back at ~$16 each), so the leg that fails goes first and a miss costs nothing."""
     ts = A.now().isoformat(timespec="seconds")
     lim_a, lim_b = ceil_cent(max(p for p, _ in fa)), ceil_cent(max(p for p, _ in fb))
     cid = uuid.uuid4().hex[:12]
     pay_a, pay_b = payload(ia, sh, lim_a, f"{cid}a"), payload(ib, sh, lim_b, f"{cid}b")
-    # both orders "land" now: re-read both books and fill each IOC at its limit
+    # t1: Polymarket US order lands (and, in the what-if, the Kalshi order too)
     t = time.time()
     (nb_a, _), (nb_b, _) = pool.map(lambda inst: read_book(inst[0], inst[1]), [ia, ib])
     fill_secs = time.time() - t
-    ask_a = consumed.adjust(ia, nb_a[ia[2]]["ask"]) if nb_a else []
-    ask_b = consumed.adjust(ib, nb_b[ib[2]]["ask"]) if nb_b else []
-    got_a, got_b = take(ask_a, lim_a, sh), take(ask_b, lim_b, sh)
-    qa, qb = sum(q for _, q in got_a), sum(q for _, q in got_b)
-    consumed.add(ia, got_a); consumed.add(ib, got_b)
-    (pxa, fea), (pxb, feb) = leg_cost(got_a, FEE[ia[0]]), leg_cost(got_b, FEE[ib[0]])
-    spent = {ia[0]: pxa + fea, ib[0]: pxb + feb}
-    chase = unwind_q = 0
-    unwind_pnl = 0.0
-    naked = chase_order = None
-    if qa != qb:
-        # one leg came up short. Long leg = the one with extra shares.
-        long_i, short_i = (ia, ib) if qa > qb else (ib, ia)
-        long_got, short_book = (got_a, nb_b) if qa > qb else (got_b, nb_a)
-        long_book = nb_a if qa > qb else nb_b
-        extra = abs(qa - qb)
-        avg_long = (spent[long_i[0]]) / max(qa, qb)
-        # 1) chase: buy the missing shares on the short venue if the pair still costs <= $1
-        if short_book:
-            ladder = consumed.adjust(short_i, short_book[short_i[2]]["ask"])
-            ok = [(p, q) for p, q in ladder if avg_long + unit_cost(p, FEE[short_i[0]]) <= 1.0]
-            ch = take(ok, 1.0, extra)
-            chase = sum(q for _, q in ch)
-            if chase:
-                consumed.add(short_i, ch)
-                cp, cf = leg_cost(ch, FEE[short_i[0]])
-                spent[short_i[0]] += cp + cf
-                chase_order = payload(short_i, chase, ceil_cent(max(p for p, _ in ch)), f"{cid}c")
-        # 2) unwind: sell what's still unhedged on the long venue at the bid
-        left = extra - chase
-        if left > 0:
-            bids = long_book[long_i[2]]["bid"] if long_book else []
-            sold = take(bids, 0.0, left, better=lambda p, lim: p > lim)
-            unwind_q = sum(q for _, q in sold)
-            proceeds = sum(p * q for p, q in sold) - ceil_cent(sum(FEE[long_i[0]] * p * (1 - p) * q for p, q in sold))
-            unwind_pnl = round(proceeds - avg_long * unwind_q, 2)
-            spent[long_i[0]] -= proceeds
-            if left - unwind_q > 0:
-                naked = (long_i, left - unwind_q)   # couldn't sell: rides to settlement unhedged
-    hedged = min(qa, qb) + chase
-    k_inst = ia if ia[0] == "kalshi" else ib
-    k_q = qa if ia[0] == "kalshi" else qb
-    p_q = qb if ia[0] == "kalshi" else qa
-    # shares held per venue after chase/unwind
-    held = {"kalshi": k_q, "polyus": p_q}
-    if qa != qb:
-        held[short_i[0]] += chase
-        held[long_i[0]] -= unwind_q
-    cost = round(sum(spent.values()), 2)
-    for venue, amt in spent.items():
-        L["cash"][venue] = round(L["cash"][venue] - amt, 2)
+    ask = lambda inst, nb: consumed.adjust(inst, nb[inst[2]]["ask"]) if nb else []
+    sim_a, sim_b = take(ask(ia, nb_a), lim_a, sh), take(ask(ib, nb_b), lim_b, sh)
+    what_if = outcome(ia, sim_a, ib, sim_b, nb_a, nb_b, consumed, take_liq=False)
+    # real path: Polymarket US leg fills at t1; Kalshi order for that many shares lands at t2
+    p_i, k_i = (ia, ib) if ia[0] == "polyus" else (ib, ia)
+    p_book = nb_a if p_i is ia else nb_b
+    p_lim, k_lim = (lim_a, lim_b) if p_i is ia else (lim_b, lim_a)
+    got_p = take(ask(p_i, p_book), p_lim, sh)
+    qp = sum(q for _, q in got_p)
+    got_k, k_book, seq_secs = [], None, 0.0
+    if qp:
+        t = time.time()
+        k_book, seq_secs = read_book(k_i[0], k_i[1])
+        got_k = take(ask(k_i, k_book), k_lim, qp)
+    got_a, got_b = (got_p, got_k) if p_i is ia else (got_k, got_p)
+    book_a, book_b = (p_book, k_book) if p_i is ia else (k_book, p_book)
+    o = outcome(ia, got_a, ib, got_b, book_a, book_b, consumed, take_liq=True)
+    if o["filled_a"] or o["filled_b"]:
+        for venue, amt in o["spent"].items():
+            L["cash"][venue] = round(L["cash"][venue] - amt, 2)
+        L["unwind_pnl"] = round(L["unwind_pnl"] + o["unwind_pnl"], 2)
+        if o["held"]["kalshi"] or o["held"]["polyus"]:
+            k_inst = ia if ia[0] == "kalshi" else ib
+            L["open"].append({"id": cid, "key": key, "opened": ts, "kalshi_ticker": k_inst[1], "kalshi_side": k_inst[2],
+                              "shares": o["held"], "cost": o["cost"], "expected": round(exp, 2)})
     L["fires"] += 1
-    L["unwind_pnl"] = round(L["unwind_pnl"] + unwind_pnl, 2)
-    sim = None if naked else round(hedged - cost, 2)   # cost is already net of any unwind sale
-    if held["kalshi"] or held["polyus"]:
-        # which Kalshi ticker/side decides the payout of the Kalshi leg
-        L["open"].append({"id": cid, "key": key, "opened": ts, "kalshi_ticker": k_inst[1], "kalshi_side": k_inst[2],
-                          "shares": held, "cost": cost, "expected": round(exp, 2)})
+    chase_order = (payload(o["chase_inst"], o["chase"], ceil_cent(max(p for p, _ in o["chase_fills"])), f"{cid}c")
+                   if o["chase"] else None)
     rec = {"ts": ts, "key": key, "live": m["live"], "shares": sh,
            "leg_a": f"{ia[0]}:{ia[1]}:{ia[2]}", "limit_a": lim_a, "leg_b": f"{ib[0]}:{ib[1]}:{ib[2]}", "limit_b": lim_b,
            "total": round((sum(p * q for p, q in fa) + sum(p * q for p, q in fb)) / sh +
                           (leg_cost(fa, FEE[ia[0]])[1] + leg_cost(fb, FEE[ib[0]])[1]) / sh, 4),
-           "expected": round(exp, 2), "filled_a": qa, "filled_b": qb, "chase": chase, "unwound": unwind_q,
-           "unwind_pnl": unwind_pnl, "naked": naked[1] if naked else 0, "cost": cost,
-           "sim_profit": sim if sim is not None else "",  # locked profit if fully hedged; blank if a naked leg rides
-           "read_secs": round(read_secs, 3), "fill_secs": round(fill_secs, 3),
+           "expected": round(exp, 2), "mode": "polyus_first",
+           "filled_a": o["filled_a"], "filled_b": o["filled_b"], "chase": o["chase"], "unwound": o["unwound"],
+           "unwind_pnl": o["unwind_pnl"], "naked": o["naked"], "cost": o["cost"] if (o["filled_a"] or o["filled_b"]) else 0,
+           "sim_profit": o["profit"] if o["profit"] is not None else "",
+           "both_filled_a": what_if["filled_a"], "both_filled_b": what_if["filled_b"],
+           "both_profit": what_if["profit"] if what_if["profit"] is not None else "",
+           "read_secs": round(read_secs, 3), "fill_secs": round(fill_secs, 3), "kalshi_after_secs": round(seq_secs, 3),
            "order_a": json.dumps(pay_a), "order_b": json.dumps(pay_b),
            "chase_order": json.dumps(chase_order) if chase_order else ""}
-    print(f"FIRE {key}: {sh} pairs, expect ${exp:.2f}; filled {qa}/{qb}, chase {chase}, unwound {unwind_q} "
-          f"({unwind_pnl:+.2f}), naked {rec['naked']}", flush=True)
+    print(f"FIRE {key}: {sh} pairs, expect ${exp:.2f}; polyus-first filled {o['filled_a']}/{o['filled_b']} -> "
+          f"{rec['sim_profit']}; both-at-once would be {what_if['filled_a']}/{what_if['filled_b']} -> {rec['both_profit']}",
+          flush=True)
     return rec
 
 
