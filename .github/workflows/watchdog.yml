@@ -1,5 +1,5 @@
 name: snapshot-watchdog
-# Restarts the tennis tracker, the consensus tracker and the arb scanner if any isn't running (e.g. a GitHub outage
+# Restarts the tennis tracker, the consensus tracker, the arb scanner and the dry-run bot if any isn't running (e.g. a GitHub outage
 # broke an hourly loop's handoff). Cron is unreliable, so this fires every 20 min to get several
 # chances an hour. Public repo: no cost.
 on:
@@ -20,7 +20,7 @@ jobs:
           R: ${{ github.repository }}
         run: |
           rc=0
-          for wf in snapshot.yml consensus.yml arbscan.yml; do
+          for wf in snapshot.yml consensus.yml arbscan.yml bot.yml; do
             active=0
             for s in in_progress queued pending waiting requested; do
               n=$(gh run list -R "$R" --workflow "$wf" --status "$s" --json databaseId --jq length 2>/dev/null || echo 0)

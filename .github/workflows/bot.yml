@@ -1,0 +1,33 @@
+name: dry-run-bot
+# DRY RUN: no keys, no real orders. Reads Kalshi + Polymarket US order books every ~2s for live and near-arb
+# matches, "fires" both legs as limit IOC orders on paper, simulates fills/unwinds, and keeps a paper ledger
+# (data/bot/). Each run lasts ~5h40m and requests its successor an hour early (it queues behind this one).
+on:
+  schedule:
+    - cron: "51 */3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: bot
+  cancel-in-progress: false
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: dry-run bot
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "tennis-bot-dryrun"
+          git config user.email "actions@users.noreply.github.com"
+          git fetch -q origin main && git checkout -q -B main origin/main
+          cd src && python -W ignore bot.py --minutes 340
