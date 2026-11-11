@@ -555,3 +555,103 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-11T16:24:04+00:00,maria v tubello,True,Alice Tubello,kalshi,0.82,Tatjana Maria,polyus,0.16,0.9997,0.0,0.0,0,0.0,0.85,0.18,1.0492,0.0,2026-11-11T16:24:04+00:00
 2026-11-11T16:24:24+00:00,forejtek v kouame,True,Jonas Forejtek,kalshi,0.37,Moise Kouame,polyus,0.56,0.9634,0.0,475.78,0,0.0,0.44,0.56,1.0344,0.0,2026-11-11T16:24:24+00:00
 2026-11-11T16:24:54+00:00,maria v tubello,True,Alice Tubello,kalshi,0.85,Tatjana Maria,polyus,0.13,0.9968,0.0,14316.28,0,0.0,0.88,0.13,1.0253,0.0,2026-11-11T16:24:54+00:00
+2026-11-11T16:25:54+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.89,Matteo Martineau,polyus,0.09,0.9925,0.0,0.0,0,0.0,0.92,0.12,1.0525,0.1,2026-11-11T16:25:54+00:00
+2026-11-11T16:26:24+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.9,Matteo Martineau,kalshi,0.08,0.9914,0.0,0.0,0,0.0,0.93,0.11,1.0514,0.0,2026-11-11T16:26:24+00:00
+2026-11-11T16:26:34+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.9,Matteo Martineau,kalshi,0.08,0.9914,0.0,0.0,0,0.0,0.93,0.11,1.0514,0.1,2026-11-11T16:26:24+00:00
+2026-11-11T16:27:04+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.9,Matteo Martineau,polyus,0.07,0.9808,0.0,0.0,0,0.0,0.94,0.11,1.0608,0.0,2026-11-11T16:27:04+00:00
+2026-11-11T16:27:04+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.47,Jazmin Ortenzi,kalshi,0.49,0.9948,0.0,0.0,0,0.0,0.51,0.54,1.0848,0.0,2026-11-11T16:27:04+00:00
+2026-11-11T16:27:14+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.9,Matteo Martineau,polyus,0.07,0.9808,0.0,41330.6,0,0.0,0.94,0.07,1.0185,0.1,2026-11-11T16:27:04+00:00
+2026-11-11T16:27:14+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.46,Jazmin Ortenzi,kalshi,0.49,0.9848,0.0,0.0,0,0.0,0.51,0.55,1.0947,0.0,2026-11-11T16:27:04+00:00
+2026-11-11T16:27:24+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.9,Matteo Martineau,polyus,0.07,0.9808,0.0,41330.6,0,0.0,0.94,0.07,1.0185,0.1,2026-11-11T16:27:04+00:00
+2026-11-11T16:27:34+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.91,Matteo Martineau,kalshi,0.07,0.9902,0.0,0.0,0,0.0,0.94,0.11,1.0608,0.0,2026-11-11T16:27:34+00:00
+2026-11-11T16:27:44+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.9,Matteo Martineau,kalshi,0.07,0.9808,24158.2,0.0,0,0.0,0.9,0.11,1.0231,0.1,2026-11-11T16:27:34+00:00
+2026-11-11T16:27:44+00:00,costoulas v samson,True,Laura Samson,kalshi,0.72,Sofia Costoulas,polyus,0.24,0.9868,0.0,0.0,0,0.0,0.77,0.29,1.0867,0.1,2026-11-11T16:27:44+00:00
+2026-11-11T16:27:54+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.9,Matteo Martineau,kalshi,0.07,0.9808,24158.2,0.0,0,0.0,0.9,0.11,1.0231,0.0,2026-11-11T16:27:34+00:00
+2026-11-11T16:27:54+00:00,costoulas v samson,True,Laura Samson,kalshi,0.72,Sofia Costoulas,polyus,0.24,0.9868,0.0,0.11,0,0.0,0.77,0.24,1.0351,0.0,2026-11-11T16:27:44+00:00
+2026-11-11T16:28:04+00:00,costoulas v samson,True,Laura Samson,kalshi,0.72,Sofia Costoulas,polyus,0.24,0.9868,0.0,0.11,0,0.0,0.77,0.24,1.0351,0.0,2026-11-11T16:27:44+00:00
+2026-11-11T16:28:24+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.9,Matteo Martineau,polyus,0.06,0.9702,0.0,0.0,0,0.0,0.94,0.11,1.0608,0.1,2026-11-11T16:28:24+00:00
+2026-11-11T16:28:34+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.85,Nikolas Sanchez Izquierdo,polyus,0.13,0.9968,0.0,0.0,0,0.0,0.87,0.16,1.0473,0.0,2026-11-11T16:28:34+00:00
+2026-11-11T16:28:44+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.85,Nikolas Sanchez Izquierdo,polyus,0.13,0.9968,0.0,0.0,0,0.0,0.87,0.16,1.0473,0.0,2026-11-11T16:28:34+00:00
+2026-11-11T16:28:54+00:00,maria v tubello,True,Alice Tubello,polyus,0.86,Tatjana Maria,kalshi,0.12,0.9958,37048.26,0.0,0,0.0,0.86,0.15,1.0273,0.1,2026-11-11T16:28:54+00:00
+2026-11-11T16:28:54+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.85,Nikolas Sanchez Izquierdo,polyus,0.13,0.9968,0.0,0.0,0,0.0,0.87,0.16,1.0473,0.1,2026-11-11T16:28:34+00:00
+2026-11-11T16:28:54+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.94,Matteo Martineau,polyus,0.05,0.9972,0.0,0.0,0,0.0,0.96,0.06,1.0266,0.1,2026-11-11T16:28:54+00:00
+2026-11-11T16:29:04+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.91,Matteo Martineau,kalshi,0.05,0.969,0.0,0.0,0,0.0,0.95,0.1,1.0596,0.1,2026-11-11T16:29:04+00:00
+2026-11-11T16:29:04+00:00,maria v tubello,True,Alice Tubello,polyus,0.86,Tatjana Maria,kalshi,0.12,0.9958,37048.26,0.0,0,0.0,0.86,0.15,1.0273,0.1,2026-11-11T16:28:54+00:00
+2026-11-11T16:29:14+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.91,Matteo Martineau,kalshi,0.05,0.969,20805.31,0.0,0,0.0,0.91,0.11,1.0325,0.1,2026-11-11T16:29:04+00:00
+2026-11-11T16:29:14+00:00,maria v tubello,True,Alice Tubello,polyus,0.83,Tatjana Maria,kalshi,0.15,0.9987,0.0,0.0,0,0.0,0.86,0.18,1.0587,0.0,2026-11-11T16:28:54+00:00
+2026-11-11T16:29:24+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.9,Matteo Martineau,kalshi,0.05,0.9596,0.0,0.0,0,0.0,0.91,0.11,1.0325,0.1,2026-11-11T16:29:04+00:00
+2026-11-11T16:29:24+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.87,Nikolas Sanchez Izquierdo,polyus,0.11,0.9947,0.0,0.0,0,0.0,0.89,0.13,1.0347,0.1,2026-11-11T16:29:24+00:00
+2026-11-11T16:29:24+00:00,maria v tubello,True,Alice Tubello,polyus,0.83,Tatjana Maria,kalshi,0.15,0.9987,35294.63,0.0,0,0.0,0.83,0.18,1.0301,0.1,2026-11-11T16:28:54+00:00
+2026-11-11T16:29:34+00:00,maria v tubello,True,Alice Tubello,polyus,0.82,Tatjana Maria,kalshi,0.15,0.9892,0.0,0.0,0,0.0,0.83,0.21,1.0614,0.0,2026-11-11T16:28:54+00:00
+2026-11-11T16:29:44+00:00,chidekh v maxted,True,Clement Chidekh,kalshi,0.64,Lui Maxted,polyus,0.32,0.9913,0.0,0.0,0,0.0,0.68,0.36,1.0712,0.0,2026-11-11T16:29:44+00:00
+2026-11-11T16:29:54+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.9,Matteo Martineau,polyus,0.07,0.9808,0.0,0.0,0,0.0,0.94,0.1,1.0502,0.0,2026-11-11T16:29:54+00:00
+2026-11-11T16:29:54+00:00,chidekh v maxted,True,Clement Chidekh,kalshi,0.64,Lui Maxted,polyus,0.32,0.9913,0.0,12429.22,0,0.0,0.68,0.32,1.0304,0.0,2026-11-11T16:29:44+00:00
+2026-11-11T16:29:54+00:00,costoulas v samson,True,Laura Samson,polyus,0.72,Sofia Costoulas,kalshi,0.25,0.9971,0.0,0.0,0,0.0,0.77,0.29,1.0867,0.0,2026-11-11T16:29:54+00:00
+2026-11-11T16:30:04+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.9,Matteo Martineau,polyus,0.07,0.9808,0.0,0.0,0,0.0,0.94,0.1,1.0502,0.0,2026-11-11T16:29:54+00:00
+2026-11-11T16:30:04+00:00,chidekh v maxted,True,Clement Chidekh,kalshi,0.64,Lui Maxted,polyus,0.32,0.9913,0.0,12429.22,0,0.0,0.69,0.32,1.0401,0.0,2026-11-11T16:29:44+00:00
+2026-11-11T16:30:04+00:00,costoulas v samson,True,Laura Samson,polyus,0.72,Sofia Costoulas,kalshi,0.25,0.9971,0.0,0.0,0,0.0,0.77,0.29,1.0867,0.0,2026-11-11T16:29:54+00:00
+2026-11-11T16:30:14+00:00,costoulas v samson,True,Laura Samson,polyus,0.72,Sofia Costoulas,kalshi,0.25,0.9971,0.0,0.0,0,0.0,0.77,0.29,1.0867,0.1,2026-11-11T16:29:54+00:00
+2026-11-11T16:30:24+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.94,Matteo Martineau,polyus,0.05,0.9972,0.0,0.0,0,0.0,0.96,0.07,1.0372,0.0,2026-11-11T16:30:24+00:00
+2026-11-11T16:30:34+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,kalshi,0.44,Jazmin Ortenzi,polyus,0.52,0.9946,0.0,33411.7,0,0.0,0.49,0.52,1.0448,0.0,2026-11-11T16:30:34+00:00
+2026-11-11T16:30:44+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.9,Matteo Martineau,kalshi,0.06,0.9702,9908.0,0.0,0,0.0,0.9,0.11,1.0231,0.0,2026-11-11T16:30:44+00:00
+2026-11-11T16:30:44+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,kalshi,0.44,Jazmin Ortenzi,polyus,0.51,0.9846,0.0,0.0,0,0.0,0.5,0.52,1.0548,0.0,2026-11-11T16:30:34+00:00
+2026-11-11T16:30:54+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.9,Matteo Martineau,kalshi,0.06,0.9702,9908.0,0.0,0,0.0,0.9,0.11,1.0231,0.0,2026-11-11T16:30:44+00:00
+2026-11-11T16:31:04+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.9,Matteo Martineau,kalshi,0.06,0.9702,9908.0,0.0,0,0.0,0.9,0.11,1.0231,0.0,2026-11-11T16:30:44+00:00
+2026-11-11T16:31:14+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.9,Nikolas Sanchez Izquierdo,polyus,0.08,0.9914,0.0,0.0,0,0.0,0.93,0.11,1.0514,0.0,2026-11-11T16:31:14+00:00
+2026-11-11T16:31:14+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.45,Jazmin Ortenzi,kalshi,0.51,0.9947,0.0,0.0,0,0.0,0.5,0.55,1.0847,0.0,2026-11-11T16:31:14+00:00
+2026-11-11T16:31:24+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.9,Nikolas Sanchez Izquierdo,polyus,0.08,0.9914,0.0,0.0,0,0.0,0.94,0.11,1.0608,0.0,2026-11-11T16:31:14+00:00
+2026-11-11T16:31:34+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.9,Nikolas Sanchez Izquierdo,polyus,0.08,0.9914,0.0,13338.61,0,0.0,0.93,0.08,1.0197,0.0,2026-11-11T16:31:14+00:00
+2026-11-11T16:31:34+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.4,Jazmin Ortenzi,kalshi,0.56,0.9939,0.0,0.0,0,0.0,0.45,0.61,1.0939,0.0,2026-11-11T16:31:34+00:00
+2026-11-11T16:31:44+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.4,Jazmin Ortenzi,kalshi,0.56,0.9939,0.0,0.0,0,0.0,0.45,0.61,1.0939,0.0,2026-11-11T16:31:34+00:00
+2026-11-11T16:32:04+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.34,Jazmin Ortenzi,kalshi,0.61,0.9822,10886.05,0.0,0,0.0,0.34,0.66,1.0313,0.0,2026-11-11T16:32:04+00:00
+2026-11-11T16:32:14+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.34,Jazmin Ortenzi,kalshi,0.61,0.9822,10886.05,0.0,0,0.0,0.34,0.67,1.0411,0.1,2026-11-11T16:32:04+00:00
+2026-11-11T16:32:34+00:00,izquierdo v misolic,True,Filip Misolic,polyus,0.86,Nikolas Sanchez Izquierdo,kalshi,0.1,0.9747,0.0,0.0,0,0.0,0.91,0.15,1.0746,0.0,2026-11-11T16:32:34+00:00
+2026-11-11T16:32:34+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,kalshi,0.35,Jazmin Ortenzi,polyus,0.61,0.9925,0.0,2885.95,0,0.0,0.4,0.61,1.0433,0.0,2026-11-11T16:32:34+00:00
+2026-11-11T16:32:44+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,kalshi,0.35,Jazmin Ortenzi,polyus,0.61,0.9925,0.0,2885.95,0,0.0,0.4,0.61,1.0433,0.0,2026-11-11T16:32:34+00:00
+2026-11-11T16:33:14+00:00,maria v tubello,True,Alice Tubello,polyus,0.75,Tatjana Maria,kalshi,0.22,0.995,0.0,0.0,0,0.0,0.79,0.26,1.075,0.0,2026-11-11T16:33:14+00:00
+2026-11-11T16:33:44+00:00,izquierdo v misolic,True,Filip Misolic,polyus,0.82,Nikolas Sanchez Izquierdo,kalshi,0.15,0.9892,0.0,0.0,0,0.0,0.86,0.19,1.0691,0.0,2026-11-11T16:33:44+00:00
+2026-11-11T16:33:54+00:00,izquierdo v misolic,True,Filip Misolic,polyus,0.82,Nikolas Sanchez Izquierdo,kalshi,0.15,0.9892,0.0,0.0,0,0.0,0.86,0.19,1.0691,0.0,2026-11-11T16:33:44+00:00
+2026-11-11T16:34:14+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.41,Jazmin Ortenzi,kalshi,0.53,0.9742,0.0,0.0,0,0.0,0.53,0.61,1.174,0.1,2026-11-11T16:34:14+00:00
+2026-11-11T16:34:54+00:00,maria v tubello,True,Alice Tubello,kalshi,0.81,Tatjana Maria,polyus,0.11,0.9376,0.0,0.0,0,0.0,0.9,0.17,1.0861,0.0,2026-11-11T16:34:54+00:00
+2026-11-11T16:34:54+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,kalshi,0.4,Jazmin Ortenzi,polyus,0.53,0.9641,0.0,0.0,0,0.0,0.48,0.61,1.124,0.1,2026-11-11T16:34:54+00:00
+2026-11-11T16:35:04+00:00,maria v tubello,True,Alice Tubello,kalshi,0.81,Tatjana Maria,polyus,0.12,0.9481,0.0,39974.490000000005,0,0.0,0.89,0.11,1.0137,0.0,2026-11-11T16:34:54+00:00
+2026-11-11T16:35:04+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,kalshi,0.4,Jazmin Ortenzi,polyus,0.53,0.9641,0.0,12404.04,0,0.0,0.48,0.53,1.0448,0.0,2026-11-11T16:34:54+00:00
+2026-11-11T16:35:24+00:00,izquierdo v misolic,True,Filip Misolic,polyus,0.76,Nikolas Sanchez Izquierdo,kalshi,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.25,1.0742,0.0,2026-11-11T16:35:24+00:00
+2026-11-11T16:35:34+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,kalshi,0.48,Jazmin Ortenzi,polyus,0.45,0.9647,0.0,14542.75,0,0.0,0.56,0.45,1.0444,0.0,2026-11-11T16:35:34+00:00
+2026-11-11T16:35:34+00:00,izquierdo v misolic,True,Filip Misolic,polyus,0.76,Nikolas Sanchez Izquierdo,kalshi,0.21,0.9943,43404.89,0.0,0,0.0,0.76,0.25,1.0358,0.0,2026-11-11T16:35:24+00:00
+2026-11-11T16:36:04+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.76,Matteo Martineau,kalshi,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.25,1.0742,0.0,2026-11-11T16:36:04+00:00
+2026-11-11T16:36:34+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.73,Matteo Martineau,kalshi,0.24,0.9965,0.0,0.0,0,0.0,0.76,0.28,1.0668,0.0,2026-11-11T16:36:34+00:00
+2026-11-11T16:36:44+00:00,izquierdo v misolic,True,Filip Misolic,polyus,0.74,Nikolas Sanchez Izquierdo,kalshi,0.23,0.9958,0.0,0.0,0,0.0,0.79,0.27,1.0853,0.1,2026-11-11T16:36:44+00:00
+2026-11-11T16:36:54+00:00,izquierdo v misolic,True,Filip Misolic,polyus,0.74,Nikolas Sanchez Izquierdo,kalshi,0.23,0.9958,0.0,0.0,0,0.0,0.79,0.27,1.0853,0.0,2026-11-11T16:36:44+00:00
+2026-11-11T16:37:04+00:00,izquierdo v misolic,True,Filip Misolic,polyus,0.74,Nikolas Sanchez Izquierdo,kalshi,0.23,0.9958,10875.4,0.0,0,0.0,0.74,0.27,1.0372,0.0,2026-11-11T16:36:44+00:00
+2026-11-11T16:37:14+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.75,Nikolas Sanchez Izquierdo,polyus,0.22,0.9951,0.0,0.0,0,0.0,0.78,0.27,1.0757,0.0,2026-11-11T16:37:14+00:00
+2026-11-11T16:37:24+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.69,Matteo Martineau,polyus,0.26,0.9783,0.0,0.0,0,0.0,0.75,0.33,1.1085,0.0,2026-11-11T16:37:24+00:00
+2026-11-11T16:37:24+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.75,Nikolas Sanchez Izquierdo,polyus,0.22,0.9951,0.0,0.0,0,0.0,0.78,0.27,1.0757,0.0,2026-11-11T16:37:14+00:00
+2026-11-11T16:37:34+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.69,Matteo Martineau,polyus,0.26,0.9783,0.0,0.0,0,0.0,0.75,0.33,1.1085,0.0,2026-11-11T16:37:24+00:00
+2026-11-11T16:37:34+00:00,maria v tubello,True,Alice Tubello,kalshi,0.89,Tatjana Maria,polyus,0.09,0.9925,0.0,0.0,0,0.0,0.92,0.13,1.063,0.0,2026-11-11T16:37:34+00:00
+2026-11-11T16:37:34+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.75,Nikolas Sanchez Izquierdo,polyus,0.22,0.9951,0.0,1368.0,0,0.0,0.77,0.22,1.0143,0.0,2026-11-11T16:37:14+00:00
+2026-11-11T16:37:44+00:00,maria v tubello,True,Alice Tubello,kalshi,0.89,Tatjana Maria,polyus,0.09,0.9925,0.0,0.0,0,0.0,0.92,0.13,1.063,0.0,2026-11-11T16:37:34+00:00
+2026-11-11T16:37:54+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.77,Nikolas Sanchez Izquierdo,polyus,0.18,0.9727,0.0,0.0,0,0.0,0.82,0.22,1.0623,0.0,2026-11-11T16:37:54+00:00
+2026-11-11T16:37:54+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.74,Matteo Martineau,polyus,0.23,0.9958,0.0,0.0,0,0.0,0.78,0.27,1.0757,0.0,2026-11-11T16:37:54+00:00
+2026-11-11T16:38:04+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.77,Nikolas Sanchez Izquierdo,polyus,0.18,0.9727,0.0,34279.31,0,0.0,0.82,0.18,1.0206,0.0,2026-11-11T16:37:54+00:00
+2026-11-11T16:38:04+00:00,fritz v norrie,True,Cameron Norrie,kalshi,0.11,Taylor Fritz,polyus,0.87,0.9947,0.0,0.0,0,0.0,0.14,0.89,1.0452,0.0,2026-11-11T16:38:04+00:00
+2026-11-11T16:38:04+00:00,gaston v martineau,True,Hugo Gaston,kalshi,0.74,Matteo Martineau,polyus,0.23,0.9958,0.0,0.0,0,0.0,0.78,0.27,1.0757,0.0,2026-11-11T16:37:54+00:00
+2026-11-11T16:38:24+00:00,costoulas v samson,True,Laura Samson,polyus,0.71,Sofia Costoulas,kalshi,0.26,0.9978,21249.0,0.0,0,0.0,0.71,0.3,1.039,0.0,2026-11-11T16:38:24+00:00
+2026-11-11T16:38:34+00:00,fritz v norrie,True,Cameron Norrie,kalshi,0.14,Taylor Fritz,polyus,0.83,0.9882,0.0,0.0,0,0.0,0.17,0.87,1.0577,0.0,2026-11-11T16:38:34+00:00
+2026-11-11T16:38:34+00:00,costoulas v samson,True,Laura Samson,polyus,0.71,Sofia Costoulas,kalshi,0.26,0.9978,21249.0,0.0,0,0.0,0.71,0.3,1.039,0.0,2026-11-11T16:38:24+00:00
+2026-11-11T16:38:34+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.83,Nikolas Sanchez Izquierdo,polyus,0.15,0.9987,0.0,0.0,0,0.0,0.85,0.19,1.0596,0.0,2026-11-11T16:38:34+00:00
+2026-11-11T16:38:44+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.55,Jazmin Ortenzi,kalshi,0.41,0.9941,0.0,0.0,0,0.0,0.56,0.46,1.0545,0.0,2026-11-11T16:38:44+00:00
+2026-11-11T16:38:44+00:00,costoulas v samson,True,Laura Samson,polyus,0.71,Sofia Costoulas,kalshi,0.26,0.9978,21249.0,0.0,0,0.0,0.71,0.3,1.039,0.0,2026-11-11T16:38:24+00:00
+2026-11-11T16:38:44+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.83,Nikolas Sanchez Izquierdo,polyus,0.15,0.9987,0.0,0.0,0,0.0,0.85,0.19,1.0596,0.0,2026-11-11T16:38:34+00:00
+2026-11-11T16:38:54+00:00,izquierdo v misolic,True,Filip Misolic,kalshi,0.83,Nikolas Sanchez Izquierdo,polyus,0.15,0.9987,0.0,0.0,0,0.0,0.85,0.19,1.0596,0.0,2026-11-11T16:38:34+00:00
+2026-11-11T16:39:04+00:00,chidekh v maxted,True,Clement Chidekh,kalshi,0.59,Lui Maxted,polyus,0.36,0.9829,0.0,0.0,0,0.0,0.65,0.41,1.0927,0.0,2026-11-11T16:39:04+00:00
+2026-11-11T16:39:04+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.5,Jazmin Ortenzi,kalshi,0.46,0.9948,3312.0,0.0,0,0.0,0.5,0.51,1.0449,0.0,2026-11-11T16:39:04+00:00
+2026-11-11T16:39:04+00:00,costoulas v samson,True,Laura Samson,polyus,0.68,Sofia Costoulas,kalshi,0.29,0.9995,0.0,0.0,0,0.0,0.72,0.33,1.0795,0.0,2026-11-11T16:39:04+00:00
+2026-11-11T16:39:14+00:00,chidekh v maxted,True,Clement Chidekh,kalshi,0.59,Lui Maxted,polyus,0.36,0.9829,0.0,0.0,0,0.0,0.66,0.41,1.1025,0.0,2026-11-11T16:39:04+00:00
+2026-11-11T16:39:14+00:00,garcia v ortenzi,True,Andrea Lazaro Garcia,polyus,0.5,Jazmin Ortenzi,kalshi,0.46,0.9948,3312.0,0.0,0,0.0,0.5,0.51,1.0449,0.0,2026-11-11T16:39:04+00:00
+2026-11-11T16:39:14+00:00,costoulas v samson,True,Laura Samson,polyus,0.68,Sofia Costoulas,kalshi,0.29,0.9995,0.0,0.0,0,0.0,0.72,0.33,1.0795,0.0,2026-11-11T16:39:04+00:00
+2026-11-11T16:39:24+00:00,chidekh v maxted,True,Clement Chidekh,kalshi,0.59,Lui Maxted,polyus,0.36,0.9829,0.0,0.0,0,0.0,0.66,0.41,1.1025,0.0,2026-11-11T16:39:04+00:00
+2026-11-11T16:39:44+00:00,fritz v norrie,True,Cameron Norrie,polyus,0.12,Taylor Fritz,kalshi,0.85,0.9863,0.0,0.0,0,0.0,0.17,0.89,1.0767,0.0,2026-11-11T16:39:44+00:00
+2026-11-11T16:39:54+00:00,fritz v norrie,True,Cameron Norrie,polyus,0.12,Taylor Fritz,kalshi,0.85,0.9863,61877.13,0.0,0,0.0,0.12,0.89,1.0242,0.0,2026-11-11T16:39:44+00:00
+2026-11-11T16:40:04+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.7,Matteo Martineau,kalshi,0.27,0.9984,0.0,0.0,0,0.0,0.74,0.31,1.0783,0.0,2026-11-11T16:40:04+00:00
+2026-11-11T16:40:14+00:00,gaston v martineau,True,Hugo Gaston,polyus,0.7,Matteo Martineau,kalshi,0.27,0.9984,55208.57,0.0,0,0.0,0.7,0.32,1.0498,0.0,2026-11-11T16:40:04+00:00
