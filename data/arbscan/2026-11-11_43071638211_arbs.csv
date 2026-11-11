@@ -418,3 +418,43 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-11T20:29:49+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.7,Miomir Kecmanovic,polyus,0.27,0.9984,0.0,26279.59,0,0.0,0.73,0.27,1.0275,0.1,2026-11-11T20:29:49+00:00
 2026-11-11T20:33:59+00:00,bonzi v gentzsch,True,Benjamin Bonzi,kalshi,0.84,Tom Gentzsch,polyus,0.14,0.9978,0.0,0.0,0,0.0,0.87,0.16,1.0473,0.1,2026-11-11T20:33:59+00:00
 2026-11-11T20:34:09+00:00,bonzi v gentzsch,True,Benjamin Bonzi,kalshi,0.84,Tom Gentzsch,polyus,0.14,0.9978,0.0,32158.66,0,0.0,0.87,0.14,1.0263,0.2,2026-11-11T20:33:59+00:00
+2026-11-11T20:35:09+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.75,Miomir Kecmanovic,polyus,0.22,0.9951,0.0,0.0,0,0.0,0.78,0.26,1.0654,0.1,2026-11-11T20:35:09+00:00
+2026-11-11T20:36:09+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.76,Miomir Kecmanovic,polyus,0.21,0.9943,0.0,0.0,0,0.0,0.79,0.25,1.0646,0.1,2026-11-11T20:36:09+00:00
+2026-11-11T20:36:39+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.8,Miomir Kecmanovic,polyus,0.15,0.9701,0.0,0.0,0,0.0,0.86,0.21,1.09,0.1,2026-11-11T20:36:39+00:00
+2026-11-11T20:36:49+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.8,Miomir Kecmanovic,polyus,0.15,0.9701,0.0,57204.44,0,0.0,0.87,0.15,1.0368,0.1,2026-11-11T20:36:39+00:00
+2026-11-11T20:36:59+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.83,Miomir Kecmanovic,kalshi,0.15,0.9987,0.0,0.0,0,0.0,0.86,0.18,1.0587,0.1,2026-11-11T20:36:59+00:00
+2026-11-11T20:37:09+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.83,Miomir Kecmanovic,kalshi,0.15,0.9987,0.0,0.0,0,0.0,0.86,0.18,1.0587,0.1,2026-11-11T20:36:59+00:00
+2026-11-11T20:37:39+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.87,Miomir Kecmanovic,polyus,0.1,0.9842,0.0,0.0,0,0.0,0.91,0.16,1.0851,0.1,2026-11-11T20:37:39+00:00
+2026-11-11T20:37:49+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.87,Miomir Kecmanovic,polyus,0.1,0.9842,0.0,40515.990000000005,0,0.0,0.91,0.09,1.0114,0.2,2026-11-11T20:37:39+00:00
+2026-11-11T20:38:09+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.36,Karolina Muchova,polyus,0.6,0.9928,0.0,0.0,0,0.0,0.41,0.65,1.0927,0.1,2026-11-11T20:38:09+00:00
+2026-11-11T20:38:19+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.36,Karolina Muchova,polyus,0.6,0.9928,0.0,18082.2,0,0.0,0.41,0.6,1.0436,0.1,2026-11-11T20:38:09+00:00
+2026-11-11T20:38:59+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.9,Miomir Kecmanovic,kalshi,0.08,0.9914,0.0,0.0,0,0.0,0.91,0.09,1.0114,0.1,2026-11-11T20:38:59+00:00
+2026-11-11T20:39:19+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.9,Miomir Kecmanovic,polyus,0.08,0.9914,0.0,24149.45,0,0.0,0.92,0.08,1.0103,0.1,2026-11-11T20:39:19+00:00
+2026-11-11T20:39:29+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.9,Miomir Kecmanovic,polyus,0.07,0.9808,0.0,0.0,0,0.0,0.93,0.08,1.0197,0.1,2026-11-11T20:39:19+00:00
+2026-11-11T20:39:39+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.9,Miomir Kecmanovic,polyus,0.07,0.9808,0.0,0.0,0,0.0,0.94,0.08,1.0291,0.1,2026-11-11T20:39:19+00:00
+2026-11-11T20:39:59+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.07,Marina Bassols Ribera,kalshi,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0396,0.1,2026-11-11T20:39:59+00:00
+2026-11-11T20:40:09+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.07,Marina Bassols Ribera,kalshi,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0396,0.1,2026-11-11T20:39:59+00:00
+2026-11-11T20:40:49+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.28,Karolina Muchova,polyus,0.68,0.9892,0.0,0.0,0,0.0,0.33,0.73,1.0892,0.1,2026-11-11T20:40:49+00:00
+2026-11-11T20:40:59+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.28,Karolina Muchova,polyus,0.68,0.9892,0.0,0.0,0,0.0,0.33,0.73,1.0892,0.1,2026-11-11T20:40:49+00:00
+2026-11-11T20:41:09+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.28,Karolina Muchova,polyus,0.68,0.9892,0.0,0.0,0,0.0,0.33,0.73,1.0892,0.1,2026-11-11T20:40:49+00:00
+2026-11-11T20:41:19+00:00,muchova v svitolina,True,Elina Svitolina,kalshi,0.28,Karolina Muchova,polyus,0.68,0.9892,0.0,15625.87,0,0.0,0.33,0.68,1.0406,0.1,2026-11-11T20:40:49+00:00
+2026-11-11T20:41:39+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.29,Karolina Muchova,kalshi,0.68,0.9995,0.0,0.0,0,0.0,0.33,0.72,1.0795,0.1,2026-11-11T20:41:39+00:00
+2026-11-11T20:41:49+00:00,muchova v svitolina,True,Elina Svitolina,polyus,0.29,Karolina Muchova,kalshi,0.68,0.9995,12701.05,0.0,0,0.0,0.29,0.72,1.0384,0.1,2026-11-11T20:41:39+00:00
+2026-11-11T20:42:19+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.05,Marina Bassols Ribera,kalshi,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.96,1.0372,0.1,2026-11-11T20:42:19+00:00
+2026-11-11T20:42:29+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.05,Marina Bassols Ribera,kalshi,0.94,0.9972,10750.84,0.0,0,0.0,0.05,0.96,1.016,0.1,2026-11-11T20:42:19+00:00
+2026-11-11T20:45:49+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.83,Miomir Kecmanovic,kalshi,0.13,0.9777,0.0,0.0,0,0.0,0.88,0.18,1.0777,0.1,2026-11-11T20:45:49+00:00
+2026-11-11T20:45:59+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.83,Miomir Kecmanovic,kalshi,0.13,0.9777,53271.06,0.0,0,0.0,0.83,0.18,1.0301,0.1,2026-11-11T20:45:49+00:00
+2026-11-11T20:46:09+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.83,Miomir Kecmanovic,kalshi,0.13,0.9777,53271.06,0.0,0,0.0,0.83,0.18,1.0301,0.1,2026-11-11T20:45:49+00:00
+2026-11-11T20:47:29+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.85,Miomir Kecmanovic,polyus,0.12,0.9863,0.0,0.0,0,0.0,0.89,0.14,1.0452,0.1,2026-11-11T20:47:29+00:00
+2026-11-11T20:47:39+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.85,Miomir Kecmanovic,polyus,0.12,0.9863,0.0,0.0,0,0.0,0.89,0.14,1.0452,0.1,2026-11-11T20:47:29+00:00
+2026-11-11T20:47:49+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.85,Miomir Kecmanovic,polyus,0.12,0.9863,0.0,0.0,0,0.0,0.89,0.14,1.0452,0.1,2026-11-11T20:47:29+00:00
+2026-11-11T20:48:09+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.83,Miomir Kecmanovic,kalshi,0.12,0.9672,0.0,0.0,0,0.0,0.89,0.18,1.0871,0.1,2026-11-11T20:48:09+00:00
+2026-11-11T20:48:19+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.83,Miomir Kecmanovic,kalshi,0.12,0.9672,0.0,0.0,0,0.0,0.89,0.18,1.0871,0.1,2026-11-11T20:48:09+00:00
+2026-11-11T20:48:29+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.7,Miomir Kecmanovic,kalshi,0.12,0.842,0.0,0.0,0,0.0,0.83,0.31,1.1648,0.1,2026-11-11T20:48:09+00:00
+2026-11-11T20:48:39+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.7,Miomir Kecmanovic,kalshi,0.18,0.9049,0.0,0.0,0,0.0,0.83,0.31,1.1648,0.1,2026-11-11T20:48:09+00:00
+2026-11-11T20:48:49+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.7,Miomir Kecmanovic,kalshi,0.18,0.9049,0.0,0.0,0,0.0,0.83,0.31,1.1648,0.1,2026-11-11T20:48:09+00:00
+2026-11-11T20:48:59+00:00,kecmanovic v rune,True,Holger Rune,polyus,0.69,Miomir Kecmanovic,kalshi,0.18,0.8952,15629.28,0.0,0,0.0,0.69,0.32,1.0401,0.1,2026-11-11T20:48:09+00:00
+2026-11-11T20:48:59+00:00,bonzi v gentzsch,True,Benjamin Bonzi,polyus,0.73,Tom Gentzsch,kalshi,0.22,0.9757,0.0,0.0,0,0.0,0.79,0.28,1.0956,0.1,2026-11-11T20:48:59+00:00
+2026-11-11T20:49:29+00:00,bonzi v gentzsch,True,Benjamin Bonzi,polyus,0.57,Tom Gentzsch,kalshi,0.28,0.8811,0.0,0.0,0,0.0,0.73,0.44,1.2009,0.1,2026-11-11T20:49:29+00:00
+2026-11-11T20:49:39+00:00,bonzi v gentzsch,True,Benjamin Bonzi,polyus,0.57,Tom Gentzsch,kalshi,0.28,0.8811,0.0,0.0,0,0.0,0.73,0.44,1.2009,0.1,2026-11-11T20:49:29+00:00
+2026-11-11T20:49:49+00:00,kecmanovic v rune,True,Holger Rune,kalshi,0.66,Miomir Kecmanovic,polyus,0.3,0.9903,0.0,0.0,0,0.0,0.71,0.35,1.0902,0.1,2026-11-11T20:49:49+00:00
