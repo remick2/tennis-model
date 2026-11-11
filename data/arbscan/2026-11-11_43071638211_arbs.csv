@@ -352,3 +352,56 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-11T20:02:29+00:00,milavsky v mmoh,True,Daniel Milavsky,polyus,0.79,Michael Mmoh,kalshi,0.18,0.9919,65084.18,0.0,0,0.0,0.79,0.22,1.0335,0.1,2026-11-11T20:02:09+00:00
 2026-11-11T20:03:39+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.05,Tristan Boyer,polyus,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.96,1.0372,0.2,2026-11-11T20:03:39+00:00
 2026-11-11T20:03:49+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.05,Tristan Boyer,polyus,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.96,1.0372,0.1,2026-11-11T20:03:39+00:00
+2026-11-11T20:05:19+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.45,Marina Bassols Ribera,kalshi,0.5,0.9847,4244.64,0.0,0,0.0,0.45,0.56,1.0444,0.1,2026-11-11T20:05:19+00:00
+2026-11-11T20:05:19+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.04,Tristan Boyer,kalshi,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.1,2026-11-11T20:05:19+00:00
+2026-11-11T20:05:29+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.45,Marina Bassols Ribera,kalshi,0.5,0.9847,4244.64,0.0,0,0.0,0.45,0.56,1.0444,0.1,2026-11-11T20:05:19+00:00
+2026-11-11T20:05:29+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.04,Tristan Boyer,kalshi,0.95,0.996,22490.17,0.0,0,0.0,0.04,0.97,1.0147,0.2,2026-11-11T20:05:19+00:00
+2026-11-11T20:05:49+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.78,Michael Mmoh,polyus,0.17,0.9718,0.0,0.0,0,0.0,0.84,0.27,1.1331,0.1,2026-11-11T20:05:49+00:00
+2026-11-11T20:05:59+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.78,Michael Mmoh,polyus,0.17,0.9718,0.0,0.0,0,0.0,0.84,0.27,1.1331,0.1,2026-11-11T20:05:49+00:00
+2026-11-11T20:05:59+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.39,Marina Bassols Ribera,kalshi,0.56,0.9838,0.0,0.0,0,0.0,0.45,0.62,1.1037,0.1,2026-11-11T20:05:59+00:00
+2026-11-11T20:05:59+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.03,Tristan Boyer,kalshi,0.96,0.9947,0.0,0.0,0,0.0,0.05,0.98,1.0347,0.2,2026-11-11T20:05:59+00:00
+2026-11-11T20:06:09+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.78,Michael Mmoh,polyus,0.17,0.9718,0.0,45708.63,0,0.0,0.84,0.17,1.0292,0.1,2026-11-11T20:05:49+00:00
+2026-11-11T20:06:09+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.39,Marina Bassols Ribera,kalshi,0.56,0.9838,0.0,0.0,0,0.0,0.45,0.62,1.1037,0.1,2026-11-11T20:05:59+00:00
+2026-11-11T20:06:09+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.03,Tristan Boyer,kalshi,0.96,0.9947,0.0,0.0,0,0.0,,0.98,,6.1,2026-11-11T20:05:59+00:00
+2026-11-11T20:06:39+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.84,Michael Mmoh,polyus,0.12,0.9767,0.0,42938.76,0,0.0,0.89,0.12,1.0242,0.1,2026-11-11T20:06:39+00:00
+2026-11-11T20:06:39+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.03,Tristan Boyer,polyus,0.96,0.9947,0.0,0.0,0,0.0,0.05,0.98,1.0347,0.2,2026-11-11T20:06:39+00:00
+2026-11-11T20:06:49+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.84,Michael Mmoh,polyus,0.12,0.9767,0.0,42938.76,0,0.0,0.89,0.12,1.0242,0.1,2026-11-11T20:06:39+00:00
+2026-11-11T20:06:49+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.03,Tristan Boyer,polyus,0.96,0.9947,0.0,0.0,0,0.0,0.05,0.98,1.0347,0.1,2026-11-11T20:06:39+00:00
+2026-11-11T20:07:09+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.89,Michael Mmoh,polyus,0.08,0.982,0.0,0.0,0,0.0,0.93,0.15,1.0934,0.1,2026-11-11T20:07:09+00:00
+2026-11-11T20:07:19+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.89,Michael Mmoh,polyus,0.08,0.982,0.0,0.0,0,0.0,0.93,0.15,1.0934,0.1,2026-11-11T20:07:09+00:00
+2026-11-11T20:07:29+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.89,Michael Mmoh,polyus,0.08,0.982,0.0,0.0,0,0.0,0.93,0.15,1.0934,0.1,2026-11-11T20:07:09+00:00
+2026-11-11T20:07:49+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.93,Michael Mmoh,polyus,0.04,0.9772,0.0,0.0,0,0.0,0.98,0.08,1.0665,0.1,2026-11-11T20:07:49+00:00
+2026-11-11T20:07:59+00:00,milavsky v mmoh,True,Daniel Milavsky,kalshi,0.93,Michael Mmoh,polyus,0.03,0.9666,0.0,0.0,0,0.0,0.98,0.08,1.0665,0.1,2026-11-11T20:07:49+00:00
+2026-11-11T20:08:09+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.03,Tristan Boyer,polyus,0.96,0.9947,0.0,0.0,0,0.0,0.05,0.98,1.0347,0.2,2026-11-11T20:08:09+00:00
+2026-11-11T20:08:19+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.03,Tristan Boyer,polyus,0.96,0.9947,0.0,0.0,0,0.0,0.05,0.98,1.0347,0.1,2026-11-11T20:08:09+00:00
+2026-11-11T20:08:39+00:00,bassols v carle,True,Maria Carle,kalshi,0.35,Marina Bassols Ribera,polyus,0.61,0.9925,0.0,0.0,0,0.0,0.4,0.66,1.0924,0.1,2026-11-11T20:08:39+00:00
+2026-11-11T20:08:49+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.05,Tristan Boyer,polyus,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.97,1.0466,0.1,2026-11-11T20:08:49+00:00
+2026-11-11T20:08:59+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.05,Tristan Boyer,polyus,0.94,0.9972,0.0,52920.78,0,0.0,0.07,0.94,1.0185,0.2,2026-11-11T20:08:49+00:00
+2026-11-11T20:09:09+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.05,Tristan Boyer,kalshi,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.96,1.0372,0.1,2026-11-11T20:09:09+00:00
+2026-11-11T20:09:19+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.35,Marina Bassols Ribera,kalshi,0.61,0.9925,0.0,0.0,0,0.0,0.41,0.66,1.1025,0.1,2026-11-11T20:09:19+00:00
+2026-11-11T20:09:19+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.05,Tristan Boyer,kalshi,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.96,1.0372,0.1,2026-11-11T20:09:09+00:00
+2026-11-11T20:09:29+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.35,Marina Bassols Ribera,kalshi,0.61,0.9925,0.0,0.0,0,0.0,0.41,0.66,1.1025,0.1,2026-11-11T20:09:19+00:00
+2026-11-11T20:09:29+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.05,Tristan Boyer,kalshi,0.94,0.9972,48831.8,0.0,0,0.0,0.05,0.96,1.016,0.2,2026-11-11T20:09:09+00:00
+2026-11-11T20:09:59+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.29,Marina Bassols Ribera,kalshi,0.66,0.98,0.0,0.0,0,0.0,0.35,0.71,1.0902,0.1,2026-11-11T20:09:59+00:00
+2026-11-11T20:09:59+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.05,Tristan Boyer,polyus,0.94,0.9972,0.0,14118.41,0,0.0,0.07,0.94,1.0185,0.2,2026-11-11T20:09:59+00:00
+2026-11-11T20:10:09+00:00,boyer v tabata,True,Ryo Tabata,kalshi,0.05,Tristan Boyer,polyus,0.94,0.9972,0.0,14118.41,0,0.0,0.07,0.94,1.0185,0.1,2026-11-11T20:09:59+00:00
+2026-11-11T20:10:29+00:00,bassols v carle,True,Maria Carle,kalshi,0.29,Marina Bassols Ribera,polyus,0.66,0.98,0.0,0.0,0,0.0,0.35,0.72,1.0999,0.1,2026-11-11T20:10:29+00:00
+2026-11-11T20:10:39+00:00,bassols v carle,True,Maria Carle,kalshi,0.29,Marina Bassols Ribera,polyus,0.66,0.98,0.0,0.0,0,0.0,0.35,0.72,1.0999,0.1,2026-11-11T20:10:29+00:00
+2026-11-11T20:10:39+00:00,boyer v tabata,True,Ryo Tabata,polyus,0.05,Tristan Boyer,kalshi,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.96,1.0372,0.1,2026-11-11T20:10:39+00:00
+2026-11-11T20:11:49+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.36,Marina Bassols Ribera,kalshi,0.59,0.9829,0.0,0.0,0,0.0,0.43,0.65,1.113,0.1,2026-11-11T20:11:49+00:00
+2026-11-11T20:11:59+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.36,Marina Bassols Ribera,kalshi,0.59,0.9829,0.0,0.0,0,0.0,0.43,0.65,1.113,0.1,2026-11-11T20:11:49+00:00
+2026-11-11T20:12:09+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.36,Marina Bassols Ribera,kalshi,0.59,0.9829,0.0,0.0,0,0.0,0.43,0.66,1.1227,0.1,2026-11-11T20:11:49+00:00
+2026-11-11T20:12:19+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.3,Marina Bassols Ribera,kalshi,0.65,0.9805,0.0,0.0,0,0.0,0.36,0.71,1.1004,0.1,2026-11-11T20:11:49+00:00
+2026-11-11T20:12:29+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.3,Marina Bassols Ribera,kalshi,0.65,0.9805,0.0,0.0,0,0.0,0.36,0.71,1.1004,0.1,2026-11-11T20:11:49+00:00
+2026-11-11T20:12:39+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.3,Marina Bassols Ribera,kalshi,0.65,0.9805,0.0,0.0,0,0.0,0.36,0.72,1.1101,0.1,2026-11-11T20:11:49+00:00
+2026-11-11T20:15:19+00:00,bassols v carle,True,Maria Carle,kalshi,0.26,Marina Bassols Ribera,polyus,0.71,0.9978,0.0,12895.45,0,0.0,0.3,0.71,1.039,0.1,2026-11-11T20:15:19+00:00
+2026-11-11T20:15:29+00:00,bassols v carle,True,Maria Carle,kalshi,0.26,Marina Bassols Ribera,polyus,0.71,0.9978,0.0,12895.45,0,0.0,0.3,0.71,1.039,0.1,2026-11-11T20:15:19+00:00
+2026-11-11T20:16:29+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.22,Marina Bassols Ribera,kalshi,0.74,0.9854,0.0,0.0,0,0.0,0.27,0.79,1.0853,0.1,2026-11-11T20:16:29+00:00
+2026-11-11T20:16:39+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.22,Marina Bassols Ribera,kalshi,0.74,0.9854,0.0,0.0,0,0.0,0.27,0.79,1.0853,0.1,2026-11-11T20:16:29+00:00
+2026-11-11T20:16:59+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.18,Marina Bassols Ribera,kalshi,0.79,0.9919,0.0,0.0,0,0.0,0.22,0.83,1.0718,0.1,2026-11-11T20:16:59+00:00
+2026-11-11T20:17:09+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.18,Marina Bassols Ribera,kalshi,0.79,0.9919,0.0,0.0,0,0.0,0.22,0.83,1.0718,0.1,2026-11-11T20:16:59+00:00
+2026-11-11T20:17:29+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.15,Marina Bassols Ribera,kalshi,0.83,0.9987,0.0,0.0,0,0.0,0.18,0.86,1.0587,0.1,2026-11-11T20:17:29+00:00
+2026-11-11T20:17:39+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.15,Marina Bassols Ribera,kalshi,0.83,0.9987,0.0,0.0,0,0.0,0.18,0.86,1.0587,0.1,2026-11-11T20:17:29+00:00
+2026-11-11T20:17:49+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.15,Marina Bassols Ribera,kalshi,0.83,0.9987,35980.92,0.0,0,0.0,0.15,0.86,1.0273,0.1,2026-11-11T20:17:29+00:00
+2026-11-11T20:17:59+00:00,bassols v carle,True,Maria Lourdes Carle,polyus,0.15,Marina Bassols Ribera,kalshi,0.83,0.9987,35980.92,0.0,0,0.0,0.15,0.86,1.0273,0.1,2026-11-11T20:17:29+00:00
+2026-11-11T20:19:29+00:00,bonzi v gentzsch,True,Benjamin Bonzi,kalshi,0.85,Tom Gentzsch,polyus,0.13,0.9968,0.0,0.0,0,0.0,0.88,0.16,1.0567,0.1,2026-11-11T20:19:29+00:00
