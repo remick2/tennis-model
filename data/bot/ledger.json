@@ -1,0 +1,26 @@
+{
+ "started": "2026-11-11T21:58:22+00:00",
+ "cash": {
+  "kalshi": 239.64,
+  "polyus": 0.16
+ },
+ "open": [
+  {
+   "id": "2c19845261c7",
+   "key": "muchova v svitolina",
+   "opened": "2026-11-11T22:07:00+00:00",
+   "kalshi_ticker": "KXWTAMATCH-26NOV11SVIMUC-SVI",
+   "kalshi_side": "no",
+   "shares": {
+    "kalshi": 406,
+    "polyus": 406
+   },
+   "cost": 400.84,
+   "expected": 5.16
+  }
+ ],
+ "settled_pnl": 0.0,
+ "unwind_pnl": -49.36,
+ "fires": 4,
+ "settled": 0
+}
