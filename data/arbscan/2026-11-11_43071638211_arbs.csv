@@ -672,3 +672,60 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-11T23:05:30+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.94,Petr Nesterov,polyus,0.05,0.9972,0.0,0.0,0,0.0,0.96,0.09,1.0584,0.1,2026-11-11T23:05:30+00:00
 2026-11-11T23:05:40+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.94,Petr Nesterov,polyus,0.05,0.9972,0.0,0.0,0,0.0,0.96,0.09,1.0584,0.1,2026-11-11T23:05:30+00:00
 2026-11-11T23:06:20+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.93,Pyotr Nesterov,kalshi,0.04,0.9772,0.0,0.0,0,0.0,0.98,0.08,1.0665,0.1,2026-11-11T23:06:20+00:00
+2026-11-11T23:06:30+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.94,Pyotr Nesterov,kalshi,0.04,0.9866,0.0,0.0,0,0.0,0.98,0.08,1.0665,0.1,2026-11-11T23:06:20+00:00
+2026-11-11T23:06:40+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.93,Pyotr Nesterov,kalshi,0.04,0.9772,0.0,0.0,0,0.0,0.98,0.08,1.0665,0.1,2026-11-11T23:06:20+00:00
+2026-11-11T23:07:10+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.93,Petr Nesterov,polyus,0.05,0.9879,0.0,0.0,0,0.0,0.96,0.08,1.0478,0.1,2026-11-11T23:07:10+00:00
+2026-11-11T23:07:20+00:00,bellucci v gueymard,True,Mattia Bellucci,polyus,0.59,Sascha Gueymard Wayenburg,kalshi,0.37,0.9931,0.0,0.0,0,0.0,0.66,0.42,1.1126,0.1,2026-11-11T23:07:20+00:00
+2026-11-11T23:07:30+00:00,bellucci v gueymard,True,Mattia Bellucci,polyus,0.59,Sascha Gueymard Wayenburg,kalshi,0.37,0.9931,21789.92,0.0,0,0.0,0.59,0.42,1.0439,0.1,2026-11-11T23:07:20+00:00
+2026-11-11T23:07:40+00:00,bellucci v gueymard,True,Mattia Bellucci,polyus,0.59,Sascha Gueymard Wayenburg,kalshi,0.37,0.9931,21789.92,0.0,0,0.0,0.59,0.42,1.0439,0.1,2026-11-11T23:07:20+00:00
+2026-11-11T23:07:50+00:00,bellucci v gueymard,True,Mattia Bellucci,polyus,0.59,Sascha Gueymard Wayenburg,kalshi,0.37,0.9931,21789.92,0.0,0,0.0,0.59,0.42,1.0439,0.1,2026-11-11T23:07:20+00:00
+2026-11-11T23:07:50+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.52,Mirra Andreeva,kalshi,0.44,0.9946,0.0,0.0,0,0.0,0.54,0.49,1.0648,0.1,2026-11-11T23:07:50+00:00
+2026-11-11T23:07:50+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.96,Petr Nesterov,polyus,0.03,0.9947,0.0,620.14,0,0.0,0.97,0.03,1.0041,0.1,2026-11-11T23:07:50+00:00
+2026-11-11T23:08:00+00:00,bellucci v gueymard,True,Mattia Bellucci,kalshi,0.59,Sascha Gueymard-Wayenburg,polyus,0.37,0.9931,0.0,56307.34,0,0.0,0.64,0.37,1.0423,0.1,2026-11-11T23:08:00+00:00
+2026-11-11T23:08:00+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.52,Mirra Andreeva,kalshi,0.44,0.9946,40526.74,0.0,0,0.0,0.52,0.49,1.0448,0.1,2026-11-11T23:07:50+00:00
+2026-11-11T23:08:10+00:00,bellucci v gueymard,True,Mattia Bellucci,kalshi,0.59,Sascha Gueymard-Wayenburg,polyus,0.37,0.9931,0.0,56307.34,0,0.0,0.64,0.37,1.0423,0.1,2026-11-11T23:08:00+00:00
+2026-11-11T23:08:20+00:00,bellucci v gueymard,True,Mattia Bellucci,kalshi,0.59,Sascha Gueymard-Wayenburg,polyus,0.37,0.9931,0.0,56307.34,0,0.0,0.64,0.37,1.0423,0.1,2026-11-11T23:08:00+00:00
+2026-11-11T23:08:20+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.97,Petr Nesterov,polyus,0.02,0.9934,0.0,0.0,0,0.0,0.99,0.07,1.0652,0.1,2026-11-11T23:08:20+00:00
+2026-11-11T23:10:10+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.96,Pyotr Nesterov,kalshi,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.1,2026-11-11T23:10:10+00:00
+2026-11-11T23:10:20+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.96,Pyotr Nesterov,kalshi,0.03,0.9947,22669.82,0.0,0,0.0,0.96,0.05,1.016,0.2,2026-11-11T23:10:10+00:00
+2026-11-11T23:10:30+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.44,Mirra Andreeva,kalshi,0.51,0.9846,24940.09,0.0,0,0.0,0.44,0.57,1.0443,0.1,2026-11-11T23:10:30+00:00
+2026-11-11T23:10:30+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.96,Pyotr Nesterov,kalshi,0.03,0.9947,22669.82,0.0,0,0.0,0.96,0.05,1.016,0.1,2026-11-11T23:10:10+00:00
+2026-11-11T23:10:40+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.44,Mirra Andreeva,kalshi,0.51,0.9846,24940.09,0.0,0,0.0,0.44,0.57,1.0443,0.1,2026-11-11T23:10:30+00:00
+2026-11-11T23:10:40+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.96,Pyotr Nesterov,kalshi,0.03,0.9947,22669.82,0.0,0,0.0,0.96,0.05,1.016,0.1,2026-11-11T23:10:10+00:00
+2026-11-11T23:11:00+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.37,Mirra Andreeva,kalshi,0.57,0.9734,12837.63,0.0,0,0.0,0.37,0.64,1.0423,0.1,2026-11-11T23:11:00+00:00
+2026-11-11T23:11:10+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.37,Mirra Andreeva,kalshi,0.57,0.9734,12837.63,0.0,0,0.0,0.37,0.64,1.0423,0.1,2026-11-11T23:11:00+00:00
+2026-11-11T23:11:30+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.31,Mirra Andreeva,kalshi,0.64,0.981,32055.81,0.0,0,0.0,0.31,0.7,1.0396,0.1,2026-11-11T23:11:30+00:00
+2026-11-11T23:11:40+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.31,Mirra Andreeva,kalshi,0.64,0.981,32055.81,0.0,0,0.0,0.31,0.7,1.0396,0.1,2026-11-11T23:11:30+00:00
+2026-11-11T23:12:30+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.96,Pyotr Nesterov,kalshi,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.1,2026-11-11T23:12:30+00:00
+2026-11-11T23:12:40+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.96,Pyotr Nesterov,kalshi,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.1,2026-11-11T23:12:30+00:00
+2026-11-11T23:13:50+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.98,Pyotr Nesterov,kalshi,0.01,0.9921,0.0,0.0,0,0.0,0.99,0.03,1.0227,0.1,2026-11-11T23:13:50+00:00
+2026-11-11T23:14:00+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.98,Pyotr Nesterov,kalshi,0.01,0.9921,0.0,0.0,0,0.0,0.99,0.03,1.0227,0.1,2026-11-11T23:13:50+00:00
+2026-11-11T23:14:10+00:00,andreeva v sabalenka,True,Aryna Sabalenka,kalshi,0.32,Mirra Andreeva,polyus,0.64,0.9912,0.0,0.0,0,0.0,0.37,0.69,1.0912,0.1,2026-11-11T23:14:10+00:00
+2026-11-11T23:14:20+00:00,andreeva v sabalenka,True,Aryna Sabalenka,kalshi,0.32,Mirra Andreeva,polyus,0.63,0.9814,0.0,0.0,0,0.0,0.37,0.69,1.0912,0.1,2026-11-11T23:14:10+00:00
+2026-11-11T23:14:20+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.96,Pyotr Nesterov,kalshi,0.03,0.9947,21711.7,0.0,0,0.0,0.96,0.05,1.016,0.1,2026-11-11T23:14:20+00:00
+2026-11-11T23:14:30+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.96,Pyotr Nesterov,kalshi,0.03,0.9947,21711.7,0.0,0,0.0,0.96,0.05,1.016,0.1,2026-11-11T23:14:20+00:00
+2026-11-11T23:14:40+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.33,Mirra Andreeva,kalshi,0.63,0.9917,0.0,0.0,0,0.0,0.38,0.68,1.0916,0.1,2026-11-11T23:14:40+00:00
+2026-11-11T23:14:50+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.96,Petr Nesterov,polyus,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.2,2026-11-11T23:14:50+00:00
+2026-11-11T23:15:00+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.28,Mirra Andreeva,kalshi,0.63,0.9403,33263.79,0.0,0,0.0,0.28,0.73,1.0378,0.1,2026-11-11T23:15:00+00:00
+2026-11-11T23:15:00+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.96,Petr Nesterov,polyus,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.1,2026-11-11T23:14:50+00:00
+2026-11-11T23:15:10+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.96,Petr Nesterov,polyus,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.1,2026-11-11T23:14:50+00:00
+2026-11-11T23:15:40+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.96,Pyotr Nesterov,kalshi,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.1,2026-11-11T23:15:40+00:00
+2026-11-11T23:15:50+00:00,draxl v nesterov,True,Liam Draxl,polyus,0.96,Pyotr Nesterov,kalshi,0.03,0.9947,53020.27,0.0,0,0.0,0.96,0.05,1.016,0.1,2026-11-11T23:15:40+00:00
+2026-11-11T23:16:30+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.95,Petr Nesterov,polyus,0.03,0.9853,0.0,0.0,0,0.0,0.98,0.06,1.0453,0.1,2026-11-11T23:16:30+00:00
+2026-11-11T23:16:40+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.95,Petr Nesterov,polyus,0.03,0.9853,0.0,0.0,0,0.0,0.98,0.06,1.0453,0.1,2026-11-11T23:16:30+00:00
+2026-11-11T23:16:50+00:00,draxl v nesterov,True,Liam Draxl,kalshi,0.95,Petr Nesterov,polyus,0.03,0.9853,0.0,58348.68,0,0.0,0.98,0.03,1.0134,0.1,2026-11-11T23:16:30+00:00
+2026-11-11T23:19:10+00:00,bellucci v gueymard,True,Mattia Bellucci,kalshi,0.66,Sascha Gueymard-Wayenburg,polyus,0.27,0.9594,0.0,47019.61,0,0.0,0.75,0.27,1.0468,0.1,2026-11-11T23:19:10+00:00
+2026-11-11T23:19:20+00:00,bellucci v gueymard,True,Mattia Bellucci,kalshi,0.71,Sascha Gueymard-Wayenburg,polyus,0.26,0.9978,0.0,0.0,0,0.0,0.75,0.27,1.0468,0.1,2026-11-11T23:19:10+00:00
+2026-11-11T23:19:40+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.18,Mirra Andreeva,kalshi,0.77,0.9727,0.0,0.0,0,0.0,0.21,0.83,1.0614,0.1,2026-11-11T23:19:40+00:00
+2026-11-11T23:19:50+00:00,bellucci v gueymard,True,Mattia Bellucci,kalshi,0.71,Sascha Gueymard-Wayenburg,polyus,0.23,0.9667,0.0,0.0,0,0.0,0.78,0.3,1.1066,0.1,2026-11-11T23:19:50+00:00
+2026-11-11T23:19:50+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.18,Mirra Andreeva,kalshi,0.77,0.9727,0.0,0.0,0,0.0,0.21,0.83,1.0614,0.1,2026-11-11T23:19:40+00:00
+2026-11-11T23:20:00+00:00,bellucci v gueymard,True,Mattia Bellucci,kalshi,0.71,Sascha Gueymard-Wayenburg,polyus,0.23,0.9667,0.0,0.0,0,0.0,0.78,0.3,1.1066,0.1,2026-11-11T23:19:50+00:00
+2026-11-11T23:20:30+00:00,bellucci v gueymard,True,Mattia Bellucci,polyus,0.71,Sascha Gueymard Wayenburg,kalshi,0.22,0.9563,0.0,0.0,0,0.0,0.78,0.3,1.1066,0.1,2026-11-11T23:20:30+00:00
+2026-11-11T23:20:30+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.14,Mirra Andreeva,kalshi,0.83,0.9882,71076.88,0.0,0,0.0,0.14,0.87,1.0263,0.1,2026-11-11T23:20:30+00:00
+2026-11-11T23:20:40+00:00,bellucci v gueymard,True,Mattia Bellucci,polyus,0.71,Sascha Gueymard Wayenburg,kalshi,0.22,0.9563,14308.06,0.0,0,0.0,0.71,0.3,1.039,0.1,2026-11-11T23:20:30+00:00
+2026-11-11T23:20:40+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.14,Mirra Andreeva,kalshi,0.84,0.9978,71076.88,0.0,0,0.0,0.14,0.87,1.0263,0.1,2026-11-11T23:20:30+00:00
+2026-11-11T23:20:50+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.14,Mirra Andreeva,kalshi,0.84,0.9978,71076.88,0.0,0,0.0,0.14,0.87,1.0263,0.1,2026-11-11T23:20:30+00:00
+2026-11-11T23:21:00+00:00,andreeva v sabalenka,True,Aryna Sabalenka,polyus,0.13,Mirra Andreeva,kalshi,0.84,0.9873,21403.61,0.0,0,0.0,0.13,0.87,1.0158,0.1,2026-11-11T23:20:30+00:00
+2026-11-11T23:21:10+00:00,bellucci v gueymard,True,Mattia Bellucci,kalshi,0.71,Sascha Gueymard-Wayenburg,polyus,0.22,0.9563,0.0,0.0,0,0.0,0.79,0.25,1.0646,0.1,2026-11-11T23:21:10+00:00
+2026-11-11T23:21:20+00:00,bellucci v gueymard,True,Mattia Bellucci,kalshi,0.71,Sascha Gueymard-Wayenburg,polyus,0.23,0.9667,0.0,0.0,0,0.0,0.79,0.25,1.0646,0.1,2026-11-11T23:21:10+00:00
+2026-11-11T23:21:30+00:00,bellucci v gueymard,True,Mattia Bellucci,polyus,0.71,Sascha Gueymard Wayenburg,kalshi,0.22,0.9563,0.0,0.0,0,0.0,0.77,0.29,1.0867,0.1,2026-11-11T23:21:30+00:00
