@@ -1,4 +1,4 @@
-# Dry-run bot (Wed Nov 11 4:31PM MT)
+# Dry-run bot (Wed Nov 11 4:46PM MT)
 
 Paper only: no keys, no real orders. Started 2026-11-11 with $690 ($345 per venue).
 
