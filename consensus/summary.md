@@ -1,4 +1,4 @@
-# Consensus paper tracker — Tue Nov 10, 9:40PM MT
+# Consensus paper tracker — Tue Nov 10, 10:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,18 +8,18 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | all 15 | 2-1 | -0.02 | 4-0 | +1.36 | 1 |
+| 3+ agree (paper play) | all 15 | 3-1 | +0.90 | 4-0 | +1.36 | 0 |
 | 2 agree | all 15 | 7-5 | +0.52 | 12-8 | -0.26 | 1 |
-| 2+ agree, 1+ against (split) | all 15 | 12-5 | +6.93 | 6-6 | -3.34 | 9 |
-| 3+ agree (paper play) | core 10 only | 0-0 | +0.00 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 3-3 | -0.41 | 4-1 | +0.30 | 2 |
-| 2+ agree, 1+ against (split) | core 10 only | 3-1 | +1.44 | 2-0 | +0.40 | 3 |
+| 2+ agree, 1+ against (split) | all 15 | 12-7 | +4.93 | 10-7 | -1.49 | 2 |
+| 3+ agree (paper play) | core 10 only | 1-0 | +0.92 | 1-0 | +0.12 | 0 |
+| 2 agree | core 10 only | 3-3 | -0.41 | 5-1 | +0.89 | 1 |
+| 2+ agree, 1+ against (split) | core 10 only | 3-2 | +0.44 | 4-0 | +1.39 | 0 |
 
 **By price** (new roster, pre-game, graded):
 
 | Rule | Price range | Record | Units | Actual wins | Expected wins | Edge |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | Coin flip (45-65c) | 1-1 | -0.29 | 1 | 1.1 | -0.1 |
+| 3+ agree (paper play) | Coin flip (45-65c) | 2-1 | +0.63 | 2 | 1.6 | +0.4 |
 | 3+ agree (paper play) | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
 | 2 agree | Underdog (<45c) | 0-3 | -3.00 | 0 | 1.0 | -1.0 |
 | 2 agree | Coin flip (45-65c) | 6-1 | +4.28 | 6 | 3.7 | +2.3 |
@@ -65,14 +65,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
-| new | 2026-11-10 | CFB | Ohio vs. Miami (OH) | Miami (OH) (+1.5) (Spread) | 3 agree, 0 against | pre-game | purplegatto; 0xb4F978BE; 0x9f15613e | — | 52.0c |
 | new | 2026-11-11 | CS2 | Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B | FUT Esports (Map handicap) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; drainedandpoor | — | 49.5c |
-| new | 2026-11-10 | NBA | Heat vs. Jazz | Heat (-8.5) (Spread) | 2 agree, 1 against | pre-game | ic4cream; ianf2026 | jakepaulthegoat2008 | 43.5c |
-| new | 2026-11-10 | NBA | Magic vs. Kings | Kings (Moneyline) | 2 agree, 1 against | pre-game | jakepaulthegoat2008; drainedandpoor | purplegatto | 34.5c |
 | new | 2026-11-10 | NBA | Thunder vs. Trail Blazers | Trail Blazers (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; BreakTheBank | jakepaulthegoat2008 | 47.5c |
-| new | 2026-11-10 | NBA | Magic vs. Kings | Magic (-6.5) (Spread) | 2 agree, 2 against | in-play | monkeymashingkeyboard; purplegatto | BreakTheBank; drainedandpoor | 59.5c |
-| new | 2026-11-10 | NBA | Magic vs. Kings | Kings (+6.5) (Spread) | 2 agree, 2 against | in-play | drainedandpoor; BreakTheBank | monkeymashingkeyboard; purplegatto | 40.5c |
-| new | 2026-11-10 | NBA | Magic vs. Kings | Magic (-5.5) (Spread) | 2 agree, 1 against | in-play | monkeymashingkeyboard; 0xb4F978BE | ianf2026 | 63.0c |
-| new | 2026-11-10 | NBA | Magic vs. Kings | Under 221.5 (Total) | 2 agree, 1 against | in-play | 0x9f15613e; JoeyAroyyOO | monkeymashingkeyboard | 44.0c |
-| new | 2026-11-10 | NBA | Magic vs. Kings | Magic (Moneyline) | 2 agree, 2 against | in-play | purplegatto; 0xb4F978BE | drainedandpoor; jakepaulthegoat2008 | 76.5c |
 | new | 2026-11-10 | NBA | Thunder vs. Trail Blazers | Trail Blazers (+1.5) (Spread) | 2 agree, 1 against | in-play | 0xb4F978BE; ianf2026 | jakepaulthegoat2008 | 39.5c |
