@@ -1,0 +1,24 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-11T00:00:26+00:00,galarneau v kozlov,True,Alexis Galarneau,polyus,0.22,Stefan Kozlov,kalshi,0.73,0.9757,0.0,0.0,0,0.0,0.27,0.79,1.0853,0.1,2026-11-11T00:00:26+00:00
+2026-11-11T00:00:36+00:00,galarneau v kozlov,True,Alexis Galarneau,polyus,0.22,Stefan Kozlov,kalshi,0.73,0.9757,30755.85,0.0,0,0.0,0.22,0.79,1.0335,0.1,2026-11-11T00:00:26+00:00
+2026-11-11T00:00:46+00:00,galarneau v kozlov,True,Alexis Galarneau,polyus,0.22,Stefan Kozlov,kalshi,0.73,0.9757,30755.85,0.0,0,0.0,0.22,0.79,1.0335,0.0,2026-11-11T00:00:26+00:00
+2026-11-11T00:01:46+00:00,galarneau v kozlov,True,Alexis Galarneau,polyus,0.17,Stefan Kozlov,kalshi,0.79,0.9814,0.0,0.0,0,0.0,0.24,0.84,1.1021,0.1,2026-11-11T00:01:46+00:00
+2026-11-11T00:02:26+00:00,barrios v pablo,True,Juan Pablo Varillas,kalshi,0.28,Tomas Barrios,polyus,0.69,0.999,0.0,0.0,0,0.0,0.32,0.73,1.0789,0.0,2026-11-11T00:02:26+00:00
+2026-11-11T00:02:36+00:00,barrios v pablo,True,Juan Pablo Varillas,kalshi,0.28,Tomas Barrios,polyus,0.69,0.999,0.0,1026.0,0,0.0,0.32,0.69,1.0401,0.1,2026-11-11T00:02:26+00:00
+2026-11-11T00:03:06+00:00,galarneau v kozlov,True,Alexis Galarneau,polyus,0.08,Stefan Kozlov,kalshi,0.85,0.944,12390.04,0.0,0,0.0,0.08,0.93,1.0197,0.0,2026-11-11T00:03:06+00:00
+2026-11-11T00:03:26+00:00,hussey v zheng,True,Giles Hussey,polyus,0.03,Michael Zheng,kalshi,0.96,0.9947,90467.19,0.0,0,0.0,0.03,0.98,1.0134,0.1,2026-11-11T00:03:26+00:00
+2026-11-11T00:03:36+00:00,galarneau v kozlov,True,Alexis Galarneau,kalshi,0.08,Stefan Kozlov,polyus,0.89,0.982,0.0,9368.0,0,0.0,0.12,0.89,1.0242,0.0,2026-11-11T00:03:36+00:00
+2026-11-11T00:03:56+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.03,Michael Zheng,polyus,0.95,0.9853,0.0,70656.14,0,0.0,0.06,0.95,1.0172,0.1,2026-11-11T00:03:56+00:00
+2026-11-11T00:04:06+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.03,Michael Zheng,polyus,0.95,0.9853,0.0,70656.14,0,0.0,0.06,0.95,1.0172,0.0,2026-11-11T00:03:56+00:00
+2026-11-11T00:04:26+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.06,Michael Zheng,polyus,0.89,0.9608,0.0,49186.53,0,0.0,0.12,0.89,1.0242,0.1,2026-11-11T00:04:26+00:00
+2026-11-11T00:04:36+00:00,galarneau v kozlov,True,Alexis Galarneau,polyus,0.05,Stefan Kozlov,kalshi,0.89,0.9502,0.0,0.0,0,0.0,0.14,0.96,1.1111,0.1,2026-11-11T00:04:36+00:00
+2026-11-11T00:04:36+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.06,Michael Zheng,polyus,0.89,0.9608,0.0,49186.53,0,0.0,0.12,0.89,1.0242,0.0,2026-11-11T00:04:26+00:00
+2026-11-11T00:04:56+00:00,hussey v zheng,True,Giles Hussey,polyus,0.07,Michael Zheng,kalshi,0.89,0.9714,90629.73,0.0,0,0.0,0.07,0.94,1.0185,0.1,2026-11-11T00:04:56+00:00
+2026-11-11T00:05:16+00:00,hussey v zheng,True,Giles Hussey,kalshi,0.12,Michael Zheng,polyus,0.86,0.9958,0.0,0.0,0,0.0,0.15,0.94,1.1028,0.0,2026-11-11T00:05:16+00:00
+2026-11-11T00:05:56+00:00,hussey v zheng,True,Giles Hussey,polyus,0.07,Michael Zheng,kalshi,0.84,0.9239,90613.58,0.0,0,0.0,0.07,0.94,1.0185,0.1,2026-11-11T00:05:56+00:00
+2026-11-11T00:06:06+00:00,hussey v zheng,True,Giles Hussey,polyus,0.07,Michael Zheng,kalshi,0.84,0.9239,90613.58,0.0,0,0.0,0.07,0.95,1.0278,0.0,2026-11-11T00:05:56+00:00
+2026-11-11T00:06:16+00:00,hussey v zheng,True,Giles Hussey,polyus,0.11,Michael Zheng,kalshi,0.84,0.9662,175081.15,0.0,0,0.0,0.07,0.92,0.9997,0.0,2026-11-11T00:05:56+00:00
+2026-11-11T00:06:26+00:00,hussey v zheng,True,Giles Hussey,polyus,0.03,Michael Zheng,kalshi,0.92,0.9572,0.0,0.0,0,0.0,0.07,0.98,1.0559,0.0,2026-11-11T00:05:56+00:00
+2026-11-11T00:06:36+00:00,hussey v zheng,True,Giles Hussey,polyus,0.03,Michael Zheng,kalshi,0.92,0.9572,52454.36,0.0,0,0.0,0.03,0.98,1.0134,0.0,2026-11-11T00:05:56+00:00
+2026-11-11T00:06:46+00:00,hussey v zheng,True,Giles Hussey,polyus,0.03,Michael Zheng,kalshi,0.92,0.9572,52454.36,0.0,0,0.0,0.03,0.97,1.0041,0.1,2026-11-11T00:05:56+00:00
+2026-11-11T00:06:56+00:00,hussey v zheng,True,Giles Hussey,polyus,0.04,Michael Zheng,kalshi,0.92,0.9678,78695.04000000001,0.0,0,0.0,0.03,0.97,1.0041,0.0,2026-11-11T00:05:56+00:00
