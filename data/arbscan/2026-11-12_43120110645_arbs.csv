@@ -24,3 +24,20 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-12T01:58:31+00:00,hans v mejia,True,Max Hans Rehberg,polyus,0.72,Nicolas Mejia,kalshi,0.24,0.9868,0.0,0.0,0,0.0,0.77,0.29,1.0867,0.1,2026-11-12T01:58:21+00:00
 2026-11-12T02:00:21+00:00,hans v mejia,True,Max Hans Rehberg,kalshi,0.76,Nicolas Mejia,polyus,0.2,0.9839,0.0,0.0,0,0.0,0.81,0.25,1.0838,0.1,2026-11-12T02:00:21+00:00
 2026-11-12T02:01:01+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.06,Dane Sweeny,polyus,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.95,1.0385,0.1,2026-11-12T02:01:01+00:00
+2026-11-12T02:17:11+00:00,noguchi v zhou,True,Rio Noguchi,polyus,0.28,Yi Zhou,kalshi,0.69,0.999,0.0,0.0,0,0.0,0.31,0.73,1.0687,0.1,2026-11-12T02:17:11+00:00
+2026-11-12T02:17:21+00:00,noguchi v zhou,True,Rio Noguchi,polyus,0.28,Yi Zhou,kalshi,0.69,0.999,3829.28,0.0,0,0.0,0.28,0.73,1.0378,0.1,2026-11-12T02:17:11+00:00
+2026-11-12T02:17:31+00:00,noguchi v zhou,True,Rio Noguchi,polyus,0.28,Yi Zhou,kalshi,0.69,0.999,3829.28,0.0,0,0.0,0.28,0.75,1.0571,0.1,2026-11-12T02:17:11+00:00
+2026-11-12T02:19:11+00:00,milic v nakagawa,True,Ognjen Milic,kalshi,0.73,Shunsuke Nakagawa,polyus,0.24,0.9965,0.0,0.0,0,0.0,0.76,0.26,1.0461,0.1,2026-11-12T02:19:11+00:00
+2026-11-12T02:19:21+00:00,milic v nakagawa,True,Ognjen Milic,kalshi,0.73,Shunsuke Nakagawa,polyus,0.24,0.9965,0.0,11866.75,0,0.0,0.76,0.24,1.0254,0.1,2026-11-12T02:19:11+00:00
+2026-11-12T02:20:51+00:00,milic v nakagawa,True,Ognjen Milic,kalshi,0.76,Shunsuke Nakagawa,polyus,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.22,1.0431,0.1,2026-11-12T02:20:51+00:00
+2026-11-12T02:21:51+00:00,milic v nakagawa,True,Ognjen Milic,kalshi,0.82,Shunsuke Nakagawa,polyus,0.16,0.9997,0.0,0.0,0,0.0,0.84,0.2,1.0605,0.1,2026-11-12T02:21:51+00:00
+2026-11-12T02:22:01+00:00,milic v nakagawa,True,Ognjen Milic,kalshi,0.82,Shunsuke Nakagawa,polyus,0.16,0.9997,0.0,0.0,0,0.0,0.84,0.2,1.0605,0.1,2026-11-12T02:21:51+00:00
+2026-11-12T02:22:21+00:00,milic v nakagawa,True,Ognjen Milic,kalshi,0.84,Shunsuke Nakagawa,polyus,0.14,0.9978,0.0,0.0,0,0.0,0.86,0.16,1.0378,0.1,2026-11-12T02:22:21+00:00
+2026-11-12T02:22:31+00:00,milic v nakagawa,True,Ognjen Milic,kalshi,0.84,Shunsuke Nakagawa,polyus,0.14,0.9978,0.0,0.0,0,0.0,0.87,0.16,1.0473,0.1,2026-11-12T02:22:21+00:00
+2026-11-12T02:23:21+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.02,Dane Sweeny,polyus,0.97,0.9934,0.0,0.0,0,0.0,0.04,0.99,1.0334,0.1,2026-11-12T02:23:21+00:00
+2026-11-12T02:23:31+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.02,Dane Sweeny,polyus,0.97,0.9934,0.0,0.0,0,0.0,0.04,0.99,1.0334,0.1,2026-11-12T02:23:21+00:00
+2026-11-12T02:27:21+00:00,noguchi v zhou,True,Rio Noguchi,kalshi,0.4,Yi Zhou,polyus,0.55,0.984,0.0,0.0,0,0.0,0.46,0.61,1.1039,0.1,2026-11-12T02:27:21+00:00
+2026-11-12T02:28:01+00:00,noguchi v zhou,True,Rio Noguchi,kalshi,0.46,Yi Zhou,polyus,0.47,0.9647,0.0,0.0,0,0.0,0.55,0.55,1.1345,0.1,2026-11-12T02:28:01+00:00
+2026-11-12T02:28:11+00:00,noguchi v zhou,True,Rio Noguchi,kalshi,0.44,Yi Zhou,polyus,0.47,0.9446,0.0,0.0,0,0.0,0.54,0.55,1.1246,0.1,2026-11-12T02:28:01+00:00
+2026-11-12T02:28:21+00:00,noguchi v zhou,True,Rio Noguchi,kalshi,0.44,Yi Zhou,polyus,0.47,0.9446,0.0,0.0,0,0.0,0.54,0.55,1.1246,0.1,2026-11-12T02:28:01+00:00
+2026-11-12T02:28:31+00:00,noguchi v zhou,True,Rio Noguchi,kalshi,0.44,Yi Zhou,polyus,0.47,0.9446,0.0,11594.43,0,0.0,0.54,0.47,1.0447,0.1,2026-11-12T02:28:01+00:00
