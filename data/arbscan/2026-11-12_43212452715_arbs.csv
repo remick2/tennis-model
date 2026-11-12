@@ -579,3 +579,83 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-12T15:52:07+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,polyus,0.19,Elizabeth Mandlik,kalshi,0.77,0.9831,0.0,0.0,0,0.0,0.24,0.82,1.083,0.1,2026-11-12T15:51:57+00:00
 2026-11-12T15:52:27+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,polyus,0.15,Elizabeth Mandlik,kalshi,0.82,0.9892,900.0,0.0,0,0.0,0.15,0.86,1.0273,0.1,2026-11-12T15:52:27+00:00
 2026-11-12T15:53:07+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,kalshi,0.15,Elizabeth Mandlik,polyus,0.81,0.9796,0.0,0.0,0,0.0,0.19,0.86,1.0691,0.1,2026-11-12T15:53:07+00:00
+2026-11-12T15:53:37+00:00,echargui v petkovic,True,Mika Petkovic,kalshi,0.36,Moez Echargui,polyus,0.6,0.9928,0.0,0.0,0,0.0,0.4,0.62,1.0532,0.1,2026-11-12T15:53:37+00:00
+2026-11-12T15:53:47+00:00,echargui v petkovic,True,Mika Petkovic,kalshi,0.4,Moez Echargui,polyus,0.55,0.984,0.0,5178.79,0,0.0,0.46,0.55,1.0446,0.1,2026-11-12T15:53:37+00:00
+2026-11-12T15:53:57+00:00,echargui v petkovic,True,Mika Petkovic,kalshi,0.4,Moez Echargui,polyus,0.55,0.984,0.0,5178.79,0,0.0,0.46,0.55,1.0446,0.1,2026-11-12T15:53:37+00:00
+2026-11-12T15:54:07+00:00,echargui v petkovic,True,Mika Petkovic,kalshi,0.4,Moez Echargui,polyus,0.55,0.984,0.0,5178.79,0,0.0,0.46,0.55,1.0446,0.1,2026-11-12T15:53:37+00:00
+2026-11-12T15:54:27+00:00,echargui v petkovic,True,Mika Petkovic,kalshi,0.49,Moez Echargui,polyus,0.42,0.9444,0.0,0.0,0,0.0,0.59,0.52,1.1443,0.1,2026-11-12T15:54:27+00:00
+2026-11-12T15:54:27+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,kalshi,0.25,Elizabeth Mandlik,polyus,0.71,0.9874,0.0,0.0,0,0.0,0.3,0.76,1.0874,0.1,2026-11-12T15:54:27+00:00
+2026-11-12T15:54:37+00:00,echargui v petkovic,True,Mika Petkovic,kalshi,0.49,Moez Echargui,polyus,0.42,0.9444,0.0,0.0,0,0.0,0.59,0.52,1.1443,0.1,2026-11-12T15:54:27+00:00
+2026-11-12T15:54:37+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,kalshi,0.25,Elizabeth Mandlik,polyus,0.71,0.9874,0.0,0.0,0,0.0,0.3,0.76,1.0874,0.1,2026-11-12T15:54:27+00:00
+2026-11-12T15:54:47+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,kalshi,0.25,Elizabeth Mandlik,polyus,0.71,0.9874,0.0,0.0,0,0.0,0.3,0.76,1.0874,0.1,2026-11-12T15:54:27+00:00
+2026-11-12T15:55:17+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.26,Laura Samson,kalshi,0.71,0.9978,0.0,0.0,0,0.0,0.33,0.75,1.1085,0.1,2026-11-12T15:55:17+00:00
+2026-11-12T15:55:27+00:00,agustin v shevchenko,True,Alexander Shevchenko,polyus,0.41,Thiago Agustin Tirante,kalshi,0.55,0.9941,23617.61,0.0,0,0.0,0.41,0.6,1.0436,0.1,2026-11-12T15:55:27+00:00
+2026-11-12T15:55:27+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.26,Laura Samson,kalshi,0.71,0.9978,0.0,0.0,0,0.0,0.33,0.75,1.1085,0.1,2026-11-12T15:55:17+00:00
+2026-11-12T15:55:37+00:00,agustin v shevchenko,True,Alexander Shevchenko,polyus,0.41,Thiago Agustin Tirante,kalshi,0.55,0.9941,23617.61,0.0,0,0.0,0.41,0.6,1.0436,0.1,2026-11-12T15:55:27+00:00
+2026-11-12T15:55:57+00:00,martineau v martinez,True,Matteo Martineau,polyus,0.06,Pedro Martinez,kalshi,0.93,0.9985,91.45,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-12T15:55:57+00:00
+2026-11-12T15:56:37+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.24,Laura Samson,kalshi,0.72,0.9868,13019.35,0.0,0,0.0,0.24,0.77,1.0351,0.1,2026-11-12T15:56:37+00:00
+2026-11-12T15:56:37+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.06,Pedro Martinez,polyus,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.95,1.0385,0.1,2026-11-12T15:56:37+00:00
+2026-11-12T15:56:47+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.24,Laura Samson,kalshi,0.72,0.9868,13019.35,0.0,0,0.0,0.24,0.77,1.0351,0.1,2026-11-12T15:56:37+00:00
+2026-11-12T15:56:47+00:00,feldbausch v malige,True,Kilian Feldbausch,polyus,0.59,Mae Malige,kalshi,0.37,0.9931,0.0,0.0,0,0.0,0.64,0.42,1.0931,0.1,2026-11-12T15:56:47+00:00
+2026-11-12T15:56:47+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.06,Pedro Martinez,polyus,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.95,1.0385,0.1,2026-11-12T15:56:37+00:00
+2026-11-12T15:56:57+00:00,feldbausch v malige,True,Kilian Feldbausch,polyus,0.59,Mae Malige,kalshi,0.37,0.9931,35081.11,0.0,0,0.0,0.59,0.42,1.0439,0.1,2026-11-12T15:56:47+00:00
+2026-11-12T15:56:57+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.06,Pedro Martinez,polyus,0.93,0.9985,0.0,51172.75,0,0.0,0.08,0.93,1.0197,0.1,2026-11-12T15:56:37+00:00
+2026-11-12T15:57:07+00:00,feldbausch v malige,True,Kilian Feldbausch,polyus,0.56,Mae Malige,kalshi,0.37,0.9634,0.0,0.0,0,0.0,0.59,0.43,1.054,0.1,2026-11-12T15:56:47+00:00
+2026-11-12T15:57:07+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.06,Pedro Martinez,polyus,0.91,0.9796,0.0,0.0,0,0.0,0.09,0.93,1.0303,0.1,2026-11-12T15:56:37+00:00
+2026-11-12T15:57:17+00:00,feldbausch v malige,True,Kilian Feldbausch,polyus,0.52,Mae Malige,kalshi,0.42,0.9744,0.0,0.0,0,0.0,0.59,0.5,1.1243,0.1,2026-11-12T15:56:47+00:00
+2026-11-12T15:57:27+00:00,feldbausch v malige,True,Kilian Feldbausch,polyus,0.51,Mae Malige,kalshi,0.42,0.9644,1007.01,0.0,0,0.0,0.51,0.5,1.0449,0.1,2026-11-12T15:56:47+00:00
+2026-11-12T15:57:37+00:00,feldbausch v malige,True,Kilian Feldbausch,polyus,0.52,Mae Malige,kalshi,0.42,0.9744,20561.44,0.0,0,0.0,0.51,0.49,1.0349,0.1,2026-11-12T15:56:47+00:00
+2026-11-12T15:57:47+00:00,feldbausch v malige,True,Kilian Feldbausch,kalshi,0.51,Mae Malige,polyus,0.44,0.9846,0.0,0.0,0,0.0,0.56,0.5,1.0946,0.1,2026-11-12T15:57:47+00:00
+2026-11-12T15:57:57+00:00,feldbausch v malige,True,Kilian Feldbausch,kalshi,0.51,Mae Malige,polyus,0.44,0.9846,0.0,40550.89,0,0.0,0.57,0.44,1.0443,0.1,2026-11-12T15:57:47+00:00
+2026-11-12T15:58:07+00:00,agustin v shevchenko,True,Aleksandr Shevchenko,kalshi,0.34,Thiago Agustin Tirante,polyus,0.62,0.9921,0.0,0.0,0,0.0,0.4,0.63,1.063,0.1,2026-11-12T15:58:07+00:00
+2026-11-12T15:58:37+00:00,feldbausch v malige,True,Kilian Feldbausch,kalshi,0.57,Mae Malige,polyus,0.38,0.9835,0.0,0.0,0,0.0,0.62,0.4,1.0532,0.1,2026-11-12T15:58:37+00:00
+2026-11-12T15:58:37+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.21,Laura Samson,kalshi,0.76,0.9943,19952.98,0.0,0,0.0,0.21,0.8,1.0327,0.1,2026-11-12T15:58:37+00:00
+2026-11-12T15:58:47+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.21,Laura Samson,kalshi,0.76,0.9943,19952.98,0.0,0,0.0,0.21,0.8,1.0327,0.1,2026-11-12T15:58:37+00:00
+2026-11-12T15:58:57+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.21,Laura Samson,kalshi,0.76,0.9943,19952.98,0.0,0,0.0,0.21,0.8,1.0327,0.1,2026-11-12T15:58:37+00:00
+2026-11-12T15:59:07+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.21,Laura Samson,kalshi,0.76,0.9943,0.11,0.0,0,0.0,0.21,0.8,1.0327,0.1,2026-11-12T15:58:37+00:00
+2026-11-12T15:59:17+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.17,Laura Samson,kalshi,0.8,0.991,0.0,0.0,0,0.0,0.21,0.84,1.0709,0.1,2026-11-12T15:58:37+00:00
+2026-11-12T15:59:27+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.17,Laura Samson,kalshi,0.8,0.991,0.0,0.0,0,0.0,0.21,0.84,1.0709,0.1,2026-11-12T15:58:37+00:00
+2026-11-12T15:59:27+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.11,Pedro Martinez,polyus,0.87,0.9947,0.0,0.0,0,0.0,0.13,0.9,1.0442,0.1,2026-11-12T15:59:27+00:00
+2026-11-12T15:59:37+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.17,Laura Samson,kalshi,0.8,0.991,19000.85,0.0,0,0.0,0.17,0.84,1.0292,0.1,2026-11-12T15:58:37+00:00
+2026-11-12T15:59:37+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.11,Pedro Martinez,polyus,0.87,0.9947,0.0,0.0,0,0.0,0.14,0.9,1.0547,0.1,2026-11-12T15:59:27+00:00
+2026-11-12T15:59:57+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.14,Laura Samson,kalshi,0.84,0.9978,0.0,0.0,0,0.0,0.17,0.87,1.0577,0.1,2026-11-12T15:59:57+00:00
+2026-11-12T16:00:07+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.14,Laura Samson,kalshi,0.84,0.9978,7846.97,0.0,0,0.0,0.14,0.87,1.0263,0.1,2026-11-12T15:59:57+00:00
+2026-11-12T16:00:17+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.14,Pedro Martinez,polyus,0.83,0.9882,0.0,0.0,0,0.0,0.18,0.87,1.0682,0.1,2026-11-12T16:00:17+00:00
+2026-11-12T16:00:27+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,kalshi,0.38,Elizabeth Mandlik,polyus,0.58,0.9934,0.0,0.0,0,0.0,0.42,0.64,1.0931,0.1,2026-11-12T16:00:27+00:00
+2026-11-12T16:00:37+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,kalshi,0.38,Elizabeth Mandlik,polyus,0.58,0.9934,0.0,0.0,0,0.0,0.42,0.64,1.0931,0.1,2026-11-12T16:00:27+00:00
+2026-11-12T16:00:57+00:00,burillo v samson,True,Irene Burillo Escorihuela,kalshi,0.16,Laura Samson,polyus,0.82,0.9997,0.0,0.0,0,0.0,0.19,0.85,1.0596,0.1,2026-11-12T16:00:57+00:00
+2026-11-12T16:01:07+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,kalshi,0.42,Elizabeth Mandlik,polyus,0.54,0.9943,0.0,0.0,0,0.0,0.47,0.58,1.0844,0.1,2026-11-12T16:01:07+00:00
+2026-11-12T16:01:07+00:00,martineau v martinez,True,Matteo Martineau,polyus,0.15,Pedro Martinez,kalshi,0.83,0.9987,0.0,0.0,0,0.0,0.19,0.86,1.0691,0.1,2026-11-12T16:01:07+00:00
+2026-11-12T16:01:07+00:00,burillo v samson,True,Irene Burillo Escorihuela,kalshi,0.16,Laura Samson,polyus,0.82,0.9997,0.0,8640.59,0,0.0,0.19,0.82,1.031,0.2,2026-11-12T16:00:57+00:00
+2026-11-12T16:01:17+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,kalshi,0.42,Elizabeth Mandlik,polyus,0.54,0.9943,0.0,0.0,0,0.0,0.47,0.58,1.0844,0.1,2026-11-12T16:01:07+00:00
+2026-11-12T16:01:17+00:00,martineau v martinez,True,Matteo Martineau,polyus,0.15,Pedro Martinez,kalshi,0.83,0.9987,0.0,0.0,0,0.0,0.19,0.86,1.0691,0.1,2026-11-12T16:01:07+00:00
+2026-11-12T16:01:17+00:00,burillo v samson,True,Irene Burillo Escorihuela,kalshi,0.16,Laura Samson,polyus,0.82,0.9997,0.0,8640.59,0,0.0,0.19,0.82,1.031,0.1,2026-11-12T16:00:57+00:00
+2026-11-12T16:01:27+00:00,agustin v shevchenko,True,Alexander Shevchenko,polyus,0.26,Thiago Agustin Tirante,kalshi,0.7,0.9881,0.0,0.0,0,0.0,0.27,0.75,1.0468,0.2,2026-11-12T16:01:27+00:00
+2026-11-12T16:01:27+00:00,martineau v martinez,True,Matteo Martineau,polyus,0.15,Pedro Martinez,kalshi,0.83,0.9987,44595.04,0.0,0,0.0,0.15,0.86,1.0273,0.1,2026-11-12T16:01:07+00:00
+2026-11-12T16:01:37+00:00,burillo v samson,True,Irene Burillo Escorihuela,polyus,0.14,Laura Samson,kalshi,0.82,0.9787,34649.14,0.0,0,0.0,0.14,0.87,1.0263,0.1,2026-11-12T16:01:37+00:00
+2026-11-12T16:01:37+00:00,agustin v shevchenko,True,Alexander Shevchenko,polyus,0.26,Thiago Agustin Tirante,kalshi,0.7,0.9881,0.0,0.0,0,0.0,0.27,0.75,1.0468,0.1,2026-11-12T16:01:27+00:00
+2026-11-12T16:01:47+00:00,agustin v shevchenko,True,Alexander Shevchenko,polyus,0.26,Thiago Agustin Tirante,kalshi,0.7,0.9881,0.0,0.0,0,0.0,0.27,0.75,1.0468,0.1,2026-11-12T16:01:27+00:00
+2026-11-12T16:01:47+00:00,martineau v martinez,True,Matteo Martineau,polyus,0.12,Pedro Martinez,kalshi,0.86,0.9958,0.0,0.0,0,0.0,0.15,0.89,1.0557,0.1,2026-11-12T16:01:47+00:00
+2026-11-12T16:02:07+00:00,agustin v shevchenko,True,Aleksandr Shevchenko,kalshi,0.26,Thiago Agustin Tirante,polyus,0.71,0.9978,0.0,0.0,0,0.0,0.3,0.76,1.0874,0.1,2026-11-12T16:02:07+00:00
+2026-11-12T16:02:17+00:00,martineau v martinez,True,Matteo Martineau,polyus,0.09,Pedro Martinez,kalshi,0.89,0.9925,0.0,0.0,0,0.0,0.12,0.92,1.0525,0.1,2026-11-12T16:02:17+00:00
+2026-11-12T16:02:17+00:00,agustin v shevchenko,True,Aleksandr Shevchenko,kalshi,0.26,Thiago Agustin Tirante,polyus,0.71,0.9978,0.0,0.0,0,0.0,0.3,0.76,1.0874,0.1,2026-11-12T16:02:07+00:00
+2026-11-12T16:02:27+00:00,martineau v martinez,True,Matteo Martineau,polyus,0.09,Pedro Martinez,kalshi,0.89,0.9925,42934.15,0.0,0,0.0,0.09,0.92,1.0208,0.1,2026-11-12T16:02:17+00:00
+2026-11-12T16:03:17+00:00,martineau v martinez,True,Matteo Martineau,polyus,0.07,Pedro Martinez,kalshi,0.91,0.9903,0.0,0.0,0,0.0,0.09,0.94,1.0396,0.1,2026-11-12T16:03:17+00:00
+2026-11-12T16:03:27+00:00,martineau v martinez,True,Matteo Martineau,polyus,0.07,Pedro Martinez,kalshi,0.91,0.9903,26623.92,0.0,0,0.0,0.07,0.94,1.0185,0.1,2026-11-12T16:03:17+00:00
+2026-11-12T16:04:47+00:00,echargui v petkovic,True,Mika Petkovic,polyus,0.53,Moez Echargui,kalshi,0.41,0.9742,0.0,0.0,0,0.0,0.58,0.48,1.0944,0.1,2026-11-12T16:04:47+00:00
+2026-11-12T16:05:17+00:00,echargui v petkovic,True,Mika Petkovic,polyus,0.51,Moez Echargui,kalshi,0.44,0.9846,0.0,0.0,0,0.0,0.53,0.5,1.0648,0.1,2026-11-12T16:05:17+00:00
+2026-11-12T16:05:37+00:00,echargui v petkovic,True,Mika Petkovic,kalshi,0.52,Moez Echargui,polyus,0.44,0.9946,0.0,4670.65,0,0.0,0.57,0.44,1.0443,0.1,2026-11-12T16:05:37+00:00
+2026-11-12T16:05:47+00:00,echargui v petkovic,True,Mika Petkovic,kalshi,0.52,Moez Echargui,polyus,0.44,0.9946,0.0,4670.65,0,0.0,0.57,0.44,1.0443,0.1,2026-11-12T16:05:37+00:00
+2026-11-12T16:05:57+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,polyus,0.46,Elizabeth Mandlik,kalshi,0.5,0.9948,6988.9,0.0,0,0.0,0.46,0.55,1.0446,0.1,2026-11-12T16:05:57+00:00
+2026-11-12T16:06:07+00:00,garcia v mandlik,True,Andrea Lazaro Garcia,polyus,0.46,Elizabeth Mandlik,kalshi,0.5,0.9948,6988.9,0.0,0,0.0,0.46,0.55,1.0446,0.1,2026-11-12T16:05:57+00:00
+2026-11-12T16:06:17+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.06,Pedro Martinez,polyus,0.93,0.9985,0.0,0.0,0,0.0,0.08,0.94,1.0291,0.1,2026-11-12T16:06:17+00:00
+2026-11-12T16:06:27+00:00,feldbausch v malige,True,Kilian Feldbausch,polyus,0.56,Mae Malige,kalshi,0.4,0.9939,0.0,0.0,0,0.0,0.61,0.45,1.0939,0.1,2026-11-12T16:06:27+00:00
+2026-11-12T16:06:27+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.06,Pedro Martinez,polyus,0.93,0.9985,0.0,49402.57,0,0.0,0.08,0.93,1.0197,0.1,2026-11-12T16:06:17+00:00
+2026-11-12T16:06:57+00:00,feldbausch v malige,True,Kilian Feldbausch,polyus,0.54,Mae Malige,kalshi,0.42,0.9943,0.0,0.0,0,0.0,0.56,0.47,1.0646,0.1,2026-11-12T16:06:57+00:00
+2026-11-12T16:07:17+00:00,feldbausch v malige,True,Kilian Feldbausch,kalshi,0.54,Mae Malige,polyus,0.41,0.9842,0.0,0.0,0,0.0,0.6,0.47,1.1041,0.1,2026-11-12T16:07:17+00:00
+2026-11-12T16:07:27+00:00,feldbausch v malige,True,Kilian Feldbausch,kalshi,0.54,Mae Malige,polyus,0.41,0.9842,0.0,0.0,0,0.0,0.6,0.47,1.1041,0.1,2026-11-12T16:07:17+00:00
+2026-11-12T16:07:37+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.08,Pedro Martinez,polyus,0.89,0.982,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.2,2026-11-12T16:07:37+00:00
+2026-11-12T16:07:47+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.08,Pedro Martinez,polyus,0.89,0.982,0.0,0.0,0,0.0,0.12,0.93,1.0619,0.1,2026-11-12T16:07:37+00:00
+2026-11-12T16:07:57+00:00,martineau v martinez,True,Matteo Martineau,kalshi,0.08,Pedro Martinez,polyus,0.89,0.982,0.0,47176.14,0,0.0,0.12,0.89,1.0242,0.1,2026-11-12T16:07:37+00:00
+2026-11-12T16:08:17+00:00,martineau v martinez,True,Matteo Martineau,polyus,0.09,Pedro Martinez,kalshi,0.89,0.9925,0.0,0.0,0,0.0,0.12,0.92,1.0525,0.1,2026-11-12T16:08:17+00:00
+2026-11-12T16:08:17+00:00,feldbausch v malige,True,Kilian Feldbausch,polyus,0.54,Mae Malige,kalshi,0.42,0.9943,0.0,0.0,0,0.0,0.6,0.47,1.1041,0.1,2026-11-12T16:08:17+00:00
