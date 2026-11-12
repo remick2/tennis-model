@@ -1083,3 +1083,5 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-12T11:23:02+00:00,andreev v brancaccio,True,Adrian Andreev,polyus,0.82,Raul Brancaccio,kalshi,0.16,0.9997,21247.46,0.0,0.0,0.0,0.82,0.19,1.031,0.0,2026-11-12T11:22:52+00:00,,,,,,,,,
 2026-11-12T11:23:12+00:00,andreev v brancaccio,True,Adrian Andreev,polyus,0.82,Raul Brancaccio,kalshi,0.16,0.9997,21247.46,0.0,0.0,0.0,0.82,0.19,1.031,0.0,2026-11-12T11:22:52+00:00,,,,,,,,,
 2026-11-12T11:26:02+00:00,andreev v brancaccio,True,Adrian Andreev,kalshi,0.88,Raul Brancaccio,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,0.12,1.0431,0.1,2026-11-12T11:26:02+00:00,,,,,,,,,
+2026-11-12T11:28:42+00:00,andreev v brancaccio,True,Adrian Andreev,kalshi,0.94,Raul Brancaccio,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.97,0.08,1.0572,0.0,2026-11-12T11:28:42+00:00,,,,,,,,,
+2026-11-12T11:28:52+00:00,andreev v brancaccio,True,Adrian Andreev,kalshi,0.94,Raul Brancaccio,polyus,0.02,0.9653,0.0,0.0,0.0,0.0,,0.08,,0.0,2026-11-12T11:28:42+00:00,,,,,,,,,
