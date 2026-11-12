@@ -1,4 +1,4 @@
-# Consensus paper tracker — Wed Nov 11, 6:40PM MT
+# Consensus paper tracker — Wed Nov 11, 7:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 3-1 | +0.90 | 4-0 | +1.36 | 1 |
-| 2 agree | all 15 | 8-5 | +1.54 | 12-8 | -0.26 | 5 |
-| 2+ agree, 1+ against (split) | all 15 | 13-7 | +6.04 | 12-8 | -0.39 | 10 |
+| 2 agree | all 15 | 8-5 | +1.54 | 13-8 | +0.74 | 4 |
+| 2+ agree, 1+ against (split) | all 15 | 15-8 | +5.85 | 13-9 | -0.52 | 7 |
 | 3+ agree (paper play) | core 10 only | 1-0 | +0.92 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 4-3 | +0.61 | 6-1 | +1.46 | 3 |
-| 2+ agree, 1+ against (split) | core 10 only | 3-2 | +0.44 | 4-1 | +0.39 | 6 |
+| 2 agree | core 10 only | 5-3 | +0.74 | 7-1 | +2.46 | 1 |
+| 2+ agree, 1+ against (split) | core 10 only | 4-2 | +1.12 | 5-2 | +0.26 | 5 |
 
 **By price** (new roster, pre-game, graded):
 
@@ -67,17 +67,13 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-12 | NFL | Commanders vs. Giants | Giants (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; ic4cream | — | 55.5c |
 | new | 2026-11-11 | NBA | Magic vs. Jazz | Magic (-4.5) (Spread) | 3 agree, 0 against | pre-game | purplegatto; jakepaulthegoat2008; drainedandpoor | — | 48.5c |
-| new | 2026-11-11 | NBA | Celtics vs. Raptors | Raptors (Moneyline) | 2 agree, 1 against | pre-game | drainedandpoor; BreakTheBank | purplegatto | 34.5c |
-| new | 2026-11-11 | NBA | Wizards vs. Pacers | Pacers (Moneyline) | 2 agree, 1 against | pre-game | jakepaulthegoat2008; drainedandpoor | purplegatto | 59.5c |
 | new | 2026-11-11 | NBA | Nets vs. Pelicans | Nets (Moneyline) | 2 agree, 1 against | pre-game | jakepaulthegoat2008; BreakTheBank | monkeymashingkeyboard | 44.5c |
 | new | 2026-11-11 | CFB | UMass vs. Toledo | UMass (+14.5) (Spread) | 2 agree, 1 against | in-play | monkeymashingkeyboard; 0x9f15613e | purplegatto | 51.0c |
 | new | 2026-11-11 | NBA | Warriors vs. Rockets | Warriors (Moneyline) | 2 agree, 1 against | pre-game | purplegatto; jakepaulthegoat2008 | monkeymashingkeyboard | 31.5c |
-| new | 2026-11-11 | NBA | Wizards vs. Pacers | Wizards (Moneyline) | 2 agree, 3 against | in-play | monkeymashingkeyboard; purplegatto | BreakTheBank; drainedandpoor; jakepaulthegoat2008 | 47.5c |
 | new | 2026-11-11 | NBA | Nuggets vs. Grizzlies | Grizzlies (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; BreakTheBank | — | 40.5c |
-| new | 2026-11-11 | NBA | Celtics vs. Raptors | Celtics (Moneyline) | 2 agree, 2 against | in-play | purplegatto; jakepaulthegoat2008 | BreakTheBank; drainedandpoor | 53.5c |
 | new | 2026-11-11 | NBA | Spurs vs. Bulls | Spurs (Moneyline) | 2 agree, 1 against | pre-game | purplegatto; BreakTheBank | JoeyAroyyOO | 90.5c |
-| new | 2026-11-11 | NBA | Lakers vs. Bucks | Lakers (Moneyline) | 2 agree, 1 against | pre-game | purplegatto; jakepaulthegoat2008 | JoeyAroyyOO | 88.5c |
-| new | 2026-11-11 | CBB | Kent State Golden Flashes vs. UNCW Seahawks | UNCW Seahawks (-6.5) (Spread) | 2 agree, 0 against | in-play | yabanci; 0x9f15613e | — | 50.0c |
 | new | 2026-11-11 | CFB | Buffalo vs. Ball State | Ball State (Moneyline) | 2 agree, 1 against | in-play | 999585; 0x9f15613e | purplegatto | 62.5c |
 | new | 2026-11-11 | NBA | Spurs vs. Bulls | Under 236.5 (Total) | 2 agree, 0 against | in-play | yabanci; JoeyAroyyOO | — | 28.0c |
 | new | 2026-11-11 | NBA | Lakers vs. Bucks | Under 230.5 (Total) | 2 agree, 0 against | in-play | 0x9f15613e; JoeyAroyyOO | — | 57.5c |
+| new | 2026-11-11 | CFB | Buffalo vs. Ball State | Buffalo (Moneyline) | 2 agree, 1 against | in-play | purplegatto; 999585 | 0x9f15613e | 42.5c |
+| new | 2026-11-11 | CS2 | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons (Moneyline) | 2 agree, 1 against | in-play | jakepaulthegoat2008; yabanci | drainedandpoor | 83.5c |
