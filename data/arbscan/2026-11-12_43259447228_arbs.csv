@@ -416,3 +416,61 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-12T20:46:54+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.82,Franco Roncadelli,kalshi,0.16,0.9997,0.0,0.0,0,0.0,0.86,0.19,1.0691,0.1,2026-11-12T20:46:44+00:00
 2026-11-12T20:47:04+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.82,Franco Roncadelli,kalshi,0.16,0.9997,0.0,0.0,0,0.0,0.86,0.19,1.0691,0.1,2026-11-12T20:46:44+00:00
 2026-11-12T20:47:34+00:00,comesana v roncadelli,True,Francisco Comesana,kalshi,0.82,Franco Roncadelli,polyus,0.16,0.9997,0.0,0.0,0,0.0,0.85,0.19,1.0596,0.1,2026-11-12T20:47:34+00:00
+2026-11-12T20:50:54+00:00,gray v jeff,True,Alastair Gray,kalshi,0.88,Filip Jeff Planinsek,polyus,0.09,0.9831,0.0,30365.28,0,0.0,0.92,0.09,1.0208,0.1,2026-11-12T20:50:54+00:00
+2026-11-12T20:50:54+00:00,comesana v roncadelli,True,Francisco Comesana,kalshi,0.85,Franco Roncadelli,polyus,0.13,0.9968,0.0,0.0,0,0.0,0.88,0.16,1.0567,0.1,2026-11-12T20:50:54+00:00
+2026-11-12T20:51:34+00:00,gray v jeff,True,Alastair Gray,kalshi,0.92,Filip Jeff Planinsek,polyus,0.04,0.9678,0.0,0.0,0,0.0,0.97,0.1,1.0783,0.1,2026-11-12T20:51:34+00:00
+2026-11-12T20:51:44+00:00,humbert v musetti,True,Lorenzo Musetti,kalshi,0.8,Ugo Humbert,polyus,0.16,0.9805,0.0,0.0,0,0.0,0.85,0.2,1.07,0.1,2026-11-12T20:51:44+00:00
+2026-11-12T20:52:24+00:00,humbert v musetti,True,Lorenzo Musetti,polyus,0.82,Ugo Humbert,kalshi,0.15,0.9892,0.0,0.0,0,0.0,0.86,0.18,1.0587,0.1,2026-11-12T20:52:24+00:00
+2026-11-12T20:52:34+00:00,humbert v musetti,True,Lorenzo Musetti,polyus,0.83,Ugo Humbert,kalshi,0.15,0.9987,0.0,0.0,0,0.0,0.86,0.18,1.0587,0.1,2026-11-12T20:52:24+00:00
+2026-11-12T20:52:44+00:00,humbert v musetti,True,Lorenzo Musetti,polyus,0.83,Ugo Humbert,kalshi,0.15,0.9987,0.0,0.0,0,0.0,0.86,0.18,1.0587,0.1,2026-11-12T20:52:24+00:00
+2026-11-12T20:53:04+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.88,Franco Roncadelli,kalshi,0.09,0.9831,0.0,0.0,0,0.0,0.92,0.13,1.063,0.1,2026-11-12T20:53:04+00:00
+2026-11-12T20:53:14+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.88,Franco Roncadelli,kalshi,0.09,0.9831,46079.73,0.0,0,0.0,0.88,0.13,1.0253,0.1,2026-11-12T20:53:04+00:00
+2026-11-12T20:53:24+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.88,Franco Roncadelli,kalshi,0.09,0.9831,46079.73,0.0,0,0.0,0.88,0.13,1.0253,0.1,2026-11-12T20:53:04+00:00
+2026-11-12T20:53:54+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.85,Franco Roncadelli,kalshi,0.13,0.9968,0.0,0.0,0,0.0,0.88,0.16,1.0567,0.1,2026-11-12T20:53:54+00:00
+2026-11-12T20:54:04+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.85,Franco Roncadelli,kalshi,0.13,0.9968,0.0,0.0,0,0.0,0.88,0.16,1.0567,0.1,2026-11-12T20:53:54+00:00
+2026-11-12T20:54:14+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.85,Franco Roncadelli,kalshi,0.13,0.9968,47000.29,0.0,0,0.0,0.85,0.16,1.0283,0.2,2026-11-12T20:53:54+00:00
+2026-11-12T20:54:24+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.85,Franco Roncadelli,kalshi,0.13,0.9968,47000.29,0.0,0,0.0,0.85,0.16,1.0283,0.1,2026-11-12T20:53:54+00:00
+2026-11-12T20:54:54+00:00,gauff v kostyuk,True,Coco Gauff,polyus,0.86,Marta Kostyuk,kalshi,0.11,0.9852,0.0,0.0,0,0.0,0.87,0.15,1.0368,0.1,2026-11-12T20:54:54+00:00
+2026-11-12T20:54:54+00:00,basavareddy v jacquet,True,Kyrian Jacquet,polyus,0.65,Nishesh Basavareddy,kalshi,0.31,0.9908,0.0,0.0,0,0.0,0.71,0.36,1.1004,0.1,2026-11-12T20:54:54+00:00
+2026-11-12T20:55:04+00:00,gauff v kostyuk,True,Coco Gauff,polyus,0.86,Marta Kostyuk,kalshi,0.11,0.9852,0.0,0.0,0,0.0,0.87,0.15,1.0368,0.1,2026-11-12T20:54:54+00:00
+2026-11-12T20:55:04+00:00,basavareddy v jacquet,True,Kyrian Jacquet,polyus,0.65,Nishesh Basavareddy,kalshi,0.31,0.9908,13537.54,0.0,0,0.0,0.65,0.36,1.0419,0.1,2026-11-12T20:54:54+00:00
+2026-11-12T20:56:24+00:00,basavareddy v jacquet,True,Kyrian Jacquet,polyus,0.65,Nishesh Basavareddy,kalshi,0.3,0.9805,0.0,0.0,0,0.0,0.71,0.35,1.0902,0.1,2026-11-12T20:56:24+00:00
+2026-11-12T20:56:34+00:00,basavareddy v jacquet,True,Kyrian Jacquet,polyus,0.65,Nishesh Basavareddy,kalshi,0.3,0.9805,0.0,0.0,0,0.0,0.71,0.36,1.1004,0.1,2026-11-12T20:56:24+00:00
+2026-11-12T20:56:54+00:00,basavareddy v jacquet,True,Kyrian Jacquet,polyus,0.56,Nishesh Basavareddy,kalshi,0.36,0.9533,0.0,0.0,0,0.0,0.65,0.45,1.1331,0.1,2026-11-12T20:56:54+00:00
+2026-11-12T20:57:04+00:00,basavareddy v jacquet,True,Kyrian Jacquet,polyus,0.55,Nishesh Basavareddy,kalshi,0.36,0.9433,0.0,0.0,0,0.0,0.65,0.45,1.1331,0.1,2026-11-12T20:56:54+00:00
+2026-11-12T20:57:24+00:00,comesana v roncadelli,True,Francisco Comesana,kalshi,0.82,Franco Roncadelli,polyus,0.16,0.9997,0.0,0.0,0,0.0,0.85,0.19,1.0596,0.1,2026-11-12T20:57:24+00:00
+2026-11-12T20:58:24+00:00,gauff v kostyuk,True,Coco Gauff,polyus,0.83,Marta Kostyuk,kalshi,0.15,0.9987,2653.99,0.0,0,0.0,0.83,0.18,1.0301,0.1,2026-11-12T20:58:24+00:00
+2026-11-12T20:58:34+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.75,Franco Roncadelli,kalshi,0.2,0.9742,0.0,0.0,0,0.0,0.81,0.25,1.0838,0.1,2026-11-12T20:58:34+00:00
+2026-11-12T20:58:34+00:00,gauff v kostyuk,True,Coco Gauff,polyus,0.83,Marta Kostyuk,kalshi,0.15,0.9987,2653.99,0.0,0,0.0,0.83,0.18,1.0301,0.1,2026-11-12T20:58:24+00:00
+2026-11-12T20:58:44+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.76,Franco Roncadelli,kalshi,0.2,0.9839,13431.03,0.0,0,0.0,0.75,0.25,1.0262,0.1,2026-11-12T20:58:34+00:00
+2026-11-12T20:58:44+00:00,gauff v kostyuk,True,Coco Gauff,kalshi,0.83,Marta Kostyuk,polyus,0.15,0.9987,0.0,0.0,0,0.0,0.86,0.18,1.0587,0.1,2026-11-12T20:58:44+00:00
+2026-11-12T20:58:54+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.76,Franco Roncadelli,kalshi,0.2,0.9839,13431.03,0.0,0,0.0,0.75,0.25,1.0262,0.1,2026-11-12T20:58:34+00:00
+2026-11-12T20:58:54+00:00,gauff v kostyuk,True,Coco Gauff,kalshi,0.83,Marta Kostyuk,polyus,0.15,0.9987,0.0,5297.61,0,0.0,0.86,0.15,1.0273,0.2,2026-11-12T20:58:44+00:00
+2026-11-12T20:59:04+00:00,humbert v musetti,True,Lorenzo Musetti,polyus,0.68,Ugo Humbert,kalshi,0.28,0.9892,0.0,0.0,0,0.0,0.73,0.32,1.0789,0.1,2026-11-12T20:59:04+00:00
+2026-11-12T20:59:04+00:00,gauff v kostyuk,True,Coco Gauff,kalshi,0.83,Marta Kostyuk,polyus,0.15,0.9987,0.0,5297.61,0,0.0,0.85,0.15,1.0178,0.1,2026-11-12T20:58:44+00:00
+2026-11-12T20:59:14+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.66,Franco Roncadelli,kalshi,0.25,0.9387,0.0,0.0,0,0.0,0.76,0.35,1.1386,0.1,2026-11-12T20:59:14+00:00
+2026-11-12T20:59:14+00:00,humbert v musetti,True,Lorenzo Musetti,polyus,0.68,Ugo Humbert,kalshi,0.28,0.9892,0.0,0.0,0,0.0,0.73,0.33,1.0892,0.1,2026-11-12T20:59:04+00:00
+2026-11-12T20:59:24+00:00,comesana v roncadelli,True,Francisco Comesana,polyus,0.66,Franco Roncadelli,kalshi,0.25,0.9387,0.0,0.0,0,0.0,0.76,0.35,1.1386,0.1,2026-11-12T20:59:14+00:00
+2026-11-12T20:59:24+00:00,humbert v musetti,True,Lorenzo Musetti,polyus,0.67,Ugo Humbert,kalshi,0.28,0.9795,8349.35,0.0,0,0.0,0.67,0.33,1.0308,0.1,2026-11-12T20:59:04+00:00
+2026-11-12T20:59:24+00:00,basavareddy v jacquet,True,Kyrian Jacquet,polyus,0.53,Nishesh Basavareddy,kalshi,0.42,0.9844,0.0,0.0,0,0.0,0.57,0.48,1.0845,0.1,2026-11-12T20:59:24+00:00
+2026-11-12T20:59:24+00:00,gray v jeff,True,Alastair Gray,polyus,0.95,Filip Jeff Planinsek,kalshi,0.03,0.9853,0.0,0.0,0,0.0,0.96,0.06,1.0266,0.1,2026-11-12T20:59:24+00:00
+2026-11-12T20:59:34+00:00,humbert v musetti,True,Lorenzo Musetti,polyus,0.59,Ugo Humbert,kalshi,0.33,0.9523,0.0,0.0,0,0.0,0.67,0.43,1.1325,0.1,2026-11-12T20:59:04+00:00
+2026-11-12T20:59:34+00:00,gray v jeff,True,Alastair Gray,polyus,0.95,Filip Jeff Planinsek,kalshi,0.04,0.996,0.0,0.0,0,0.0,0.96,0.06,1.0266,0.1,2026-11-12T20:59:24+00:00
+2026-11-12T20:59:44+00:00,humbert v musetti,True,Lorenzo Musetti,polyus,0.57,Ugo Humbert,kalshi,0.33,0.9325,0.0,0.0,0,0.0,0.67,0.44,1.1426,0.1,2026-11-12T20:59:04+00:00
+2026-11-12T20:59:54+00:00,humbert v musetti,True,Lorenzo Musetti,polyus,0.57,Ugo Humbert,kalshi,0.33,0.9325,37832.77,0.0,0,0.0,0.57,0.44,1.0443,0.1,2026-11-12T20:59:04+00:00
+2026-11-12T20:59:54+00:00,gray v jeff,True,Alastair Gray,polyus,0.94,Filip Jeff Planinsek,kalshi,0.04,0.9866,3309.88,0.0,0,0.0,0.94,0.07,1.0185,0.1,2026-11-12T20:59:54+00:00
+2026-11-12T21:00:04+00:00,gauff v kostyuk,True,Coco Gauff,kalshi,0.82,Marta Kostyuk,polyus,0.16,0.9997,0.0,0.0,0,0.0,0.86,0.2,1.0795,0.1,2026-11-12T21:00:04+00:00
+2026-11-12T21:00:14+00:00,gray v jeff,True,Alastair Gray,polyus,0.92,Filip Jeff Planinsek,kalshi,0.07,0.9997,0.0,0.0,0,0.0,0.94,0.09,1.0397,0.1,2026-11-12T21:00:14+00:00
+2026-11-12T21:00:14+00:00,gauff v kostyuk,True,Coco Gauff,kalshi,0.82,Marta Kostyuk,polyus,0.16,0.9997,0.0,0.0,0,0.0,0.85,0.2,1.07,0.1,2026-11-12T21:00:04+00:00
+2026-11-12T21:00:24+00:00,gray v jeff,True,Alastair Gray,polyus,0.92,Filip Jeff Planinsek,kalshi,0.07,0.9997,49994.2,0.0,0,0.0,0.92,0.09,1.0208,0.1,2026-11-12T21:00:14+00:00
+2026-11-12T21:00:24+00:00,gauff v kostyuk,True,Coco Gauff,kalshi,0.82,Marta Kostyuk,polyus,0.16,0.9997,0.0,12439.78,0,0.0,0.86,0.16,1.0378,0.1,2026-11-12T21:00:04+00:00
+2026-11-12T21:00:44+00:00,gauff v kostyuk,True,Coco Gauff,polyus,0.82,Marta Kostyuk,kalshi,0.16,0.9997,0.0,0.0,0,0.0,0.85,0.19,1.0596,0.1,2026-11-12T21:00:44+00:00
+2026-11-12T21:00:54+00:00,gauff v kostyuk,True,Coco Gauff,polyus,0.82,Marta Kostyuk,kalshi,0.16,0.9997,7671.01,0.0,0,0.0,0.82,0.19,1.031,0.1,2026-11-12T21:00:44+00:00
+2026-11-12T21:01:04+00:00,humbert v musetti,True,Lorenzo Musetti,kalshi,0.59,Ugo Humbert,polyus,0.37,0.9931,0.0,0.0,0,0.0,0.64,0.41,1.0829,0.1,2026-11-12T21:01:04+00:00
+2026-11-12T21:01:14+00:00,humbert v musetti,True,Lorenzo Musetti,kalshi,0.59,Ugo Humbert,polyus,0.37,0.9931,0.0,0.0,0,0.0,0.64,0.41,1.0829,0.1,2026-11-12T21:01:04+00:00
+2026-11-12T21:01:44+00:00,gauff v kostyuk,True,Coco Gauff,kalshi,0.82,Marta Kostyuk,polyus,0.16,0.9997,0.0,0.0,0,0.0,0.85,0.2,1.07,0.1,2026-11-12T21:01:44+00:00
+2026-11-12T21:01:54+00:00,gray v jeff,True,Alastair Gray,polyus,0.88,Filip Jeff Planinsek,kalshi,0.09,0.9831,0.0,0.0,0,0.0,0.92,0.13,1.063,0.2,2026-11-12T21:01:54+00:00
+2026-11-12T21:01:54+00:00,gauff v kostyuk,True,Coco Gauff,kalshi,0.82,Marta Kostyuk,polyus,0.16,0.9997,0.0,14143.23,0,0.0,0.85,0.16,1.0283,0.1,2026-11-12T21:01:44+00:00
+2026-11-12T21:02:04+00:00,gray v jeff,True,Alastair Gray,polyus,0.88,Filip Jeff Planinsek,kalshi,0.09,0.9831,0.0,0.0,0,0.0,0.92,0.13,1.063,0.1,2026-11-12T21:01:54+00:00
+2026-11-12T21:02:24+00:00,gauff v kostyuk,True,Coco Gauff,kalshi,0.85,Marta Kostyuk,polyus,0.12,0.9863,0.0,9735.55,0,0.0,0.89,0.12,1.0242,0.1,2026-11-12T21:02:24+00:00
+2026-11-12T21:03:04+00:00,gauff v kostyuk,True,Coco Gauff,kalshi,0.89,Marta Kostyuk,polyus,0.08,0.982,0.0,0.0,0,0.0,0.93,0.12,1.0619,0.1,2026-11-12T21:03:04+00:00
