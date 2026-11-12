@@ -1,4 +1,4 @@
-# Consensus paper tracker — Thu Nov 12, 7:40AM MT
+# Consensus paper tracker — Thu Nov 12, 8:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 8-6 | +0.54 | 14-12 | -2.01 | 1 |
+| 2 agree | all 15 | 8-6 | +0.54 | 14-12 | -2.01 | 2 |
 | 2+ agree, 1+ against (split) | all 15 | 17-9 | +6.20 | 15-11 | -0.97 | 0 |
 | 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 5-3 | +0.74 | 7-3 | +0.46 | 1 |
-| 2+ agree, 1+ against (split) | core 10 only | 4-3 | +0.12 | 7-4 | -0.19 | 0 |
+| 2 agree | core 10 only | 5-3 | +0.74 | 6-3 | -0.54 | 1 |
+| 2+ agree, 1+ against (split) | core 10 only | 4-3 | +0.12 | 6-4 | -0.39 | 0 |
 
 **By price** (new roster, pre-game, graded):
 
@@ -41,28 +41,29 @@ Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Ro
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
 
-## Roster health (last 7 days, checked 2026-11-11)
+## Roster health (last 7 days, checked 2026-11-12)
 
 | Trader | Bets/day | Active days | Both-sides % | Share of agreements | Avg stake | Top sports |
 |---|---|---|---|---|---|---|
-| monkeymashingkeyboard | 13.1 | 8 | 2% | 19% of 80 | $15,829 | nba,nfl,wta |
-| purplegatto | 15.9 | 8 | 9% | 21% of 80 | $6,029 | nba,cfb,nfl |
-| jakepaulthegoat2008 | 10.4 | 7 | 5% | 21% of 80 | $73,659 | nba,cs2,lol |
-| 0xb4F978BE | 17.0 | 8 | 7% | 12% of 80 | $10,020 | cfb,nba,nfl |
-| chongchong37 | 2.6 | 4 | 4% | 0% of 80 | $7,238 | nba,rou1,uel |
-| yabanci | 1.4 | 5 | 5% | 1% of 80 | $26,883 | uel,epl,nba |
-| drainedandpoor | 5.3 | 7 | 0% | 15% of 80 | $14,037 | nba,cs2 |
-| 999585 | 6.3 | 8 | 4% | 6% of 80 | $133,411 | cfb,nfl,atp |
-| 0x9f15613e | 18.4 | 8 | 2% | 12% of 80 | $8,209 | nba,nfl,cfb |
-| ic4cream | 6.1 | 8 | 1% | 10% of 80 | $3,890 | nfl,nba,cfb |
-| BreakTheBank | 10.6 | 7 | 0% | 31% of 80 | $106,430 | nfl,nba,epl |
-| ch27er | 10.0 | 8 | 1% | 12% of 80 | $12,864 | nba,epl,atp |
-| ianf2026 | 12.1 | 7 | 7% | 18% of 80 | $4,291 | nba,uel |
-| JoeyAroyyOO | 8.7 | 8 | 0% | 9% of 80 | $8,366 | nba |
-| Kyn008 | 4.4 | 6 | 0% | 5% of 80 | $14,954 | epl,bra,lal |
+| monkeymashingkeyboard | 13.7 | 8 | 3% | 20% of 103 | $14,009 | nba,nfl,wta |
+| purplegatto | 16.7 | 8 | 9% | 23% of 103 | $5,969 | nba,cfb,nfl |
+| jakepaulthegoat2008 | 10.3 | 6 | 3% | 26% of 103 | $82,881 | nba,cs2,lol |
+| 0xb4F978BE | 15.0 | 8 | 6% | 10% of 103 | $8,886 | cfb,nba,nfl |
+| chongchong37 | 1.7 | 3 | 6% | 0% of 103 | $7,261 | nba,rou1,uel |
+| fantasy7788 | — | — | — | — | — | (pull failed) |
+| drainedandpoor | 7.0 | 8 | 0% | 16% of 103 | $13,199 | cs2,nba |
+| 999585 | 5.9 | 7 | 7% | 8% of 103 | $129,436 | cfb,nfl,atp |
+| 0x9f15613e | 19.7 | 8 | 2% | 14% of 103 | $7,090 | nba,nfl,cfb |
+| ic4cream | 5.9 | 8 | 1% | 9% of 103 | $3,148 | nfl,cfb,nba |
+| BreakTheBank | 10.9 | 6 | 0% | 30% of 103 | $99,014 | nfl,nba,epl |
+| ch27er | 10.0 | 8 | 1% | 10% of 103 | $11,737 | nba,epl,atp |
+| ianf2026 | 10.3 | 6 | 7% | 14% of 103 | $4,136 | nba,uel |
+| JoeyAroyyOO | 8.1 | 8 | 0% | 9% of 103 | $9,664 | nba |
+| Kyn008 | 4.1 | 7 | 0% | 4% of 103 | $14,290 | epl,lal,ere |
 
 ## Open signals
 
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-12 | NFL | Commanders vs. Giants | Giants (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; ic4cream | — | 55.5c |
+| new | 2026-11-12 | NBA | Raptors vs. 76ers | Raptors (+9.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; BreakTheBank | — | 53.5c |

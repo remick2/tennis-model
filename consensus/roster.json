@@ -27,9 +27,9 @@
    "note": "original"
   },
   {
-   "name": "yabanci",
-   "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
-   "note": "original"
+   "name": "fantasy7788",
+   "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+   "note": "Nov 12, auto-replaced yabanci (directional bets/day too low (below 5) since Nov 10)"
   },
   {
    "name": "drainedandpoor",
@@ -85,13 +85,6 @@
     "note": "NBA, ~7/day, never both sides"
    }
   ],
-  "yabanci": [
-   {
-    "name": "fantasy7788",
-    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
-    "note": "CS2/LoL/NBA, 5.6/day, #44 sports PnL"
-   }
-  ],
   "chongchong37": [
    {
     "name": "bands1",
@@ -130,6 +123,11 @@
    "name": "darkumbreon88",
    "wallet": "0x0235dc24b38772bf3339a9e5ec5db3d3a05fcee5",
    "date": "2026-11-08"
+  },
+  {
+   "name": "yabanci",
+   "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+   "date": "2026-11-12"
   }
  ]
 }
