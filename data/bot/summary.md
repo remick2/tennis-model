@@ -1,13 +1,13 @@
-# Dry-run bot (Thu Nov 12 2:12AM MT)
+# Dry-run bot (Thu Nov 12 2:27AM MT)
 
 Paper only: no keys, no real orders. Started 2026-11-11 with $690 ($345 per venue).
 
-- Cash: Kalshi **$693.74**, Polymarket US **$0.27**; locked in 0 open matches: $0.00
+- Cash: Kalshi **$690.90**, Polymarket US **$0.00**; locked in 1 open matches: $3.11
 - Bankroll now (cash + open at cost): **$694.01**
-- Fires: 1 · settled: 1 · settled P&L **$+4.01** (includes unwinds: $+0.00)
-- Since the Polymarket-US-first switch: 1 fires, 1 traded, 0 with one leg short · simulated $4.01 vs $4.01 if both orders had gone at once
-- All fires: 5 · expected $18.49 · simulated $-40.19
-- Median book-read time 64 ms, fill check 62 ms
+- Fires: 2 · settled: 1 · settled P&L **$+4.01** (includes unwinds: $+0.00)
+- Since the Polymarket-US-first switch: 2 fires, 2 traded, 0 with one leg short · simulated $5.90 vs $5.90 if both orders had gone at once
+- All fires: 6 · expected $20.38 · simulated $-38.30
+- Median book-read time 71 ms, fill check 62 ms
 
 ## Last 15 fires
 
@@ -18,3 +18,4 @@ Paper only: no keys, no real orders. Started 2026-11-11 with $690 ($345 per venu
 | 2026-11-11T22:03:32+00:00 | bellucci v gueymard | True   | nan          |      431 |  0.9864 |       5.85 |        431 |          0 |       -16.87 |       -16.87 |        nan    |
 | 2026-11-11T22:07:00+00:00 | muchova v svitolina | True   | nan          |      406 |  0.9873 |       5.16 |        406 |        406 |         0    |         5.16 |        nan    |
 | 2026-11-11T22:24:03+00:00 | bellucci v gueymard | True   | polyus_first |      559 |  0.9928 |       4.01 |        559 |        559 |         0    |         4.01 |          4.01 |
+| 2026-11-12T09:21:59+00:00 | carboni v xilas     | True   | polyus_first |        5 |  0.622  |       1.89 |          5 |          5 |         0    |         1.89 |          1.89 |
