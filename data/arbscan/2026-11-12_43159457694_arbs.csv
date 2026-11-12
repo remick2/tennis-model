@@ -1,0 +1,8 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-12T06:18:37+00:00,emil v shang,True,Carl Emil Overbeck,kalshi,0.28,Juncheng Shang,polyus,0.66,0.9697,0,0,0,0.0,0.35,0.72,1.0999,0.0,2026-11-12T06:18:37+00:00
+2026-11-12T06:18:47+00:00,emil v shang,True,Carl Emil Overbeck,kalshi,0.28,Juncheng Shang,polyus,0.66,0.9697,0,0,0,0.0,0.35,0.72,1.0999,0.0,2026-11-12T06:18:37+00:00
+2026-11-12T06:19:37+00:00,emil v shang,True,Carl Overbeck,polyus,0.3,Juncheng Shang,kalshi,0.65,0.9805,0,0,0,0.0,0.38,0.71,1.1208,0.1,2026-11-12T06:19:37+00:00
+2026-11-12T06:19:47+00:00,emil v shang,True,Carl Overbeck,polyus,0.3,Juncheng Shang,kalshi,0.65,0.9805,0,0,0,0.0,0.38,0.71,1.1208,0.0,2026-11-12T06:19:37+00:00
+2026-11-12T06:20:37+00:00,emil v shang,True,Carl Overbeck,polyus,0.27,Juncheng Shang,kalshi,0.68,0.9789,0,0,0,0.0,0.34,0.74,1.1091,0.1,2026-11-12T06:20:37+00:00
+2026-11-12T06:20:47+00:00,emil v shang,True,Carl Overbeck,polyus,0.27,Juncheng Shang,kalshi,0.68,0.9789,0,0,0,0.0,0.34,0.74,1.1091,0.0,2026-11-12T06:20:37+00:00
+2026-11-12T06:24:57+00:00,emil v shang,True,Carl Overbeck,polyus,0.24,Juncheng Shang,kalshi,0.72,0.9868,0,0,0,0.0,0.3,0.76,1.0874,0.0,2026-11-12T06:24:57+00:00
