@@ -41,3 +41,37 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-12T02:28:11+00:00,noguchi v zhou,True,Rio Noguchi,kalshi,0.44,Yi Zhou,polyus,0.47,0.9446,0.0,0.0,0,0.0,0.54,0.55,1.1246,0.1,2026-11-12T02:28:01+00:00
 2026-11-12T02:28:21+00:00,noguchi v zhou,True,Rio Noguchi,kalshi,0.44,Yi Zhou,polyus,0.47,0.9446,0.0,0.0,0,0.0,0.54,0.55,1.1246,0.1,2026-11-12T02:28:01+00:00
 2026-11-12T02:28:31+00:00,noguchi v zhou,True,Rio Noguchi,kalshi,0.44,Yi Zhou,polyus,0.47,0.9446,0.0,11594.43,0,0.0,0.54,0.47,1.0447,0.1,2026-11-12T02:28:01+00:00
+2026-11-12T02:33:31+00:00,hans v mejia,True,Max Hans Rehberg,kalshi,0.91,Nicolas Mejia,polyus,0.07,0.9903,0.0,0.0,0,0.0,0.94,0.09,1.0396,0.1,2026-11-12T02:33:31+00:00
+2026-11-12T02:34:51+00:00,hans v mejia,True,Max Hans Rehberg,polyus,0.92,Nicolas Mejia,kalshi,0.07,0.9997,37501.77,0.0,0,0.0,0.92,0.09,1.0208,0.2,2026-11-12T02:34:51+00:00
+2026-11-12T02:35:01+00:00,hans v mejia,True,Max Hans Rehberg,polyus,0.92,Nicolas Mejia,kalshi,0.07,0.9997,37501.77,0.0,0,0.0,0.92,0.09,1.0208,0.1,2026-11-12T02:34:51+00:00
+2026-11-12T02:35:21+00:00,hans v mejia,True,Max Hans Rehberg,polyus,0.9,Nicolas Mejia,kalshi,0.07,0.9808,0.0,0.0,0,0.0,0.92,0.11,1.042,0.1,2026-11-12T02:35:21+00:00
+2026-11-12T02:35:41+00:00,hans v mejia,True,Max Hans Rehberg,polyus,0.89,Nicolas Mejia,kalshi,0.09,0.9925,0.0,0.0,0,0.0,0.9,0.12,1.0336,0.1,2026-11-12T02:35:41+00:00
+2026-11-12T02:35:51+00:00,hans v mejia,True,Max Hans Rehberg,polyus,0.89,Nicolas Mejia,kalshi,0.09,0.9925,0.0,0.0,0,0.0,0.9,0.12,1.0336,0.1,2026-11-12T02:35:41+00:00
+2026-11-12T02:35:51+00:00,noguchi v zhou,True,Rio Noguchi,polyus,0.54,Yi Zhou,kalshi,0.42,0.9943,0.0,0.0,0,0.0,0.58,0.46,1.0743,0.1,2026-11-12T02:35:51+00:00
+2026-11-12T02:36:51+00:00,noguchi v zhou,True,Rio Noguchi,kalshi,0.55,Yi Zhou,polyus,0.41,0.9941,0.0,0.0,0,0.0,0.6,0.44,1.0739,0.1,2026-11-12T02:36:51+00:00
+2026-11-12T02:38:31+00:00,hoole v sweeny,True,Casey Hoole,polyus,0.02,Dane Sweeny,kalshi,0.97,0.9934,6456.75,0.0,0,0.0,0.02,0.99,1.0121,0.1,2026-11-12T02:38:31+00:00
+2026-11-12T02:38:41+00:00,hoole v sweeny,True,Casey Hoole,polyus,0.02,Dane Sweeny,kalshi,0.97,0.9934,6456.75,0.0,0,0.0,0.02,0.98,1.0027,0.1,2026-11-12T02:38:31+00:00
+2026-11-12T02:39:01+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.01,Dane Sweeny,polyus,0.97,0.9827,0.0,0.0,0,0.0,0.04,0.99,1.0334,0.1,2026-11-12T02:39:01+00:00
+2026-11-12T02:39:11+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.01,Dane Sweeny,polyus,0.97,0.9827,0.0,0.0,0,0.0,0.04,0.99,1.0334,0.1,2026-11-12T02:39:01+00:00
+2026-11-12T02:39:21+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.01,Dane Sweeny,polyus,0.98,0.9921,0.0,19374.17,0,0.0,0.04,0.97,1.0147,0.1,2026-11-12T02:39:01+00:00
+2026-11-12T02:39:31+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.04,Dane Sweeny,polyus,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.1,2026-11-12T02:39:01+00:00
+2026-11-12T02:39:41+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.04,Dane Sweeny,polyus,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.1,2026-11-12T02:39:01+00:00
+2026-11-12T02:39:51+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.04,Dane Sweeny,polyus,0.95,0.996,0.0,14289.94,0,0.0,0.07,0.95,1.0279,0.1,2026-11-12T02:39:01+00:00
+2026-11-12T02:41:11+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.02,Dane Sweeny,polyus,0.97,0.9934,0.0,0.0,0,0.0,0.04,0.99,1.0334,0.1,2026-11-12T02:41:11+00:00
+2026-11-12T02:41:21+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.02,Dane Sweeny,polyus,0.97,0.9934,0.0,42605.87,0,0.0,0.04,0.97,1.0147,0.1,2026-11-12T02:41:11+00:00
+2026-11-12T02:41:21+00:00,langmo v mccabe,True,Christian Langmo,kalshi,0.46,James McCabe,polyus,0.5,0.9948,0.0,0.0,0,0.0,0.5,0.55,1.0847,0.1,2026-11-12T02:41:21+00:00
+2026-11-12T02:41:31+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.02,Dane Sweeny,polyus,0.97,0.9934,0.0,42605.87,0,0.0,0.04,0.97,1.0147,0.1,2026-11-12T02:41:11+00:00
+2026-11-12T02:41:31+00:00,langmo v mccabe,True,Christian Langmo,kalshi,0.46,James McCabe,polyus,0.5,0.9948,0.0,11506.83,0,0.0,0.5,0.5,1.0349,0.1,2026-11-12T02:41:21+00:00
+2026-11-12T02:41:41+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.05,Dane Sweeny,polyus,0.93,0.9878,0.0,0.0,0,0.0,0.08,0.97,1.0572,0.1,2026-11-12T02:41:11+00:00
+2026-11-12T02:41:51+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.05,Dane Sweeny,polyus,0.93,0.9878,0.0,44973.67,0,0.0,0.08,0.93,1.0197,0.1,2026-11-12T02:41:11+00:00
+2026-11-12T02:41:51+00:00,milic v nakagawa,True,Ognjen Milic,kalshi,0.94,Shunsuke Nakagawa,polyus,0.05,0.9972,0.0,350.0,0,0.0,0.95,0.05,1.0066,0.1,2026-11-12T02:41:51+00:00
+2026-11-12T02:42:01+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.05,Dane Sweeny,polyus,0.93,0.9878,0.0,44973.67,0,0.0,0.08,0.93,1.0197,0.1,2026-11-12T02:41:11+00:00
+2026-11-12T02:42:01+00:00,milic v nakagawa,True,Ognjen Milic,kalshi,0.94,Shunsuke Nakagawa,polyus,0.05,0.9972,0.0,350.0,0,0.0,0.96,0.05,1.016,0.1,2026-11-12T02:41:51+00:00
+2026-11-12T02:42:31+00:00,hoole v sweeny,True,Casey Hoole,polyus,0.04,Dane Sweeny,kalshi,0.91,0.9584,0.0,0.0,0,0.0,0.1,0.97,1.0783,0.1,2026-11-12T02:42:31+00:00
+2026-11-12T02:42:41+00:00,hoole v sweeny,True,Casey Hoole,polyus,0.04,Dane Sweeny,kalshi,0.91,0.9584,0.0,0.0,0,0.0,0.1,0.97,1.0783,0.1,2026-11-12T02:42:31+00:00
+2026-11-12T02:43:21+00:00,hoole v sweeny,True,Casey Hoole,polyus,0.02,Dane Sweeny,kalshi,0.97,0.9934,8258.65,0.0,0,0.0,0.02,0.99,1.0121,0.1,2026-11-12T02:43:21+00:00
+2026-11-12T02:43:51+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.02,Dane Sweeny,polyus,0.97,0.9934,0.0,9158.89,0,0.0,0.04,0.97,1.0147,0.1,2026-11-12T02:43:51+00:00
+2026-11-12T02:43:51+00:00,milic v nakagawa,True,Ognjen Milic,polyus,0.94,Shunsuke Nakagawa,kalshi,0.05,0.9972,572.51,0.0,0,0.0,0.94,0.07,1.0185,0.1,2026-11-12T02:43:51+00:00
+2026-11-12T02:44:21+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.04,Dane Sweeny,polyus,0.93,0.9772,0.0,9856.3,0,0.0,0.08,0.93,1.0197,0.1,2026-11-12T02:44:21+00:00
+2026-11-12T02:44:51+00:00,hoole v sweeny,True,Casey Hoole,polyus,0.04,Dane Sweeny,kalshi,0.93,0.9772,8900.61,0.0,0,0.0,0.04,0.97,1.0147,0.1,2026-11-12T02:44:51+00:00
+2026-11-12T02:45:21+00:00,hoole v sweeny,True,Casey Hoole,kalshi,0.04,Dane Sweeny,polyus,0.93,0.9772,0.0,15985.52,0,0.0,0.08,0.93,1.0197,0.1,2026-11-12T02:45:21+00:00
