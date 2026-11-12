@@ -1,26 +1,12 @@
 {
  "started": "2026-11-11T22:16:09+00:00",
  "cash": {
-  "kalshi": 690.9,
+  "kalshi": 695.9,
   "polyus": 0.0
  },
- "open": [
-  {
-   "id": "5ee241a51d54",
-   "key": "carboni v xilas",
-   "opened": "2026-11-12T09:21:59+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV12CARXIL-XIL",
-   "kalshi_side": "no",
-   "shares": {
-    "polyus": 5,
-    "kalshi": 5
-   },
-   "cost": 3.11,
-   "expected": 1.89
-  }
- ],
- "settled_pnl": 4.01,
+ "open": [],
+ "settled_pnl": 5.9,
  "unwind_pnl": 0.0,
  "fires": 2,
- "settled": 1
+ "settled": 2
 }
