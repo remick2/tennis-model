@@ -1,4 +1,4 @@
-# Consensus paper tracker — Wed Nov 11, 8:40PM MT
+# Consensus paper tracker — Wed Nov 11, 9:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,18 +8,18 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | all 15 | 3-1 | +0.90 | 4-0 | +1.36 | 1 |
-| 2 agree | all 15 | 8-6 | +0.54 | 13-10 | -1.26 | 2 |
-| 2+ agree, 1+ against (split) | all 15 | 17-8 | +7.20 | 14-9 | -0.32 | 4 |
-| 3+ agree (paper play) | core 10 only | 1-0 | +0.92 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 5-3 | +0.74 | 7-1 | +2.46 | 1 |
-| 2+ agree, 1+ against (split) | core 10 only | 4-2 | +1.12 | 6-2 | +0.46 | 4 |
+| 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 0 |
+| 2 agree | all 15 | 8-6 | +0.54 | 13-10 | -1.26 | 4 |
+| 2+ agree, 1+ against (split) | all 15 | 17-8 | +7.20 | 15-11 | -0.97 | 1 |
+| 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 0 |
+| 2 agree | core 10 only | 5-3 | +0.74 | 7-1 | +2.46 | 3 |
+| 2+ agree, 1+ against (split) | core 10 only | 4-2 | +1.12 | 7-4 | -0.19 | 1 |
 
 **By price** (new roster, pre-game, graded):
 
 | Rule | Price range | Record | Units | Actual wins | Expected wins | Edge |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | Coin flip (45-65c) | 2-1 | +0.63 | 2 | 1.6 | +0.4 |
+| 3+ agree (paper play) | Coin flip (45-65c) | 3-1 | +1.69 | 3 | 2.1 | +0.9 |
 | 3+ agree (paper play) | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
 | 2 agree | Underdog (<45c) | 0-4 | -4.00 | 0 | 1.4 | -1.4 |
 | 2 agree | Coin flip (45-65c) | 7-1 | +5.30 | 7 | 4.2 | +2.8 |
@@ -66,9 +66,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-12 | NFL | Commanders vs. Giants | Giants (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; ic4cream | — | 55.5c |
-| new | 2026-11-11 | NBA | Magic vs. Jazz | Magic (-4.5) (Spread) | 3 agree, 0 against | pre-game | purplegatto; jakepaulthegoat2008; drainedandpoor | — | 48.5c |
-| new | 2026-11-11 | CFB | UMass vs. Toledo | UMass (+14.5) (Spread) | 2 agree, 1 against | in-play | monkeymashingkeyboard; 0x9f15613e | purplegatto | 51.0c |
 | new | 2026-11-11 | NBA | Warriors vs. Rockets | Warriors (Moneyline) | 2 agree, 1 against | pre-game | purplegatto; jakepaulthegoat2008 | monkeymashingkeyboard | 31.5c |
-| new | 2026-11-11 | CFB | Buffalo vs. Ball State | Ball State (Moneyline) | 2 agree, 1 against | in-play | 999585; 0x9f15613e | purplegatto | 62.5c |
-| new | 2026-11-11 | CFB | Buffalo vs. Ball State | Buffalo (Moneyline) | 2 agree, 1 against | in-play | purplegatto; 999585 | 0x9f15613e | 42.5c |
 | new | 2026-11-11 | NBA | Thunder vs. Trail Blazers | Trail Blazers (Moneyline) | 2 agree, 0 against | in-play | jakepaulthegoat2008; BreakTheBank | — | 44.5c |
+| new | 2026-11-11 | CS2 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality (Moneyline) | 2 agree, 0 against | in-play | jakepaulthegoat2008; drainedandpoor | — | 88.5c |
+| new | 2026-11-11 | CS2 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality (Map handicap) | 2 agree, 0 against | in-play | jakepaulthegoat2008; drainedandpoor | — | 69.0c |
