@@ -195,3 +195,42 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-12T18:46:33+00:00,andreescu v bassols,True,Bianca Andreescu,polyus,0.83,Marina Bassols Ribera,kalshi,0.15,0.9987,0.0,0.0,0,0.0,0.84,0.18,1.0397,0.1,2026-11-12T18:46:33+00:00
 2026-11-12T18:46:43+00:00,baez v hemery,True,Calvin Hemery,kalshi,0.46,Sebastian Baez,polyus,0.46,0.9547,0.0,59759.21,0,0.0,0.55,0.46,1.0446,0.1,2026-11-12T18:46:23+00:00
 2026-11-12T18:46:53+00:00,baez v hemery,True,Calvin Hemery,kalshi,0.46,Sebastian Baez,polyus,0.32,0.8125,0.0,0.0,0,0.0,0.68,0.46,1.1725,0.0,2026-11-12T18:46:23+00:00
+2026-11-12T18:47:03+00:00,baez v hemery,True,Calvin Hemery,kalshi,0.56,Sebastian Baez,polyus,0.33,0.9226,0.0,56014.09,0,0.0,0.68,0.33,1.0406,0.1,2026-11-12T18:46:23+00:00
+2026-11-12T18:47:13+00:00,baez v hemery,True,Calvin Hemery,kalshi,0.56,Sebastian Baez,polyus,0.33,0.9226,0.0,56014.09,0,0.0,0.68,0.33,1.0406,0.1,2026-11-12T18:46:23+00:00
+2026-11-12T18:47:23+00:00,baez v hemery,True,Calvin Hemery,kalshi,0.56,Sebastian Baez,polyus,0.33,0.9226,0.0,56014.09,0,0.0,0.68,0.33,1.0406,0.1,2026-11-12T18:46:23+00:00
+2026-11-12T18:47:23+00:00,andreescu v bassols,True,Bianca Andreescu,polyus,0.81,Marina Bassols Ribera,kalshi,0.16,0.9901,4489.92,0.0,0,0.0,0.81,0.2,1.0319,0.1,2026-11-12T18:47:23+00:00
+2026-11-12T18:47:33+00:00,andreescu v bassols,True,Bianca Andreescu,polyus,0.81,Marina Bassols Ribera,kalshi,0.16,0.9901,4489.92,0.0,0,0.0,0.81,0.2,1.0319,0.1,2026-11-12T18:47:23+00:00
+2026-11-12T18:47:43+00:00,andreescu v bassols,True,Bianca Andreescu,polyus,0.82,Marina Bassols Ribera,kalshi,0.16,0.9997,7168.92,0.0,0,0.0,0.81,0.2,1.0319,0.0,2026-11-12T18:47:23+00:00
+2026-11-12T18:48:33+00:00,kozlov v shick,True,Braden Shick,kalshi,0.04,Stefan Kozlov,polyus,0.95,0.996,0.0,52665.55,0,0.0,0.06,0.95,1.0172,0.1,2026-11-12T18:48:33+00:00
+2026-11-12T18:49:03+00:00,andreescu v bassols,True,Bianca Andreescu,kalshi,0.85,Marina Bassols Ribera,polyus,0.12,0.9863,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.1,2026-11-12T18:49:03+00:00
+2026-11-12T18:49:13+00:00,andreescu v bassols,True,Bianca Andreescu,kalshi,0.85,Marina Bassols Ribera,polyus,0.12,0.9863,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.1,2026-11-12T18:49:03+00:00
+2026-11-12T18:49:23+00:00,kozlov v shick,True,Braden Shick,polyus,0.04,Stefan Kozlov,kalshi,0.95,0.996,0.0,0.0,0,0.0,0.06,0.96,1.0266,0.1,2026-11-12T18:49:23+00:00
+2026-11-12T18:49:43+00:00,kozlov v shick,True,Braden Shick,kalshi,0.05,Stefan Kozlov,polyus,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.97,1.0466,0.1,2026-11-12T18:49:43+00:00
+2026-11-12T18:49:53+00:00,kozlov v shick,True,Braden Shick,kalshi,0.05,Stefan Kozlov,polyus,0.94,0.9972,0.0,0.0,0,0.0,0.07,0.97,1.0466,0.1,2026-11-12T18:49:43+00:00
+2026-11-12T18:50:03+00:00,kozlov v shick,True,Braden Shick,kalshi,0.05,Stefan Kozlov,polyus,0.94,0.9972,0.0,26775.03,0,0.0,0.07,0.94,1.0185,0.1,2026-11-12T18:49:43+00:00
+2026-11-12T18:50:33+00:00,kozlov v shick,True,Braden Shick,kalshi,0.07,Stefan Kozlov,polyus,0.91,0.9902,0.0,36511.53,0,0.0,0.1,0.91,1.022,0.1,2026-11-12T18:50:33+00:00
+2026-11-12T18:52:03+00:00,kozlov v shick,True,Braden Shick,polyus,0.05,Stefan Kozlov,kalshi,0.92,0.9785,68040.34,0.0,0,0.0,0.05,0.96,1.016,0.1,2026-11-12T18:52:03+00:00
+2026-11-12T18:52:03+00:00,andreescu v bassols,True,Bianca Andreescu,polyus,0.86,Marina Bassols Ribera,kalshi,0.12,0.9958,0.0,0.0,0,0.0,0.87,0.15,1.0368,0.1,2026-11-12T18:52:03+00:00
+2026-11-12T18:52:13+00:00,kozlov v shick,True,Braden Shick,polyus,0.05,Stefan Kozlov,kalshi,0.92,0.9785,68040.34,0.0,0,0.0,0.05,0.96,1.016,0.1,2026-11-12T18:52:03+00:00
+2026-11-12T18:52:23+00:00,kozlov v shick,True,Braden Shick,polyus,0.05,Stefan Kozlov,kalshi,0.92,0.9785,68040.34,0.0,0,0.0,0.05,0.96,1.016,0.0,2026-11-12T18:52:03+00:00
+2026-11-12T18:53:13+00:00,baez v hemery,True,Calvin Hemery,kalshi,0.68,Sebastian Baez,polyus,0.29,0.9995,0.0,12093.0,0,0.0,0.72,0.29,1.0384,0.0,2026-11-12T18:53:13+00:00
+2026-11-12T18:53:23+00:00,kozlov v shick,True,Braden Shick,kalshi,0.06,Stefan Kozlov,polyus,0.92,0.9891,0.0,0.0,0,0.0,0.09,0.95,1.049,0.1,2026-11-12T18:53:23+00:00
+2026-11-12T18:53:33+00:00,kozlov v shick,True,Braden Shick,kalshi,0.06,Stefan Kozlov,polyus,0.92,0.9891,0.0,47102.61,0,0.0,0.09,0.92,1.0208,0.1,2026-11-12T18:53:23+00:00
+2026-11-12T18:54:03+00:00,kozlov v shick,True,Braden Shick,polyus,0.06,Stefan Kozlov,kalshi,0.92,0.9891,46258.18,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-12T18:54:03+00:00
+2026-11-12T18:54:13+00:00,kozlov v shick,True,Braden Shick,polyus,0.06,Stefan Kozlov,kalshi,0.92,0.9891,46258.18,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-12T18:54:03+00:00
+2026-11-12T18:54:23+00:00,kozlov v shick,True,Braden Shick,polyus,0.06,Stefan Kozlov,kalshi,0.92,0.9891,46258.18,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-12T18:54:03+00:00
+2026-11-12T18:54:33+00:00,kozlov v shick,True,Braden Shick,polyus,0.06,Stefan Kozlov,kalshi,0.92,0.9891,285.72,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-12T18:54:03+00:00
+2026-11-12T18:55:03+00:00,kozlov v shick,True,Braden Shick,kalshi,0.06,Stefan Kozlov,polyus,0.91,0.9796,0.0,34563.76,0,0.0,0.09,0.91,1.0114,0.0,2026-11-12T18:55:03+00:00
+2026-11-12T18:55:43+00:00,baez v hemery,True,Calvin Hemery,polyus,0.55,Sebastian Baez,kalshi,0.38,0.9637,0.0,0.0,0,0.0,0.59,0.46,1.0842,0.1,2026-11-12T18:55:43+00:00
+2026-11-12T18:55:53+00:00,baez v hemery,True,Calvin Hemery,polyus,0.55,Sebastian Baez,kalshi,0.38,0.9637,0.0,0.0,0,0.0,0.59,0.46,1.0842,0.1,2026-11-12T18:55:43+00:00
+2026-11-12T18:55:53+00:00,kozlov v shick,True,Braden Shick,polyus,0.06,Stefan Kozlov,kalshi,0.92,0.9891,0.0,0.0,0,0.0,0.12,0.95,1.0807,0.1,2026-11-12T18:55:53+00:00
+2026-11-12T18:56:03+00:00,kozlov v shick,True,Braden Shick,polyus,0.06,Stefan Kozlov,kalshi,0.91,0.9797,49175.85,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-12T18:55:53+00:00
+2026-11-12T18:56:13+00:00,kozlov v shick,True,Braden Shick,polyus,0.06,Stefan Kozlov,kalshi,0.91,0.9797,49175.85,0.0,0,0.0,0.06,0.95,1.0172,0.1,2026-11-12T18:55:53+00:00
+2026-11-12T18:56:23+00:00,kozlov v shick,True,Braden Shick,polyus,0.06,Stefan Kozlov,kalshi,0.91,0.9797,49175.85,0.0,0,0.0,0.06,0.96,1.0266,0.1,2026-11-12T18:55:53+00:00
+2026-11-12T18:57:03+00:00,kozlov v shick,True,Braden Shick,polyus,0.04,Stefan Kozlov,kalshi,0.95,0.996,68427.94,0.0,0,0.0,0.04,0.97,1.0147,0.1,2026-11-12T18:57:03+00:00
+2026-11-12T18:57:13+00:00,kozlov v shick,True,Braden Shick,polyus,0.04,Stefan Kozlov,kalshi,0.95,0.996,68427.94,0.0,0,0.0,0.04,0.97,1.0147,0.1,2026-11-12T18:57:03+00:00
+2026-11-12T18:57:23+00:00,kozlov v shick,True,Braden Shick,polyus,0.04,Stefan Kozlov,kalshi,0.95,0.996,68427.94,0.0,0,0.0,0.04,0.97,1.0147,0.1,2026-11-12T18:57:03+00:00
+2026-11-12T19:01:13+00:00,baez v hemery,True,Calvin Hemery,kalshi,0.54,Sebastian Baez,polyus,0.42,0.9943,0.0,19660.0,0,0.0,0.58,0.42,1.034,0.1,2026-11-12T19:01:13+00:00
+2026-11-12T19:01:23+00:00,baez v hemery,True,Calvin Hemery,kalshi,0.54,Sebastian Baez,polyus,0.42,0.9943,0.0,19660.0,0,0.0,0.58,0.42,1.034,0.0,2026-11-12T19:01:13+00:00
+2026-11-12T19:01:53+00:00,baez v hemery,True,Calvin Hemery,kalshi,0.58,Sebastian Baez,polyus,0.34,0.9526,0.0,0.0,0,0.0,0.67,0.42,1.1224,0.0,2026-11-12T19:01:53+00:00
+2026-11-12T19:02:03+00:00,andreescu v bassols,True,Bianca Andreescu,kalshi,0.88,Marina Bassols Ribera,polyus,0.1,0.9936,0.0,0.0,0,0.0,0.91,0.11,1.0325,0.1,2026-11-12T19:02:03+00:00
