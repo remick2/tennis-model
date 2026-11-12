@@ -1,4 +1,4 @@
-# Consensus paper tracker — Wed Nov 11, 9:40PM MT
+# Consensus paper tracker — Wed Nov 11, 10:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 8-6 | +0.54 | 13-10 | -1.26 | 4 |
-| 2+ agree, 1+ against (split) | all 15 | 17-8 | +7.20 | 15-11 | -0.97 | 1 |
+| 2 agree | all 15 | 8-6 | +0.54 | 14-10 | -0.01 | 3 |
+| 2+ agree, 1+ against (split) | all 15 | 17-9 | +6.20 | 15-11 | -0.97 | 0 |
 | 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 0 |
 | 2 agree | core 10 only | 5-3 | +0.74 | 7-1 | +2.46 | 3 |
-| 2+ agree, 1+ against (split) | core 10 only | 4-2 | +1.12 | 7-4 | -0.19 | 1 |
+| 2+ agree, 1+ against (split) | core 10 only | 4-3 | +0.12 | 7-4 | -0.19 | 0 |
 
 **By price** (new roster, pre-game, graded):
 
@@ -66,7 +66,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-12 | NFL | Commanders vs. Giants | Giants (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; ic4cream | — | 55.5c |
-| new | 2026-11-11 | NBA | Warriors vs. Rockets | Warriors (Moneyline) | 2 agree, 1 against | pre-game | purplegatto; jakepaulthegoat2008 | monkeymashingkeyboard | 31.5c |
-| new | 2026-11-11 | NBA | Thunder vs. Trail Blazers | Trail Blazers (Moneyline) | 2 agree, 0 against | in-play | jakepaulthegoat2008; BreakTheBank | — | 44.5c |
 | new | 2026-11-11 | CS2 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality (Moneyline) | 2 agree, 0 against | in-play | jakepaulthegoat2008; drainedandpoor | — | 88.5c |
 | new | 2026-11-11 | CS2 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality (Map handicap) | 2 agree, 0 against | in-play | jakepaulthegoat2008; drainedandpoor | — | 69.0c |
