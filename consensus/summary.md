@@ -1,4 +1,4 @@
-# Consensus paper tracker — Wed Nov 11, 11:40PM MT
+# Consensus paper tracker — Thu Nov 12, 12:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 8-6 | +0.54 | 14-11 | -1.01 | 2 |
+| 2 agree | all 15 | 8-6 | +0.54 | 14-12 | -2.01 | 1 |
 | 2+ agree, 1+ against (split) | all 15 | 17-9 | +6.20 | 15-11 | -0.97 | 0 |
 | 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 5-3 | +0.74 | 7-2 | +1.46 | 2 |
+| 2 agree | core 10 only | 5-3 | +0.74 | 7-3 | +0.46 | 1 |
 | 2+ agree, 1+ against (split) | core 10 only | 4-3 | +0.12 | 7-4 | -0.19 | 0 |
 
 **By price** (new roster, pre-game, graded):
@@ -66,4 +66,3 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-12 | NFL | Commanders vs. Giants | Giants (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; ic4cream | — | 55.5c |
-| new | 2026-11-11 | CS2 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality (Moneyline) | 2 agree, 0 against | in-play | jakepaulthegoat2008; drainedandpoor | — | 88.5c |
