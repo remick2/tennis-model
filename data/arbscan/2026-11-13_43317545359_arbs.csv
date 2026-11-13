@@ -626,3 +626,61 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-13T03:44:20+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.93,Taro Daniel,polyus,0.05,0.9879,0.0,0.0,0,0.0,0.96,0.08,1.0478,0.1,2026-11-13T03:44:20+00:00
 2026-11-13T03:44:30+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.94,Taro Daniel,polyus,0.05,0.9972,0.0,0.0,0,0.0,0.96,0.08,1.0478,0.1,2026-11-13T03:44:20+00:00
 2026-11-13T03:44:40+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.94,Taro Daniel,polyus,0.05,0.9972,0.0,62397.27,0,0.0,0.96,0.05,1.016,0.1,2026-11-13T03:44:20+00:00
+2026-11-13T03:44:50+00:00,friend v hsiou,True,Jay Friend,kalshi,0.67,Yu-Hsiou Hsu,polyus,0.29,0.9898,0.0,0.0,0,0.0,0.72,0.34,1.0897,0.1,2026-11-13T03:44:50+00:00
+2026-11-13T03:44:50+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.94,Taro Daniel,polyus,0.05,0.9972,0.0,62397.27,0,0.0,0.96,0.05,1.016,0.1,2026-11-13T03:44:20+00:00
+2026-11-13T03:45:00+00:00,friend v hsiou,True,Jay Friend,kalshi,0.67,Yu-Hsiou Hsu,polyus,0.29,0.9898,0.0,53730.56,0,0.0,0.72,0.29,1.0384,0.1,2026-11-13T03:44:50+00:00
+2026-11-13T03:45:00+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.96,Taro Daniel,polyus,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.1,2026-11-13T03:44:20+00:00
+2026-11-13T03:45:10+00:00,friend v hsiou,True,Jay Friend,kalshi,0.67,Yu-Hsiou Hsu,polyus,0.29,0.9898,0.0,53730.56,0,0.0,0.71,0.29,1.0287,0.1,2026-11-13T03:44:50+00:00
+2026-11-13T03:45:10+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.96,Taro Daniel,polyus,0.03,0.9947,0.0,61865.11,0,0.0,0.98,0.03,1.0134,0.2,2026-11-13T03:44:20+00:00
+2026-11-13T03:45:20+00:00,friend v hsiou,True,Jay Friend,kalshi,0.67,Yu-Hsiou Hsu,polyus,0.29,0.9898,0.0,53730.56,0,0.0,0.73,0.29,1.0481,0.1,2026-11-13T03:44:50+00:00
+2026-11-13T03:45:20+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.96,Taro Daniel,polyus,0.03,0.9947,0.0,61865.11,0,0.0,0.98,0.03,1.0134,0.1,2026-11-13T03:44:20+00:00
+2026-11-13T03:45:30+00:00,daniel v noguchi,True,Rio Noguchi,polyus,0.96,Taro Daniel,kalshi,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.1,2026-11-13T03:45:30+00:00
+2026-11-13T03:45:30+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.68,Yu Hsiou Hsu,kalshi,0.29,0.9995,52282.63,0.0,0,0.0,0.68,0.33,1.0406,0.1,2026-11-13T03:45:30+00:00
+2026-11-13T03:45:40+00:00,daniel v noguchi,True,Rio Noguchi,polyus,0.96,Taro Daniel,kalshi,0.03,0.9947,59282.12,0.0,0,0.0,0.96,0.05,1.016,0.2,2026-11-13T03:45:30+00:00
+2026-11-13T03:45:40+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.68,Yu Hsiou Hsu,kalshi,0.29,0.9995,52282.63,0.0,0,0.0,0.68,0.33,1.0406,0.1,2026-11-13T03:45:30+00:00
+2026-11-13T03:45:50+00:00,daniel v noguchi,True,Rio Noguchi,polyus,0.93,Taro Daniel,kalshi,0.03,0.9666,0.0,0.0,0,0.0,0.96,0.08,1.0478,0.1,2026-11-13T03:45:30+00:00
+2026-11-13T03:45:50+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.68,Yu Hsiou Hsu,kalshi,0.29,0.9995,52282.63,0.0,0,0.0,0.68,0.33,1.0406,0.1,2026-11-13T03:45:30+00:00
+2026-11-13T03:46:20+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.63,Yu Hsiou Hsu,kalshi,0.33,0.9917,0.0,0.0,0,0.0,0.69,0.38,1.1014,0.1,2026-11-13T03:46:20+00:00
+2026-11-13T03:47:00+00:00,friend v hsiou,True,Jay Friend,kalshi,0.63,Yu-Hsiou Hsu,polyus,0.33,0.9917,0.0,0.0,0,0.0,0.68,0.38,1.0916,0.1,2026-11-13T03:47:00+00:00
+2026-11-13T03:47:10+00:00,friend v hsiou,True,Jay Friend,kalshi,0.63,Yu-Hsiou Hsu,polyus,0.33,0.9917,0.0,50899.16,0,0.0,0.68,0.33,1.0406,0.1,2026-11-13T03:47:00+00:00
+2026-11-13T03:47:20+00:00,friend v hsiou,True,Jay Friend,kalshi,0.63,Yu-Hsiou Hsu,polyus,0.33,0.9917,0.0,50899.16,0,0.0,0.68,0.33,1.0406,0.1,2026-11-13T03:47:00+00:00
+2026-11-13T03:47:30+00:00,alberto v pablo,True,Genaro Alberto Olivieri,kalshi,0.91,Juan Pablo Varillas,polyus,0.06,0.9797,0.0,49991.14,0,0.0,0.95,0.06,1.0172,0.1,2026-11-13T03:47:30+00:00
+2026-11-13T03:47:30+00:00,friend v hsiou,True,Jay Friend,kalshi,0.63,Yu-Hsiou Hsu,polyus,0.33,0.9917,0.0,50899.16,0,0.0,0.68,0.33,1.0406,0.2,2026-11-13T03:47:00+00:00
+2026-11-13T03:47:40+00:00,alberto v pablo,True,Genaro Alberto Olivieri,kalshi,0.91,Juan Pablo Varillas,polyus,0.06,0.9797,0.0,49991.14,0,0.0,0.95,0.06,1.0172,0.1,2026-11-13T03:47:30+00:00
+2026-11-13T03:47:40+00:00,friend v hsiou,True,Jay Friend,kalshi,0.63,Yu-Hsiou Hsu,polyus,0.32,0.9814,0.0,0.0,0,0.0,0.69,0.33,1.0503,0.1,2026-11-13T03:47:00+00:00
+2026-11-13T03:48:10+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.91,Taro Daniel,polyus,0.07,0.9903,0.0,20947.12,0,0.0,0.94,0.07,1.0185,0.1,2026-11-13T03:48:10+00:00
+2026-11-13T03:48:10+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.63,Yu Hsiou Hsu,kalshi,0.33,0.9917,0.0,0.0,0,0.0,0.69,0.38,1.1014,0.1,2026-11-13T03:48:10+00:00
+2026-11-13T03:48:20+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.91,Juan Pablo Varillas,kalshi,0.06,0.9796,0.0,0.0,0,0.0,0.94,0.1,1.0502,0.1,2026-11-13T03:48:20+00:00
+2026-11-13T03:48:30+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.91,Juan Pablo Varillas,kalshi,0.06,0.9796,43281.46,0.0,0,0.0,0.91,0.1,1.022,0.1,2026-11-13T03:48:20+00:00
+2026-11-13T03:48:30+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.62,Yu Hsiou Hsu,kalshi,0.34,0.9921,0.0,0.0,0,0.0,0.69,0.39,1.1115,0.1,2026-11-13T03:48:30+00:00
+2026-11-13T03:48:40+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.91,Juan Pablo Varillas,kalshi,0.06,0.9796,43281.46,0.0,0,0.0,0.91,0.1,1.022,0.1,2026-11-13T03:48:20+00:00
+2026-11-13T03:48:40+00:00,daniel v noguchi,True,Rio Noguchi,polyus,0.92,Taro Daniel,kalshi,0.07,0.9997,54375.44,0.0,0,0.0,0.92,0.09,1.0208,0.1,2026-11-13T03:48:40+00:00
+2026-11-13T03:49:00+00:00,alberto v pablo,True,Genaro Alberto Olivieri,kalshi,0.91,Juan Pablo Varillas,polyus,0.06,0.9797,0.0,0.0,0,0.0,0.95,0.07,1.0278,0.1,2026-11-13T03:49:00+00:00
+2026-11-13T03:49:10+00:00,alberto v pablo,True,Genaro Alberto Olivieri,kalshi,0.91,Juan Pablo Varillas,polyus,0.06,0.9797,0.0,0.0,0,0.0,0.95,0.07,1.0278,0.1,2026-11-13T03:49:00+00:00
+2026-11-13T03:50:20+00:00,daniel v noguchi,True,Rio Noguchi,polyus,0.9,Taro Daniel,kalshi,0.08,0.9914,0.0,0.0,0,0.0,0.93,0.11,1.0514,0.2,2026-11-13T03:50:20+00:00
+2026-11-13T03:51:10+00:00,daniel v noguchi,True,Rio Noguchi,polyus,0.88,Taro Daniel,kalshi,0.1,0.9936,0.0,0.0,0,0.0,0.91,0.13,1.0536,0.1,2026-11-13T03:51:10+00:00
+2026-11-13T03:51:20+00:00,daniel v noguchi,True,Rio Noguchi,polyus,0.87,Taro Daniel,kalshi,0.1,0.9842,0.0,0.0,0,0.0,0.91,0.13,1.0536,0.2,2026-11-13T03:51:10+00:00
+2026-11-13T03:53:50+00:00,daniel v noguchi,True,Rio Noguchi,polyus,0.84,Taro Daniel,kalshi,0.13,0.9873,0.0,0.0,0,0.0,0.88,0.17,1.0672,0.1,2026-11-13T03:53:50+00:00
+2026-11-13T03:53:50+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.64,Yu Hsiou Hsu,kalshi,0.32,0.9912,0.0,0.0,0,0.0,0.69,0.37,1.0912,0.1,2026-11-13T03:53:50+00:00
+2026-11-13T03:54:00+00:00,daniel v noguchi,True,Rio Noguchi,polyus,0.84,Taro Daniel,kalshi,0.13,0.9873,0.0,0.0,0,0.0,0.88,0.17,1.0672,0.1,2026-11-13T03:53:50+00:00
+2026-11-13T03:54:00+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.64,Yu Hsiou Hsu,kalshi,0.32,0.9912,0.0,0.0,0,0.0,0.69,0.37,1.0912,0.1,2026-11-13T03:53:50+00:00
+2026-11-13T03:54:10+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.84,Taro Daniel,polyus,0.13,0.9873,0.0,0.0,0,0.0,0.88,0.17,1.0672,0.1,2026-11-13T03:54:10+00:00
+2026-11-13T03:54:20+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.84,Taro Daniel,polyus,0.13,0.9873,0.0,0.0,0,0.0,0.88,0.17,1.0672,0.1,2026-11-13T03:54:10+00:00
+2026-11-13T03:54:30+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.84,Taro Daniel,polyus,0.1,0.9557,0.0,0.0,0,0.0,0.91,0.17,1.0955,0.1,2026-11-13T03:54:10+00:00
+2026-11-13T03:55:00+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.14,Juncheng Shang,polyus,0.84,0.9978,0.0,0.0,0,0.0,0.17,0.87,1.0577,0.1,2026-11-13T03:55:00+00:00
+2026-11-13T03:55:10+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.14,Juncheng Shang,polyus,0.84,0.9978,0.0,0.0,0,0.0,0.17,0.87,1.0577,0.2,2026-11-13T03:55:00+00:00
+2026-11-13T03:55:40+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.6,Yu Hsiou Hsu,kalshi,0.33,0.9622,47430.46,0.0,0,0.0,0.6,0.41,1.0436,0.1,2026-11-13T03:55:40+00:00
+2026-11-13T03:56:10+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.93,Taro Daniel,polyus,0.06,0.9985,0.0,0.0,0,0.0,0.95,0.08,1.0384,0.2,2026-11-13T03:56:10+00:00
+2026-11-13T03:57:40+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.94,Taro Daniel,polyus,0.05,0.9972,0.0,17681.3,0,0.0,0.96,0.05,1.016,0.1,2026-11-13T03:57:40+00:00
+2026-11-13T03:57:50+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.94,Taro Daniel,polyus,0.05,0.9972,0.0,17681.3,0,0.0,0.96,0.05,1.016,0.1,2026-11-13T03:57:40+00:00
+2026-11-13T03:58:00+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.96,Taro Daniel,polyus,0.03,0.9947,0.0,0.0,0,0.0,0.98,0.05,1.0347,0.1,2026-11-13T03:57:40+00:00
+2026-11-13T03:58:10+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.56,Yu Hsiou Hsu,kalshi,0.39,0.9838,36279.44,0.0,0,0.0,0.56,0.45,1.0444,0.1,2026-11-13T03:58:10+00:00
+2026-11-13T03:58:10+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.96,Taro Daniel,polyus,0.03,0.9947,0.0,60269.3,0,0.0,0.98,0.03,1.0134,0.1,2026-11-13T03:57:40+00:00
+2026-11-13T03:58:20+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.56,Yu Hsiou Hsu,kalshi,0.39,0.9838,36279.44,0.0,0,0.0,0.56,0.45,1.0444,0.1,2026-11-13T03:58:10+00:00
+2026-11-13T03:58:20+00:00,daniel v noguchi,True,Rio Noguchi,kalshi,0.96,Taro Daniel,polyus,0.03,0.9947,0.0,60269.3,0,0.0,0.98,0.03,1.0134,0.1,2026-11-13T03:57:40+00:00
+2026-11-13T03:59:00+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.49,Yu Hsiou Hsu,kalshi,0.45,0.9747,0.0,0.0,0,0.0,0.56,0.51,1.1046,0.1,2026-11-13T03:59:00+00:00
+2026-11-13T03:59:10+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.47,Yu Hsiou Hsu,kalshi,0.45,0.9546,35267.35,0.0,0,0.0,0.47,0.54,1.0447,0.1,2026-11-13T03:59:00+00:00
+2026-11-13T03:59:20+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.47,Yu Hsiou Hsu,kalshi,0.48,0.9848,35267.35,0.0,0,0.0,0.47,0.54,1.0447,0.1,2026-11-13T03:59:00+00:00
+2026-11-13T03:59:30+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.47,Yu Hsiou Hsu,kalshi,0.48,0.9848,35267.35,0.0,0,0.0,0.47,0.54,1.0447,0.1,2026-11-13T03:59:00+00:00
+2026-11-13T03:59:40+00:00,friend v hsiou,True,Jay Dylan Friend,polyus,0.47,Yu Hsiou Hsu,kalshi,0.48,0.9848,0.01,0.0,0,0.0,0.47,0.55,1.0546,0.1,2026-11-13T03:59:00+00:00
+2026-11-13T03:59:50+00:00,friend v hsiou,True,Jay Friend,kalshi,0.47,Yu-Hsiou Hsu,polyus,0.46,0.9647,0.0,0.0,0,0.0,0.55,0.54,1.1246,0.1,2026-11-13T03:59:50+00:00
