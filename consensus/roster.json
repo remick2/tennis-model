@@ -22,9 +22,9 @@
    "note": "original"
   },
   {
-   "name": "chongchong37",
-   "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
-   "note": "original"
+   "name": "bands1",
+   "wallet": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f",
+   "note": "Nov 13, auto-replaced chongchong37 (directional bets/day too low (below 5) since Nov 11)"
   },
   {
    "name": "fantasy7788",
@@ -84,13 +84,6 @@
     "wallet": "0x951634357346bb291df117f9ac410100feea2104",
     "note": "NBA, ~7/day, never both sides"
    }
-  ],
-  "chongchong37": [
-   {
-    "name": "bands1",
-    "wallet": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f",
-    "note": "NFL/CFB/NBA, 6.1/day"
-   }
   ]
  },
  "removed": [
@@ -128,6 +121,11 @@
    "name": "yabanci",
    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
    "date": "2026-11-12"
+  },
+  {
+   "name": "chongchong37",
+   "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+   "date": "2026-11-13"
   }
  ]
 }

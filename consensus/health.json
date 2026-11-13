@@ -1,155 +1,155 @@
 {
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "stats": {
   "monkeymashingkeyboard": {
-   "per_day": 13.7,
+   "per_day": 15.0,
    "days": 8,
-   "markets": 117,
-   "both_pct": 3,
-   "stake": 14009,
+   "markets": 125,
+   "both_pct": 2,
+   "stake": 12997,
    "leagues": "nba,nfl,wta",
-   "agreements": 103,
-   "share": 0.204
+   "agreements": 113,
+   "share": 0.212
   },
   "purplegatto": {
-   "per_day": 16.7,
+   "per_day": 15.4,
    "days": 8,
-   "markets": 348,
-   "both_pct": 9,
-   "stake": 5969,
+   "markets": 330,
+   "both_pct": 10,
+   "stake": 6608,
    "leagues": "nba,cfb,nfl",
-   "agreements": 103,
-   "share": 0.233
+   "agreements": 113,
+   "share": 0.239
   },
   "jakepaulthegoat2008": {
    "per_day": 10.3,
    "days": 6,
-   "markets": 76,
+   "markets": 75,
    "both_pct": 3,
-   "stake": 82881,
-   "leagues": "nba,cs2,lol",
-   "agreements": 103,
-   "share": 0.262
+   "stake": 85502,
+   "leagues": "nba,cs2,cbb",
+   "agreements": 113,
+   "share": 0.274
   },
   "0xb4F978BE": {
-   "per_day": 15.0,
-   "days": 8,
-   "markets": 230,
-   "both_pct": 6,
-   "stake": 8886,
+   "per_day": 14.4,
+   "days": 7,
+   "markets": 229,
+   "both_pct": 7,
+   "stake": 8570,
    "leagues": "cfb,nba,nfl",
-   "agreements": 103,
-   "share": 0.097
+   "agreements": 113,
+   "share": 0.106
   },
   "chongchong37": {
-   "per_day": 1.7,
-   "days": 3,
-   "markets": 17,
-   "both_pct": 6,
-   "stake": 7261,
-   "leagues": "nba,rou1,uel",
-   "agreements": 103,
+   "per_day": 1.3,
+   "days": 2,
+   "markets": 13,
+   "both_pct": 8,
+   "stake": 7120,
+   "leagues": "nba,rou1",
+   "agreements": 113,
    "share": 0.0
   },
-  "yabanci": {
-   "per_day": 2.3,
-   "days": 6,
-   "markets": 29,
-   "both_pct": 3,
-   "stake": 26810,
-   "leagues": "uel,epl,nba",
-   "agreements": 103,
-   "share": 0.039
+  "fantasy7788": {
+   "per_day": 6.6,
+   "days": 7,
+   "markets": 47,
+   "both_pct": 2,
+   "stake": 53105,
+   "leagues": "cs2,lol,nba",
+   "agreements": 113,
+   "share": 0.009
   },
   "drainedandpoor": {
-   "per_day": 7.0,
+   "per_day": 7.1,
    "days": 8,
-   "markets": 57,
+   "markets": 59,
    "both_pct": 0,
-   "stake": 13199,
-   "leagues": "cs2,nba",
-   "agreements": 103,
-   "share": 0.165
+   "stake": 13293,
+   "leagues": "nba,cs2",
+   "agreements": 113,
+   "share": 0.159
   },
   "999585": {
-   "per_day": 5.9,
+   "per_day": 5.6,
    "days": 7,
-   "markets": 44,
+   "markets": 43,
    "both_pct": 7,
-   "stake": 129436,
-   "leagues": "cfb,nfl,atp",
-   "agreements": 103,
-   "share": 0.078
+   "stake": 135208,
+   "leagues": "cfb,nfl,wta",
+   "agreements": 113,
+   "share": 0.08
   },
   "0x9f15613e": {
-   "per_day": 19.7,
+   "per_day": 18.6,
    "days": 8,
-   "markets": 316,
-   "both_pct": 2,
-   "stake": 7090,
+   "markets": 307,
+   "both_pct": 3,
+   "stake": 7078,
    "leagues": "nba,nfl,cfb",
-   "agreements": 103,
-   "share": 0.136
+   "agreements": 113,
+   "share": 0.133
   },
   "ic4cream": {
-   "per_day": 5.9,
+   "per_day": 6.1,
    "days": 8,
-   "markets": 151,
+   "markets": 158,
    "both_pct": 1,
-   "stake": 3148,
-   "leagues": "nfl,cfb,nba",
-   "agreements": 103,
-   "share": 0.087
+   "stake": 3022,
+   "leagues": "cfb,nfl,nba",
+   "agreements": 113,
+   "share": 0.08
   },
   "BreakTheBank": {
-   "per_day": 10.9,
+   "per_day": 9.1,
    "days": 6,
-   "markets": 104,
+   "markets": 93,
    "both_pct": 0,
-   "stake": 99014,
-   "leagues": "nfl,nba,epl",
-   "agreements": 103,
+   "stake": 94501,
+   "leagues": "nfl,nba,ufc",
+   "agreements": 113,
    "share": 0.301
   },
   "ch27er": {
-   "per_day": 10.0,
+   "per_day": 10.1,
    "days": 8,
-   "markets": 76,
+   "markets": 77,
    "both_pct": 1,
-   "stake": 11737,
+   "stake": 10587,
    "leagues": "nba,epl,atp",
-   "agreements": 103,
+   "agreements": 113,
    "share": 0.097
   },
   "ianf2026": {
-   "per_day": 10.3,
-   "days": 6,
-   "markets": 81,
+   "per_day": 8.7,
+   "days": 5,
+   "markets": 69,
    "both_pct": 7,
-   "stake": 4136,
-   "leagues": "nba,uel",
-   "agreements": 103,
-   "share": 0.136
+   "stake": 4021,
+   "leagues": "nba",
+   "agreements": 113,
+   "share": 0.124
   },
   "JoeyAroyyOO": {
    "per_day": 8.1,
-   "days": 8,
+   "days": 7,
    "markets": 161,
    "both_pct": 0,
-   "stake": 9664,
+   "stake": 9672,
    "leagues": "nba",
-   "agreements": 103,
-   "share": 0.087
+   "agreements": 113,
+   "share": 0.08
   },
   "Kyn008": {
-   "per_day": 4.1,
+   "per_day": 3.6,
    "days": 7,
-   "markets": 68,
+   "markets": 66,
    "both_pct": 0,
-   "stake": 14290,
+   "stake": 14732,
    "leagues": "epl,lal,ere",
-   "agreements": 103,
-   "share": 0.039
+   "agreements": 113,
+   "share": 0.035
   }
  },
  "sent": {
@@ -164,7 +164,5 @@
   "chongchong37|directional bets/day too low (below 5)|alert": "2026-11-11",
   "Kyn008|directional bets/day too low (below 5)|warn": "2026-11-11"
  },
- "clock": {
-  "chongchong37": "2026-11-11"
- }
+ "clock": {}
 }
