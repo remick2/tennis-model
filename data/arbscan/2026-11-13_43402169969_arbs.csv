@@ -648,3 +648,22 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-13T15:32:19+00:00,canas v marcos,True,Alejandro Moro Canas,polyus,0.09,Pedro Vives Marcos,kalshi,0.87,0.9736,28943.78,0.0,0,0.0,0.09,0.92,1.0208,0.0,2026-11-13T15:31:59+00:00
 2026-11-13T15:32:49+00:00,canas v marcos,True,Alejandro Moro Canas,polyus,0.06,Pedro Vives Marcos,kalshi,0.92,0.9891,0.0,0.0,0,0.0,0.1,0.95,1.0596,0.0,2026-11-13T15:32:49+00:00
 2026-11-13T15:34:29+00:00,feldbausch v petkovic,True,Kilian Feldbausch,polyus,0.84,Mika Petkovic,kalshi,0.14,0.9978,0.0,0.0,0,0.0,0.85,0.17,1.0387,0.0,2026-11-13T15:34:29+00:00
+2026-11-13T15:37:00+00:00,mandlik v samson,True,Elizabeth Mandlik,polyus,0.57,Laura Samson,kalshi,0.38,0.9835,0.0,0.0,0,0.0,0.6,0.44,1.0739,0.0,2026-11-13T15:37:00+00:00
+2026-11-13T15:37:20+00:00,canas v marcos,True,Alejandro Moro Canas,polyus,0.05,Pedro Vives Marcos,kalshi,0.93,0.9879,0.0,0.0,0,0.0,0.08,0.96,1.0478,0.0,2026-11-13T15:37:20+00:00
+2026-11-13T15:37:40+00:00,canas v marcos,True,Alejandro Moro Canas,polyus,0.02,Pedro Vives Marcos,kalshi,0.96,0.9841,0.0,0.0,0,0.0,0.08,0.99,1.0758,0.0,2026-11-13T15:37:40+00:00
+2026-11-13T15:37:50+00:00,canas v marcos,True,Alejandro Moro Canas,polyus,0.02,Pedro Vives Marcos,kalshi,0.96,0.9841,21607.04,0.0,0,0.0,0.02,0.99,1.0121,0.0,2026-11-13T15:37:40+00:00
+2026-11-13T15:39:20+00:00,feldbausch v petkovic,True,Kilian Feldbausch,polyus,0.79,Mika Petkovic,kalshi,0.18,0.9919,0.0,0.0,0,0.0,0.81,0.22,1.0527,0.0,2026-11-13T15:39:20+00:00
+2026-11-13T15:39:30+00:00,feldbausch v petkovic,True,Kilian Feldbausch,polyus,0.79,Mika Petkovic,kalshi,0.18,0.9919,0.0,0.0,0,0.0,0.81,0.22,1.0527,0.0,2026-11-13T15:39:20+00:00
+2026-11-13T15:40:00+00:00,mandlik v samson,True,Elizabeth Mandlik,kalshi,0.56,Laura Samson,polyus,0.4,0.9939,0.0,0.0,0,0.0,0.61,0.45,1.0939,0.0,2026-11-13T15:40:00+00:00
+2026-11-13T15:40:10+00:00,mandlik v samson,True,Elizabeth Mandlik,kalshi,0.56,Laura Samson,polyus,0.4,0.9939,0.0,36045.89,0,0.0,0.61,0.4,1.0433,0.0,2026-11-13T15:40:00+00:00
+2026-11-13T15:40:20+00:00,mandlik v samson,True,Elizabeth Mandlik,kalshi,0.56,Laura Samson,polyus,0.4,0.9939,0.0,36045.89,0,0.0,0.61,0.4,1.0433,0.0,2026-11-13T15:40:00+00:00
+2026-11-13T15:41:00+00:00,feldbausch v petkovic,True,Kilian Feldbausch,polyus,0.71,Mika Petkovic,kalshi,0.25,0.9874,0.0,0.0,0,0.0,0.76,0.3,1.0874,0.0,2026-11-13T15:41:00+00:00
+2026-11-13T15:44:40+00:00,feldbausch v petkovic,True,Kilian Feldbausch,kalshi,0.71,Mika Petkovic,polyus,0.26,0.9978,0.0,0.0,0,0.0,0.75,0.3,1.0777,0.0,2026-11-13T15:44:40+00:00
+2026-11-13T15:44:50+00:00,feldbausch v petkovic,True,Kilian Feldbausch,kalshi,0.71,Mika Petkovic,polyus,0.26,0.9978,0.0,0.0,0,0.0,0.75,0.3,1.0777,0.0,2026-11-13T15:44:40+00:00
+2026-11-13T15:45:00+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.39,Pedro Martinez,kalshi,0.57,0.9937,16979.12,0.0,0,0.0,0.39,0.62,1.043,0.0,2026-11-13T15:45:00+00:00
+2026-11-13T15:45:00+00:00,feldbausch v petkovic,True,Kilian Feldbausch,kalshi,0.71,Mika Petkovic,polyus,0.26,0.9978,0.0,0.0,0,0.0,0.75,0.3,1.0777,0.0,2026-11-13T15:44:40+00:00
+2026-11-13T15:45:20+00:00,feldbausch v petkovic,True,Kilian Feldbausch,kalshi,0.75,Mika Petkovic,polyus,0.2,0.9742,0.0,0.0,0,0.0,0.81,0.26,1.0941,0.0,2026-11-13T15:45:20+00:00
+2026-11-13T15:45:30+00:00,feldbausch v petkovic,True,Kilian Feldbausch,kalshi,0.75,Mika Petkovic,polyus,0.2,0.9742,0.0,0.0,0,0.0,0.81,0.26,1.0941,0.0,2026-11-13T15:45:20+00:00
+2026-11-13T15:49:30+00:00,mandlik v samson,True,Elizabeth Mandlik,polyus,0.58,Laura Samson,kalshi,0.38,0.9934,0.0,0.0,0,0.0,0.61,0.43,1.0737,0.0,2026-11-13T15:49:30+00:00
+2026-11-13T15:50:10+00:00,feldbausch v petkovic,True,Kilian Feldbausch,polyus,0.83,Mika Petkovic,kalshi,0.14,0.9882,18798.89,0.0,0,0.0,0.83,0.18,1.0301,0.0,2026-11-13T15:50:10+00:00
+2026-11-13T15:50:20+00:00,feldbausch v petkovic,True,Kilian Feldbausch,polyus,0.83,Mika Petkovic,kalshi,0.14,0.9882,18798.89,0.0,0,0.0,0.83,0.18,1.0301,0.0,2026-11-13T15:50:10+00:00
