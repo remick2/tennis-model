@@ -1,4 +1,4 @@
-# Consensus paper tracker — Thu Nov 12, 8:40PM MT
+# Consensus paper tracker — Thu Nov 12, 9:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 8-9 | -2.46 | 15-12 | -1.65 | 4 |
-| 2+ agree, 1+ against (split) | all 15 | 17-9 | +6.20 | 16-12 | -1.15 | 1 |
+| 2 agree | all 15 | 9-10 | -2.96 | 15-12 | -1.65 | 2 |
+| 2+ agree, 1+ against (split) | all 15 | 17-9 | +6.20 | 17-12 | -0.25 | 0 |
 | 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 5-3 | +0.74 | 6-3 | -0.54 | 4 |
+| 2 agree | core 10 only | 6-4 | +0.24 | 7-3 | +0.36 | 1 |
 | 2+ agree, 1+ against (split) | core 10 only | 4-3 | +0.12 | 7-5 | -0.57 | 0 |
 
 **By price** (new roster, pre-game, graded):
@@ -22,8 +22,8 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | 3+ agree (paper play) | Coin flip (45-65c) | 3-1 | +1.69 | 3 | 2.1 | +0.9 |
 | 3+ agree (paper play) | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
 | 2 agree | Underdog (<45c) | 0-5 | -5.00 | 0 | 1.6 | -1.6 |
-| 2 agree | Coin flip (45-65c) | 7-3 | +3.30 | 7 | 5.3 | +1.7 |
-| 2 agree | Favorite (65-80c) | 0-1 | -1.00 | 0 | 0.7 | -0.7 |
+| 2 agree | Coin flip (45-65c) | 7-4 | +2.30 | 7 | 5.8 | +1.2 |
+| 2 agree | Favorite (65-80c) | 1-1 | -0.50 | 1 | 1.4 | -0.4 |
 | 2 agree | Heavy favorite (80c+) | 1-0 | +0.24 | 1 | 0.8 | +0.2 |
 
 ## Old roster (Nov 3 – Nov 7, closed)
@@ -65,8 +65,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
-| new | 2026-11-12 | NFL | Commanders vs. Giants | Giants (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; ic4cream | — | 55.5c |
-| new | 2026-11-12 | NBA | Hornets vs. Suns | Suns (Moneyline) | 2 agree, 0 against | pre-game | purplegatto; jakepaulthegoat2008 | — | 66.5c |
 | new | 2026-11-12 | NFL | Commanders vs. Giants | Giants (-2.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; BreakTheBank | — | 47.5c |
-| new | 2026-11-12 | NFL | Commanders vs. Giants | Commanders (+1.5) (Spread) | 2 agree, 1 against | in-play | purplegatto; 0xb4F978BE | BreakTheBank | 52.5c |
 | new | 2026-11-12 | CFB | Memphis vs. South Florida | Memphis (Moneyline) | 2 agree, 0 against | in-play | 0xb4F978BE; 999585 | — | 94.5c |
