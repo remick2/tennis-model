@@ -342,3 +342,18 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-13T01:27:10+00:00,alberto v pablo,True,Genaro Alberto Olivieri,kalshi,0.49,Juan Pablo Varillas,polyus,0.45,0.9747,0.0,0.0,0,0.0,0.57,0.51,1.1145,0.1,2026-11-13T01:26:50+00:00
 2026-11-13T01:27:10+00:00,bolt v gorzny,True,Alex Bolt,polyus,0.69,Sebastian Gorzny,kalshi,0.28,0.999,0.0,0.0,0,0.0,0.71,0.32,1.0595,0.1,2026-11-13T01:27:10+00:00
 2026-11-13T01:27:20+00:00,bolt v gorzny,True,Alex Bolt,polyus,0.67,Sebastian Gorzny,kalshi,0.28,0.9795,0.0,0.0,0,0.0,0.71,0.34,1.08,0.1,2026-11-13T01:27:10+00:00
+2026-11-13T01:31:00+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.48,Juan Pablo Varillas,kalshi,0.46,0.9747,0.0,0.0,0,0.0,0.55,0.52,1.1047,0.1,2026-11-13T01:31:00+00:00
+2026-11-13T01:31:10+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.48,Juan Pablo Varillas,kalshi,0.46,0.9747,0.0,0.0,0,0.0,0.55,0.52,1.1047,0.1,2026-11-13T01:31:00+00:00
+2026-11-13T01:32:00+00:00,alberto v pablo,True,Genaro Alberto Olivieri,kalshi,0.49,Juan Pablo Varillas,polyus,0.47,0.9948,0.0,0.0,0,0.0,0.54,0.52,1.0947,0.1,2026-11-13T01:32:00+00:00
+2026-11-13T01:32:10+00:00,alberto v pablo,True,Genaro Alberto Olivieri,kalshi,0.49,Juan Pablo Varillas,polyus,0.47,0.9948,0.0,0.0,0,0.0,0.54,0.52,1.0947,0.1,2026-11-13T01:32:00+00:00
+2026-11-13T01:33:30+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.49,Juan Pablo Varillas,kalshi,0.46,0.9848,0.0,0.0,0,0.0,0.54,0.52,1.0947,0.1,2026-11-13T01:33:30+00:00
+2026-11-13T01:33:30+00:00,bolt v gorzny,True,Alex Bolt,kalshi,0.6,Sebastian Gorzny,polyus,0.36,0.9928,0.0,0.0,0,0.0,0.65,0.42,1.1029,0.1,2026-11-13T01:33:30+00:00
+2026-11-13T01:35:00+00:00,bolt v gorzny,True,Alex Bolt,kalshi,0.62,Sebastian Gorzny,polyus,0.34,0.9921,0.0,0.0,0,0.0,0.67,0.36,1.0615,0.1,2026-11-13T01:35:00+00:00
+2026-11-13T01:38:00+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.32,Juan Pablo Varillas,kalshi,0.64,0.9913,0.0,0.0,0,0.0,0.37,0.69,1.0912,0.1,2026-11-13T01:38:00+00:00
+2026-11-13T01:38:10+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.32,Juan Pablo Varillas,kalshi,0.64,0.9913,0.0,0.0,0,0.0,0.37,0.69,1.0912,0.1,2026-11-13T01:38:00+00:00
+2026-11-13T01:38:20+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.32,Juan Pablo Varillas,kalshi,0.64,0.9913,0.11,0.0,0,0.0,0.32,0.69,1.0401,0.1,2026-11-13T01:38:00+00:00
+2026-11-13T01:39:10+00:00,alberto v pablo,True,Genaro Alberto Olivieri,kalshi,0.35,Juan Pablo Varillas,polyus,0.6,0.9826,0.0,0.0,0,0.0,0.4,0.66,1.0924,0.1,2026-11-13T01:39:10+00:00
+2026-11-13T01:39:20+00:00,alberto v pablo,True,Genaro Alberto Olivieri,kalshi,0.35,Juan Pablo Varillas,polyus,0.6,0.9826,0.0,16383.76,0,0.0,0.41,0.6,1.0436,0.1,2026-11-13T01:39:10+00:00
+2026-11-13T01:40:50+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.34,Juan Pablo Varillas,kalshi,0.61,0.9822,0.0,0.0,0,0.0,0.4,0.67,1.1022,0.1,2026-11-13T01:40:50+00:00
+2026-11-13T01:41:40+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.27,Juan Pablo Varillas,kalshi,0.67,0.9692,0.0,0.0,0,0.0,0.34,0.74,1.1091,0.1,2026-11-13T01:41:40+00:00
+2026-11-13T01:41:50+00:00,alberto v pablo,True,Genaro Alberto Olivieri,polyus,0.27,Juan Pablo Varillas,kalshi,0.67,0.9692,29068.66,0.0,0,0.0,0.27,0.74,1.0372,0.1,2026-11-13T01:41:40+00:00
