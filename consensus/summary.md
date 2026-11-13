@@ -1,4 +1,4 @@
-# Consensus paper tracker — Fri Nov 13, 3:40PM MT
+# Consensus paper tracker — Fri Nov 13, 4:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,12 +8,12 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 9-11 | -3.96 | 16-12 | -1.59 | 2 |
-| 2+ agree, 1+ against (split) | all 15 | 18-9 | +7.45 | 17-12 | -0.25 | 0 |
-| 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 6-4 | +0.24 | 8-3 | +0.42 | 2 |
-| 2+ agree, 1+ against (split) | core 10 only | 5-3 | +1.37 | 7-5 | -0.57 | 0 |
+| 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 1 |
+| 2 agree | all 15 | 9-11 | -3.96 | 16-12 | -1.59 | 3 |
+| 2+ agree, 1+ against (split) | all 15 | 18-9 | +7.45 | 17-12 | -0.25 | 1 |
+| 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 1 |
+| 2 agree | core 10 only | 6-4 | +0.24 | 8-3 | +0.42 | 1 |
+| 2+ agree, 1+ against (split) | core 10 only | 5-3 | +1.37 | 7-5 | -0.57 | 1 |
 
 **By price** (new roster, pre-game, graded):
 
@@ -66,4 +66,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-13 | CFB | Houston vs. Colorado | Colorado (+9.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; bands1 | — | 52.5c |
-| new | 2026-11-13 | NBA | Hawks vs. Bulls | Bulls (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; purplegatto | — | 29.5c |
+| new | 2026-11-13 | NBA | Hawks vs. Bulls | Bulls (Moneyline) | 4 agree, 0 against | pre-game | monkeymashingkeyboard; purplegatto; jakepaulthegoat2008; drainedandpoor | — | 31.5c |
+| new | 2026-11-13 | NBA | Knicks vs. Pacers | Pacers (+8.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; BreakTheBank | — | 53.5c |
+| new | 2026-11-13 | NBA | Knicks vs. Pacers | Pacers (+7.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; BreakTheBank | — | 48.5c |
+| new | 2026-11-13 | NBA | Knicks vs. Pacers | Pacers (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; jakepaulthegoat2008 | purplegatto | 27.5c |
