@@ -124,3 +124,60 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-13T17:29:05+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.11,Pedro Martinez,kalshi,0.85,0.9757,0.0,0.0,0,0.0,0.16,0.9,1.0756,0.0,2026-11-13T17:29:05+00:00
 2026-11-13T17:29:15+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.11,Pedro Martinez,kalshi,0.87,0.9947,0.0,0.0,0,0.0,0.16,0.9,1.0756,0.0,2026-11-13T17:29:05+00:00
 2026-11-13T17:29:25+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.1,Pedro Martinez,kalshi,0.87,0.9842,0.0,0.0,0,0.0,0.16,0.9,1.0756,0.0,2026-11-13T17:29:05+00:00
+2026-11-13T17:29:35+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.1,Pedro Martinez,kalshi,0.87,0.9842,22313.69,0.0,0,0.0,0.1,0.91,1.022,0.0,2026-11-13T17:29:05+00:00
+2026-11-13T17:29:55+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.1,Pedro Martinez,polyus,0.87,0.9842,0.0,0.0,0,0.0,0.14,0.91,1.0641,0.0,2026-11-13T17:29:55+00:00
+2026-11-13T17:30:05+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.1,Pedro Martinez,polyus,0.87,0.9842,0.0,33705.48,0,0.0,0.14,0.87,1.0263,0.1,2026-11-13T17:29:55+00:00
+2026-11-13T17:30:25+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.14,Pedro Martinez,polyus,0.83,0.9882,0.0,0.0,0,0.0,0.17,0.87,1.0577,0.0,2026-11-13T17:30:25+00:00
+2026-11-13T17:30:35+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.14,Pedro Martinez,polyus,0.83,0.9882,0.0,40673.94,0,0.0,0.18,0.83,1.0301,0.0,2026-11-13T17:30:25+00:00
+2026-11-13T17:30:55+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.11,Pedro Martinez,kalshi,0.83,0.9567,0.0,0.0,0,0.0,0.18,0.9,1.0966,0.0,2026-11-13T17:30:55+00:00
+2026-11-13T17:31:05+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.11,Pedro Martinez,kalshi,0.83,0.9567,64823.58,0.0,0,0.0,0.11,0.9,1.0231,0.0,2026-11-13T17:30:55+00:00
+2026-11-13T17:31:15+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.11,Pedro Martinez,kalshi,0.83,0.9567,64823.58,0.0,0,0.0,0.11,0.9,1.0231,0.0,2026-11-13T17:30:55+00:00
+2026-11-13T17:31:35+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.11,Pedro Martinez,polyus,0.84,0.9662,0.0,12856.9,0,0.0,0.17,0.84,1.0292,0.0,2026-11-13T17:31:35+00:00
+2026-11-13T17:31:45+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.11,Pedro Martinez,polyus,0.84,0.9662,0.0,12856.9,0,0.0,0.17,0.84,1.0292,0.0,2026-11-13T17:31:35+00:00
+2026-11-13T17:31:45+00:00,andreescu v hercog,True,Bianca Andreescu,kalshi,0.87,Polona Hercog,polyus,0.11,0.9947,0.0,0.0,0,0.0,0.9,0.12,1.0336,0.0,2026-11-13T17:31:45+00:00
+2026-11-13T17:32:15+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.11,Pedro Martinez,kalshi,0.84,0.9662,0.0,0.0,0,0.0,0.18,0.9,1.0966,0.0,2026-11-13T17:32:15+00:00
+2026-11-13T17:32:45+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.11,Pedro Martinez,polyus,0.84,0.9662,0.0,0.0,0,0.0,0.17,0.9,1.0861,0.0,2026-11-13T17:32:45+00:00
+2026-11-13T17:32:55+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.11,Pedro Martinez,polyus,0.84,0.9662,0.0,0.0,0,0.0,0.17,0.9,1.0861,0.0,2026-11-13T17:32:45+00:00
+2026-11-13T17:33:05+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.11,Pedro Martinez,polyus,0.86,0.9852,0.0,45945.31,0,0.0,0.17,0.84,1.0292,0.0,2026-11-13T17:32:45+00:00
+2026-11-13T17:33:55+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.17,Pedro Martinez,polyus,0.8,0.991,0.0,0.0,0,0.0,0.21,0.84,1.071,0.1,2026-11-13T17:33:55+00:00
+2026-11-13T17:34:05+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.17,Pedro Martinez,polyus,0.8,0.991,0.0,58346.14,0,0.0,0.21,0.8,1.0327,0.0,2026-11-13T17:33:55+00:00
+2026-11-13T17:34:05+00:00,magadan v roncadelli,True,Alan Magadan,kalshi,0.49,Franco Roncadelli,polyus,0.47,0.9948,0.0,32865.61,0,0.0,0.54,0.47,1.0447,0.0,2026-11-13T17:34:05+00:00
+2026-11-13T17:34:55+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.38,Tristan Boyer,kalshi,0.58,0.9934,0.0,0.0,0,0.0,0.43,0.62,1.0835,0.0,2026-11-13T17:34:55+00:00
+2026-11-13T17:34:55+00:00,chidekh v draxl,True,Clement Chidekh,polyus,0.76,Liam Draxl,kalshi,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.25,1.0742,0.0,2026-11-13T17:34:55+00:00
+2026-11-13T17:35:05+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.38,Tristan Boyer,kalshi,0.58,0.9934,0.0,0.0,0,0.0,0.43,0.62,1.0835,0.0,2026-11-13T17:34:55+00:00
+2026-11-13T17:35:05+00:00,chidekh v draxl,True,Clement Chidekh,polyus,0.76,Liam Draxl,kalshi,0.21,0.9943,0.0,0.0,0,0.0,0.8,0.25,1.0742,0.0,2026-11-13T17:34:55+00:00
+2026-11-13T17:35:35+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.17,Pedro Martinez,polyus,0.8,0.991,0.0,47731.98,0,0.0,0.21,0.8,1.0327,0.0,2026-11-13T17:35:35+00:00
+2026-11-13T17:35:45+00:00,hemery v martinez,True,Calvin Hemery,kalshi,0.17,Pedro Martinez,polyus,0.8,0.991,0.0,47731.98,0,0.0,0.21,0.8,1.0327,0.0,2026-11-13T17:35:35+00:00
+2026-11-13T17:36:15+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.17,Pedro Martinez,kalshi,0.8,0.991,0.0,0.0,0,0.0,0.2,0.84,1.0605,0.0,2026-11-13T17:36:15+00:00
+2026-11-13T17:38:05+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.19,Pedro Martinez,kalshi,0.78,0.9927,61165.31,0.0,0,0.0,0.19,0.82,1.031,0.0,2026-11-13T17:38:05+00:00
+2026-11-13T17:38:15+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.19,Pedro Martinez,kalshi,0.78,0.9927,61165.31,0.0,0,0.0,0.19,0.82,1.031,0.0,2026-11-13T17:38:05+00:00
+2026-11-13T17:38:25+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.19,Pedro Martinez,kalshi,0.78,0.9927,61165.31,0.0,0,0.0,0.19,0.82,1.031,0.0,2026-11-13T17:38:05+00:00
+2026-11-13T17:38:35+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.19,Pedro Martinez,kalshi,0.78,0.9927,333.01,0.0,0,0.0,0.19,0.83,1.0406,0.0,2026-11-13T17:38:05+00:00
+2026-11-13T17:38:45+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.39,Tristan Boyer,kalshi,0.57,0.9937,14222.05,0.0,0,0.0,0.39,0.61,1.0332,0.0,2026-11-13T17:38:45+00:00
+2026-11-13T17:38:55+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.39,Tristan Boyer,kalshi,0.57,0.9937,14222.05,0.0,0,0.0,0.39,0.61,1.0332,0.0,2026-11-13T17:38:45+00:00
+2026-11-13T17:39:15+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.39,Tristan Boyer,polyus,0.57,0.9937,0.0,0.0,0,0.0,0.43,0.6,1.0638,0.0,2026-11-13T17:39:15+00:00
+2026-11-13T17:39:25+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.12,Pedro Martinez,kalshi,0.82,0.9577,0.0,0.0,0,0.0,0.18,0.89,1.0871,0.0,2026-11-13T17:39:25+00:00
+2026-11-13T17:39:25+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.39,Tristan Boyer,polyus,0.57,0.9937,0.0,0.0,0,0.0,0.43,0.6,1.0638,0.0,2026-11-13T17:39:15+00:00
+2026-11-13T17:39:35+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.12,Pedro Martinez,kalshi,0.82,0.9577,39915.61,0.0,0,0.0,0.12,0.89,1.0242,0.0,2026-11-13T17:39:25+00:00
+2026-11-13T17:39:35+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.39,Tristan Boyer,polyus,0.57,0.9937,0.0,0.0,0,0.0,0.43,0.6,1.0638,0.0,2026-11-13T17:39:15+00:00
+2026-11-13T17:39:55+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.43,Tristan Boyer,polyus,0.53,0.9945,0.0,0.0,0,0.0,0.48,0.57,1.0845,0.0,2026-11-13T17:39:55+00:00
+2026-11-13T17:40:05+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.06,Pedro Martinez,kalshi,0.89,0.9608,26983.72,0.0,0,0.0,0.06,0.94,1.0079,0.0,2026-11-13T17:40:05+00:00
+2026-11-13T17:40:05+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.43,Tristan Boyer,polyus,0.53,0.9945,0.0,0.0,0,0.0,0.48,0.57,1.0845,0.0,2026-11-13T17:39:55+00:00
+2026-11-13T17:40:15+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.06,Pedro Martinez,kalshi,0.91,0.9797,26983.72,0.0,0,0.0,0.06,0.95,1.0172,0.0,2026-11-13T17:40:05+00:00
+2026-11-13T17:40:25+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.06,Pedro Martinez,kalshi,0.91,0.9797,26983.72,0.0,0,0.0,0.06,0.95,1.0172,0.0,2026-11-13T17:40:05+00:00
+2026-11-13T17:40:25+00:00,andreescu v hercog,True,Bianca Andreescu,polyus,0.84,Polona Hercog,kalshi,0.14,0.9978,0.0,0.0,0,0.0,0.87,0.17,1.0577,0.0,2026-11-13T17:40:25+00:00
+2026-11-13T17:40:35+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.06,Pedro Martinez,kalshi,0.91,0.9797,29052.82,0.0,0,0.0,0.06,0.95,1.0172,0.0,2026-11-13T17:40:05+00:00
+2026-11-13T17:40:35+00:00,andreescu v hercog,True,Bianca Andreescu,polyus,0.84,Polona Hercog,kalshi,0.14,0.9978,0.0,0.0,0,0.0,0.87,0.17,1.0577,0.0,2026-11-13T17:40:25+00:00
+2026-11-13T17:40:45+00:00,andreescu v hercog,True,Bianca Andreescu,polyus,0.84,Polona Hercog,kalshi,0.14,0.9978,12220.72,0.0,0,0.0,0.84,0.17,1.0292,0.0,2026-11-13T17:40:25+00:00
+2026-11-13T17:40:55+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.04,Pedro Martinez,kalshi,0.95,0.996,0.0,0.0,0,0.0,0.06,0.97,1.036,0.0,2026-11-13T17:40:55+00:00
+2026-11-13T17:40:55+00:00,andreescu v hercog,True,Bianca Andreescu,polyus,0.84,Polona Hercog,kalshi,0.14,0.9978,12220.72,0.0,0,0.0,0.84,0.17,1.0292,0.0,2026-11-13T17:40:25+00:00
+2026-11-13T17:41:05+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.04,Pedro Martinez,kalshi,0.95,0.996,59360.98,0.0,0,0.0,0.04,0.97,1.0147,0.0,2026-11-13T17:40:55+00:00
+2026-11-13T17:41:05+00:00,andreescu v hercog,True,Bianca Andreescu,polyus,0.84,Polona Hercog,kalshi,0.14,0.9978,12220.72,0.0,0,0.0,0.84,0.17,1.0292,0.1,2026-11-13T17:40:25+00:00
+2026-11-13T17:41:45+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.02,Pedro Martinez,kalshi,0.97,0.9934,0.0,0.0,0,0.0,0.04,0.99,1.0334,0.0,2026-11-13T17:41:45+00:00
+2026-11-13T17:41:55+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.02,Pedro Martinez,kalshi,0.97,0.9934,0.0,0.0,0,0.0,0.04,0.99,1.0334,0.1,2026-11-13T17:41:45+00:00
+2026-11-13T17:42:05+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.02,Pedro Martinez,kalshi,0.97,0.9934,0.0,0.0,0,0.0,0.04,0.99,1.0334,0.0,2026-11-13T17:41:45+00:00
+2026-11-13T17:42:15+00:00,hemery v martinez,True,Calvin Hemery,polyus,0.02,Pedro Martinez,kalshi,0.97,0.9934,40004.79,0.0,0,0.0,0.02,0.99,1.0121,0.0,2026-11-13T17:41:45+00:00
+2026-11-13T17:42:15+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.39,Tristan Boyer,polyus,0.57,0.9937,0.0,24642.48,0,0.0,0.44,0.57,1.0443,0.0,2026-11-13T17:42:15+00:00
+2026-11-13T17:42:45+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.39,Tristan Boyer,kalshi,0.57,0.9937,26221.29,0.0,0,0.0,0.39,0.62,1.043,0.0,2026-11-13T17:42:45+00:00
+2026-11-13T17:43:15+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.33,Tristan Boyer,kalshi,0.62,0.9819,40687.28,0.0,0,0.0,0.33,0.68,1.0406,0.0,2026-11-13T17:43:15+00:00
+2026-11-13T17:44:35+00:00,chidekh v draxl,True,Clement Chidekh,polyus,0.74,Liam Draxl,kalshi,0.21,0.975,0.0,0.0,0,0.0,0.78,0.27,1.0757,0.0,2026-11-13T17:44:35+00:00
