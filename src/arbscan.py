@@ -122,6 +122,17 @@ def depth(src, ref, price):
         return None, None
 
 
+def kalshi_trades_5m(ref):
+    """Kalshi trades on this market in the last 5 min (None if the call fails). Logging only: a live
+    Kalshi book with zero trades while the other venue moves a lot looked frozen (Nov 9 Budkov, Nov 12
+    Hewitt/Cretu: 0 trades for up to 75 min, then the book jumped). Does not change gate_ok."""
+    try:
+        d = get(f"{KALSHI}/markets/trades", {"ticker": ref, "limit": 1000, "min_ts": int(time.time()) - 300})
+        return None if d is None else len(d.get("trades") or [])
+    except Exception:
+        return None
+
+
 # ------------------------------------------------------------------ scan
 def scan():
     t0 = now()
@@ -171,8 +182,10 @@ def alert(r):
             f"→ {100 * (1 - r['total']):.1f}¢ locked per $1\n"
             f"- **At your ${BANKROLL:.0f} bankroll: ${r.get('bankroll_profit', 0):.2f} profit** (after fees and fee rounding).\n"
             f"- Seen {mt}. Still there 1s later (simulated bot): **{'YES' if r.get('bot_ok') else 'NO'}** "
-            f"(${r.get('locked_1s', 0):.2f} locked at +1s, ${r.get('locked_3s', 0):.2f} at +3s).\n\n"
-            "Both venues settle walkovers at the last fair price and retirements to the official winner.")
+            f"(${r.get('locked_1s', 0):.2f} locked at +1s, ${r.get('locked_3s', 0):.2f} at +3s).\n"
+            + (f"- ⚠️ Kalshi had **0 trades in this market in the last 5 min**: its book may be frozen "
+               "(seen Nov 9 and Nov 12, when the price never traded).\n" if r.get("live") and r.get("kalshi_trades_5m") == 0 else "")
+            + "\nBoth venues settle walkovers at the last fair price and retirements to the official winner.")
     if os.environ.get("GH_TOKEN"):
         subprocess.run(["gh", "issue", "create", "--title", f"Paper ARB: {r['leg_a']} / {r['leg_b']} "
                         f"({100 * (1 - r['total']):.1f}¢, ${r['locked']:.0f})", "--body", body], check=False)
@@ -259,6 +272,8 @@ def main():
                     n = min(rec["size_1s"], BANKROLL / r.total)
                     rec["bankroll_profit"] = round(n * (1 - r.total) - 0.02, 2)
                     rec["gate_ok"] = rec["bot_ok"] and rec["bankroll_profit"] >= MIN_LOCK
+                    kref = r.ref_a if r.src_a == "kalshi" else r.ref_b if r.src_b == "kalshi" else None
+                    rec["kalshi_trades_5m"] = kalshi_trades_5m(kref) if kref else None
                 if rec.get("gate_ok") and (r.key, day) not in alerted:  # alert only on gate-quality arbs
                     alerted.add((r.key, day)); alert(rec)
         # arbs that closed since the last scan: log their lifetime. minutes = upper bound (first seen ->
