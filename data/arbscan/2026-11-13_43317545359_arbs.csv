@@ -160,3 +160,90 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-13T00:27:00+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.4,Marcos Giron,polyus,0.55,0.984,0.0,152304.25,0,0.0,0.5,0.51,1.0449,0.1,2026-11-13T00:26:40+00:00
 2026-11-13T00:27:10+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.4,Marcos Giron,polyus,0.51,0.9442,0.0,56044.66,0,0.0,0.5,0.51,1.0449,0.1,2026-11-13T00:26:40+00:00
 2026-11-13T00:27:10+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.12,Joao Lucas Da Silva,polyus,0.85,0.9863,0.0,0.0,0,0.0,0.16,0.92,1.0945,0.1,2026-11-13T00:27:10+00:00
+2026-11-13T00:27:40+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.41,Marcos Giron,kalshi,0.51,0.9543,0.0,0.0,0,0.0,0.5,0.6,1.1342,0.1,2026-11-13T00:27:40+00:00
+2026-11-13T00:27:40+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.26,Linda Noskova,polyus,0.68,0.9686,0.0,0.0,0,0.0,0.33,0.73,1.0892,0.1,2026-11-13T00:27:40+00:00
+2026-11-13T00:27:50+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.41,Marcos Giron,kalshi,0.51,0.9543,55969.47,0.0,0,0.0,0.41,0.6,1.0436,0.1,2026-11-13T00:27:40+00:00
+2026-11-13T00:27:50+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.16,Joao Lucas Da Silva,polyus,0.78,0.9613,0.0,0.0,0,0.0,0.22,0.84,1.0814,0.1,2026-11-13T00:27:50+00:00
+2026-11-13T00:27:50+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.27,Linda Noskova,polyus,0.68,0.9789,0.0,77372.24,0,0.0,0.33,0.68,1.0406,0.1,2026-11-13T00:27:40+00:00
+2026-11-13T00:28:00+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.27,Linda Noskova,polyus,0.67,0.9692,0.0,0.0,0,0.0,0.33,0.68,1.0406,0.1,2026-11-13T00:27:40+00:00
+2026-11-13T00:28:20+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.41,Marcos Giron,polyus,0.43,0.874,0.0,39114.34,0,0.0,0.58,0.43,1.0441,0.1,2026-11-13T00:28:20+00:00
+2026-11-13T00:28:20+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.26,Linda Noskova,kalshi,0.69,0.9783,69359.56,0.0,0,0.0,0.26,0.74,1.0268,0.1,2026-11-13T00:28:20+00:00
+2026-11-13T00:28:30+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.41,Marcos Giron,polyus,0.43,0.874,0.0,39114.34,0,0.0,0.58,0.43,1.0441,0.1,2026-11-13T00:28:20+00:00
+2026-11-13T00:28:30+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.26,Linda Noskova,kalshi,0.69,0.9783,69359.56,0.0,0,0.0,0.26,0.75,1.0365,0.1,2026-11-13T00:28:20+00:00
+2026-11-13T00:28:40+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.28,Linda Noskova,kalshi,0.69,0.999,167020.95,0.0,0,0.0,0.26,0.73,1.0172,0.1,2026-11-13T00:28:20+00:00
+2026-11-13T00:28:50+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.28,Linda Noskova,polyus,0.67,0.9795,0.0,72353.03,0,0.0,0.34,0.67,1.0411,0.1,2026-11-13T00:28:50+00:00
+2026-11-13T00:28:50+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.18,Joao Lucas Reis Da Silva,kalshi,0.78,0.9823,0.0,0.0,0,0.0,0.27,0.83,1.1236,0.1,2026-11-13T00:28:50+00:00
+2026-11-13T00:29:00+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.28,Linda Noskova,polyus,0.67,0.9795,0.0,72353.03,0,0.0,0.33,0.67,1.0308,0.1,2026-11-13T00:28:50+00:00
+2026-11-13T00:29:00+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.18,Joao Lucas Reis Da Silva,kalshi,0.78,0.9823,2178.07,0.0,0,0.0,0.18,0.83,1.0301,0.1,2026-11-13T00:28:50+00:00
+2026-11-13T00:29:10+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.42,Marcos Giron,kalshi,0.45,0.9043,0.0,0.0,0,0.0,0.58,0.58,1.194,0.1,2026-11-13T00:29:10+00:00
+2026-11-13T00:29:10+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.28,Linda Noskova,polyus,0.64,0.9501,0.0,0.0,0,0.0,0.37,0.67,1.0717,0.1,2026-11-13T00:28:50+00:00
+2026-11-13T00:29:20+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.42,Marcos Giron,kalshi,0.45,0.9043,30029.31,0.0,0,0.0,0.42,0.59,1.0439,0.1,2026-11-13T00:29:10+00:00
+2026-11-13T00:29:30+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.43,Marcos Giron,kalshi,0.45,0.9144,56078.770000000004,0.0,0,0.0,0.42,0.59,1.0439,0.1,2026-11-13T00:29:10+00:00
+2026-11-13T00:29:40+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.27,Marcos Giron,kalshi,0.59,0.8906,0.0,0.0,0,0.0,0.42,0.74,1.1904,0.1,2026-11-13T00:29:10+00:00
+2026-11-13T00:29:50+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.27,Marcos Giron,kalshi,0.59,0.8906,80355.44,0.0,0,0.0,0.27,0.74,1.0372,0.1,2026-11-13T00:29:10+00:00
+2026-11-13T00:30:00+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.27,Marcos Giron,kalshi,0.59,0.8906,80355.44,0.0,0,0.0,0.27,0.74,1.0372,0.1,2026-11-13T00:29:10+00:00
+2026-11-13T00:30:00+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.18,Joao Lucas Da Silva,polyus,0.75,0.9534,0.0,0.0,0,0.0,0.26,0.83,1.1133,0.1,2026-11-13T00:30:00+00:00
+2026-11-13T00:30:30+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.27,Marcos Giron,polyus,0.58,0.8807,0.0,0.0,0,0.0,0.43,0.76,1.2198,0.1,2026-11-13T00:30:30+00:00
+2026-11-13T00:30:30+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.21,Joao Lucas Reis Da Silva,kalshi,0.76,0.9943,0.0,0.0,0,0.0,0.26,0.81,1.0941,0.1,2026-11-13T00:30:30+00:00
+2026-11-13T00:30:40+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.27,Marcos Giron,polyus,0.58,0.8807,0.0,0.0,0,0.0,0.43,0.76,1.2198,0.1,2026-11-13T00:30:30+00:00
+2026-11-13T00:30:40+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.21,Joao Lucas Reis Da Silva,kalshi,0.76,0.9943,3522.82,0.0,0,0.0,0.21,0.8,1.0327,0.1,2026-11-13T00:30:30+00:00
+2026-11-13T00:30:50+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.27,Marcos Giron,polyus,0.58,0.8807,0.0,62015.56,0,0.0,0.43,0.58,1.0441,0.1,2026-11-13T00:30:30+00:00
+2026-11-13T00:30:50+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.21,Joao Lucas Reis Da Silva,kalshi,0.76,0.9943,3522.82,0.0,0,0.0,0.21,0.8,1.0327,0.1,2026-11-13T00:30:30+00:00
+2026-11-13T00:31:00+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.21,Joao Lucas Da Silva,polyus,0.67,0.907,0.0,0.0,0,0.0,0.33,0.8,1.1566,0.1,2026-11-13T00:31:00+00:00
+2026-11-13T00:31:10+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.21,Joao Lucas Da Silva,polyus,0.67,0.907,0.0,0.01,0,0.0,0.36,0.67,1.0615,0.1,2026-11-13T00:31:00+00:00
+2026-11-13T00:31:20+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.21,Joao Lucas Da Silva,polyus,0.68,0.9167,0.0,5850.62,0,0.0,0.34,0.67,1.0411,0.1,2026-11-13T00:31:00+00:00
+2026-11-13T00:31:30+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.32,Marcos Giron,kalshi,0.59,0.9421,0.0,0.0,0,0.0,0.47,0.69,1.1923,0.1,2026-11-13T00:31:30+00:00
+2026-11-13T00:31:40+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.32,Marcos Giron,kalshi,0.59,0.9421,0.0,0.0,0,0.0,0.47,0.69,1.1923,0.1,2026-11-13T00:31:30+00:00
+2026-11-13T00:31:50+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.32,Marcos Giron,kalshi,0.59,0.9421,49339.44,0.0,0,0.0,0.32,0.69,1.0401,0.1,2026-11-13T00:31:30+00:00
+2026-11-13T00:32:00+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.32,Marcos Giron,polyus,0.57,0.9223,0.0,0.0,0,0.0,0.44,0.69,1.1621,0.1,2026-11-13T00:32:00+00:00
+2026-11-13T00:32:00+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.32,Linda Noskova,kalshi,0.59,0.9421,0.0,0.0,0,0.0,0.39,0.69,1.1115,0.1,2026-11-13T00:32:00+00:00
+2026-11-13T00:32:00+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.28,Joao Lucas Reis Da Silva,kalshi,0.69,0.999,0.0,0.0,0,0.0,0.33,0.73,1.0892,0.1,2026-11-13T00:32:00+00:00
+2026-11-13T00:32:10+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.32,Marcos Giron,polyus,0.57,0.9223,0.0,0.0,0,0.0,0.44,0.69,1.1621,0.1,2026-11-13T00:32:00+00:00
+2026-11-13T00:32:10+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.28,Joao Lucas Reis Da Silva,kalshi,0.69,0.999,725.01,0.0,0,0.0,0.28,0.73,1.0378,0.1,2026-11-13T00:32:00+00:00
+2026-11-13T00:32:20+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.32,Marcos Giron,polyus,0.57,0.9223,0.0,0.11,0,0.0,0.56,0.57,1.1643,0.1,2026-11-13T00:32:00+00:00
+2026-11-13T00:32:20+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.28,Joao Lucas Reis Da Silva,kalshi,0.69,0.999,725.01,0.0,0,0.0,0.28,0.72,1.0281,0.1,2026-11-13T00:32:00+00:00
+2026-11-13T00:32:30+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.32,Marcos Giron,polyus,0.41,0.762,0.0,0.0,0,0.0,0.6,0.57,1.2038,0.1,2026-11-13T00:32:00+00:00
+2026-11-13T00:32:40+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.32,Linda Noskova,polyus,0.64,0.9912,0.0,0.0,0,0.0,0.37,0.69,1.0912,0.1,2026-11-13T00:32:40+00:00
+2026-11-13T00:32:50+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.31,Joao Lucas Da Silva,polyus,0.65,0.9908,0.0,0.0,0,0.0,0.36,0.7,1.0907,0.1,2026-11-13T00:32:50+00:00
+2026-11-13T00:32:50+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.32,Linda Noskova,polyus,0.64,0.9912,0.0,72690.6,0,0.0,0.37,0.64,1.0423,0.1,2026-11-13T00:32:40+00:00
+2026-11-13T00:33:00+00:00,giron v shelbayh,True,Abedallah Shelbayh,polyus,0.45,Marcos Giron,kalshi,0.41,0.8941,0.0,0.0,0,0.0,0.6,0.56,1.1939,0.1,2026-11-13T00:33:00+00:00
+2026-11-13T00:33:00+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.31,Joao Lucas Da Silva,polyus,0.65,0.9908,0.0,0.0,0,0.0,0.36,0.7,1.0907,0.1,2026-11-13T00:32:50+00:00
+2026-11-13T00:33:10+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.45,Marcos Giron,polyus,0.23,0.7096,0.0,0.0,0,0.0,0.78,0.53,1.3393,0.1,2026-11-13T00:33:10+00:00
+2026-11-13T00:33:20+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.45,Marcos Giron,polyus,0.23,0.7096,0.0,39571.59,0,0.0,0.78,0.23,1.0343,0.1,2026-11-13T00:33:10+00:00
+2026-11-13T00:33:30+00:00,giron v shelbayh,True,Abdullah Shelbayh,kalshi,0.45,Marcos Giron,polyus,0.23,0.7096,0.0,39571.59,0,0.0,0.78,0.23,1.0343,0.1,2026-11-13T00:33:10+00:00
+2026-11-13T00:33:30+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.43,Linda Noskova,polyus,0.53,0.9945,0.0,0.0,0,0.0,0.48,0.58,1.0944,0.1,2026-11-13T00:33:30+00:00
+2026-11-13T00:33:40+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.43,Linda Noskova,polyus,0.53,0.9945,0.0,0.0,0,0.0,0.48,0.58,1.0944,0.1,2026-11-13T00:33:30+00:00
+2026-11-13T00:34:00+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.43,Linda Noskova,kalshi,0.53,0.9945,0.0,0.0,0,0.0,0.48,0.58,1.0944,0.1,2026-11-13T00:34:00+00:00
+2026-11-13T00:34:10+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.43,Linda Noskova,kalshi,0.53,0.9945,0.0,0.0,0,0.0,0.48,0.58,1.0944,0.1,2026-11-13T00:34:00+00:00
+2026-11-13T00:34:30+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.43,Linda Noskova,polyus,0.53,0.9945,0.0,0.0,0,0.0,0.48,0.64,1.1535,0.1,2026-11-13T00:34:30+00:00
+2026-11-13T00:34:40+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.43,Linda Noskova,polyus,0.53,0.9945,0.0,0.0,0,0.0,0.48,0.64,1.1535,0.1,2026-11-13T00:34:30+00:00
+2026-11-13T00:35:10+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.42,Linda Noskova,kalshi,0.53,0.9844,0.0,0.0,0,0.0,0.48,0.59,1.1043,0.1,2026-11-13T00:35:10+00:00
+2026-11-13T00:35:20+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.42,Linda Noskova,kalshi,0.53,0.9844,66920.99,0.0,0,0.0,0.42,0.6,1.0537,0.1,2026-11-13T00:35:10+00:00
+2026-11-13T00:35:30+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.33,Linda Noskova,kalshi,0.59,0.9523,0.0,0.0,0,0.0,0.42,0.67,1.1224,0.1,2026-11-13T00:35:10+00:00
+2026-11-13T00:35:40+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.33,Linda Noskova,kalshi,0.59,0.9523,0.0,0.0,0,0.0,0.42,0.67,1.1224,0.1,2026-11-13T00:35:10+00:00
+2026-11-13T00:35:50+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.33,Linda Noskova,kalshi,0.59,0.9523,44607.46,0.0,0,0.0,0.33,0.68,1.0406,0.1,2026-11-13T00:35:10+00:00
+2026-11-13T00:36:00+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.31,Linda Noskova,kalshi,0.59,0.9318,0.0,0.0,0,0.0,0.33,0.7,1.0601,0.1,2026-11-13T00:35:10+00:00
+2026-11-13T00:36:10+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.31,Linda Noskova,polyus,0.59,0.9318,0.0,0.0,0,0.0,0.42,0.68,1.1322,0.1,2026-11-13T00:36:10+00:00
+2026-11-13T00:36:20+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.31,Linda Noskova,polyus,0.59,0.9318,0.0,64544.78,0,0.0,0.42,0.59,1.0439,0.1,2026-11-13T00:36:10+00:00
+2026-11-13T00:36:30+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.31,Linda Noskova,polyus,0.61,0.9515,0.0,171917.24,0,0.0,0.4,0.59,1.0236,0.1,2026-11-13T00:36:10+00:00
+2026-11-13T00:36:50+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.42,Linda Noskova,polyus,0.53,0.9844,0.0,0.0,0,0.0,0.48,0.65,1.1633,0.1,2026-11-13T00:36:50+00:00
+2026-11-13T00:37:00+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.42,Linda Noskova,polyus,0.53,0.9844,0.0,0.0,0,0.0,0.48,0.65,1.1633,0.1,2026-11-13T00:36:50+00:00
+2026-11-13T00:37:20+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.42,Linda Noskova,kalshi,0.53,0.9844,78309.42,0.0,0,0.0,0.42,0.59,1.0439,0.1,2026-11-13T00:37:20+00:00
+2026-11-13T00:37:30+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.32,Joao Lucas Reis Da Silva,kalshi,0.63,0.9814,0.0,0.0,0,0.0,0.37,0.69,1.0912,0.1,2026-11-13T00:37:30+00:00
+2026-11-13T00:37:30+00:00,noskova v pegula,True,Jessica Pegula,polyus,0.42,Linda Noskova,kalshi,0.53,0.9844,78309.42,0.0,0,0.0,0.42,0.59,1.0439,0.1,2026-11-13T00:37:20+00:00
+2026-11-13T00:37:40+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.42,Linda Noskova,polyus,0.53,0.9844,0.0,0.0,0,0.0,0.48,0.59,1.1043,0.1,2026-11-13T00:37:40+00:00
+2026-11-13T00:37:50+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.42,Linda Noskova,polyus,0.53,0.9844,0.0,63672.46,0,0.0,0.48,0.53,1.0448,0.1,2026-11-13T00:37:40+00:00
+2026-11-13T00:38:10+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.46,Linda Noskova,polyus,0.49,0.9848,0.0,0.0,0,0.0,0.52,0.53,1.0848,0.1,2026-11-13T00:38:10+00:00
+2026-11-13T00:38:20+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.46,Linda Noskova,polyus,0.49,0.9848,0.0,94869.0,0,0.0,0.52,0.49,1.0448,0.1,2026-11-13T00:38:10+00:00
+2026-11-13T00:38:30+00:00,noskova v pegula,True,Jessica Pegula,kalshi,0.46,Linda Noskova,polyus,0.49,0.9848,0.0,94869.0,0,0.0,0.52,0.49,1.0448,0.1,2026-11-13T00:38:10+00:00
+2026-11-13T00:39:20+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.21,Joao Lucas Reis Da Silva,kalshi,0.76,0.9943,0.0,0.0,0,0.0,0.29,0.8,1.1155,0.1,2026-11-13T00:39:20+00:00
+2026-11-13T00:39:30+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.21,Joao Lucas Reis Da Silva,kalshi,0.76,0.9943,0.0,0.0,0,0.0,0.29,0.8,1.1155,0.1,2026-11-13T00:39:20+00:00
+2026-11-13T00:39:40+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.2,Joao Lucas Reis Da Silva,kalshi,0.76,0.9839,0.0,0.0,0,0.0,0.21,0.8,1.0327,0.1,2026-11-13T00:39:20+00:00
+2026-11-13T00:40:10+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.16,Joao Lucas Reis Da Silva,kalshi,0.8,0.9805,0.0,0.0,0,0.0,0.22,0.85,1.0909,0.1,2026-11-13T00:40:10+00:00
+2026-11-13T00:40:20+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.16,Joao Lucas Reis Da Silva,kalshi,0.8,0.9805,0.0,0.0,0,0.0,0.22,0.85,1.0909,0.1,2026-11-13T00:40:10+00:00
+2026-11-13T00:40:50+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.16,Joao Lucas Da Silva,polyus,0.78,0.9613,0.0,0.0,0,0.0,0.23,0.88,1.1297,0.1,2026-11-13T00:40:50+00:00
+2026-11-13T00:41:40+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.23,Joao Lucas Da Silva,polyus,0.73,0.9861,0.0,17227.61,0,0.0,0.28,0.73,1.0378,0.1,2026-11-13T00:41:40+00:00
+2026-11-13T00:41:50+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.23,Joao Lucas Da Silva,polyus,0.74,0.9958,0.0,27304.61,0,0.0,0.27,0.73,1.0275,0.1,2026-11-13T00:41:40+00:00
+2026-11-13T00:42:00+00:00,bueno v lucas,True,Gonzalo Bueno,kalshi,0.23,Joao Lucas Da Silva,polyus,0.74,0.9958,0.0,27304.61,0,0.0,0.28,0.73,1.0378,0.1,2026-11-13T00:41:40+00:00
+2026-11-13T00:42:20+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.2,Joao Lucas Reis Da Silva,kalshi,0.74,0.9646,0.0,0.0,0,0.0,0.32,0.81,1.1559,0.1,2026-11-13T00:42:20+00:00
+2026-11-13T00:42:30+00:00,bueno v lucas,True,Gonzalo Bueno,polyus,0.2,Joao Lucas Reis Da Silva,kalshi,0.74,0.9646,0.0,0.0,0,0.0,0.32,0.81,1.1559,0.1,2026-11-13T00:42:20+00:00
