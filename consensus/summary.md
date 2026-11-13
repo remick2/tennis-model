@@ -1,4 +1,4 @@
-# Consensus paper tracker — Fri Nov 13, 2:40AM MT
+# Consensus paper tracker — Fri Nov 13, 3:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,10 +10,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 0 |
 | 2 agree | all 15 | 9-11 | -3.96 | 16-12 | -1.59 | 0 |
-| 2+ agree, 1+ against (split) | all 15 | 17-9 | +6.20 | 17-12 | -0.25 | 1 |
+| 2+ agree, 1+ against (split) | all 15 | 18-9 | +7.45 | 17-12 | -0.25 | 0 |
 | 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 0 |
 | 2 agree | core 10 only | 6-4 | +0.24 | 8-3 | +0.42 | 0 |
-| 2+ agree, 1+ against (split) | core 10 only | 4-3 | +0.12 | 7-5 | -0.57 | 1 |
+| 2+ agree, 1+ against (split) | core 10 only | 5-3 | +1.37 | 7-5 | -0.57 | 0 |
 
 **By price** (new roster, pre-game, graded):
 
@@ -65,4 +65,3 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
-| new | 2026-11-13 | CS2 | Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ (Moneyline) | 2 agree, 1 against | pre-game | jakepaulthegoat2008; fantasy7788 | drainedandpoor | 44.5c |
