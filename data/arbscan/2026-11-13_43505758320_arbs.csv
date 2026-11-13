@@ -65,3 +65,78 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-13T22:54:37+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.65,Elina Svitolina,polyus,0.31,0.9908,0.0,0.0,0,0.0,0.7,0.35,1.0805,0.1,2026-11-13T22:54:37+00:00
 2026-11-13T22:54:47+00:00,gray v shelbayh,True,Abedallah Shelbayh,polyus,0.85,Alastair Gray,kalshi,0.11,0.9757,39169.72,0.0,0,0.0,0.85,0.16,1.0283,0.1,2026-11-13T22:54:37+00:00
 2026-11-13T22:54:47+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.65,Elina Svitolina,polyus,0.31,0.9908,0.0,0.0,0,0.0,0.76,0.35,1.1386,0.1,2026-11-13T22:54:37+00:00
+2026-11-13T22:54:57+00:00,gray v shelbayh,True,Abedallah Shelbayh,polyus,0.85,Alastair Gray,kalshi,0.11,0.9757,39169.72,0.0,0,0.0,0.85,0.16,1.0283,0.1,2026-11-13T22:54:37+00:00
+2026-11-13T22:54:57+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.7,Elina Svitolina,polyus,0.25,0.9777,0.0,77940.41,0,0.0,0.76,0.25,1.0358,0.1,2026-11-13T22:54:37+00:00
+2026-11-13T22:55:07+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.7,Elina Svitolina,polyus,0.25,0.9777,0.0,77940.41,0,0.0,0.77,0.25,1.0454,0.1,2026-11-13T22:54:37+00:00
+2026-11-13T22:55:17+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.85,Alastair Gray,polyus,0.12,0.9863,0.0,60586.69,0,0.0,0.89,0.12,1.0242,0.1,2026-11-13T22:55:17+00:00
+2026-11-13T22:55:17+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.7,Elina Svitolina,polyus,0.26,0.9881,0.0,129399.3,0,0.0,0.78,0.25,1.055,0.1,2026-11-13T22:54:37+00:00
+2026-11-13T22:55:17+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.34,Nikolas Sanchez Izquierdo,polyus,0.62,0.9921,0.0,0.0,0,0.0,0.38,0.67,1.0819,0.2,2026-11-13T22:55:17+00:00
+2026-11-13T22:55:27+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.85,Alastair Gray,polyus,0.12,0.9863,0.0,60586.69,0,0.0,0.89,0.12,1.0242,0.1,2026-11-13T22:55:17+00:00
+2026-11-13T22:55:27+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.72,Elina Svitolina,kalshi,0.24,0.9868,0.0,0.0,0,0.0,0.79,0.29,1.1059,0.1,2026-11-13T22:55:27+00:00
+2026-11-13T22:55:27+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.34,Nikolas Sanchez Izquierdo,polyus,0.62,0.9921,0.0,0.0,0,0.0,0.38,0.67,1.0819,0.1,2026-11-13T22:55:17+00:00
+2026-11-13T22:55:37+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.72,Elina Svitolina,kalshi,0.24,0.9868,0.0,0.0,0,0.0,0.79,0.29,1.1059,0.2,2026-11-13T22:55:27+00:00
+2026-11-13T22:55:47+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.89,Alastair Gray,polyus,0.08,0.982,0.0,36588.39,0,0.0,0.93,0.08,1.0197,0.2,2026-11-13T22:55:47+00:00
+2026-11-13T22:55:47+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.72,Elina Svitolina,kalshi,0.24,0.9868,0.0,0.0,0,0.0,0.79,0.29,1.1059,0.1,2026-11-13T22:55:27+00:00
+2026-11-13T22:55:57+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.89,Alastair Gray,polyus,0.08,0.982,0.0,36588.39,0,0.0,0.93,0.08,1.0197,0.1,2026-11-13T22:55:47+00:00
+2026-11-13T22:56:07+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.89,Alastair Gray,polyus,0.05,0.9502,0.0,0.0,0,0.0,0.96,0.08,1.0478,0.1,2026-11-13T22:55:47+00:00
+2026-11-13T22:56:07+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.32,Nikolas Sanchez Izquierdo,kalshi,0.63,0.9814,0.0,0.0,0,0.0,0.34,0.69,1.0606,0.1,2026-11-13T22:56:07+00:00
+2026-11-13T22:56:17+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.92,Alastair Gray,polyus,0.05,0.9785,0.0,60555.89,0,0.0,0.96,0.05,1.016,0.2,2026-11-13T22:55:47+00:00
+2026-11-13T22:56:27+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.92,Alastair Gray,polyus,0.05,0.9785,0.0,60555.89,0,0.0,0.96,0.05,1.016,0.1,2026-11-13T22:55:47+00:00
+2026-11-13T22:56:27+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.28,Nikolas Sanchez Izquierdo,kalshi,0.67,0.9795,0.0,0.0,0,0.0,0.34,0.73,1.0994,0.2,2026-11-13T22:56:27+00:00
+2026-11-13T22:56:37+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.92,Alastair Gray,polyus,0.05,0.9785,0.0,60555.89,0,0.0,0.96,0.05,1.016,0.1,2026-11-13T22:55:47+00:00
+2026-11-13T22:56:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.28,Nikolas Sanchez Izquierdo,kalshi,0.67,0.9795,34526.19,0.0,0,0.0,0.28,0.73,1.0378,0.1,2026-11-13T22:56:27+00:00
+2026-11-13T22:57:07+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.28,Nikolas Sanchez Izquierdo,polyus,0.67,0.9795,0.0,0.0,0,0.0,0.34,0.74,1.1091,0.2,2026-11-13T22:57:07+00:00
+2026-11-13T22:58:17+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.33,Nikolas Sanchez Izquierdo,kalshi,0.63,0.9917,0.0,0.0,0,0.0,0.4,0.68,1.1119,0.1,2026-11-13T22:58:17+00:00
+2026-11-13T22:58:27+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.33,Nikolas Sanchez Izquierdo,kalshi,0.63,0.9917,0.0,0.0,0,0.0,0.4,0.68,1.1119,0.2,2026-11-13T22:58:17+00:00
+2026-11-13T22:58:47+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.74,Elina Svitolina,kalshi,0.22,0.9854,0.0,0.0,0,0.0,0.78,0.27,1.0757,0.1,2026-11-13T22:58:47+00:00
+2026-11-13T22:58:57+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.74,Elina Svitolina,kalshi,0.22,0.9854,72395.65,0.0,0,0.0,0.74,0.27,1.0372,0.1,2026-11-13T22:58:47+00:00
+2026-11-13T22:59:07+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.32,Nikolas Sanchez Izquierdo,polyus,0.63,0.9814,0.0,0.0,0,0.0,0.38,0.64,1.0525,0.1,2026-11-13T22:59:07+00:00
+2026-11-13T22:59:17+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.32,Nikolas Sanchez Izquierdo,polyus,0.61,0.9618,0.0,0.0,0,0.0,0.41,0.64,1.0829,0.2,2026-11-13T22:59:07+00:00
+2026-11-13T22:59:27+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.32,Nikolas Sanchez Izquierdo,polyus,0.61,0.9618,0.0,0.0,0,0.0,0.41,0.64,1.0829,0.1,2026-11-13T22:59:07+00:00
+2026-11-13T22:59:37+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.68,Elina Svitolina,kalshi,0.27,0.9789,0.0,0.0,0,0.0,0.73,0.33,1.0892,0.1,2026-11-13T22:59:37+00:00
+2026-11-13T22:59:47+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.68,Elina Svitolina,kalshi,0.27,0.9789,0.0,0.0,0,0.0,0.73,0.33,1.0892,0.1,2026-11-13T22:59:37+00:00
+2026-11-13T22:59:47+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.94,Alastair Gray,polyus,0.04,0.9866,0.0,0.0,0,0.0,0.96,0.08,1.0478,0.1,2026-11-13T22:59:47+00:00
+2026-11-13T22:59:57+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.94,Alastair Gray,polyus,0.04,0.9866,0.0,0.0,0,0.0,0.96,0.08,1.0478,0.1,2026-11-13T22:59:47+00:00
+2026-11-13T23:00:17+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.63,Elina Svitolina,kalshi,0.33,0.9917,0.0,0.0,0,0.0,0.68,0.39,1.1018,0.1,2026-11-13T23:00:17+00:00
+2026-11-13T23:00:27+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.61,Elina Svitolina,kalshi,0.34,0.9822,69694.45,0.0,0,0.0,0.61,0.4,1.0433,0.1,2026-11-13T23:00:17+00:00
+2026-11-13T23:00:27+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.96,Alastair Gray,polyus,0.02,0.9841,0.0,0.0,0,0.0,0.99,0.05,1.044,0.1,2026-11-13T23:00:27+00:00
+2026-11-13T23:00:37+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.61,Elina Svitolina,kalshi,0.34,0.9822,69694.45,0.0,0,0.0,0.61,0.4,1.0433,0.1,2026-11-13T23:00:17+00:00
+2026-11-13T23:00:37+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.96,Alastair Gray,polyus,0.02,0.9841,0.0,0.0,0,0.0,0.99,0.05,1.044,0.1,2026-11-13T23:00:27+00:00
+2026-11-13T23:00:47+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.61,Elina Svitolina,kalshi,0.34,0.9822,69694.45,0.0,0,0.0,0.61,0.4,1.0433,0.2,2026-11-13T23:00:17+00:00
+2026-11-13T23:01:17+00:00,gray v shelbayh,True,Abedallah Shelbayh,polyus,0.97,Alastair Gray,kalshi,0.02,0.9934,0.0,0.0,0,0.0,0.99,0.04,1.0334,0.1,2026-11-13T23:01:17+00:00
+2026-11-13T23:01:27+00:00,gray v shelbayh,True,Abedallah Shelbayh,polyus,0.97,Alastair Gray,kalshi,0.02,0.9934,0.0,0.0,0,0.0,0.99,0.04,1.0334,0.1,2026-11-13T23:01:17+00:00
+2026-11-13T23:01:37+00:00,gray v shelbayh,True,Abedallah Shelbayh,polyus,0.97,Alastair Gray,kalshi,0.02,0.9934,0.0,0.0,0,0.0,0.99,0.04,1.0334,0.1,2026-11-13T23:01:17+00:00
+2026-11-13T23:01:47+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.97,Alastair Gray,polyus,0.02,0.9934,0.0,29364.62,0,0.0,0.99,0.02,1.0121,0.1,2026-11-13T23:01:47+00:00
+2026-11-13T23:01:57+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.97,Alastair Gray,polyus,0.02,0.9934,0.0,29364.62,0,0.0,0.99,0.02,1.0121,0.2,2026-11-13T23:01:47+00:00
+2026-11-13T23:02:07+00:00,gray v shelbayh,True,Abdullah Shelbayh,kalshi,0.97,Alastair Gray,polyus,0.02,0.9934,0.0,29364.62,0,0.0,0.99,0.02,1.0121,0.1,2026-11-13T23:01:47+00:00
+2026-11-13T23:04:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.33,Nikolas Sanchez Izquierdo,kalshi,0.62,0.9819,21030.85,0.0,0,0.0,0.33,0.68,1.0406,0.1,2026-11-13T23:04:37+00:00
+2026-11-13T23:04:47+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.33,Nikolas Sanchez Izquierdo,kalshi,0.62,0.9819,21030.85,0.0,0,0.0,0.33,0.68,1.0406,0.1,2026-11-13T23:04:37+00:00
+2026-11-13T23:04:57+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.33,Nikolas Sanchez Izquierdo,kalshi,0.62,0.9819,21030.85,0.0,0,0.0,0.33,0.68,1.0406,0.1,2026-11-13T23:04:37+00:00
+2026-11-13T23:05:17+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.29,Nikolas Sanchez Izquierdo,kalshi,0.68,0.9995,0.0,0.0,0,0.0,0.32,0.72,1.0692,0.1,2026-11-13T23:05:17+00:00
+2026-11-13T23:05:27+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.29,Nikolas Sanchez Izquierdo,kalshi,0.68,0.9995,0.0,0.0,0,0.0,0.32,0.72,1.0692,0.1,2026-11-13T23:05:17+00:00
+2026-11-13T23:05:47+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.39,Elina Svitolina,kalshi,0.51,0.934,0.0,0.0,0,0.0,0.46,0.62,1.1138,0.1,2026-11-13T23:05:47+00:00
+2026-11-13T23:05:47+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.29,Nikolas Sanchez Izquierdo,polyus,0.67,0.9898,0.0,0.0,0,0.0,0.34,0.72,1.0897,0.1,2026-11-13T23:05:47+00:00
+2026-11-13T23:05:57+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.29,Nikolas Sanchez Izquierdo,polyus,0.67,0.9898,0.0,0.0,0,0.0,0.34,0.72,1.0897,0.1,2026-11-13T23:05:47+00:00
+2026-11-13T23:06:07+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.29,Nikolas Sanchez Izquierdo,polyus,0.67,0.9898,0.0,14473.87,0,0.0,0.34,0.67,1.0411,0.1,2026-11-13T23:05:47+00:00
+2026-11-13T23:06:17+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.26,Nikolas Sanchez Izquierdo,kalshi,0.67,0.9588,0.0,0.0,0,0.0,0.34,0.74,1.1091,0.1,2026-11-13T23:06:17+00:00
+2026-11-13T23:06:27+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.26,Nikolas Sanchez Izquierdo,kalshi,0.67,0.9588,0.0,0.0,0,0.0,0.34,0.75,1.1187,0.1,2026-11-13T23:06:17+00:00
+2026-11-13T23:06:27+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.38,Elina Svitolina,polyus,0.58,0.9934,0.0,0.0,0,0.0,0.43,0.68,1.1423,0.1,2026-11-13T23:06:27+00:00
+2026-11-13T23:06:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.26,Nikolas Sanchez Izquierdo,kalshi,0.67,0.9588,33809.63,0.0,0,0.0,0.26,0.75,1.0365,0.1,2026-11-13T23:06:17+00:00
+2026-11-13T23:06:37+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.38,Elina Svitolina,polyus,0.58,0.9934,0.0,0.0,0,0.0,0.43,0.68,1.1423,0.1,2026-11-13T23:06:27+00:00
+2026-11-13T23:06:47+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.26,Nikolas Sanchez Izquierdo,kalshi,0.67,0.9588,33809.63,0.0,0,0.0,0.26,0.75,1.0365,0.1,2026-11-13T23:06:17+00:00
+2026-11-13T23:06:57+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.35,Elina Svitolina,kalshi,0.57,0.953,75794.6,0.0,0,0.0,0.35,0.66,1.0415,0.1,2026-11-13T23:06:57+00:00
+2026-11-13T23:07:07+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.35,Elina Svitolina,kalshi,0.57,0.953,75794.6,0.0,0,0.0,0.35,0.67,1.0513,0.1,2026-11-13T23:06:57+00:00
+2026-11-13T23:07:17+00:00,sabalenka v svitolina,True,Aryna Sabalenka,polyus,0.38,Elina Svitolina,kalshi,0.57,0.9835,153338.15,0.0,0,0.0,0.35,0.68,1.061,0.1,2026-11-13T23:06:57+00:00
+2026-11-13T23:07:27+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.27,Nikolas Sanchez Izquierdo,polyus,0.67,0.9692,0.0,0.0,0,0.0,0.34,0.74,1.1091,0.1,2026-11-13T23:07:27+00:00
+2026-11-13T23:07:37+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.27,Nikolas Sanchez Izquierdo,polyus,0.67,0.9692,0.0,36772.67,0,0.0,0.34,0.67,1.0411,0.2,2026-11-13T23:07:27+00:00
+2026-11-13T23:07:47+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.27,Nikolas Sanchez Izquierdo,polyus,0.67,0.9692,0.0,36772.67,0,0.0,0.34,0.67,1.0411,0.1,2026-11-13T23:07:27+00:00
+2026-11-13T23:08:17+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.36,Elina Svitolina,polyus,0.53,0.9234,0.0,0.0,0,0.0,0.48,0.65,1.1633,0.1,2026-11-13T23:08:17+00:00
+2026-11-13T23:08:27+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.36,Elina Svitolina,polyus,0.53,0.9234,0.0,93276.35,0,0.0,0.48,0.53,1.0448,0.2,2026-11-13T23:08:17+00:00
+2026-11-13T23:08:37+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.36,Elina Svitolina,polyus,0.53,0.9234,0.0,93276.35,0,0.0,0.48,0.53,1.0448,0.1,2026-11-13T23:08:17+00:00
+2026-11-13T23:08:47+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.34,Nikolas Sanchez Izquierdo,polyus,0.57,0.9427,0.0,0.0,0,0.0,0.44,0.67,1.1426,0.1,2026-11-13T23:08:47+00:00
+2026-11-13T23:08:57+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.34,Nikolas Sanchez Izquierdo,polyus,0.57,0.9427,0.0,0.0,0,0.0,0.44,0.67,1.1426,0.1,2026-11-13T23:08:47+00:00
+2026-11-13T23:08:57+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.48,Elina Svitolina,polyus,0.47,0.9848,0.0,0.0,0,0.0,0.54,0.58,1.1543,0.1,2026-11-13T23:08:57+00:00
+2026-11-13T23:09:07+00:00,sabalenka v svitolina,True,Aryna Sabalenka,kalshi,0.48,Elina Svitolina,polyus,0.47,0.9848,0.0,0.0,0,0.0,0.54,0.58,1.1543,0.1,2026-11-13T23:08:57+00:00
+2026-11-13T23:09:17+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.44,Nikolas Sanchez Izquierdo,polyus,0.51,0.9846,0.0,0.0,0,0.0,0.5,0.57,1.1045,0.1,2026-11-13T23:09:17+00:00
+2026-11-13T23:09:27+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.44,Nikolas Sanchez Izquierdo,polyus,0.51,0.9846,0.0,0.0,0,0.0,0.5,0.57,1.1045,0.1,2026-11-13T23:09:17+00:00
+2026-11-13T23:09:37+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.44,Nikolas Sanchez Izquierdo,polyus,0.52,0.9946,0.0,0.0,0,0.0,0.5,0.53,1.0648,0.1,2026-11-13T23:09:17+00:00
