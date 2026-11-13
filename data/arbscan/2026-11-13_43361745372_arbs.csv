@@ -1,0 +1,26 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-13T04:52:59+00:00,shang v sweeny,True,Dane Sweeny,polyus,0.21,Juncheng Shang,kalshi,0.75,0.9847,0.0,0.0,0,0.0,0.26,0.8,1.0846,0.1,2026-11-13T04:52:59+00:00
+2026-11-13T04:53:09+00:00,shang v sweeny,True,Dane Sweeny,polyus,0.21,Juncheng Shang,kalshi,0.75,0.9847,0.0,0.0,0,0.0,0.26,0.8,1.0846,0.1,2026-11-13T04:52:59+00:00
+2026-11-13T04:53:19+00:00,shang v sweeny,True,Dane Sweeny,polyus,0.21,Juncheng Shang,kalshi,0.75,0.9847,79793.25,0.0,0,0.0,0.21,0.8,1.0327,0.1,2026-11-13T04:52:59+00:00
+2026-11-13T04:53:59+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.21,Juncheng Shang,polyus,0.7,0.9362,0.0,0.0,0,0.0,0.31,0.78,1.1169,0.1,2026-11-13T04:53:59+00:00
+2026-11-13T04:54:39+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.32,Juncheng Shang,polyus,0.63,0.9814,0.0,0.0,0,0.0,0.38,0.7,1.1111,0.1,2026-11-13T04:54:39+00:00
+2026-11-13T04:54:49+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.32,Juncheng Shang,polyus,0.63,0.9814,0.0,43680.53,0,0.0,0.38,0.63,1.0427,0.1,2026-11-13T04:54:39+00:00
+2026-11-13T04:54:59+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.32,Juncheng Shang,polyus,0.64,0.9912,0.0,88602.22,0,0.0,0.39,0.63,1.0529,0.1,2026-11-13T04:54:39+00:00
+2026-11-13T04:55:49+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.3,Juncheng Shang,polyus,0.58,0.9116,0.0,0.0,0,0.0,0.43,0.75,1.2102,0.1,2026-11-13T04:55:49+00:00
+2026-11-13T04:55:59+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.3,Juncheng Shang,polyus,0.58,0.9116,0.0,0.0,0,0.0,0.43,0.75,1.2102,0.1,2026-11-13T04:55:49+00:00
+2026-11-13T04:57:49+00:00,milic v sakamoto,True,Ognjen Milic,polyus,0.13,Rei Sakamoto,kalshi,0.85,0.9968,24578.24,0.0,0,0.0,0.13,0.88,1.0253,0.1,2026-11-13T04:57:49+00:00
+2026-11-13T04:57:59+00:00,milic v sakamoto,True,Ognjen Milic,polyus,0.13,Rei Sakamoto,kalshi,0.85,0.9968,24578.24,0.0,0,0.0,0.13,0.88,1.0253,0.1,2026-11-13T04:57:49+00:00
+2026-11-13T04:58:09+00:00,milic v sakamoto,True,Ognjen Milic,polyus,0.13,Rei Sakamoto,kalshi,0.85,0.9968,24578.24,0.0,0,0.0,0.13,0.88,1.0253,0.1,2026-11-13T04:57:49+00:00
+2026-11-13T04:58:19+00:00,milic v sakamoto,True,Ognjen Milic,polyus,0.13,Rei Sakamoto,kalshi,0.85,0.9968,32765.17,0.0,0,0.0,0.13,0.89,1.0347,0.1,2026-11-13T04:57:49+00:00
+2026-11-13T04:58:29+00:00,milic v sakamoto,True,Ognjen Milic,kalshi,0.13,Rei Sakamoto,polyus,0.85,0.9968,0.0,0.0,0,0.0,0.16,0.88,1.0567,0.1,2026-11-13T04:58:29+00:00
+2026-11-13T04:58:39+00:00,milic v sakamoto,True,Ognjen Milic,kalshi,0.13,Rei Sakamoto,polyus,0.85,0.9968,0.0,0.0,0,0.0,0.16,0.88,1.0567,0.1,2026-11-13T04:58:29+00:00
+2026-11-13T04:58:49+00:00,milic v sakamoto,True,Ognjen Milic,kalshi,0.13,Rei Sakamoto,polyus,0.85,0.9968,0.0,26838.14,0,0.0,0.16,0.85,1.0283,0.1,2026-11-13T04:58:29+00:00
+2026-11-13T05:01:29+00:00,shang v sweeny,True,Dane Sweeny,polyus,0.39,Juncheng Shang,kalshi,0.57,0.9937,0.0,0.0,0,0.0,0.44,0.62,1.0936,0.1,2026-11-13T05:01:29+00:00
+2026-11-13T05:02:39+00:00,shang v sweeny,True,Dane Sweeny,polyus,0.33,Juncheng Shang,kalshi,0.62,0.9819,0.0,0.0,0,0.0,0.38,0.68,1.0916,0.1,2026-11-13T05:02:39+00:00
+2026-11-13T05:02:49+00:00,shang v sweeny,True,Dane Sweeny,polyus,0.33,Juncheng Shang,kalshi,0.62,0.9819,66893.68,0.0,0,0.0,0.33,0.68,1.0406,0.1,2026-11-13T05:02:39+00:00
+2026-11-13T05:05:19+00:00,shang v sweeny,True,Dane Sweeny,polyus,0.22,Juncheng Shang,kalshi,0.72,0.966,55232.65,0.0,0,0.0,0.22,0.79,1.0335,0.1,2026-11-13T05:05:19+00:00
+2026-11-13T05:06:29+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.22,Juncheng Shang,polyus,0.75,0.995,0.0,0.0,0,0.0,0.26,0.79,1.075,0.1,2026-11-13T05:06:29+00:00
+2026-11-13T05:06:29+00:00,milic v sakamoto,True,Ognjen Milic,polyus,0.15,Rei Sakamoto,kalshi,0.83,0.9987,0.0,0.0,0,0.0,0.17,0.86,1.0482,0.1,2026-11-13T05:06:29+00:00
+2026-11-13T05:06:39+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.22,Juncheng Shang,polyus,0.75,0.995,0.0,0.0,0,0.0,0.27,0.79,1.0853,0.1,2026-11-13T05:06:29+00:00
+2026-11-13T05:06:49+00:00,milic v sakamoto,True,Ognjen Milic,polyus,0.14,Rei Sakamoto,kalshi,0.84,0.9978,13295.78,0.0,0,0.0,0.14,0.86,1.0168,0.1,2026-11-13T05:06:49+00:00
+2026-11-13T05:07:29+00:00,shang v sweeny,True,Dane Sweeny,kalshi,0.23,Juncheng Shang,polyus,0.73,0.9861,0.0,0.0,0,0.0,0.28,0.79,1.0956,0.2,2026-11-13T05:07:29+00:00
