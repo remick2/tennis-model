@@ -1,0 +1,8 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-13T10:35:26+00:00,maestrelli v nagal,True,Francesco Maestrelli,kalshi,0.46,Sumit Nagal,polyus,0.5,0.9948,0.0,0.0,0,0.0,0.51,0.55,1.0947,0.0,2026-11-13T10:35:26+00:00
+2026-11-13T10:37:26+00:00,maestrelli v nagal,True,Francesco Maestrelli,kalshi,0.5,Sumit Nagal,polyus,0.46,0.9948,0.0,0.0,0,0.0,0.55,0.53,1.1146,0.0,2026-11-13T10:37:26+00:00
+2026-11-13T10:37:36+00:00,maestrelli v nagal,True,Francesco Maestrelli,kalshi,0.5,Sumit Nagal,polyus,0.46,0.9948,0.0,5945.8,0,0.0,0.55,0.46,1.0446,0.0,2026-11-13T10:37:26+00:00
+2026-11-13T10:39:06+00:00,maestrelli v nagal,True,Francesco Maestrelli,kalshi,0.52,Sumit Nagal,polyus,0.44,0.9946,0.0,270.0,0,0.0,0.56,0.44,1.0344,0.0,2026-11-13T10:39:06+00:00
+2026-11-13T10:39:56+00:00,maestrelli v nagal,True,Francesco Maestrelli,polyus,0.55,Sumit Nagal,kalshi,0.41,0.9941,0.0,0.0,0,0.0,0.6,0.46,1.0941,0.0,2026-11-13T10:39:56+00:00
+2026-11-13T10:40:06+00:00,maestrelli v nagal,True,Francesco Maestrelli,polyus,0.55,Sumit Nagal,kalshi,0.41,0.9941,22919.64,0.0,0,0.0,0.55,0.46,1.0446,0.0,2026-11-13T10:39:56+00:00
+2026-11-13T10:40:16+00:00,maestrelli v nagal,True,Francesco Maestrelli,polyus,0.55,Sumit Nagal,kalshi,0.41,0.9941,22919.64,0.0,0,0.0,0.55,0.45,1.0345,0.0,2026-11-13T10:39:56+00:00
