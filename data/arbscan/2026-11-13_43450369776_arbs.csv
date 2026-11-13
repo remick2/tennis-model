@@ -503,3 +503,23 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-13T19:23:46+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.87,Tristan Boyer,polyus,0.11,0.9947,0.0,0.0,0,0.0,0.9,0.16,1.0756,0.0,2026-11-13T19:23:46+00:00
 2026-11-13T19:23:56+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.87,Tristan Boyer,polyus,0.11,0.9947,0.0,0.0,0,0.0,0.9,0.16,1.0756,0.0,2026-11-13T19:23:46+00:00
 2026-11-13T19:25:16+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.85,Tristan Boyer,kalshi,0.13,0.9968,0.0,0.0,0,0.0,0.88,0.15,1.0463,0.0,2026-11-13T19:25:16+00:00
+2026-11-13T19:31:56+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.82,Tristan Boyer,polyus,0.15,0.9892,0.0,0.0,0,0.0,0.86,0.18,1.0587,0.0,2026-11-13T19:31:56+00:00
+2026-11-13T19:32:36+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.86,Tristan Boyer,polyus,0.12,0.9958,0.0,0.0,0,0.0,0.89,0.15,1.0557,0.0,2026-11-13T19:32:36+00:00
+2026-11-13T19:34:06+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.92,Tristan Boyer,polyus,0.06,0.9891,0.0,0.0,0,0.0,0.95,0.09,1.049,0.1,2026-11-13T19:34:06+00:00
+2026-11-13T19:34:36+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.93,Tristan Boyer,kalshi,0.06,0.9985,0.0,0.0,0,0.0,0.95,0.08,1.0385,0.0,2026-11-13T19:34:36+00:00
+2026-11-13T19:34:46+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.93,Tristan Boyer,kalshi,0.06,0.9985,39.62,0.0,0,0.0,0.93,0.07,1.0091,0.0,2026-11-13T19:34:36+00:00
+2026-11-13T19:35:06+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.91,Tristan Boyer,kalshi,0.07,0.9902,0.0,0.0,0,0.0,0.93,0.1,1.0408,0.0,2026-11-13T19:35:06+00:00
+2026-11-13T19:35:16+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.91,Tristan Boyer,kalshi,0.07,0.9902,12308.95,0.0,0,0.0,0.91,0.11,1.0325,0.0,2026-11-13T19:35:06+00:00
+2026-11-13T19:35:26+00:00,alcala v boyer,True,Max Alcala Gurri,polyus,0.91,Tristan Boyer,kalshi,0.07,0.9902,12308.95,0.0,0,0.0,0.91,0.1,1.022,0.0,2026-11-13T19:35:06+00:00
+2026-11-13T19:36:06+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.91,Tristan Boyer,polyus,0.07,0.9903,0.0,0.0,0,0.0,0.94,0.11,1.0608,0.0,2026-11-13T19:36:06+00:00
+2026-11-13T19:36:16+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.91,Tristan Boyer,polyus,0.07,0.9903,0.0,8049.33,0,0.0,0.94,0.07,1.0185,0.0,2026-11-13T19:36:06+00:00
+2026-11-13T19:36:26+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.91,Tristan Boyer,polyus,0.06,0.9797,0.0,0.0,0,0.0,0.95,0.07,1.0278,0.0,2026-11-13T19:36:06+00:00
+2026-11-13T19:37:56+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.91,Tristan Boyer,polyus,0.07,0.9903,0.0,0.0,0,0.0,0.95,0.09,1.049,0.0,2026-11-13T19:37:56+00:00
+2026-11-13T19:38:06+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.91,Tristan Boyer,polyus,0.07,0.9903,0.0,0.0,0,0.0,0.94,0.09,1.0396,0.0,2026-11-13T19:37:56+00:00
+2026-11-13T19:38:36+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.95,Tristan Boyer,polyus,0.03,0.9853,0.0,0.0,0,0.0,0.98,0.07,1.0559,0.0,2026-11-13T19:38:36+00:00
+2026-11-13T19:38:46+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.95,Tristan Boyer,polyus,0.02,0.9747,0.0,0.0,0,0.0,0.99,0.03,1.0227,0.0,2026-11-13T19:38:36+00:00
+2026-11-13T19:38:46+00:00,andreeva v shnaider,False,Diana Shnaider,kalshi,0.24,Mirra Andreeva,polyus,0.73,0.9965,0.0,0.0,0,0.0,0.27,0.74,1.0372,0.0,2026-11-13T19:38:46+00:00
+2026-11-13T19:38:56+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.95,Tristan Boyer,polyus,0.02,0.9747,0.0,0.0,0,0.0,0.99,0.03,1.0227,0.0,2026-11-13T19:38:36+00:00
+2026-11-13T19:38:56+00:00,andreeva v shnaider,False,Diana Shnaider,kalshi,0.24,Mirra Andreeva,polyus,0.73,0.9965,0.0,0.0,0,0.0,0.27,0.74,1.0372,0.0,2026-11-13T19:38:46+00:00
+2026-11-13T19:39:06+00:00,alcala v boyer,True,Max Alcala Gurri,kalshi,0.95,Tristan Boyer,polyus,0.02,0.9747,0.0,0.0,0,0.0,0.99,0.03,1.0227,0.0,2026-11-13T19:38:36+00:00
+2026-11-13T19:39:06+00:00,andreeva v shnaider,False,Diana Shnaider,kalshi,0.24,Mirra Andreeva,polyus,0.73,0.9965,0.0,0.0,0,0.0,0.28,0.74,1.0475,0.0,2026-11-13T19:38:46+00:00
