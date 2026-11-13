@@ -534,3 +534,15 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-13T20:10:16+00:00,hans v milavsky,True,Daniel Milavsky,kalshi,0.67,Max Hans Rehberg,polyus,0.28,0.9795,0.0,0.0,0,0.0,0.72,0.36,1.1101,0.0,2026-11-13T20:10:16+00:00
 2026-11-13T20:10:26+00:00,hans v milavsky,True,Daniel Milavsky,kalshi,0.67,Max Hans Rehberg,polyus,0.28,0.9795,0.0,62812.29,0,0.0,0.73,0.28,1.0378,0.0,2026-11-13T20:10:16+00:00
 2026-11-13T20:10:36+00:00,hans v milavsky,True,Daniel Milavsky,kalshi,0.67,Max Hans Rehberg,polyus,0.28,0.9795,0.0,62812.29,0,0.0,0.73,0.28,1.0378,0.0,2026-11-13T20:10:16+00:00
+2026-11-13T20:19:46+00:00,hans v milavsky,True,Daniel Milavsky,polyus,0.62,Max Hans Rehberg,kalshi,0.3,0.9511,0.0,0.0,0,0.0,0.67,0.39,1.092,0.0,2026-11-13T20:19:46+00:00
+2026-11-13T20:19:56+00:00,hans v milavsky,True,Daniel Milavsky,polyus,0.61,Max Hans Rehberg,kalshi,0.34,0.9822,38749.47,0.0,0,0.0,0.61,0.4,1.0433,0.0,2026-11-13T20:19:46+00:00
+2026-11-13T20:19:56+00:00,andreeva v shnaider,True,Diana Shnaider,polyus,0.31,Mirra Andreeva,kalshi,0.65,0.9908,0.0,0.0,0,0.0,0.37,0.7,1.1009,0.0,2026-11-13T20:19:56+00:00
+2026-11-13T20:20:06+00:00,hans v milavsky,True,Daniel Milavsky,polyus,0.61,Max Hans Rehberg,kalshi,0.34,0.9822,38749.47,0.0,0,0.0,0.61,0.4,1.0433,0.0,2026-11-13T20:19:46+00:00
+2026-11-13T20:20:06+00:00,andreeva v shnaider,True,Diana Shnaider,polyus,0.31,Mirra Andreeva,kalshi,0.65,0.9908,0.0,0.0,0,0.0,0.37,0.7,1.1009,0.0,2026-11-13T20:19:56+00:00
+2026-11-13T20:20:16+00:00,hans v milavsky,True,Daniel Milavsky,polyus,0.61,Max Hans Rehberg,kalshi,0.34,0.9822,38749.47,0.0,0,0.0,0.61,0.41,1.0535,0.0,2026-11-13T20:19:46+00:00
+2026-11-13T20:20:46+00:00,andreeva v shnaider,True,Diana Shnaider,kalshi,0.35,Mirra Andreeva,polyus,0.6,0.9826,0.0,0.0,0,0.0,0.41,0.66,1.1025,0.0,2026-11-13T20:20:46+00:00
+2026-11-13T20:20:56+00:00,hans v milavsky,True,Daniel Milavsky,polyus,0.56,Max Hans Rehberg,kalshi,0.38,0.9736,0.0,0.0,0,0.0,0.63,0.45,1.1135,0.0,2026-11-13T20:20:56+00:00
+2026-11-13T20:21:06+00:00,hans v milavsky,True,Daniel Milavsky,polyus,0.56,Max Hans Rehberg,kalshi,0.38,0.9736,0.0,0.0,0,0.0,0.63,0.45,1.1135,0.0,2026-11-13T20:20:56+00:00
+2026-11-13T20:21:16+00:00,hans v milavsky,True,Daniel Milavsky,polyus,0.55,Max Hans Rehberg,kalshi,0.38,0.9637,0.0,0.0,0,0.0,0.63,0.46,1.1236,0.0,2026-11-13T20:20:56+00:00
+2026-11-13T20:28:46+00:00,andreeva v shnaider,True,Diana Shnaider,polyus,0.29,Mirra Andreeva,kalshi,0.68,0.9995,0.0,0.0,0,0.0,0.33,0.72,1.0795,0.0,2026-11-13T20:28:46+00:00
+2026-11-13T20:28:56+00:00,andreeva v shnaider,True,Diana Shnaider,polyus,0.29,Mirra Andreeva,kalshi,0.68,0.9995,16431.87,0.0,0,0.0,0.29,0.72,1.0384,0.0,2026-11-13T20:28:46+00:00
