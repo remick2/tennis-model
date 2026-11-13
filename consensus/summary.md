@@ -1,4 +1,4 @@
-# Consensus paper tracker — Thu Nov 12, 7:40PM MT
+# Consensus paper tracker — Thu Nov 12, 8:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,10 +10,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 0 |
 | 2 agree | all 15 | 8-9 | -2.46 | 15-12 | -1.65 | 4 |
-| 2+ agree, 1+ against (split) | all 15 | 17-9 | +6.20 | 15-11 | -0.97 | 3 |
+| 2+ agree, 1+ against (split) | all 15 | 17-9 | +6.20 | 16-12 | -1.15 | 1 |
 | 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 0 |
 | 2 agree | core 10 only | 5-3 | +0.74 | 6-3 | -0.54 | 4 |
-| 2+ agree, 1+ against (split) | core 10 only | 4-3 | +0.12 | 6-4 | -0.39 | 2 |
+| 2+ agree, 1+ against (split) | core 10 only | 4-3 | +0.12 | 7-5 | -0.57 | 0 |
 
 **By price** (new roster, pre-game, graded):
 
@@ -67,8 +67,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-12 | NFL | Commanders vs. Giants | Giants (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; ic4cream | — | 55.5c |
 | new | 2026-11-12 | NBA | Hornets vs. Suns | Suns (Moneyline) | 2 agree, 0 against | pre-game | purplegatto; jakepaulthegoat2008 | — | 66.5c |
-| new | 2026-11-12 | NBA | Pistons vs. Wizards | Wizards (+10.5) (Spread) | 2 agree, 2 against | in-play | monkeymashingkeyboard; 0x9f15613e | jakepaulthegoat2008; purplegatto | 55.0c |
-| new | 2026-11-12 | NBA | Pistons vs. Wizards | Pistons (-10.5) (Spread) | 2 agree, 2 against | in-play | purplegatto; jakepaulthegoat2008 | 0x9f15613e; monkeymashingkeyboard | 45.0c |
 | new | 2026-11-12 | NFL | Commanders vs. Giants | Giants (-2.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; BreakTheBank | — | 47.5c |
 | new | 2026-11-12 | NFL | Commanders vs. Giants | Commanders (+1.5) (Spread) | 2 agree, 1 against | in-play | purplegatto; 0xb4F978BE | BreakTheBank | 52.5c |
 | new | 2026-11-12 | CFB | Memphis vs. South Florida | Memphis (Moneyline) | 2 agree, 0 against | in-play | 0xb4F978BE; 999585 | — | 94.5c |
