@@ -87,6 +87,12 @@ def main():
     bot_reads = float(num(cyc, "poly_reads").sum())
     unverified = bool(bot_reads and unknown > 0.5 * bot_reads)   # no Last-Modified header: freshness can't be checked
     feed_ok = stale_pct < 5 and not unverified
+    # coverage: could the bot actually see? (Polymarket US rate-limits book reads; lists can fail)
+    cands, no_book = float(num(cyc, "cands").sum()), float(num(cyc, "no_book").sum())
+    limited = float(num(cyc, "poly_limited").sum() + num(scans, "poly_limited").sum())
+    list_fail, cycles = float(num(cyc, "list_fail").sum()), float(num(cyc, "cycles").sum())
+    checks, mism = float(num(cyc, "list_checks").sum()), float(num(cyc, "list_mismatch").sum())
+    blind = bool(cands and no_book > 0.3 * cands) or bool(cycles and list_fail > 0.1 * cycles)
 
     # 4) maker-quote paper test
     mp = num(maker, "pnl").dropna()
@@ -122,6 +128,15 @@ def main():
          f"| Paper bot: simulated profit on traded fires | ${sim:+.2f} | > $0 |",
          f"| Paper bot: fires still fillable 1s later | {'n/a' if alive1 != alive1 else f'{alive1:.0%}'} | - |",
          f"| Polymarket US reads refused as stale | {stale_pct:.1f}% (oldest {max_age:.0f}s) | < 5% |", ""]
+    L += [f"Coverage: {int(cands)} candidate checks (list prices showed an arb), {int(no_book)} got no Polymarket US "
+          f"book; {int(limited)} rate-limit hits; {int(list_fail)} failed list refreshes in {int(cycles):,} cycles; "
+          f"list vs book disagreed on {int(mism)} of {int(checks)} checks.", ""]
+    if blind:
+        L += ["**COVERAGE WARNING: the bot is missing too many Polymarket US reads to trust a 'no arbs' result. "
+              "Run the feed-diagnostics workflow (diag.yml) and fix the read budget in arbscan.py.**", ""]
+    if checks >= 10 and mism > 0.3 * checks:
+        L += ["**DATA WARNING: Polymarket US list prices disagree with its order book too often; candidates from "
+              "the list can't be trusted. Investigate before believing any result.**", ""]
     if unverified:
         L += ["**DATA WARNING: Polymarket US stopped sending the header the freshness check uses, so freshness is "
               "UNVERIFIED and nothing can pass. Fix arbscan.polyus_book before trusting any arb.**", ""]

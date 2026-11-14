@@ -41,6 +41,9 @@ def run(seq):
         i = min(n[v], len(seq[v]) - 1); n[v] += 1
         return seq[v][i], 0.01
     B.read_book = rb
+    B.CAND_COOL.clear()
+    B.poly_tops = lambda max_age=1.0: None           # list prices: fixed below (no network)
+    B.TOPS["d"] = {"S": (0.50, 0.52)}                # Polymarket US best bid/ask for outcome 0, as in P_OK
     L = {"started": "x", "cash": dict(B.START_CASH), "open": [], "settled_pnl": 0, "unwind_pnl": 0, "fires": 0, "settled": 0}
     B.time.sleep = lambda s: None   # skip the +1s/+3s waits
     f, best, _ = B.cycle({"a v b": MATCH}, L, B.Consumed(), POOL)
@@ -61,6 +64,21 @@ check("Polymarket US blank => nothing bought, no cash spent", r["filled_a"] == r
 check("...while both-at-once would have been stuck with the Kalshi leg", r["both_filled_a"] > 0 and r["both_filled_b"] == 0)
 r, L = run({"kalshi": [K_OK, K_OK, K_GONE], "polyus": [P_OK]})
 check("Kalshi gone after Polymarket US filled => unwind at a loss, nothing left open", r["unwound"] > 0 and r["unwind_pnl"] < 0 and r["naked"] == 0 and not L["open"])
+
+B.TOPS["d"] = {"S": (0.50, 0.52)}
+B.read_book = lambda v, b: ((K_OK, 0.01) if v == "kalshi" else (None, 0.01))
+L0 = {"started": "x", "cash": dict(B.START_CASH), "open": [], "settled_pnl": 0, "unwind_pnl": 0, "fires": 0, "settled": 0}
+B.CYCLE_STATS.update(cands=0, no_book=0)
+B.CAND_COOL.clear()
+f0, _, _ = B.cycle({"a v b": MATCH}, L0, B.Consumed(), POOL)
+check("list price shows an arb but no Polymarket US book comes back (rate limit) => no fire, counted", not f0 and B.CYCLE_STATS["no_book"] == 1)
+f0, _, _ = B.cycle({"a v b": MATCH}, L0, B.Consumed(), POOL)
+check("...and the same match isn't re-checked for 4s (book reads are scarce)", B.CYCLE_STATS["cands"] == 1)
+
+# --- rate budget: the token bucket never lets a burst through
+A._BUCKET.update(tokens=4.0, t=A.time.time(), blocked_until=0.0)
+check("token bucket allows a burst of 4 book reads, then refuses", [A._take_token() for _ in range(6)] == [True] * 4 + [False] * 2)
+A._BUCKET.update(tokens=4.0, t=A.time.time(), blocked_until=0.0)
 
 # --- settlement pays the winning leg's venue
 L = {"cash": {"kalshi": 0.0, "polyus": 0.0}, "settled_pnl": 0, "settled": 0,
@@ -108,6 +126,7 @@ class R:
 class S:
     def __init__(self, age): self.age = age
     def get(self, *a, **k): return R(self.age)
+A._BUCKET.update(tokens=4.0, t=A.time.time(), blocked_until=0.0)
 check("fresh Polymarket US book is accepted", A.polyus_book("s", session=S(1))[0] is not None)
 check("Polymarket US book older than POLY_MAX_AGE is refused", A.polyus_book("s", session=S(9))[0] is None and A.POLY_STATS["stale"] >= 1)
 print("all checks passed")

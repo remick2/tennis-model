@@ -19,6 +19,9 @@ How a quote is simulated (per match, per side, per maker venue; $QUOTE_USD each)
     overstate fills because a through-move consumes every bid at that price.
   - on a fill: hedge at the other venue's fresh ask from that same read (up to one poll interval late, so
     pessimistic vs a real bot on a websocket), or sell the filled leg back at the bid, whichever loses less.
+Polymarket US prices here are top-of-book from its league lists (book reads are rate-limited), so its sizes
+are assumed, not checked: fine for a $50 quote in markets that show thousands of shares, but a real version
+would confirm size.
 The quote is then recomputed from the fresh books. No cash limits: this measures edge per quote, not bankroll.
 Logs each fill to data/bot/<day>_<run>_maker.csv. Nothing here places an order.
 """

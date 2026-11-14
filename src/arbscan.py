@@ -21,6 +21,7 @@ import argparse
 import json
 import os
 import subprocess
+import threading
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -57,7 +58,25 @@ def fresh():
 
 
 POLY_MAX_AGE = 3.0   # seconds: a Polymarket US book snapshot older than this is refused (treated as no data)
-POLY_STATS = {"reads": 0, "stale": 0, "unknown": 0, "max_age": 0.0}
+POLY_STATS = {"reads": 0, "stale": 0, "unknown": 0, "max_age": 0.0, "limited": 0, "skipped": 0, "fail": 0}
+# Polymarket US limits BOOK reads to about 5 per 10 seconds per IP (cached or not) and answers a breach with
+# HTTP 429 + a 10-second lockout (measured Nov 14 with src/diag.py). Its league LISTS (best bid/ask of every
+# market) are not limited and are current. So: prices come from the lists; a book read is spent only on a real
+# candidate, through this token bucket (1 read per 2.6s, burst of 4).
+_BUCKET = {"tokens": 4.0, "t": time.time(), "blocked_until": 0.0}
+_BUCKET_LOCK = threading.Lock()
+BUCKET_RATE, BUCKET_CAP = 1 / 2.6, 4.0
+
+
+def _take_token():
+    with _BUCKET_LOCK:
+        now = time.time()
+        _BUCKET["tokens"] = min(BUCKET_CAP, _BUCKET["tokens"] + (now - _BUCKET["t"]) * BUCKET_RATE)
+        _BUCKET["t"] = now
+        if now < _BUCKET["blocked_until"] or _BUCKET["tokens"] < 1:
+            return False
+        _BUCKET["tokens"] -= 1
+        return True
 
 
 def _age(headers):
@@ -70,13 +89,26 @@ def _age(headers):
 
 
 def polyus_book(slug, timeout=20, session=None):
-    """Polymarket US order book, uncached, with a freshness guard. Returns (marketData or None, age_secs).
-    Every Polymarket US book read in this project must go through here: a stale book next to a live Kalshi
-    book manufactures arbs (the Nov 8-14 mistake). If the cache-buster ever stops working the guard returns
-    None, POLY_STATS['stale'] climbs, and gate.py / the bot raise it instead of logging phantom arbs."""
+    """Polymarket US order book, uncached, with a freshness guard and a rate budget. Returns (marketData or
+    None, age_secs). Every Polymarket US book read in this project must go through here: a stale book next to
+    a live Kalshi book manufactures arbs (the Nov 8-14 mistake). None means "no usable data": out of budget
+    (skipped), rate-limited (limited), stale, or failed; POLY_STATS counts each so thin coverage is visible."""
+    if not _take_token():
+        POLY_STATS["skipped"] += 1
+        return None, None
     try:
         r = (session or S).get(f"{POLYUS}/v1/markets/{slug}/book", params={"_": fresh()}, timeout=timeout)
+        if r.status_code == 429:
+            POLY_STATS["limited"] += 1
+            try:
+                wait = float(r.headers.get("retry-after") or 10)
+            except ValueError:
+                wait = 10.0
+            with _BUCKET_LOCK:
+                _BUCKET["tokens"], _BUCKET["blocked_until"] = 0.0, time.time() + wait
+            return None, None
         if r.status_code != 200:
+            POLY_STATS["fail"] += 1
             return None, None
         age = _age(r.headers)
         POLY_STATS["reads"] += 1
@@ -89,7 +121,32 @@ def polyus_book(slug, timeout=20, session=None):
                 return None, age
         return r.json().get("marketData"), age
     except (requests.RequestException, ValueError):
+        POLY_STATS["fail"] += 1
         return None, None
+
+
+def polyus_tops(timeout=5, session=None):
+    """Best bid/ask of outcome 0 for every open tennis match market, from the two league lists (not rate
+    limited, current: agreed with the uncached book on 8 of 8 paired reads on Nov 14). {slug: (bid, ask)}.
+    Returns None if either list fails, so a caller never mixes a new list with an old one."""
+    out = {}
+    for lg in ("atp", "wta"):
+        try:
+            r = (session or S).get(f"{POLYUS}/v2/leagues/{lg}/events", params={"limit": 500, "_": fresh()}, timeout=timeout)
+            if r.status_code != 200:
+                return None
+            for e in r.json().get("events", []):
+                if e.get("closed") or e.get("ended"):
+                    continue
+                for m in e.get("markets", []):
+                    if m.get("sportsMarketType") != "tennis_match_winner" or m.get("closed"):
+                        continue
+                    bq, aq = m.get("bestBidQuote") or {}, m.get("bestAskQuote") or {}
+                    if bq.get("value") and aq.get("value"):
+                        out[m["slug"]] = (float(bq["value"]), float(aq["value"]))
+        except (requests.RequestException, ValueError):
+            return None
+    return out
 
 
 def get(url, params=None, tries=3):
@@ -283,7 +340,15 @@ def main():
         if len(c):
             for r in c[c.total < 1.0].sort_values("total").itertuples():
                 tc = t_detect = time.time()
-                (sa, ba), (sb, bb) = depth(r.src_a, r.ref_a, r.px_a), depth(r.src_b, r.ref_b, r.px_b)
+                # Kalshi leg first (its book isn't rate-limited). The scanner detects from Kalshi's market list,
+                # which lags up to 15s; if the fresh Kalshi book has nothing at that price the combo is a
+                # phantom, and a scarce Polymarket US book read isn't spent on it.
+                legs = {"a": (r.src_a, r.ref_a, r.px_a), "b": (r.src_b, r.ref_b, r.px_b)}
+                first = "a" if r.src_a == "kalshi" else "b"
+                second = "b" if first == "a" else "a"
+                res = {first: depth(*legs[first])}
+                res[second] = depth(*legs[second]) if (res[first][0] or 0) > 0 else (0.0, None)
+                (sa, ba), (sb, bb) = res["a"], res["b"]
                 tc = round(time.time() - tc, 1)
                 book_total = (round(ba + FEE[r.src_a] * ba * (1 - ba) + bb + FEE[r.src_b] * bb * (1 - bb), 4)
                               if ba is not None and bb is not None else None)
@@ -340,7 +405,8 @@ def main():
                                "min_minutes": round((pd.Timestamp(last) - pd.Timestamp(first)).total_seconds() / 60, 1)})
         summ["arbs_under_1"] = len(found)
         summ["poly_reads"], summ["poly_stale"], summ["poly_max_age"] = POLY_STATS["reads"], POLY_STATS["stale"], POLY_STATS["max_age"]
-        POLY_STATS.update(reads=0, stale=0, unknown=0, max_age=0.0)
+        summ["poly_limited"], summ["poly_skipped"], summ["poly_fail"] = POLY_STATS["limited"], POLY_STATS["skipped"], POLY_STATS["fail"]
+        POLY_STATS.update(reads=0, stale=0, unknown=0, max_age=0.0, limited=0, skipped=0, fail=0)
         log(OUT / f"{day}_{RUN}_scans.csv", [summ])
         log(OUT / f"{day}_{RUN}_arbs.csv", found)
         log(OUT / f"{day}_{RUN}_lifetimes.csv", closed)

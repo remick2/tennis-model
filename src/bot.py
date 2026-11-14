@@ -1,8 +1,9 @@
 """DRY-RUN arbitrage bot: Kalshi + Polymarket US. Places NO real orders and holds no keys.
 
-What it does, every ~2s, for the matches most likely to arb (every live match on both venues,
-plus pre-match ones within 2c of an arb):
-  1. reads all order books at once (Kalshi: both players' tickers; Polymarket US: the match book)
+What it does, every ~2s, for every match on both venues (live and near-arb ones every cycle, the rest in turn):
+  1. reads Kalshi's order books (both players' tickers) and Polymarket US's best bid/ask from its league
+     lists. Polymarket US allows only ~5 BOOK reads per 10s per IP, so a real book read is spent only when
+     the list price shows a candidate, to get true sizes before any fire
   2. for every cross-venue way to hold both players (Kalshi YES on A / NO on B's ticker, Polymarket US
      long / short), walks both ladders together, buying pairs while each extra pair costs < $1 after fees,
      capped by the paper cash sitting on each venue
@@ -51,7 +52,7 @@ MIN_EDGE = 0.001         # every marginal pair must clear $1 by at least 0.1c
 MAX_MATCHES = 8          # "hot" matches read every cycle (live, or within 2c of an arb by list prices)
 COLD_PER_CYCLE = 2       # plus this many other matched matches per cycle, round-robin (pre-match coverage + maker test)
                          # => at most ~20 Kalshi + 10 Polymarket US book reads per cycle: inside both rate limits
-CYCLE_STATS = {"best_exec": None}   # best executable profit seen this cycle, even below MIN_PROFIT
+CYCLE_STATS = {"best_exec": None, "cands": 0, "no_book": 0, "list_fail": 0, "list_checks": 0, "list_mismatch": 0}
 REFRESH = 60             # seconds between full market-list refreshes
 CONSUME_SECS = 120       # how long liquidity we "took" stays out of later book reads
 RUN = os.environ.get("GITHUB_RUN_ID", "local")
@@ -104,10 +105,55 @@ def read_book(venue, book_id):
                   "bid": sorted(((round(1 - p, 4), q) for p, q in off), reverse=True)}}, secs
 
 
+CAND_COOL = {}               # match -> time before which it isn't re-checked as a candidate
+TOPS = {"t": 0.0, "d": {}}   # Polymarket US best bid/ask per market from the league lists, and when it was read
+TOP_QTY = 1e6                # size is unknown from the lists: a real book read confirms it before any fire
+
+
+def poly_tops(max_age=1.0):
+    """Refresh the Polymarket US list prices if older than max_age seconds. On failure the old ones are dropped
+    (never trade or quote off a list we couldn't refresh)."""
+    if time.time() - TOPS["t"] > max_age:
+        d = A.polyus_tops(session=sess())
+        TOPS["d"], TOPS["t"] = (d or {}), time.time()
+        CYCLE_STATS["list_fail"] = CYCLE_STATS.get("list_fail", 0) + (d is None)
+
+
+def top_book(slug):
+    """A one-level 'book' for a Polymarket US market from the list's best bid/ask (size unknown)."""
+    t = TOPS["d"].get(slug)
+    if not t or not (0 < t[0] < t[1] < 1):
+        return None
+    bid, ask = t
+    return {"_top": True,
+            "0": {"ask": [(ask, TOP_QTY)], "bid": [(bid, TOP_QTY)]},
+            "1": {"ask": [(round(1 - bid, 4), TOP_QTY)], "bid": [(round(1 - ask, 4), TOP_QTY)]}}
+
+
+def peek(inst):
+    """Cheap re-look at one instrument: Kalshi = real book; Polymarket US = fresh list price (no book read)."""
+    if inst[0] == "kalshi":
+        return read_book(inst[0], inst[1])[0]
+    poly_tops(max_age=0.3)
+    return top_book(inst[1])
+
+
 def read_books(ids, pool):
-    """All books at once. Returns ({(venue, id): book}, slowest read in seconds)."""
-    res = list(pool.map(lambda vi: read_book(*vi), ids))
-    return {vi: b for vi, (b, _) in zip(ids, res) if b is not None}, max((s for _, s in res), default=0)
+    """Every Kalshi book (real, not rate-limited) plus Polymarket US top-of-book from the lists, all at once.
+    Returns ({(venue, id): book}, slowest read in seconds). Polymarket US BOOK reads are scarce (about 5 per
+    10s per IP), so cycle() spends one only when the list price says there is a candidate."""
+    t = time.time()
+    kal = [vi for vi in ids if vi[0] == "kalshi"]
+    fut = pool.submit(poly_tops)
+    res = list(pool.map(lambda vi: read_book(*vi), kal))
+    fut.result()
+    books = {vi: b for vi, (b, _) in zip(kal, res) if b is not None}
+    for vi in ids:
+        if vi[0] == "polyus":
+            b = top_book(vi[1])
+            if b:
+                books[vi] = b
+    return books, time.time() - t
 
 
 # ------------------------------------------------------------------ order sizing
@@ -287,44 +333,70 @@ def universe():
 
 
 # ------------------------------------------------------------------ one cycle
+def best_combo(m, books, consumed, cash):
+    """Best cross-venue way to hold both players of one match, sized against the ladders and the cash on each
+    venue. Returns (candidate or None, cheapest top-of-book pair cost or None)."""
+    (s1, l1), (s2, l2) = m["insts"].items()
+    cands, top = [], None
+    for ia in l1:
+        for ib in l2:
+            if ia[0] == ib[0]:
+                continue
+            ba, bb = books.get(ia[:2]), books.get(ib[:2])
+            if not ba or not bb:
+                continue
+            la, lb = consumed.adjust(ia, ba[ia[2]]["ask"]), consumed.adjust(ib, bb[ib[2]]["ask"])
+            if la and lb:
+                t = unit_cost(la[0][0], FEE[ia[0]]) + unit_cost(lb[0][0], FEE[ib[0]])
+                top = t if top is None else min(top, t)
+            sh, fa, fb = walk(la, lb, FEE[ia[0]], FEE[ib[0]], cash(ia[0]), cash(ib[0]))
+            if not sh:
+                continue
+            (pxa, fea), (pxb, feb) = leg_cost(fa, FEE[ia[0]]), leg_cost(fb, FEE[ib[0]])
+            cands.append((sh - pxa - fea - pxb - feb, ia, ib, sh, fa, fb, s1, s2))
+    return (max(cands, key=lambda c: c[0]) if cands else None), top
+
+
 def cycle(U, L, consumed, pool, LV=None, MS=None):
     ids = sorted({(i[0], i[1]) for m in U.values() for s in m["insts"].values() for i in s})
     books, read_secs = read_books(ids, pool)
     fires, best_total = [], None
     CYCLE_STATS["best_exec"] = None
+    cash = (lambda v: LV.cash(v)) if LV else (lambda v: min(L["cash"][v], DRY_CAP))
+    # live with a small cap can't reach $1 per arb ($25 a side at a 1c edge is ~$0.50): scale the bar to
+    # 1% of the cap (25c at $25), never above the paper bar
+    bar = min(MIN_PROFIT, 0.01 * LV.cap) if LV else MIN_PROFIT
     for key, m in U.items():
         if MS is not None:
             try:
                 MS.step(key, m, books)
             except Exception as e:   # the side test must never break the main loop
                 print("maker sim failed:", repr(e))
-        (s1, l1), (s2, l2) = m["insts"].items()
-        cands = []
-        for ia in l1:
-            for ib in l2:
-                if ia[0] == ib[0]:
-                    continue
-                ba, bb = books.get(ia[:2]), books.get(ib[:2])
-                if not ba or not bb:
-                    continue
-                la, lb = consumed.adjust(ia, ba[ia[2]]["ask"]), consumed.adjust(ib, bb[ib[2]]["ask"])
-                if la and lb:
-                    t = unit_cost(la[0][0], FEE[ia[0]]) + unit_cost(lb[0][0], FEE[ib[0]])
-                    best_total = t if best_total is None else min(best_total, t)
-                cash = (lambda v: LV.cash(v)) if LV else (lambda v: min(L["cash"][v], DRY_CAP))
-                sh, fa, fb = walk(la, lb, FEE[ia[0]], FEE[ib[0]], cash(ia[0]), cash(ib[0]))
-                if not sh:
-                    continue
-                (pxa, fea), (pxb, feb) = leg_cost(fa, FEE[ia[0]]), leg_cost(fb, FEE[ib[0]])
-                exp = sh - pxa - fea - pxb - feb
-                cands.append((exp, ia, ib, sh, fa, fb, s1, s2))
-        if not cands:
+        c, top = best_combo(m, books, consumed, cash)
+        if top is not None:
+            best_total = top if best_total is None else min(best_total, top)
+        if not c or c[0] < bar or time.time() < CAND_COOL.get(key, 0):
             continue
-        exp, ia, ib, sh, fa, fb, sa, sb = max(cands, key=lambda c: c[0])
+        CAND_COOL[key] = time.time() + 4   # at most one candidate check per match per 4s: book reads are scarce
+        # The list price says there's an arb. Spend one real Polymarket US book read to get true sizes, then
+        # decide again on the real ladder.
+        CYCLE_STATS["cands"] += 1
+        p_inst = c[1] if c[1][0] == "polyus" else c[2]
+        real, _ = read_book("polyus", p_inst[1])
+        if real is None:
+            CYCLE_STATS["no_book"] += 1   # out of budget, rate-limited, stale or failed: no fire without sizes
+            continue
+        listed = books[p_inst[:2]]
+        CYCLE_STATS["list_checks"] += 1   # free two-source check: does the list agree with the uncached book?
+        if (not real["0"]["ask"] or not real["0"]["bid"] or abs(real["0"]["ask"][0][0] - listed["0"]["ask"][0][0]) > 0.0051
+                or abs(real["0"]["bid"][0][0] - listed["0"]["bid"][0][0]) > 0.0051):
+            CYCLE_STATS["list_mismatch"] += 1
+        c, _ = best_combo(m, {**books, p_inst[:2]: real}, consumed, cash)
+        if not c:
+            continue
+        exp, ia, ib, sh, fa, fb, sa, sb = c
         CYCLE_STATS["best_exec"] = exp if CYCLE_STATS["best_exec"] is None else max(CYCLE_STATS["best_exec"], exp)
-        # live with a small cap can't reach $1 per arb ($25 a side at a 1c edge is ~$0.50): scale the bar to
-        # 1% of the cap (25c at $25), never above the paper bar
-        if exp < (min(MIN_PROFIT, 0.01 * LV.cap) if LV else MIN_PROFIT):
+        if exp < bar:
             continue
         if LV:
             if time.time() < LV.cooldown.get(key, 0):
@@ -432,6 +504,7 @@ def fire(key, m, L, consumed, pool, exp, ia, ib, sh, fa, fb, sa, sb, read_secs):
            "both_filled_a": what_if["filled_a"], "both_filled_b": what_if["filled_b"],
            "both_profit": what_if["profit"] if what_if["profit"] is not None else "",
            "read_secs": round(read_secs, 3), "fill_secs": round(fill_secs, 3), "kalshi_after_secs": round(seq_secs, 3),
+           "fill_book_ok": p_book is not None,   # False = the fill check got no Polymarket US book (budget/limit): fill unknown, counted as 0
            "order_a": json.dumps(pay_a), "order_b": json.dumps(pay_b),
            "chase_order": json.dumps(chase_order) if chase_order else ""}
     # how long did it really last? (fresh books, untouched by our paper fills). Tells whether a faster feed
@@ -439,7 +512,7 @@ def fire(key, m, L, consumed, pool, exp, ia, ib, sh, fa, fb, sa, sb, read_secs):
     t_fire = time.time()
     for lag in (1, 3):
         time.sleep(max(0.0, t_fire + lag - time.time()))
-        (b1, _), (b2, _) = pool.map(lambda inst: read_book(inst[0], inst[1]), [ia, ib])
+        b1, b2 = pool.map(peek, [ia, ib])   # Kalshi: real book; Polymarket US: list price (no scarce book read)
         rec[f"alive_{lag}s"] = bool(b1 and b2 and sum(q for _, q in take(b1[ia[2]]["ask"], lim_a, sh)) >= sh
                                     and sum(q for _, q in take(b2[ib[2]]["ask"], lim_b, sh)) >= sh)
     print(f"FIRE {key}: {sh} pairs, expect ${exp:.2f}; polyus-first filled {o['filled_a']}/{o['filled_b']} -> "
@@ -648,14 +721,21 @@ def main():
                 "best_exec": round(max((s[3] for s in stats if s[3] is not None), default=float("nan")), 2),  # best $ a fire would net
                 "poly_reads": A.POLY_STATS["reads"], "poly_stale": A.POLY_STATS["stale"],
                 "poly_unknown_age": A.POLY_STATS["unknown"], "poly_max_age": A.POLY_STATS["max_age"],
+                "poly_limited": A.POLY_STATS["limited"], "poly_skipped": A.POLY_STATS["skipped"],
+                "poly_fail": A.POLY_STATS["fail"],
+                "cands": CYCLE_STATS["cands"],            # cycles where list prices showed an arb worth a book read
+                "no_book": CYCLE_STATS["no_book"],        # ...but no usable Polymarket US book came back
+                "list_fail": CYCLE_STATS["list_fail"],    # Polymarket US list refreshes that failed
+                "list_checks": CYCLE_STATS["list_checks"], "list_mismatch": CYCLE_STATS["list_mismatch"],
                 "maker_quote_reads": MS.posted}])
-            if A.POLY_STATS["reads"] >= 20 and A.POLY_STATS["stale"] > 0.2 * A.POLY_STATS["reads"] and not stale_alerted:
+            CYCLE_STATS.update(cands=0, no_book=0, list_fail=0, list_checks=0, list_mismatch=0)
+            if A.POLY_STATS["reads"] >= 5 and A.POLY_STATS["stale"] > 0.2 * A.POLY_STATS["reads"] and not stale_alerted:
                 stale_alerted = True
                 LIVE.issue("DATA PROBLEM: Polymarket US feed is stale again",
                            f"{A.POLY_STATS['stale']} of {A.POLY_STATS['reads']} Polymarket US book reads in the last minute "
                            f"were older than {A.POLY_STATS['max_age']:.0f}s (limit {A.POLY_MAX_AGE:.0f}s). Stale books are "
                            "refused, so nothing is being counted, but the cache-buster in arbscan.polyus_book needs a look.")
-            A.POLY_STATS.update(reads=0, stale=0, unknown=0, max_age=0.0); MS.posted = 0
+            A.POLY_STATS.update(reads=0, stale=0, unknown=0, max_age=0.0, limited=0, skipped=0, fail=0); MS.posted = 0
             stats = []
         if time.time() - last_settle > 300:
             settle(L); rebalance(L); save_ledger(L); last_settle = time.time()
