@@ -76,3 +76,40 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-14T00:23:57+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.34,Nikolas Sanchez Izquierdo,kalshi,0.58,0.9526,62943.87,0.0,0,0.0,0.34,0.67,1.0411,0.1,2026-11-14T00:23:57+00:00
 2026-11-14T00:24:07+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.34,Nikolas Sanchez Izquierdo,kalshi,0.58,0.9526,62943.87,0.0,0,0.0,0.34,0.67,1.0411,0.1,2026-11-14T00:23:57+00:00
 2026-11-14T00:24:17+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.34,Nikolas Sanchez Izquierdo,kalshi,0.58,0.9526,62943.87,0.0,0,0.0,0.34,0.67,1.0411,0.1,2026-11-14T00:23:57+00:00
+2026-11-14T00:26:07+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.26,Nikolas Sanchez Izquierdo,kalshi,0.7,0.9881,0.0,0.0,0,0.0,0.3,0.75,1.0777,0.1,2026-11-14T00:26:07+00:00
+2026-11-14T00:26:17+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.26,Nikolas Sanchez Izquierdo,kalshi,0.7,0.9881,0.0,0.0,0,0.0,0.3,0.75,1.0777,0.1,2026-11-14T00:26:07+00:00
+2026-11-14T00:26:27+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.26,Nikolas Sanchez Izquierdo,kalshi,0.7,0.9881,43539.55,0.0,0,0.0,0.26,0.75,1.0365,0.1,2026-11-14T00:26:07+00:00
+2026-11-14T00:29:57+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.27,Nikolas Sanchez Izquierdo,kalshi,0.69,0.9887,0.0,0.0,0,0.0,0.29,0.74,1.0578,0.1,2026-11-14T00:29:57+00:00
+2026-11-14T00:30:07+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.27,Nikolas Sanchez Izquierdo,kalshi,0.69,0.9887,0.0,0.0,0,0.0,0.29,0.74,1.0578,0.2,2026-11-14T00:29:57+00:00
+2026-11-14T00:30:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.2,Nikolas Sanchez Izquierdo,kalshi,0.74,0.9646,0.0,0.0,0,0.0,0.28,0.81,1.1148,0.1,2026-11-14T00:30:37+00:00
+2026-11-14T00:30:57+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.2,Nikolas Sanchez Izquierdo,polyus,0.75,0.9742,0.0,0.0,0,0.0,0.26,0.84,1.1228,0.1,2026-11-14T00:30:57+00:00
+2026-11-14T00:31:07+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.2,Nikolas Sanchez Izquierdo,polyus,0.75,0.9742,0.0,0.0,0,0.0,0.26,0.84,1.1228,0.1,2026-11-14T00:30:57+00:00
+2026-11-14T00:31:17+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.2,Nikolas Sanchez Izquierdo,polyus,0.75,0.9742,0.0,0.0,0,0.0,0.27,0.84,1.1331,0.1,2026-11-14T00:30:57+00:00
+2026-11-14T00:31:27+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.2,Nikolas Sanchez Izquierdo,polyus,0.7,0.9258,0.0,41131.64,0,0.0,0.31,0.7,1.0396,0.1,2026-11-14T00:30:57+00:00
+2026-11-14T00:31:37+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.27,Nikolas Sanchez Izquierdo,polyus,0.7,0.9984,0.0,41131.64,0,0.0,0.31,0.7,1.0396,0.1,2026-11-14T00:30:57+00:00
+2026-11-14T00:31:47+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.27,Nikolas Sanchez Izquierdo,polyus,0.67,0.9692,0.0,0.0,0,0.0,0.35,0.7,1.0805,0.1,2026-11-14T00:30:57+00:00
+2026-11-14T00:31:57+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.27,Nikolas Sanchez Izquierdo,polyus,0.66,0.9594,0.0,53231.15,0,0.0,0.35,0.66,1.0415,0.1,2026-11-14T00:30:57+00:00
+2026-11-14T00:32:57+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.35,Nikolas Sanchez Izquierdo,polyus,0.6,0.9826,0.0,53360.89,0,0.0,0.41,0.6,1.0436,0.1,2026-11-14T00:32:57+00:00
+2026-11-14T00:33:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.36,Nikolas Sanchez Izquierdo,kalshi,0.58,0.9731,0.0,0.0,0,0.0,0.42,0.65,1.1029,0.1,2026-11-14T00:33:37+00:00
+2026-11-14T00:33:47+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.36,Nikolas Sanchez Izquierdo,kalshi,0.58,0.9731,0.0,0.0,0,0.0,0.42,0.65,1.1029,0.1,2026-11-14T00:33:37+00:00
+2026-11-14T00:33:57+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.36,Nikolas Sanchez Izquierdo,kalshi,0.58,0.9731,0.01,0.0,0,0.0,0.36,0.66,1.0517,0.1,2026-11-14T00:33:37+00:00
+2026-11-14T00:34:07+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.36,Nikolas Sanchez Izquierdo,kalshi,0.58,0.9731,0.01,0.0,0,0.0,0.36,0.66,1.0517,0.1,2026-11-14T00:33:37+00:00
+2026-11-14T00:35:27+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.28,Nikolas Sanchez Izquierdo,kalshi,0.69,0.999,50749.07,0.0,0,0.0,0.28,0.73,1.0378,0.2,2026-11-14T00:35:27+00:00
+2026-11-14T00:35:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.28,Nikolas Sanchez Izquierdo,kalshi,0.69,0.999,50749.07,0.0,0,0.0,0.28,0.73,1.0378,0.1,2026-11-14T00:35:27+00:00
+2026-11-14T00:36:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.27,Nikolas Sanchez Izquierdo,kalshi,0.7,0.9984,0.0,0.0,0,0.0,0.32,0.74,1.0886,0.1,2026-11-14T00:36:37+00:00
+2026-11-14T00:37:27+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.83,Stefan Kozlov,polyus,0.14,0.9882,0.0,0.0,0,0.0,0.87,0.18,1.0682,0.1,2026-11-14T00:37:27+00:00
+2026-11-14T00:37:37+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.83,Stefan Kozlov,polyus,0.14,0.9882,0.0,47434.89,0,0.0,0.87,0.14,1.0263,0.1,2026-11-14T00:37:27+00:00
+2026-11-14T00:37:47+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.83,Stefan Kozlov,polyus,0.14,0.9882,0.0,47434.89,0,0.0,0.87,0.14,1.0263,0.2,2026-11-14T00:37:27+00:00
+2026-11-14T00:37:57+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.83,Stefan Kozlov,polyus,0.14,0.9882,0.0,47434.89,0,0.0,0.89,0.14,1.0452,0.1,2026-11-14T00:37:27+00:00
+2026-11-14T00:38:27+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.27,Nikolas Sanchez Izquierdo,polyus,0.7,0.9984,0.0,34820.11,0,0.0,0.31,0.7,1.0396,0.2,2026-11-14T00:38:27+00:00
+2026-11-14T00:38:37+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.27,Nikolas Sanchez Izquierdo,polyus,0.7,0.9984,0.0,34820.11,0,0.0,0.31,0.7,1.0396,0.1,2026-11-14T00:38:27+00:00
+2026-11-14T00:38:57+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.81,Stefan Kozlov,kalshi,0.16,0.9901,0.0,0.0,0,0.0,0.86,0.2,1.0796,0.1,2026-11-14T00:38:57+00:00
+2026-11-14T00:39:07+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.27,Nikolas Sanchez Izquierdo,polyus,0.7,0.9984,0.0,0.0,0,0.0,0.31,0.74,1.0783,0.1,2026-11-14T00:39:07+00:00
+2026-11-14T00:39:17+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.27,Nikolas Sanchez Izquierdo,polyus,0.7,0.9984,0.0,0.0,0,0.0,0.31,0.74,1.0783,0.2,2026-11-14T00:39:07+00:00
+2026-11-14T00:39:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.27,Nikolas Sanchez Izquierdo,kalshi,0.7,0.9984,0.0,0.0,0,0.0,0.34,0.74,1.1091,0.1,2026-11-14T00:39:37+00:00
+2026-11-14T00:39:47+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.27,Nikolas Sanchez Izquierdo,kalshi,0.7,0.9984,0.0,0.0,0,0.0,0.34,0.74,1.1091,0.1,2026-11-14T00:39:37+00:00
+2026-11-14T00:39:57+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.27,Nikolas Sanchez Izquierdo,kalshi,0.7,0.9984,0.0,0.0,0,0.0,0.34,0.75,1.1187,0.1,2026-11-14T00:39:37+00:00
+2026-11-14T00:40:07+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.19,Nikolas Sanchez Izquierdo,kalshi,0.7,0.9154,0.0,0.0,0,0.0,0.27,0.82,1.114,0.1,2026-11-14T00:39:37+00:00
+2026-11-14T00:40:17+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.19,Nikolas Sanchez Izquierdo,kalshi,0.75,0.9638,0.0,0.0,0,0.0,0.27,0.83,1.1236,0.1,2026-11-14T00:39:37+00:00
+2026-11-14T00:40:27+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.09,Nikolas Sanchez Izquierdo,kalshi,0.75,0.8588,0.0,0.0,0,0.0,0.27,0.92,1.2089,0.1,2026-11-14T00:39:37+00:00
+2026-11-14T00:40:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.09,Nikolas Sanchez Izquierdo,kalshi,0.75,0.8588,52971.88,0.0,0,0.0,0.09,0.92,1.0208,0.1,2026-11-14T00:39:37+00:00
