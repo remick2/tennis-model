@@ -1,12 +1,66 @@
 {
  "started": "2026-11-11T22:16:09+00:00",
  "cash": {
-  "kalshi": 695.9,
-  "polyus": 0.0
+  "kalshi": 16.26,
+  "polyus": 16.26
  },
- "open": [],
+ "open": [
+  {
+   "id": "21ddffea3dd8",
+   "key": "chidekh v zheng",
+   "opened": "2026-11-14T21:07:20+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV14CHIZHE-ZHE",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 301,
+    "kalshi": 301
+   },
+   "cost": 296.43,
+   "expected": 4.57
+  },
+  {
+   "id": "1167fbe4fd53",
+   "key": "chidekh v zheng",
+   "opened": "2026-11-14T21:09:20+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV14CHIZHE-ZHE",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 259,
+    "kalshi": 259
+   },
+   "cost": 249.54,
+   "expected": 9.46
+  },
+  {
+   "id": "8108835db6c0",
+   "key": "chidekh v zheng",
+   "opened": "2026-11-14T21:10:56+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV14CHIZHE-ZHE",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 76,
+    "kalshi": 76
+   },
+   "cost": 73.85,
+   "expected": 2.15
+  },
+  {
+   "id": "f4cc54997ba8",
+   "key": "chidekh v zheng",
+   "opened": "2026-11-14T21:11:26+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV14CHIZHE-ZHE",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 53,
+    "kalshi": 53
+   },
+   "cost": 43.56,
+   "expected": 9.44
+  }
+ ],
  "settled_pnl": 5.9,
  "unwind_pnl": 0.0,
- "fires": 2,
- "settled": 2
+ "fires": 19,
+ "settled": 2,
+ "rebalances": 3
 }
