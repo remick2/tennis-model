@@ -1,0 +1,33 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-14T00:01:17+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.69,Stefan Kozlov,polyus,0.28,0.999,0.0,0.0,0,0.0,0.73,0.32,1.0789,0.2,2026-11-14T00:01:17+00:00
+2026-11-14T00:01:27+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.4,Nikolas Sanchez Izquierdo,kalshi,0.53,0.9641,0.0,0.0,0,0.0,0.47,0.61,1.114,0.1,2026-11-14T00:01:27+00:00
+2026-11-14T00:01:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.4,Nikolas Sanchez Izquierdo,kalshi,0.53,0.9641,0.0,0.0,0,0.0,0.47,0.61,1.114,0.1,2026-11-14T00:01:27+00:00
+2026-11-14T00:01:47+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.41,Nikolas Sanchez Izquierdo,kalshi,0.53,0.9742,6.01,0.0,0,0.0,0.41,0.62,1.0633,0.2,2026-11-14T00:01:27+00:00
+2026-11-14T00:01:57+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.32,Nikolas Sanchez Izquierdo,kalshi,0.61,0.9618,0.0,0.0,0,0.0,0.41,0.69,1.1318,0.2,2026-11-14T00:01:27+00:00
+2026-11-14T00:02:07+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.32,Nikolas Sanchez Izquierdo,kalshi,0.61,0.9618,0.0,0.0,0,0.0,0.41,0.69,1.1318,0.1,2026-11-14T00:01:27+00:00
+2026-11-14T00:02:17+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.32,Nikolas Sanchez Izquierdo,kalshi,0.61,0.9618,47509.98,0.0,0,0.0,0.32,0.69,1.0401,0.2,2026-11-14T00:01:27+00:00
+2026-11-14T00:02:37+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.7,Stefan Kozlov,polyus,0.26,0.9881,0.0,0.0,0,0.0,0.75,0.31,1.088,0.1,2026-11-14T00:02:37+00:00
+2026-11-14T00:02:47+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.7,Stefan Kozlov,polyus,0.26,0.9881,0.0,0.0,0,0.0,0.75,0.31,1.088,0.1,2026-11-14T00:02:37+00:00
+2026-11-14T00:03:37+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.72,Stefan Kozlov,kalshi,0.25,0.9971,0.0,0.0,0,0.0,0.76,0.29,1.0771,0.1,2026-11-14T00:03:37+00:00
+2026-11-14T00:03:47+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.72,Stefan Kozlov,kalshi,0.25,0.9971,0.0,0.0,0,0.0,0.76,0.29,1.0771,0.1,2026-11-14T00:03:37+00:00
+2026-11-14T00:03:57+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.72,Stefan Kozlov,kalshi,0.25,0.9971,43979.93,0.0,0,0.0,0.72,0.29,1.0384,0.1,2026-11-14T00:03:37+00:00
+2026-11-14T00:04:17+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.67,Stefan Kozlov,kalshi,0.29,0.9898,0.0,0.0,0,0.0,0.72,0.34,1.0897,0.1,2026-11-14T00:04:17+00:00
+2026-11-14T00:04:27+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.67,Stefan Kozlov,kalshi,0.29,0.9898,50543.81,0.0,0,0.0,0.67,0.34,1.0411,0.1,2026-11-14T00:04:17+00:00
+2026-11-14T00:04:37+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.67,Stefan Kozlov,kalshi,0.29,0.9898,50543.81,0.0,0,0.0,0.67,0.34,1.0411,0.1,2026-11-14T00:04:17+00:00
+2026-11-14T00:04:57+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.39,Nikolas Sanchez Izquierdo,polyus,0.56,0.9838,0.0,0.0,0,0.0,0.45,0.61,1.0939,0.2,2026-11-14T00:04:57+00:00
+2026-11-14T00:05:07+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.39,Nikolas Sanchez Izquierdo,polyus,0.55,0.9739,0.0,0.0,0,0.0,0.45,0.61,1.0939,0.1,2026-11-14T00:04:57+00:00
+2026-11-14T00:05:17+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.67,Stefan Kozlov,kalshi,0.29,0.9898,0.0,0.0,0,0.0,0.71,0.34,1.08,0.2,2026-11-14T00:05:17+00:00
+2026-11-14T00:05:27+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.67,Stefan Kozlov,kalshi,0.29,0.9898,50683.47,0.0,0,0.0,0.67,0.34,1.0411,0.1,2026-11-14T00:05:17+00:00
+2026-11-14T00:05:37+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.67,Stefan Kozlov,kalshi,0.29,0.9898,50683.47,0.0,0,0.0,0.67,0.34,1.0411,0.1,2026-11-14T00:05:17+00:00
+2026-11-14T00:06:07+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.43,Nikolas Sanchez Izquierdo,polyus,0.51,0.9745,0.0,0.0,0,0.0,0.49,0.58,1.1044,0.2,2026-11-14T00:06:07+00:00
+2026-11-14T00:06:07+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.67,Stefan Kozlov,polyus,0.29,0.9898,0.0,0.0,0,0.0,0.72,0.3,1.0487,0.1,2026-11-14T00:06:07+00:00
+2026-11-14T00:06:37+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.67,Stefan Kozlov,kalshi,0.29,0.9898,0.0,0.0,0,0.0,0.74,0.34,1.1091,0.1,2026-11-14T00:06:37+00:00
+2026-11-14T00:06:47+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.67,Stefan Kozlov,kalshi,0.29,0.9898,0.0,0.0,0,0.0,0.74,0.34,1.1091,0.1,2026-11-14T00:06:37+00:00
+2026-11-14T00:06:57+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.67,Stefan Kozlov,kalshi,0.29,0.9898,51521.69,0.0,0,0.0,0.67,0.34,1.0411,0.2,2026-11-14T00:06:37+00:00
+2026-11-14T00:07:37+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.68,Stefan Kozlov,polyus,0.29,0.9995,0.0,0.0,0,0.0,0.72,0.35,1.0999,0.1,2026-11-14T00:07:37+00:00
+2026-11-14T00:07:47+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.68,Stefan Kozlov,polyus,0.29,0.9995,0.0,0.0,0,0.0,0.72,0.35,1.0999,0.1,2026-11-14T00:07:37+00:00
+2026-11-14T00:07:57+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.68,Stefan Kozlov,polyus,0.29,0.9995,0.0,27145.46,0,0.0,0.72,0.29,1.0384,0.1,2026-11-14T00:07:37+00:00
+2026-11-14T00:08:17+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.72,Stefan Kozlov,polyus,0.22,0.966,0.0,0.0,0,0.0,0.79,0.29,1.1059,0.1,2026-11-14T00:08:17+00:00
+2026-11-14T00:08:27+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.72,Stefan Kozlov,polyus,0.22,0.966,0.0,31306.72,0,0.0,0.79,0.22,1.0335,0.1,2026-11-14T00:08:17+00:00
+2026-11-14T00:09:57+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.41,Nikolas Sanchez Izquierdo,kalshi,0.48,0.9243,0.0,0.0,0,0.0,0.49,0.59,1.1143,0.1,2026-11-14T00:09:57+00:00
+2026-11-14T00:10:37+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.31,Nikolas Sanchez Izquierdo,kalshi,0.59,0.9318,0.0,0.0,0,0.0,0.39,0.7,1.1212,0.2,2026-11-14T00:10:37+00:00
