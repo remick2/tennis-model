@@ -1,7 +1,8 @@
-"""Feed diagnostics (run by .github/workflows/diag.yml, ~1 min, prints only). Reads order books the way the bot
-does (same burst size, cache-busted) and reports status codes, snapshot age and timing per venue, plus what the
-bot's own reader returns. Use it whenever book reads look thin or stale."""
+"""Feed diagnostics (run by .github/workflows/diag.yml, ~2 min, prints only). Measures what the public feeds
+allow from a GitHub runner: status codes, snapshot age, timing and rate limits. Use it whenever book reads look
+thin or stale (data/gate.md shows the share of Polymarket US reads that failed)."""
 import collections
+import json
 import time
 from concurrent.futures import ThreadPoolExecutor
 
@@ -10,38 +11,79 @@ import requests
 import arbscan as A
 import bot as B
 
-U = B.universe()
-keys = list(U)[:6]
-ids = sorted({(i[0], i[1]) for k in keys for s in U[k]["insts"].values() for i in s})
-print(f"{len(U)} matched matches; testing {len(keys)} of them = {len(ids)} books "
-      f"({sum(v == 'kalshi' for v, _ in ids)} Kalshi, {sum(v == 'polyus' for v, _ in ids)} Polymarket US)")
-pool = ThreadPoolExecutor(16)
+S = requests.Session()
 
 
-def raw(vi):
-    v, i = vi
-    url = (f"{A.KALSHI}/markets/{i}/orderbook" if v == "kalshi" else f"{A.POLYUS}/v1/markets/{i}/book?_={A.fresh()}")
+def lists():
+    out = []
+    for lg in ("atp", "wta"):
+        t = time.time()
+        try:
+            r = S.get(f"{A.POLYUS}/v2/leagues/{lg}/events", params={"limit": 500, "_": A.fresh()}, timeout=6)
+            out.append((r.status_code, round(1000 * (time.time() - t)), r.headers.get("retry-after"), len(r.content)))
+        except requests.RequestException as e:
+            out.append((type(e).__name__, 0, None, 0))
+    return out
+
+
+def book(slug, bust=True):
     t = time.time()
     try:
-        r = B.sess().get(url, timeout=4)
-        return v, r.status_code, A._age(r.headers), time.time() - t, r.headers.get("cache-control"), r.headers.get("retry-after")
+        r = S.get(f"{A.POLYUS}/v1/markets/{slug}/book", params={"_": A.fresh()} if bust else None, timeout=6)
+        return r.status_code, A._age(r.headers), round(1000 * (time.time() - t)), r.headers.get("retry-after")
     except requests.RequestException as e:
-        return v, type(e).__name__, None, time.time() - t, None, None
+        return type(e).__name__, None, 0, None
 
 
-for rnd in range(8):
-    res = list(pool.map(raw, ids))
-    for v in ("kalshi", "polyus"):
-        rs = [r for r in res if r[0] == v]
-        print(f"round {rnd} {v:7s} status {dict(collections.Counter(str(r[1]) for r in rs))} "
-              f"ages {sorted({r[2] for r in rs}, key=str)} max {1000 * max(r[3] for r in rs):.0f}ms "
-              f"cache-control {sorted({str(r[4]) for r in rs})} retry-after {sorted({str(r[5]) for r in rs})}")
+d = S.get(f"{A.POLYUS}/v2/leagues/atp/events", params={"limit": 500, "_": A.fresh()}, timeout=20).json()
+slugs = [m["slug"] for e in d.get("events", []) if not e.get("closed") and not e.get("ended")
+         for m in e.get("markets", []) if m.get("sportsMarketType") == "tennis_match_winner" and not m.get("closed")][:12]
+print(f"{len(slugs)} test markets")
+
+print("A) both league lists every 1s x 25 (the cheap way to get every market's best bid/ask)")
+c = collections.Counter()
+for i in range(25):
+    t0 = time.time()
+    res = lists()
+    for r in res:
+        c[str(r[0])] += 1
+    if i % 6 == 0 or any(r[0] != 200 for r in res):
+        print("  ", i, res)
+    time.sleep(max(0, 1 - (time.time() - t0)))
+print("   list status totals:", dict(c))
+
+print("B) one uncached book every 2s x 15")
+c = collections.Counter()
+for i in range(15):
+    r = book(slugs[i % len(slugs)])
+    c[str(r[0])] += 1
+    if r[0] != 200:
+        print("  ", i, r)
     time.sleep(2)
+print("   book status totals:", dict(c))
 
-A.POLY_STATS.update(reads=0, stale=0, unknown=0, max_age=0.0)
-for rnd in range(5):
-    books, secs = B.read_books(ids, pool)
-    got = collections.Counter(v for v, _ in books)
-    print(f"bot reader round {rnd}: got {got.get('kalshi', 0)}/{sum(v == 'kalshi' for v, _ in ids)} Kalshi, "
-          f"{got.get('polyus', 0)}/{sum(v == 'polyus' for v, _ in ids)} Polymarket US in {1000 * secs:.0f}ms; POLY_STATS {A.POLY_STATS}")
-    time.sleep(2)
+time.sleep(12)
+print("C) one uncached book every 1s x 20")
+c = collections.Counter()
+for i in range(20):
+    r = book(slugs[i % len(slugs)])
+    c[str(r[0])] += 1
+    if r[0] != 200 and c[str(r[0])] <= 3:
+        print("  ", i, r)
+    time.sleep(1)
+print("   book status totals:", dict(c))
+
+time.sleep(12)
+print("D) bursts of 3 uncached books, 4s apart x 6")
+for i in range(6):
+    print("  ", i, [book(s)[0] for s in slugs[:3]])
+    time.sleep(4)
+
+time.sleep(12)
+print("E) CACHED book reads (no cache-buster) every 0.5s x 20: are they limited too?")
+c = collections.Counter(); ages = []
+for i in range(20):
+    r = book(slugs[i % 4], bust=False)
+    c[str(r[0])] += 1; ages.append(r[1])
+    time.sleep(0.5)
+print("   cached status totals:", dict(c), "ages", ages)
