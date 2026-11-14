@@ -15,3 +15,6 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-14T23:37:31+00:00,moriya v ryan,True,kalshi:KXATPCHALLENGERMATCH-26NOV14MORRYA-RYA:yes,0.17,294,True,0.0093,2.2,hedged,polyus:aec-atp-hirmor-samzie-2026-11-14:0,0.84,-5.69,-5.71,-5.69,True
 2026-11-14T23:37:51+00:00,moriya v ryan,True,kalshi:KXATPCHALLENGERMATCH-26NOV14MORRYA-MOR:yes,0.81,61,True,0.0102,2.0,hedged,polyus:aec-atp-hirmor-samzie-2026-11-14:1,0.17,0.62,-1.29,0.62,True
 2026-11-14T23:38:23+00:00,moriya v ryan,True,kalshi:KXATPCHALLENGERMATCH-26NOV14MORRYA-RYA:yes,0.17,294,True,0.0093,1.9,hedged,polyus:aec-atp-hirmor-samzie-2026-11-14:0,0.81,2.74,-5.71,2.74,True
+2026-11-14T23:46:53+00:00,kubler v vujic,True,kalshi:KXATPCHALLENGERMATCH-26NOV14KUBVUJ-VUJ:yes,0.11,454,False,0.0121,2.1,hedged,polyus:aec-atp-jaskub-stevuj-2026-11-14:0,0.87,5.51,-7.4,5.51,True
+2026-11-14T23:54:48+00:00,jones v nakagawa,False,kalshi:KXATPCHALLENGERMATCH-26NOV14JONNAK-NAK:yes,0.53,94,False,0.0129,60.0,hedged,polyus:aec-atp-hayjon-naonak-2026-11-14:0,0.48,-2.57,-3.27,-2.57,True
+2026-11-14T23:55:04+00:00,hassan v yamasaki,False,kalshi:KXATPCHALLENGERMATCH-26NOV15HASYAM-YAM:yes,0.24,208,True,0.0066,44.1,hedged,polyus:aec-atp-benhas-jumyam-2026-11-14:0,0.74,1.38,-4.66,1.38,True

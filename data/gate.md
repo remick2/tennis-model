@@ -1,4 +1,4 @@
-# Arb test status (Sat Nov 14 4:43PM MT)
+# Arb test status (Sat Nov 14 4:58PM MT)
 
 Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (0/10 occasions, 0/5 days). Test ends Nov 22 00:00 UTC. Live trading is off and stays off.
 
@@ -13,22 +13,22 @@ Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (0/10 occasions, 0/5
 | Paper bot: fires still fillable 1s later | n/a | - |
 | Polymarket US reads refused as stale | 0.0% (oldest 0s) | < 5% |
 
-Coverage: 2 candidate checks (list prices showed an arb), 0 got no Polymarket US book; 0 rate-limit hits; 0 failed list refreshes in 3,150 cycles; list vs book disagreed on 1 of 2 checks.
+Coverage: 2 candidate checks (list prices showed an arb), 0 got no Polymarket US book; 0 rate-limit hits; 0 failed list refreshes in 3,600 cycles; list vs book disagreed on 1 of 2 checks.
 
-Bot coverage: 105 minutes watched. Cycles where some pair cost under $1: **174**.
+Bot coverage: 120 minutes watched. Cycles where some pair cost under $1: **175**.
 
 ## Maker test (rest a bid on one venue, hedge on the other if it fills)
 
-Fills: **16** · total **$+2.96** · per fill $+0.18 ± 0.78. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
+Fills: **19** · total **$+7.28** · per fill $+0.38 ± 0.73. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
 
 | venue   | live   |   fills |   total |   mean |
 |:--------|:-------|--------:|--------:|-------:|
-| kalshi  | False  |       5 |    4.04 |   0.81 |
-| kalshi  | True   |      11 |   -1.08 |  -0.1  |
+| kalshi  | False  |       7 |    2.85 |   0.41 |
+| kalshi  | True   |      12 |    4.43 |   0.37 |
 
 ## By UTC day
 
 | day        |   maker fills |   maker $ |
 |:-----------|--------------:|----------:|
-| 2026-11-14 |            16 |      2.96 |
+| 2026-11-14 |            19 |      7.28 |
 
