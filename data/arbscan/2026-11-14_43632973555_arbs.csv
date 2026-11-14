@@ -1,0 +1,61 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-14T20:37:02+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.27,Mirra Andreeva,kalshi,0.7,0.9984,0.0,0.0,0,0.0,0.31,0.74,1.0783,0.0,2026-11-14T20:37:02+00:00
+2026-11-14T20:37:12+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.27,Mirra Andreeva,kalshi,0.7,0.9984,38494.64,0.0,0,0.0,0.27,0.74,1.0372,0.1,2026-11-14T20:37:02+00:00
+2026-11-14T20:37:22+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.27,Mirra Andreeva,kalshi,0.7,0.9984,38494.64,0.0,0,0.0,0.27,0.74,1.0372,0.0,2026-11-14T20:37:02+00:00
+2026-11-14T20:38:32+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.76,Max Alcala Gurri,polyus,0.2,0.9839,0.0,0.0,0,0.0,0.81,0.24,1.0734,0.0,2026-11-14T20:38:32+00:00
+2026-11-14T20:38:42+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.76,Max Alcala Gurri,polyus,0.2,0.9839,0.0,0.0,0,0.0,0.81,0.24,1.0734,0.0,2026-11-14T20:38:32+00:00
+2026-11-14T20:39:12+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.39,Michael Zheng,kalshi,0.57,0.9937,0.0,0.0,0,0.0,0.45,0.62,1.1037,0.1,2026-11-14T20:39:12+00:00
+2026-11-14T20:39:42+00:00,alcala v roncadelli,True,Franco Roncadelli,polyus,0.75,Max Alcala Gurri,kalshi,0.21,0.9846,0.0,0.0,0,0.0,0.81,0.26,1.0942,0.0,2026-11-14T20:39:42+00:00
+2026-11-14T20:40:22+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.43,Michael Zheng,polyus,0.53,0.9945,0.0,0.0,0,0.0,0.48,0.58,1.0944,0.1,2026-11-14T20:40:22+00:00
+2026-11-14T20:40:32+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.43,Michael Zheng,polyus,0.53,0.9945,0.0,14876.67,0,0.0,0.48,0.53,1.0448,0.1,2026-11-14T20:40:22+00:00
+2026-11-14T20:40:42+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.73,Max Alcala Gurri,polyus,0.21,0.9653,0.0,0.0,0,0.0,0.8,0.28,1.1052,0.1,2026-11-14T20:40:42+00:00
+2026-11-14T20:40:42+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.42,Michael Zheng,polyus,0.53,0.9844,0.0,14876.67,0,0.0,0.48,0.53,1.0448,0.0,2026-11-14T20:40:22+00:00
+2026-11-14T20:40:52+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.42,Michael Zheng,polyus,0.49,0.9444,0.0,0.0,0,0.0,0.52,0.53,1.0848,0.0,2026-11-14T20:40:22+00:00
+2026-11-14T20:40:52+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.73,Max Alcala Gurri,polyus,0.21,0.9653,0.0,12746.03,0,0.0,0.8,0.21,1.0327,0.1,2026-11-14T20:40:42+00:00
+2026-11-14T20:41:02+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.42,Michael Zheng,polyus,0.49,0.9444,0.0,16478.65,0,0.0,0.52,0.49,1.0448,0.1,2026-11-14T20:40:22+00:00
+2026-11-14T20:41:02+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.73,Max Alcala Gurri,polyus,0.21,0.9653,0.0,12746.03,0,0.0,0.8,0.21,1.0327,0.1,2026-11-14T20:40:42+00:00
+2026-11-14T20:41:32+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.8,Max Alcala Gurri,polyus,0.16,0.9805,0.0,0.0,0,0.0,0.85,0.21,1.0805,0.1,2026-11-14T20:41:32+00:00
+2026-11-14T20:41:52+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.2,Mirra Andreeva,kalshi,0.77,0.9935,0.0,0.0,0,0.0,0.23,0.81,1.0631,0.0,2026-11-14T20:41:52+00:00
+2026-11-14T20:42:12+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.85,Max Alcala Gurri,polyus,0.12,0.9863,0.0,0.0,0,0.0,0.89,0.16,1.0662,0.1,2026-11-14T20:42:12+00:00
+2026-11-14T20:42:12+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.49,Michael Zheng,kalshi,0.47,0.9948,0.0,0.0,0,0.0,0.53,0.52,1.0848,0.1,2026-11-14T20:42:12+00:00
+2026-11-14T20:42:22+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.85,Max Alcala Gurri,polyus,0.12,0.9863,0.0,11098.64,0,0.0,0.89,0.12,1.0242,0.1,2026-11-14T20:42:12+00:00
+2026-11-14T20:42:22+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.49,Michael Zheng,kalshi,0.47,0.9948,0.0,0.0,0,0.0,0.53,0.53,1.0947,0.1,2026-11-14T20:42:12+00:00
+2026-11-14T20:42:32+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.85,Max Alcala Gurri,polyus,0.12,0.9863,0.0,11098.64,0,0.0,0.89,0.12,1.0242,0.1,2026-11-14T20:42:12+00:00
+2026-11-14T20:43:22+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.56,Michael Zheng,polyus,0.39,0.9838,0.0,0.0,0,0.0,0.62,0.45,1.1037,0.0,2026-11-14T20:43:22+00:00
+2026-11-14T20:43:32+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.56,Michael Zheng,polyus,0.39,0.9838,0.0,49972.94,0,0.0,0.62,0.39,1.043,0.1,2026-11-14T20:43:22+00:00
+2026-11-14T20:43:32+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.91,Max Alcala Gurri,polyus,0.07,0.9903,0.0,0.0,0,0.0,0.94,0.1,1.0502,0.0,2026-11-14T20:43:32+00:00
+2026-11-14T20:43:42+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.56,Michael Zheng,polyus,0.39,0.9838,0.0,49972.94,0,0.0,0.62,0.39,1.043,0.0,2026-11-14T20:43:22+00:00
+2026-11-14T20:43:42+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.91,Max Alcala Gurri,polyus,0.07,0.9903,0.0,0.0,0,0.0,0.94,0.1,1.0502,0.0,2026-11-14T20:43:32+00:00
+2026-11-14T20:43:52+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.94,Max Alcala Gurri,polyus,0.05,0.9972,0.0,18405.89,0,0.0,0.96,0.05,1.016,0.1,2026-11-14T20:43:32+00:00
+2026-11-14T20:44:02+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.94,Max Alcala Gurri,polyus,0.05,0.9972,0.0,18405.89,0,0.0,0.96,0.05,1.016,0.0,2026-11-14T20:43:32+00:00
+2026-11-14T20:44:12+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.62,Michael Zheng,polyus,0.28,0.9305,0.0,0.0,0,0.0,0.73,0.39,1.1503,0.1,2026-11-14T20:44:12+00:00
+2026-11-14T20:44:12+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.27,Mirra Andreeva,kalshi,0.7,0.9984,0.0,0.0,0,0.0,0.3,0.73,1.0584,0.1,2026-11-14T20:44:12+00:00
+2026-11-14T20:44:42+00:00,alcala v roncadelli,True,Franco Roncadelli,kalshi,0.95,Max Alcala Gurri,polyus,0.03,0.9853,0.0,0.0,0,0.0,0.98,0.06,1.0453,0.0,2026-11-14T20:44:42+00:00
+2026-11-14T20:45:02+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.68,Michael Zheng,kalshi,0.25,0.9582,18466.0,0.0,0,0.0,0.68,0.33,1.0406,0.1,2026-11-14T20:45:02+00:00
+2026-11-14T20:45:12+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.68,Michael Zheng,kalshi,0.25,0.9582,18466.0,0.0,0,0.0,0.68,0.33,1.0406,0.0,2026-11-14T20:45:02+00:00
+2026-11-14T20:45:22+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.24,Mirra Andreeva,kalshi,0.73,0.9965,30022.76,0.0,0,0.0,0.24,0.77,1.0351,0.0,2026-11-14T20:45:22+00:00
+2026-11-14T20:45:32+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.57,Michael Zheng,kalshi,0.33,0.9325,18944.47,0.0,0,0.0,0.57,0.44,1.0443,0.1,2026-11-14T20:45:32+00:00
+2026-11-14T20:45:42+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.57,Michael Zheng,kalshi,0.33,0.9325,18944.47,0.0,0,0.0,0.57,0.47,1.0745,0.0,2026-11-14T20:45:32+00:00
+2026-11-14T20:46:12+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.49,Michael Zheng,kalshi,0.47,0.9948,0.0,0.0,0,0.0,0.59,0.52,1.1443,0.0,2026-11-14T20:46:12+00:00
+2026-11-14T20:46:52+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.49,Michael Zheng,polyus,0.45,0.9747,0.0,0.0,0,0.0,0.56,0.52,1.1146,0.0,2026-11-14T20:46:52+00:00
+2026-11-14T20:47:02+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.49,Michael Zheng,polyus,0.45,0.9747,0.0,59319.43,0,0.0,0.56,0.45,1.0444,0.1,2026-11-14T20:46:52+00:00
+2026-11-14T20:47:32+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.49,Michael Zheng,kalshi,0.45,0.9747,56724.09,0.0,0,0.0,0.49,0.52,1.0448,0.1,2026-11-14T20:47:32+00:00
+2026-11-14T20:48:12+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.44,Michael Zheng,kalshi,0.52,0.9946,0.0,0.0,0,0.0,0.5,0.57,1.1045,0.1,2026-11-14T20:48:12+00:00
+2026-11-14T20:48:22+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.44,Michael Zheng,kalshi,0.52,0.9946,0.0,0.0,0,0.0,0.5,0.57,1.1045,0.0,2026-11-14T20:48:12+00:00
+2026-11-14T20:48:32+00:00,andreeva v pegula,True,Jessica Pegula,kalshi,0.23,Mirra Andreeva,polyus,0.73,0.9861,0.0,0.0,0,0.0,0.28,0.75,1.0571,0.0,2026-11-14T20:48:32+00:00
+2026-11-14T20:48:32+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.44,Michael Zheng,kalshi,0.52,0.9946,35642.09,0.0,0,0.0,0.44,0.57,1.0443,0.1,2026-11-14T20:48:12+00:00
+2026-11-14T20:49:42+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.37,Michael Zheng,kalshi,0.55,0.9535,0.0,0.0,0,0.0,0.46,0.64,1.1334,0.1,2026-11-14T20:49:42+00:00
+2026-11-14T20:49:52+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.37,Michael Zheng,kalshi,0.55,0.9535,0.0,0.0,0,0.0,0.46,0.64,1.1334,0.0,2026-11-14T20:49:42+00:00
+2026-11-14T20:50:02+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.37,Michael Zheng,kalshi,0.55,0.9535,57.01,0.0,0,0.0,0.37,0.67,1.0717,0.0,2026-11-14T20:49:42+00:00
+2026-11-14T20:50:02+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.19,Mirra Andreeva,kalshi,0.78,0.9927,0.0,0.0,0,0.0,0.22,0.82,1.0623,0.1,2026-11-14T20:50:02+00:00
+2026-11-14T20:50:12+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.28,Michael Zheng,kalshi,0.55,0.8613,0.0,0.0,0,0.0,0.37,0.73,1.13,0.0,2026-11-14T20:49:42+00:00
+2026-11-14T20:50:22+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.28,Michael Zheng,kalshi,0.67,0.9795,0.0,0.0,0,0.0,0.37,0.73,1.13,0.0,2026-11-14T20:49:42+00:00
+2026-11-14T20:50:32+00:00,chidekh v zheng,True,Clement Chidekh,polyus,0.28,Michael Zheng,kalshi,0.67,0.9795,66.01,0.0,0,0.0,0.28,0.74,1.0475,0.1,2026-11-14T20:49:42+00:00
+2026-11-14T20:50:32+00:00,andreeva v pegula,True,Jessica Pegula,kalshi,0.19,Mirra Andreeva,polyus,0.78,0.9927,0.0,0.0,0,0.0,0.23,0.84,1.0917,0.0,2026-11-14T20:50:32+00:00
+2026-11-14T20:50:42+00:00,andreeva v pegula,True,Jessica Pegula,kalshi,0.19,Mirra Andreeva,polyus,0.78,0.9927,0.0,0.0,0,0.0,0.23,0.84,1.0917,0.0,2026-11-14T20:50:32+00:00
+2026-11-14T20:50:52+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.28,Michael Zheng,polyus,0.67,0.9795,0.0,0.0,0,0.0,0.34,0.73,1.0994,0.0,2026-11-14T20:50:52+00:00
+2026-11-14T20:50:52+00:00,andreeva v pegula,True,Jessica Pegula,kalshi,0.19,Mirra Andreeva,polyus,0.78,0.9927,0.0,18004.0,0,0.0,0.23,0.78,1.0343,0.1,2026-11-14T20:50:32+00:00
+2026-11-14T20:51:02+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.28,Michael Zheng,polyus,0.67,0.9795,0.0,0.05,0,0.0,0.36,0.67,1.0615,0.1,2026-11-14T20:50:52+00:00
+2026-11-14T20:51:12+00:00,chidekh v zheng,True,Clement Chidekh,kalshi,0.28,Michael Zheng,polyus,0.59,0.9009,0.0,0.0,0,0.0,0.42,0.67,1.1224,0.0,2026-11-14T20:50:52+00:00
+2026-11-14T20:51:12+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.19,Mirra Andreeva,kalshi,0.78,0.9927,0.0,0.0,0,0.0,0.23,0.82,1.0726,0.0,2026-11-14T20:51:12+00:00
+2026-11-14T20:51:22+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.19,Mirra Andreeva,kalshi,0.78,0.9927,28520.62,0.0,0,0.0,0.19,0.82,1.031,0.1,2026-11-14T20:51:12+00:00
