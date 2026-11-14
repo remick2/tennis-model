@@ -6,7 +6,8 @@ became uncached. Everything before that compared live Kalshi books with Polymark
 and is not evidence (see README, Nov 14).
 
 THE GATE (Remick's Nov 10 definition, unchanged, re-run on fresh data through END):
-  scanner gate_ok arbs (both legs still there at +1s at the quoted prices, >= $1 at his bankroll)
+  arbs a ready bot is expected to profit from (both legs still there at +1s at the quoted prices, >= $1 at
+  his bankroll), counted from the scanner (gate_ok) or the paper bot (both legs filled, alive at +1s, >= $1),
   on >= 10 occasions (one per match per UTC day) across >= 5 UTC days,
   AND the paper bot's simulated fills net positive, AND the Polymarket US feed stayed fresh.
 """
@@ -58,12 +59,20 @@ def main():
     # 1) scanner: gate_ok on fresh books, one occasion per match per day
     g = arbs[truthy(arbs, "fresh") & truthy(arbs, "gate_ok")] if len(arbs) else arbs
     g = g.sort_values("t").drop_duplicates(["key", "day"]) if len(g) else g
-    occ, days = len(g), (g.day.nunique() if len(g) else 0)
     occ_profit = float(num(g, "bankroll_profit").sum()) if len(g) else 0.0
 
     # 2) paper bot on fresh books
     f = fires[truthy(fires, "fresh")] if len(fires) else fires
     traded = f[(num(f, "filled_a") > 0) | (num(f, "filled_b") > 0)] if len(f) else f
+    # The same definition measured by the bot (it reads fresh books for every match; the scanner detects from
+    # Kalshi's market list, which lags up to 15s and can miss a real arb): both legs fully filled one round
+    # trip later, still fillable at +1s, and >= $1 locked. An occasion is one match on one UTC day, from
+    # either source.
+    bq = f[(num(f, "filled_a") >= num(f, "shares")) & (num(f, "filled_b") >= num(f, "shares"))
+           & (num(f, "sim_profit") >= 1.0) & truthy(f, "alive_1s")] if len(f) else f
+    occ_keys = set(zip(g.key, g.day)) if len(g) else set()
+    occ_keys |= set(zip(bq.key, bq.day)) if len(bq) else set()
+    occ, days = len(occ_keys), len({d for _, d in occ_keys})
     sim = float(num(traded, "sim_profit").sum()) if len(traded) else 0.0
     short = int((num(traded, "filled_a") != num(traded, "filled_b")).sum()) if len(traded) else 0
     alive1 = truthy(f, "alive_1s").mean() if len(f) and "alive_1s" in f else float("nan")
@@ -105,9 +114,10 @@ def main():
     L = [f"# Arb test status ({now.tz_convert('America/Denver'):%a %b %-d %-I:%M%p} MT)", "",
          f"Fresh data only, since {START:%b %-d %H:%M} UTC. " + verdict, "",
          "| Check | Now | Needed |", "|---|---|---|",
-         f"| Scanner: arbs a ready bot would profit from (occasions) | {occ} | {NEED_OCC} |",
+         f"| Arbs a ready bot would profit from (occasions: one per match per day) | {occ} | {NEED_OCC} |",
          f"| ...on different UTC days | {days} | {NEED_DAYS} |",
-         f"| ...total at the $690 bankroll | ${occ_profit:.2f} | - |",
+         f"| ...found by the scanner / by the paper bot | {len(g)} / {len(bq)} | - |",
+         f"| ...scanner total at the $690 bankroll | ${occ_profit:.2f} | - |",
          f"| Paper bot: fires / traded / one leg short | {len(f)} / {len(traded)} / {short} | - |",
          f"| Paper bot: simulated profit on traded fires | ${sim:+.2f} | > $0 |",
          f"| Paper bot: fires still fillable 1s later | {'n/a' if alive1 != alive1 else f'{alive1:.0%}'} | - |",

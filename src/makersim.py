@@ -4,8 +4,8 @@ Why test it: buying both sides as a taker costs ~3.5c of fees per $1 pair at 50/
 venues almost never disagree by that much. A resting order pays far less:
   Polymarket US maker: $0 (no fee; rebates only start at $10M/month volume)
   Kalshi maker: $0 on Challengers (fee_type "quadratic"), 0.0175*p*(1-p) on ATP/WTA main tour
-    ("quadratic_with_maker_fees"; ASSUMED 0.0175, a quarter of the taker fee - check Kalshi's fee schedule
-    before trusting main-tour numbers)
+    ("quadratic_with_maker_fees"; Kalshi's fee schedule lists KXATPMATCH and KXWTAMATCH with maker
+    multiplier 1 on the 0.0175 formula, checked Nov 14 2026)
 so the hurdle is about half. The catch is adverse selection: a resting bid gets filled exactly when the
 price moves against it, and the hedge has moved too. This simulator measures which effect wins.
 
