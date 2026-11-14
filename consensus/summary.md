@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 14, 2:40PM MT
+# Consensus paper tracker — Sat Nov 14, 3:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,10 +10,22 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-1 | +4.13 | 4-0 | +1.36 | 1 |
 | 2 agree | all 15 | 14-11 | -0.71 | 21-14 | +1.78 | 3 |
-| 2+ agree, 1+ against (split) | all 15 | 21-9 | +13.19 | 18-13 | -0.89 | 1 |
+| 2+ agree, 1+ against (split) | all 15 | 21-9 | +13.19 | 18-13 | -0.89 | 2 |
 | 3+ agree (paper play) | core 10 only | 3-0 | +4.15 | 1-0 | +0.12 | 1 |
 | 2 agree | core 10 only | 7-4 | +1.14 | 12-5 | +3.25 | 2 |
-| 2+ agree, 1+ against (split) | core 10 only | 7-3 | +5.03 | 7-5 | -0.57 | 0 |
+| 2+ agree, 1+ against (split) | core 10 only | 7-3 | +5.03 | 7-5 | -0.57 | 1 |
+
+**Go-live test (3+ agree, pre-game, after spread + fees):** 6 of 30 graded plays · net +0.00u · 5 wins vs 3.2 expected, z = +1.51 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
+
+**After costs** (new roster, pre-game):
+
+| Rule | Graded | Wins vs expected | Units at logged price | Units after spread + fees | Price move by game time |
+|---|---|---|---|---|---|
+| 3+ agree (paper play) | 6 | 5 vs 3.2 (+1.8) | +4.13 | +0.00 (partial) | — |
+| 2 agree | 25 | 14 vs 13.3 (+0.7) | -0.71 | +0.00 (partial) | — |
+| 2+ agree, 1+ against (split) | 30 | 21 vs 14.9 (+6.1) | +13.19 | +0.00 (partial) | — |
+
+Units after spread + fees = paying the ask (or logged price + 0.5c when the ask wasn't recorded) plus Polymarket's taker fee (rate x (1 - price) of the stake, about 2.5% at 50c). Price move = closing price minus logged price; sharp signals should see the price move their way before the game.
 
 **By price** (new roster, pre-game, graded):
 
@@ -71,3 +83,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-14 | NBA | Pistons vs. Heat | Heat (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; purplegatto | — | 39.5c |
 | new | 2026-11-14 | LoL | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G (Map handicap) | 2 agree, 1 against | in-play | jakepaulthegoat2008; BreakTheBank | fantasy7788 | 42.5c |
 | new | 2026-11-14 | CFB | Tennessee vs. Texas A&M | Texas A&M (Moneyline) | 2 agree, 0 against | in-play | 0xb4F978BE; bands1 | — | 45.5c |
+| new | 2026-11-14 | LoL | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming (Moneyline) | 2 agree, 2 against | in-play | 0xb4F978BE; fantasy7788 | BreakTheBank; jakepaulthegoat2008 | 37.5c |
