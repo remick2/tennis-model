@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 14, 12:40PM MT
+# Consensus paper tracker — Sat Nov 14, 1:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-1 | +4.13 | 4-0 | +1.36 | 1 |
-| 2 agree | all 15 | 12-11 | -1.13 | 21-14 | +1.78 | 4 |
+| 2 agree | all 15 | 14-11 | -0.71 | 21-14 | +1.78 | 3 |
 | 2+ agree, 1+ against (split) | all 15 | 21-9 | +13.19 | 18-13 | -0.89 | 1 |
 | 3+ agree (paper play) | core 10 only | 3-0 | +4.15 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 7-4 | +1.14 | 12-5 | +3.25 | 1 |
+| 2 agree | core 10 only | 7-4 | +1.14 | 12-5 | +3.25 | 2 |
 | 2+ agree, 1+ against (split) | core 10 only | 7-3 | +5.03 | 7-5 | -0.57 | 0 |
 
 **By price** (new roster, pre-game, graded):
@@ -24,8 +24,8 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | 3+ agree (paper play) | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
 | 2 agree | Underdog (<45c) | 0-5 | -5.00 | 0 | 1.6 | -1.6 |
 | 2 agree | Coin flip (45-65c) | 10-5 | +4.13 | 10 | 7.8 | +2.2 |
-| 2 agree | Favorite (65-80c) | 1-1 | -0.50 | 1 | 1.4 | -0.4 |
-| 2 agree | Heavy favorite (80c+) | 1-0 | +0.24 | 1 | 0.8 | +0.2 |
+| 2 agree | Favorite (65-80c) | 2-1 | -0.24 | 2 | 2.2 | -0.2 |
+| 2 agree | Heavy favorite (80c+) | 2-0 | +0.40 | 2 | 1.7 | +0.3 |
 
 ## Old roster (Nov 3 – Nov 7, closed)
 
@@ -67,8 +67,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-14 | NBA | Mavericks vs. Cavaliers | Mavericks (Moneyline) | 3 agree, 0 against | pre-game | monkeymashingkeyboard; purplegatto; ic4cream | — | 62.5c |
-| new | 2026-11-14 | UNL | Sweden vs. Bosnia and Herzegovina | Draw: No (3-way) | 2 agree, 0 against | pre-game | 0x9f15613e; Kyn008 | — | 79.5c |
 | new | 2026-11-14 | LoL | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G (Moneyline) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; BreakTheBank | — | 61.5c |
 | new | 2026-11-14 | NBA | Pistons vs. Heat | Heat (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; purplegatto | — | 39.5c |
-| new | 2026-11-14 | UNL | Sweden vs. Bosnia and Herzegovina | Bosnia and Herzegovina win: No (3-way) | 2 agree, 0 against | pre-game | 0x9f15613e; Kyn008 | — | 86.5c |
 | new | 2026-11-14 | LoL | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G (Map handicap) | 2 agree, 1 against | in-play | jakepaulthegoat2008; BreakTheBank | fantasy7788 | 42.5c |
+| new | 2026-11-14 | CFB | Tennessee vs. Texas A&M | Texas A&M (Moneyline) | 2 agree, 0 against | in-play | 0xb4F978BE; bands1 | — | 45.5c |
