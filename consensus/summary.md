@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 14, 4:40AM MT
+# Consensus paper tracker — Sat Nov 14, 5:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-1 | +4.13 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 12-11 | -1.13 | 21-12 | +3.78 | 1 |
+| 2 agree | all 15 | 12-11 | -1.13 | 21-12 | +3.78 | 2 |
 | 2+ agree, 1+ against (split) | all 15 | 21-9 | +13.19 | 18-13 | -0.89 | 0 |
 | 3+ agree (paper play) | core 10 only | 3-0 | +4.15 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 7-4 | +1.14 | 12-3 | +5.25 | 1 |
+| 2 agree | core 10 only | 7-4 | +1.14 | 12-3 | +5.25 | 2 |
 | 2+ agree, 1+ against (split) | core 10 only | 7-3 | +5.03 | 7-5 | -0.57 | 0 |
 
 **By price** (new roster, pre-game, graded):
@@ -67,3 +67,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-14 | CS2 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons (Moneyline) | 2 agree, 0 against | in-play | jakepaulthegoat2008; fantasy7788 | — | 48.5c |
+| new | 2026-11-14 | CS2 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons (Single game) | 2 agree, 0 against | in-play | jakepaulthegoat2008; fantasy7788 | — | 63.5c |
