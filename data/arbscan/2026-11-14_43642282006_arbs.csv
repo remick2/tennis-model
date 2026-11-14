@@ -1,0 +1,20 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-14T21:21:22+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.15,Mirra Andreeva,kalshi,0.83,0.9987,61265.15,0.0,0,0.0,0.15,0.86,1.0273,0.0,True,2026-11-14T21:21:22+00:00
+2026-11-14T21:21:32+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.15,Mirra Andreeva,kalshi,0.83,0.9987,66562.36,0.0,0,0.0,0.15,0.86,1.0273,0.0,True,2026-11-14T21:21:22+00:00
+2026-11-14T21:24:52+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.08,Mirra Andreeva,kalshi,0.88,0.9725,46292.87,0.0,0,0.0,0.08,0.93,1.0197,0.0,True,2026-11-14T21:24:52+00:00
+2026-11-14T21:25:02+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.08,Mirra Andreeva,kalshi,0.9,0.9914,47771.63,0.0,0,0.0,0.08,0.93,1.0197,0.0,True,2026-11-14T21:24:52+00:00
+2026-11-14T21:25:12+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.07,Mirra Andreeva,kalshi,0.9,0.9808,35301.02,0.0,0,0.0,0.07,0.94,1.0185,0.0,True,2026-11-14T21:24:52+00:00
+2026-11-14T21:25:22+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.07,Mirra Andreeva,kalshi,0.9,0.9808,22.0,0.0,0,0.0,0.07,0.94,1.0185,0.0,True,2026-11-14T21:24:52+00:00
+2026-11-14T21:25:32+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.05,Mirra Andreeva,kalshi,0.94,0.9972,19373.43,0.0,0,0.0,0.05,0.95,1.0066,0.0,True,2026-11-14T21:24:52+00:00
+2026-11-14T21:25:42+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.05,Mirra Andreeva,kalshi,0.94,0.9972,42283.17,0.0,0,0.0,0.05,0.96,1.016,0.0,True,2026-11-14T21:24:52+00:00
+2026-11-14T21:25:52+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.05,Mirra Andreeva,kalshi,0.94,0.9972,39171.17,0.0,0,0.0,0.05,0.96,1.016,0.0,True,2026-11-14T21:24:52+00:00
+2026-11-14T21:28:02+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.03,Mirra Andreeva,kalshi,0.96,0.9947,18317.52,0.0,0,0.0,0.03,0.98,1.0134,0.0,True,2026-11-14T21:28:02+00:00
+2026-11-14T21:28:52+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.03,Mirra Andreeva,kalshi,0.96,0.9947,21645.87,0.0,0,0.0,0.03,0.98,1.0134,0.0,True,2026-11-14T21:28:52+00:00
+2026-11-14T21:29:02+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.03,Mirra Andreeva,kalshi,0.96,0.9947,67280.83,0.0,0,0.0,0.03,0.98,1.0134,0.0,True,2026-11-14T21:28:52+00:00
+2026-11-14T21:30:02+00:00,andreeva v pegula,True,Jessica Pegula,kalshi,0.04,Mirra Andreeva,polyus,0.95,0.996,0.0,59500.16,0,0.0,0.06,0.95,1.0172,0.0,True,2026-11-14T21:30:02+00:00
+2026-11-14T21:30:12+00:00,andreeva v pegula,True,Jessica Pegula,kalshi,0.04,Mirra Andreeva,polyus,0.95,0.996,0.0,87249.96,0,0.0,0.06,0.95,1.0172,0.0,True,2026-11-14T21:30:02+00:00
+2026-11-14T21:30:32+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.04,Mirra Andreeva,kalshi,0.95,0.996,65618.14,0.0,0,0.0,0.04,0.97,1.0147,0.0,True,2026-11-14T21:30:32+00:00
+2026-11-14T21:31:02+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.03,Mirra Andreeva,kalshi,0.96,0.9947,47083.42,0.0,0,0.0,0.03,0.98,1.0134,0.0,True,2026-11-14T21:31:02+00:00
+2026-11-14T21:31:12+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.03,Mirra Andreeva,kalshi,0.96,0.9947,46762.42,0.0,0,0.0,0.03,0.98,1.0134,0.0,True,2026-11-14T21:31:02+00:00
+2026-11-14T21:31:22+00:00,andreeva v pegula,True,Jessica Pegula,polyus,0.03,Mirra Andreeva,kalshi,0.96,0.9947,47104.42,0.0,0,0.0,0.03,0.98,1.0134,0.0,True,2026-11-14T21:31:02+00:00
+2026-11-14T21:34:02+00:00,andreeva v pegula,True,Jessica Pegula,kalshi,0.03,Mirra Andreeva,polyus,0.96,0.9947,0.0,71456.34,0,0.0,0.05,0.96,1.016,0.0,True,2026-11-14T21:34:02+00:00
