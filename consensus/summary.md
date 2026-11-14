@@ -1,4 +1,4 @@
-# Consensus paper tracker — Fri Nov 13, 4:40PM MT
+# Consensus paper tracker — Fri Nov 13, 5:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,10 +10,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 1 |
 | 2 agree | all 15 | 9-11 | -3.96 | 16-12 | -1.59 | 3 |
-| 2+ agree, 1+ against (split) | all 15 | 18-9 | +7.45 | 17-12 | -0.25 | 1 |
+| 2+ agree, 1+ against (split) | all 15 | 18-9 | +7.45 | 17-12 | -0.25 | 2 |
 | 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 1 |
 | 2 agree | core 10 only | 6-4 | +0.24 | 8-3 | +0.42 | 1 |
-| 2+ agree, 1+ against (split) | core 10 only | 5-3 | +1.37 | 7-5 | -0.57 | 1 |
+| 2+ agree, 1+ against (split) | core 10 only | 5-3 | +1.37 | 7-5 | -0.57 | 2 |
 
 **By price** (new roster, pre-game, graded):
 
@@ -70,3 +70,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-13 | NBA | Knicks vs. Pacers | Pacers (+8.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; BreakTheBank | — | 53.5c |
 | new | 2026-11-13 | NBA | Knicks vs. Pacers | Pacers (+7.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; BreakTheBank | — | 48.5c |
 | new | 2026-11-13 | NBA | Knicks vs. Pacers | Pacers (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; jakepaulthegoat2008 | purplegatto | 27.5c |
+| new | 2026-11-13 | NBA | Hawks vs. Bulls | Bulls (+6.5) (Spread) | 3 agree, 1 against | pre-game | jakepaulthegoat2008; drainedandpoor; 0x9f15613e | purplegatto | 49.5c |
