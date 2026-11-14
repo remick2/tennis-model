@@ -41,7 +41,7 @@ import live as LIVE
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "bot"
 LEDGER = OUT / "ledger.json"
-START_CASH = {"kalshi": 345.0, "polyus": 345.0}   # Remick's ~$690, split evenly
+START_CASH = {"kalshi": 345.0, "polyus": 355.0}   # Remick's real balances as funded Nov 14
 DRY_CAP = 150.0          # paper: max dollars per venue per arb (one arb can't tie up the whole bankroll)
 REBALANCE_BELOW = 0.25   # paper: a venue under 25% of total cash = Remick would move money; logged + equalized
 FEE = A.FEE
@@ -88,7 +88,7 @@ def read_book(venue, book_id):
         nb = [(float(p), float(q)) for p, q in ob.get("no_dollars") or []]
         return {"yes": {"ask": sorted((round(1 - p, 4), q) for p, q in nb), "bid": sorted(yb, reverse=True)},
                 "no": {"ask": sorted((round(1 - p, 4), q) for p, q in yb), "bid": sorted(nb, reverse=True)}}, secs
-    d, secs = fast_get(f"{A.POLYUS}/v1/markets/{book_id}/book")
+    d, secs = fast_get(f"{A.POLYUS}/v1/markets/{book_id}/book?_={A.fresh()}")   # uncached (see arbscan.fresh)
     b = (d or {}).get("marketData")
     if b is None:
         return None, secs
@@ -227,7 +227,7 @@ def summary(L):
     f = pd.concat([pd.read_csv(x) for x in files], ignore_index=True) if files else pd.DataFrame()
     lines = [f"# Dry-run bot ({pd.Timestamp.now(tz='America/Denver'):%a %b %-d %-I:%M%p} MT)", "",
              "Paper only: no keys, no real orders. Started " + L["started"][:10] +
-             f" with ${sum(START_CASH.values()):.0f} (${START_CASH['kalshi']:.0f} per venue).", "",
+             f" with ${sum(START_CASH.values()):.0f} (Kalshi ${START_CASH['kalshi']:.0f}, Polymarket US ${START_CASH['polyus']:.0f}).", "",
              f"- Cash: Kalshi **${L['cash']['kalshi']:.2f}**, Polymarket US **${L['cash']['polyus']:.2f}**; "
              f"locked in {len(L['open'])} open matches: ${locked:.2f}",
              f"- Bankroll now (cash + open at cost): **${L['cash']['kalshi'] + L['cash']['polyus'] + locked:.2f}**",
@@ -236,15 +236,15 @@ def summary(L):
              f"- Paper rebalances (times Remick would have had to move money between venues): {L.get('rebalances', 0)}"
              f" · cap ${DRY_CAP:.0f} per venue per arb"]
     if len(f):
-        new = f[f.get("mode", pd.Series(index=f.index, dtype=object)) == "polyus_first"] if "mode" in f else f.iloc[0:0]
+        new = f[f["fresh"] == True] if "fresh" in f else f.iloc[0:0]   # only fires on uncached Polymarket US books
         num = lambda c: pd.to_numeric(new[c], errors="coerce").sum() if len(new) and c in new else 0.0
-        lines += [f"- Since the Polymarket-US-first switch: {len(new)} fires, {int(((new.filled_a > 0) | (new.filled_b > 0)).sum()) if len(new) else 0} traded, "
+        lines += [f"- On fresh (uncached) Polymarket US books, since Nov 14: {len(new)} fires, {int(((new.filled_a > 0) | (new.filled_b > 0)).sum()) if len(new) else 0} traded, "
                   f"{int((new.filled_a != new.filled_b).sum()) if len(new) else 0} with one leg short · simulated ${num('sim_profit'):.2f} "
                   f"vs ${num('both_profit'):.2f} if both orders had gone at once",
-                  f"- All fires: {len(f)} · expected ${f.expected.sum():.2f} · simulated ${pd.to_numeric(f.sim_profit, errors='coerce').sum():.2f}",
+                  f"- Earlier fires ({len(f) - len(new)}) used Polymarket US books up to 30s stale: not evidence either way",
                   f"- Median book-read time {1000 * f.read_secs.median():.0f} ms, fill check {1000 * f.fill_secs.median():.0f} ms",
                   "", "## Last 15 fires", "",
-                  f[[c for c in ["ts", "key", "live", "mode", "shares", "total", "expected", "filled_a", "filled_b", "unwind_pnl",
+                  new[[c for c in ["ts", "key", "live", "mode", "shares", "total", "expected", "filled_a", "filled_b", "unwind_pnl",
                        "sim_profit", "both_profit"] if c in f]].tail(15).to_markdown(index=False)]
     (OUT / "summary.md").write_text("\n".join(lines) + "\n")
 
@@ -410,7 +410,7 @@ def fire(key, m, L, consumed, pool, exp, ia, ib, sh, fa, fb, sa, sb, read_secs):
            "leg_a": f"{ia[0]}:{ia[1]}:{ia[2]}", "limit_a": lim_a, "leg_b": f"{ib[0]}:{ib[1]}:{ib[2]}", "limit_b": lim_b,
            "total": round((sum(p * q for p, q in fa) + sum(p * q for p, q in fb)) / sh +
                           (leg_cost(fa, FEE[ia[0]])[1] + leg_cost(fb, FEE[ib[0]])[1]) / sh, 4),
-           "expected": round(exp, 2), "mode": "polyus_first",
+           "expected": round(exp, 2), "mode": "polyus_first", "fresh": True,
            "filled_a": o["filled_a"], "filled_b": o["filled_b"], "chase": o["chase"], "unwound": o["unwound"],
            "unwind_pnl": o["unwind_pnl"], "naked": o["naked"], "cost": o["cost"] if (o["filled_a"] or o["filled_b"]) else 0,
            "sim_profit": o["profit"] if o["profit"] is not None else "",
@@ -520,7 +520,7 @@ def rebalance(L):
     """Paper only: if one venue's cash falls under REBALANCE_BELOW of the total, Remick would move money by bank
     transfer. Log it and split the cash evenly again so the dry run keeps trading."""
     tot = L["cash"]["kalshi"] + L["cash"]["polyus"]
-    if tot > 0 and min(L["cash"].values()) < REBALANCE_BELOW * tot:
+    if tot >= 0.5 * sum(START_CASH.values()) and min(L["cash"].values()) < REBALANCE_BELOW * tot:
         A.log(OUT / "rebalances.csv", [{"ts": A.now().isoformat(timespec="seconds"), **{f"before_{k}": v for k, v in L["cash"].items()}}])
         L["cash"] = {"kalshi": round(tot / 2, 2), "polyus": round(tot / 2, 2)}
         L["rebalances"] = L.get("rebalances", 0) + 1

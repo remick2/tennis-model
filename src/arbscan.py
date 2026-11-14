@@ -47,6 +47,13 @@ def now():
     return datetime.now(timezone.utc)
 
 
+def fresh():
+    """Cache-buster. Polymarket US's public gateway serves order books with `cache-control: public, max-age=30`,
+    so a plain request can be up to 30s old (found Nov 14: plain read 0.20/0.22 while the live book was
+    0.18/0.19). A changing query value gets a current snapshot. Kalshi's order-book endpoint isn't cached."""
+    return int(time.time() * 1000)
+
+
 def get(url, params=None, tries=3):
     for i in range(tries):
         try:
@@ -83,7 +90,7 @@ def kalshi_rows():
 def polyus_rows():
     rows = []
     for lg in ("atp", "wta"):
-        d = get(f"{POLYUS}/v2/leagues/{lg}/events", {"limit": 500}) or {}
+        d = get(f"{POLYUS}/v2/leagues/{lg}/events", {"limit": 500, "_": fresh()}) or {}
         for e in d.get("events", []):
             if e.get("closed") or e.get("ended"):
                 continue
@@ -111,7 +118,7 @@ def depth(src, ref, price):
             lv = [(1 - float(p), float(q)) for p, q in (ob.get("no_dollars") or [])]
         else:
             slug, idx = ref.rsplit("#", 1)
-            b = (get(f"{POLYUS}/v1/markets/{slug}/book") or {}).get("marketData") or {}
+            b = (get(f"{POLYUS}/v1/markets/{slug}/book", {"_": fresh()}) or {}).get("marketData") or {}
             if idx == "0":
                 lv = [(float(a["px"]["value"]), float(a["qty"])) for a in (b.get("offers") or b.get("asks") or [])]
             else:
@@ -244,7 +251,8 @@ def main():
                 rec = {"ts": ts, "key": r.key, "live": r.live, "leg_a": r.leg_a, "src_a": r.src_a, "px_a": r.px_a,
                        "leg_b": r.leg_b, "src_b": r.src_b, "px_b": r.px_b, "total": round(r.total, 4),
                        "size_a": sa, "size_b": sb, "size": size, "locked": round(size * (1 - r.total), 2),
-                       "book_a": ba, "book_b": bb, "book_total": book_total, "check_secs": tc}
+                       "book_a": ba, "book_b": bb, "book_total": book_total, "check_secs": tc,
+                       "fresh": True}   # Polymarket US books read uncached (rows before Nov 14 ~21:40Z were not)
                 found.append(rec)
                 k = (r.key, r.leg_a, r.src_a, r.leg_b, r.src_b)
                 open_arbs.setdefault(k, [ts, ts])[1] = ts
