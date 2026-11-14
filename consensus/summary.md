@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 14, 7:40AM MT
+# Consensus paper tracker — Sat Nov 14, 8:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-1 | +4.13 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 12-11 | -1.13 | 21-14 | +1.78 | 0 |
+| 2 agree | all 15 | 12-11 | -1.13 | 21-14 | +1.78 | 2 |
 | 2+ agree, 1+ against (split) | all 15 | 21-9 | +13.19 | 18-13 | -0.89 | 0 |
 | 3+ agree (paper play) | core 10 only | 3-0 | +4.15 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 7-4 | +1.14 | 12-5 | +3.25 | 0 |
+| 2 agree | core 10 only | 7-4 | +1.14 | 12-5 | +3.25 | 1 |
 | 2+ agree, 1+ against (split) | core 10 only | 7-3 | +5.03 | 7-5 | -0.57 | 0 |
 
 **By price** (new roster, pre-game, graded):
@@ -42,27 +42,29 @@ Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Ro
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
 
-## Roster health (last 7 days, checked 2026-11-13)
+## Roster health (last 7 days, checked 2026-11-14)
 
 | Trader | Bets/day | Active days | Both-sides % | Share of agreements | Avg stake | Top sports |
 |---|---|---|---|---|---|---|
-| monkeymashingkeyboard | 15.0 | 8 | 2% | 21% of 113 | $12,997 | nba,nfl,wta |
-| purplegatto | 15.4 | 8 | 10% | 24% of 113 | $6,608 | nba,cfb,nfl |
-| jakepaulthegoat2008 | 10.3 | 6 | 3% | 27% of 113 | $85,502 | nba,cs2,cbb |
-| 0xb4F978BE | 14.4 | 7 | 7% | 11% of 113 | $8,570 | cfb,nba,nfl |
-| bands1 | — | — | — | — | — | (pull failed) |
-| fantasy7788 | 6.6 | 7 | 2% | 1% of 113 | $53,105 | cs2,lol,nba |
-| drainedandpoor | 7.1 | 8 | 0% | 16% of 113 | $13,293 | nba,cs2 |
-| 999585 | 5.6 | 7 | 7% | 8% of 113 | $135,208 | cfb,nfl,wta |
-| 0x9f15613e | 18.6 | 8 | 3% | 13% of 113 | $7,078 | nba,nfl,cfb |
-| ic4cream | 6.1 | 8 | 1% | 8% of 113 | $3,022 | cfb,nfl,nba |
-| BreakTheBank | 9.1 | 6 | 0% | 30% of 113 | $94,501 | nfl,nba,ufc |
-| ch27er | 10.1 | 8 | 1% | 10% of 113 | $10,587 | nba,epl,atp |
-| ianf2026 | 8.7 | 5 | 7% | 12% of 113 | $4,021 | nba |
-| JoeyAroyyOO | 8.1 | 7 | 0% | 8% of 113 | $9,672 | nba |
-| Kyn008 | 3.6 | 7 | 0% | 4% of 113 | $14,732 | epl,lal,ere |
+| monkeymashingkeyboard | 15.7 | 8 | 2% | 23% of 131 | $13,638 | nba,nfl,wta |
+| purplegatto | 13.6 | 8 | 11% | 23% of 131 | $7,332 | nba,cfb,nfl |
+| jakepaulthegoat2008 | 11.1 | 6 | 4% | 30% of 131 | $88,235 | nba,cs2,cbb |
+| 0xb4F978BE | 12.1 | 8 | 10% | 11% of 131 | $6,791 | nba,nfl,cfb |
+| bands1 | 6.9 | 8 | 0% | 1% of 131 | $10,661 | nfl,cfb,nba |
+| fantasy7788 | 6.0 | 7 | 2% | 4% of 131 | $45,055 | cs2,lol,nba |
+| drainedandpoor | 7.1 | 8 | 0% | 16% of 131 | $13,921 | cs2,nba |
+| 999585 | 5.3 | 7 | 5% | 7% of 131 | $135,850 | cfb,nfl,wta |
+| 0x9f15613e | 15.7 | 8 | 3% | 14% of 131 | $7,665 | nba,nfl,cfb |
+| ic4cream | 5.7 | 8 | 1% | 8% of 131 | $3,099 | nfl,cfb,nba |
+| BreakTheBank | 10.6 | 7 | 0% | 30% of 131 | $81,583 | nba,nfl,ufc |
+| ch27er | 10.9 | 8 | 1% | 9% of 131 | $8,630 | nba,epl,atp |
+| ianf2026 | 7.0 | 4 | 8% | 11% of 131 | $4,134 | nba |
+| JoeyAroyyOO | 6.9 | 7 | 0% | 7% of 131 | $9,683 | nba |
+| Kyn008 | 4.1 | 7 | 0% | 4% of 131 | $19,769 | unl,epl,lal |
 
 ## Open signals
 
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
+| new | 2026-11-14 | NBA | Mavericks vs. Cavaliers | Mavericks (Moneyline) | 2 agree, 0 against | pre-game | purplegatto; ic4cream | — | 51.5c |
+| new | 2026-11-14 | UNL | Sweden vs. Bosnia and Herzegovina | Draw: No (3-way) | 2 agree, 0 against | pre-game | 0x9f15613e; Kyn008 | — | 79.5c |
