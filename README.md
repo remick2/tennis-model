@@ -7,6 +7,7 @@
 - **Remick's to-dos, none urgent:** (1) optional: create API keys and add the 4 GitHub secrets (`KALSHI_KEY_ID`, `KALSHI_PRIVATE_KEY`, `POLY_KEY_ID`, `POLY_SECRET_KEY`); that only enables a no-trade login test. (2) Kalshi address still says WA, he lives in CO. (3) Fullstar withdrawal (Mon/Fri 6am–4pm MT) if any money is still there.
 - **What runs** (GitHub Actions, public repo, self-restarting loops + watchdog): `arbscan.yml` (scanner, 10s), `bot.yml` (paper bot + maker test, 2s), `snapshot.yml` (hourly background tracker), `consensus*.yml` (separate project, leave alone).
 - **Before pushing any change to `src/bot.py`, `live.py`, `makersim.py` or `arbscan.py`: `python3 tests/test_sim.py`** (offline, synthetic order books, 15 checks). A running workflow keeps its old code until its next run starts; to apply a change now, cancel the run and dispatch a new one.
+- **Don't commit `data/gate.md`, `data/gate.json`, `data/bot/summary.md` or `data/bot/ledger.json` by hand.** The bot regenerates and commits them every 15 min (its version wins on conflict). Read them; don't write them.
 - **Rule learned the hard way:** before trusting any number from a price feed, check how old the data is (response headers, timestamps) and compare two sources. Every Polymarket US book read must go through `arbscan.polyus_book()`, which refuses snapshots older than 3s. Results that look too good (18% edges, huge sizes blinking in and out) are a data bug until proven otherwise.
 
 Tennis model + Phase 2 paper tracking. **No real bets until Phase 2 beats the close.**

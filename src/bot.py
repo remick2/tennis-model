@@ -559,9 +559,12 @@ def write_gate():
 
 
 def commit(msg):
+    # "-X theirs": during a rebase "theirs" is the commit being replayed (this run's freshly generated files), so
+    # if anyone else committed gate.md / gate.json / summary.md / ledger.json meanwhile, the new version wins
+    # instead of the push failing forever (Nov 14: a hand commit of gate.md blocked every bot push).
     cmd = ("git add data/bot data/gate.md data/gate.json 2>/dev/null; git add data/bot && { [ -d data/live ] && git add data/live; true; } && (git diff --cached --quiet || git commit -qm \"%s\"); "
            "for i in 1 2 3 4 5; do "
-           "  if git pull --rebase -q origin main && git push -q origin HEAD:main; then echo pushed; break; fi; "
+           "  if git pull --rebase -q -X theirs origin main && git push -q origin HEAD:main; then echo pushed; break; fi; "
            "  git rebase --abort 2>/dev/null; echo \"push attempt $i failed\"; sleep $((i*20)); "
            "done") % msg
     subprocess.run(["bash", "-c", cmd], cwd=ROOT, check=False)
