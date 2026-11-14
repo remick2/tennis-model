@@ -247,3 +247,28 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-14T02:34:47+00:00,harris v sakamoto,True,Billy Harris,polyus,0.15,Rei Sakamoto,kalshi,0.83,0.9987,0.0,0.0,0,0.0,0.16,0.86,1.0378,0.1,2026-11-14T02:34:47+00:00
 2026-11-14T02:41:37+00:00,hsiou v noguchi,True,Rio Noguchi,polyus,0.16,Yu Hsiou Hsu,kalshi,0.82,0.9997,0.0,0.0,0,0.0,0.2,0.85,1.07,0.1,2026-11-14T02:41:37+00:00
 2026-11-14T02:41:47+00:00,hsiou v noguchi,True,Rio Noguchi,polyus,0.16,Yu Hsiou Hsu,kalshi,0.82,0.9997,0.0,0.0,0,0.0,0.2,0.85,1.07,0.1,2026-11-14T02:41:37+00:00
+2026-11-14T02:42:57+00:00,hsiou v noguchi,True,Rio Noguchi,polyus,0.15,Yu Hsiou Hsu,kalshi,0.83,0.9987,43641.06,0.0,0,0.0,0.15,0.86,1.0273,0.1,2026-11-14T02:42:57+00:00
+2026-11-14T02:47:57+00:00,hsiou v noguchi,True,Rio Noguchi,kalshi,0.24,Yu-Hsiou Hsu,polyus,0.73,0.9965,0.0,0.0,0,0.0,0.27,0.74,1.0372,0.1,2026-11-14T02:47:57+00:00
+2026-11-14T02:50:57+00:00,harris v sakamoto,True,Billy Harris,polyus,0.1,Rei Sakamoto,kalshi,0.88,0.9936,0.0,0.0,0,0.0,0.12,0.91,1.0431,0.1,2026-11-14T02:50:57+00:00
+2026-11-14T02:51:47+00:00,harris v sakamoto,True,Billy Harris,polyus,0.07,Rei Sakamoto,kalshi,0.91,0.9903,0.0,0.0,0,0.0,0.1,0.94,1.0502,0.1,2026-11-14T02:51:47+00:00
+2026-11-14T02:51:57+00:00,harris v sakamoto,True,Billy Harris,polyus,0.07,Rei Sakamoto,kalshi,0.91,0.9903,0.0,0.0,0,0.0,0.1,0.94,1.0502,0.1,2026-11-14T02:51:47+00:00
+2026-11-14T02:52:17+00:00,hsiou v noguchi,True,Rio Noguchi,polyus,0.16,Yu Hsiou Hsu,kalshi,0.81,0.9901,0.0,0.0,0,0.0,0.2,0.85,1.07,0.1,2026-11-14T02:52:17+00:00
+2026-11-14T02:52:27+00:00,hsiou v noguchi,True,Rio Noguchi,polyus,0.16,Yu Hsiou Hsu,kalshi,0.81,0.9901,50430.2,0.0,0,0.0,0.16,0.85,1.0283,0.1,2026-11-14T02:52:17+00:00
+2026-11-14T02:52:47+00:00,harris v sakamoto,True,Billy Harris,kalshi,0.07,Rei Sakamoto,polyus,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0397,0.1,2026-11-14T02:52:47+00:00
+2026-11-14T02:52:57+00:00,harris v sakamoto,True,Billy Harris,kalshi,0.07,Rei Sakamoto,polyus,0.92,0.9997,0.0,0.0,0,0.0,0.09,0.94,1.0397,0.1,2026-11-14T02:52:47+00:00
+2026-11-14T02:53:07+00:00,harris v sakamoto,True,Billy Harris,kalshi,0.07,Rei Sakamoto,polyus,0.92,0.9997,0.0,34240.45,0,0.0,0.09,0.92,1.0208,0.1,2026-11-14T02:52:47+00:00
+2026-11-14T02:53:27+00:00,hsiou v noguchi,True,Rio Noguchi,kalshi,0.15,Yu-Hsiou Hsu,polyus,0.82,0.9892,0.0,46164.71,0,0.0,0.19,0.82,1.031,0.1,2026-11-14T02:53:27+00:00
+2026-11-14T02:53:37+00:00,hsiou v noguchi,True,Rio Noguchi,kalshi,0.15,Yu-Hsiou Hsu,polyus,0.82,0.9892,0.0,46164.71,0,0.0,0.19,0.82,1.031,0.1,2026-11-14T02:53:27+00:00
+2026-11-14T02:53:47+00:00,harris v sakamoto,True,Billy Harris,kalshi,0.08,Rei Sakamoto,polyus,0.9,0.9914,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.1,2026-11-14T02:53:47+00:00
+2026-11-14T02:53:57+00:00,hsiou v noguchi,True,Rio Noguchi,polyus,0.15,Yu Hsiou Hsu,kalshi,0.82,0.9892,0.0,0.0,0,0.0,0.2,0.86,1.0795,0.1,2026-11-14T02:53:57+00:00
+2026-11-14T02:53:57+00:00,harris v sakamoto,True,Billy Harris,kalshi,0.08,Rei Sakamoto,polyus,0.9,0.9914,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.1,2026-11-14T02:53:47+00:00
+2026-11-14T02:54:07+00:00,hsiou v noguchi,True,Rio Noguchi,polyus,0.15,Yu Hsiou Hsu,kalshi,0.82,0.9892,0.0,0.0,0,0.0,0.2,0.86,1.0795,0.1,2026-11-14T02:53:57+00:00
+2026-11-14T02:54:07+00:00,harris v sakamoto,True,Billy Harris,kalshi,0.08,Rei Sakamoto,polyus,0.9,0.9914,0.0,46966.9,0,0.0,0.11,0.9,1.0231,0.1,2026-11-14T02:53:47+00:00
+2026-11-14T02:54:37+00:00,hsiou v noguchi,True,Rio Noguchi,kalshi,0.15,Yu-Hsiou Hsu,polyus,0.82,0.9892,0.0,0.0,0,0.0,0.19,0.86,1.0691,0.1,2026-11-14T02:54:37+00:00
+2026-11-14T02:54:47+00:00,hsiou v noguchi,True,Rio Noguchi,kalshi,0.16,Yu-Hsiou Hsu,polyus,0.82,0.9997,0.0,0.0,0,0.0,0.19,0.86,1.0691,0.1,2026-11-14T02:54:37+00:00
+2026-11-14T02:54:57+00:00,hsiou v noguchi,True,Rio Noguchi,kalshi,0.16,Yu-Hsiou Hsu,polyus,0.82,0.9997,0.0,1.44,0,0.0,0.17,0.82,1.0101,0.1,2026-11-14T02:54:37+00:00
+2026-11-14T02:55:07+00:00,hsiou v noguchi,True,Rio Noguchi,kalshi,0.16,Yu-Hsiou Hsu,polyus,0.79,0.9709,0.0,0.0,0,0.0,0.22,0.82,1.0623,0.1,2026-11-14T02:54:37+00:00
+2026-11-14T02:55:47+00:00,harris v sakamoto,True,Billy Harris,polyus,0.08,Rei Sakamoto,kalshi,0.9,0.9914,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.1,2026-11-14T02:55:47+00:00
+2026-11-14T02:55:57+00:00,harris v sakamoto,True,Billy Harris,polyus,0.08,Rei Sakamoto,kalshi,0.9,0.9914,0.0,0.0,0,0.0,0.11,0.93,1.0514,0.1,2026-11-14T02:55:47+00:00
+2026-11-14T02:56:07+00:00,harris v sakamoto,True,Billy Harris,polyus,0.08,Rei Sakamoto,kalshi,0.9,0.9914,6261.54,0.0,0,0.0,0.08,0.93,1.0197,0.1,2026-11-14T02:55:47+00:00
+2026-11-14T02:56:37+00:00,harris v sakamoto,True,Billy Harris,kalshi,0.08,Rei Sakamoto,polyus,0.9,0.9914,0.0,41904.71,0,0.0,0.11,0.9,1.0231,0.1,2026-11-14T02:56:37+00:00
