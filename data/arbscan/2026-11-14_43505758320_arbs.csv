@@ -152,3 +152,21 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-14T00:54:17+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.03,Nikolas Sanchez Izquierdo,kalshi,0.96,0.9947,0.0,0.0,0,0.0,0.05,0.98,1.0347,0.1,2026-11-14T00:54:17+00:00
 2026-11-14T00:54:27+00:00,izquierdo v tobon,True,Miguel Tobon,polyus,0.03,Nikolas Sanchez Izquierdo,kalshi,0.96,0.9947,0.0,0.0,0,0.0,0.05,0.99,1.044,0.1,2026-11-14T00:54:17+00:00
 2026-11-14T00:54:37+00:00,izquierdo v tobon,True,Miguel Tobon,kalshi,0.03,Nikolas Sanchez Izquierdo,polyus,0.96,0.9947,0.0,0.0,0,0.0,0.05,0.99,1.044,0.1,2026-11-14T00:54:37+00:00
+2026-11-14T00:56:47+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.55,Stefan Kozlov,kalshi,0.41,0.9941,0.0,0.0,0,0.0,0.57,0.46,1.0644,0.1,2026-11-14T00:56:47+00:00
+2026-11-14T01:05:17+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.53,Stefan Kozlov,polyus,0.43,0.9945,0.0,5692.99,0,0.0,0.58,0.43,1.0441,0.1,2026-11-14T01:05:17+00:00
+2026-11-14T01:05:27+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.53,Stefan Kozlov,polyus,0.43,0.9945,0.0,5692.99,0,0.0,0.58,0.43,1.0441,0.1,2026-11-14T01:05:17+00:00
+2026-11-14T01:05:37+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.58,Stefan Kozlov,polyus,0.38,0.9934,0.0,0.0,0,0.0,0.63,0.43,1.0934,0.1,2026-11-14T01:05:17+00:00
+2026-11-14T01:05:47+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.58,Stefan Kozlov,polyus,0.38,0.9934,0.0,55304.29,0,0.0,0.63,0.38,1.0427,0.1,2026-11-14T01:05:17+00:00
+2026-11-14T01:05:57+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.58,Stefan Kozlov,polyus,0.38,0.9934,0.0,55304.29,0,0.0,0.63,0.38,1.0427,0.2,2026-11-14T01:05:17+00:00
+2026-11-14T01:06:07+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.58,Stefan Kozlov,polyus,0.38,0.9934,0.0,55304.29,0,0.0,0.63,0.38,1.0427,0.1,2026-11-14T01:05:17+00:00
+2026-11-14T01:06:17+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.58,Stefan Kozlov,polyus,0.38,0.9934,0.0,32674.52,0,0.0,0.64,0.38,1.0525,0.1,2026-11-14T01:05:17+00:00
+2026-11-14T01:06:37+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.58,Stefan Kozlov,kalshi,0.38,0.9934,0.0,0.0,0,0.0,0.63,0.43,1.0934,0.1,2026-11-14T01:06:37+00:00
+2026-11-14T01:06:47+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.58,Stefan Kozlov,kalshi,0.38,0.9934,34567.8,0.0,0,0.0,0.58,0.43,1.0441,0.1,2026-11-14T01:06:37+00:00
+2026-11-14T01:07:27+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.59,Stefan Kozlov,polyus,0.37,0.9931,0.0,0.0,0,0.0,0.64,0.42,1.0931,0.1,2026-11-14T01:07:27+00:00
+2026-11-14T01:07:37+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.59,Stefan Kozlov,polyus,0.37,0.9931,0.0,0.0,0,0.0,0.64,0.42,1.0931,0.1,2026-11-14T01:07:27+00:00
+2026-11-14T01:07:47+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.59,Stefan Kozlov,polyus,0.37,0.9931,0.0,29054.7,0,0.0,0.64,0.37,1.0423,0.1,2026-11-14T01:07:27+00:00
+2026-11-14T01:08:07+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.59,Stefan Kozlov,kalshi,0.37,0.9931,0.0,0.0,0,0.0,0.64,0.42,1.0931,0.1,2026-11-14T01:08:07+00:00
+2026-11-14T01:08:17+00:00,kozlov v zheng,True,Michael Zheng,polyus,0.59,Stefan Kozlov,kalshi,0.37,0.9931,42689.29,0.0,0,0.0,0.59,0.42,1.0439,0.1,2026-11-14T01:08:07+00:00
+2026-11-14T01:09:37+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.64,Stefan Kozlov,polyus,0.29,0.9604,0.0,0.0,0,0.0,0.72,0.37,1.1203,0.1,2026-11-14T01:09:37+00:00
+2026-11-14T01:09:47+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.64,Stefan Kozlov,polyus,0.29,0.9604,0.0,59550.68,0,0.0,0.72,0.29,1.0384,0.1,2026-11-14T01:09:37+00:00
+2026-11-14T01:09:57+00:00,kozlov v zheng,True,Michael Zheng,kalshi,0.64,Stefan Kozlov,polyus,0.29,0.9604,0.0,59550.68,0,0.0,0.72,0.29,1.0384,0.1,2026-11-14T01:09:37+00:00
