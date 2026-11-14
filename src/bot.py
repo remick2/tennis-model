@@ -37,6 +37,7 @@ import requests
 
 import arbscan as A
 import live as LIVE
+import makersim
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "bot"
@@ -47,7 +48,10 @@ REBALANCE_BELOW = 0.25   # paper: a venue under 25% of total cash = Remick would
 FEE = A.FEE
 MIN_PROFIT = 1.00        # fire only if the whole order nets >= $1 after fees (same bar as the gate)
 MIN_EDGE = 0.001         # every marginal pair must clear $1 by at least 0.1c
-MAX_MATCHES = 10         # ~20 Kalshi + 10 Polymarket US book reads per cycle: inside both rate limits
+MAX_MATCHES = 8          # "hot" matches read every cycle (live, or within 2c of an arb by list prices)
+COLD_PER_CYCLE = 2       # plus this many other matched matches per cycle, round-robin (pre-match coverage + maker test)
+                         # => at most ~20 Kalshi + 10 Polymarket US book reads per cycle: inside both rate limits
+CYCLE_STATS = {"best_exec": None}   # best executable profit seen this cycle, even below MIN_PROFIT
 REFRESH = 60             # seconds between full market-list refreshes
 CONSUME_SECS = 120       # how long liquidity we "took" stays out of later book reads
 RUN = os.environ.get("GITHUB_RUN_ID", "local")
@@ -88,8 +92,9 @@ def read_book(venue, book_id):
         nb = [(float(p), float(q)) for p, q in ob.get("no_dollars") or []]
         return {"yes": {"ask": sorted((round(1 - p, 4), q) for p, q in nb), "bid": sorted(yb, reverse=True)},
                 "no": {"ask": sorted((round(1 - p, 4), q) for p, q in yb), "bid": sorted(nb, reverse=True)}}, secs
-    d, secs = fast_get(f"{A.POLYUS}/v1/markets/{book_id}/book?_={A.fresh()}")   # uncached (see arbscan.fresh)
-    b = (d or {}).get("marketData")
+    t = time.time()
+    b, _age = A.polyus_book(book_id, timeout=4, session=sess())   # uncached + refused if older than POLY_MAX_AGE
+    secs = time.time() - t
     if b is None:
         return None, secs
     off = [(float(x["px"]["value"]), float(x["qty"])) for x in (b.get("offers") or b.get("asks") or [])]
@@ -251,15 +256,16 @@ def summary(L):
 
 # ------------------------------------------------------------------ universe
 def universe():
-    """Matches to watch: every live one on both venues, plus pre-match ones within 2c of an arb.
-    Returns {key: {"live": bool, "insts": {side: [inst, ...]}, "kalshi_tickers": {side: ticker}}}."""
+    """Every match listed on both venues. "hot" ones (live, or within 2c of an arb by list prices; at most
+    MAX_MATCHES) are read every cycle; the rest take turns. Returns {key: {"live", "hot", "insts": {side: [inst]}}}."""
     _, df, c = A.scan()
     if not len(c):
         return {}
     best = c.groupby("key").agg(total=("total", "min"), live=("live", "max"))
-    keep = best[(best.live) | (best.total < 1.02)].sort_values(["live", "total"], ascending=[False, True])
+    keep = best.sort_values(["live", "total"], ascending=[False, True])
+    hot = set(keep[(keep.live) | (keep.total < 1.02)].index[:MAX_MATCHES])
     out = {}
-    for key in keep.index[:MAX_MATCHES]:
+    for key in keep.index:
         g = df[df.key == key]
         sides = sorted(g.side.unique())
         if len(sides) != 2:
@@ -275,17 +281,23 @@ def universe():
                 slug, idx = r.ref.rsplit("#", 1)
                 insts[r.side].append(("polyus", slug, idx))
         names = {r.side: r.player for r in g[g.source == "kalshi"].itertuples()}
-        out[key] = {"live": bool(keep.loc[key, "live"]), "insts": {s: list(dict.fromkeys(v)) for s, v in insts.items()},
+        out[key] = {"live": bool(keep.loc[key, "live"]), "hot": key in hot, "insts": {s: list(dict.fromkeys(v)) for s, v in insts.items()},
                     "names": names}
     return out
 
 
 # ------------------------------------------------------------------ one cycle
-def cycle(U, L, consumed, pool, LV=None):
+def cycle(U, L, consumed, pool, LV=None, MS=None):
     ids = sorted({(i[0], i[1]) for m in U.values() for s in m["insts"].values() for i in s})
     books, read_secs = read_books(ids, pool)
     fires, best_total = [], None
+    CYCLE_STATS["best_exec"] = None
     for key, m in U.items():
+        if MS is not None:
+            try:
+                MS.step(key, m, books)
+            except Exception as e:   # the side test must never break the main loop
+                print("maker sim failed:", repr(e))
         (s1, l1), (s2, l2) = m["insts"].items()
         cands = []
         for ia in l1:
@@ -309,6 +321,7 @@ def cycle(U, L, consumed, pool, LV=None):
         if not cands:
             continue
         exp, ia, ib, sh, fa, fb, sa, sb = max(cands, key=lambda c: c[0])
+        CYCLE_STATS["best_exec"] = exp if CYCLE_STATS["best_exec"] is None else max(CYCLE_STATS["best_exec"], exp)
         if exp < MIN_PROFIT:
             continue
         if LV:
@@ -419,6 +432,14 @@ def fire(key, m, L, consumed, pool, exp, ia, ib, sh, fa, fb, sa, sb, read_secs):
            "read_secs": round(read_secs, 3), "fill_secs": round(fill_secs, 3), "kalshi_after_secs": round(seq_secs, 3),
            "order_a": json.dumps(pay_a), "order_b": json.dumps(pay_b),
            "chase_order": json.dumps(chase_order) if chase_order else ""}
+    # how long did it really last? (fresh books, untouched by our paper fills). Tells whether a faster feed
+    # would help: gone in <1s = only a streaming bot gets it; alive at +3s = polling is enough.
+    t_fire = time.time()
+    for lag in (1, 3):
+        time.sleep(max(0.0, t_fire + lag - time.time()))
+        (b1, _), (b2, _) = pool.map(lambda inst: read_book(inst[0], inst[1]), [ia, ib])
+        rec[f"alive_{lag}s"] = bool(b1 and b2 and sum(q for _, q in take(b1[ia[2]]["ask"], lim_a, sh)) >= sh
+                                    and sum(q for _, q in take(b2[ib[2]]["ask"], lim_b, sh)) >= sh)
     print(f"FIRE {key}: {sh} pairs, expect ${exp:.2f}; polyus-first filled {o['filled_a']}/{o['filled_b']} -> "
           f"{rec['sim_profit']}; both-at-once would be {what_if['filled_a']}/{what_if['filled_b']} -> {rec['both_profit']}",
           flush=True)
@@ -527,8 +548,16 @@ def rebalance(L):
 
 
 # ------------------------------------------------------------------ main loop
+def write_gate():
+    try:
+        import gate
+        gate.main()
+    except Exception as e:
+        print("gate report failed:", repr(e))
+
+
 def commit(msg):
-    cmd = ("git add data/bot && { [ -d data/live ] && git add data/live; true; } && (git diff --cached --quiet || git commit -qm \"%s\"); "
+    cmd = ("git add data/bot data/gate.md data/gate.json 2>/dev/null; git add data/bot && { [ -d data/live ] && git add data/live; true; } && (git diff --cached --quiet || git commit -qm \"%s\"); "
            "for i in 1 2 3 4 5; do "
            "  if git pull --rebase -q origin main && git push -q origin HEAD:main; then echo pushed; break; fi; "
            "  git rebase --abort 2>/dev/null; echo \"push attempt $i failed\"; sleep $((i*20)); "
@@ -558,6 +587,7 @@ def main():
     pool = ThreadPoolExecutor(16)
     start = last_commit = last_settle = time.time()
     U, last_u, handed_off, stats = {}, 0, False, []
+    MS, cold_i, stale_alerted = makersim.MakerSim(), 0, False
     LV = LIVE.Live.from_env()
     if LV:
         LV.cooldown = {}
@@ -580,8 +610,13 @@ def main():
                     print("auth check failed:", type(e).__name__, e)
             LV.refresh()
             live_on = LV.active(day)
+        hot = {k: m for k, m in U.items() if m["hot"]}
+        cold = [k for k, m in U.items() if not m["hot"]]
+        for _ in range(min(COLD_PER_CYCLE, len(cold))):   # the rest take turns
+            k = cold[cold_i % len(cold)]; cold_i += 1
+            hot[k] = U[k]
         try:
-            fires, best, rs = cycle(U, L, consumed, pool, LV if live_on else None)
+            fires, best, rs = cycle(hot, L, consumed, pool, LV if live_on else None, MS)
         except Exception as e:
             print("cycle failed:", repr(e)); fires, best, rs = [], None, 0
         day = A.now().strftime("%Y-%m-%d")
@@ -592,14 +627,30 @@ def main():
                 A.log(OUT / f"{day}_{RUN}_fires.csv", fires)
                 rebalance(L)
                 save_ledger(L)
-        stats.append((time.time() - t0, best, rs))
+        mk = MS.drain()
+        if mk:
+            A.log(OUT / f"{day}_{RUN}_maker.csv", mk)
+        stats.append((time.time() - t0, best, rs, CYCLE_STATS["best_exec"]))
         if len(stats) >= max(1, int(60 / a.interval)):   # one summary row per minute
             A.log(OUT / f"{day}_{RUN}_cycles.csv", [{
                 "ts": A.now().isoformat(timespec="seconds"), "matches": len(U),
                 "live": sum(m["live"] for m in U.values()), "cycles": len(stats),
                 "avg_cycle_ms": round(1000 * sum(s[0] for s in stats) / len(stats)),
                 "max_read_ms": round(1000 * max(s[2] for s in stats)),
-                "best_total": round(min((s[1] for s in stats if s[1] is not None), default=float("nan")), 4)}])
+                "best_total": round(min((s[1] for s in stats if s[1] is not None), default=float("nan")), 4),
+                "hot": sum(m["hot"] for m in U.values()),
+                "sub1_cycles": sum(1 for s in stats if s[1] is not None and s[1] < 1.0),   # cycles with a pair under $1
+                "best_exec": round(max((s[3] for s in stats if s[3] is not None), default=float("nan")), 2),  # best $ a fire would net
+                "poly_reads": A.POLY_STATS["reads"], "poly_stale": A.POLY_STATS["stale"],
+                "poly_unknown_age": A.POLY_STATS["unknown"], "poly_max_age": A.POLY_STATS["max_age"],
+                "maker_quote_reads": MS.posted}])
+            if A.POLY_STATS["reads"] >= 20 and A.POLY_STATS["stale"] > 0.2 * A.POLY_STATS["reads"] and not stale_alerted:
+                stale_alerted = True
+                LIVE.issue("DATA PROBLEM: Polymarket US feed is stale again",
+                           f"{A.POLY_STATS['stale']} of {A.POLY_STATS['reads']} Polymarket US book reads in the last minute "
+                           f"were older than {A.POLY_STATS['max_age']:.0f}s (limit {A.POLY_MAX_AGE:.0f}s). Stale books are "
+                           "refused, so nothing is being counted, but the cache-buster in arbscan.polyus_book needs a look.")
+            A.POLY_STATS.update(reads=0, stale=0, unknown=0, max_age=0.0); MS.posted = 0
             stats = []
         if time.time() - last_settle > 300:
             settle(L); rebalance(L); save_ledger(L); last_settle = time.time()
@@ -607,7 +658,7 @@ def main():
                 settle_live(LV)
         elapsed = (time.time() - start) / 60
         if time.time() - last_commit > 15 * 60:
-            save_ledger(L); summary(L)
+            save_ledger(L); summary(L); write_gate()
             if not a.no_git:
                 commit(f"bot {A.now().isoformat(timespec='minutes')[:16]}Z")
             last_commit = time.time()
@@ -616,7 +667,7 @@ def main():
         if elapsed > a.minutes:
             break
         time.sleep(max(0, a.interval - (time.time() - t0)))
-    settle(L); save_ledger(L); summary(L)
+    settle(L); save_ledger(L); summary(L); write_gate()
     if not a.no_git:
         if not handed_off:
             dispatch_next()

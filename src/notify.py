@@ -27,6 +27,7 @@ def depth(src, event, player, price):
     """Shares available at <= price. Kalshi: orderbook (YES asks = 1 - NO bids). Polymarket: CLOB book."""
     import json as _j
     import requests
+    from arbscan import polyus_book
     try:
         if src == "kalshi":
             ms = requests.get("https://api.elections.kalshi.com/trade-api/v2/markets",
@@ -37,7 +38,9 @@ def depth(src, event, player, price):
             return sum(float(q) for p, q in (ob.get("no_dollars") or []) if 1 - float(p) <= price + 1e-9)
         if src == "polyus":  # event = "<market slug>#<outcome index>"; the book is for outcome 0 (long)
             slug, idx = event.rsplit("#", 1)
-            b = requests.get(f"https://gateway.polymarket.us/v1/markets/{slug}/book", timeout=20).json()["marketData"]
+            b = polyus_book(slug)[0]   # uncached + freshness guard (plain reads can be 30s stale)
+            if b is None:
+                return None
             if idx == "0":  # buy long at <= price
                 asks = b.get("offers") or b.get("asks") or []
                 return sum(float(a["qty"]) for a in asks if float(a["px"]["value"]) <= price + 1e-9)

@@ -2,8 +2,10 @@
 
 Nothing here runs unless ALL of these hold:
   - Remick's API keys are in the GitHub secrets (KALSHI_KEY_ID, KALSHI_PRIVATE_KEY, POLY_KEY_ID, POLY_SECRET_KEY)
-  - data/live/ENABLED exists; its contents are the max dollars per venue per arb (e.g. "25").
+  - data/live/ENABLED exists; its first line is the max dollars per venue per arb (e.g. "25").
     Delete that file on GitHub to stop live trading instantly (the bot re-reads it every minute).
+  - data/gate.json says the fresh-data gate passed ("pass": true, written by gate.py). Only Remick can
+    override that, by putting the word force on a second line of ENABLED.
   - today's live losses haven't hit DAILY_LOSS_STOP and order errors haven't hit ERROR_STOP
     (either one turns live trading off for the rest of the run and opens a GitHub issue)
 
@@ -193,10 +195,19 @@ class Live:
         # the switch is read from GitHub's copy, so deleting the file on github.com stops trading within a minute
         subprocess.run(["git", "fetch", "-q", "origin", "main"], cwd=ROOT, check=False, capture_output=True)
         r = subprocess.run(["git", "show", "origin/main:data/live/ENABLED"], cwd=ROOT, capture_output=True, text=True)
+        lines = r.stdout.split() if r.returncode == 0 else []
         try:
-            self.cap = float(r.stdout.strip()) if r.returncode == 0 else None
+            self.cap = float(lines[0]) if lines else None
         except ValueError:
             self.cap = None
+        # second lock: the fresh-data gate must have passed (data/gate.json, written by gate.py), unless Remick
+        # himself adds the word "force" on a second line of ENABLED. Stops anyone enabling live on old numbers.
+        g = subprocess.run(["git", "show", "origin/main:data/gate.json"], cwd=ROOT, capture_output=True, text=True)
+        try:
+            self.gate_pass = bool(json.loads(g.stdout).get("pass")) if g.returncode == 0 else False
+        except ValueError:
+            self.gate_pass = False
+        self.force = len(lines) > 1 and lines[1].lower() == "force"
         for venue, c in (("kalshi", self.k), ("polyus", self.p)):
             try:
                 self.bal[venue] = c.balance()
@@ -205,6 +216,8 @@ class Live:
 
     def active(self, day):
         if self.off_reason or not self.cap or None in self.bal.values():
+            return False
+        if not (getattr(self, "gate_pass", False) or getattr(self, "force", False)):
             return False
         return self.L["loss_by_day"].get(day, 0.0) < DAILY_LOSS_STOP
 

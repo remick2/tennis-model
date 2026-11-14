@@ -26,6 +26,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import pandas as pd
+from email.utils import parsedate_to_datetime
+
 import requests
 
 from snapshot import canonical
@@ -52,6 +54,42 @@ def fresh():
     so a plain request can be up to 30s old (found Nov 14: plain read 0.20/0.22 while the live book was
     0.18/0.19). A changing query value gets a current snapshot. Kalshi's order-book endpoint isn't cached."""
     return int(time.time() * 1000)
+
+
+POLY_MAX_AGE = 3.0   # seconds: a Polymarket US book snapshot older than this is refused (treated as no data)
+POLY_STATS = {"reads": 0, "stale": 0, "unknown": 0, "max_age": 0.0}
+
+
+def _age(headers):
+    """How old the snapshot is, from the response's own Last-Modified and Date headers (no clock skew)."""
+    try:
+        lm, dt = headers.get("last-modified"), headers.get("date")
+        return (parsedate_to_datetime(dt) - parsedate_to_datetime(lm)).total_seconds() if lm and dt else None
+    except Exception:
+        return None
+
+
+def polyus_book(slug, timeout=20, session=None):
+    """Polymarket US order book, uncached, with a freshness guard. Returns (marketData or None, age_secs).
+    Every Polymarket US book read in this project must go through here: a stale book next to a live Kalshi
+    book manufactures arbs (the Nov 8-14 mistake). If the cache-buster ever stops working the guard returns
+    None, POLY_STATS['stale'] climbs, and gate.py / the bot raise it instead of logging phantom arbs."""
+    try:
+        r = (session or S).get(f"{POLYUS}/v1/markets/{slug}/book", params={"_": fresh()}, timeout=timeout)
+        if r.status_code != 200:
+            return None, None
+        age = _age(r.headers)
+        POLY_STATS["reads"] += 1
+        if age is None:
+            POLY_STATS["unknown"] += 1
+        else:
+            POLY_STATS["max_age"] = max(POLY_STATS["max_age"], age)
+            if age > POLY_MAX_AGE:
+                POLY_STATS["stale"] += 1
+                return None, age
+        return r.json().get("marketData"), age
+    except (requests.RequestException, ValueError):
+        return None, None
 
 
 def get(url, params=None, tries=3):
@@ -118,7 +156,9 @@ def depth(src, ref, price):
             lv = [(1 - float(p), float(q)) for p, q in (ob.get("no_dollars") or [])]
         else:
             slug, idx = ref.rsplit("#", 1)
-            b = (get(f"{POLYUS}/v1/markets/{slug}/book", {"_": fresh()}) or {}).get("marketData") or {}
+            b = polyus_book(slug)[0]
+            if b is None:
+                return None, None
             if idx == "0":
                 lv = [(float(a["px"]["value"]), float(a["qty"])) for a in (b.get("offers") or b.get("asks") or [])]
             else:
@@ -299,6 +339,8 @@ def main():
                                "minutes": round((pd.Timestamp(ts) - pd.Timestamp(first)).total_seconds() / 60, 1),
                                "min_minutes": round((pd.Timestamp(last) - pd.Timestamp(first)).total_seconds() / 60, 1)})
         summ["arbs_under_1"] = len(found)
+        summ["poly_reads"], summ["poly_stale"], summ["poly_max_age"] = POLY_STATS["reads"], POLY_STATS["stale"], POLY_STATS["max_age"]
+        POLY_STATS.update(reads=0, stale=0, unknown=0, max_age=0.0)
         log(OUT / f"{day}_{RUN}_scans.csv", [summ])
         log(OUT / f"{day}_{RUN}_arbs.csv", found)
         log(OUT / f"{day}_{RUN}_lifetimes.csv", closed)
