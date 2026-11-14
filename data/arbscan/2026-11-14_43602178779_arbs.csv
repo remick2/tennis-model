@@ -1,0 +1,5 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-14T14:56:38+00:00,altmaier v basavareddy,True,Daniel Altmaier,polyus,0.28,Nishesh Basavareddy,kalshi,0.66,0.9697,0.0,0,0,0.0,0.31,0.73,1.0687,0.1,2026-11-14T14:56:38+00:00
+2026-11-14T14:56:58+00:00,altmaier v basavareddy,True,Daniel Altmaier,polyus,0.22,Nishesh Basavareddy,kalshi,0.73,0.9757,0.0,0,0,0.0,0.31,0.79,1.1265,0.1,2026-11-14T14:56:58+00:00
+2026-11-14T14:57:08+00:00,altmaier v basavareddy,True,Daniel Altmaier,polyus,0.22,Nishesh Basavareddy,kalshi,0.73,0.9757,32264.41,0,0,0.0,0.22,0.79,1.0335,0.1,2026-11-14T14:56:58+00:00
+2026-11-14T14:57:18+00:00,altmaier v basavareddy,True,Daniel Altmaier,polyus,0.22,Nishesh Basavareddy,kalshi,0.73,0.9757,32264.41,0,0,0.0,0.22,0.79,1.0335,0.1,2026-11-14T14:56:58+00:00
