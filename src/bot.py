@@ -36,11 +36,14 @@ import pandas as pd
 import requests
 
 import arbscan as A
+import live as LIVE
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "bot"
 LEDGER = OUT / "ledger.json"
 START_CASH = {"kalshi": 345.0, "polyus": 345.0}   # Remick's ~$690, split evenly
+DRY_CAP = 150.0          # paper: max dollars per venue per arb (one arb can't tie up the whole bankroll)
+REBALANCE_BELOW = 0.25   # paper: a venue under 25% of total cash = Remick would move money; logged + equalized
 FEE = A.FEE
 MIN_PROFIT = 1.00        # fire only if the whole order nets >= $1 after fees (same bar as the gate)
 MIN_EDGE = 0.001         # every marginal pair must clear $1 by at least 0.1c
@@ -229,7 +232,9 @@ def summary(L):
              f"locked in {len(L['open'])} open matches: ${locked:.2f}",
              f"- Bankroll now (cash + open at cost): **${L['cash']['kalshi'] + L['cash']['polyus'] + locked:.2f}**",
              f"- Fires: {L['fires']} · settled: {L['settled']} · settled P&L **${L['settled_pnl']:+.2f}** "
-             f"(includes unwinds: ${L['unwind_pnl']:+.2f})"]
+             f"(includes unwinds: ${L['unwind_pnl']:+.2f})",
+             f"- Paper rebalances (times Remick would have had to move money between venues): {L.get('rebalances', 0)}"
+             f" · cap ${DRY_CAP:.0f} per venue per arb"]
     if len(f):
         new = f[f.get("mode", pd.Series(index=f.index, dtype=object)) == "polyus_first"] if "mode" in f else f.iloc[0:0]
         num = lambda c: pd.to_numeric(new[c], errors="coerce").sum() if len(new) and c in new else 0.0
@@ -276,7 +281,7 @@ def universe():
 
 
 # ------------------------------------------------------------------ one cycle
-def cycle(U, L, consumed, pool):
+def cycle(U, L, consumed, pool, LV=None):
     ids = sorted({(i[0], i[1]) for m in U.values() for s in m["insts"].values() for i in s})
     books, read_secs = read_books(ids, pool)
     fires, best_total = [], None
@@ -294,7 +299,8 @@ def cycle(U, L, consumed, pool):
                 if la and lb:
                     t = unit_cost(la[0][0], FEE[ia[0]]) + unit_cost(lb[0][0], FEE[ib[0]])
                     best_total = t if best_total is None else min(best_total, t)
-                sh, fa, fb = walk(la, lb, FEE[ia[0]], FEE[ib[0]], L["cash"][ia[0]], L["cash"][ib[0]])
+                cash = (lambda v: LV.cash(v)) if LV else (lambda v: min(L["cash"][v], DRY_CAP))
+                sh, fa, fb = walk(la, lb, FEE[ia[0]], FEE[ib[0]], cash(ia[0]), cash(ib[0]))
                 if not sh:
                     continue
                 (pxa, fea), (pxb, feb) = leg_cost(fa, FEE[ia[0]]), leg_cost(fb, FEE[ib[0]])
@@ -305,7 +311,13 @@ def cycle(U, L, consumed, pool):
         exp, ia, ib, sh, fa, fb, sa, sb = max(cands, key=lambda c: c[0])
         if exp < MIN_PROFIT:
             continue
-        fires.append(fire(key, m, L, consumed, pool, exp, ia, ib, sh, fa, fb, sa, sb, read_secs))
+        if LV:
+            if time.time() < LV.cooldown.get(key, 0):
+                continue
+            LV.cooldown[key] = time.time() + 10
+            fires.append(live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs))
+        else:
+            fires.append(fire(key, m, L, consumed, pool, exp, ia, ib, sh, fa, fb, sa, sb, read_secs))
     return fires, best_total, read_secs
 
 
@@ -413,9 +425,110 @@ def fire(key, m, L, consumed, pool, exp, ia, ib, sh, fa, fb, sa, sb, read_secs):
     return rec
 
 
+def live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs):
+    """REAL ORDERS. Polymarket US IOC first; Kalshi IOC for exactly what filled; if Kalshi is short, one more
+    Kalshi IOC at break-even; anything still unhedged is sold on Polymarket US (at most 6c/share loss)."""
+    ts, day = A.now().isoformat(timespec="seconds"), A.now().strftime("%Y-%m-%d")
+    cid = uuid.uuid4().hex[:12]
+    lim_a, lim_b = ceil_cent(max(p for p, _ in fa)), ceil_cent(max(p for p, _ in fb))
+    p_i, k_i = (ia, ib) if ia[0] == "polyus" else (ib, ia)
+    p_lim, k_lim = (lim_a, lim_b) if p_i is ia else (lim_b, lim_a)
+    t = time.time()
+    rp = LV.p.order(p_i[1], p_i[2], int(sh), p_lim, f"{cid}p")
+    qp = int(rp["filled"])
+    rk = rk2 = ru = None
+    qk = 0.0
+    if qp:
+        rk = LV.k.order(k_i[1], k_i[2], qp, k_lim, f"{cid}k")
+        qk = rk["filled"]
+        if qk < qp:   # Kalshi short: try once more at break-even
+            paid = (rp["avg"] * qp + rp["fee"]) / qp
+            lim2 = LIVE.breakeven_limit(paid, FEE["kalshi"])
+            if lim2 >= 0.01:
+                rk2 = LV.k.order(k_i[1], k_i[2], qp - qk, lim2, f"{cid}c")
+                qk += rk2["filled"]
+        if qk < qp:   # still short: sell the extra Polymarket US shares
+            ru = LV.p.order(p_i[1], p_i[2], int(round(qp - qk)), max(0.01, rp["avg"] - LIVE.UNWIND_MAX_LOSS),
+                            f"{cid}u", sell=True)
+    secs = time.time() - t
+    for r in (rp, rk, rk2, ru):
+        if r and not r["ok"]:
+            LV.errors += 1
+    consumed.add(ia, fa); consumed.add(ib, fb)   # don't re-fire on a stale read of what we just took
+    p_cost = rp["avg"] * qp + rp["fee"]
+    k_cost = sum(r["avg"] * r["filled"] + r["fee"] for r in (rk, rk2) if r)
+    sold = ru["filled"] if ru else 0.0
+    proceeds = (ru["avg"] * sold - ru["fee"]) if sold else 0.0
+    unwind_pnl = round(proceeds - (p_cost / qp) * sold, 2) if sold else 0.0
+    held = {"polyus": qp - sold, "kalshi": qk}
+    naked = round(held["polyus"] - held["kalshi"], 2)
+    cost = round(p_cost + k_cost - proceeds, 2)
+    profit = round(min(held.values()) - cost, 2) if abs(naked) < 0.01 else None
+    if unwind_pnl < 0:
+        LV.L["loss_by_day"][day] = round(LV.L["loss_by_day"].get(day, 0.0) - unwind_pnl, 2)
+    if held["kalshi"] or held["polyus"]:
+        LV.L["open"].append({"id": cid, "key": key, "opened": ts, "kalshi_ticker": k_i[1], "kalshi_side": k_i[2],
+                             "shares": held, "cost": cost, "expected": round(exp, 2)})
+        LV.L["trades"] += 1
+    LV.save()
+    for venue, amt in (("polyus", p_cost - proceeds), ("kalshi", k_cost)):   # until the next real balance read
+        LV.bal[venue] = (LV.bal[venue] or 0.0) - amt
+    rec = {"ts": ts, "key": key, "live": m["live"], "mode": "LIVE", "planned_shares": sh, "expected": round(exp, 2),
+           "polyus_leg": f"{p_i[1]}:{p_i[2]}", "polyus_limit": p_lim, "polyus_filled": qp, "polyus_avg": round(rp["avg"], 4),
+           "kalshi_leg": f"{k_i[1]}:{k_i[2]}", "kalshi_limit": k_lim, "kalshi_filled": qk,
+           "kalshi_retry_filled": rk2["filled"] if rk2 else 0, "unwound": sold, "unwind_pnl": unwind_pnl,
+           "naked": naked, "cost": cost, "locked_profit": "" if profit is None else profit,
+           "secs": round(secs, 3), "read_secs": round(read_secs, 3),
+           "responses": json.dumps({k: {"code": r["code"], "resp": r["resp"]} for k, r in
+                                    (("polyus", rp), ("kalshi", rk), ("kalshi_retry", rk2), ("unwind", ru)) if r})[:4000]}
+    print(f"LIVE {key}: polyus {qp}/{sh} @{rp['avg']:.3f}, kalshi {qk} -> locked {rec['locked_profit']} "
+          f"unwind {unwind_pnl:+.2f} naked {naked}", flush=True)
+    if qp and not LV.L["first_trade_alerted"]:
+        LV.L["first_trade_alerted"] = True; LV.save()
+        LIVE.issue(f"LIVE: first real arb, {key}", f"Bought {qp:.0f} pairs. Locked profit: {rec['locked_profit'] or 'see below'}."
+                   f" Unwind P&L {unwind_pnl:+.2f}, unhedged shares {naked}.")
+    if sold or abs(naked) >= 0.01:
+        LIVE.issue(f"LIVE: one leg short on {key}",
+                   f"Polymarket US filled {qp}, Kalshi {qk}. Sold back {sold} for {unwind_pnl:+.2f}. "
+                   f"Unhedged shares riding to settlement: {naked}. Today's live losses: "
+                   f"${LV.L['loss_by_day'].get(day, 0):.2f} (stop at ${LIVE.DAILY_LOSS_STOP:.0f}).")
+    if LV.errors >= LIVE.ERROR_STOP:
+        LV.turn_off(f"{LV.errors} order API errors (last: {json.dumps(rec['responses'])[:300]})")
+    return rec
+
+
+def settle_live(LV):
+    still = []
+    for pos in LV.L["open"]:
+        d = A.get(f"{A.KALSHI}/markets/{pos['kalshi_ticker']}", tries=2) or {}
+        mk = d.get("market") or {}
+        v = (1.0 if mk.get("result") == "yes" else 0.0) if mk.get("result") in ("yes", "no") else (
+            float(mk["settlement_value_dollars"]) if mk.get("result") == "scalar" and mk.get("settlement_value_dollars") else None)
+        if v is None:
+            still.append(pos); continue
+        k_pay = v if pos["kalshi_side"] == "yes" else 1 - v
+        pnl = round(k_pay * pos["shares"]["kalshi"] + (1 - k_pay) * pos["shares"]["polyus"] - pos["cost"], 2)
+        LV.L["realized"] = round(LV.L["realized"] + pnl, 2)
+        A.log(LIVE.LIVE_DIR / f"{A.now():%Y-%m}_settlements.csv",
+              [{"ts": A.now().isoformat(timespec="seconds"), "id": pos["id"], "key": pos["key"], "cost": pos["cost"],
+                "pnl": pnl, "expected": pos["expected"]}])
+    LV.L["open"] = still
+    LV.save()
+
+
+def rebalance(L):
+    """Paper only: if one venue's cash falls under REBALANCE_BELOW of the total, Remick would move money by bank
+    transfer. Log it and split the cash evenly again so the dry run keeps trading."""
+    tot = L["cash"]["kalshi"] + L["cash"]["polyus"]
+    if tot > 0 and min(L["cash"].values()) < REBALANCE_BELOW * tot:
+        A.log(OUT / "rebalances.csv", [{"ts": A.now().isoformat(timespec="seconds"), **{f"before_{k}": v for k, v in L["cash"].items()}}])
+        L["cash"] = {"kalshi": round(tot / 2, 2), "polyus": round(tot / 2, 2)}
+        L["rebalances"] = L.get("rebalances", 0) + 1
+
+
 # ------------------------------------------------------------------ main loop
 def commit(msg):
-    cmd = ("git add data/bot && (git diff --cached --quiet || git commit -qm \"%s\"); "
+    cmd = ("git add data/bot && { [ -d data/live ] && git add data/live; true; } && (git diff --cached --quiet || git commit -qm \"%s\"); "
            "for i in 1 2 3 4 5; do "
            "  if git pull --rebase -q origin main && git push -q origin HEAD:main; then echo pushed; break; fi; "
            "  git rebase --abort 2>/dev/null; echo \"push attempt $i failed\"; sleep $((i*20)); "
@@ -445,6 +558,10 @@ def main():
     pool = ThreadPoolExecutor(16)
     start = last_commit = last_settle = time.time()
     U, last_u, handed_off, stats = {}, 0, False, []
+    LV = LIVE.Live.from_env()
+    if LV:
+        LV.cooldown = {}
+        print("live keys found; live trading only while data/live/ENABLED exists", flush=True)
     while True:
         t0 = time.time()
         if t0 - last_u > REFRESH:
@@ -453,14 +570,28 @@ def main():
             except Exception as e:  # a bad market list shouldn't kill the loop
                 print("universe refresh failed:", e)
             last_u = t0
+        day = A.now().strftime("%Y-%m-%d")
+        live_on = False
+        if LV:
+            if U and not (LIVE.LIVE_DIR / "auth_check.json").exists():
+                try:
+                    LIVE.auth_check(LV, U)
+                except Exception as e:
+                    print("auth check failed:", type(e).__name__, e)
+            LV.refresh()
+            live_on = LV.active(day)
         try:
-            fires, best, rs = cycle(U, L, consumed, pool)
+            fires, best, rs = cycle(U, L, consumed, pool, LV if live_on else None)
         except Exception as e:
             print("cycle failed:", repr(e)); fires, best, rs = [], None, 0
         day = A.now().strftime("%Y-%m-%d")
         if fires:
-            A.log(OUT / f"{day}_{RUN}_fires.csv", fires)
-            save_ledger(L)
+            if live_on:
+                A.log(LIVE.LIVE_DIR / f"{day}_{RUN}_trades.csv", fires)
+            else:
+                A.log(OUT / f"{day}_{RUN}_fires.csv", fires)
+                rebalance(L)
+                save_ledger(L)
         stats.append((time.time() - t0, best, rs))
         if len(stats) >= max(1, int(60 / a.interval)):   # one summary row per minute
             A.log(OUT / f"{day}_{RUN}_cycles.csv", [{
@@ -471,7 +602,9 @@ def main():
                 "best_total": round(min((s[1] for s in stats if s[1] is not None), default=float("nan")), 4)}])
             stats = []
         if time.time() - last_settle > 300:
-            settle(L); save_ledger(L); last_settle = time.time()
+            settle(L); rebalance(L); save_ledger(L); last_settle = time.time()
+            if LV:
+                settle_live(LV)
         elapsed = (time.time() - start) / 60
         if time.time() - last_commit > 15 * 60:
             save_ledger(L); summary(L)

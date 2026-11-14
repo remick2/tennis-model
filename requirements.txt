@@ -6,3 +6,4 @@ pyarrow>=15
 requests>=2.31
 tabulate
 beautifulsoup4
+cryptography>=42

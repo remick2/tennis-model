@@ -9,6 +9,7 @@ on:
 permissions:
   contents: write
   actions: write
+  issues: write
 concurrency:
   group: bot
   cancel-in-progress: false
@@ -26,6 +27,12 @@ jobs:
       - name: dry-run bot
         env:
           GH_TOKEN: ${{ github.token }}
+          # Remick's keys (added by him in Settings > Secrets). Without them the bot stays dry; with them it
+          # trades only while data/live/ENABLED exists.
+          KALSHI_KEY_ID: ${{ secrets.KALSHI_KEY_ID }}
+          KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
+          POLY_KEY_ID: ${{ secrets.POLY_KEY_ID }}
+          POLY_SECRET_KEY: ${{ secrets.POLY_SECRET_KEY }}
         run: |
           git config user.name "tennis-bot-dryrun"
           git config user.email "actions@users.noreply.github.com"
