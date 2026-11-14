@@ -1,0 +1,7 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,first_seen
+2026-11-14T09:16:14+00:00,ribecai v searle,True,Henry Searle,polyus,0.07,Michele Ribecai,kalshi,0.91,0.9903,0,0.0,0,0.0,0.08,0.94,1.0291,0.0,2026-11-14T09:16:14+00:00
+2026-11-14T09:16:34+00:00,ribecai v searle,True,Henry Searle,polyus,0.03,Michele Ribecai,kalshi,0.94,0.976,0,0.0,0,0.0,0.04,0.98,1.024,0.0,2026-11-14T09:16:34+00:00
+2026-11-14T09:16:44+00:00,ribecai v searle,True,Henry Searle,polyus,0.03,Michele Ribecai,kalshi,0.94,0.976,0,0.0,0,0.0,0.04,0.98,1.024,0.0,2026-11-14T09:16:34+00:00
+2026-11-14T09:16:54+00:00,ribecai v searle,True,Henry Searle,polyus,0.03,Michele Ribecai,kalshi,0.94,0.976,0,0.0,0,0.0,0.04,0.98,1.024,0.0,2026-11-14T09:16:34+00:00
+2026-11-14T09:18:24+00:00,ribecai v searle,True,Henry Searle,kalshi,0.03,Michele Ribecai,polyus,0.96,0.9947,0,0.0,0,0.0,0.04,0.98,1.0241,0.0,2026-11-14T09:18:24+00:00
+2026-11-14T09:18:34+00:00,ribecai v searle,True,Henry Searle,kalshi,0.03,Michele Ribecai,polyus,0.96,0.9947,0,3543.61,0,0.0,0.04,0.96,1.0054,0.0,2026-11-14T09:18:24+00:00
