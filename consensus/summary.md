@@ -1,4 +1,4 @@
-# Consensus paper tracker — Fri Nov 13, 8:40PM MT
+# Consensus paper tracker — Fri Nov 13, 9:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,17 +8,18 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 1 |
-| 2 agree | all 15 | 11-11 | -2.03 | 18-12 | -0.37 | 3 |
-| 2+ agree, 1+ against (split) | all 15 | 19-9 | +10.09 | 18-12 | +0.11 | 2 |
-| 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 6-4 | +0.24 | 9-3 | +1.10 | 3 |
-| 2+ agree, 1+ against (split) | core 10 only | 6-3 | +4.01 | 7-5 | -0.57 | 1 |
+| 3+ agree (paper play) | all 15 | 5-1 | +4.13 | 4-0 | +1.36 | 0 |
+| 2 agree | all 15 | 11-11 | -2.03 | 20-12 | +0.70 | 1 |
+| 2+ agree, 1+ against (split) | all 15 | 20-9 | +11.11 | 18-12 | +0.11 | 2 |
+| 3+ agree (paper play) | core 10 only | 3-0 | +4.15 | 1-0 | +0.12 | 0 |
+| 2 agree | core 10 only | 6-4 | +0.24 | 11-3 | +2.17 | 1 |
+| 2+ agree, 1+ against (split) | core 10 only | 7-3 | +5.03 | 7-5 | -0.57 | 0 |
 
 **By price** (new roster, pre-game, graded):
 
 | Rule | Price range | Record | Units | Actual wins | Expected wins | Edge |
 |---|---|---|---|---|---|---|
+| 3+ agree (paper play) | Underdog (<45c) | 1-0 | +2.17 | 1 | 0.3 | +0.7 |
 | 3+ agree (paper play) | Coin flip (45-65c) | 3-1 | +1.69 | 3 | 2.1 | +0.9 |
 | 3+ agree (paper play) | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
 | 2 agree | Underdog (<45c) | 0-5 | -5.00 | 0 | 1.6 | -1.6 |
@@ -66,8 +67,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-13 | CFB | Houston vs. Colorado | Colorado (+9.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; bands1 | — | 52.5c |
-| new | 2026-11-13 | NBA | Hawks vs. Bulls | Bulls (Moneyline) | 4 agree, 0 against | pre-game | monkeymashingkeyboard; purplegatto; jakepaulthegoat2008; drainedandpoor | — | 31.5c |
-| new | 2026-11-13 | NBA | Hawks vs. Bulls | Bulls (+6.5) (Spread) | 3 agree, 1 against | pre-game | jakepaulthegoat2008; drainedandpoor; 0x9f15613e | purplegatto | 49.5c |
-| new | 2026-11-13 | NBA | Jazz vs. Rockets | Rockets (Moneyline) | 2 agree, 0 against | in-play | monkeymashingkeyboard; purplegatto | — | 91.5c |
-| new | 2026-11-13 | NBA | Jazz vs. Rockets | Jazz (+15.5) (Spread) | 2 agree, 0 against | in-play | 0xb4F978BE; 0x9f15613e | — | 50.5c |
 | new | 2026-11-13 | NBA | Thunder vs. Clippers | Clippers (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; BreakTheBank | jakepaulthegoat2008 | 32.5c |
+| new | 2026-11-13 | NBA | Thunder vs. Clippers | Thunder (-7.5) (Spread) | 2 agree, 1 against | in-play | jakepaulthegoat2008; ch27er | BreakTheBank | 16.0c |
