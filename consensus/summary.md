@@ -1,4 +1,4 @@
-# Consensus paper tracker — Fri Nov 13, 7:40PM MT
+# Consensus paper tracker — Fri Nov 13, 8:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 4-1 | +1.96 | 4-0 | +1.36 | 1 |
-| 2 agree | all 15 | 11-11 | -2.03 | 16-12 | -1.59 | 5 |
-| 2+ agree, 1+ against (split) | all 15 | 18-9 | +7.45 | 17-12 | -0.25 | 4 |
+| 2 agree | all 15 | 11-11 | -2.03 | 18-12 | -0.37 | 3 |
+| 2+ agree, 1+ against (split) | all 15 | 19-9 | +10.09 | 18-12 | +0.11 | 2 |
 | 3+ agree (paper play) | core 10 only | 2-0 | +1.98 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 6-4 | +0.24 | 8-3 | +0.42 | 4 |
-| 2+ agree, 1+ against (split) | core 10 only | 5-3 | +1.37 | 7-5 | -0.57 | 2 |
+| 2 agree | core 10 only | 6-4 | +0.24 | 9-3 | +1.10 | 3 |
+| 2+ agree, 1+ against (split) | core 10 only | 6-3 | +4.01 | 7-5 | -0.57 | 1 |
 
 **By price** (new roster, pre-game, graded):
 
@@ -67,11 +67,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-13 | CFB | Houston vs. Colorado | Colorado (+9.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; bands1 | — | 52.5c |
 | new | 2026-11-13 | NBA | Hawks vs. Bulls | Bulls (Moneyline) | 4 agree, 0 against | pre-game | monkeymashingkeyboard; purplegatto; jakepaulthegoat2008; drainedandpoor | — | 31.5c |
-| new | 2026-11-13 | NBA | Knicks vs. Pacers | Pacers (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; jakepaulthegoat2008 | purplegatto | 27.5c |
 | new | 2026-11-13 | NBA | Hawks vs. Bulls | Bulls (+6.5) (Spread) | 3 agree, 1 against | pre-game | jakepaulthegoat2008; drainedandpoor; 0x9f15613e | purplegatto | 49.5c |
 | new | 2026-11-13 | NBA | Jazz vs. Rockets | Rockets (Moneyline) | 2 agree, 0 against | in-play | monkeymashingkeyboard; purplegatto | — | 91.5c |
-| new | 2026-11-13 | NBA | Grizzlies vs. Pelicans | Grizzlies (Moneyline) | 2 agree, 1 against | in-play | jakepaulthegoat2008; BreakTheBank | monkeymashingkeyboard | 73.5c |
-| new | 2026-11-13 | NBA | Grizzlies vs. Pelicans | Grizzlies (-3.5) (Spread) | 2 agree, 0 against | in-play | jakepaulthegoat2008; BreakTheBank | — | 65.0c |
-| new | 2026-11-13 | NBA | Cavaliers vs. Heat | Heat (Moneyline) | 2 agree, 0 against | in-play | jakepaulthegoat2008; fantasy7788 | — | 59.5c |
 | new | 2026-11-13 | NBA | Jazz vs. Rockets | Jazz (+15.5) (Spread) | 2 agree, 0 against | in-play | 0xb4F978BE; 0x9f15613e | — | 50.5c |
 | new | 2026-11-13 | NBA | Thunder vs. Clippers | Clippers (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; BreakTheBank | jakepaulthegoat2008 | 32.5c |
