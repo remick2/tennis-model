@@ -18,6 +18,8 @@ Tiers (judged across all 15): Paper play = 3+ agree and nobody against; Track on
 agree and nobody against; Split = 2+ agree but 1+ of the 15 is on the other side.
 Each row also stores the agreeing/opposing names, so the core-10-only version can be graded too.
 Results are 1 unit flat at the price when the signal was logged (not the traders' entries).
+Since the Nov 14 audit each row also stores the ask and fee rate at log time, the closing price, and net units
+after spread + taker fees; reports show those and a fixed go-live test (30+ graded 3+ plays, net > 0, z >= 2).
 """
 import csv
 import json
@@ -81,7 +83,14 @@ CORE10 = list(TRADERS)[:10]
 
 FIELDS = ["id", "logged_at", "game_date", "league", "game", "event_slug", "side", "market",
           "agree", "against", "agree_n", "against_n", "core10_n", "their_entry", "price_at_log",
-          "tier", "status", "units", "condition_id", "outcome_index", "note"]
+          "tier", "status", "units", "condition_id", "outcome_index", "note",
+          # reality-check columns (Nov 14 audit): what a real taker would pay and whether the price moved our way
+          "ask_at_log", "fee_rate", "close_price", "net_units"]
+CLOB = "https://clob.polymarket.com"
+HALF_SPREAD = 0.005      # assumed when the ask wasn't recorded (rows logged before Nov 14)
+# Go-live test, fixed on Nov 14 so the bar can't drift: 3+ agree, pre-game, graded net of spread and taker fees
+GO_LIVE_MIN_GRADED = 30
+GO_LIVE_MIN_Z = 2.0
 
 LEAGUES = {"nba": "NBA", "nfl": "NFL", "nhl": "NHL", "mlb": "MLB", "cfb": "CFB", "cbb": "CBB",
            "wnba": "WNBA", "lol": "LoL", "cs2": "CS2", "val": "Valorant", "dota2": "Dota 2",
@@ -275,6 +284,53 @@ def start_time(slug):
         return None
 
 
+def quote(slug, cid, oi):
+    """(ask for this outcome, fee rate) from the event's market data; (None, None) if unavailable."""
+    for m in event_info(slug).get("markets") or []:
+        if m.get("conditionId") == cid:
+            try:
+                bid, ask = float(m.get("bestBid") or 0), float(m.get("bestAsk") or 0)
+            except (TypeError, ValueError):
+                bid = ask = 0.0
+            a = ask if int(oi) == 0 else (1 - bid if bid else 0.0)
+            rate = (m.get("feeSchedule") or {}).get("rate")
+            return (round(a, 4) if 0 < a < 1 else None), rate
+    return None, None
+
+
+def net_units(r):
+    """Units after paying the ask (or logged price + half a cent) and the taker fee: fee = rate x (1 - price) per
+    unit staked, from Polymarket's contracts x rate x p x (1-p)."""
+    try:
+        a = float(r.get("ask_at_log") or 0) or float(r["price_at_log"]) + HALF_SPREAD
+        f = float(r.get("fee_rate") or 0)
+    except (TypeError, ValueError):
+        return ""
+    a = min(max(a, 0.01), 0.99)
+    fee = f * (1 - a)
+    return round((1 - a) / a - fee, 3) if r["status"] == "W" else round(-1 - fee, 3)
+
+
+def closing_price(m, oi, start_ts):
+    """Last traded price before the game started (the 'closing line')."""
+    try:
+        tok = json.loads(m.get("clobTokenIds") or "[]")[int(oi)]
+        h = get(f"{CLOB}/prices-history", market=tok, startTs=int(start_ts - 5400), endTs=int(start_ts + 30), fidelity=5)
+        hist = [x for x in h.get("history", []) if x["t"] <= start_ts]
+        return hist[-1]["p"] if hist else None
+    except Exception:
+        return None
+
+
+def market_start(m):
+    s = (m.get("gameStartTime") or "").strip().replace(" ", "T")
+    s = re.sub(r"\+00$", "+00:00", s).replace("Z", "+00:00")
+    try:
+        return datetime.fromisoformat(s).timestamp() if s else None
+    except ValueError:
+        return None
+
+
 def load():
     if not LOG.exists():
         return []
@@ -309,12 +365,16 @@ def merge(rows, found, now):
                                 agree_n=agree_n, against_n=against_n,
                                 core10_n=sum(n in CORE10 for n in s["agree"]),
                                 price_at_log=s["price"],
+                                ask_at_log=quote(s["event_slug"], s["condition_id"], s["outcome_index"])[0] or "",
                                 note=(existing["note"] + "; " if existing["note"] else "")
                                 + f"upgraded to paper play at {s['price'] * 100:.1f}c on {now:%Y-%m-%d}")
                 new_plays.append((existing, st))
             continue
         day = (st or now).astimezone(MT).strftime("%Y-%m-%d")
         prefix = s["event_slug"].split("-")[0]
+        ask, rate = quote(s["event_slug"], s["condition_id"], s["outcome_index"])
+        if ask is not None and not (s["price"] - 0.03 <= ask <= s["price"] + 0.10):
+            ask = None          # stale or crossed quote: fall back to the half-spread assumption
         rid = f"{day.replace('-', '')}-{s['event_slug']}-{re.sub(r'[^a-z0-9]+', '-', s['side'].lower()).strip('-')}"
         if any(r["id"] == rid for r in rows):
             rid += "-r2"
@@ -328,6 +388,8 @@ def merge(rows, found, now):
             "their_entry": s["entry"], "price_at_log": s["price"], "tier": t, "status": "open", "units": "",
             "condition_id": s["condition_id"], "outcome_index": s["outcome_index"],
             "note": "in progress when logged" if started else "",
+            "ask_at_log": ask if ask is not None else "", "fee_rate": rate if rate is not None else "",
+            "close_price": "", "net_units": "",
         }
         rows.append(row)
         if t == "Paper play" and not started:
@@ -335,20 +397,36 @@ def merge(rows, found, now):
     return new_plays
 
 
+def _market(cid):
+    for closed in ("true", "false"):
+        try:
+            j = get(f"{GAMMA}/markets", condition_ids=cid, closed=closed)
+        except Exception:
+            j = []
+        if j:
+            return j[0]
+    return None
+
+
+def fill_reality(r, m):
+    """Fee rate, closing price (pre-game rows) and net units for a graded row."""
+    if r.get("fee_rate") in ("", None):
+        rate = (m.get("feeSchedule") or {}).get("rate")
+        r["fee_rate"] = rate if rate is not None else 0
+    if r.get("close_price") in ("", None) and not in_play(r):
+        st = market_start(m)
+        if st:
+            c = closing_price(m, r["outcome_index"], st)
+            r["close_price"] = c if c is not None else "na"
+    r["net_units"] = net_units(r)
+
+
 def grade(rows):
     graded = 0
     for r in rows:
         if r["status"] != "open":
             continue
-        m = None
-        for closed in ("true", "false"):
-            try:
-                j = get(f"{GAMMA}/markets", condition_ids=r["condition_id"], closed=closed)
-            except Exception:
-                j = []
-            if j:
-                m = j[0]
-                break
+        m = _market(r["condition_id"])
         if not m:
             continue
         try:
@@ -358,10 +436,21 @@ def grade(rows):
         price = float(r["price_at_log"])
         if p >= 0.98:
             r["status"], r["units"] = "W", round((1 - price) / price, 2)
-            graded += 1
         elif p <= 0.02:
             r["status"], r["units"] = "L", -1.0
-            graded += 1
+        else:
+            continue
+        graded += 1
+        fill_reality(r, m)
+    # backfill rows graded before these columns existed (bounded per run)
+    todo = [r for r in rows if r["status"] in ("W", "L") and r.get("net_units") in ("", None)][:40]
+    for r in todo:
+        m = _market(r["condition_id"])
+        if m:
+            fill_reality(r, m)
+        else:
+            r["fee_rate"] = r.get("fee_rate") or 0
+            r["net_units"] = net_units(r)
     return graded
 
 
@@ -431,6 +520,54 @@ def price_table(rows, tiers=("Paper play", "Track only")):
     return lines
 
 
+def _f(x):
+    try:
+        return float(x)
+    except (TypeError, ValueError):
+        return None
+
+
+def reality_table(rows):
+    """Pre-game only: record at the logged price vs after the spread and taker fees, plus closing-line value."""
+    lines = ["| Rule | Graded | Wins vs expected | Units at logged price | Units after spread + fees | Price move by game time |",
+             "|---|---|---|---|---|---|"]
+    for t in ("Paper play", "Track only", "Split"):
+        g = [r for r in rows if r["tier"] == t and not in_play(r) and r["status"] in ("W", "L")]
+        if not g:
+            lines.append(f"| {LABEL[t]} | 0 | — | — | — | — |")
+            continue
+        w = sum(r["status"] == "W" for r in g)
+        exp = sum(float(r["price_at_log"]) for r in g)
+        u = sum(float(r["units"]) for r in g)
+        net = [x for x in (_f(r.get("net_units")) for r in g) if x is not None]
+        clv = [c - float(r["price_at_log"]) for r in g for c in [_f(r.get("close_price"))] if c is not None]
+        move = f"{100 * sum(clv) / len(clv):+.2f}c avg ({len(clv)})" if clv else "—"
+        lines.append(f"| {LABEL[t]} | {len(g)} | {w} vs {exp:.1f} ({w - exp:+.1f}) | {u:+.2f} | "
+                     f"{sum(net):+.2f}{'' if len(net) == len(g) else ' (partial)'} | {move} |")
+    return lines
+
+
+def go_live_line(rows):
+    """The fixed test for real money: 3+ agree, pre-game, net of costs."""
+    g = [r for r in rows if r["tier"] == "Paper play" and not in_play(r) and r["status"] in ("W", "L")]
+    if not g:
+        return "**Go-live test (3+ agree, pre-game):** no graded plays yet."
+    a = [(_f(r.get("ask_at_log")) or float(r["price_at_log"]) + HALF_SPREAD) for r in g]
+    w = sum(r["status"] == "W" for r in g)
+    var = sum(x * (1 - x) for x in a)
+    z = (w - sum(a)) / var ** 0.5 if var else 0.0
+    net = sum(x for x in (_f(r.get("net_units")) for r in g) if x is not None)
+    ok = len(g) >= GO_LIVE_MIN_GRADED and z >= GO_LIVE_MIN_Z and net > 0
+    return (f"**Go-live test (3+ agree, pre-game, after spread + fees):** {len(g)} of {GO_LIVE_MIN_GRADED} graded plays · "
+            f"net {net:+.2f}u · {w} wins vs {sum(a):.1f} expected, z = {z:+.2f} (needs {GO_LIVE_MIN_Z:.1f}+) → "
+            f"**{'PASSED' if ok else 'not yet'}**. Passing needs all three: {GO_LIVE_MIN_GRADED}+ plays, positive net units, "
+            f"z of {GO_LIVE_MIN_Z:.0f}+.")
+
+
+REALITY_NOTE = ("Units after spread + fees = paying the ask (or logged price + 0.5c when the ask wasn't recorded) plus "
+                "Polymarket's taker fee (rate x (1 - price) of the stake, about 2.5% at 50c). Price move = closing "
+                "price minus logged price; sharp signals should see the price move their way before the game.")
+
 RULES = ("Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. "
          "Split = 2+ agree but someone in the group is on the other side. "
          "Pre-game = logged before the game started (what you could actually bet off an alert); "
@@ -458,6 +595,8 @@ def write_summary(rows, now):
              "## New roster (since Nov 7, 6:40pm MT)", "",
              "In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the first 10 slots. "
              "Official reports every Friday from Nov 13.", "", *record_table(new), "",
+             go_live_line(new), "",
+             "**After costs** (new roster, pre-game):", "", *reality_table(new), "", REALITY_NOTE, "",
              "**By price** (new roster, pre-game, graded):", "",
              *price_table([r for r in new if not in_play(r)]), "",
              "## Old roster (Nov 3 – Nov 7, closed)", "",
@@ -485,6 +624,10 @@ def alert(new_plays):
         out.append(f"**PAPER PLAY: {r['side']} {r['market']} ({r['game']}) @ {float(r['price_at_log']) * 100:.1f}c "
                    f"· 1u paper · starts {when}**")
         out.append(f"Agree ({r['agree_n']}): {r['agree']}")
+        a, f = _f(r.get("ask_at_log")), _f(r.get("fee_rate")) or 0
+        if a:
+            out.append(f"Taking the ask costs {a * 100:.1f}c + {100 * f * (1 - a):.1f}% fee; a resting limit at "
+                       f"{float(r['price_at_log']) * 100:.1f}c pays no fee.")
         out.append("")
     return "\n".join(out)
 
@@ -503,7 +646,7 @@ def pick_replacement(out_name, now):
     """Bench pick if it still qualifies, else the best leaderboard trader by sports overlap with the group."""
     since = (now - timedelta(days=HEALTH_DAYS)).timestamp()
     taken = {w.lower() for w in TRADERS.values()} | {r["wallet"].lower() for r in _roster.get("removed", [])}
-    for b in _roster.get("bench", {}).get(out_name, []):
+    for b in _roster.get("bench", {}).get(out_name, []) + _roster.get("bench", {}).get("*", []):
         if b["wallet"].lower() in taken:
             continue
         t = trader_stats(b["wallet"], since, HEALTH_DAYS)
@@ -694,6 +837,8 @@ def due_reports(rows, now, stats):
             "logged price.", "",
             f"### Last 7 days (logged since {friday - timedelta(days=7):%b %-d})", "", *record_table(wk), "",
             "### Since the new roster started", "", *record_table(new), "",
+            go_live_line(new), "",
+            "### After costs (pre-game, since the new roster started)", "", *reality_table(new), "", REALITY_NOTE, "",
             "### By price (since the new roster started)", "",
             "Expected wins = what the market's prices implied. Beating it is the edge signal; heavy favorites "
             "winning proves little.", "",
@@ -701,6 +846,8 @@ def due_reports(rows, now, stats):
             "**In-play:**", "", *price_table([r for r in new if in_play(r)]), "", RULES, "",
             f"### Roster health (last {HEALTH_DAYS} days)", "", *health_table(h), "",
             "Watch for: >17 bets/day or >33% of agreements (Serf-style), >10% both sides (ethanaz-style), <5 bets/day.",
+            "", "The separate 'Consensus weekly audit' issue rebuilds all of this from full trade history for a fixed "
+            "panel; trust it over this table when the two disagree.",
         ]) + "\n"))
     return out
 

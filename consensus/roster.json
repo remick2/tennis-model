@@ -84,6 +84,13 @@
     "wallet": "0x951634357346bb291df117f9ac410100feea2104",
     "note": "NBA, ~7/day, never both sides"
    }
+  ],
+  "*": [
+   {
+    "name": "justwins",
+    "wallet": "0xa2cced8bfae7d645f7f437fb76becf2fcbb70cbc",
+    "note": "NBA/WNBA; Nov 14 audit: 52 bets, wins +4.3 over expected, price moves his way"
+   }
   ]
  },
  "removed": [

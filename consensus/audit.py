@@ -1,25 +1,41 @@
-"""One-off, read-only audit collector for the consensus tracker (manual workflow: consensus-audit).
+"""Weekly, read-only audit of the consensus idea (workflow: consensus-audit, Fridays + manual).
 
-Pulls every trade since the evening of Nov 3 2026 for the traders who were top-50 on the monthly sports
-leaderboard THAT day (so they were picked before the test window), plus traders added to the roster
-later, and aggregates them per trader / market / side, split into pre-game and all trades. Prints the
-result as gzip+base64 lines prefixed AUDITDATA: so the analysis can be done offline. Changes nothing.
+The hourly tracker only sees what it happened to poll, and its roster keeps changing. This rebuilds every
+signal from the traders' full trade history instead, for a FIXED panel: the traders who were top-50 on the
+monthly sports leaderboard on Nov 3 2026 (picked before the test window, so the results are out of sample),
+plus traders added to the roster later (counted only from the day they were picked). For each trader/market
+it finds the pre-game entry ($1k+, 75%+ of their money on one side), then asks:
+  1. do these traders beat the price on their own?           (wins vs what their prices implied)
+  2. does agreement add anything?                            (2 agree, 3+ agree, split)
+  3. does the price move their way before the game?          (closing-line value)
+Writes audit.md (line 1 = issue title). With --dump also prints the raw aggregates as AUDITDATA lines.
+Changes nothing in the tracker.
 """
 import base64
 import gzip
 import json
+import math
 import re
+import statistics as st
 import sys
 import time
+from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
+from pathlib import Path
 
 import requests
 
 DATA = "https://data-api.polymarket.com"
 GAMMA = "https://gamma-api.polymarket.com"
 UA = {"User-Agent": "consensus-paper-tracker/1.0"}
-T0 = int(datetime(2026, 11, 4, 0, 30, tzinfo=timezone.utc).timestamp())   # leaderboard was pulled ~00:20Z
-MAX_PAGES = 60
+CLOB = "https://clob.polymarket.com"
+ROOT = Path(__file__).resolve().parent
+PANEL_START = int(datetime(2026, 11, 4, 0, 30, tzinfo=timezone.utc).timestamp())   # leaderboard was pulled ~00:20Z
+T0 = max(PANEL_START, int(time.time()) - 35 * 86400)    # rolling 35-day cap keeps the weekly run bounded
+MAX_PAGES = 250
+MM_CHECK_PAGES = 20      # after this many pages, stop early on wallets that are clearly two-sided market makers
+ROSTER2 = int(datetime(2026, 11, 8, 1, 0, tzinfo=timezone.utc).timestamp())
 DATED = re.compile(r"\d{4}-\d{2}-\d{2}$")
 
 # rank on the Nov 3 monthly sports leaderboard, name, wallet, monthly PnL then, monthly volume then
@@ -74,14 +90,15 @@ NOV3 = """1|BreakTheBank|0xf0318c32136c2db7fec88b84869aee6a1106c80c|5922965|8945
 49|ethanaz|0xf28e42d20e4826f2b10a24bc952001697947cab2|230579|15822542
 50|olegio|0x12ec6d71325afac2b4d25b3de94185e2c48d41ae|214998|1464711"""
 # added to the roster later (picked from Nov 7 / Nov 10 screens): rank 0 = not in the Nov 3 top 50
-LATER = """0|purplegatto|0x032eb1bc893940263ad0b01889f262fc232f2a9e|0|0
-0|999585|0x88a6c8e00c4752a8c70d24025fa781fa046a7e77|0|0
-0|JoeyAroyyOO|0xc3744a19f42266ce6fa2736f52eae6e178b20f3e|0|0
-0|Kyn008|0xd29312e2446a746bbd94408e1c475f1ec6d7d683|0|0
-0|ianf2026|0x81d972dbea298a5064d4ba51031e0386182fe9c9|0|0
-0|fantasy7788|0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e|0|0
-0|bands1|0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f|0|0
-0|AppleTiiime|0x951634357346bb291df117f9ac410100feea2104|0|0"""
+# last field = the day they were picked (their bets count only from then)
+LATER = """0|purplegatto|0x032eb1bc893940263ad0b01889f262fc232f2a9e|0|2026-11-08
+0|999585|0x88a6c8e00c4752a8c70d24025fa781fa046a7e77|0|2026-11-08
+0|JoeyAroyyOO|0xc3744a19f42266ce6fa2736f52eae6e178b20f3e|0|2026-11-08
+0|Kyn008|0xd29312e2446a746bbd94408e1c475f1ec6d7d683|0|2026-11-08
+0|ianf2026|0x81d972dbea298a5064d4ba51031e0386182fe9c9|0|2026-11-09
+0|fantasy7788|0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e|0|2026-11-11
+0|bands1|0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f|0|2026-11-11
+0|AppleTiiime|0x951634357346bb291df117f9ac410100feea2104|0|2026-11-11"""
 
 S = requests.Session()
 
@@ -103,9 +120,19 @@ def get(url, params):
     return None
 
 
+def two_sided(acts):
+    mk = {}
+    for a in acts:
+        if a.get("type") == "TRADE" and a.get("side") == "BUY" and a.get("condition_id"):
+            mk.setdefault(a["condition_id"], set()).add(a.get("outcome_index"))
+    return len(mk) >= 50 and sum(len(v) > 1 for v in mk.values()) > 0.3 * len(mk)
+
+
 def activity(wallet):
     out, cursor, pages = [], None, 0
     while pages < MAX_PAGES:
+        if pages == MM_CHECK_PAGES and two_sided(out):
+            return out, "truncated"
         p = {"user": wallet, "limit": 500}
         if cursor:
             p["cursor"] = cursor
@@ -156,15 +183,26 @@ def markets(cids):
     return out
 
 
-def main():
-    people = [l.split("|") for l in (NOV3 + "\n" + LATER).splitlines()]
+def collect():
+    people = []
+    for l in NOV3.splitlines():
+        rank, name, w, pnl, vol = l.split("|")
+        people.append((int(rank), name, w, int(pnl), int(vol), PANEL_START))
+    for l in LATER.splitlines():
+        rank, name, w, pnl, day = l.split("|")
+        people.append((0, name, w, 0, 0, int(datetime.fromisoformat(day + "T01:00:00+00:00").timestamp())))
+    known = {p[2].lower() for p in people}
+    try:
+        roster = json.loads((ROOT / "roster.json").read_text())["traders"]
+    except Exception:
+        roster = []
+    for t in roster:       # anyone swapped in later: picked on activity, not profit, so counted from the start
+        if t["wallet"].lower() not in known:
+            people.append((0, t["name"], t["wallet"], 0, 0, PANEL_START))
     wallets, raw = [], {}
-    for rank, name, w, pnl, vol in people:
+    for rank, name, w, pnl, vol, frm in people:
         acts, flag = activity(w)
         win = [a for a in acts if a.get("timestamp", 0) >= T0]
-        types = {}
-        for a in win:
-            types[a.get("type")] = types.get(a.get("type"), 0) + 1
         tr = [a for a in win if a.get("type") == "TRADE" and DATED.search(a.get("event_slug") or "")
               and a.get("condition_id")]
         mk = {}
@@ -173,22 +211,20 @@ def main():
                 mk.setdefault(a["condition_id"], set()).add(a.get("outcome_index"))
         both = sum(len(v) > 1 for v in mk.values())
         days = max(1.0, (time.time() - T0) / 86400)
-        info = {"rank": int(rank), "name": name, "wallet": w, "pnl_nov3": int(pnl), "vol_nov3": int(vol),
-                "flag": flag, "n_window": len(win), "n_trades": len(tr), "types": types, "n_markets": len(mk),
-                "both_pct": round(100 * both / len(mk)) if mk else 0,
-                "oldest": min((a["timestamp"] for a in acts), default=0)}
+        info = {"rank": rank, "name": name, "wallet": w, "pnl_nov3": pnl, "vol_nov3": vol, "from_ts": frm,
+                "flag": flag, "n_trades": len(tr), "n_markets": len(mk),
+                "both_pct": round(100 * both / len(mk)) if mk else 0}
         info["mm"] = bool(flag or info["both_pct"] > 30 or len(mk) / days > 60)
         wallets.append(info)
         raw[w] = tr
-        print(f"{rank:>2} {name[:24]:24} window {len(win):6} trades {len(tr):6} markets {len(mk):5} "
-              f"both {info['both_pct']:3}% {flag} {'MM' if info['mm'] else ''}", file=sys.stderr)
+        print(f"{rank:>2} {name[:24]:24} trades {len(tr):6} markets {len(mk):5} both {info['both_pct']:3}% "
+              f"{flag} {'MM' if info['mm'] else ''}", file=sys.stderr)
 
     cids = {a["condition_id"] for i in wallets if not i["mm"] for a in raw[i["wallet"]]}
     print(f"looking up {len(cids)} markets", file=sys.stderr)
     mk = markets(cids)
     cid_list = sorted(mk)
     cid_idx = {c: i for i, c in enumerate(cid_list)}
-
     rows = []
     for wi, info in enumerate(wallets):
         if info["mm"]:
@@ -198,13 +234,11 @@ def main():
             cid = a["condition_id"]
             if cid not in mk:
                 continue
-            st = mk[cid][2]
+            st_ = mk[cid][2]
             oi = a.get("outcome_index")
             usd, sh, px, ts = float(a.get("usdc_size") or 0), float(a.get("size") or 0), float(a.get("price") or 0), a["timestamp"]
             r = agg.setdefault((cid, oi), [0.0] * 8 + [None, None, None, None, a.get("token_id") or ""])
-            # 0 pre_buy_usd 1 pre_buy_sh 2 pre_sell_usd 3 pre_sell_sh 4 all_buy_usd 5 all_buy_sh 6 all_sell_usd
-            # 7 all_sell_sh 8 t_first 9 p_first 10 t_cross 11 p_cross 12 token
-            pre = st is not None and ts < st
+            pre = st_ is not None and ts < st_
             if a.get("side") == "BUY":
                 r[4] += usd
                 r[5] += sh
@@ -223,14 +257,196 @@ def main():
                     r[3] += sh
         for (cid, oi), r in agg.items():
             rows.append([wi, cid_idx[cid], oi] + [round(x, 2) for x in r[:8]] + r[8:])
-
-    blob = {"T0": T0, "now": int(time.time()), "wallets": wallets, "cids": cid_list,
+    return {"T0": T0, "now": int(time.time()), "wallets": wallets, "cids": cid_list,
             "markets": [mk[c] for c in cid_list], "rows": rows}
-    b = base64.b64encode(gzip.compress(json.dumps(blob, separators=(",", ":")).encode())).decode()
-    print(f"rows {len(rows)} markets {len(cid_list)} b64 {len(b)}", file=sys.stderr)
-    for i in range(0, len(b), 4000):
-        print("AUDITDATA:" + b[i:i + 4000])
-    print("AUDITEND")
+
+
+# ---------------------------------------------------------------- analysis
+# row layout: 0 wallet 1 market 2 outcome 3 pre_buy_usd 4 pre_buy_sh 5 pre_sell_usd 6 pre_sell_sh 7 all_buy_usd
+#             8 all_buy_sh 9 all_sell_usd 10 all_sell_sh 11 t_first 12 p_first 13 t_cross 14 p_cross 15 token
+
+def entries(blob):
+    """One directional pre-game entry per trader and market, plus $ PnL per trader on resolved game markets."""
+    W, MK = blob["wallets"], blob["markets"]
+    ent, pnl = [], defaultdict(lambda: [0.0, 0.0, 0])
+    bywm = defaultdict(list)
+    for r in blob["rows"]:
+        bywm[(r[0], r[1])].append(r)
+    for (wi, ci), rs in bywm.items():
+        slug, q, start, res, rate, toks = MK[ci]
+        frm = W[wi].get("from_ts", blob["T0"])
+        if res is not None and start and start >= max(blob["T0"], frm) + 6 * 3600 and all(r[10] <= r[8] * 1.02 + 1 for r in rs):
+            pnl[wi][0] += sum(r[9] + max(0.0, r[8] - r[10]) * res[r[2]] - r[7]
+                              for r in rs if r[2] is not None and r[2] < len(res))
+            pnl[wi][1] += sum(r[7] for r in rs)
+            pnl[wi][2] += 1
+        tot = sum(r[3] for r in rs)
+        if tot <= 0 or not start:
+            continue
+        top = max(rs, key=lambda r: r[3] - r[5])
+        if top[13] is None or top[13] < frm or top[3] < 0.75 * tot or top[4] <= 0:
+            continue
+        oi = top[2]
+        ent.append(dict(w=wi, c=ci, oi=oi, slug=slug, start=start,
+                        res=None if res is None or oi is None or oi >= len(res) else res[oi], rate=rate or 0.0,
+                        tok=toks[oi] if oi is not None and oi < len(toks) else top[15],
+                        p_avg=top[3] / top[4], p_cross=top[14], t_cross=top[13]))
+    return ent, pnl
+
+
+def add_close(ent):
+    need = list({(e["tok"], e["start"]) for e in ent if e["tok"]})
+
+    def fetch(k):
+        tok, start = k
+        for i in range(4):
+            try:
+                r = S.get(f"{CLOB}/prices-history", params={"market": tok, "startTs": start - 5400, "endTs": start + 30,
+                                                            "fidelity": 5}, headers=UA, timeout=30)
+                if r.status_code == 429:
+                    time.sleep(3 * (i + 1))
+                    continue
+                h = [x for x in r.json().get("history", []) if x["t"] <= start]
+                return k, (h[-1]["p"] if h else None)
+            except Exception:
+                time.sleep(1 + i)
+        return k, None
+
+    close = {}
+    with ThreadPoolExecutor(6) as ex:
+        for k, v in ex.map(fetch, need):
+            close[k] = v
+    for e in ent:
+        e["close"] = close.get((e["tok"], e["start"]))
+
+
+def stats(es, price="p_cross"):
+    g = [e for e in es if e["res"] is not None]
+    if not g:
+        return None
+    w = sum(e["res"] >= 0.5 for e in g)
+    exp = sum(e[price] for e in g)
+    ev = defaultdict(float)                 # cluster by game: several bets on one game are one outcome
+    for e in g:
+        ev[e["slug"]] += (1 if e["res"] >= 0.5 else 0) - e[price]
+    den = math.sqrt(sum(v * v for v in ev.values()))
+    c = [e["close"] - e[price] for e in es if e.get("close") is not None]
+    return dict(n=len(g), games=len(ev), w=w, exp=exp, z=sum(ev.values()) / den if den else 0.0,
+                roi=st.mean(((1 if e["res"] >= 0.5 else 0) - e[price]) / e[price] for e in g),
+                fee=st.mean(e["rate"] * (1 - e[price]) for e in g), clv=st.mean(c) if c else None)
+
+
+def row(label, s):
+    if not s:
+        return f"| {label} | 0 | — | — | — | — | — |"
+    clv = f"{100 * s['clv']:+.2f}c" if s["clv"] is not None else "—"
+    return (f"| {label} | {s['n']} ({s['games']} games) | {s['w']} vs {s['exp']:.1f} ({s['w'] - s['exp']:+.1f}) | "
+            f"{s['z']:+.2f} | {100 * s['roi']:+.1f}% | {100 * (s['roi'] - s['fee']):+.1f}% | {clv} |")
+
+
+HEAD = ["| | Bets | Wins vs expected | z | Return before fees | After taker fees | Price move by game time |",
+        "|---|---|---|---|---|---|---|"]
+
+
+def consensus(ent, cohort, tmin=0):
+    """First time 2 (and 3) panel traders are on the same side pre-game, priced at that trader's fill."""
+    bym = defaultdict(list)
+    for e in ent:
+        if e["w"] in cohort and e["t_cross"] >= tmin:
+            bym[e["c"]].append(e)
+    out = {"two": [], "three": [], "split": []}
+    for es in bym.values():
+        byo = defaultdict(list)
+        for e in es:
+            byo[e["oi"]].append(e)
+        for oi, lst in byo.items():
+            lst.sort(key=lambda e: e["t_cross"])
+            others = sorted(e["t_cross"] for o2, l2 in byo.items() if o2 != oi for e in l2)
+            split_done = False
+            for k in range(2, len(lst) + 1):
+                e = lst[k - 1]
+                against = sum(t <= e["t_cross"] for t in others)
+                if against == 0 and k == 2:
+                    out["two"].append(e)
+                elif against == 0 and k == 3:
+                    out["three"].append(e)
+                elif against and k > against and not split_done:
+                    out["split"].append(e)
+                    split_done = True
+    return out
+
+
+def report(blob):
+    W = blob["wallets"]
+    ent, pnl = entries(blob)
+    add_close(ent)
+    days = (blob["now"] - blob["T0"]) / 86400
+    nov3 = {i for i, w in enumerate(W) if w["rank"] > 0 and not w["mm"]}
+    panel = {i for i, w in enumerate(W) if not w["mm"]}
+    try:
+        names = {t["name"] for t in json.loads((ROOT / "roster.json").read_text())["traders"]}
+    except Exception:
+        names = set()
+    cur = {i for i, w in enumerate(W) if w["name"] in names and not w["mm"]}
+    top50 = [w for w in W if w["rank"] > 0]
+    mm = sum(w["mm"] for w in top50)
+    quiet = sum(1 for i, w in enumerate(W) if w["rank"] > 0 and not w["mm"] and not any(e["w"] == i for e in ent))
+    tot, stake = sum(pnl[i][0] for i in nov3), sum(pnl[i][1] for i in nov3)
+    up = sum(pnl[i][0] > 0 for i in nov3 if pnl[i][2] >= 5)
+    down = sum(pnl[i][0] < 0 for i in nov3 if pnl[i][2] >= 5)
+    cp, cc = consensus(ent, panel), consensus(ent, cur, ROSTER2)
+    n3 = len(cc["three"]) / max(1.0, (blob["now"] - ROSTER2) / 86400)
+    L = [f"Consensus weekly audit: {datetime.now(timezone.utc):%b %-d}",
+         f"Rebuilt from the traders' full trade history ({days:.0f} days, since "
+         f"{datetime.fromtimestamp(blob['T0'], timezone.utc):%b %-d}), independent of what the hourly tracker happened "
+         "to catch. Every bet is 1 unit at the price when it was made. **z** is how far wins sit above what the "
+         "prices implied, in standard deviations, counting several bets on one game as one result: around 0 is "
+         "luck, 2+ on 30+ bets starts to mean something.", "",
+         "### 1. Do these traders beat the price on their own?", "", *HEAD,
+         row("Nov 3 top-50 (the ones who make picks)", stats([e for e in ent if e["w"] in nov3], "p_avg")),
+         row("Current roster (since Nov 8)", stats([e for e in ent if e["w"] in cur and e["t_cross"] >= ROSTER2], "p_avg")), "",
+         "### 2. Does agreement add anything?", "",
+         f"**Whole panel ({len(panel)} traders):**", "", *HEAD,
+         row("One trader alone", stats([e for e in ent if e["w"] in panel], "p_avg")),
+         row("2 agree, nobody against", stats(cp["two"])),
+         row("3 agree, nobody against", stats(cp["three"])),
+         row("More for than against", stats(cp["split"])), "",
+         f"**Current roster only (since Nov 8, about {n3:.1f} three-way agreements a day):**", "", *HEAD,
+         row("2 agree, nobody against", stats(cc["two"])),
+         row("3 agree, nobody against", stats(cc["three"])),
+         row("More for than against", stats(cc["split"])), "",
+         "### 3. What happened to the Nov 3 leaderboard", "",
+         f"- Of the top 50 that day: **{mm}** are market makers or bet both sides (nothing to copy), **{quiet}** have "
+         f"made no pre-game sports picks since, **{len(nov3) - quiet}** are active pickers.",
+         f"- The pickers made ${sum(W[i]['pnl_nov3'] for i in nov3) / 1e6:.1f}M in the month before Nov 3. Since then, on "
+         f"games that have finished: **{'-' if tot < 0 else '+'}${abs(tot) / 1e6:.2f}M** on ${stake / 1e6:.1f}M bet ({100 * tot / stake if stake else 0:+.1f}%), "
+         f"{up} traders up and {down} down.", "",
+         "### 4. Trader by trader (20+ bets)", "",
+         "| Trader | On roster | Bets | Wins vs expected | z | Return before fees | Price move after they buy | $ since |",
+         "|---|---|---|---|---|---|---|---|"]
+    per = []
+    for i, w in enumerate(W):
+        s = stats([e for e in ent if e["w"] == i], "p_avg")
+        if s and s["n"] >= 20:
+            per.append((s["z"], w, s, pnl[i][0]))
+    for z, w, s, d in sorted(per, key=lambda x: -x[0]):
+        clv = f"{100 * s['clv']:+.2f}c" if s["clv"] is not None else "—"
+        L.append(f"| {w['name']} | {'yes' if w['name'] in names else ''} | {s['n']} | {s['w']} vs {s['exp']:.1f} "
+                 f"({s['w'] - s['exp']:+.1f}) | {z:+.2f} | {100 * s['roi']:+.1f}% | {clv} | {d:+,.0f} |")
+    L += ["", "No single trader's record means much at these sizes; the price-move column is the steadier trait "
+          "(positive = the market tends to follow them after they buy). Fees assume taking the ask; a resting "
+          "limit order pays none on Polymarket."]
+    return "\n".join(L) + "\n"
+
+
+def main():
+    blob = collect()
+    (ROOT / "audit.md").write_text(report(blob))
+    if "--dump" in sys.argv:
+        b = base64.b64encode(gzip.compress(json.dumps(blob, separators=(",", ":")).encode())).decode()
+        for i in range(0, len(b), 4000):
+            print("AUDITDATA:" + b[i:i + 4000])
+        print("AUDITEND")
 
 
 if __name__ == "__main__":
