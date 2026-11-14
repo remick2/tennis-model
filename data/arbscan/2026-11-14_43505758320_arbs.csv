@@ -231,3 +231,19 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-14T02:26:27+00:00,alberto v lucas,True,Genaro Alberto Olivieri,kalshi,0.04,Joao Lucas Da Silva,polyus,0.94,0.9866,0.0,0.0,0,0.0,0.07,0.97,1.0466,0.1,2026-11-14T02:26:27+00:00
 2026-11-14T02:26:47+00:00,alberto v lucas,True,Genaro Alberto Olivieri,polyus,0.04,Joao Lucas Reis Da Silva,kalshi,0.94,0.9866,0.0,0.0,0,0.0,0.07,0.97,1.0466,0.1,2026-11-14T02:26:47+00:00
 2026-11-14T02:26:57+00:00,alberto v lucas,True,Genaro Alberto Olivieri,polyus,0.04,Joao Lucas Reis Da Silva,kalshi,0.94,0.9866,0.0,0.0,0,0.0,0.07,0.97,1.0466,0.1,2026-11-14T02:26:47+00:00
+2026-11-14T02:27:47+00:00,alberto v lucas,True,Genaro Alberto Olivieri,kalshi,0.02,Joao Lucas Da Silva,polyus,0.94,0.9653,0.0,0.0,0,0.0,0.07,0.99,1.0652,0.1,2026-11-14T02:27:47+00:00
+2026-11-14T02:27:57+00:00,alberto v lucas,True,Genaro Alberto Olivieri,kalshi,0.02,Joao Lucas Da Silva,polyus,0.94,0.9653,0.0,0.0,0,0.0,0.07,0.99,1.0652,0.1,2026-11-14T02:27:47+00:00
+2026-11-14T02:28:07+00:00,alberto v lucas,True,Genaro Alberto Olivieri,kalshi,0.02,Joao Lucas Da Silva,polyus,0.94,0.9653,0.0,26490.62,0,0.0,0.07,0.94,1.0185,0.1,2026-11-14T02:27:47+00:00
+2026-11-14T02:28:17+00:00,alberto v lucas,True,Genaro Alberto Olivieri,kalshi,0.02,Joao Lucas Da Silva,polyus,0.94,0.9653,0.0,26490.62,0,0.0,0.07,0.94,1.0185,0.1,2026-11-14T02:27:47+00:00
+2026-11-14T02:28:47+00:00,alberto v lucas,True,Genaro Alberto Olivieri,polyus,0.04,Joao Lucas Reis Da Silva,kalshi,0.94,0.9866,0.0,0.0,0,0.0,0.09,0.97,1.0677,0.1,2026-11-14T02:28:47+00:00
+2026-11-14T02:29:37+00:00,alberto v lucas,True,Genaro Alberto Olivieri,polyus,0.02,Joao Lucas Reis Da Silva,kalshi,0.97,0.9934,31045.43,0.0,0,0.0,0.02,0.99,1.0121,0.2,2026-11-14T02:29:37+00:00
+2026-11-14T02:29:47+00:00,alberto v lucas,True,Genaro Alberto Olivieri,polyus,0.02,Joao Lucas Reis Da Silva,kalshi,0.97,0.9934,31045.43,0.0,0,0.0,0.02,0.99,1.0121,0.1,2026-11-14T02:29:37+00:00
+2026-11-14T02:29:57+00:00,alberto v lucas,True,Genaro Alberto Olivieri,polyus,0.02,Joao Lucas Reis Da Silva,kalshi,0.97,0.9934,31045.43,0.0,0,0.0,0.02,0.99,1.0121,0.1,2026-11-14T02:29:37+00:00
+2026-11-14T02:32:37+00:00,harris v sakamoto,True,Billy Harris,kalshi,0.19,Rei Sakamoto,polyus,0.77,0.9831,0.0,0.0,0,0.0,0.24,0.8,1.0639,0.1,2026-11-14T02:32:37+00:00
+2026-11-14T02:33:47+00:00,harris v sakamoto,True,Billy Harris,polyus,0.18,Rei Sakamoto,kalshi,0.77,0.9727,0.0,0.0,0,0.0,0.22,0.83,1.0718,0.1,2026-11-14T02:33:47+00:00
+2026-11-14T02:33:57+00:00,harris v sakamoto,True,Billy Harris,polyus,0.18,Rei Sakamoto,kalshi,0.77,0.9727,34969.0,0.0,0,0.0,0.18,0.83,1.0301,0.1,2026-11-14T02:33:47+00:00
+2026-11-14T02:34:07+00:00,harris v sakamoto,True,Billy Harris,polyus,0.18,Rei Sakamoto,kalshi,0.77,0.9727,34969.0,0.0,0,0.0,0.18,0.83,1.0301,0.1,2026-11-14T02:33:47+00:00
+2026-11-14T02:34:17+00:00,harris v sakamoto,True,Billy Harris,polyus,0.18,Rei Sakamoto,kalshi,0.77,0.9727,34969.0,0.0,0,0.0,0.18,0.83,1.0301,0.1,2026-11-14T02:33:47+00:00
+2026-11-14T02:34:47+00:00,harris v sakamoto,True,Billy Harris,polyus,0.15,Rei Sakamoto,kalshi,0.83,0.9987,0.0,0.0,0,0.0,0.16,0.86,1.0378,0.1,2026-11-14T02:34:47+00:00
+2026-11-14T02:41:37+00:00,hsiou v noguchi,True,Rio Noguchi,polyus,0.16,Yu Hsiou Hsu,kalshi,0.82,0.9997,0.0,0.0,0,0.0,0.2,0.85,1.07,0.1,2026-11-14T02:41:37+00:00
+2026-11-14T02:41:47+00:00,hsiou v noguchi,True,Rio Noguchi,polyus,0.16,Yu Hsiou Hsu,kalshi,0.82,0.9997,0.0,0.0,0,0.0,0.2,0.85,1.07,0.1,2026-11-14T02:41:37+00:00
