@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 14, 3:40PM MT
+# Consensus paper tracker — Sat Nov 14, 3:42PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -15,15 +15,15 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | 2 agree | core 10 only | 7-4 | +1.14 | 12-5 | +3.25 | 2 |
 | 2+ agree, 1+ against (split) | core 10 only | 7-3 | +5.03 | 7-5 | -0.57 | 1 |
 
-**Go-live test (3+ agree, pre-game, after spread + fees):** 6 of 30 graded plays · net +0.00u · 5 wins vs 3.2 expected, z = +1.51 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
+**Go-live test (3+ agree, pre-game, after spread + fees):** 6 of 30 graded plays · net +3.91u · 5 wins vs 3.2 expected, z = +1.51 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
 **After costs** (new roster, pre-game):
 
 | Rule | Graded | Wins vs expected | Units at logged price | Units after spread + fees | Price move by game time |
 |---|---|---|---|---|---|
-| 3+ agree (paper play) | 6 | 5 vs 3.2 (+1.8) | +4.13 | +0.00 (partial) | — |
-| 2 agree | 25 | 14 vs 13.3 (+0.7) | -0.71 | +0.00 (partial) | — |
-| 2+ agree, 1+ against (split) | 30 | 21 vs 14.9 (+6.1) | +13.19 | +0.00 (partial) | — |
+| 3+ agree (paper play) | 6 | 5 vs 3.2 (+1.8) | +4.13 | +3.91 | +0.08c avg (6) |
+| 2 agree | 25 | 14 vs 13.3 (+0.7) | -0.71 | -1.43 | -0.24c avg (25) |
+| 2+ agree, 1+ against (split) | 30 | 21 vs 14.9 (+6.1) | +13.19 | +12.01 | +0.57c avg (30) |
 
 Units after spread + fees = paying the ask (or logged price + 0.5c when the ask wasn't recorded) plus Polymarket's taker fee (rate x (1 - price) of the stake, about 2.5% at 50c). Price move = closing price minus logged price; sharp signals should see the price move their way before the game.
 
