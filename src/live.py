@@ -6,6 +6,8 @@ Nothing here runs unless ALL of these hold:
     Delete that file on GitHub to stop live trading instantly (the bot re-reads it every minute).
   - data/gate.json says the fresh-data gate passed ("pass": true, written by gate.py). Only Remick can
     override that, by putting the word force on a second line of ENABLED.
+  - data/live/auth_check.json (written by the no-trade login test) says convention "yes_price": previews
+    proved Polymarket US prices short orders the way this file assumes
   - today's live losses haven't hit DAILY_LOSS_STOP and order errors haven't hit ERROR_STOP
     (either one turns live trading off for the rest of the run and opens a GitHub issue)
 
@@ -219,6 +221,11 @@ class Live:
             return False
         if not (getattr(self, "gate_pass", False) or getattr(self, "force", False)):
             return False
+        try:   # third lock: the no-trade auth check must have proven the Polymarket US price convention
+            if json.loads((LIVE_DIR / "auth_check.json").read_text()).get("convention") != "yes_price":
+                return False
+        except (OSError, ValueError):
+            return False
         return self.L["loss_by_day"].get(day, 0.0) < DAILY_LOSS_STOP
 
     def cash(self, venue):
@@ -252,18 +259,33 @@ def breakeven_limit(paid_per_share, fee_rate):
     return math.floor(lo * 100) / 100
 
 
+def _preview_fill(resp):
+    o = (resp or {}).get("order") or {}
+    return _num(o.get("cumQuantity"))
+
+
 def auth_check(live, universe):
-    """First run with keys: confirm both logins work and that Polymarket US prices short orders in YES terms,
-    WITHOUT trading. Writes data/live/auth_check.json for review before ENABLED is ever created."""
+    """First run with keys: confirm both logins work and PROVE how Polymarket US prices short orders, without
+    trading (previews only). For a mid-priced market, BUY_SHORT with our-side limit 0.02 is sent as YES price
+    0.98 and must NOT fill; with our-side limit 0.98 it is sent as YES price 0.02 and SHOULD fill. If it is
+    the other way round the convention is wrong and live trading stays off. Writes data/live/auth_check.json."""
     out = {"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-           "kalshi_balance": live.k.balance(), "polyus_balance": live.p.balance(), "previews": []}
+           "kalshi_balance": live.k.balance(), "polyus_balance": live.p.balance(), "previews": [],
+           "convention": "unknown"}
     slug = next((i[1] for m in universe.values() for s in m["insts"].values() for i in s if i[0] == "polyus"), None)
     if slug:
-        for idx, lim in (("0", 0.02), ("1", 0.02)):   # 1 share at 2c: far from the market, can't fill
+        fills = {}
+        for idx, lim in (("1", 0.02), ("1", 0.98), ("0", 0.02)):   # 1 share each, previews only
             code, d = live.p.preview(slug, idx, 1, lim)
+            fills[(idx, lim)] = _preview_fill(d) if code == 200 else None
             out["previews"].append({"slug": slug, "idx": idx, "limit_our_side": lim,
                                     "sent": live.p.body(slug, idx, 1, lim), "code": code, "resp": d})
+        lo, hi = fills.get(("1", 0.02)), fills.get(("1", 0.98))
+        if lo == 0 and hi and hi > 0:
+            out["convention"] = "yes_price"      # what live.py assumes
+        elif lo and lo > 0 and hi == 0:
+            out["convention"] = "short_price"    # live.py would be wrong: stays off
     (LIVE_DIR / "auth_check.json").write_text(json.dumps(out, indent=1))
     print("auth check:", {k: v for k, v in out.items() if k != "previews"},
-          [(p["idx"], p["code"]) for p in out["previews"]], flush=True)
+          [(p["idx"], p["limit_our_side"], p["code"]) for p in out["previews"]], flush=True)
     return out

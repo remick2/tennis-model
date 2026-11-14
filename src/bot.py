@@ -322,7 +322,9 @@ def cycle(U, L, consumed, pool, LV=None, MS=None):
             continue
         exp, ia, ib, sh, fa, fb, sa, sb = max(cands, key=lambda c: c[0])
         CYCLE_STATS["best_exec"] = exp if CYCLE_STATS["best_exec"] is None else max(CYCLE_STATS["best_exec"], exp)
-        if exp < MIN_PROFIT:
+        # live with a small cap can't reach $1 per arb ($25 a side at a 1c edge is ~$0.50): scale the bar to
+        # 1% of the cap (25c at $25), never above the paper bar
+        if exp < (min(MIN_PROFIT, 0.01 * LV.cap) if LV else MIN_PROFIT):
             continue
         if LV:
             if time.time() < LV.cooldown.get(key, 0):
