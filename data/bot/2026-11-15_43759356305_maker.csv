@@ -1,0 +1,9 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-15T21:40:46+00:00,bakonyi v nefve,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BAKNEF-BAK:yes,0.11,454,True,0.0121,2.0,hedged,polyus:aec-atp-davbak-axenef-2026-11-15:1,0.9,-7.38,-7.4,-7.38,True
+2026-11-15T21:42:24+00:00,gogineni v gurenko,True,kalshi:KXATPCHALLENGERMATCH-26NOV15GOGGUR-GOG:yes,0.92,54,True,0.0055,1.9,hedged,polyus:aec-atp-viggog-volgur-2026-11-15:1,0.07,0.3,-0.85,0.3,True
+2026-11-15T21:48:04+00:00,andreeva v svitolina,True,kalshi:KXWTAMATCH-26NOV15SVIAND-AND:yes,0.96,52,False,0.0073,2.0,hedged,polyus:aec-wta-elisvi-mirand-2026-11-15:0,0.03,0.38,-0.73,0.38,True
+2026-11-15T21:48:53+00:00,bakonyi v nefve,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BAKNEF-BAK:yes,0.07,714,False,0.0143,2.3,hedged,polyus:aec-atp-davbak-axenef-2026-11-15:1,0.91,10.22,-9.96,10.22,True
+2026-11-15T21:50:06+00:00,cordeau v zamora,False,kalshi:KXATPCHALLENGERMATCH-26NOV15ZAMCOR-ZAM:yes,0.94,53,True,0.0067,1.8,hedged,polyus:aec-atp-noazam-julcor-2026-11-15:1,0.05,0.36,-1.49,0.36,True
+2026-11-15T21:50:29+00:00,bakonyi v nefve,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BAKNEF-NEF:yes,0.93,53,True,0.0061,2.2,hedged,polyus:aec-atp-davbak-axenef-2026-11-15:0,0.06,0.32,-0.8,0.32,True
+2026-11-15T21:52:26+00:00,andreeva v svitolina,True,kalshi:KXWTAMATCH-26NOV15SVIAND-SVI:yes,0.05,1000,False,0.0052,2.0,hedged,polyus:aec-wta-elisvi-mirand-2026-11-15:1,0.94,5.25,-13.52,5.25,True
+2026-11-15T21:55:28+00:00,gogineni v gurenko,True,kalshi:KXATPCHALLENGERMATCH-26NOV15GOGGUR-GOG:yes,0.83,60,False,0.0111,2.0,hedged,polyus:aec-atp-viggog-volgur-2026-11-15:1,0.2,-2.47,-2.47,-2.47,True
