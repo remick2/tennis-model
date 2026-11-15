@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 14, 5:40PM MT
+# Consensus paper tracker — Sat Nov 14, 6:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-1 | +4.13 | 4-0 | +1.36 | 1 |
-| 2 agree | all 15 | 14-12 | -1.71 | 21-15 | +0.78 | 2 |
-| 2+ agree, 1+ against (split) | all 15 | 21-9 | +13.19 | 19-14 | -0.22 | 2 |
+| 2 agree | all 15 | 14-12 | -1.71 | 21-15 | +0.78 | 4 |
+| 2+ agree, 1+ against (split) | all 15 | 21-9 | +13.19 | 19-14 | -0.22 | 3 |
 | 3+ agree (paper play) | core 10 only | 3-0 | +4.15 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 7-4 | +1.14 | 12-6 | +2.25 | 2 |
-| 2+ agree, 1+ against (split) | core 10 only | 7-3 | +5.03 | 8-5 | +1.10 | 1 |
+| 2 agree | core 10 only | 7-4 | +1.14 | 12-6 | +2.25 | 3 |
+| 2+ agree, 1+ against (split) | core 10 only | 7-3 | +5.03 | 8-5 | +1.10 | 2 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 6 of 30 graded plays · net +3.91u · 5 wins vs 3.2 expected, z = +1.51 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
@@ -83,3 +83,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-14 | NBA | Nets vs. Grizzlies | Grizzlies (Moneyline) | 2 agree, 2 against | pre-game | monkeymashingkeyboard; BreakTheBank | jakepaulthegoat2008; purplegatto | 63.5c |
 | new | 2026-11-14 | NBA | Nets vs. Grizzlies | Nets (Moneyline) | 2 agree, 2 against | pre-game | purplegatto; jakepaulthegoat2008 | BreakTheBank; monkeymashingkeyboard | 36.5c |
 | new | 2026-11-14 | NBA | Nets vs. Grizzlies | Nets (+4.5) (Spread) | 2 agree, 0 against | pre-game | purplegatto; ic4cream | — | 50.5c |
+| new | 2026-11-14 | NBA | Bulls vs. Timberwolves | Timberwolves (-14.5) (Spread) | 2 agree, 0 against | in-play | monkeymashingkeyboard; ianf2026 | — | 20.0c |
+| new | 2026-11-14 | CFB | Stanford vs. Virginia Tech | Virginia Tech (Moneyline) | 2 agree, 0 against | in-play | purplegatto; 0xb4F978BE | — | 43.0c |
+| new | 2026-11-15 | NFL | Bills vs. Jets | Bills (Moneyline) | 2 agree, 1 against | pre-game | 0x9f15613e; ic4cream | bands1 | 78.5c |
