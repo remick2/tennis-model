@@ -640,3 +640,142 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T13:51:13+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.68,Stefan Latinovic,kalshi,0.24,0.9479,0.0,0.0,0.0,0.0,,0.33,,0.1,True,2026-11-15T13:50:33+00:00
 2026-11-15T13:51:23+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.58,Stefan Latinovic,kalshi,0.24,0.8497,0.0,0.0,0.0,0.0,,0.43,,0.1,True,2026-11-15T13:50:33+00:00
 2026-11-15T13:51:33+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.58,Stefan Latinovic,kalshi,0.36,0.9731,0.0,0.0,0.0,0.0,,0.43,,0.1,True,2026-11-15T13:50:33+00:00
+2026-11-15T13:51:43+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.6,Stefan Latinovic,kalshi,0.36,0.9928,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-15T13:50:33+00:00
+2026-11-15T13:51:53+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.6,Stefan Latinovic,kalshi,0.36,0.9928,0.0,0.0,0.0,0.0,,0.42,,0.1,True,2026-11-15T13:50:33+00:00
+2026-11-15T13:51:53+00:00,alves v fuente,True,Felipe Meligeni Alves,polyus,0.97,Santiago De la Fuente,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.1,True,2026-11-15T13:51:53+00:00
+2026-11-15T13:52:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:52:13+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.54,Stefan Latinovic,kalshi,0.41,0.9842,0.0,0.0,0.0,0.0,,0.47,,0.1,True,2026-11-15T13:52:13+00:00
+2026-11-15T13:52:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.3,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:52:23+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.54,Stefan Latinovic,kalshi,0.41,0.9842,0.0,0.0,0.0,0.0,,0.47,,0.1,True,2026-11-15T13:52:13+00:00
+2026-11-15T13:52:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:52:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:52:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:52:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:53:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:53:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:53:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:53:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:53:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:53:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:54:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:54:03+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.52,Stefan Latinovic,polyus,0.44,0.9946,0.0,0.0,0.0,0.0,0.57,,,0.1,True,2026-11-15T13:54:03+00:00
+2026-11-15T13:54:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:54:13+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.52,Stefan Latinovic,polyus,0.44,0.9946,0.0,0.0,0.0,0.0,0.57,,,0.2,True,2026-11-15T13:54:03+00:00
+2026-11-15T13:54:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:54:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:54:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:54:53+00:00,jodar v zverev,True,Alexander Zverev,kalshi,0.78,Rafael Jodar,polyus,0.18,0.9823,0.0,0.0,0.0,0.0,0.82,,,0.1,True,2026-11-15T13:54:53+00:00
+2026-11-15T13:54:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:55:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:55:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:55:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:55:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:55:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:55:53+00:00,jodar v zverev,True,Alexander Zverev,kalshi,0.85,Rafael Jodar,polyus,0.12,0.9863,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-15T13:55:53+00:00
+2026-11-15T13:55:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:56:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:56:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:56:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:56:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7342.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:56:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:56:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,7340.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:57:03+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.55,Stefan Latinovic,kalshi,0.38,0.9637,0.0,0.0,0.0,0.0,,0.46,,0.1,True,2026-11-15T13:57:03+00:00
+2026-11-15T13:57:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:57:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:57:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:57:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:57:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:57:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:58:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:58:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:58:23+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.63,Stefan Latinovic,polyus,0.31,0.9712,0.0,0.0,0.0,0.0,0.7,,,0.1,True,2026-11-15T13:58:23+00:00
+2026-11-15T13:58:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:58:33+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.59,Stefan Latinovic,polyus,0.31,0.9318,0.0,0.0,0.0,0.0,0.7,,,0.1,True,2026-11-15T13:58:23+00:00
+2026-11-15T13:58:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:58:43+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.59,Stefan Latinovic,polyus,0.36,0.9829,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-15T13:58:23+00:00
+2026-11-15T13:58:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:58:53+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.59,Stefan Latinovic,polyus,0.17,0.7867,0.0,0.0,0.0,0.0,0.84,,,0.1,True,2026-11-15T13:58:23+00:00
+2026-11-15T13:58:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:59:03+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.71,Stefan Latinovic,polyus,0.17,0.9042,0.0,0.0,0.0,0.0,0.84,,,0.1,True,2026-11-15T13:58:23+00:00
+2026-11-15T13:59:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:59:13+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.71,Stefan Latinovic,polyus,0.17,0.9042,0.0,0.0,0.0,0.0,0.83,,,0.1,True,2026-11-15T13:58:23+00:00
+2026-11-15T13:59:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:59:23+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.71,Stefan Latinovic,polyus,0.15,0.8833,0.0,0.0,0.0,0.0,0.86,,,0.1,True,2026-11-15T13:58:23+00:00
+2026-11-15T13:59:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:59:33+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.83,Stefan Latinovic,polyus,0.08,0.925,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-15T13:58:23+00:00
+2026-11-15T13:59:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:59:43+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.83,Stefan Latinovic,polyus,0.08,0.925,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-15T13:58:23+00:00
+2026-11-15T13:59:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T13:59:53+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.83,Stefan Latinovic,polyus,0.08,0.925,0.0,0.0,0.0,0.0,0.92,,,0.1,True,2026-11-15T13:58:23+00:00
+2026-11-15T13:59:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:00:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:00:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.3,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:00:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:00:33+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.83,Stefan Latinovic,kalshi,0.09,0.9355,0.0,0.0,0.0,0.0,,0.17,,0.1,True,2026-11-15T14:00:33+00:00
+2026-11-15T14:00:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:00:33+00:00,echargui v sperle,True,John Sperle,polyus,0.13,Moez Echargui,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-15T14:00:33+00:00
+2026-11-15T14:00:43+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.83,Stefan Latinovic,kalshi,0.09,0.9355,0.0,0.0,0.0,0.0,,0.17,,0.1,True,2026-11-15T14:00:33+00:00
+2026-11-15T14:00:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:00:43+00:00,echargui v sperle,True,John Sperle,polyus,0.13,Moez Echargui,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-15T14:00:33+00:00
+2026-11-15T14:00:53+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.83,Stefan Latinovic,kalshi,0.09,0.9355,0.0,0.0,0.0,0.0,,0.18,,0.1,True,2026-11-15T14:00:33+00:00
+2026-11-15T14:00:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:00:53+00:00,echargui v sperle,True,John Sperle,polyus,0.13,Moez Echargui,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.89,,0.2,True,2026-11-15T14:00:33+00:00
+2026-11-15T14:01:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:01:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:01:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:01:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:01:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:01:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:02:03+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.67,Stefan Latinovic,kalshi,0.21,0.907,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-15T14:02:03+00:00
+2026-11-15T14:02:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:02:13+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.67,Stefan Latinovic,kalshi,0.21,0.907,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-15T14:02:03+00:00
+2026-11-15T14:02:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:02:23+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.67,Stefan Latinovic,kalshi,0.21,0.907,0.0,0.0,0.0,0.0,,0.35,,0.1,True,2026-11-15T14:02:03+00:00
+2026-11-15T14:02:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:02:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:02:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:02:43+00:00,mikrut v vasa,True,Iiro Vasa,polyus,0.02,Luka Mikrut,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-15T14:02:43+00:00
+2026-11-15T14:02:43+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.83,Stefan Latinovic,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,,,0.1,True,2026-11-15T14:02:43+00:00
+2026-11-15T14:02:53+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.7,Stefan Latinovic,polyus,0.22,0.9466,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-15T14:02:43+00:00
+2026-11-15T14:02:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:03:03+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.7,Stefan Latinovic,polyus,0.22,0.9466,0.0,0.0,0.0,0.0,0.79,,,0.2,True,2026-11-15T14:02:43+00:00
+2026-11-15T14:03:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:03:13+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.7,Stefan Latinovic,polyus,0.22,0.9466,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-15T14:02:43+00:00
+2026-11-15T14:03:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:03:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:03:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:03:43+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.79,Stefan Latinovic,polyus,0.1,0.9079,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-15T14:03:43+00:00
+2026-11-15T14:03:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:03:53+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.85,Stefan Latinovic,polyus,0.1,0.9652,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-15T14:03:43+00:00
+2026-11-15T14:03:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:04:03+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.85,Stefan Latinovic,polyus,0.1,0.9652,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-15T14:03:43+00:00
+2026-11-15T14:04:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:04:13+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.85,Stefan Latinovic,polyus,0.1,0.9652,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-15T14:03:43+00:00
+2026-11-15T14:04:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.1,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:04:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:04:33+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.73,Stefan Latinovic,kalshi,0.1,0.85,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-15T14:04:33+00:00
+2026-11-15T14:04:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:04:43+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.72,Stefan Latinovic,kalshi,0.1,0.8403,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-15T14:04:33+00:00
+2026-11-15T14:04:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:04:53+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.72,Stefan Latinovic,kalshi,0.1,0.8403,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-15T14:04:33+00:00
+2026-11-15T14:04:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:05:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:05:13+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.72,Stefan Latinovic,polyus,0.24,0.9868,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-15T14:05:13+00:00
+2026-11-15T14:05:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:05:23+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.54,Stefan Latinovic,kalshi,0.29,0.8617,0.0,0.0,0.0,0.0,,0.47,,0.1,True,2026-11-15T14:05:23+00:00
+2026-11-15T14:05:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:05:33+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.54,Stefan Latinovic,kalshi,0.25,0.8204,0.0,0.0,0.0,0.0,,0.47,,0.1,True,2026-11-15T14:05:23+00:00
+2026-11-15T14:05:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:05:43+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.54,Stefan Latinovic,kalshi,0.25,0.8204,0.0,0.0,0.0,0.0,,0.47,,0.1,True,2026-11-15T14:05:23+00:00
+2026-11-15T14:05:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:05:53+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:06:03+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6040.0,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:06:13+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:06:13+00:00,jodar v zverev,True,Alexander Zverev,polyus,0.88,Rafael Jodar,kalshi,0.1,0.9936,0.0,0.0,0.0,0.0,,0.13,,0.1,True,2026-11-15T14:06:13+00:00
+2026-11-15T14:06:23+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:06:23+00:00,jodar v zverev,True,Alexander Zverev,polyus,0.88,Rafael Jodar,kalshi,0.1,0.9936,0.0,0.0,0.0,0.0,,0.13,,0.1,True,2026-11-15T14:06:13+00:00
+2026-11-15T14:06:33+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,kalshi,0.53,Stefan Latinovic,polyus,0.42,0.9844,0.0,0.0,0.0,0.0,0.59,,,0.1,True,2026-11-15T14:06:33+00:00
+2026-11-15T14:06:33+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
+2026-11-15T14:06:33+00:00,jodar v zverev,True,Alexander Zverev,polyus,0.88,Rafael Jodar,kalshi,0.1,0.9936,0.0,0.0,0.0,0.0,,0.13,,0.1,True,2026-11-15T14:06:13+00:00
+2026-11-15T14:06:43+00:00,jodar v zverev,True,Alexander Zverev,polyus,0.84,Rafael Jodar,kalshi,0.13,0.9873,0.0,0.0,0.0,0.0,,0.17,,0.1,True,2026-11-15T14:06:13+00:00
+2026-11-15T14:06:43+00:00,alberto v funk,False,Aaron Funk,kalshi,0.01,Carlo Alberto Caniato,polyus,0.98,0.9921,6042.5,0.01,0.01,0.0,0.01,0.98,0.9921,0.2,True,2026-11-15T13:52:03+00:00
