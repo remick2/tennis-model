@@ -46,3 +46,13 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T00:54:23+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.12,416,False,0.0116,2.2,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.86,4.84,-14.86,4.84,True
 2026-11-15T00:55:01+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.07,714,False,0.0143,1.8,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.94,-9.94,-9.96,-9.94,True
 2026-11-15T00:55:41+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.04,1250,False,0.0067,1.8,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.95,8.37,-15.05,8.37,True
+2026-11-15T01:04:17+00:00,fancutt v ibraimi,True,kalshi:KXATPCHALLENGERMATCH-26NOV14IBRFAN-IBR:yes,0.24,208,True,0.0066,2.6,hedged,polyus:aec-atp-ymeibr-thofan-2026-11-14:1,0.74,1.38,-4.66,1.38,True
+2026-11-15T01:05:42+00:00,fancutt v ibraimi,True,kalshi:KXATPCHALLENGERMATCH-26NOV14IBRFAN-IBR:yes,0.23,217,False,0.007,2.0,hedged,polyus:aec-atp-ymeibr-thofan-2026-11-14:1,0.75,1.51,-4.78,1.51,True
+2026-11-15T01:06:23+00:00,fancutt v ibraimi,True,kalshi:KXATPCHALLENGERMATCH-26NOV14IBRFAN-IBR:yes,0.19,263,False,0.0085,2.2,hedged,polyus:aec-atp-ymeibr-thofan-2026-11-14:1,0.79,2.23,-5.35,2.23,True
+2026-11-15T01:06:57+00:00,fancutt v ibraimi,True,kalshi:KXATPCHALLENGERMATCH-26NOV14IBRFAN-FAN:yes,0.79,63,False,0.0093,2.2,hedged,polyus:aec-atp-ymeibr-thofan-2026-11-14:0,0.19,0.59,-1.39,0.59,True
+2026-11-15T01:09:07+00:00,fancutt v ibraimi,True,kalshi:KXATPCHALLENGERMATCH-26NOV14IBRFAN-IBR:yes,0.2,250,False,0.0081,2.2,hedged,polyus:aec-atp-ymeibr-thofan-2026-11-14:1,0.78,2.02,-7.58,2.02,True
+2026-11-15T01:09:42+00:00,fancutt v ibraimi,True,kalshi:KXATPCHALLENGERMATCH-26NOV14IBRFAN-FAN:yes,0.79,63,False,0.0093,2.0,hedged,polyus:aec-atp-ymeibr-thofan-2026-11-14:0,0.19,0.59,-1.39,0.59,True
+2026-11-15T01:10:40+00:00,jovanovski v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV14ZHUJOV-ZHU:yes,0.77,64,True,0.0085,2.0,hedged,polyus:aec-atp-evazhu-danjov-2026-11-14:1,0.21,0.54,-1.46,0.54,True
+2026-11-15T01:11:00+00:00,jovanovski v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV14ZHUJOV-ZHU:yes,0.77,64,True,0.0085,2.0,hedged,polyus:aec-atp-evazhu-danjov-2026-11-14:1,0.21,0.54,-1.46,0.54,True
+2026-11-15T01:12:43+00:00,fancutt v ibraimi,True,kalshi:KXATPCHALLENGERMATCH-26NOV14IBRFAN-FAN:yes,0.71,70,True,0.0063,2.1,hedged,polyus:aec-atp-ymeibr-thofan-2026-11-14:0,0.27,0.44,-1.73,0.44,True
+2026-11-15T01:13:17+00:00,jovanovski v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV14ZHUJOV-ZHU:yes,0.74,67,True,0.0073,2.5,hedged,polyus:aec-atp-evazhu-danjov-2026-11-14:1,0.24,0.49,-1.59,0.49,True
