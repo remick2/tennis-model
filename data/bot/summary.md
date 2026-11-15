@@ -1,14 +1,14 @@
-# Dry-run bot (Sun Nov 15 11:15AM MT)
+# Dry-run bot (Sun Nov 15 11:30AM MT)
 
 Paper only: no keys, no real orders. Started 2026-11-14 with $700 (Kalshi $345, Polymarket US $355).
 
-- Cash: Kalshi **$248.07**, Polymarket US **$0.59**; locked in 3 open matches: $465.13
-- Bankroll now (cash + open at cost): **$713.79**
-- Fires: 7 · settled: 4 · settled P&L **$+13.79** (includes unwinds: $+0.00)
+- Cash: Kalshi **$248.07**, Polymarket US **$154.59**; locked in 2 open matches: $312.13
+- Bankroll now (cash + open at cost): **$714.79**
+- Fires: 8 · settled: 5 · settled P&L **$+14.79** (includes unwinds: $+0.00)
 - Paper rebalances (times Remick would have had to move money between venues): 2 · cap $150 per venue per arb
-- On fresh (uncached) Polymarket US books, since Nov 14: 7 fires, 7 traded, 0 with one leg short · simulated $39.66 vs $39.61 if both orders had gone at once
+- On fresh (uncached) Polymarket US books, since Nov 14: 8 fires, 7 traded, 0 with one leg short · simulated $39.66 vs $36.26 if both orders had gone at once
 - Earlier fires (23) used Polymarket US books up to 30s stale: not evidence either way
-- Median book-read time 68 ms, fill check 44 ms
+- Median book-read time 71 ms, fill check 50 ms
 
 ## Last 15 fires
 
@@ -21,3 +21,4 @@ Paper only: no keys, no real orders. Started 2026-11-14 with $700 (Kalshi $345, 
 | 2026-11-15T18:02:05+00:00 | coulibaly v moroni        | True   | polyus_first |      211 |  0.9293 |      14.92 |        211 |        211 |            0 |        21.41 |         21.36 |
 | 2026-11-15T18:07:47+00:00 | carou v jover             | True   | polyus_first |      154 |  0.9935 |       1    |        154 |        154 |            0 |         1    |          1    |
 | 2026-11-15T18:13:05+00:00 | george v slavic           | True   | polyus_first |      126 |  0.9725 |       3.46 |        126 |        126 |            0 |         3.46 |          3.46 |
+| 2026-11-15T18:26:32+00:00 | brostrom v orderlain      | True   | polyus_first |      169 |  0.9726 |       4.63 |          0 |          0 |            0 |         0    |         -3.35 |
