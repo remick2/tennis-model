@@ -179,3 +179,17 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T03:17:12+00:00,dev v watanabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV14WATDEV-DEV:yes,0.53,94,True,0.0129,1.6,hedged,polyus:aec-atp-kanwat-sdpdev-2026-11-14:0,0.44,1.21,-3.52,1.21,True
 2026-11-15T03:18:24+00:00,jones v nakagawa,True,kalshi:KXATPCHALLENGERMATCH-26NOV14JONNAK-NAK:yes,0.63,79,True,0.0144,2.0,hedged,polyus:aec-atp-hayjon-naonak-2026-11-14:0,0.34,1.14,-2.09,1.14,True
 2026-11-15T03:26:18+00:00,dev v watanabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV14WATDEV-DEV:yes,0.55,90,True,0.0131,2.1,hedged,polyus:aec-atp-kanwat-sdpdev-2026-11-14:0,0.48,-4.26,-4.27,-4.26,True
+2026-11-15T03:29:20+00:00,leonard v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV14SATPHA-SAT:yes,0.46,108,False,0.0126,2.0,hedged,polyus:aec-atp-taisac-derpha-2026-11-14:1,0.55,-2.94,-2.95,-2.94,True
+2026-11-15T03:32:22+00:00,bittoun v kumar,False,kalshi:KXATPCHALLENGERMATCH-26NOV14BITSIN-SIN:yes,0.1,500,False,0.0127,47.9,hedged,polyus:aec-atp-conkou-nitsin-2026-11-14:0,0.9,-3.13,-12.58,-3.13,True
+2026-11-15T03:32:38+00:00,jones v nakagawa,True,kalshi:KXATPCHALLENGERMATCH-26NOV14JONNAK-NAK:yes,0.79,63,True,0.0093,2.0,hedged,polyus:aec-atp-hayjon-naonak-2026-11-14:0,0.22,-1.38,-1.39,-1.38,True
+2026-11-15T03:32:44+00:00,leonard v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV14SATPHA-SAT:yes,0.41,121,True,0.0129,2.2,hedged,polyus:aec-atp-taisac-derpha-2026-11-14:1,0.61,-4.42,-4.44,-4.42,True
+2026-11-15T03:33:26+00:00,leonard v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV14SATPHA-SAT:yes,0.35,142,False,0.0136,2.0,hedged,polyus:aec-atp-taisac-derpha-2026-11-14:1,0.67,-5.02,-5.04,-5.02,True
+2026-11-15T03:33:40+00:00,dev v watanabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV14WATDEV-WAT:yes,0.47,106,False,0.0126,2.3,hedged,polyus:aec-atp-kanwat-sdpdev-2026-11-14:1,0.53,-1.84,-2.9,-1.84,True
+2026-11-15T03:33:58+00:00,leonard v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV14SATPHA-SAT:yes,0.3,166,False,0.0146,2.3,hedged,polyus:aec-atp-taisac-derpha-2026-11-14:1,0.74,-8.86,-8.88,-8.86,True
+2026-11-15T03:34:29+00:00,leonard v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV14SATPHA-PHA:yes,0.71,70,True,0.0063,3.1,hedged,polyus:aec-atp-taisac-derpha-2026-11-14:0,0.31,-2.44,-2.45,-2.44,True
+2026-11-15T03:34:58+00:00,leonard v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV14SATPHA-SAT:yes,0.26,192,True,0.0351,2.1,hedged,polyus:aec-atp-taisac-derpha-2026-11-14:1,0.8,-13.66,-13.67,-13.66,True
+2026-11-15T03:36:14+00:00,jones v nakagawa,True,polyus:aec-atp-hayjon-naonak-2026-11-14:1,0.76,65,True,0.008,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV14JONNAK-NAK:no,0.34,-7.52,-7.51,-7.51,True
+2026-11-15T03:40:36+00:00,imai v matsuda,True,kalshi:KXATPCHALLENGERMATCH-26NOV14MATIMA-MAT:yes,0.62,80,False,0.0142,1.8,hedged,polyus:aec-atp-kokmat-shiima-2026-11-14:1,0.35,1.14,-5.37,1.14,True
+2026-11-15T03:40:54+00:00,imai v matsuda,True,kalshi:KXATPCHALLENGERMATCH-26NOV14MATIMA-MAT:yes,0.53,94,False,0.0129,1.8,hedged,polyus:aec-atp-kokmat-shiima-2026-11-14:1,0.44,1.21,-3.52,1.21,True
+2026-11-15T03:42:26+00:00,leonard v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV14SATPHA-SAT:yes,0.11,454,False,0.0121,2.0,hedged,polyus:aec-atp-taisac-derpha-2026-11-14:1,0.9,-7.38,-7.4,-7.38,True
+2026-11-15T03:43:24+00:00,imai v matsuda,True,kalshi:KXATPCHALLENGERMATCH-26NOV14MATIMA-IMA:yes,0.46,108,False,0.0126,1.9,hedged,polyus:aec-atp-kokmat-shiima-2026-11-14:0,0.55,-2.94,-2.95,-2.94,True
