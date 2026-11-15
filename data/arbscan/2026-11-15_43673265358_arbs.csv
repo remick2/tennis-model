@@ -397,3 +397,41 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T06:08:24+00:00,harris v hsiou,True,Billy Harris,polyus,0.9,Yu Hsiou Hsu,kalshi,0.07,0.9808,0.0,0.0,0.0,0.0,,0.11,,0.0,True,2026-11-15T06:08:14+00:00
 2026-11-15T06:08:54+00:00,harris v hsiou,True,Billy Harris,polyus,0.87,Yu Hsiou Hsu,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-15T06:08:54+00:00
 2026-11-15T06:08:54+00:00,ogura v takahashi,True,Kosuke Ogura,polyus,0.07,Yusuke Takahashi,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-15T06:08:54+00:00
+2026-11-15T06:09:44+00:00,ogura v takahashi,True,Kosuke Ogura,polyus,0.05,Yusuke Takahashi,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-15T06:09:44+00:00
+2026-11-15T06:09:54+00:00,ogura v takahashi,True,Kosuke Ogura,polyus,0.05,Yusuke Takahashi,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-15T06:09:44+00:00
+2026-11-15T06:10:24+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.42,Jason Jung,kalshi,0.54,0.9943,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-15T06:10:24+00:00
+2026-11-15T06:10:44+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,polyus,0.93,Toya Ishikawa,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-15T06:10:44+00:00
+2026-11-15T06:10:54+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,polyus,0.93,Toya Ishikawa,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-15T06:10:44+00:00
+2026-11-15T06:11:24+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,kalshi,0.93,Toya Ishikawa,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-15T06:11:24+00:00
+2026-11-15T06:12:34+00:00,harris v hsiou,True,Billy Harris,kalshi,0.84,Yu-Hsiou Hsu,polyus,0.14,0.9978,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-15T06:12:34+00:00
+2026-11-15T06:12:44+00:00,harris v hsiou,True,Billy Harris,kalshi,0.84,Yu-Hsiou Hsu,polyus,0.14,0.9978,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-15T06:12:34+00:00
+2026-11-15T06:13:44+00:00,harris v hsiou,True,Billy Harris,polyus,0.83,Yu Hsiou Hsu,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-15T06:13:44+00:00
+2026-11-15T06:14:24+00:00,harris v hsiou,True,Billy Harris,kalshi,0.83,Yu-Hsiou Hsu,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-15T06:14:24+00:00
+2026-11-15T06:14:24+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.33,Jason Jung,kalshi,0.63,0.9917,0.0,0.0,0.0,0.0,,0.68,,0.0,True,2026-11-15T06:14:24+00:00
+2026-11-15T06:14:24+00:00,ichikawa v kikuchi,True,Taisei Ichikawa,kalshi,0.63,Yuta Kikuchi,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-15T06:14:24+00:00
+2026-11-15T06:14:34+00:00,harris v hsiou,True,Billy Harris,kalshi,0.83,Yu-Hsiou Hsu,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-15T06:14:24+00:00
+2026-11-15T06:14:44+00:00,harris v hsiou,True,Billy Harris,kalshi,0.83,Yu-Hsiou Hsu,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-15T06:14:24+00:00
+2026-11-15T06:14:54+00:00,harris v hsiou,True,Billy Harris,kalshi,0.83,Yu-Hsiou Hsu,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-15T06:14:24+00:00
+2026-11-15T06:18:44+00:00,harris v hsiou,True,Billy Harris,kalshi,0.87,Yu-Hsiou Hsu,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-15T06:18:44+00:00
+2026-11-15T06:19:24+00:00,harris v hsiou,True,Billy Harris,polyus,0.86,Yu Hsiou Hsu,kalshi,0.11,0.9852,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-15T06:19:24+00:00
+2026-11-15T06:19:34+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.38,Jason Jung,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-15T06:19:34+00:00
+2026-11-15T06:19:44+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.38,Jason Jung,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.43,,,0.0,True,2026-11-15T06:19:34+00:00
+2026-11-15T06:20:14+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,polyus,0.97,Toya Ishikawa,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-15T06:20:14+00:00
+2026-11-15T06:20:24+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,polyus,0.97,Toya Ishikawa,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-15T06:20:14+00:00
+2026-11-15T06:20:54+00:00,isomura v shepp,True,Anton Shepp,polyus,0.75,Kokoro Isomura,kalshi,0.19,0.9638,0.0,0.0,0.0,0.0,,0.26,,0.0,True,2026-11-15T06:20:54+00:00
+2026-11-15T06:21:44+00:00,isomura v shepp,True,Anton Shepp,polyus,0.7,Kokoro Isomura,kalshi,0.27,0.9984,0.0,0.0,0.0,0.0,,0.31,,0.0,True,2026-11-15T06:21:44+00:00
+2026-11-15T06:21:54+00:00,harris v hsiou,True,Billy Harris,polyus,0.85,Yu Hsiou Hsu,kalshi,0.13,0.9968,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-15T06:21:54+00:00
+2026-11-15T06:21:54+00:00,isomura v shepp,True,Anton Shepp,polyus,0.7,Kokoro Isomura,kalshi,0.27,0.9984,0.0,0.0,0.0,0.0,,0.31,,0.0,True,2026-11-15T06:21:44+00:00
+2026-11-15T06:22:04+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,polyus,0.97,Toya Ishikawa,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-15T06:22:04+00:00
+2026-11-15T06:22:04+00:00,harris v hsiou,True,Billy Harris,polyus,0.85,Yu Hsiou Hsu,kalshi,0.13,0.9968,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-15T06:21:54+00:00
+2026-11-15T06:22:14+00:00,harris v hsiou,True,Billy Harris,polyus,0.85,Yu Hsiou Hsu,kalshi,0.13,0.9968,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-15T06:21:54+00:00
+2026-11-15T06:22:24+00:00,harris v hsiou,True,Billy Harris,kalshi,0.85,Yu-Hsiou Hsu,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.0,True,2026-11-15T06:22:24+00:00
+2026-11-15T06:22:34+00:00,harris v hsiou,True,Billy Harris,kalshi,0.85,Yu-Hsiou Hsu,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.0,True,2026-11-15T06:22:24+00:00
+2026-11-15T06:23:14+00:00,harris v hsiou,True,Billy Harris,kalshi,0.87,Yu-Hsiou Hsu,polyus,0.1,0.9842,0.0,0.0,0.0,0.0,0.91,,,0.0,True,2026-11-15T06:23:14+00:00
+2026-11-15T06:23:44+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,kalshi,0.97,Toya Ishikawa,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-15T06:23:44+00:00
+2026-11-15T06:23:54+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,kalshi,0.97,Toya Ishikawa,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-15T06:23:44+00:00
+2026-11-15T06:24:04+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,polyus,0.97,Toya Ishikawa,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-15T06:24:04+00:00
+2026-11-15T06:24:14+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,polyus,0.97,Toya Ishikawa,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-15T06:24:04+00:00
+2026-11-15T06:24:24+00:00,harris v hsiou,True,Billy Harris,polyus,0.84,Yu Hsiou Hsu,kalshi,0.12,0.9767,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-15T06:24:24+00:00
+2026-11-15T06:24:24+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,polyus,0.97,Toya Ishikawa,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.05,,0.0,True,2026-11-15T06:24:04+00:00
+2026-11-15T06:24:44+00:00,ishikawa v sakellaridis,True,Dimitris Sakellaridis,polyus,0.95,Toya Ishikawa,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.0,True,2026-11-15T06:24:44+00:00
