@@ -3917,6 +3917,7 @@ KXATPCHALLENGERMATCH-26NOV14TAKOGU,atp,2026-11-15,ATP Challenger Kobe,Qualificat
 KXATPCHALLENGERMATCH-26NOV14WATDEV,atp,2026-11-15,ATP Challenger Kobe,Qualification,Kanta Watanabe,S D Prajwal Dev
 KXATPCHALLENGERMATCH-26NOV14ZHUJOV,atp,2026-11-15,ATP Challenger Sydney,Qualification,Evan Zhu,Daniel Jovanovski
 KXATPCHALLENGERMATCH-26NOV14ZHUKUM,atp,2026-11-15,ATP Challenger Kobe,Qualification,Takuya Kumasaka,Maxim Zhukov
+KXATPCHALLENGERMATCH-26NOV15AGWDUR,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Michael Agwi,Viktor Durasovic
 KXATPCHALLENGERMATCH-26NOV15BOBBLA,atp,2026-11-15,ATP Challenger Metz,Qualification,Ugo Blanchet,Matisse Bobichon
 KXATPCHALLENGERMATCH-26NOV15CLANOR,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Arvid Nordquist,Jay Clarke
 KXATPCHALLENGERMATCH-26NOV15COPOET,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Kimmer Coppejans,Adrian Oetzbach
@@ -3924,23 +3925,33 @@ KXATPCHALLENGERMATCH-26NOV15COUFOR,atp,2026-11-15,ATP Challenger Metz,Qualificat
 KXATPCHALLENGERMATCH-26NOV15CREALO,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Cezar Cretu (b. 2001),Felix Alopaeus
 KXATPCHALLENGERMATCH-26NOV15DONKRU,atp,2026-11-15,ATP Challenger Metz,Qualification,Matthew William Donald,Martin Krumich
 KXATPCHALLENGERMATCH-26NOV15ESTGUI,atp,2026-11-15,ATP Challenger Montevideo,Qualification,Alvaro Guillen Meza,Thiago Estramil
+KXATPCHALLENGERMATCH-26NOV15FARROH,atp,2026-11-15,ATP Challenger Drummondville,Qualification,Hoyoung Roh,Adam Farag-Cao
+KXATPCHALLENGERMATCH-26NOV15FUNCAN,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Carlo Alberto Caniato,Aaron Funk
 KXATPCHALLENGERMATCH-26NOV15GADGOB,atp,2026-11-15,ATP Challenger Metz,Qualification,Adrien Gobat,Buvaysar Gadamauri
 KXATPCHALLENGERMATCH-26NOV15GREBAX,atp,2026-11-15,ATP Challenger Metz,Qualification,Hugo Grenier,Florent Bax
 KXATPCHALLENGERMATCH-26NOV15HASYAM,atp,2026-11-15,ATP Challenger Kobe,Qualification,Benjamin Hassan,Jumpei Yamasaki
 KXATPCHALLENGERMATCH-26NOV15HEMDON,atp,2026-11-15,ATP Challenger Metz,Qualification,Calvin Hemery,Alexander Donski
 KXATPCHALLENGERMATCH-26NOV15HENRIB,atp,2026-11-15,ATP Challenger Hersonissos,Final,Michele Ribecai,Philip Henning
+KXATPCHALLENGERMATCH-26NOV15JIATAB,atp,2026-11-15,ATP Challenger Metz,Qualification,Carlos Taberner,Filip Cristian Jianu
 KXATPCHALLENGERMATCH-26NOV15JONMOC,atp,2026-11-15,ATP Challenger Kobe,Qualification,Maximus Jones,Yuki Mochizuki
 KXATPCHALLENGERMATCH-26NOV15KUSSHI,atp,2026-11-15,ATP Challenger Kobe,Qualification,Yusuke Kusuhara,Hikaru Shiraishi
 KXATPCHALLENGERMATCH-26NOV15LLAFER,atp,2026-11-15,ATP Challenger Montevideo,Qualification,Francisco Llanes,Bruno Fernandez
 KXATPCHALLENGERMATCH-26NOV15MELDLF,atp,2026-11-15,ATP Challenger Montevideo,Qualification,Felipe Meligeni Alves,Santiago De la Fuente
 KXATPCHALLENGERMATCH-26NOV15MIKVAS,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Luka Mikrut,Iiro Vasa
 KXATPCHALLENGERMATCH-26NOV15MOEFEL,atp,2026-11-15,ATP Challenger Monastir,Final,Kilian Feldbausch,Marvin Moeller
+KXATPCHALLENGERMATCH-26NOV15NAGGIM,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Sumit Nagal,Sebastian Gima
 KXATPCHALLENGERMATCH-26NOV15NARKAR,atp,2026-11-15,ATP Challenger Metz,Qualification,Luca Nardi,Milos Karol
+KXATPCHALLENGERMATCH-26NOV15NEUGHI,atp,2026-11-15,ATP Challenger Metz,Qualification,Antoine Ghibaudo,Maximilian Neuchrist
 KXATPCHALLENGERMATCH-26NOV15OLIZEI,atp,2026-11-15,ATP Challenger Montevideo,Qualification,Maximo Zeitune,Bruno Oliveira (b. 2002)
 KXATPCHALLENGERMATCH-26NOV15PALGUL,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Svyatoslav Gulin,Oskari Paldanius
 KXATPCHALLENGERMATCH-26NOV15POLCHU,atp,2026-11-15,ATP Challenger Kobe,Qualification,Yun Seong Chung,David Poljak
+KXATPCHALLENGERMATCH-26NOV15RIBCIG,atp,2026-11-15,ATP Challenger Montevideo,Qualification,Thiago Cigarran,Franco Ribero
 KXATPCHALLENGERMATCH-26NOV15RITSAA,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Alexander Ritschard,Leevi Saatela
+KXATPCHALLENGERMATCH-26NOV15SHECHI,atp,2026-11-15,ATP Challenger Knoxville,Final,Clement Chidekh,Abdullah Shelbayh
 KXATPCHALLENGERMATCH-26NOV15SPEECH,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Moez Echargui,John Sperle
 KXATPCHALLENGERMATCH-26NOV15VANLAT,atp,2026-11-15,ATP Challenger Metz,Qualification,Stefan Latinovic,Cyril Vandermeersch
+KXATPCHALLENGERMATCH-26NOV15VILBAR,atp,2026-11-15,ATP Challenger Montevideo,Qualification,Gonzalo Villanueva,Nicolas Barrientos
 KXATPCHALLENGERMATCH-26NOV15VIRBAS,atp,2026-11-15,ATP Challenger Orleans,Final,Otto Virtanen,Nishesh Basavareddy
+KXATPCHALLENGERMATCH-26NOV15VRBURS,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Michael Vrbensky,Vadym Ursu
 KXATPCHALLENGERMATCH-26NOV15WEHBOI,atp,2026-11-15,ATP Challenger Helsinki,Qualification,Kai Wehnelt,Gabi Adrian Boitan
+KXWTACHALLENGERMATCH-26NOV15CHEOSB,wta,2026-11-15,WTA Challenger Colina,Qualification,Diletta Cherubini,Alexandra Osborne
