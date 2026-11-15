@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 195.5,
-  "polyus": 328.59
+  "kalshi": 185.9,
+  "polyus": 189.82
  },
  "open": [
   {
@@ -17,10 +17,23 @@
    },
    "cost": 175.91,
    "expected": 2.09
+  },
+  {
+   "id": "e12b5aca6054",
+   "key": "alopaeus v cretu",
+   "opened": "2026-11-15T02:27:19+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15CREALO-ALO",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 150,
+    "kalshi": 150
+   },
+   "cost": 148.37,
+   "expected": 1.63
   }
  ],
  "settled_pnl": 0.0,
  "unwind_pnl": 0.0,
- "fires": 1,
+ "fires": 2,
  "settled": 0
 }
