@@ -1,14 +1,14 @@
-# Dry-run bot (Sun Nov 15 1:00PM MT)
+# Dry-run bot (Sun Nov 15 1:15PM MT)
 
 Paper only: no keys, no real orders. Started 2026-11-14 with $700 (Kalshi $345, Polymarket US $355).
 
-- Cash: Kalshi **$537.43**, Polymarket US **$217.16**; locked in 0 open matches: $0.00
+- Cash: Kalshi **$257.03**, Polymarket US **$131.88**; locked in 2 open matches: $365.68
 - Bankroll now (cash + open at cost): **$754.59**
-- Fires: 11 · settled: 10 · settled P&L **$+54.59** (includes unwinds: $+0.00)
-- Paper rebalances (times Remick would have had to move money between venues): 2 · cap $150 per venue per arb
-- On fresh (uncached) Polymarket US books, since Nov 14: 11 fires, 10 traded, 0 with one leg short · simulated $54.59 vs $51.19 if both orders had gone at once
+- Fires: 13 · settled: 10 · settled P&L **$+54.59** (includes unwinds: $+0.00)
+- Paper rebalances (times Remick would have had to move money between venues): 3 · cap $150 per venue per arb
+- On fresh (uncached) Polymarket US books, since Nov 14: 13 fires, 12 traded, 0 with one leg short · simulated $57.91 vs $54.51 if both orders had gone at once
 - Earlier fires (23) used Polymarket US books up to 30s stale: not evidence either way
-- Median book-read time 81 ms, fill check 54 ms
+- Median book-read time 84 ms, fill check 56 ms
 
 ## Last 15 fires
 
@@ -25,3 +25,5 @@ Paper only: no keys, no real orders. Started 2026-11-14 with $700 (Kalshi $345, 
 | 2026-11-15T18:31:31+00:00 | brostrom v orderlain      | True   | polyus_first |      154 |  0.9828 |       2.65 |        154 |        154 |            0 |         2.65 |          2.65 |
 | 2026-11-15T18:31:45+00:00 | brostrom v orderlain      | True   | polyus_first |      154 |  0.9934 |       1.01 |        154 |        154 |            0 |         1.01 |          1.01 |
 | 2026-11-15T19:01:40+00:00 | coulibaly v moroni        | True   | polyus_first |      212 |  0.9468 |      11.27 |        212 |        212 |            0 |        11.27 |         11.27 |
+| 2026-11-15T20:09:59+00:00 | fils v shelton            | True   | polyus_first |      194 |  0.991  |       1.75 |        194 |        194 |            0 |         1.75 |          1.75 |
+| 2026-11-15T20:10:28+00:00 | izquierdo v roncadelli    | True   | polyus_first |      175 |  0.991  |       1.57 |        175 |        175 |            0 |         1.57 |          1.57 |
