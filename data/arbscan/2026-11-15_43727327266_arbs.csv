@@ -738,3 +738,98 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T18:16:16+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.73,William Mroz Mroz,polyus,0.22,0.9757,0.0,0.0,0.0,0.0,0.79,,,0.0,True,2026-11-15T18:16:06+00:00
 2026-11-15T18:16:26+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.74,William Mroz Mroz,kalshi,0.22,0.9854,0.0,0.0,0.0,0.0,,0.27,,0.0,True,2026-11-15T18:16:26+00:00
 2026-11-15T18:16:36+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.74,William Mroz Mroz,kalshi,0.22,0.9854,0.0,0.0,0.0,0.0,,0.27,,0.0,True,2026-11-15T18:16:26+00:00
+2026-11-15T18:16:46+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.75,William Mroz Mroz,kalshi,0.22,0.995,0.0,0.0,0.0,0.0,,0.26,,0.0,True,2026-11-15T18:16:26+00:00
+2026-11-15T18:17:06+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.73,William Mroz Mroz,polyus,0.19,0.9445,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-15T18:17:06+00:00
+2026-11-15T18:17:06+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.08,Nikola Slavic,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.1,,,0.0,True,2026-11-15T18:17:06+00:00
+2026-11-15T18:17:16+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.73,William Mroz Mroz,polyus,0.2,0.9549,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-15T18:17:06+00:00
+2026-11-15T18:17:16+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.08,Nikola Slavic,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.1,,,0.0,True,2026-11-15T18:17:06+00:00
+2026-11-15T18:17:36+00:00,george v slavic,True,Benjamin Thomas George,polyus,0.07,Nikola Slavic,kalshi,0.9,0.9808,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-15T18:17:36+00:00
+2026-11-15T18:17:46+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.75,William Mroz Mroz,kalshi,0.2,0.9742,0.0,0.0,0.0,0.0,,0.26,,0.0,True,2026-11-15T18:17:46+00:00
+2026-11-15T18:17:46+00:00,george v slavic,True,Benjamin Thomas George,polyus,0.07,Nikola Slavic,kalshi,0.9,0.9808,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-15T18:17:36+00:00
+2026-11-15T18:18:16+00:00,brostrom v orderlain,True,Drew van Orderlain,kalshi,0.65,Oskar Brostrom Poulsen,polyus,0.29,0.9702,0.0,0.0,0.0,0.0,0.72,,,0.0,True,2026-11-15T18:18:16+00:00
+2026-11-15T18:18:36+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.09,Nikola Slavic,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.1,True,2026-11-15T18:18:36+00:00
+2026-11-15T18:18:46+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.74,William Mroz Mroz,kalshi,0.17,0.9332,0.0,0.0,0.0,0.0,,0.27,,0.0,True,2026-11-15T18:18:46+00:00
+2026-11-15T18:18:46+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.09,Nikola Slavic,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-15T18:18:36+00:00
+2026-11-15T18:19:06+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.13,Nikola Slavic,polyus,0.78,0.9298,0.0,0.0,0.0,0.0,0.23,,,0.0,True,2026-11-15T18:19:06+00:00
+2026-11-15T18:19:16+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.13,Nikola Slavic,polyus,0.78,0.9298,0.0,0.0,0.0,0.0,0.23,,,0.0,True,2026-11-15T18:19:06+00:00
+2026-11-15T18:19:16+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.69,Filippo Moroni,kalshi,0.28,0.999,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-15T18:19:16+00:00
+2026-11-15T18:19:26+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.13,Nikola Slavic,polyus,0.78,0.9298,0.0,0.0,0.0,0.0,0.23,,,0.0,True,2026-11-15T18:19:06+00:00
+2026-11-15T18:19:26+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.74,William Mroz Mroz,polyus,0.17,0.9333,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-15T18:19:26+00:00
+2026-11-15T18:19:26+00:00,izquierdo v roncadelli,True,Franco Roncadelli,kalshi,0.32,Nikolas Sanchez Izquierdo,polyus,0.63,0.9814,0.0,0.0,0.0,0.0,0.38,,,0.1,True,2026-11-15T18:19:26+00:00
+2026-11-15T18:19:26+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.68,Filippo Moroni,kalshi,0.28,0.9892,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-15T18:19:16+00:00
+2026-11-15T18:19:36+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.13,Nikola Slavic,polyus,0.78,0.9298,0.0,0.0,0.0,0.0,0.24,,,0.0,True,2026-11-15T18:19:06+00:00
+2026-11-15T18:19:36+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.74,William Mroz Mroz,polyus,0.17,0.9333,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-15T18:19:26+00:00
+2026-11-15T18:19:36+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.67,Filippo Moroni,kalshi,0.28,0.9795,0.0,0.0,0.0,0.0,,0.38,,0.0,True,2026-11-15T18:19:16+00:00
+2026-11-15T18:19:36+00:00,izquierdo v roncadelli,True,Franco Roncadelli,kalshi,0.32,Nikolas Sanchez Izquierdo,polyus,0.63,0.9814,0.0,0.0,0.0,0.0,0.38,,,0.0,True,2026-11-15T18:19:26+00:00
+2026-11-15T18:19:56+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.8,William Mroz Mroz,kalshi,0.17,0.991,0.0,0.0,0.0,0.0,,0.27,,0.0,True,2026-11-15T18:19:56+00:00
+2026-11-15T18:20:06+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.74,William Mroz Mroz,kalshi,0.17,0.9332,0.0,0.0,0.0,0.0,,0.27,,0.0,True,2026-11-15T18:19:56+00:00
+2026-11-15T18:20:06+00:00,george v slavic,True,Benjamin Thomas George,polyus,0.18,Nikola Slavic,kalshi,0.78,0.9823,0.0,0.0,0.0,0.0,,0.79,,0.0,True,2026-11-15T18:20:06+00:00
+2026-11-15T18:20:16+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.74,William Mroz Mroz,kalshi,0.19,0.9541,0.0,0.0,0.0,0.0,,0.27,,0.1,True,2026-11-15T18:19:56+00:00
+2026-11-15T18:20:26+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.67,William Mroz Mroz,kalshi,0.19,0.8861,0.0,0.0,0.0,0.0,,0.34,,0.0,True,2026-11-15T18:19:56+00:00
+2026-11-15T18:20:36+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.66,William Mroz Mroz,kalshi,0.19,0.8764,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-15T18:19:56+00:00
+2026-11-15T18:20:56+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.61,William Mroz Mroz,kalshi,0.35,0.9925,0.0,0.0,0.0,0.0,,0.41,,0.0,True,2026-11-15T18:20:56+00:00
+2026-11-15T18:20:56+00:00,george v slavic,True,Benjamin Thomas George,polyus,0.23,Nikola Slavic,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-15T18:20:56+00:00
+2026-11-15T18:21:06+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.6,William Mroz Mroz,kalshi,0.35,0.9826,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-15T18:20:56+00:00
+2026-11-15T18:21:06+00:00,george v slavic,True,Benjamin Thomas George,polyus,0.23,Nikola Slavic,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-15T18:20:56+00:00
+2026-11-15T18:22:16+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.6,William Mroz Mroz,polyus,0.35,0.9826,0.0,0.0,0.0,0.0,0.66,,,0.0,True,2026-11-15T18:22:16+00:00
+2026-11-15T18:22:26+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.61,William Mroz Mroz,polyus,0.34,0.9822,0.0,0.0,0.0,0.0,0.67,,,0.0,True,2026-11-15T18:22:16+00:00
+2026-11-15T18:22:36+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.61,William Mroz Mroz,polyus,0.34,0.9822,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-15T18:22:16+00:00
+2026-11-15T18:22:36+00:00,nakashima v sakagawa,True,Bryce Nakashima,kalshi,0.84,Hiroki Sakagawa,polyus,0.14,0.9978,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-15T18:22:36+00:00
+2026-11-15T18:22:46+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.61,William Mroz Mroz,polyus,0.31,0.9515,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-15T18:22:16+00:00
+2026-11-15T18:22:46+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.18,Nikola Slavic,polyus,0.78,0.9823,0.0,0.0,0.0,0.0,0.23,,,0.0,True,2026-11-15T18:22:46+00:00
+2026-11-15T18:22:46+00:00,nakashima v sakagawa,True,Bryce Nakashima,kalshi,0.84,Hiroki Sakagawa,polyus,0.14,0.9978,0.0,0.0,0.0,0.0,0.87,,,0.1,True,2026-11-15T18:22:36+00:00
+2026-11-15T18:23:06+00:00,nakashima v sakagawa,True,Bryce Nakashima,kalshi,0.87,Hiroki Sakagawa,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-15T18:23:06+00:00
+2026-11-15T18:23:16+00:00,nakashima v sakagawa,True,Bryce Nakashima,kalshi,0.87,Hiroki Sakagawa,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-15T18:23:06+00:00
+2026-11-15T18:23:36+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.23,Nikola Slavic,polyus,0.73,0.9861,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:23:36+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.28,Nikolas Sanchez Izquierdo,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:23:46+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.23,Nikola Slavic,polyus,0.73,0.9861,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:23:46+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.28,Nikolas Sanchez Izquierdo,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:23:56+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.23,Nikola Slavic,polyus,0.73,0.9861,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:23:56+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.28,Nikolas Sanchez Izquierdo,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:24:06+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.23,Nikola Slavic,polyus,0.73,0.9861,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:24:06+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.28,Nikolas Sanchez Izquierdo,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:24:16+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.28,Nikola Slavic,polyus,0.65,0.9599,0.0,0.0,0.0,0.0,0.36,,,0.1,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:24:26+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.28,Nikola Slavic,polyus,0.64,0.9501,0.0,0.0,0.0,0.0,0.36,,,0.0,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:24:26+00:00,nakashima v sakagawa,True,Bryce Nakashima,polyus,0.83,Hiroki Sakagawa,kalshi,0.13,0.9777,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-15T18:24:26+00:00
+2026-11-15T18:24:26+00:00,brostrom v orderlain,True,Drew van Orderlain,kalshi,0.8,Oskar Brostrom Poulsen,polyus,0.17,0.991,0.0,0.0,0.0,0.0,0.84,,,0.0,True,2026-11-15T18:24:26+00:00
+2026-11-15T18:24:36+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.28,Nikola Slavic,polyus,0.64,0.9501,0.0,0.0,0.0,0.0,0.36,,,0.0,True,2026-11-15T18:23:36+00:00
+2026-11-15T18:24:36+00:00,nakashima v sakagawa,True,Bryce Nakashima,polyus,0.83,Hiroki Sakagawa,kalshi,0.13,0.9777,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-15T18:24:26+00:00
+2026-11-15T18:24:36+00:00,brostrom v orderlain,True,Drew van Orderlain,kalshi,0.8,Oskar Brostrom Poulsen,polyus,0.17,0.991,0.0,0.0,0.0,0.0,0.84,,,0.0,True,2026-11-15T18:24:26+00:00
+2026-11-15T18:25:06+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.69,William Mroz Mroz,kalshi,0.28,0.999,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-15T18:25:06+00:00
+2026-11-15T18:25:16+00:00,brostrom v orderlain,True,Drew van Orderlain,polyus,0.81,Oskar Brostrom Poulsen,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,,0.2,,0.1,True,2026-11-15T18:25:16+00:00
+2026-11-15T18:25:26+00:00,brostrom v orderlain,True,Drew van Orderlain,polyus,0.81,Oskar Brostrom Poulsen,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,,0.21,,0.0,True,2026-11-15T18:25:16+00:00
+2026-11-15T18:25:26+00:00,nakashima v sakagawa,True,Bryce Nakashima,kalshi,0.85,Hiroki Sakagawa,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.1,True,2026-11-15T18:25:26+00:00
+2026-11-15T18:25:36+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.56,Robin Catry,kalshi,0.4,0.9939,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-15T18:25:36+00:00
+2026-11-15T18:25:36+00:00,nakashima v sakagawa,True,Bryce Nakashima,kalshi,0.85,Hiroki Sakagawa,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.0,True,2026-11-15T18:25:26+00:00
+2026-11-15T18:25:36+00:00,brostrom v orderlain,True,Drew van Orderlain,polyus,0.82,Oskar Brostrom Poulsen,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,,0.21,,0.0,True,2026-11-15T18:25:16+00:00
+2026-11-15T18:25:46+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.68,William Mroz Mroz,polyus,0.27,0.9789,0.0,0.0,0.0,0.0,0.74,,,0.0,True,2026-11-15T18:25:46+00:00
+2026-11-15T18:25:56+00:00,nakashima v sakagawa,True,Bryce Nakashima,kalshi,0.88,Hiroki Sakagawa,polyus,0.08,0.9725,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-15T18:25:56+00:00
+2026-11-15T18:25:56+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.68,William Mroz Mroz,polyus,0.27,0.9789,0.0,0.0,0.0,0.0,0.74,,,0.0,True,2026-11-15T18:25:46+00:00
+2026-11-15T18:25:56+00:00,george v slavic,True,Benjamin Thomas George,polyus,0.32,Nikola Slavic,kalshi,0.63,0.9814,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-15T18:25:56+00:00
+2026-11-15T18:25:56+00:00,brostrom v orderlain,True,Drew van Orderlain,kalshi,0.82,Oskar Brostrom Poulsen,polyus,0.16,0.9997,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-15T18:25:56+00:00
+2026-11-15T18:26:06+00:00,nakashima v sakagawa,True,Bryce Nakashima,kalshi,0.88,Hiroki Sakagawa,polyus,0.08,0.9725,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-15T18:25:56+00:00
+2026-11-15T18:26:06+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.68,William Mroz Mroz,polyus,0.27,0.9789,0.0,0.0,0.0,0.0,0.75,,,0.0,True,2026-11-15T18:25:46+00:00
+2026-11-15T18:26:06+00:00,george v slavic,True,Benjamin Thomas George,polyus,0.32,Nikola Slavic,kalshi,0.63,0.9814,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-15T18:25:56+00:00
+2026-11-15T18:26:06+00:00,brostrom v orderlain,True,Drew van Orderlain,kalshi,0.82,Oskar Brostrom Poulsen,polyus,0.16,0.9997,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-15T18:25:56+00:00
+2026-11-15T18:26:16+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.69,William Mroz Mroz,kalshi,0.28,0.999,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-15T18:26:16+00:00
+2026-11-15T18:26:26+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.68,William Mroz Mroz,kalshi,0.28,0.9892,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-15T18:26:16+00:00
+2026-11-15T18:26:36+00:00,brostrom v orderlain,True,Drew van Orderlain,kalshi,0.85,Oskar Brostrom Poulsen,polyus,0.08,0.944,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-15T18:26:36+00:00
+2026-11-15T18:26:36+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.32,Nikola Slavic,polyus,0.63,0.9814,0.0,0.0,0.0,0.0,0.38,,,0.0,True,2026-11-15T18:26:36+00:00
+2026-11-15T18:26:36+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.69,William Mroz Mroz,kalshi,0.28,0.999,0.0,0.0,0.0,0.0,,0.34,,0.0,True,2026-11-15T18:26:16+00:00
+2026-11-15T18:26:46+00:00,nakashima v sakagawa,True,Bryce Nakashima,kalshi,0.93,Hiroki Sakagawa,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-15T18:26:46+00:00
+2026-11-15T18:26:56+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.38,Nikola Slavic,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.43,,,0.0,True,2026-11-15T18:26:56+00:00
+2026-11-15T18:27:06+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.63,William Mroz Mroz,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,,0.38,,0.1,True,2026-11-15T18:27:06+00:00
+2026-11-15T18:27:06+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.38,Nikola Slavic,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.43,,,0.0,True,2026-11-15T18:26:56+00:00
+2026-11-15T18:29:16+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.51,William Mroz Mroz,kalshi,0.41,0.9543,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-15T18:29:16+00:00
+2026-11-15T18:29:26+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.51,William Mroz Mroz,kalshi,0.41,0.9543,0.0,0.0,0.0,0.0,,0.52,,0.0,True,2026-11-15T18:29:16+00:00
+2026-11-15T18:29:46+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.51,William Mroz Mroz,polyus,0.43,0.9745,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-15T18:29:46+00:00
+2026-11-15T18:29:56+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.51,William Mroz Mroz,polyus,0.44,0.9846,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-15T18:29:46+00:00
+2026-11-15T18:30:26+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.57,William Mroz Mroz,polyus,0.37,0.9734,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-15T18:30:26+00:00
+2026-11-15T18:30:46+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.63,William Mroz Mroz,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-15T18:30:46+00:00
+2026-11-15T18:30:56+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.63,William Mroz Mroz,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-15T18:30:46+00:00
+2026-11-15T18:31:26+00:00,brostrom v orderlain,True,Drew van Orderlain,kalshi,0.94,Oskar Brostrom Poulsen,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-15T18:31:26+00:00
+2026-11-15T18:31:36+00:00,brostrom v orderlain,True,Drew van Orderlain,kalshi,0.96,Oskar Brostrom Poulsen,polyus,0.02,0.9841,0.0,0.0,0.0,0.0,,,,0.0,True,2026-11-15T18:31:26+00:00
+2026-11-15T18:31:36+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.5,Filippo Moroni,kalshi,0.45,0.9847,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-15T18:31:36+00:00
+2026-11-15T18:31:46+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.62,William Mroz Mroz,kalshi,0.31,0.9613,0.0,0.0,0.0,0.0,,0.39,,0.0,True,2026-11-15T18:31:46+00:00
+2026-11-15T18:31:46+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.51,Filippo Moroni,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-15T18:31:36+00:00
+2026-11-15T18:31:46+00:00,brostrom v orderlain,True,Drew van Orderlain,kalshi,0.96,Oskar Brostrom Poulsen,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-15T18:31:26+00:00
