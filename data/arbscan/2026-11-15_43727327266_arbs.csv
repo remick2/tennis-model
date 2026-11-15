@@ -342,3 +342,83 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T17:14:06+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.09,Thiago Cigarran,kalshi,0.87,0.9736,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-15T17:13:16+00:00
 2026-11-15T17:14:16+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.09,Thiago Cigarran,kalshi,0.87,0.9736,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-15T17:13:16+00:00
 2026-11-15T17:14:56+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,kalshi,0.85,Maximilian Neuchrist,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.1,True,2026-11-15T17:14:56+00:00
+2026-11-15T17:17:26+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.84,Nicolas Barrientos,polyus,0.13,0.9873,0.0,0.0,0.0,0.0,0.88,,,0.1,True,2026-11-15T17:17:26+00:00
+2026-11-15T17:18:46+00:00,chidekh v shelbayh,True,Abdullah Shelbayh,kalshi,0.23,Clement Chidekh,polyus,0.74,0.9958,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-15T17:18:46+00:00
+2026-11-15T17:19:16+00:00,nakashima v sakagawa,True,Bryce Nakashima,kalshi,0.96,Hiroki Sakagawa,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-15T17:19:16+00:00
+2026-11-15T17:20:26+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.63,William Mroz Mroz,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,,0.39,,0.0,True,2026-11-15T17:20:26+00:00
+2026-11-15T17:20:36+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.62,William Mroz Mroz,kalshi,0.33,0.9819,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-15T17:20:26+00:00
+2026-11-15T17:20:46+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.63,William Mroz Mroz,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-15T17:20:26+00:00
+2026-11-15T17:20:46+00:00,cao v roh,True,Adam Farag-Cao,kalshi,0.02,Hoyoung Roh,polyus,0.97,0.9934,0.0,0.0,0.0,0.0,0.04,,,0.0,True,2026-11-15T17:20:46+00:00
+2026-11-15T17:20:56+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.62,William Mroz Mroz,polyus,0.34,0.9921,0.0,0.0,0.0,0.0,0.67,,,0.0,True,2026-11-15T17:20:56+00:00
+2026-11-15T17:21:06+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.62,William Mroz Mroz,polyus,0.34,0.9921,0.0,0.0,0.0,0.0,0.67,,,0.0,True,2026-11-15T17:20:56+00:00
+2026-11-15T17:21:36+00:00,alvarez v trevisan,False,Martina Trevisan,polyus,0.97,Samantha Alvarez,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.1,True,2026-11-15T17:21:36+00:00
+2026-11-15T17:21:46+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.51,William Mroz Mroz,kalshi,0.4,0.9442,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-15T17:21:46+00:00
+2026-11-15T17:21:46+00:00,alvarez v trevisan,False,Martina Trevisan,polyus,0.97,Samantha Alvarez,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-15T17:21:36+00:00
+2026-11-15T17:21:56+00:00,alvarez v trevisan,False,Martina Trevisan,polyus,0.97,Samantha Alvarez,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-15T17:21:36+00:00
+2026-11-15T17:22:16+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.42,Viktor Durasovic,polyus,0.54,0.9943,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-15T17:22:16+00:00
+2026-11-15T17:22:36+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.07,Nikola Slavic,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,,,0.0,True,2026-11-15T17:22:36+00:00
+2026-11-15T17:22:46+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.47,Viktor Durasovic,polyus,0.47,0.9747,0.0,0.0,0.0,0.0,0.54,,,0.0,True,2026-11-15T17:22:46+00:00
+2026-11-15T17:22:46+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.07,Nikola Slavic,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-15T17:22:36+00:00
+2026-11-15T17:22:56+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.47,Viktor Durasovic,polyus,0.46,0.9647,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-15T17:22:46+00:00
+2026-11-15T17:22:56+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.07,Nikola Slavic,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,,,0.0,True,2026-11-15T17:22:36+00:00
+2026-11-15T17:23:06+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.47,Viktor Durasovic,polyus,0.47,0.9747,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-15T17:22:46+00:00
+2026-11-15T17:23:06+00:00,george v slavic,True,Benjamin Thomas George,kalshi,0.07,Nikola Slavic,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.1,,,0.0,True,2026-11-15T17:22:36+00:00
+2026-11-15T17:23:16+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.56,Viktor Durasovic,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-15T17:22:46+00:00
+2026-11-15T17:23:26+00:00,cigarran v ribero,True,Franco Ribero,kalshi,0.17,Thiago Cigarran,polyus,0.75,0.9429,0.0,0.0,0.0,0.0,0.26,,,0.1,True,2026-11-15T17:23:26+00:00
+2026-11-15T17:23:26+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.56,Viktor Durasovic,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.62,,,0.0,True,2026-11-15T17:22:46+00:00
+2026-11-15T17:23:36+00:00,cigarran v ribero,True,Franco Ribero,kalshi,0.17,Thiago Cigarran,polyus,0.75,0.9429,0.0,0.0,0.0,0.0,0.26,,,0.0,True,2026-11-15T17:23:26+00:00
+2026-11-15T17:23:36+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.93,Nicolas Barrientos,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-15T17:23:36+00:00
+2026-11-15T17:23:46+00:00,agwi v durasovic,True,Michael Agwi,polyus,0.58,Viktor Durasovic,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,,0.42,,0.1,True,2026-11-15T17:23:46+00:00
+2026-11-15T17:23:56+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.19,Thiago Cigarran,kalshi,0.75,0.9638,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-15T17:23:56+00:00
+2026-11-15T17:24:06+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.19,Thiago Cigarran,kalshi,0.75,0.9638,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-15T17:23:56+00:00
+2026-11-15T17:24:16+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.6,Viktor Durasovic,polyus,0.35,0.9826,0.0,0.0,0.0,0.0,0.66,,,0.1,True,2026-11-15T17:24:16+00:00
+2026-11-15T17:24:16+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.94,Nicolas Barrientos,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-15T17:24:16+00:00
+2026-11-15T17:24:26+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.6,Viktor Durasovic,polyus,0.34,0.9724,0.0,0.0,0.0,0.0,0.67,,,0.0,True,2026-11-15T17:24:16+00:00
+2026-11-15T17:24:26+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.94,Nicolas Barrientos,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-15T17:24:16+00:00
+2026-11-15T17:24:36+00:00,cigarran v ribero,True,Franco Ribero,kalshi,0.19,Thiago Cigarran,polyus,0.71,0.9251,0.0,0.0,0.0,0.0,0.3,,,0.1,True,2026-11-15T17:24:36+00:00
+2026-11-15T17:24:36+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.6,Viktor Durasovic,polyus,0.34,0.9724,0.0,0.0,0.0,0.0,0.67,,,0.0,True,2026-11-15T17:24:16+00:00
+2026-11-15T17:24:36+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.94,Nicolas Barrientos,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-15T17:24:16+00:00
+2026-11-15T17:24:46+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,polyus,0.86,Maximilian Neuchrist,kalshi,0.12,0.9958,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-15T17:24:46+00:00
+2026-11-15T17:24:56+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.97,Nicolas Barrientos,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-15T17:24:56+00:00
+2026-11-15T17:24:56+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,polyus,0.86,Maximilian Neuchrist,kalshi,0.12,0.9958,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-15T17:24:46+00:00
+2026-11-15T17:25:06+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.97,Nicolas Barrientos,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-15T17:24:56+00:00
+2026-11-15T17:25:06+00:00,cao v roh,True,Adam Farag-Cao,polyus,0.02,Hoyoung Roh,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.0,True,2026-11-15T17:25:06+00:00
+2026-11-15T17:25:06+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,polyus,0.86,Maximilian Neuchrist,kalshi,0.12,0.9958,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-15T17:24:46+00:00
+2026-11-15T17:25:16+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.2,Thiago Cigarran,kalshi,0.71,0.9355,0.0,0.0,0.0,0.0,,0.81,,0.1,True,2026-11-15T17:25:16+00:00
+2026-11-15T17:25:16+00:00,mitsui v mroz,True,Shunsuke Mitsui,kalshi,0.61,William Mroz Mroz,polyus,0.35,0.9925,0.0,0.0,0.0,0.0,0.66,,,0.0,True,2026-11-15T17:25:16+00:00
+2026-11-15T17:25:16+00:00,cao v roh,True,Adam Farag-Cao,polyus,0.02,Hoyoung Roh,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-15T17:25:06+00:00
+2026-11-15T17:25:16+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.97,Nicolas Barrientos,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-15T17:24:56+00:00
+2026-11-15T17:25:16+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,polyus,0.86,Maximilian Neuchrist,kalshi,0.12,0.9958,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-15T17:24:46+00:00
+2026-11-15T17:25:26+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.2,Thiago Cigarran,kalshi,0.74,0.9646,0.0,0.0,0.0,0.0,,0.81,,0.1,True,2026-11-15T17:25:16+00:00
+2026-11-15T17:25:36+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.2,Thiago Cigarran,kalshi,0.74,0.9646,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-15T17:25:16+00:00
+2026-11-15T17:25:46+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.2,Thiago Cigarran,kalshi,0.74,0.9646,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-15T17:25:16+00:00
+2026-11-15T17:25:56+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.09,Thiago Cigarran,kalshi,0.81,0.9165,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-15T17:25:16+00:00
+2026-11-15T17:26:06+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.09,Thiago Cigarran,kalshi,0.81,0.9165,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-15T17:25:16+00:00
+2026-11-15T17:26:06+00:00,agwi v durasovic,True,Michael Agwi,polyus,0.54,Viktor Durasovic,kalshi,0.39,0.9639,0.0,0.0,0.0,0.0,,0.47,,0.0,True,2026-11-15T17:26:06+00:00
+2026-11-15T17:26:16+00:00,cigarran v ribero,True,Franco Ribero,polyus,0.09,Thiago Cigarran,kalshi,0.81,0.9165,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-15T17:25:16+00:00
+2026-11-15T17:26:16+00:00,agwi v durasovic,True,Michael Agwi,polyus,0.54,Viktor Durasovic,kalshi,0.39,0.9639,0.0,0.0,0.0,0.0,,0.47,,0.0,True,2026-11-15T17:26:06+00:00
+2026-11-15T17:26:26+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.54,Viktor Durasovic,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,,,0.1,True,2026-11-15T17:26:26+00:00
+2026-11-15T17:26:36+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.54,Viktor Durasovic,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,,,0.1,True,2026-11-15T17:26:26+00:00
+2026-11-15T17:27:06+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.97,Nicolas Barrientos,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-15T17:27:06+00:00
+2026-11-15T17:27:16+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.97,Nicolas Barrientos,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-15T17:27:06+00:00
+2026-11-15T17:27:36+00:00,agwi v durasovic,True,Michael Agwi,polyus,0.42,Viktor Durasovic,kalshi,0.51,0.9644,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-15T17:27:36+00:00
+2026-11-15T17:28:56+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.47,Viktor Durasovic,polyus,0.47,0.9747,0.0,0.0,0.0,0.0,0.54,,,0.0,True,2026-11-15T17:28:56+00:00
+2026-11-15T17:28:56+00:00,barrientos v villanueva,True,Gonzalo Villanueva,polyus,0.94,Nicolas Barrientos,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-15T17:28:56+00:00
+2026-11-15T17:29:06+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.47,Viktor Durasovic,polyus,0.47,0.9747,0.0,0.0,0.0,0.0,0.54,,,0.0,True,2026-11-15T17:28:56+00:00
+2026-11-15T17:29:06+00:00,barrientos v villanueva,True,Gonzalo Villanueva,polyus,0.94,Nicolas Barrientos,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.06,,0.0,True,2026-11-15T17:28:56+00:00
+2026-11-15T17:29:16+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.47,Viktor Durasovic,polyus,0.47,0.9747,0.0,0.0,0.0,0.0,0.54,,,0.0,True,2026-11-15T17:28:56+00:00
+2026-11-15T17:29:16+00:00,barrientos v villanueva,True,Gonzalo Villanueva,polyus,0.94,Nicolas Barrientos,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-15T17:28:56+00:00
+2026-11-15T17:29:26+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.54,Viktor Durasovic,polyus,0.39,0.9639,0.0,0.0,0.0,0.0,0.62,,,0.0,True,2026-11-15T17:28:56+00:00
+2026-11-15T17:29:36+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.54,Viktor Durasovic,polyus,0.39,0.9639,0.0,0.0,0.0,0.0,0.62,,,0.0,True,2026-11-15T17:28:56+00:00
+2026-11-15T17:29:36+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.94,Nicolas Barrientos,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-15T17:29:36+00:00
+2026-11-15T17:29:46+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.54,Viktor Durasovic,polyus,0.38,0.9538,0.0,0.0,0.0,0.0,0.63,,,0.0,True,2026-11-15T17:28:56+00:00
+2026-11-15T17:29:46+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.94,Nicolas Barrientos,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-15T17:29:36+00:00
+2026-11-15T17:29:56+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.96,Nicolas Barrientos,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-15T17:29:36+00:00
+2026-11-15T17:30:06+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.63,Viktor Durasovic,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-15T17:30:06+00:00
+2026-11-15T17:30:06+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.96,Nicolas Barrientos,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-15T17:29:36+00:00
+2026-11-15T17:30:16+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.63,Viktor Durasovic,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.1,True,2026-11-15T17:30:06+00:00
+2026-11-15T17:30:16+00:00,barrientos v villanueva,True,Gonzalo Villanueva,kalshi,0.96,Nicolas Barrientos,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-15T17:29:36+00:00
+2026-11-15T17:30:56+00:00,carou v jover,True,Carlos Sanchez Jover,kalshi,0.94,Ignacio Carou,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-15T17:30:56+00:00
+2026-11-15T17:30:56+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.71,William Mroz Mroz,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-15T17:30:56+00:00
+2026-11-15T17:31:06+00:00,carou v jover,True,Carlos Sanchez Jover,kalshi,0.94,Ignacio Carou,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-15T17:30:56+00:00
+2026-11-15T17:31:06+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.71,William Mroz Mroz,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-15T17:30:56+00:00
