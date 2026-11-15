@@ -1,4 +1,4 @@
-# Arb test status (Sun Nov 15 4:41PM MT)
+# Arb test status (Sun Nov 15 4:56PM MT)
 
 Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (4/10 occasions, 1/5 days). Test ends Nov 22 00:00 UTC. Live trading is off and stays off.
 
@@ -13,25 +13,25 @@ Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (4/10 occasions, 1/5
 | Paper bot: fires still fillable 1s later | 19% | - |
 | Polymarket US reads refused as stale | 0.0% (oldest 1s) | < 5% |
 
-Coverage: 738 candidate checks (list prices showed an arb), 1 got no Polymarket US book; 0 rate-limit hits; 3 failed list refreshes in 46,080 cycles; list vs book disagreed on 130 of 737 checks.
+Coverage: 738 candidate checks (list prices showed an arb), 1 got no Polymarket US book; 0 rate-limit hits; 3 failed list refreshes in 46,530 cycles; list vs book disagreed on 130 of 737 checks.
 
-Bot coverage: 1,536 minutes watched. Cycles (2s each) where some pair cost under $1: **5,644**. Best a single fire would have netted: **$14.92**.
+Bot coverage: 1,551 minutes watched. Cycles (2s each) where some pair cost under $1: **5,907**. Best a single fire would have netted: **$14.92**.
 
 ## Maker test (rest a bid on one venue, hedge on the other if it fills)
 
-Fills: **2739** · total **$-8564.43** · per fill $-3.13 ± 0.11. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
+Fills: **2758** · total **$-8647.52** · per fill $-3.14 ± 0.11. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
 
 | venue   | live   |   fills |    total |   mean |
 |:--------|:-------|--------:|---------:|-------:|
-| kalshi  | False  |      73 |   259.93 |   3.56 |
-| kalshi  | True   |    2331 | -6908.04 |  -2.96 |
+| kalshi  | False  |      74 |   256.63 |   3.47 |
+| kalshi  | True   |    2343 | -6952.11 |  -2.97 |
 | polyus  | False  |       7 |   -20.49 |  -2.93 |
-| polyus  | True   |     328 | -1895.83 |  -5.78 |
+| polyus  | True   |     334 | -1931.55 |  -5.78 |
 
 ## By UTC day
 
 | day        |   bot fires |   bot traded |   maker fills |   bot sim $ |   maker $ |
 |:-----------|------------:|-------------:|--------------:|------------:|----------:|
 | 2026-11-14 |           0 |            0 |            19 |        0    |      7.28 |
-| 2026-11-15 |          21 |           20 |          2720 |       79.75 |  -8571.71 |
+| 2026-11-15 |          21 |           20 |          2739 |       79.75 |  -8654.8  |
 
