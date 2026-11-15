@@ -1,4 +1,4 @@
-# Arb test status (Sat Nov 14 7:43PM MT)
+# Arb test status (Sat Nov 14 7:58PM MT)
 
 Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (0/10 occasions, 0/5 days). Test ends Nov 22 00:00 UTC. Live trading is off and stays off.
 
@@ -8,23 +8,23 @@ Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (0/10 occasions, 0/5
 | ...on different UTC days | 0 | 5 |
 | ...found by the scanner / by the paper bot | 0 / 0 | - |
 | ...scanner total at the $690 bankroll | $0.00 | - |
-| Paper bot: fires / traded / one leg short | 2 / 2 / 0 | - |
-| Paper bot: simulated profit on traded fires | $+3.72 | > $0 |
+| Paper bot: fires / traded / one leg short | 3 / 3 / 0 | - |
+| Paper bot: simulated profit on traded fires | $+9.66 | > $0 |
 | Paper bot: fires still fillable 1s later | 0% | - |
 | Polymarket US reads refused as stale | 0.0% (oldest 0s) | < 5% |
 
-Coverage: 31 candidate checks (list prices showed an arb), 0 got no Polymarket US book; 0 rate-limit hits; 1 failed list refreshes in 8,550 cycles; list vs book disagreed on 5 of 31 checks.
+Coverage: 35 candidate checks (list prices showed an arb), 0 got no Polymarket US book; 0 rate-limit hits; 2 failed list refreshes in 9,000 cycles; list vs book disagreed on 6 of 35 checks.
 
-Bot coverage: 285 minutes watched. Cycles (2s each) where some pair cost under $1: **246**. Best a single fire would have netted: **$2.09**.
+Bot coverage: 300 minutes watched. Cycles (2s each) where some pair cost under $1: **258**. Best a single fire would have netted: **$5.94**.
 
 ## Maker test (rest a bid on one venue, hedge on the other if it fills)
 
-Fills: **158** · total **$-55.64** · per fill $-0.35 ± 0.42. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
+Fills: **175** · total **$-84.00** · per fill $-0.48 ± 0.40. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
 
 | venue   | live   |   fills |   total |   mean |
 |:--------|:-------|--------:|--------:|-------:|
-| kalshi  | False  |      10 |   -8.24 |  -0.82 |
-| kalshi  | True   |     138 |   -2.48 |  -0.02 |
+| kalshi  | False  |      12 |  -26.14 |  -2.18 |
+| kalshi  | True   |     153 |  -12.94 |  -0.08 |
 | polyus  | True   |      10 |  -44.92 |  -4.49 |
 
 ## By UTC day
@@ -32,5 +32,5 @@ Fills: **158** · total **$-55.64** · per fill $-0.35 ± 0.42. No edge shown (n
 | day        |   bot fires |   bot traded |   maker fills |   bot sim $ |   maker $ |
 |:-----------|------------:|-------------:|--------------:|------------:|----------:|
 | 2026-11-14 |           0 |            0 |            19 |        0    |      7.28 |
-| 2026-11-15 |           2 |            2 |           139 |        3.72 |    -62.92 |
+| 2026-11-15 |           3 |            3 |           156 |        9.66 |    -91.28 |
 

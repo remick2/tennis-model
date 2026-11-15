@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 363.9,
-  "polyus": 189.82
+  "kalshi": 191.83,
+  "polyus": 191.83
  },
  "open": [
   {
@@ -17,10 +17,24 @@
    },
    "cost": 148.37,
    "expected": 1.63
+  },
+  {
+   "id": "b3759c954a16",
+   "key": "kumasaka v zhukov",
+   "opened": "2026-11-15T02:48:59+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV14ZHUKUM-ZHU",
+   "kalshi_side": "yes",
+   "shares": {
+    "kalshi": 176,
+    "polyus": 176
+   },
+   "cost": 170.06,
+   "expected": 5.94
   }
  ],
  "settled_pnl": 2.09,
  "unwind_pnl": 0.0,
- "fires": 2,
- "settled": 1
+ "fires": 3,
+ "settled": 1,
+ "rebalances": 1
 }
