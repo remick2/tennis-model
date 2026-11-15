@@ -35,3 +35,14 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T00:42:20+00:00,kubler v vujic,True,kalshi:KXATPCHALLENGERMATCH-26NOV14KUBVUJ-KUB:yes,0.94,53,True,0.0067,2.3,hedged,polyus:aec-atp-jaskub-stevuj-2026-11-14:1,0.06,-0.21,-0.77,-0.21,True
 2026-11-15T00:42:34+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.13,384,True,0.0111,2.0,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.85,4.28,-6.68,4.28,True
 2026-11-15T00:43:04+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-FER:yes,0.85,58,False,0.0121,2.0,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:0,0.13,0.7,-1.13,0.7,True
+2026-11-15T00:43:47+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.13,384,False,0.0111,2.0,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.85,4.28,-6.68,4.28,True
+2026-11-15T00:44:32+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-FER:yes,0.85,58,True,0.0121,2.0,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:0,0.16,-1.12,-1.13,-1.12,True
+2026-11-15T00:44:39+00:00,kubler v vujic,True,kalshi:KXATPCHALLENGERMATCH-26NOV14KUBVUJ-KUB:yes,0.94,53,True,0.0067,1.8,hedged,polyus:aec-atp-jaskub-stevuj-2026-11-14:1,0.05,0.36,-0.77,0.36,True
+2026-11-15T00:45:04+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.13,384,False,0.0111,1.9,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.88,-6.66,-6.68,-6.66,True
+2026-11-15T00:49:21+00:00,kubler v vujic,True,kalshi:KXATPCHALLENGERMATCH-26NOV14KUBVUJ-VUJ:yes,0.05,1000,True,0.0061,2.5,hedged,polyus:aec-atp-jaskub-stevuj-2026-11-14:0,0.95,-3.3,-12.69,-3.3,True
+2026-11-15T00:50:08+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.1,500,False,0.0127,2.0,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.88,6.33,-7.87,6.33,True
+2026-11-15T00:50:34+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-FER:yes,0.88,56,False,0.0137,2.0,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:0,0.13,-1.0,-1.0,-1.0,True
+2026-11-15T00:53:57+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-FER:yes,0.86,58,False,0.0127,2.1,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:0,0.12,0.73,-1.1,0.73,True
+2026-11-15T00:54:23+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.12,416,False,0.0116,2.2,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.86,4.84,-14.86,4.84,True
+2026-11-15T00:55:01+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.07,714,False,0.0143,1.8,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.94,-9.94,-9.96,-9.94,True
+2026-11-15T00:55:41+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.04,1250,False,0.0067,1.8,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.95,8.37,-15.05,8.37,True
