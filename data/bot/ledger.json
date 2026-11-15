@@ -2,7 +2,7 @@
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
   "kalshi": 257.03,
-  "polyus": 131.88
+  "polyus": 125.54
  },
  "open": [
   {
@@ -33,8 +33,8 @@
   }
  ],
  "settled_pnl": 54.59,
- "unwind_pnl": 0.0,
- "fires": 13,
+ "unwind_pnl": -6.34,
+ "fires": 14,
  "settled": 10,
  "rebalances": 3
 }
