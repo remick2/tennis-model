@@ -1,7 +1,7 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 199.43,
+  "kalshi": 325.43,
   "polyus": 6.16
  },
  "open": [
@@ -19,19 +19,6 @@
    "expected": 14.92
   },
   {
-   "id": "0e180735fe36",
-   "key": "george v slavic",
-   "opened": "2026-11-15T18:13:05+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15GEOSLA-SLA",
-   "kalshi_side": "no",
-   "shares": {
-    "kalshi": 126,
-    "polyus": 126
-   },
-   "cost": 122.54,
-   "expected": 3.46
-  },
-  {
    "id": "04b75f90f5aa",
    "key": "coulibaly v moroni",
    "opened": "2026-11-15T19:01:40+00:00",
@@ -45,9 +32,9 @@
    "expected": 11.27
   }
  ],
- "settled_pnl": 18.45,
+ "settled_pnl": 21.91,
  "unwind_pnl": 0.0,
  "fires": 11,
- "settled": 7,
+ "settled": 8,
  "rebalances": 2
 }
