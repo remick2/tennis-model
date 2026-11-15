@@ -1,0 +1,10 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-15T00:02:04+00:00,moriya v ryan,True,kalshi:KXATPCHALLENGERMATCH-26NOV14MORRYA-MOR:yes,0.94,53,False,0.0067,2.0,hedged,polyus:aec-atp-hirmor-samzie-2026-11-14:1,0.05,0.36,-0.77,0.36,True
+2026-11-15T00:02:54+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-FER:yes,0.85,58,False,0.0121,1.8,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:0,0.16,-1.12,-1.13,-1.12,True
+2026-11-15T00:02:54+00:00,ferguson v oconnell,True,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.85,58,False,0.0121,1.8,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.16,-1.13,-1.12,-1.12,True
+2026-11-15T00:03:06+00:00,moriya v ryan,True,polyus:aec-atp-hirmor-samzie-2026-11-14:0,0.94,53,True,0.0067,2.2,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV14MORRYA-RYA:yes,0.06,-0.21,-0.77,-0.21,True
+2026-11-15T00:03:44+00:00,moriya v ryan,True,polyus:aec-atp-hirmor-samzie-2026-11-14:0,0.93,53,True,0.0061,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV14MORRYA-RYA:yes,0.08,-0.8,-0.8,-0.8,True
+2026-11-15T00:04:17+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-FER:yes,0.84,59,False,0.0116,2.9,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:0,0.18,-1.79,-1.79,-1.79,True
+2026-11-15T00:09:00+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.17,294,True,0.0093,1.9,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.84,-5.69,-5.71,-5.69,True
+2026-11-15T00:09:32+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.14,357,False,0.0107,1.9,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.84,3.81,-6.4,3.81,True
+2026-11-15T00:10:46+00:00,ferguson v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV14OCFER-OC:yes,0.12,416,False,0.0116,1.8,hedged,polyus:aec-atp-benoco-chafer-2026-11-14:1,0.86,4.84,-7.01,4.84,True
