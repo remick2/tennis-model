@@ -1,4 +1,4 @@
-# Arb test status (Sun Nov 15 7:35AM MT)
+# Arb test status (Sun Nov 15 7:50AM MT)
 
 Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (0/10 occasions, 0/5 days). Test ends Nov 22 00:00 UTC. Live trading is off and stays off.
 
@@ -13,25 +13,25 @@ Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (0/10 occasions, 0/5
 | Paper bot: fires still fillable 1s later | 0% | - |
 | Polymarket US reads refused as stale | 0.0% (oldest 0s) | < 5% |
 
-Coverage: 531 candidate checks (list prices showed an arb), 0 got no Polymarket US book; 0 rate-limit hits; 3 failed list refreshes in 29,790 cycles; list vs book disagreed on 66 of 531 checks.
+Coverage: 532 candidate checks (list prices showed an arb), 0 got no Polymarket US book; 0 rate-limit hits; 3 failed list refreshes in 30,240 cycles; list vs book disagreed on 67 of 532 checks.
 
-Bot coverage: 993 minutes watched. Cycles (2s each) where some pair cost under $1: **2,737**. Best a single fire would have netted: **$5.94**.
+Bot coverage: 1,008 minutes watched. Cycles (2s each) where some pair cost under $1: **2,745**. Best a single fire would have netted: **$5.94**.
 
 ## Maker test (rest a bid on one venue, hedge on the other if it fills)
 
-Fills: **1520** · total **$-5964.86** · per fill $-3.92 ± 0.14. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
+Fills: **1536** · total **$-6048.03** · per fill $-3.94 ± 0.14. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
 
 | venue   | live   |   fills |    total |   mean |
 |:--------|:-------|--------:|---------:|-------:|
 | kalshi  | False  |      35 |   -81.12 |  -2.32 |
-| kalshi  | True   |    1312 | -4841.13 |  -3.69 |
+| kalshi  | True   |    1327 | -4919.51 |  -3.71 |
 | polyus  | False  |       6 |   -19.84 |  -3.31 |
-| polyus  | True   |     167 | -1022.77 |  -6.12 |
+| polyus  | True   |     168 | -1027.56 |  -6.12 |
 
 ## By UTC day
 
 | day        |   bot fires |   bot traded |   maker fills |   bot sim $ |   maker $ |
 |:-----------|------------:|-------------:|--------------:|------------:|----------:|
 | 2026-11-14 |           0 |            0 |            19 |        0    |      7.28 |
-| 2026-11-15 |           4 |            4 |          1501 |       13.79 |  -5972.14 |
+| 2026-11-15 |           4 |            4 |          1517 |       13.79 |  -6055.31 |
 
