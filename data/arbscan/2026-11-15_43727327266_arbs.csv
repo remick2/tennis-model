@@ -1327,3 +1327,69 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T20:17:56+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.15,Nikolas Sanchez Izquierdo,kalshi,0.82,0.9892,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-15T20:17:56+00:00
 2026-11-15T20:17:56+00:00,stephens v wells,True,Colson Wells,kalshi,0.96,Zach Stephens,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-15T20:17:26+00:00
 2026-11-15T20:17:56+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.74,Zhibek Kulambayeva,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,,0.27,,0.1,True,2026-11-15T20:17:56+00:00
+2026-11-15T20:18:06+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.14,Nikolas Sanchez Izquierdo,kalshi,0.83,0.9882,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-15T20:17:56+00:00
+2026-11-15T20:18:06+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.74,Zhibek Kulambayeva,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,,0.27,,0.1,True,2026-11-15T20:17:56+00:00
+2026-11-15T20:18:16+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.14,Nikolas Sanchez Izquierdo,kalshi,0.83,0.9882,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-15T20:17:56+00:00
+2026-11-15T20:18:26+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.15,Nikolas Sanchez Izquierdo,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-15T20:17:56+00:00
+2026-11-15T20:18:36+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.45,Robin Catry,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,,0.56,,0.0,True,2026-11-15T20:18:36+00:00
+2026-11-15T20:18:46+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.45,Robin Catry,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,,0.56,,0.1,True,2026-11-15T20:18:36+00:00
+2026-11-15T20:18:56+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.45,Robin Catry,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,,0.56,,0.1,True,2026-11-15T20:18:36+00:00
+2026-11-15T20:19:16+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.45,Robin Catry,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-15T20:19:16+00:00
+2026-11-15T20:19:16+00:00,dean v peck,True,Joshua Peck,kalshi,0.03,Theodore Dean,polyus,0.96,0.9947,0.0,0.0,0.0,0.0,0.05,,,0.1,True,2026-11-15T20:19:16+00:00
+2026-11-15T20:19:26+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.45,Robin Catry,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-15T20:19:16+00:00
+2026-11-15T20:19:26+00:00,dean v peck,True,Joshua Peck,kalshi,0.03,Theodore Dean,polyus,0.96,0.9947,0.0,0.0,0.0,0.0,0.05,,,0.0,True,2026-11-15T20:19:16+00:00
+2026-11-15T20:19:36+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.45,Robin Catry,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-15T20:19:16+00:00
+2026-11-15T20:19:36+00:00,dean v peck,True,Joshua Peck,kalshi,0.03,Theodore Dean,polyus,0.96,0.9947,0.0,0.0,0.0,0.0,0.05,,,0.1,True,2026-11-15T20:19:16+00:00
+2026-11-15T20:19:56+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.4,Robin Catry,kalshi,0.51,0.9442,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-15T20:19:56+00:00
+2026-11-15T20:19:56+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.11,Nikolas Sanchez Izquierdo,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-15T20:19:56+00:00
+2026-11-15T20:20:06+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.4,Robin Catry,kalshi,0.51,0.9442,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-15T20:19:56+00:00
+2026-11-15T20:20:06+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.11,Nikolas Sanchez Izquierdo,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-15T20:19:56+00:00
+2026-11-15T20:20:26+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.4,Robin Catry,polyus,0.53,0.9641,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-15T20:20:26+00:00
+2026-11-15T20:20:36+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.4,Robin Catry,polyus,0.53,0.9641,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-15T20:20:26+00:00
+2026-11-15T20:20:36+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.07,Nikolas Sanchez Izquierdo,kalshi,0.9,0.9808,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-15T20:20:36+00:00
+2026-11-15T20:21:06+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.48,Robin Catry,polyus,0.46,0.9747,0.0,0.0,0.0,0.0,0.55,,,0.1,True,2026-11-15T20:21:06+00:00
+2026-11-15T20:21:16+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.76,Zhibek Kulambayeva,polyus,0.21,0.9943,0.0,0.0,0.0,0.0,0.8,,,0.1,True,2026-11-15T20:21:16+00:00
+2026-11-15T20:21:26+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.76,Zhibek Kulambayeva,polyus,0.21,0.9943,0.0,0.0,0.0,0.0,0.8,,,0.1,True,2026-11-15T20:21:16+00:00
+2026-11-15T20:21:36+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.03,Nikolas Sanchez Izquierdo,kalshi,0.95,0.9853,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-15T20:21:36+00:00
+2026-11-15T20:21:46+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.75,Zhibek Kulambayeva,kalshi,0.21,0.9846,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-15T20:21:46+00:00
+2026-11-15T20:21:46+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.03,Nikolas Sanchez Izquierdo,kalshi,0.95,0.9853,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-15T20:21:36+00:00
+2026-11-15T20:21:56+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.75,Zhibek Kulambayeva,kalshi,0.21,0.9846,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-15T20:21:46+00:00
+2026-11-15T20:21:56+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.03,Nikolas Sanchez Izquierdo,kalshi,0.95,0.9853,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-15T20:21:36+00:00
+2026-11-15T20:22:06+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.71,Zhibek Kulambayeva,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-15T20:21:46+00:00
+2026-11-15T20:22:16+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.71,Zhibek Kulambayeva,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-15T20:21:46+00:00
+2026-11-15T20:22:26+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.71,Zhibek Kulambayeva,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-15T20:21:46+00:00
+2026-11-15T20:22:36+00:00,izquierdo v roncadelli,True,Franco Roncadelli,kalshi,0.02,Nikolas Sanchez Izquierdo,polyus,0.96,0.984,0.0,0.0,0.0,0.0,0.04,,,0.0,True,2026-11-15T20:22:36+00:00
+2026-11-15T20:22:46+00:00,izquierdo v roncadelli,True,Franco Roncadelli,kalshi,0.02,Nikolas Sanchez Izquierdo,polyus,0.96,0.984,0.0,0.0,0.0,0.0,0.04,,,0.1,True,2026-11-15T20:22:36+00:00
+2026-11-15T20:22:56+00:00,izquierdo v roncadelli,True,Franco Roncadelli,kalshi,0.02,Nikolas Sanchez Izquierdo,polyus,0.97,0.9934,0.0,0.0,0.0,0.0,0.05,,,0.1,True,2026-11-15T20:22:36+00:00
+2026-11-15T20:24:56+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.43,Robin Catry,kalshi,0.51,0.9745,0.0,0.0,0.0,0.0,,0.58,,0.1,True,2026-11-15T20:24:56+00:00
+2026-11-15T20:25:06+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.43,Robin Catry,kalshi,0.51,0.9745,0.0,0.0,0.0,0.0,,0.58,,0.1,True,2026-11-15T20:24:56+00:00
+2026-11-15T20:25:36+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.43,Robin Catry,polyus,0.53,0.9945,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-15T20:25:36+00:00
+2026-11-15T20:25:56+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.39,Robin Catry,kalshi,0.53,0.954,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-15T20:25:56+00:00
+2026-11-15T20:26:06+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.39,Robin Catry,kalshi,0.53,0.954,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-15T20:25:56+00:00
+2026-11-15T20:26:16+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.62,Zhibek Kulambayeva,kalshi,0.34,0.9921,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-15T20:26:16+00:00
+2026-11-15T20:26:26+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.61,Zhibek Kulambayeva,kalshi,0.34,0.9822,0.0,0.0,0.0,0.0,,0.4,,0.1,True,2026-11-15T20:26:16+00:00
+2026-11-15T20:26:36+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.24,Robin Catry,kalshi,0.62,0.8892,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-15T20:26:36+00:00
+2026-11-15T20:26:46+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.62,Zhibek Kulambayeva,polyus,0.34,0.9921,0.0,0.0,0.0,0.0,0.67,,,0.0,True,2026-11-15T20:26:46+00:00
+2026-11-15T20:26:56+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.62,Zhibek Kulambayeva,polyus,0.34,0.9921,0.0,0.0,0.0,0.0,0.67,,,0.1,True,2026-11-15T20:26:46+00:00
+2026-11-15T20:27:06+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.24,Robin Catry,polyus,0.68,0.9479,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-15T20:27:06+00:00
+2026-11-15T20:27:16+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.24,Robin Catry,polyus,0.68,0.9479,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-15T20:27:06+00:00
+2026-11-15T20:27:16+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.67,Zhibek Kulambayeva,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-15T20:27:16+00:00
+2026-11-15T20:27:26+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.24,Robin Catry,polyus,0.68,0.9479,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-15T20:27:06+00:00
+2026-11-15T20:27:26+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.67,Zhibek Kulambayeva,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-15T20:27:16+00:00
+2026-11-15T20:27:46+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.09,Robin Catry,kalshi,0.68,0.7909,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-15T20:27:46+00:00
+2026-11-15T20:27:56+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.08,Robin Catry,kalshi,0.68,0.7803,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-15T20:27:46+00:00
+2026-11-15T20:28:06+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.67,Zhibek Kulambayeva,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-15T20:28:06+00:00
+2026-11-15T20:28:36+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.67,Zhibek Kulambayeva,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-15T20:28:36+00:00
+2026-11-15T20:29:06+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.69,Zhibek Kulambayeva,polyus,0.25,0.968,0.0,0.0,0.0,0.0,0.76,,,0.1,True,2026-11-15T20:29:06+00:00
+2026-11-15T20:29:26+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.06,Robin Catry,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-15T20:29:26+00:00
+2026-11-15T20:29:46+00:00,andreeva v svitolina,True,Elina Svitolina,kalshi,0.23,Mirra Andreeva,polyus,0.74,0.9958,0.0,0.0,0.0,0.0,0.27,,,0.1,True,2026-11-15T20:29:46+00:00
+2026-11-15T20:30:06+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.03,Robin Catry,kalshi,0.95,0.9853,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-15T20:30:06+00:00
+2026-11-15T20:30:16+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.03,Robin Catry,kalshi,0.94,0.976,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-15T20:30:06+00:00
+2026-11-15T20:30:26+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.03,Robin Catry,kalshi,0.94,0.976,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-15T20:30:06+00:00
+2026-11-15T20:30:36+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.02,Robin Catry,kalshi,0.94,0.9653,0.0,0.0,0.0,0.0,,,,0.1,True,2026-11-15T20:30:06+00:00
+2026-11-15T20:30:56+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.76,Zhibek Kulambayeva,polyus,0.21,0.9943,0.0,0.0,0.0,0.0,0.8,,,0.1,True,2026-11-15T20:30:56+00:00
+2026-11-15T20:31:46+00:00,hands v maxted,False,Lui Maxted,kalshi,0.93,Tom Hands,polyus,0.06,0.9985,38.0,0.01,0.01,0.0,0.93,0.06,0.9985,0.2,True,2026-11-15T20:31:46+00:00
+2026-11-15T20:31:56+00:00,hands v maxted,False,Lui Maxted,kalshi,0.93,Tom Hands,polyus,0.06,0.9985,1010.0,0.01,0.01,0.0,0.93,0.06,0.9985,0.2,True,2026-11-15T20:31:46+00:00
+2026-11-15T20:32:16+00:00,hands v maxted,True,Lui Maxted,kalshi,0.93,Tom Hands,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-15T20:32:16+00:00
+2026-11-15T20:32:26+00:00,hands v maxted,True,Lui Maxted,kalshi,0.93,Tom Hands,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-15T20:32:16+00:00
+2026-11-15T20:32:56+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.81,Zhibek Kulambayeva,polyus,0.16,0.9901,0.0,0.0,0.0,0.0,0.85,,,0.1,True,2026-11-15T20:32:56+00:00
