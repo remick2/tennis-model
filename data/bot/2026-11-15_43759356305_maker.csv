@@ -72,3 +72,7 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T22:35:32+00:00,cordeau v zamora,False,kalshi:KXATPCHALLENGERMATCH-26NOV15ZAMCOR-COR:yes,0.05,1000,True,0.0155,2.0,hedged,polyus:aec-atp-noazam-julcor-2026-11-15:0,0.93,15.48,-26.04,15.48,True
 2026-11-15T22:59:48+00:00,cordeau v zamora,True,kalshi:KXATPCHALLENGERMATCH-26NOV15ZAMCOR-COR:yes,0.03,1666,False,0.0073,1.5,hedged,polyus:aec-atp-noazam-julcor-2026-11-15:0,0.96,12.21,-28.8,12.21,True
 2026-11-15T23:04:48+00:00,jones v marterer,False,kalshi:KXATPCHALLENGERMATCH-26NOV15MARJON-MAR:yes,0.83,60,True,0.0111,1.5,hedged,polyus:aec-atp-maxmar-benjon-2026-11-15:1,0.15,0.67,-1.22,0.67,True
+2026-11-15T23:10:54+00:00,charlton v noord,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANCHA-VAN:yes,0.23,217,False,0.007,2.2,hedged,polyus:aec-atp-nienoo-joscha-2026-11-15:1,0.78,-4.76,-4.78,-4.76,True
+2026-11-15T23:18:22+00:00,ferguson v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV15KUBFER-KUB:yes,0.85,58,False,0.0121,2.0,hedged,polyus:aec-atp-jaskub-chafer-2026-11-15:1,0.13,0.7,-1.13,0.7,True
+2026-11-15T23:21:06+00:00,charlton v noord,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANCHA-VAN:yes,0.24,208,False,0.0066,2.0,hedged,polyus:aec-atp-nienoo-joscha-2026-11-15:1,0.74,1.38,-4.66,1.38,True
+2026-11-15T23:22:14+00:00,charlton v noord,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANCHA-CHA:yes,0.73,68,True,0.007,1.9,hedged,polyus:aec-atp-nienoo-joscha-2026-11-15:0,0.25,0.47,-1.64,0.47,True
