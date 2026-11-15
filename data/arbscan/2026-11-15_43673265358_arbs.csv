@@ -592,3 +592,64 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T06:54:54+00:00,isomura v shepp,True,Anton Shepp,kalshi,0.16,Kokoro Isomura,polyus,0.81,0.9901,0.0,0.0,0.0,0.0,0.17,,,0.0,True,2026-11-15T06:54:34+00:00
 2026-11-15T06:55:04+00:00,harris v hsiou,True,Billy Harris,kalshi,0.7,Yu-Hsiou Hsu,polyus,0.21,0.9362,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-15T06:55:04+00:00
 2026-11-15T06:55:04+00:00,ichikawa v kikuchi,True,Taisei Ichikawa,kalshi,0.9,Yuta Kikuchi,polyus,0.07,0.9808,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-15T06:55:04+00:00
+2026-11-15T06:55:14+00:00,harris v hsiou,True,Billy Harris,kalshi,0.71,Yu-Hsiou Hsu,polyus,0.21,0.9459,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-15T06:55:04+00:00
+2026-11-15T06:55:14+00:00,ichikawa v kikuchi,True,Taisei Ichikawa,kalshi,0.92,Yuta Kikuchi,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-15T06:55:04+00:00
+2026-11-15T06:55:24+00:00,harris v hsiou,True,Billy Harris,kalshi,0.71,Yu-Hsiou Hsu,polyus,0.21,0.9459,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-15T06:55:04+00:00
+2026-11-15T06:55:24+00:00,ichikawa v kikuchi,True,Taisei Ichikawa,kalshi,0.92,Yuta Kikuchi,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-15T06:55:04+00:00
+2026-11-15T06:55:34+00:00,harris v hsiou,True,Billy Harris,kalshi,0.71,Yu-Hsiou Hsu,polyus,0.21,0.9459,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-15T06:55:04+00:00
+2026-11-15T06:55:34+00:00,ichikawa v kikuchi,True,Taisei Ichikawa,kalshi,0.92,Yuta Kikuchi,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-15T06:55:04+00:00
+2026-11-15T06:55:44+00:00,isomura v shepp,True,Anton Shepp,kalshi,0.21,Kokoro Isomura,polyus,0.74,0.975,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-15T06:55:44+00:00
+2026-11-15T06:55:54+00:00,isomura v shepp,True,Anton Shepp,kalshi,0.21,Kokoro Isomura,polyus,0.74,0.975,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-15T06:55:44+00:00
+2026-11-15T06:55:54+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.08,Jason Jung,kalshi,0.89,0.982,0.0,0.0,0.0,0.0,,0.93,,0.0,True,2026-11-15T06:55:54+00:00
+2026-11-15T06:56:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.08,Jason Jung,kalshi,0.89,0.982,0.0,0.0,0.0,0.0,,0.93,,0.0,True,2026-11-15T06:55:54+00:00
+2026-11-15T06:56:24+00:00,harris v hsiou,True,Billy Harris,polyus,0.65,Yu Hsiou Hsu,kalshi,0.25,0.9289,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-15T06:56:24+00:00
+2026-11-15T06:56:34+00:00,harris v hsiou,True,Billy Harris,polyus,0.65,Yu Hsiou Hsu,kalshi,0.25,0.9289,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-15T06:56:24+00:00
+2026-11-15T06:57:04+00:00,isomura v shepp,True,Anton Shepp,polyus,0.08,Kokoro Isomura,kalshi,0.83,0.925,0.0,0.0,0.0,0.0,,0.93,,0.0,True,2026-11-15T06:57:04+00:00
+2026-11-15T06:57:14+00:00,isomura v shepp,True,Anton Shepp,polyus,0.08,Kokoro Isomura,kalshi,0.83,0.925,0.0,0.0,0.0,0.0,,0.93,,0.0,True,2026-11-15T06:57:04+00:00
+2026-11-15T06:57:34+00:00,harris v hsiou,True,Billy Harris,polyus,0.52,Yu Hsiou Hsu,kalshi,0.36,0.9135,0.0,0.0,0.0,0.0,,0.49,,0.0,True,2026-11-15T06:57:34+00:00
+2026-11-15T06:57:44+00:00,harris v hsiou,True,Billy Harris,polyus,0.52,Yu Hsiou Hsu,kalshi,0.36,0.9135,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-15T06:57:34+00:00
+2026-11-15T06:57:44+00:00,chung v poljak,True,David Poljak,polyus,0.22,Yun Seong Chung,kalshi,0.75,0.9951,0.0,0.0,0.0,0.0,,0.79,,0.0,True,2026-11-15T06:57:44+00:00
+2026-11-15T06:58:04+00:00,harris v hsiou,True,Billy Harris,kalshi,0.52,Yu-Hsiou Hsu,polyus,0.44,0.9946,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-15T06:58:04+00:00
+2026-11-15T06:58:24+00:00,chung v poljak,True,David Poljak,polyus,0.17,Yun Seong Chung,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.0,True,2026-11-15T06:58:24+00:00
+2026-11-15T06:58:34+00:00,chung v poljak,True,David Poljak,polyus,0.17,Yun Seong Chung,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.0,True,2026-11-15T06:58:24+00:00
+2026-11-15T06:58:44+00:00,harris v hsiou,True,Billy Harris,polyus,0.38,Yu Hsiou Hsu,kalshi,0.47,0.8838,0.0,0.0,0.0,0.0,,0.63,,0.0,True,2026-11-15T06:58:44+00:00
+2026-11-15T06:58:44+00:00,chung v poljak,True,David Poljak,polyus,0.17,Yun Seong Chung,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.0,True,2026-11-15T06:58:24+00:00
+2026-11-15T06:59:34+00:00,chung v poljak,True,David Poljak,kalshi,0.19,Yun-Seong Chung,polyus,0.77,0.9831,0.0,0.0,0.0,0.0,0.24,,,0.0,True,2026-11-15T06:59:34+00:00
+2026-11-15T06:59:34+00:00,harris v hsiou,True,Billy Harris,polyus,0.33,Yu Hsiou Hsu,kalshi,0.63,0.9917,0.0,0.0,0.0,0.0,,0.68,,0.0,True,2026-11-15T06:59:34+00:00
+2026-11-15T06:59:44+00:00,chung v poljak,True,David Poljak,kalshi,0.19,Yun-Seong Chung,polyus,0.77,0.9831,0.0,0.0,0.0,0.0,0.24,,,0.0,True,2026-11-15T06:59:34+00:00
+2026-11-15T06:59:54+00:00,harris v hsiou,True,Billy Harris,kalshi,0.39,Yu-Hsiou Hsu,polyus,0.48,0.904,0.0,0.0,0.0,0.0,0.53,,,0.0,True,2026-11-15T06:59:54+00:00
+2026-11-15T06:59:54+00:00,chung v poljak,True,David Poljak,kalshi,0.19,Yun-Seong Chung,polyus,0.77,0.9831,0.0,0.0,0.0,0.0,0.24,,,0.0,True,2026-11-15T06:59:34+00:00
+2026-11-15T07:00:04+00:00,harris v hsiou,True,Billy Harris,kalshi,0.39,Yu-Hsiou Hsu,polyus,0.48,0.904,0.0,0.0,0.0,0.0,0.53,,,0.0,True,2026-11-15T06:59:54+00:00
+2026-11-15T07:00:04+00:00,chung v poljak,True,David Poljak,kalshi,0.19,Yun-Seong Chung,polyus,0.74,0.9541,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-15T06:59:34+00:00
+2026-11-15T07:00:34+00:00,harris v hsiou,True,Billy Harris,polyus,0.47,Yu Hsiou Hsu,kalshi,0.48,0.9848,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-15T07:00:34+00:00
+2026-11-15T07:00:34+00:00,chung v poljak,True,David Poljak,kalshi,0.24,Yun-Seong Chung,polyus,0.72,0.9868,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-15T07:00:34+00:00
+2026-11-15T07:00:34+00:00,ichikawa v kikuchi,True,Taisei Ichikawa,polyus,0.95,Yuta Kikuchi,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.0,True,2026-11-15T07:00:34+00:00
+2026-11-15T07:00:54+00:00,harris v hsiou,True,Billy Harris,kalshi,0.47,Yu-Hsiou Hsu,polyus,0.3,0.802,0.0,0.0,0.0,0.0,0.71,,,0.0,True,2026-11-15T07:00:54+00:00
+2026-11-15T07:01:04+00:00,harris v hsiou,True,Billy Harris,kalshi,0.47,Yu-Hsiou Hsu,polyus,0.3,0.802,0.0,0.0,0.0,0.0,0.71,,,0.0,True,2026-11-15T07:00:54+00:00
+2026-11-15T07:01:34+00:00,harris v hsiou,True,Billy Harris,polyus,0.53,Yu Hsiou Hsu,kalshi,0.3,0.862,0.0,0.0,0.0,0.0,,0.48,,0.0,True,2026-11-15T07:01:34+00:00
+2026-11-15T07:02:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.06,Jason Jung,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-15T07:02:04+00:00
+2026-11-15T07:02:34+00:00,ichikawa v kikuchi,True,Taisei Ichikawa,kalshi,0.95,Yuta Kikuchi,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-15T07:02:34+00:00
+2026-11-15T07:02:44+00:00,ichikawa v kikuchi,True,Taisei Ichikawa,kalshi,0.95,Yuta Kikuchi,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-15T07:02:34+00:00
+2026-11-15T07:02:44+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.05,Jason Jung,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-15T07:02:44+00:00
+2026-11-15T07:03:04+00:00,harris v hsiou,True,Billy Harris,kalshi,0.5,Yu-Hsiou Hsu,polyus,0.18,0.7078,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-15T07:03:04+00:00
+2026-11-15T07:03:14+00:00,harris v hsiou,True,Billy Harris,kalshi,0.5,Yu-Hsiou Hsu,polyus,0.18,0.7078,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-15T07:03:04+00:00
+2026-11-15T07:03:24+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.04,Jason Jung,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.06,,,0.0,True,2026-11-15T07:03:24+00:00
+2026-11-15T07:03:44+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.04,Jason Jung,polyus,0.92,0.9678,0.0,0.0,0.0,0.0,0.09,,,0.0,True,2026-11-15T07:03:44+00:00
+2026-11-15T07:05:24+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.09,Jason Jung,polyus,0.86,0.9641,0.0,0.0,0.0,0.0,0.15,,,0.0,True,2026-11-15T07:05:24+00:00
+2026-11-15T07:05:34+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.09,Jason Jung,polyus,0.86,0.9641,0.0,0.0,0.0,0.0,0.15,,,0.0,True,2026-11-15T07:05:24+00:00
+2026-11-15T07:05:44+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.15,Jason Jung,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.0,True,2026-11-15T07:05:24+00:00
+2026-11-15T07:05:54+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.15,Jason Jung,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.22,,,0.0,True,2026-11-15T07:05:24+00:00
+2026-11-15T07:06:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.15,Jason Jung,polyus,0.75,0.922,0.0,0.0,0.0,0.0,0.26,,,0.0,True,2026-11-15T07:05:24+00:00
+2026-11-15T07:07:04+00:00,alopaeus v cretu,False,Cezar Cretu,polyus,0.92,Felix Alopaeus,kalshi,0.06,0.9891,0.0,0.0,0.0,0.0,,0.09,,0.0,True,2026-11-15T07:07:04+00:00
+2026-11-15T07:07:34+00:00,alopaeus v cretu,False,Cezar Cretu,polyus,0.89,Felix Alopaeus,kalshi,0.09,0.9925,0.0,0.0,0.0,0.0,,0.11,,0.0,True,2026-11-15T07:07:34+00:00
+2026-11-15T07:07:44+00:00,alopaeus v cretu,False,Cezar Cretu,polyus,0.89,Felix Alopaeus,kalshi,0.09,0.9925,0.0,0.0,0.0,0.0,,0.11,,0.0,True,2026-11-15T07:07:34+00:00
+2026-11-15T07:07:54+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.2,Jason Jung,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-15T07:07:54+00:00
+2026-11-15T07:08:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.2,Jason Jung,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-15T07:07:54+00:00
+2026-11-15T07:08:14+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.2,Jason Jung,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-15T07:07:54+00:00
+2026-11-15T07:08:24+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.2,Jason Jung,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-15T07:07:54+00:00
+2026-11-15T07:08:44+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.2,Jason Jung,polyus,0.77,0.9935,0.0,0.0,0.0,0.0,0.24,,,0.0,True,2026-11-15T07:08:44+00:00
+2026-11-15T07:09:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.24,Jason Jung,polyus,0.72,0.9868,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-15T07:09:04+00:00
+2026-11-15T07:09:14+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.24,Jason Jung,polyus,0.72,0.9868,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-15T07:09:04+00:00
+2026-11-15T07:09:44+00:00,jones v mochizuki,True,Maximus Jones,kalshi,0.75,Yuki Mochizuki,polyus,0.22,0.9951,0.0,0.0,0.0,0.0,0.79,,,0.0,True,2026-11-15T07:09:44+00:00
+2026-11-15T07:09:54+00:00,jones v mochizuki,True,Maximus Jones,kalshi,0.75,Yuki Mochizuki,polyus,0.21,0.9847,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-15T07:09:44+00:00
+2026-11-15T07:10:04+00:00,jones v mochizuki,True,Maximus Jones,kalshi,0.75,Yuki Mochizuki,polyus,0.2,0.9742,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-15T07:09:44+00:00
