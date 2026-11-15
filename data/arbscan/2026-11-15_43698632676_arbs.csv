@@ -1230,3 +1230,36 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T15:36:23+00:00,gadamauri v gobat,True,Adrien Gobat,polyus,0.82,Buvaysar Gadamauri,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,,0.19,,0.1,True,2026-11-15T15:36:23+00:00
 2026-11-15T15:36:33+00:00,gadamauri v gobat,True,Adrien Gobat,polyus,0.82,Buvaysar Gadamauri,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,,0.19,,0.1,True,2026-11-15T15:36:23+00:00
 2026-11-15T15:37:43+00:00,gadamauri v gobat,True,Adrien Gobat,kalshi,0.86,Buvaysar Gadamauri,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-15T15:37:43+00:00
+2026-11-15T15:37:53+00:00,gadamauri v gobat,True,Adrien Gobat,kalshi,0.86,Buvaysar Gadamauri,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-15T15:37:43+00:00
+2026-11-15T15:38:03+00:00,gadamauri v gobat,True,Adrien Gobat,kalshi,0.86,Buvaysar Gadamauri,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-15T15:37:43+00:00
+2026-11-15T15:38:13+00:00,gadamauri v gobat,True,Adrien Gobat,kalshi,0.86,Buvaysar Gadamauri,polyus,0.1,0.9747,0.0,0.0,0.0,0.0,0.92,,,0.1,True,2026-11-15T15:37:43+00:00
+2026-11-15T15:39:33+00:00,cigarran v ribero,True,Franco Ribero,kalshi,0.73,Thiago Cigarran,polyus,0.24,0.9965,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-15T15:39:33+00:00
+2026-11-15T15:39:43+00:00,cigarran v ribero,True,Franco Ribero,kalshi,0.73,Thiago Cigarran,polyus,0.24,0.9965,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-15T15:39:33+00:00
+2026-11-15T15:39:53+00:00,cigarran v ribero,True,Franco Ribero,kalshi,0.73,Thiago Cigarran,polyus,0.24,0.9965,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-15T15:39:33+00:00
+2026-11-15T15:40:23+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.52,Kai Wehnelt,polyus,0.44,0.9946,0.0,0.0,0.0,0.0,0.57,,,0.1,True,2026-11-15T15:40:23+00:00
+2026-11-15T15:40:33+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.52,Kai Wehnelt,polyus,0.44,0.9946,0.0,0.0,0.0,0.0,0.57,,,0.1,True,2026-11-15T15:40:23+00:00
+2026-11-15T15:40:43+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.57,Kai Wehnelt,polyus,0.39,0.9937,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-15T15:40:23+00:00
+2026-11-15T15:40:53+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.57,Kai Wehnelt,polyus,0.39,0.9937,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-15T15:40:23+00:00
+2026-11-15T15:41:23+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.54,Kai Wehnelt,kalshi,0.4,0.9741,0.0,0.0,0.0,0.0,,0.47,,0.1,True,2026-11-15T15:41:23+00:00
+2026-11-15T15:41:53+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.54,Kai Wehnelt,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,,,0.1,True,2026-11-15T15:41:53+00:00
+2026-11-15T15:42:03+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.54,Kai Wehnelt,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,,,0.1,True,2026-11-15T15:41:53+00:00
+2026-11-15T15:42:43+00:00,fernandez v llanes,True,Bruno Fernandez,kalshi,0.11,Francisco Llanes,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.1,True,2026-11-15T15:42:43+00:00
+2026-11-15T15:43:13+00:00,fernandez v llanes,True,Bruno Fernandez,polyus,0.1,Francisco Llanes,kalshi,0.87,0.9842,0.0,0.0,0.0,0.0,,0.91,,0.1,True,2026-11-15T15:43:13+00:00
+2026-11-15T15:43:23+00:00,fernandez v llanes,True,Bruno Fernandez,polyus,0.1,Francisco Llanes,kalshi,0.87,0.9842,0.0,0.0,0.0,0.0,,0.91,,0.1,True,2026-11-15T15:43:13+00:00
+2026-11-15T15:43:43+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.53,Kai Wehnelt,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,,0.48,,0.1,True,2026-11-15T15:43:43+00:00
+2026-11-15T15:43:53+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.53,Kai Wehnelt,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,,0.48,,0.1,True,2026-11-15T15:43:43+00:00
+2026-11-15T15:44:03+00:00,fernandez v llanes,True,Bruno Fernandez,polyus,0.05,Francisco Llanes,kalshi,0.91,0.969,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-15T15:44:03+00:00
+2026-11-15T15:44:03+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.53,Kai Wehnelt,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,,0.48,,0.1,True,2026-11-15T15:43:43+00:00
+2026-11-15T15:44:13+00:00,fernandez v llanes,True,Bruno Fernandez,polyus,0.05,Francisco Llanes,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-15T15:44:03+00:00
+2026-11-15T15:44:23+00:00,fernandez v llanes,True,Bruno Fernandez,polyus,0.05,Francisco Llanes,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-15T15:44:03+00:00
+2026-11-15T15:44:33+00:00,fernandez v llanes,True,Bruno Fernandez,polyus,0.05,Francisco Llanes,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-15T15:44:03+00:00
+2026-11-15T15:48:43+00:00,ritschard v saatela,True,Alexander Ritschard,polyus,0.95,Leevi Saatela,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.1,True,2026-11-15T15:48:43+00:00
+2026-11-15T15:51:03+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.45,Kai Wehnelt,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,,0.56,,0.1,True,2026-11-15T15:51:03+00:00
+2026-11-15T15:51:13+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.45,Kai Wehnelt,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,,0.56,,0.1,True,2026-11-15T15:51:03+00:00
+2026-11-15T15:51:23+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.45,Kai Wehnelt,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-15T15:51:03+00:00
+2026-11-15T15:51:43+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.45,Kai Wehnelt,polyus,0.47,0.9546,0.0,0.0,0.0,0.0,0.53,,,0.1,True,2026-11-15T15:51:43+00:00
+2026-11-15T15:51:53+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.45,Kai Wehnelt,polyus,0.47,0.9546,0.0,0.0,0.0,0.0,0.57,,,0.1,True,2026-11-15T15:51:43+00:00
+2026-11-15T15:52:13+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.49,Kai Wehnelt,kalshi,0.46,0.9848,0.0,0.0,0.0,0.0,,0.52,,0.1,True,2026-11-15T15:52:13+00:00
+2026-11-15T15:52:23+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.49,Kai Wehnelt,kalshi,0.46,0.9848,0.0,0.0,0.0,0.0,,0.52,,0.1,True,2026-11-15T15:52:13+00:00
+2026-11-15T15:52:43+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.49,Kai Wehnelt,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-15T15:52:43+00:00
+2026-11-15T15:52:53+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.49,Kai Wehnelt,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-15T15:52:43+00:00
