@@ -1296,3 +1296,25 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T10:12:05+00:00,donald v krumich,True,Martin Krumich,polyus,0.69,Matthew William Donald,kalshi,0.28,0.999,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-15T10:11:55+00:00
 2026-11-15T10:12:05+00:00,karol v nardi,True,Luca Nardi,kalshi,0.82,Milos Karol,polyus,0.16,0.9997,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-15T10:11:45+00:00
 2026-11-15T10:12:15+00:00,karol v nardi,True,Luca Nardi,polyus,0.82,Milos Karol,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.19,,0.0,True,2026-11-15T10:12:15+00:00
+2026-11-15T10:12:25+00:00,karol v nardi,True,Luca Nardi,polyus,0.82,Milos Karol,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.19,,0.0,True,2026-11-15T10:12:15+00:00
+2026-11-15T10:12:35+00:00,karol v nardi,True,Luca Nardi,polyus,0.82,Milos Karol,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.19,,0.0,True,2026-11-15T10:12:15+00:00
+2026-11-15T10:12:55+00:00,karol v nardi,True,Luca Nardi,kalshi,0.82,Milos Karol,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-15T10:12:55+00:00
+2026-11-15T10:13:05+00:00,karol v nardi,True,Luca Nardi,kalshi,0.82,Milos Karol,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-15T10:12:55+00:00
+2026-11-15T10:13:05+00:00,donald v krumich,True,Martin Krumich,polyus,0.66,Matthew William Donald,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-15T10:13:05+00:00
+2026-11-15T10:13:25+00:00,karol v nardi,True,Luca Nardi,polyus,0.82,Milos Karol,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.19,,0.0,True,2026-11-15T10:13:25+00:00
+2026-11-15T10:13:35+00:00,karol v nardi,True,Luca Nardi,polyus,0.82,Milos Karol,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.2,,0.0,True,2026-11-15T10:13:25+00:00
+2026-11-15T10:13:55+00:00,karol v nardi,True,Luca Nardi,kalshi,0.82,Milos Karol,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-15T10:13:55+00:00
+2026-11-15T10:14:05+00:00,karol v nardi,True,Luca Nardi,kalshi,0.82,Milos Karol,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-15T10:13:55+00:00
+2026-11-15T10:14:25+00:00,karol v nardi,True,Luca Nardi,polyus,0.82,Milos Karol,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.2,,0.0,True,2026-11-15T10:14:25+00:00
+2026-11-15T10:14:35+00:00,karol v nardi,True,Luca Nardi,polyus,0.82,Milos Karol,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.2,,0.0,True,2026-11-15T10:14:25+00:00
+2026-11-15T10:14:45+00:00,karol v nardi,True,Luca Nardi,polyus,0.82,Milos Karol,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.2,,0.0,True,2026-11-15T10:14:25+00:00
+2026-11-15T10:14:55+00:00,karol v nardi,True,Luca Nardi,polyus,0.73,Milos Karol,kalshi,0.2,0.9549,0.0,0.0,0.0,0.0,,0.29,,0.0,True,2026-11-15T10:14:25+00:00
+2026-11-15T10:15:05+00:00,karol v nardi,True,Luca Nardi,polyus,0.73,Milos Karol,kalshi,0.2,0.9549,0.0,0.0,0.0,0.0,,0.29,,0.0,True,2026-11-15T10:14:25+00:00
+2026-11-15T10:15:15+00:00,karol v nardi,True,Luca Nardi,polyus,0.73,Milos Karol,kalshi,0.2,0.9549,0.0,0.0,0.0,0.0,,0.29,,0.0,True,2026-11-15T10:14:25+00:00
+2026-11-15T10:17:05+00:00,karol v nardi,True,Luca Nardi,kalshi,0.76,Milos Karol,polyus,0.21,0.9943,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-15T10:17:05+00:00
+2026-11-15T10:17:45+00:00,karol v nardi,True,Luca Nardi,kalshi,0.77,Milos Karol,polyus,0.19,0.9831,0.0,0.0,0.0,0.0,0.82,,,0.0,True,2026-11-15T10:17:45+00:00
+2026-11-15T10:17:55+00:00,karol v nardi,True,Luca Nardi,kalshi,0.77,Milos Karol,polyus,0.19,0.9831,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-15T10:17:45+00:00
+2026-11-15T10:18:05+00:00,karol v nardi,True,Luca Nardi,kalshi,0.77,Milos Karol,polyus,0.19,0.9831,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-15T10:17:45+00:00
+2026-11-15T10:18:15+00:00,karol v nardi,True,Luca Nardi,kalshi,0.83,Milos Karol,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-15T10:17:45+00:00
+2026-11-15T10:18:25+00:00,karol v nardi,True,Luca Nardi,kalshi,0.83,Milos Karol,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-15T10:17:45+00:00
+2026-11-15T10:18:35+00:00,karol v nardi,True,Luca Nardi,kalshi,0.83,Milos Karol,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-15T10:17:45+00:00
