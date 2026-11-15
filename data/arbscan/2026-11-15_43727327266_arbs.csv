@@ -1036,3 +1036,58 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T19:14:06+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.54,Filippo Moroni,kalshi,0.38,0.9538,0.0,0.0,0.0,0.0,,0.49,,0.1,True,2026-11-15T19:13:56+00:00
 2026-11-15T19:14:06+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.17,Nikolas Sanchez Izquierdo,kalshi,0.77,0.9622,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-15T19:13:46+00:00
 2026-11-15T19:15:06+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.49,Filippo Moroni,kalshi,0.47,0.9948,0.0,0.0,0.0,0.0,,0.53,,0.1,True,2026-11-15T19:15:06+00:00
+2026-11-15T19:20:36+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.43,Filippo Moroni,kalshi,0.5,0.9645,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-15T19:20:36+00:00
+2026-11-15T19:20:56+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.35,Filippo Moroni,kalshi,0.58,0.9629,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-15T19:20:56+00:00
+2026-11-15T19:20:56+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.33,Robin Catry,kalshi,0.63,0.9917,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-15T19:20:56+00:00
+2026-11-15T19:21:06+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.35,Filippo Moroni,kalshi,0.58,0.9629,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-15T19:20:56+00:00
+2026-11-15T19:21:06+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.33,Robin Catry,kalshi,0.63,0.9917,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-15T19:20:56+00:00
+2026-11-15T19:21:26+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.29,Robin Catry,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-15T19:21:26+00:00
+2026-11-15T19:21:36+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.29,Robin Catry,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-15T19:21:26+00:00
+2026-11-15T19:22:16+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.43,Zhibek Kulambayeva,polyus,0.52,0.9845,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-15T19:22:16+00:00
+2026-11-15T19:22:26+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.44,Zhibek Kulambayeva,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-15T19:22:16+00:00
+2026-11-15T19:22:36+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.44,Zhibek Kulambayeva,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-15T19:22:16+00:00
+2026-11-15T19:22:46+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.44,Zhibek Kulambayeva,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-15T19:22:16+00:00
+2026-11-15T19:23:06+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.42,Zhibek Kulambayeva,kalshi,0.51,0.9644,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-15T19:23:06+00:00
+2026-11-15T19:23:06+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.29,Robin Catry,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-15T19:23:06+00:00
+2026-11-15T19:23:16+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.42,Zhibek Kulambayeva,kalshi,0.51,0.9644,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-15T19:23:06+00:00
+2026-11-15T19:23:16+00:00,canas v catry,True,Alejandro Moro Canas,polyus,0.29,Robin Catry,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-15T19:23:06+00:00
+2026-11-15T19:23:16+00:00,dean v peck,True,Joshua Peck,polyus,0.21,Theodore Dean,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.1,True,2026-11-15T19:23:16+00:00
+2026-11-15T19:23:36+00:00,coulibaly v moroni,True,Eliakim Coulibaly,kalshi,0.42,Filippo Moroni,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-15T19:23:36+00:00
+2026-11-15T19:23:46+00:00,coulibaly v moroni,True,Eliakim Coulibaly,kalshi,0.42,Filippo Moroni,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-15T19:23:36+00:00
+2026-11-15T19:25:36+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,polyus,0.28,Zhibek Kulambayeva,kalshi,0.67,0.9795,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-15T19:25:36+00:00
+2026-11-15T19:26:16+00:00,stephens v wells,True,Colson Wells,polyus,0.78,Zach Stephens,kalshi,0.19,0.9927,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-15T19:26:16+00:00
+2026-11-15T19:26:26+00:00,stephens v wells,True,Colson Wells,polyus,0.78,Zach Stephens,kalshi,0.19,0.9927,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-15T19:26:16+00:00
+2026-11-15T19:26:26+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.29,Robin Catry,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-15T19:26:26+00:00
+2026-11-15T19:26:36+00:00,stephens v wells,True,Colson Wells,polyus,0.78,Zach Stephens,kalshi,0.19,0.9927,0.0,0.0,0.0,0.0,,0.25,,0.1,True,2026-11-15T19:26:16+00:00
+2026-11-15T19:26:36+00:00,canas v catry,True,Alejandro Moro Canas,kalshi,0.29,Robin Catry,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-15T19:26:26+00:00
+2026-11-15T19:26:56+00:00,stephens v wells,True,Colson Wells,polyus,0.72,Zach Stephens,kalshi,0.24,0.9868,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-15T19:26:56+00:00
+2026-11-15T19:27:16+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.31,Zhibek Kulambayeva,polyus,0.64,0.981,0.0,0.0,0.0,0.0,0.37,,,0.1,True,2026-11-15T19:27:16+00:00
+2026-11-15T19:27:16+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.38,Filippo Moroni,kalshi,0.58,0.9934,0.0,0.0,0.0,0.0,,0.63,,0.1,True,2026-11-15T19:27:16+00:00
+2026-11-15T19:27:26+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.38,Filippo Moroni,kalshi,0.58,0.9934,0.0,0.0,0.0,0.0,,0.64,,0.1,True,2026-11-15T19:27:16+00:00
+2026-11-15T19:27:36+00:00,stephens v wells,True,Colson Wells,kalshi,0.72,Zach Stephens,polyus,0.23,0.9764,0.0,0.0,0.0,0.0,0.78,,,0.1,True,2026-11-15T19:27:36+00:00
+2026-11-15T19:27:46+00:00,coulibaly v moroni,True,Eliakim Coulibaly,kalshi,0.36,Filippo Moroni,polyus,0.6,0.9928,0.0,0.0,0.0,0.0,0.41,,,0.1,True,2026-11-15T19:27:46+00:00
+2026-11-15T19:27:46+00:00,stephens v wells,True,Colson Wells,kalshi,0.74,Zach Stephens,polyus,0.23,0.9958,0.0,0.0,0.0,0.0,0.78,,,0.1,True,2026-11-15T19:27:36+00:00
+2026-11-15T19:27:56+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.38,Zhibek Kulambayeva,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.43,,,0.1,True,2026-11-15T19:27:56+00:00
+2026-11-15T19:27:56+00:00,stephens v wells,True,Colson Wells,kalshi,0.74,Zach Stephens,polyus,0.23,0.9958,0.0,0.0,0.0,0.0,0.78,,,0.1,True,2026-11-15T19:27:36+00:00
+2026-11-15T19:28:06+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.38,Zhibek Kulambayeva,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.43,,,0.1,True,2026-11-15T19:27:56+00:00
+2026-11-15T19:28:06+00:00,stephens v wells,True,Colson Wells,kalshi,0.74,Zach Stephens,polyus,0.23,0.9958,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-15T19:27:36+00:00
+2026-11-15T19:28:16+00:00,stephens v wells,True,Colson Wells,kalshi,0.79,Zach Stephens,polyus,0.14,0.95,0.0,0.0,0.0,0.0,0.87,,,0.1,True,2026-11-15T19:27:36+00:00
+2026-11-15T19:28:16+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.38,Zhibek Kulambayeva,polyus,0.58,0.9934,0.0,0.0,0.0,0.0,0.43,,,0.1,True,2026-11-15T19:27:56+00:00
+2026-11-15T19:28:26+00:00,stephens v wells,True,Colson Wells,kalshi,0.79,Zach Stephens,polyus,0.14,0.95,0.0,0.0,0.0,0.0,0.87,,,0.1,True,2026-11-15T19:27:36+00:00
+2026-11-15T19:28:36+00:00,stephens v wells,True,Colson Wells,kalshi,0.79,Zach Stephens,polyus,0.14,0.95,0.0,0.0,0.0,0.0,0.87,,,0.1,True,2026-11-15T19:27:36+00:00
+2026-11-15T19:28:36+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.43,Zhibek Kulambayeva,polyus,0.52,0.9845,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-15T19:28:36+00:00
+2026-11-15T19:28:46+00:00,kulambayeva v strakhova,True,Valeriya Strakhova,kalshi,0.43,Zhibek Kulambayeva,polyus,0.52,0.9845,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-15T19:28:36+00:00
+2026-11-15T19:28:56+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.29,Filippo Moroni,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-15T19:28:56+00:00
+2026-11-15T19:29:16+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.24,Filippo Moroni,kalshi,0.68,0.9479,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-15T19:29:16+00:00
+2026-11-15T19:29:26+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.22,Filippo Moroni,kalshi,0.73,0.9757,0.0,0.0,0.0,0.0,,0.8,,0.1,True,2026-11-15T19:29:16+00:00
+2026-11-15T19:29:36+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.21,Filippo Moroni,kalshi,0.73,0.9653,0.0,0.0,0.0,0.0,,0.8,,0.1,True,2026-11-15T19:29:16+00:00
+2026-11-15T19:29:46+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.19,Filippo Moroni,kalshi,0.73,0.9445,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-15T19:29:16+00:00
+2026-11-15T19:29:46+00:00,izquierdo v roncadelli,True,Franco Roncadelli,kalshi,0.1,Nikolas Sanchez Izquierdo,polyus,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,,,0.1,True,2026-11-15T19:29:46+00:00
+2026-11-15T19:31:36+00:00,coulibaly v moroni,True,Eliakim Coulibaly,polyus,0.03,Filippo Moroni,kalshi,0.83,0.8719,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-15T19:31:36+00:00
+2026-11-15T19:31:46+00:00,coulibaly v moroni,True,Eliakim Coulibaly,kalshi,0.01,Filippo Moroni,polyus,0.98,0.9921,0.0,0.0,0.0,0.0,0.04,,,0.1,True,2026-11-15T19:31:46+00:00
+2026-11-15T19:31:56+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.08,Nikolas Sanchez Izquierdo,kalshi,0.9,0.9914,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-15T19:31:56+00:00
+2026-11-15T19:31:56+00:00,coulibaly v moroni,True,Eliakim Coulibaly,kalshi,0.01,Filippo Moroni,polyus,0.98,0.9921,0.0,0.0,0.0,0.0,0.05,,,0.1,True,2026-11-15T19:31:46+00:00
+2026-11-15T19:32:06+00:00,coulibaly v moroni,True,Eliakim Coulibaly,kalshi,0.01,Filippo Moroni,polyus,0.94,0.9546,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-15T19:31:46+00:00
+2026-11-15T19:32:06+00:00,izquierdo v roncadelli,True,Franco Roncadelli,polyus,0.08,Nikolas Sanchez Izquierdo,kalshi,0.9,0.9914,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-15T19:31:56+00:00
+2026-11-15T19:32:16+00:00,coulibaly v moroni,True,Eliakim Coulibaly,kalshi,0.05,Filippo Moroni,polyus,0.93,0.9878,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-15T19:31:46+00:00
+2026-11-15T19:32:26+00:00,coulibaly v moroni,True,Eliakim Coulibaly,kalshi,0.05,Filippo Moroni,polyus,0.93,0.9878,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-15T19:31:46+00:00
