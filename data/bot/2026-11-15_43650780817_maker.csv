@@ -287,3 +287,13 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T04:27:37+00:00,becroft v hazawa,True,kalshi:KXATPCHALLENGERMATCH-26NOV14BECHAZ-HAZ:yes,0.15,333,True,0.0102,2.0,hedged,polyus:aec-atp-isabec-shihaz-2026-11-14:0,0.85,-2.95,-6.14,-2.95,True
 2026-11-15T04:28:07+00:00,becroft v hazawa,True,kalshi:KXATPCHALLENGERMATCH-26NOV14BECHAZ-BEC:yes,0.82,60,False,0.0107,2.1,hedged,polyus:aec-atp-isabec-shihaz-2026-11-14:1,0.19,-1.24,-1.25,-1.24,True
 2026-11-15T04:28:41+00:00,becroft v hazawa,True,kalshi:KXATPCHALLENGERMATCH-26NOV14BECHAZ-BEC:yes,0.79,63,True,0.0093,1.9,hedged,polyus:aec-atp-isabec-shihaz-2026-11-14:1,0.24,-2.69,-3.35,-2.69,True
+2026-11-15T04:31:04+00:00,marinkov v rai,True,kalshi:KXATPCHALLENGERMATCH-26NOV14RAIMAR-MAR:yes,0.71,70,False,0.0063,2.0,hedged,polyus:aec-atp-ajerai-pavmar-2026-11-14:0,0.27,0.44,-1.73,0.44,True
+2026-11-15T04:31:18+00:00,dev v watanabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV14WATDEV-DEV:yes,0.04,1250,False,0.0067,2.3,hedged,polyus:aec-atp-kanwat-sdpdev-2026-11-14:0,0.98,-26.7,-26.71,-26.7,True
+2026-11-15T04:31:18+00:00,dev v watanabe,True,polyus:aec-atp-kanwat-sdpdev-2026-11-14:1,0.05,1000,True,0.0061,2.3,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV14WATDEV-WAT:yes,0.98,-31.37,-31.36,-31.36,True
+2026-11-15T04:32:14+00:00,imamura v koyama,True,kalshi:KXATPCHALLENGERMATCH-26NOV14IMAKOY-KOY:yes,0.22,227,False,0.0073,2.1,hedged,polyus:aec-atp-masima-hirkoy-2026-11-14:0,0.78,-2.71,-4.91,-2.71,True
+2026-11-15T04:32:40+00:00,imamura v koyama,True,kalshi:KXATPCHALLENGERMATCH-26NOV14IMAKOY-IMA:yes,0.76,65,True,0.0081,1.7,hedged,polyus:aec-atp-masima-hirkoy-2026-11-14:1,0.25,-1.5,-1.5,-1.5,True
+2026-11-15T04:33:06+00:00,imamura v koyama,True,kalshi:KXATPCHALLENGERMATCH-26NOV14IMAKOY-KOY:yes,0.22,227,False,0.0073,1.9,hedged,polyus:aec-atp-masima-hirkoy-2026-11-14:0,0.76,1.66,-4.91,1.66,True
+2026-11-15T04:33:28+00:00,marinkov v rai,True,kalshi:KXATPCHALLENGERMATCH-26NOV14RAIMAR-MAR:yes,0.67,74,True,0.0051,1.7,hedged,polyus:aec-atp-ajerai-pavmar-2026-11-14:0,0.34,-1.89,-1.9,-1.89,True
+2026-11-15T04:35:00+00:00,marinkov v rai,True,kalshi:KXATPCHALLENGERMATCH-26NOV14RAIMAR-MAR:yes,0.62,80,True,0.0142,1.7,hedged,polyus:aec-atp-ajerai-pavmar-2026-11-14:0,0.41,-3.74,-3.75,-3.74,True
+2026-11-15T04:35:28+00:00,marinkov v rai,True,kalshi:KXATPCHALLENGERMATCH-26NOV14RAIMAR-RAI:yes,0.39,128,True,0.0131,2.0,hedged,polyus:aec-atp-ajerai-pavmar-2026-11-14:1,0.64,-5.89,-7.16,-5.89,True
+2026-11-15T04:37:04+00:00,marinkov v rai,True,kalshi:KXATPCHALLENGERMATCH-26NOV14RAIMAR-MAR:yes,0.59,84,False,0.0136,2.1,hedged,polyus:aec-atp-ajerai-pavmar-2026-11-14:0,0.41,-1.41,-2.27,-1.41,True
