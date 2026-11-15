@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 15, 12:40AM MT
+# Consensus paper tracker — Sun Nov 15, 1:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 15-13 | -1.18 | 21-18 | -2.22 | 0 |
+| 2 agree | all 15 | 15-13 | -1.18 | 21-18 | -2.22 | 1 |
 | 2+ agree, 1+ against (split) | all 15 | 22-10 | +12.76 | 19-14 | -0.22 | 1 |
 | 3+ agree (paper play) | core 10 only | 3-1 | +3.15 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 8-5 | +1.67 | 12-8 | +0.25 | 0 |
+| 2 agree | core 10 only | 8-5 | +1.67 | 12-8 | +0.25 | 1 |
 | 2+ agree, 1+ against (split) | core 10 only | 7-4 | +4.03 | 8-5 | +1.10 | 1 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 7 of 30 graded plays · net +2.89u · 5 wins vs 3.9 expected, z = +0.90 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
@@ -79,3 +79,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-15 | NFL | Bills vs. Jets | Bills (Moneyline) | 2 agree, 1 against | pre-game | 0x9f15613e; ic4cream | bands1 | 78.5c |
+| new | 2026-11-15 | CS2 | Counter-Strike: Heroic vs magic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | magic (Moneyline) | 2 agree, 0 against | pre-game | purplegatto; drainedandpoor | — | 38.5c |
