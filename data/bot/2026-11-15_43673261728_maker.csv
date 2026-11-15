@@ -565,3 +565,12 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T08:38:06+00:00,kusuhara v shiraishi,True,kalshi:KXATPCHALLENGERMATCH-26NOV15KUSSHI-SHI:yes,0.26,192,False,0.006,3.2,hedged,polyus:aec-atp-yuskus-hikshi-2026-11-14:0,0.75,-4.42,-4.44,-4.42,True
 2026-11-15T08:38:06+00:00,kusuhara v shiraishi,True,polyus:aec-atp-yuskus-hikshi-2026-11-14:1,0.27,185,False,0.0056,3.2,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15KUSSHI-KUS:yes,0.75,-6.13,-6.11,-6.11,True
 2026-11-15T08:39:17+00:00,kusuhara v shiraishi,True,kalshi:KXATPCHALLENGERMATCH-26NOV15KUSSHI-SHI:yes,0.27,185,True,0.0154,2.0,hedged,polyus:aec-atp-yuskus-hikshi-2026-11-14:0,0.77,-9.68,-9.69,-9.68,True
+2026-11-15T08:39:46+00:00,kusuhara v shiraishi,True,kalshi:KXATPCHALLENGERMATCH-26NOV15KUSSHI-SHI:yes,0.18,277,False,0.0089,1.9,hedged,polyus:aec-atp-yuskus-hikshi-2026-11-14:0,0.86,-13.4,-13.41,-13.4,True
+2026-11-15T08:48:29+00:00,kusuhara v shiraishi,True,kalshi:KXATPCHALLENGERMATCH-26NOV15KUSSHI-KUS:yes,0.82,60,True,0.0107,1.9,hedged,polyus:aec-atp-yuskus-hikshi-2026-11-14:1,0.19,-1.24,-1.82,-1.24,True
+2026-11-15T08:49:12+00:00,kusuhara v shiraishi,True,kalshi:KXATPCHALLENGERMATCH-26NOV15KUSSHI-SHI:yes,0.18,277,False,0.0089,1.8,hedged,polyus:aec-atp-yuskus-hikshi-2026-11-14:0,0.83,-5.49,-8.15,-5.49,True
+2026-11-15T08:50:26+00:00,kusuhara v shiraishi,True,kalshi:KXATPCHALLENGERMATCH-26NOV15KUSSHI-KUS:yes,0.84,59,False,0.0116,2.2,unwound,polyus:aec-atp-yuskus-hikshi-2026-11-14:1,0.2,-3.02,-2.41,-2.41,True
+2026-11-15T08:50:28+00:00,hassan v yamasaki,True,polyus:aec-atp-benhas-jumyam-2026-11-14:0,0.84,59,False,0.0116,1.9,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV15HASYAM-YAM:yes,0.16,-0.56,-1.17,-0.56,True
+2026-11-15T08:51:04+00:00,hassan v yamasaki,True,kalshi:KXATPCHALLENGERMATCH-26NOV15HASYAM-HAS:yes,0.81,61,True,0.0102,2.1,hedged,polyus:aec-atp-benhas-jumyam-2026-11-14:1,0.2,-1.29,-1.29,-1.29,True
+2026-11-15T08:51:40+00:00,hassan v yamasaki,True,kalshi:KXATPCHALLENGERMATCH-26NOV15HASYAM-HAS:yes,0.77,64,True,0.0085,1.8,hedged,polyus:aec-atp-benhas-jumyam-2026-11-14:1,0.25,-2.11,-2.12,-2.11,True
+2026-11-15T08:53:16+00:00,hassan v yamasaki,True,kalshi:KXATPCHALLENGERMATCH-26NOV15HASYAM-YAM:yes,0.23,217,False,0.007,2.2,hedged,polyus:aec-atp-benhas-jumyam-2026-11-14:0,0.78,-4.76,-4.78,-4.76,True
+2026-11-15T08:53:38+00:00,hassan v yamasaki,True,kalshi:KXATPCHALLENGERMATCH-26NOV15HASYAM-HAS:yes,0.75,66,False,0.0077,2.0,hedged,polyus:aec-atp-benhas-jumyam-2026-11-14:1,0.25,-0.86,-1.55,-0.86,True
