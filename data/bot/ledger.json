@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 118.12,
-  "polyus": 191.63
+  "kalshi": 339.88,
+  "polyus": 339.88
  },
  "open": [
   {
@@ -17,37 +17,11 @@
    },
    "cost": 98.55,
    "expected": 1.45
-  },
-  {
-   "id": "c11ec674cf27",
-   "key": "bakonyi v nefve",
-   "opened": "2026-11-15T22:05:17+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15BAKNEF-NEF",
-   "kalshi_side": "no",
-   "shares": {
-    "polyus": 100.0,
-    "kalshi": 100.0
-   },
-   "cost": 98.15,
-   "expected": 1.85
-  },
-  {
-   "id": "818016577f64",
-   "key": "bakonyi v nefve",
-   "opened": "2026-11-15T22:06:08+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15BAKNEF-NEF",
-   "kalshi_side": "yes",
-   "shares": {
-    "kalshi": 259,
-    "polyus": 259
-   },
-   "cost": 252.18,
-   "expected": 6.82
   }
  ],
- "settled_pnl": 64.97,
+ "settled_pnl": 84.64,
  "unwind_pnl": -6.34,
- "fires": 19,
- "settled": 14,
- "rebalances": 3
+ "fires": 21,
+ "settled": 18,
+ "rebalances": 4
 }
