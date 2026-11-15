@@ -1,40 +1,13 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 325.43,
-  "polyus": 6.16
+  "kalshi": 537.43,
+  "polyus": 217.16
  },
- "open": [
-  {
-   "id": "c65f453792bd",
-   "key": "coulibaly v moroni",
-   "opened": "2026-11-15T18:02:05+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15MORCOU-MOR",
-   "kalshi_side": "no",
-   "shares": {
-    "kalshi": 211.0,
-    "polyus": 211
-   },
-   "cost": 189.59,
-   "expected": 14.92
-  },
-  {
-   "id": "04b75f90f5aa",
-   "key": "coulibaly v moroni",
-   "opened": "2026-11-15T19:01:40+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15MORCOU-MOR",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 212,
-    "kalshi": 212.0
-   },
-   "cost": 200.73,
-   "expected": 11.27
-  }
- ],
- "settled_pnl": 21.91,
+ "open": [],
+ "settled_pnl": 54.59,
  "unwind_pnl": 0.0,
  "fires": 11,
- "settled": 8,
+ "settled": 10,
  "rebalances": 2
 }
