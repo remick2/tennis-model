@@ -1,13 +1,53 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 261.63,
-  "polyus": 452.16
+  "kalshi": 248.07,
+  "polyus": 0.59
  },
- "open": [],
+ "open": [
+  {
+   "id": "c65f453792bd",
+   "key": "coulibaly v moroni",
+   "opened": "2026-11-15T18:02:05+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15MORCOU-MOR",
+   "kalshi_side": "no",
+   "shares": {
+    "kalshi": 211.0,
+    "polyus": 211
+   },
+   "cost": 189.59,
+   "expected": 14.92
+  },
+  {
+   "id": "b378b68e8d3c",
+   "key": "carou v jover",
+   "opened": "2026-11-15T18:07:47+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15SANCAR-SAN",
+   "kalshi_side": "no",
+   "shares": {
+    "polyus": 154,
+    "kalshi": 154
+   },
+   "cost": 153.0,
+   "expected": 1.0
+  },
+  {
+   "id": "0e180735fe36",
+   "key": "george v slavic",
+   "opened": "2026-11-15T18:13:05+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15GEOSLA-SLA",
+   "kalshi_side": "no",
+   "shares": {
+    "kalshi": 126,
+    "polyus": 126
+   },
+   "cost": 122.54,
+   "expected": 3.46
+  }
+ ],
  "settled_pnl": 13.79,
  "unwind_pnl": 0.0,
- "fires": 4,
+ "fires": 7,
  "settled": 4,
- "rebalances": 1
+ "rebalances": 2
 }
