@@ -705,3 +705,34 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T07:24:34+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.29,Jason Jung,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-15T07:24:14+00:00
 2026-11-15T07:25:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.28,Jason Jung,kalshi,0.68,0.9892,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-15T07:25:04+00:00
 2026-11-15T07:25:14+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.29,Jason Jung,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-15T07:25:04+00:00
+2026-11-15T07:25:34+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.28,Jason Jung,polyus,0.64,0.9501,0.0,0.0,0.0,0.0,0.37,,,0.0,True,2026-11-15T07:25:34+00:00
+2026-11-15T07:25:44+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.28,Jason Jung,polyus,0.64,0.9501,0.0,0.0,0.0,0.0,0.37,,,0.0,True,2026-11-15T07:25:34+00:00
+2026-11-15T07:26:24+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.28,Jason Jung,kalshi,0.66,0.9697,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-15T07:26:24+00:00
+2026-11-15T07:26:34+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.28,Jason Jung,kalshi,0.66,0.9697,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-15T07:26:24+00:00
+2026-11-15T07:27:14+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.28,Jason Jung,kalshi,0.67,0.9795,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-15T07:27:14+00:00
+2026-11-15T07:28:34+00:00,jones v mochizuki,True,Maximus Jones,kalshi,0.89,Yuki Mochizuki,polyus,0.09,0.9925,0.0,0.0,0.0,0.0,0.91,,,0.0,True,2026-11-15T07:28:34+00:00
+2026-11-15T07:28:54+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.22,Jason Jung,kalshi,0.73,0.9757,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-15T07:28:54+00:00
+2026-11-15T07:29:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.21,Jason Jung,kalshi,0.73,0.9653,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-15T07:28:54+00:00
+2026-11-15T07:29:34+00:00,chung v poljak,True,David Poljak,polyus,0.07,Yun Seong Chung,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.93,,0.0,True,2026-11-15T07:29:34+00:00
+2026-11-15T07:29:44+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.2,Jason Jung,polyus,0.73,0.9549,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-15T07:29:44+00:00
+2026-11-15T07:29:54+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.2,Jason Jung,polyus,0.73,0.9549,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-15T07:29:44+00:00
+2026-11-15T07:30:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.2,Jason Jung,polyus,0.73,0.9549,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-15T07:29:44+00:00
+2026-11-15T07:30:04+00:00,jones v mochizuki,True,Maximus Jones,kalshi,0.88,Yuki Mochizuki,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-15T07:30:04+00:00
+2026-11-15T07:30:04+00:00,chung v poljak,True,David Poljak,polyus,0.06,Yun Seong Chung,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-15T07:30:04+00:00
+2026-11-15T07:30:14+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.2,Jason Jung,polyus,0.73,0.9549,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-15T07:29:44+00:00
+2026-11-15T07:30:14+00:00,jones v mochizuki,True,Maximus Jones,kalshi,0.88,Yuki Mochizuki,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.0,True,2026-11-15T07:30:04+00:00
+2026-11-15T07:30:14+00:00,chung v poljak,True,David Poljak,polyus,0.06,Yun Seong Chung,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-15T07:30:04+00:00
+2026-11-15T07:30:24+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.15,Jason Jung,kalshi,0.74,0.9123,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-15T07:30:24+00:00
+2026-11-15T07:30:34+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.15,Jason Jung,kalshi,0.74,0.9123,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-15T07:30:24+00:00
+2026-11-15T07:30:44+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.15,Jason Jung,kalshi,0.74,0.9123,0.0,0.0,0.0,0.0,,0.85,,0.0,True,2026-11-15T07:30:24+00:00
+2026-11-15T07:30:44+00:00,jones v mochizuki,True,Maximus Jones,kalshi,0.9,Yuki Mochizuki,polyus,0.06,0.9702,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-15T07:30:44+00:00
+2026-11-15T07:31:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.15,Jason Jung,polyus,0.73,0.9026,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-15T07:31:04+00:00
+2026-11-15T07:31:04+00:00,chung v poljak,True,David Poljak,polyus,0.03,Yun Seong Chung,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-15T07:31:04+00:00
+2026-11-15T07:31:14+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.15,Jason Jung,polyus,0.73,0.9026,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-15T07:31:04+00:00
+2026-11-15T07:31:14+00:00,chung v poljak,True,David Poljak,polyus,0.03,Yun Seong Chung,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-15T07:31:04+00:00
+2026-11-15T07:35:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.51,Jason Jung,polyus,0.4,0.9442,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-15T07:35:04+00:00
+2026-11-15T07:35:54+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.53,Jason Jung,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,,0.47,,0.0,True,2026-11-15T07:35:54+00:00
+2026-11-15T07:36:04+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,polyus,0.53,Jason Jung,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,,0.48,,0.0,True,2026-11-15T07:35:54+00:00
+2026-11-15T07:36:34+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.53,Jason Jung,polyus,0.4,0.9641,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-15T07:36:34+00:00
+2026-11-15T07:36:44+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.53,Jason Jung,polyus,0.4,0.9641,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-15T07:36:34+00:00
+2026-11-15T07:37:14+00:00,hoeyeraal v jung,True,Herman Hoeyeraal,kalshi,0.61,Jason Jung,polyus,0.27,0.9104,0.0,0.0,0.0,0.0,0.74,,,0.0,True,2026-11-15T07:37:14+00:00
