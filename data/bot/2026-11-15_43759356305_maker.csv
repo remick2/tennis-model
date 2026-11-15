@@ -70,3 +70,5 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T22:35:10+00:00,cordeau v zamora,False,kalshi:KXATPCHALLENGERMATCH-26NOV15ZAMCOR-COR:yes,0.05,1000,True,0.0155,2.2,hedged,polyus:aec-atp-noazam-julcor-2026-11-15:0,0.93,15.48,-26.04,15.48,True
 2026-11-15T22:35:18+00:00,cordeau v zamora,False,kalshi:KXATPCHALLENGERMATCH-26NOV15ZAMCOR-COR:yes,0.05,1000,True,0.0155,2.1,hedged,polyus:aec-atp-noazam-julcor-2026-11-15:0,0.93,15.48,-26.04,15.48,True
 2026-11-15T22:35:32+00:00,cordeau v zamora,False,kalshi:KXATPCHALLENGERMATCH-26NOV15ZAMCOR-COR:yes,0.05,1000,True,0.0155,2.0,hedged,polyus:aec-atp-noazam-julcor-2026-11-15:0,0.93,15.48,-26.04,15.48,True
+2026-11-15T22:59:48+00:00,cordeau v zamora,True,kalshi:KXATPCHALLENGERMATCH-26NOV15ZAMCOR-COR:yes,0.03,1666,False,0.0073,1.5,hedged,polyus:aec-atp-noazam-julcor-2026-11-15:0,0.96,12.21,-28.8,12.21,True
+2026-11-15T23:04:48+00:00,jones v marterer,False,kalshi:KXATPCHALLENGERMATCH-26NOV15MARJON-MAR:yes,0.83,60,True,0.0111,1.5,hedged,polyus:aec-atp-maxmar-benjon-2026-11-15:1,0.15,0.67,-1.22,0.67,True

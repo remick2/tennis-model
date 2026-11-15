@@ -2,26 +2,12 @@
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
   "kalshi": 339.88,
-  "polyus": 339.88
+  "polyus": 439.88
  },
- "open": [
-  {
-   "id": "037103ba88e5",
-   "key": "gogineni v gurenko",
-   "opened": "2026-11-15T21:10:33+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15GOGGUR-GUR",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 100.0,
-    "kalshi": 100.0
-   },
-   "cost": 98.55,
-   "expected": 1.45
-  }
- ],
- "settled_pnl": 84.64,
+ "open": [],
+ "settled_pnl": 86.09,
  "unwind_pnl": -6.34,
  "fires": 21,
- "settled": 18,
+ "settled": 19,
  "rebalances": 4
 }
