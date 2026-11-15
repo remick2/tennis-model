@@ -99,3 +99,7 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T01:36:10+00:00,jovanovski v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV14ZHUJOV-JOV:yes,0.18,277,True,0.0089,2.1,hedged,polyus:aec-atp-evazhu-danjov-2026-11-14:0,0.8,2.46,-5.51,2.46,True
 2026-11-15T01:37:40+00:00,jovanovski v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV14ZHUJOV-JOV:yes,0.18,277,True,0.0089,2.2,hedged,polyus:aec-atp-evazhu-danjov-2026-11-14:0,0.8,2.46,-5.51,2.46,True
 2026-11-15T01:38:26+00:00,jovanovski v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV14ZHUJOV-JOV:yes,0.13,384,True,0.0111,2.2,hedged,polyus:aec-atp-evazhu-danjov-2026-11-14:0,0.85,4.28,-6.68,4.28,True
+2026-11-15T02:01:43+00:00,palan v satara,True,kalshi:KXATPCHALLENGERMATCH-26NOV14SATPAL-PAL:yes,0.85,58,True,0.0227,2.4,hedged,polyus:aec-atp-harsat-dompal-2026-11-14:0,0.12,1.31,-1.73,1.31,True
+2026-11-15T02:02:11+00:00,palan v satara,True,kalshi:KXATPCHALLENGERMATCH-26NOV14SATPAL-SAT:yes,0.16,312,True,0.0193,2.3,hedged,polyus:aec-atp-harsat-dompal-2026-11-14:1,0.88,-14.77,-14.79,-14.77,True
+2026-11-15T02:10:52+00:00,jovanovski v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV14ZHUJOV-JOV:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-atp-evazhu-danjov-2026-11-14:0,0.94,6.08,-12.69,6.08,True
+2026-11-15T02:13:04+00:00,jovanovski v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV14ZHUJOV-JOV:yes,0.03,1666,True,0.0073,1.9,hedged,polyus:aec-atp-evazhu-danjov-2026-11-14:0,0.98,-18.93,-18.95,-18.93,True
