@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 257.03,
-  "polyus": 300.54
+  "kalshi": 84.31,
+  "polyus": 177.53
  },
  "open": [
   {
@@ -17,11 +17,37 @@
    },
    "cost": 192.25,
    "expected": 1.75
+  },
+  {
+   "id": "2c65f5bbcb90",
+   "key": "fils v shelton",
+   "opened": "2026-11-15T21:09:30+00:00",
+   "kalshi_ticker": "KXATPMATCH-26NOV15SHEFIL-SHE",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 201.0,
+    "kalshi": 201.0
+   },
+   "cost": 197.18,
+   "expected": 3.82
+  },
+  {
+   "id": "037103ba88e5",
+   "key": "gogineni v gurenko",
+   "opened": "2026-11-15T21:10:33+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15GOGGUR-GUR",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 100.0,
+    "kalshi": 100.0
+   },
+   "cost": 98.55,
+   "expected": 1.45
   }
  ],
  "settled_pnl": 56.16,
  "unwind_pnl": -6.34,
- "fires": 14,
+ "fires": 16,
  "settled": 11,
  "rebalances": 3
 }
