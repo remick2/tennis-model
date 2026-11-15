@@ -336,3 +336,17 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T13:31:29+00:00,latinovic v vandermeersch,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANLAT-VAN:yes,0.53,94,False,0.0129,28.9,hedged,polyus:aec-atp-cyrvan-stelat-2026-11-15:1,0.5,-4.45,-4.47,-4.45,True
 2026-11-15T13:31:29+00:00,latinovic v vandermeersch,True,polyus:aec-atp-cyrvan-stelat-2026-11-15:0,0.53,94,False,0.0128,28.9,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15VANLAT-VAN:no,0.5,-4.47,-4.45,-4.45,True
 2026-11-15T13:31:29+00:00,oliveira v zeitune,True,kalshi:KXATPCHALLENGERMATCH-26NOV15OLIZEI-ZEI:yes,0.93,53,True,0.0061,3.0,hedged,polyus:aec-atp-bruoli-maxzei-2026-11-15:0,0.08,-0.8,-0.8,-0.8,True
+2026-11-15T13:35:24+00:00,latinovic v vandermeersch,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANLAT-LAT:yes,0.37,135,False,0.0133,2.0,hedged,polyus:aec-atp-cyrvan-stelat-2026-11-15:0,0.64,-3.51,-3.53,-3.51,True
+2026-11-15T13:36:04+00:00,latinovic v vandermeersch,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANLAT-LAT:yes,0.31,161,True,0.0242,2.0,hedged,polyus:aec-atp-cyrvan-stelat-2026-11-15:0,0.71,-5.52,-5.54,-5.52,True
+2026-11-15T13:36:24+00:00,latinovic v vandermeersch,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANLAT-VAN:yes,0.68,73,True,0.0054,2.0,hedged,polyus:aec-atp-cyrvan-stelat-2026-11-15:1,0.36,-4.09,-4.1,-4.09,True
+2026-11-15T13:36:38+00:00,latinovic v vandermeersch,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANLAT-VAN:yes,0.61,81,False,0.014,2.1,hedged,polyus:aec-atp-cyrvan-stelat-2026-11-15:1,0.42,-3.8,-3.81,-3.8,True
+2026-11-15T13:39:50+00:00,gima v nagal,True,kalshi:KXATPCHALLENGERMATCH-26NOV15NAGGIM-NAG:yes,0.77,64,False,0.0085,2.0,hedged,polyus:aec-atp-sumnag-sebgim-2026-11-15:1,0.44,-14.54,-16.79,-14.54,True
+2026-11-15T13:39:50+00:00,gima v nagal,True,polyus:aec-atp-sumnag-sebgim-2026-11-15:0,0.78,64,False,0.0088,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15NAGGIM-NAG:no,0.54,-17.43,-15.18,-15.18,True
+2026-11-15T13:41:52+00:00,latinovic v vandermeersch,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANLAT-VAN:yes,0.59,84,True,0.0136,2.0,hedged,polyus:aec-atp-cyrvan-stelat-2026-11-15:1,0.42,-2.26,-2.27,-2.26,True
+2026-11-15T13:43:46+00:00,latinovic v vandermeersch,True,polyus:aec-atp-cyrvan-stelat-2026-11-15:1,0.44,113,False,0.0126,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15VANLAT-VAN:yes,0.57,-3.07,-3.05,-3.05,True
+2026-11-15T13:44:16+00:00,jodar v zverev,True,kalshi:KXATPMATCH-26NOV15ZVEJOD-JOD:yes,0.21,238,False,0.0144,1.9,hedged,polyus:aec-atp-alezve-rafjod-2026-11-15:0,0.79,-3.44,-5.74,-3.44,True
+2026-11-15T13:45:00+00:00,jodar v zverev,True,kalshi:KXATPMATCH-26NOV15ZVEJOD-ZVE:yes,0.79,63,False,0.0064,2.0,hedged,polyus:aec-atp-alezve-rafjod-2026-11-15:1,0.18,1.06,-2.88,1.06,True
+2026-11-15T13:45:06+00:00,bax v grenier,True,kalshi:KXATPCHALLENGERMATCH-26NOV15GREBAX-BAX:yes,0.06,833,False,0.0055,2.0,hedged,polyus:aec-atp-huggre-flobax-2026-11-15:0,0.93,4.56,-18.9,4.56,True
+2026-11-15T13:46:30+00:00,jodar v zverev,True,kalshi:KXATPMATCH-26NOV15ZVEJOD-ZVE:yes,0.78,64,False,0.0059,0.6,hedged,polyus:aec-atp-alezve-rafjod-2026-11-15:1,0.2,0.38,-1.63,0.38,True
+2026-11-15T13:49:06+00:00,latinovic v vandermeersch,True,polyus:aec-atp-cyrvan-stelat-2026-11-15:0,0.65,76,True,0.0148,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15VANLAT-VAN:no,0.38,-3.53,-3.52,-3.52,True
+2026-11-15T13:49:26+00:00,latinovic v vandermeersch,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANLAT-LAT:yes,0.33,151,True,0.0238,2.0,hedged,polyus:aec-atp-cyrvan-stelat-2026-11-15:0,0.63,3.59,-9.68,3.59,True
