@@ -1,0 +1,16 @@
+key,legs,first_seen,closed_by,kind,minutes,min_minutes
+donald v krumich,Martin Krumich@polyus + Matthew William Donald@kalshi,2026-11-15T10:19:43+00:00,2026-11-15T10:20:13+00:00,any,0.5,0.3
+feldbausch v moeller,Kilian Feldbausch@polyus + Marvin Moeller@kalshi,2026-11-15T10:21:23+00:00,2026-11-15T10:21:43+00:00,any,0.3,0.2
+karol v nardi,Luca Nardi@kalshi + Milos Karol@polyus,2026-11-15T10:22:13+00:00,2026-11-15T10:22:23+00:00,any,0.2,0.0
+coppejans v oetzbach,Adrian Oetzbach@kalshi + Kimmer Coppejans@polyus,2026-11-15T10:22:43+00:00,2026-11-15T10:23:03+00:00,any,0.3,0.2
+karol v nardi,Luca Nardi@kalshi + Milos Karol@polyus,2026-11-15T10:22:53+00:00,2026-11-15T10:23:33+00:00,any,0.7,0.5
+gulin v paldanius,Oskari Paldanius@polyus + Svyatoslav Gulin@kalshi,2026-11-15T10:23:43+00:00,2026-11-15T10:24:13+00:00,any,0.5,0.3
+karol v nardi,Luca Nardi@polyus + Milos Karol@kalshi,2026-11-15T10:23:53+00:00,2026-11-15T10:24:13+00:00,any,0.3,0.2
+coppejans v oetzbach,Adrian Oetzbach@kalshi + Kimmer Coppejans@polyus,2026-11-15T10:23:53+00:00,2026-11-15T10:24:13+00:00,any,0.3,0.2
+karol v nardi,Luca Nardi@kalshi + Milos Karol@polyus,2026-11-15T10:24:13+00:00,2026-11-15T10:24:23+00:00,any,0.2,0.0
+feldbausch v moeller,Kilian Feldbausch@kalshi + Marvin Moeller@polyus,2026-11-15T10:25:13+00:00,2026-11-15T10:25:43+00:00,any,0.5,0.3
+gulin v paldanius,Oskari Paldanius@polyus + Svyatoslav Gulin@kalshi,2026-11-15T10:26:03+00:00,2026-11-15T10:26:13+00:00,any,0.2,0.0
+gulin v paldanius,Oskari Paldanius@kalshi + Svyatoslav Gulin@polyus,2026-11-15T10:27:23+00:00,2026-11-15T10:27:53+00:00,any,0.5,0.3
+gulin v paldanius,Oskari Paldanius@polyus + Svyatoslav Gulin@kalshi,2026-11-15T10:27:53+00:00,2026-11-15T10:28:33+00:00,any,0.7,0.5
+gulin v paldanius,Oskari Paldanius@kalshi + Svyatoslav Gulin@polyus,2026-11-15T10:31:43+00:00,2026-11-15T10:32:03+00:00,any,0.3,0.2
+arias v kicker,Boris Arias@polyus + Nicolas Kicker@kalshi,2026-11-15T10:32:53+00:00,2026-11-15T10:33:23+00:00,any,0.5,0.3

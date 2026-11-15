@@ -1,0 +1,37 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-15T10:19:43+00:00,donald v krumich,True,Martin Krumich,polyus,0.67,Matthew William Donald,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-15T10:19:43+00:00
+2026-11-15T10:19:53+00:00,donald v krumich,True,Martin Krumich,polyus,0.67,Matthew William Donald,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-15T10:19:43+00:00
+2026-11-15T10:20:03+00:00,donald v krumich,True,Martin Krumich,polyus,0.67,Matthew William Donald,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.33,,0.1,True,2026-11-15T10:19:43+00:00
+2026-11-15T10:21:23+00:00,feldbausch v moeller,True,Kilian Feldbausch,polyus,0.69,Marvin Moeller,kalshi,0.28,0.999,0.0,0.0,0.0,0.0,,0.32,,0.1,True,2026-11-15T10:21:23+00:00
+2026-11-15T10:21:33+00:00,feldbausch v moeller,True,Kilian Feldbausch,polyus,0.69,Marvin Moeller,kalshi,0.28,0.999,0.0,0.0,0.0,0.0,,0.32,,0.1,True,2026-11-15T10:21:23+00:00
+2026-11-15T10:22:13+00:00,karol v nardi,True,Luca Nardi,kalshi,0.9,Milos Karol,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-15T10:22:13+00:00
+2026-11-15T10:22:43+00:00,coppejans v oetzbach,True,Adrian Oetzbach,kalshi,0.04,Kimmer Coppejans,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.06,,,0.1,True,2026-11-15T10:22:43+00:00
+2026-11-15T10:22:53+00:00,karol v nardi,True,Luca Nardi,kalshi,0.93,Milos Karol,polyus,0.04,0.9772,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-15T10:22:53+00:00
+2026-11-15T10:22:53+00:00,coppejans v oetzbach,True,Adrian Oetzbach,kalshi,0.04,Kimmer Coppejans,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.06,,,0.2,True,2026-11-15T10:22:43+00:00
+2026-11-15T10:23:03+00:00,karol v nardi,True,Luca Nardi,kalshi,0.93,Milos Karol,polyus,0.04,0.9772,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-15T10:22:53+00:00
+2026-11-15T10:23:13+00:00,karol v nardi,True,Luca Nardi,kalshi,0.93,Milos Karol,polyus,0.03,0.9666,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-15T10:22:53+00:00
+2026-11-15T10:23:23+00:00,karol v nardi,True,Luca Nardi,kalshi,0.93,Milos Karol,polyus,0.03,0.9666,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-15T10:22:53+00:00
+2026-11-15T10:23:43+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.75,Svyatoslav Gulin,kalshi,0.22,0.995,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-15T10:23:43+00:00
+2026-11-15T10:23:53+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.74,Svyatoslav Gulin,kalshi,0.22,0.9854,0.0,0.0,0.0,0.0,,0.27,,0.1,True,2026-11-15T10:23:43+00:00
+2026-11-15T10:23:53+00:00,karol v nardi,True,Luca Nardi,polyus,0.95,Milos Karol,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.1,True,2026-11-15T10:23:53+00:00
+2026-11-15T10:23:53+00:00,coppejans v oetzbach,True,Adrian Oetzbach,kalshi,0.05,Kimmer Coppejans,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-15T10:23:53+00:00
+2026-11-15T10:24:03+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.74,Svyatoslav Gulin,kalshi,0.22,0.9854,0.0,0.0,0.0,0.0,,0.27,,0.1,True,2026-11-15T10:23:43+00:00
+2026-11-15T10:24:03+00:00,karol v nardi,True,Luca Nardi,polyus,0.95,Milos Karol,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.1,True,2026-11-15T10:23:53+00:00
+2026-11-15T10:24:03+00:00,coppejans v oetzbach,True,Adrian Oetzbach,kalshi,0.05,Kimmer Coppejans,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-15T10:23:53+00:00
+2026-11-15T10:24:13+00:00,karol v nardi,True,Luca Nardi,kalshi,0.95,Milos Karol,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-15T10:24:13+00:00
+2026-11-15T10:25:13+00:00,feldbausch v moeller,True,Kilian Feldbausch,kalshi,0.72,Marvin Moeller,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-15T10:25:13+00:00
+2026-11-15T10:25:23+00:00,feldbausch v moeller,True,Kilian Feldbausch,kalshi,0.72,Marvin Moeller,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-15T10:25:13+00:00
+2026-11-15T10:25:33+00:00,feldbausch v moeller,True,Kilian Feldbausch,kalshi,0.72,Marvin Moeller,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-15T10:25:13+00:00
+2026-11-15T10:26:03+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.7,Svyatoslav Gulin,kalshi,0.27,0.9984,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-15T10:26:03+00:00
+2026-11-15T10:27:23+00:00,gulin v paldanius,True,Oskari Paldanius,kalshi,0.71,Svyatoslav Gulin,polyus,0.26,0.9978,0.0,0.0,0.0,0.0,0.74,,,0.1,True,2026-11-15T10:27:23+00:00
+2026-11-15T10:27:33+00:00,gulin v paldanius,True,Oskari Paldanius,kalshi,0.71,Svyatoslav Gulin,polyus,0.26,0.9978,0.0,0.0,0.0,0.0,0.74,,,0.1,True,2026-11-15T10:27:23+00:00
+2026-11-15T10:27:43+00:00,gulin v paldanius,True,Oskari Paldanius,kalshi,0.71,Svyatoslav Gulin,polyus,0.26,0.9978,0.0,0.0,0.0,0.0,0.74,,,0.2,True,2026-11-15T10:27:23+00:00
+2026-11-15T10:27:53+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.71,Svyatoslav Gulin,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-15T10:27:53+00:00
+2026-11-15T10:28:03+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.71,Svyatoslav Gulin,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-15T10:27:53+00:00
+2026-11-15T10:28:13+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.69,Svyatoslav Gulin,kalshi,0.26,0.9783,0.0,0.0,0.0,0.0,,0.31,,0.1,True,2026-11-15T10:27:53+00:00
+2026-11-15T10:28:23+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.69,Svyatoslav Gulin,kalshi,0.26,0.9783,0.0,0.0,0.0,0.0,,0.31,,0.1,True,2026-11-15T10:27:53+00:00
+2026-11-15T10:31:43+00:00,gulin v paldanius,True,Oskari Paldanius,kalshi,0.64,Svyatoslav Gulin,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.2,True,2026-11-15T10:31:43+00:00
+2026-11-15T10:31:53+00:00,gulin v paldanius,True,Oskari Paldanius,kalshi,0.64,Svyatoslav Gulin,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-15T10:31:43+00:00
+2026-11-15T10:32:53+00:00,arias v kicker,False,Boris Arias,polyus,0.04,Nicolas Kicker,kalshi,0.95,0.996,0.01,900.0,0.01,0.0,0.04,0.95,0.996,0.3,True,2026-11-15T10:32:53+00:00
+2026-11-15T10:33:03+00:00,arias v kicker,False,Boris Arias,polyus,0.04,Nicolas Kicker,kalshi,0.95,0.996,0.01,900.0,0.01,0.0,0.04,0.95,0.996,0.2,True,2026-11-15T10:32:53+00:00
+2026-11-15T10:33:13+00:00,arias v kicker,False,Boris Arias,polyus,0.04,Nicolas Kicker,kalshi,0.95,0.996,0.01,900.0,0.01,0.0,0.04,0.95,0.996,0.2,True,2026-11-15T10:32:53+00:00
