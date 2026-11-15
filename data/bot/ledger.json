@@ -1,12 +1,26 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 345.0,
-  "polyus": 355.0
+  "kalshi": 195.5,
+  "polyus": 328.59
  },
- "open": [],
+ "open": [
+  {
+   "id": "f34268e68731",
+   "key": "fancutt v ibraimi",
+   "opened": "2026-11-15T01:34:50+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV14IBRFAN-FAN",
+   "kalshi_side": "yes",
+   "shares": {
+    "kalshi": 178,
+    "polyus": 178
+   },
+   "cost": 175.91,
+   "expected": 2.09
+  }
+ ],
  "settled_pnl": 0.0,
  "unwind_pnl": 0.0,
- "fires": 0,
+ "fires": 1,
  "settled": 0
 }
