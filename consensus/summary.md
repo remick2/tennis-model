@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 15, 2:40PM MT
+# Consensus paper tracker — Sun Nov 15, 3:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,8 +9,8 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 19-13 | +2.59 | 24-18 | -1.02 | 4 |
-| 2+ agree, 1+ against (split) | all 15 | 23-13 | +10.03 | 20-14 | -0.09 | 4 |
+| 2 agree | all 15 | 19-13 | +2.59 | 24-18 | -1.02 | 5 |
+| 2+ agree, 1+ against (split) | all 15 | 23-13 | +10.03 | 20-14 | -0.09 | 5 |
 | 3+ agree (paper play) | core 10 only | 3-2 | +2.15 | 1-0 | +0.12 | 1 |
 | 2 agree | core 10 only | 9-6 | +2.27 | 12-8 | +0.25 | 4 |
 | 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 8-5 | +1.10 | 1 |
@@ -86,3 +86,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | NBA | Lakers vs. Suns | Suns (Moneyline) | 2 agree, 1 against | in-play | drainedandpoor; BreakTheBank | purplegatto | 22.5c |
 | new | 2026-11-15 | NBA | Hornets vs. Clippers | Hornets (Moneyline) | 2 agree, 2 against | in-play | jakepaulthegoat2008; 0x9f15613e | BreakTheBank; fantasy7788 | 47.5c |
 | new | 2026-11-15 | NBA | Hornets vs. Clippers | Clippers (Moneyline) | 2 agree, 2 against | in-play | fantasy7788; BreakTheBank | 0x9f15613e; jakepaulthegoat2008 | 52.5c |
+| new | 2026-11-15 | NBA | Mavericks vs. Celtics | Celtics (-13.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ch27er | — | 55.5c |
+| new | 2026-11-15 | NBA | Knicks vs. Raptors | Raptors (+4.5) (Spread) | 2 agree, 1 against | pre-game | drainedandpoor; ianf2026 | jakepaulthegoat2008 | 51.5c |
