@@ -362,3 +362,25 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T11:49:43+00:00,henning v ribecai,True,Michele Ribecai,kalshi,0.93,Philip Henning,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-15T11:49:43+00:00
 2026-11-15T11:50:03+00:00,clarke v nordquist,True,Arvid Nordquist,kalshi,0.44,Jay Clarke,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-15T11:50:03+00:00
 2026-11-15T11:50:13+00:00,clarke v nordquist,True,Arvid Nordquist,kalshi,0.44,Jay Clarke,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.51,,,0.1,True,2026-11-15T11:50:03+00:00
+2026-11-15T11:52:03+00:00,alopaeus v cretu,True,Cezar Cretu (b. 2001),kalshi,0.83,Felix Alopaeus,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.86,,,0.1,True,2026-11-15T11:52:03+00:00
+2026-11-15T11:52:13+00:00,alopaeus v cretu,True,Cezar Cretu (b. 2001),kalshi,0.83,Felix Alopaeus,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.86,,,0.1,True,2026-11-15T11:52:03+00:00
+2026-11-15T11:52:23+00:00,alopaeus v cretu,True,Cezar Cretu (b. 2001),kalshi,0.83,Felix Alopaeus,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.1,True,2026-11-15T11:52:03+00:00
+2026-11-15T11:55:13+00:00,alopaeus v cretu,True,Cezar Cretu,polyus,0.82,Felix Alopaeus,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.19,,0.1,True,2026-11-15T11:55:13+00:00
+2026-11-15T11:55:23+00:00,alopaeus v cretu,True,Cezar Cretu,polyus,0.82,Felix Alopaeus,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.19,,0.1,True,2026-11-15T11:55:13+00:00
+2026-11-15T11:55:33+00:00,alopaeus v cretu,True,Cezar Cretu,polyus,0.82,Felix Alopaeus,kalshi,0.15,0.9892,0.0,0.0,0.0,0.0,,0.19,,0.1,True,2026-11-15T11:55:13+00:00
+2026-11-15T11:55:53+00:00,alopaeus v cretu,True,Cezar Cretu,polyus,0.75,Felix Alopaeus,kalshi,0.19,0.9638,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-15T11:55:53+00:00
+2026-11-15T11:56:03+00:00,alopaeus v cretu,True,Cezar Cretu,polyus,0.75,Felix Alopaeus,kalshi,0.19,0.9638,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-15T11:55:53+00:00
+2026-11-15T11:57:53+00:00,alopaeus v cretu,True,Cezar Cretu,polyus,0.71,Felix Alopaeus,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-15T11:57:53+00:00
+2026-11-15T11:58:53+00:00,donski v hemery,True,Alexander Donski,polyus,0.11,Calvin Hemery,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-15T11:58:53+00:00
+2026-11-15T11:59:13+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.62,Stefan Latinovic,kalshi,0.34,0.9921,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-15T11:59:13+00:00
+2026-11-15T11:59:23+00:00,latinovic v vandermeersch,True,Cyril Vandermeersch,polyus,0.62,Stefan Latinovic,kalshi,0.34,0.9921,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-15T11:59:13+00:00
+2026-11-15T11:59:53+00:00,donski v hemery,True,Alexander Donski,polyus,0.05,Calvin Hemery,kalshi,0.89,0.9502,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-15T11:59:53+00:00
+2026-11-15T11:59:53+00:00,alopaeus v cretu,True,Cezar Cretu,polyus,0.72,Felix Alopaeus,kalshi,0.25,0.9971,0.0,0.0,0.0,0.0,,0.28,,0.1,True,2026-11-15T11:59:53+00:00
+2026-11-15T12:01:53+00:00,alopaeus v cretu,True,Cezar Cretu,polyus,0.72,Felix Alopaeus,kalshi,0.25,0.9971,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-15T12:01:53+00:00
+2026-11-15T12:02:13+00:00,alopaeus v cretu,True,Cezar Cretu,polyus,0.7,Felix Alopaeus,kalshi,0.25,0.9777,0.0,0.0,0.0,0.0,,0.32,,0.1,True,2026-11-15T12:02:13+00:00
+2026-11-15T12:04:03+00:00,donski v hemery,True,Alexander Donski,kalshi,0.1,Calvin Hemery,polyus,0.87,0.9842,20988.66,0.0,0.0,0.0,0.06,0.96,1.0266,0.2,True,2026-11-15T12:04:03+00:00
+2026-11-15T12:04:13+00:00,donski v hemery,True,Alexander Donski,polyus,0.06,Calvin Hemery,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-15T12:04:13+00:00
+2026-11-15T12:04:23+00:00,donski v hemery,True,Alexander Donski,polyus,0.06,Calvin Hemery,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-15T12:04:13+00:00
+2026-11-15T12:04:33+00:00,donski v hemery,True,Alexander Donski,polyus,0.05,Calvin Hemery,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-15T12:04:13+00:00
+2026-11-15T12:04:53+00:00,ursu v vrbensky,True,Michael Vrbensky,kalshi,0.8,Vadym Ursu,polyus,0.15,0.9701,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-15T12:04:53+00:00
+2026-11-15T12:05:03+00:00,ursu v vrbensky,True,Michael Vrbensky,kalshi,0.8,Vadym Ursu,polyus,0.15,0.9701,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-15T12:04:53+00:00
