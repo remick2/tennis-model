@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 15, 10:40AM MT
+# Consensus paper tracker — Sun Nov 15, 11:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 17-13 | +1.16 | 21-18 | -2.22 | 3 |
+| 2 agree | all 15 | 17-13 | +1.16 | 21-18 | -2.22 | 7 |
 | 2+ agree, 1+ against (split) | all 15 | 22-10 | +12.76 | 19-14 | -0.22 | 4 |
 | 3+ agree (paper play) | core 10 only | 3-1 | +3.15 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 9-5 | +3.27 | 12-8 | +0.25 | 3 |
+| 2 agree | core 10 only | 9-5 | +3.27 | 12-8 | +0.25 | 4 |
 | 2+ agree, 1+ against (split) | core 10 only | 7-4 | +4.03 | 8-5 | +1.10 | 1 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 7 of 30 graded plays · net +2.89u · 5 wins vs 3.9 expected, z = +0.90 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
@@ -85,3 +85,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | NFL | Vikings vs. Packers | Packers (-2.5) (Spread) | 3 agree, 1 against | pre-game | monkeymashingkeyboard; purplegatto; ic4cream | BreakTheBank | 51.5c |
 | new | 2026-11-15 | NBA | Pacers vs. 76ers | Pacers (Moneyline) | 2 agree, 1 against | pre-game | jakepaulthegoat2008; BreakTheBank | 0x9f15613e | 28.5c |
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+15.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 55.0c |
+| new | 2026-11-15 | NFL | Dolphins vs. Colts | Colts (Moneyline) | 2 agree, 0 against | in-play | 0xb4F978BE; BreakTheBank | — | 78.5c |
+| new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+16.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 52.5c |
+| new | 2026-11-15 | NFL | Vikings vs. Packers | Vikings (+4.5) (Spread) | 2 agree, 0 against | in-play | ic4cream; BreakTheBank | — | 74.5c |
+| new | 2026-11-15 | NBA | Pacers vs. 76ers | Pacers (+7.5) (Spread) | 2 agree, 0 against | in-play | BreakTheBank; ch27er | — | 63.0c |
