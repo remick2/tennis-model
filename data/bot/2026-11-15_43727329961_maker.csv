@@ -947,3 +947,14 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T21:29:01+00:00,kuhar v melnic,True,polyus:aec-atp-matkuh-vlamel-2026-11-15:1,0.92,54,False,0.0054,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15KUHMEL-MEL:no,0.09,-0.85,-0.85,-0.85,True
 2026-11-15T21:30:06+00:00,fils v shelton,True,kalshi:KXATPMATCH-26NOV15SHEFIL-FIL:yes,0.05,1000,True,0.0052,2.0,hedged,polyus:aec-atp-benshe-artfil-2026-11-15:0,0.94,5.25,-13.52,5.25,True
 2026-11-15T21:30:15+00:00,kuhar v melnic,True,kalshi:KXATPCHALLENGERMATCH-26NOV15KUHMEL-MEL:yes,0.96,52,True,0.008,2.2,hedged,polyus:aec-atp-matkuh-vlamel-2026-11-15:0,0.03,0.41,-0.98,0.41,True
+2026-11-15T21:33:39+00:00,andreeva v svitolina,True,polyus:aec-wta-elisvi-mirand-2026-11-15:0,0.19,263,False,0.0084,2.3,unwound,kalshi:KXWTAMATCH-26NOV15SVIAND-SVI:no,0.82,-5.35,-5.33,-5.33,True
+2026-11-15T21:34:23+00:00,hands v maxted,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MAXHAN-HAN:yes,0.04,1250,True,0.0067,2.4,hedged,polyus:aec-atp-luimax-tomhan-2026-11-15:0,0.96,-3.34,-15.05,-3.34,True
+2026-11-15T21:37:20+00:00,fils v shelton,True,kalshi:KXATPMATCH-26NOV15SHEFIL-SHE:yes,0.96,52,False,0.0073,2.7,hedged,polyus:aec-atp-benshe-artfil-2026-11-15:1,0.04,-0.17,-0.73,-0.17,True
+2026-11-15T21:37:45+00:00,fils v shelton,True,polyus:aec-atp-benshe-artfil-2026-11-15:1,0.03,1666,True,0.0073,2.2,unwound,kalshi:KXATPMATCH-26NOV15SHEFIL-SHE:yes,0.98,-18.95,-18.93,-18.93,True
+2026-11-15T21:37:53+00:00,bakonyi v nefve,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BAKNEF-NEF:yes,0.71,70,True,0.0063,2.3,hedged,polyus:aec-atp-davbak-axenef-2026-11-15:0,0.27,0.44,-2.45,0.44,True
+2026-11-15T21:38:11+00:00,fils v shelton,True,kalshi:KXATPMATCH-26NOV15SHEFIL-SHE:yes,0.96,52,True,0.0073,2.0,hedged,polyus:aec-atp-benshe-artfil-2026-11-15:1,0.03,0.38,-1.28,0.38,True
+2026-11-15T21:38:53+00:00,fils v shelton,True,kalshi:KXATPMATCH-26NOV15SHEFIL-SHE:yes,0.88,56,False,0.0119,2.4,hedged,polyus:aec-atp-benshe-artfil-2026-11-15:1,0.1,0.67,-2.28,0.67,True
+2026-11-15T21:39:21+00:00,fils v shelton,True,kalshi:KXATPMATCH-26NOV15SHEFIL-FIL:yes,0.13,384,False,0.0092,0.5,hedged,polyus:aec-atp-benshe-artfil-2026-11-15:0,0.85,3.52,-29.16,3.52,True
+2026-11-15T21:39:25+00:00,bakonyi v nefve,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BAKNEF-BAK:yes,0.25,200,True,0.0063,2.2,hedged,polyus:aec-atp-davbak-axenef-2026-11-15:1,0.73,1.26,-8.4,1.26,True
+2026-11-15T21:39:45+00:00,fils v shelton,True,kalshi:KXATPMATCH-26NOV15SHEFIL-FIL:yes,0.04,1250,False,0.006,2.0,hedged,polyus:aec-atp-benshe-artfil-2026-11-15:0,0.98,-27.54,-27.56,-27.54,True
+2026-11-15T21:39:45+00:00,fils v shelton,True,polyus:aec-atp-benshe-artfil-2026-11-15:1,0.04,1250,False,0.0067,2.0,unwound,kalshi:KXATPMATCH-26NOV15SHEFIL-SHE:yes,0.98,-26.71,-26.7,-26.7,True
