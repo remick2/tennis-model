@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 84.31,
-  "polyus": 177.53
+  "kalshi": 1.16,
+  "polyus": 164.92
  },
  "open": [
   {
@@ -43,11 +43,24 @@
    },
    "cost": 98.55,
    "expected": 1.45
+  },
+  {
+   "id": "52a42f424d1c",
+   "key": "fils v shelton",
+   "opened": "2026-11-15T21:23:11+00:00",
+   "kalshi_ticker": "KXATPMATCH-26NOV15SHEFIL-SHE",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 99,
+    "kalshi": 99
+   },
+   "cost": 95.76,
+   "expected": 2.29
   }
  ],
  "settled_pnl": 56.16,
  "unwind_pnl": -6.34,
- "fires": 16,
+ "fires": 17,
  "settled": 11,
  "rebalances": 3
 }
