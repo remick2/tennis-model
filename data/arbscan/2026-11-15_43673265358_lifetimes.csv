@@ -1,0 +1,22 @@
+key,legs,first_seen,closed_by,kind,minutes,min_minutes
+imamura v koyama,Hiromasa Koyama@polyus + Masamichi Imamura@kalshi,2026-11-15T04:39:34+00:00,2026-11-15T04:39:54+00:00,any,0.3,0.2
+marinkov v rai,Ajeet Rai@polyus + Pavle Marinkov@kalshi,2026-11-15T04:40:14+00:00,2026-11-15T04:40:54+00:00,any,0.7,0.5
+imamura v koyama,Hiromasa Koyama@polyus + Masamichi Imamura@kalshi,2026-11-15T04:40:24+00:00,2026-11-15T04:40:54+00:00,any,0.5,0.3
+bittoun v kumar,Constantin Bittoun Kouzmine@kalshi + Nitin Kumar Sinha@polyus,2026-11-15T04:40:14+00:00,2026-11-15T04:41:24+00:00,any,1.2,1.0
+marinkov v rai,Ajeet Rai@polyus + Pavle Marinkov@kalshi,2026-11-15T04:41:54+00:00,2026-11-15T04:42:24+00:00,any,0.5,0.3
+isomura v shepp,Anton Shepp@polyus + Kokoro Isomura@kalshi,2026-11-15T04:42:54+00:00,2026-11-15T04:43:04+00:00,any,0.2,0.0
+marinkov v rai,Ajeet Rai@kalshi + Pavle Marinkov@polyus,2026-11-15T04:43:24+00:00,2026-11-15T04:43:34+00:00,any,0.2,0.0
+isomura v shepp,Anton Shepp@kalshi + Kokoro Isomura@polyus,2026-11-15T04:43:34+00:00,2026-11-15T04:44:04+00:00,any,0.5,0.3
+isomura v shepp,Anton Shepp@kalshi + Kokoro Isomura@polyus,2026-11-15T04:44:54+00:00,2026-11-15T04:45:04+00:00,any,0.2,0.0
+marinkov v rai,Ajeet Rai@kalshi + Pavle Marinkov@polyus,2026-11-15T04:46:14+00:00,2026-11-15T04:46:24+00:00,any,0.2,0.0
+holmgren v langmo,August Holmgren@polyus + Christian Langmo@kalshi,2026-11-15T04:46:14+00:00,2026-11-15T04:46:24+00:00,any,0.2,0.0
+isomura v shepp,Anton Shepp@polyus + Kokoro Isomura@kalshi,2026-11-15T04:46:54+00:00,2026-11-15T04:47:34+00:00,any,0.7,0.5
+marinkov v rai,Ajeet Rai@polyus + Pavle Marinkov@kalshi,2026-11-15T04:48:24+00:00,2026-11-15T04:48:34+00:00,any,0.2,0.0
+becroft v hazawa,Isaac Becroft@kalshi + Shinji Hazawa@polyus,2026-11-15T04:49:44+00:00,2026-11-15T04:50:04+00:00,any,0.3,0.2
+holmgren v langmo,August Holmgren@kalshi + Christian Langmo@polyus,2026-11-15T04:50:54+00:00,2026-11-15T04:51:24+00:00,any,0.5,0.3
+becroft v hazawa,Isaac Becroft@kalshi + Shinji Hazawa@polyus,2026-11-15T04:51:04+00:00,2026-11-15T04:51:24+00:00,any,0.3,0.2
+marinkov v rai,Ajeet Rai@polyus + Pavle Marinkov@kalshi,2026-11-15T04:51:04+00:00,2026-11-15T04:51:24+00:00,any,0.3,0.2
+holmgren v langmo,August Holmgren@polyus + Christian Langmo@kalshi,2026-11-15T04:51:34+00:00,2026-11-15T04:51:54+00:00,any,0.3,0.2
+becroft v hazawa,Isaac Becroft@kalshi + Shinji Hazawa@polyus,2026-11-15T04:52:14+00:00,2026-11-15T04:52:54+00:00,any,0.7,0.5
+ogura v takahashi,Kosuke Ogura@polyus + Yusuke Takahashi@kalshi,2026-11-15T04:52:24+00:00,2026-11-15T04:52:54+00:00,any,0.5,0.3
+harris v hsiou,Billy Harris@polyus + Yu Hsiou Hsu@kalshi,2026-11-15T04:53:04+00:00,2026-11-15T04:53:24+00:00,any,0.3,0.2
