@@ -2,7 +2,7 @@
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
   "kalshi": 257.03,
-  "polyus": 125.54
+  "polyus": 300.54
  },
  "open": [
   {
@@ -17,24 +17,11 @@
    },
    "cost": 192.25,
    "expected": 1.75
-  },
-  {
-   "id": "260f4548ea61",
-   "key": "izquierdo v roncadelli",
-   "opened": "2026-11-15T20:10:28+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15RONSAI-SAI",
-   "kalshi_side": "no",
-   "shares": {
-    "kalshi": 175.0,
-    "polyus": 175.0
-   },
-   "cost": 173.43,
-   "expected": 1.57
   }
  ],
- "settled_pnl": 54.59,
+ "settled_pnl": 56.16,
  "unwind_pnl": -6.34,
  "fires": 14,
- "settled": 10,
+ "settled": 11,
  "rebalances": 3
 }
