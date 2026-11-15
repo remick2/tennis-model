@@ -281,3 +281,46 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-15T11:19:53+00:00,donald v krumich,True,Martin Krumich,kalshi,0.38,Matthew William Donald,polyus,0.55,0.9637,0.0,0.0,0.0,0.0,0.46,,,0.1,True,2026-11-15T11:19:43+00:00
 2026-11-15T11:19:53+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.08,Svyatoslav Gulin,kalshi,0.89,0.982,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-15T11:19:33+00:00
 2026-11-15T11:19:53+00:00,mikrut v vasa,False,Iiro Vasa,polyus,0.07,Luka Mikrut,kalshi,0.92,0.9997,0.01,1424.0,0.01,0.0,0.07,0.92,0.9997,0.2,True,2026-11-15T11:13:33+00:00
+2026-11-15T11:20:03+00:00,donald v krumich,True,Martin Krumich,kalshi,0.38,Matthew William Donald,polyus,0.55,0.9637,0.0,0.0,0.0,0.0,0.45,,,0.1,True,2026-11-15T11:19:43+00:00
+2026-11-15T11:20:13+00:00,gulin v paldanius,True,Oskari Paldanius,kalshi,0.08,Svyatoslav Gulin,polyus,0.88,0.9725,0.0,0.0,0.0,0.0,0.13,,,0.1,True,2026-11-15T11:20:13+00:00
+2026-11-15T11:20:23+00:00,gulin v paldanius,True,Oskari Paldanius,kalshi,0.08,Svyatoslav Gulin,polyus,0.88,0.9725,0.0,0.0,0.0,0.0,0.13,,,0.1,True,2026-11-15T11:20:13+00:00
+2026-11-15T11:20:33+00:00,gulin v paldanius,True,Oskari Paldanius,kalshi,0.08,Svyatoslav Gulin,polyus,0.87,0.963,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-15T11:20:13+00:00
+2026-11-15T11:20:53+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.07,Svyatoslav Gulin,kalshi,0.88,0.9619,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-15T11:20:53+00:00
+2026-11-15T11:21:03+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.07,Svyatoslav Gulin,kalshi,0.88,0.9619,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-15T11:20:53+00:00
+2026-11-15T11:21:13+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.08,Svyatoslav Gulin,kalshi,0.88,0.9725,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-15T11:20:53+00:00
+2026-11-15T11:21:23+00:00,gulin v paldanius,True,Oskari Paldanius,kalshi,0.07,Svyatoslav Gulin,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.11,,,0.1,True,2026-11-15T11:21:23+00:00
+2026-11-15T11:21:33+00:00,gulin v paldanius,True,Oskari Paldanius,polyus,0.03,Svyatoslav Gulin,kalshi,0.93,0.9666,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-15T11:21:33+00:00
+2026-11-15T11:21:33+00:00,donald v krumich,True,Martin Krumich,kalshi,0.45,Matthew William Donald,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-15T11:21:33+00:00
+2026-11-15T11:23:13+00:00,donald v krumich,True,Martin Krumich,polyus,0.43,Matthew William Donald,kalshi,0.52,0.9845,0.0,0.0,0.0,0.0,,0.59,,0.2,True,2026-11-15T11:23:13+00:00
+2026-11-15T11:23:43+00:00,donald v krumich,True,Martin Krumich,kalshi,0.42,Matthew William Donald,polyus,0.51,0.9644,0.0,0.0,0.0,0.0,0.51,,,0.1,True,2026-11-15T11:23:43+00:00
+2026-11-15T11:23:53+00:00,donald v krumich,True,Martin Krumich,kalshi,0.42,Matthew William Donald,polyus,0.5,0.9544,0.0,0.0,0.0,0.0,0.51,,,0.1,True,2026-11-15T11:23:43+00:00
+2026-11-15T11:24:43+00:00,donski v hemery,True,Alexander Donski,polyus,0.19,Calvin Hemery,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-15T11:24:43+00:00
+2026-11-15T11:24:53+00:00,donski v hemery,True,Alexander Donski,polyus,0.19,Calvin Hemery,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,,0.83,,0.2,True,2026-11-15T11:24:43+00:00
+2026-11-15T11:25:43+00:00,donski v hemery,True,Alexander Donski,kalshi,0.2,Calvin Hemery,polyus,0.74,0.9646,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-15T11:25:43+00:00
+2026-11-15T11:25:53+00:00,donski v hemery,True,Alexander Donski,kalshi,0.2,Calvin Hemery,polyus,0.74,0.9646,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-15T11:25:43+00:00
+2026-11-15T11:25:53+00:00,donald v krumich,True,Martin Krumich,kalshi,0.5,Matthew William Donald,polyus,0.45,0.9847,0.0,0.0,0.0,0.0,0.56,,,0.1,True,2026-11-15T11:25:53+00:00
+2026-11-15T11:26:03+00:00,donski v hemery,True,Alexander Donski,kalshi,0.2,Calvin Hemery,polyus,0.74,0.9646,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-15T11:25:43+00:00
+2026-11-15T11:26:13+00:00,donald v krumich,True,Martin Krumich,polyus,0.49,Matthew William Donald,kalshi,0.45,0.9747,0.0,0.0,0.0,0.0,,0.52,,0.1,True,2026-11-15T11:26:13+00:00
+2026-11-15T11:26:23+00:00,donald v krumich,True,Martin Krumich,polyus,0.49,Matthew William Donald,kalshi,0.45,0.9747,0.0,0.0,0.0,0.0,,0.52,,0.1,True,2026-11-15T11:26:13+00:00
+2026-11-15T11:26:33+00:00,donald v krumich,True,Martin Krumich,polyus,0.49,Matthew William Donald,kalshi,0.45,0.9747,0.0,0.0,0.0,0.0,,0.52,,0.1,True,2026-11-15T11:26:13+00:00
+2026-11-15T11:26:53+00:00,donski v hemery,True,Alexander Donski,polyus,0.21,Calvin Hemery,kalshi,0.75,0.9847,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-15T11:26:53+00:00
+2026-11-15T11:27:03+00:00,donski v hemery,True,Alexander Donski,polyus,0.2,Calvin Hemery,kalshi,0.75,0.9742,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-15T11:26:53+00:00
+2026-11-15T11:27:13+00:00,donski v hemery,True,Alexander Donski,polyus,0.19,Calvin Hemery,kalshi,0.75,0.9638,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-15T11:26:53+00:00
+2026-11-15T11:27:23+00:00,donski v hemery,True,Alexander Donski,polyus,0.19,Calvin Hemery,kalshi,0.75,0.9638,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-15T11:26:53+00:00
+2026-11-15T11:29:33+00:00,donald v krumich,True,Martin Krumich,kalshi,0.33,Matthew William Donald,polyus,0.61,0.972,0.0,0.0,0.0,0.0,0.4,,,0.1,True,2026-11-15T11:29:33+00:00
+2026-11-15T11:29:53+00:00,donski v hemery,True,Alexander Donski,polyus,0.15,Calvin Hemery,kalshi,0.77,0.9413,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-15T11:29:53+00:00
+2026-11-15T11:30:03+00:00,donski v hemery,True,Alexander Donski,polyus,0.15,Calvin Hemery,kalshi,0.77,0.9413,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-15T11:29:53+00:00
+2026-11-15T11:30:13+00:00,donald v krumich,True,Martin Krumich,polyus,0.3,Matthew William Donald,kalshi,0.61,0.9412,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-15T11:30:13+00:00
+2026-11-15T11:30:23+00:00,donald v krumich,True,Martin Krumich,polyus,0.3,Matthew William Donald,kalshi,0.61,0.9412,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-15T11:30:13+00:00
+2026-11-15T11:30:33+00:00,donald v krumich,True,Martin Krumich,polyus,0.27,Matthew William Donald,kalshi,0.61,0.9104,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-15T11:30:13+00:00
+2026-11-15T11:30:43+00:00,donald v krumich,True,Martin Krumich,polyus,0.14,Matthew William Donald,kalshi,0.61,0.775,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-15T11:30:13+00:00
+2026-11-15T11:30:53+00:00,donald v krumich,True,Martin Krumich,polyus,0.15,Matthew William Donald,kalshi,0.74,0.9123,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-15T11:30:13+00:00
+2026-11-15T11:30:53+00:00,donski v hemery,True,Alexander Donski,kalshi,0.14,Calvin Hemery,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-15T11:30:53+00:00
+2026-11-15T11:31:03+00:00,donald v krumich,True,Martin Krumich,polyus,0.12,Matthew William Donald,kalshi,0.74,0.8808,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-15T11:30:13+00:00
+2026-11-15T11:31:03+00:00,donski v hemery,True,Alexander Donski,kalshi,0.14,Calvin Hemery,polyus,0.83,0.9882,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-15T11:30:53+00:00
+2026-11-15T11:31:13+00:00,donald v krumich,True,Martin Krumich,polyus,0.23,Matthew William Donald,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-15T11:30:13+00:00
+2026-11-15T11:31:23+00:00,donski v hemery,True,Alexander Donski,polyus,0.12,Calvin Hemery,kalshi,0.84,0.9767,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-15T11:31:23+00:00
+2026-11-15T11:31:33+00:00,donski v hemery,True,Alexander Donski,polyus,0.12,Calvin Hemery,kalshi,0.84,0.9767,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-15T11:31:23+00:00
+2026-11-15T11:32:33+00:00,alopaeus v cretu,False,Cezar Cretu,polyus,0.88,Felix Alopaeus,kalshi,0.1,0.9936,0.0,0.0,0.0,0.0,,0.13,,0.1,True,2026-11-15T11:32:33+00:00
+2026-11-15T11:32:43+00:00,alopaeus v cretu,False,Cezar Cretu,polyus,0.87,Felix Alopaeus,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,,0.13,,0.1,True,2026-11-15T11:32:33+00:00
+2026-11-15T11:34:33+00:00,donski v hemery,True,Alexander Donski,kalshi,0.12,Calvin Hemery,polyus,0.86,0.9958,0.0,0.0,0.0,0.0,0.15,,,0.1,True,2026-11-15T11:34:33+00:00
