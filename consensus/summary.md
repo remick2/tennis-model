@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 15, 4:40AM MT
+# Consensus paper tracker — Sun Nov 15, 5:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-0 | +1.36 | 0 |
-| 2 agree | all 15 | 15-13 | -1.18 | 21-18 | -2.22 | 2 |
+| 2 agree | all 15 | 16-13 | +0.42 | 21-18 | -2.22 | 2 |
 | 2+ agree, 1+ against (split) | all 15 | 22-10 | +12.76 | 19-14 | -0.22 | 1 |
 | 3+ agree (paper play) | core 10 only | 3-1 | +3.15 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 8-5 | +1.67 | 12-8 | +0.25 | 2 |
+| 2 agree | core 10 only | 9-5 | +3.27 | 12-8 | +0.25 | 1 |
 | 2+ agree, 1+ against (split) | core 10 only | 7-4 | +4.03 | 8-5 | +1.10 | 1 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 7 of 30 graded plays · net +2.89u · 5 wins vs 3.9 expected, z = +0.90 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
@@ -22,7 +22,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Graded | Wins vs expected | Units at logged price | Units after spread + fees | Price move by game time |
 |---|---|---|---|---|---|
 | 3+ agree (paper play) | 7 | 5 vs 3.8 (+1.2) | +3.13 | +2.89 | +2.07c avg (7) |
-| 2 agree | 28 | 15 vs 14.8 (+0.2) | -1.18 | -2.00 | -0.18c avg (28) |
+| 2 agree | 29 | 16 vs 15.2 (+0.8) | +0.42 | -0.47 | -0.09c avg (29) |
 | 2+ agree, 1+ against (split) | 32 | 22 vs 15.9 (+6.1) | +12.76 | +11.53 | +0.53c avg (32) |
 
 Units after spread + fees = paying the ask (or logged price + 0.5c when the ask wasn't recorded) plus Polymarket's taker fee (rate x (1 - price) of the stake, about 2.5% at 50c). Price move = closing price minus logged price; sharp signals should see the price move their way before the game.
@@ -34,7 +34,7 @@ Units after spread + fees = paying the ask (or logged price + 0.5c when the ask 
 | 3+ agree (paper play) | Underdog (<45c) | 1-0 | +2.17 | 1 | 0.3 | +0.7 |
 | 3+ agree (paper play) | Coin flip (45-65c) | 3-2 | +0.69 | 3 | 2.7 | +0.3 |
 | 3+ agree (paper play) | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
-| 2 agree | Underdog (<45c) | 1-5 | -3.47 | 1 | 2.0 | -1.0 |
+| 2 agree | Underdog (<45c) | 2-5 | -1.87 | 2 | 2.4 | -0.4 |
 | 2 agree | Coin flip (45-65c) | 10-7 | +2.13 | 10 | 9.0 | +1.0 |
 | 2 agree | Favorite (65-80c) | 2-1 | -0.24 | 2 | 2.2 | -0.2 |
 | 2 agree | Heavy favorite (80c+) | 2-0 | +0.40 | 2 | 1.7 | +0.3 |
@@ -79,5 +79,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | Roster | Date | League | Game | Side | Count | Timing | Agree | Against | Logged at |
 |---|---|---|---|---|---|---|---|---|---|
 | new | 2026-11-15 | NFL | Bills vs. Jets | Bills (Moneyline) | 2 agree, 1 against | pre-game | 0x9f15613e; ic4cream | bands1 | 78.5c |
-| new | 2026-11-15 | CS2 | Counter-Strike: Heroic vs magic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | magic (Moneyline) | 2 agree, 0 against | pre-game | purplegatto; drainedandpoor | — | 38.5c |
 | new | 2026-11-15 | NFL | Seahawks vs. Raiders | Seahawks (Moneyline) | 2 agree, 0 against | pre-game | 0x9f15613e; ic4cream | — | 70.5c |
+| new | 2026-11-15 | NFL | Patriots vs. Lions | Lions (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; ch27er | — | 57.5c |
