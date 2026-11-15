@@ -1,0 +1,37 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-15T16:00:22+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.56,Kai Wehnelt,polyus,0.35,0.9431,0.0,0.0,0.0,0.0,0.66,,,0.1,True,2026-11-15T16:00:22+00:00
+2026-11-15T16:00:32+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.56,Kai Wehnelt,polyus,0.35,0.9431,0.0,0.0,0.0,0.0,0.66,,,0.0,True,2026-11-15T16:00:22+00:00
+2026-11-15T16:00:32+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.47,Viktor Durasovic,polyus,0.48,0.9848,0.0,0.0,0.0,0.0,0.53,,,0.1,True,2026-11-15T16:00:32+00:00
+2026-11-15T16:00:42+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,kalshi,0.75,Maximilian Neuchrist,polyus,0.22,0.9951,0.0,0.0,0.0,0.0,0.79,,,0.0,True,2026-11-15T16:00:42+00:00
+2026-11-15T16:00:52+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.57,Kai Wehnelt,kalshi,0.35,0.953,0.0,0.0,0.0,0.0,,0.44,,0.0,True,2026-11-15T16:00:52+00:00
+2026-11-15T16:00:52+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,kalshi,0.75,Maximilian Neuchrist,polyus,0.22,0.9951,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-15T16:00:42+00:00
+2026-11-15T16:01:02+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.57,Kai Wehnelt,kalshi,0.35,0.953,0.0,0.0,0.0,0.0,,0.43,,0.1,True,2026-11-15T16:00:52+00:00
+2026-11-15T16:01:02+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,kalshi,0.75,Maximilian Neuchrist,polyus,0.22,0.9951,0.0,0.0,0.0,0.0,0.82,,,0.0,True,2026-11-15T16:00:42+00:00
+2026-11-15T16:01:22+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.57,Kai Wehnelt,polyus,0.28,0.8812,0.0,0.0,0.0,0.0,0.74,,,0.0,True,2026-11-15T16:01:22+00:00
+2026-11-15T16:01:32+00:00,adrian v wehnelt,True,Gabi Adrian Boitan,kalshi,0.57,Kai Wehnelt,polyus,0.27,0.8709,0.0,0.0,0.0,0.0,0.74,,,0.0,True,2026-11-15T16:01:22+00:00
+2026-11-15T16:02:12+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.58,Kai Wehnelt,kalshi,0.3,0.9116,0.0,0.0,0.0,0.0,,0.43,,0.0,True,2026-11-15T16:02:12+00:00
+2026-11-15T16:02:22+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.58,Kai Wehnelt,kalshi,0.3,0.9116,0.0,0.0,0.0,0.0,,0.43,,0.0,True,2026-11-15T16:02:12+00:00
+2026-11-15T16:02:22+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.59,Viktor Durasovic,polyus,0.36,0.9829,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-15T16:02:22+00:00
+2026-11-15T16:02:32+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.55,Kai Wehnelt,kalshi,0.3,0.8819,0.0,0.0,0.0,0.0,,0.46,,0.0,True,2026-11-15T16:02:12+00:00
+2026-11-15T16:02:32+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.59,Viktor Durasovic,polyus,0.36,0.9829,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-15T16:02:22+00:00
+2026-11-15T16:03:12+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.41,Kai Wehnelt,kalshi,0.5,0.9443,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-15T16:03:12+00:00
+2026-11-15T16:03:22+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.41,Kai Wehnelt,kalshi,0.5,0.9443,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-15T16:03:12+00:00
+2026-11-15T16:03:32+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.42,Kai Wehnelt,kalshi,0.5,0.9544,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-15T16:03:12+00:00
+2026-11-15T16:03:32+00:00,agwi v durasovic,True,Michael Agwi,polyus,0.57,Viktor Durasovic,kalshi,0.38,0.9835,0.0,0.0,0.0,0.0,,0.44,,0.1,True,2026-11-15T16:03:32+00:00
+2026-11-15T16:03:42+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.31,Kai Wehnelt,kalshi,0.59,0.9318,0.0,0.0,0.0,0.0,,0.7,,0.0,True,2026-11-15T16:03:12+00:00
+2026-11-15T16:03:52+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.31,Kai Wehnelt,kalshi,0.59,0.9318,0.0,0.0,0.0,0.0,,0.7,,0.1,True,2026-11-15T16:03:12+00:00
+2026-11-15T16:04:02+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.31,Kai Wehnelt,kalshi,0.59,0.9318,0.0,0.0,0.0,0.0,,0.7,,0.0,True,2026-11-15T16:03:12+00:00
+2026-11-15T16:04:12+00:00,adrian v wehnelt,True,Gabi Boitan,polyus,0.31,Kai Wehnelt,kalshi,0.59,0.9318,0.0,0.0,0.0,0.0,,0.7,,0.1,True,2026-11-15T16:03:12+00:00
+2026-11-15T16:04:22+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,kalshi,0.77,Maximilian Neuchrist,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-15T16:04:22+00:00
+2026-11-15T16:04:32+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,kalshi,0.77,Maximilian Neuchrist,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-15T16:04:22+00:00
+2026-11-15T16:04:42+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,kalshi,0.77,Maximilian Neuchrist,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-15T16:04:22+00:00
+2026-11-15T16:05:32+00:00,agwi v durasovic,True,Michael Agwi,polyus,0.5,Viktor Durasovic,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-15T16:05:32+00:00
+2026-11-15T16:05:42+00:00,agwi v durasovic,True,Michael Agwi,polyus,0.5,Viktor Durasovic,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-15T16:05:32+00:00
+2026-11-15T16:08:02+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,kalshi,0.7,Maximilian Neuchrist,polyus,0.27,0.9984,0.0,0.0,0.0,0.0,0.74,,,0.1,True,2026-11-15T16:08:02+00:00
+2026-11-15T16:10:02+00:00,basavareddy v virtanen,True,Nishesh Basavareddy,polyus,0.34,Otto Virtanen,kalshi,0.62,0.9921,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-15T16:10:02+00:00
+2026-11-15T16:10:12+00:00,basavareddy v virtanen,True,Nishesh Basavareddy,polyus,0.33,Otto Virtanen,kalshi,0.62,0.9819,0.0,0.0,0.0,0.0,,0.67,,0.0,True,2026-11-15T16:10:02+00:00
+2026-11-15T16:10:42+00:00,agwi v durasovic,True,Michael Agwi,kalshi,0.52,Viktor Durasovic,polyus,0.44,0.9946,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-15T16:10:42+00:00
+2026-11-15T16:11:12+00:00,ghibaudo v neuchrist,True,Antoine Ghibaudo,kalshi,0.77,Maximilian Neuchrist,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.8,,,0.1,True,2026-11-15T16:11:12+00:00
+2026-11-15T16:12:12+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.68,William Mroz Mroz,kalshi,0.26,0.9686,0.0,0.0,0.0,0.0,,0.32,,0.1,True,2026-11-15T16:12:12+00:00
+2026-11-15T16:12:22+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.68,William Mroz Mroz,kalshi,0.26,0.9686,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-15T16:12:12+00:00
+2026-11-15T16:12:32+00:00,mitsui v mroz,True,Shunsuke Mitsui,polyus,0.68,William Mroz Mroz,kalshi,0.26,0.9686,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-15T16:12:12+00:00
