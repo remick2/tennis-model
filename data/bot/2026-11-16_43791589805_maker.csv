@@ -490,3 +490,11 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T08:24:09+00:00,aguiard v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-AGU:yes,0.88,56,True,0.0137,2.1,hedged,polyus:aec-atp-enzagu-chroco-2026-11-15:1,0.14,-1.59,-1.59,-1.59,True
 2026-11-16T08:29:49+00:00,aguiard v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-OCO:yes,0.15,333,False,0.0102,2.1,hedged,polyus:aec-atp-enzagu-chroco-2026-11-15:0,0.86,-6.12,-6.14,-6.12,True
 2026-11-16T08:29:49+00:00,aguiard v oconnell,True,polyus:aec-atp-enzagu-chroco-2026-11-15:1,0.15,333,False,0.0101,2.1,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-OCO:no,0.86,-6.14,-6.12,-6.12,True
+2026-11-16T08:39:43+00:00,aguiard v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-AGU:yes,0.92,54,False,0.0055,2.1,hedged,polyus:aec-atp-enzagu-chroco-2026-11-15:1,0.11,-1.99,-1.99,-1.99,True
+2026-11-16T08:40:26+00:00,aguiard v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-OCO:yes,0.06,833,False,0.0055,2.0,hedged,polyus:aec-atp-enzagu-chroco-2026-11-15:0,0.95,-11.08,-11.1,-11.08,True
+2026-11-16T08:40:26+00:00,aguiard v oconnell,True,polyus:aec-atp-enzagu-chroco-2026-11-15:1,0.06,833,False,0.0054,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-OCO:no,0.95,-11.1,-11.08,-11.08,True
+2026-11-16T08:41:02+00:00,aguiard v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-OCO:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-atp-enzagu-chroco-2026-11-15:0,0.98,-31.36,-31.37,-31.36,True
+2026-11-16T08:41:02+00:00,aguiard v oconnell,True,polyus:aec-atp-enzagu-chroco-2026-11-15:1,0.06,833,True,0.0054,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-OCO:no,0.98,-34.46,-34.45,-34.45,True
+2026-11-16T08:41:29+00:00,aguiard v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-AGU:yes,0.97,51,True,0.0086,2.0,hedged,polyus:aec-atp-enzagu-chroco-2026-11-15:1,0.04,-0.65,-0.75,-0.65,True
+2026-11-16T08:41:33+00:00,donald v hemery,False,kalshi:KXATPCHALLENGERMATCH-26NOV16HEMDON-DON:yes,0.34,147,False,0.0138,53.0,hedged,polyus:aec-atp-calhem-matdon-2026-11-16:0,0.69,-6.6,-8.5,-6.6,True
+2026-11-16T08:49:46+00:00,agwi v mikrut,False,polyus:aec-atp-lukmik-micagw-2026-11-16:0,0.7,71,False,0.0059,65.2,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV16MIKAGW-AGW:yes,0.31,-1.45,-2.49,-1.45,True
