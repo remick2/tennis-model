@@ -135,3 +135,24 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T10:44:57+00:00,donald v hemery,True,Calvin Hemery,kalshi,0.79,Matthew William Donald,polyus,0.15,0.9605,0.0,0.0,0.0,0.0,0.85,,,0.1,True,2026-11-16T10:44:47+00:00
 2026-11-16T10:45:07+00:00,donald v hemery,True,Calvin Hemery,kalshi,0.79,Matthew William Donald,polyus,0.15,0.9605,0.0,0.0,0.0,0.0,0.86,,,0.1,True,2026-11-16T10:44:47+00:00
 2026-11-16T10:47:17+00:00,latinovic v nardi,True,Luca Nardi,polyus,0.96,Stefan Latinovic,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,,0.04,,0.1,True,2026-11-16T10:47:17+00:00
+2026-11-16T10:48:47+00:00,alberto v coppejans,True,Carlo Alberto Caniato,kalshi,0.15,Kimmer Coppejans,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-16T10:48:47+00:00
+2026-11-16T10:48:57+00:00,alberto v coppejans,True,Carlo Alberto Caniato,kalshi,0.15,Kimmer Coppejans,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-16T10:48:47+00:00
+2026-11-16T10:49:17+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.15,Kimmer Coppejans,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-16T10:49:17+00:00
+2026-11-16T10:49:27+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.15,Kimmer Coppejans,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-16T10:49:17+00:00
+2026-11-16T10:49:57+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.12,Kimmer Coppejans,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-16T10:49:57+00:00
+2026-11-16T10:50:07+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.12,Kimmer Coppejans,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-16T10:49:57+00:00
+2026-11-16T10:50:37+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.07,Kimmer Coppejans,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-16T10:50:37+00:00
+2026-11-16T10:50:47+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.07,Kimmer Coppejans,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-16T10:50:37+00:00
+2026-11-16T10:51:47+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.06,Kimmer Coppejans,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-16T10:51:47+00:00
+2026-11-16T10:51:57+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.06,Kimmer Coppejans,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-16T10:51:47+00:00
+2026-11-16T10:52:07+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.06,Kimmer Coppejans,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-16T10:51:47+00:00
+2026-11-16T10:52:57+00:00,alberto v coppejans,True,Carlo Alberto Caniato,kalshi,0.06,Kimmer Coppejans,polyus,0.9,0.9702,0.0,0.0,0.0,0.0,0.11,,,0.1,True,2026-11-16T10:52:57+00:00
+2026-11-16T10:53:07+00:00,alberto v coppejans,True,Carlo Alberto Caniato,kalshi,0.06,Kimmer Coppejans,polyus,0.9,0.9702,0.0,0.0,0.0,0.0,0.11,,,0.1,True,2026-11-16T10:52:57+00:00
+2026-11-16T10:53:27+00:00,alberto v coppejans,True,Carlo Alberto Caniato,kalshi,0.11,Kimmer Coppejans,polyus,0.85,0.9757,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-16T10:53:27+00:00
+2026-11-16T10:53:37+00:00,alberto v coppejans,True,Carlo Alberto Caniato,kalshi,0.11,Kimmer Coppejans,polyus,0.85,0.9757,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-16T10:53:27+00:00
+2026-11-16T10:53:57+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.08,Kimmer Coppejans,kalshi,0.85,0.944,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-16T10:53:57+00:00
+2026-11-16T10:54:07+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.08,Kimmer Coppejans,kalshi,0.85,0.944,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-16T10:53:57+00:00
+2026-11-16T10:54:17+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.08,Kimmer Coppejans,kalshi,0.85,0.944,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-16T10:53:57+00:00
+2026-11-16T10:54:27+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.04,Kimmer Coppejans,kalshi,0.93,0.9772,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-16T10:53:57+00:00
+2026-11-16T10:54:37+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.04,Kimmer Coppejans,kalshi,0.93,0.9772,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-16T10:53:57+00:00
+2026-11-16T10:54:47+00:00,alberto v coppejans,True,Carlo Alberto Caniato,polyus,0.05,Kimmer Coppejans,kalshi,0.93,0.9879,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-16T10:53:57+00:00
