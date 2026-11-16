@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 16, 7:40AM MT
+# Consensus paper tracker — Mon Nov 16, 8:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -54,25 +54,25 @@ Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Ro
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
 
-## Roster health (last 7 days, checked 2026-11-15)
+## Roster health (last 7 days, checked 2026-11-16)
 
 | Trader | Bets/day | Active days | Both-sides % | Share of agreements | Avg stake | Top sports |
 |---|---|---|---|---|---|---|
-| monkeymashingkeyboard | 15.1 | 8 | 2% | 26% of 131 | $15,192 | nba,nfl,wta |
-| purplegatto | 13.0 | 8 | 12% | 24% of 131 | $7,022 | nba,nfl,cfb |
-| jakepaulthegoat2008 | 10.0 | 6 | 4% | 30% of 131 | $94,232 | nba,cs2,lol |
-| 0xb4F978BE | 9.7 | 7 | 10% | 12% of 131 | $7,759 | nba,nfl,cfb |
-| bands1 | 7.4 | 8 | 1% | 2% of 131 | $13,282 | cfb,nfl,nba |
-| fantasy7788 | 6.6 | 7 | 2% | 5% of 131 | $44,673 | cs2,lol,nba |
-| drainedandpoor | 6.9 | 8 | 0% | 16% of 131 | $13,544 | cs2,nba |
-| 999585 | 4.9 | 8 | 5% | 6% of 131 | $137,680 | cfb,nfl,wta |
-| 0x9f15613e | 14.3 | 8 | 3% | 13% of 131 | $7,589 | nba,nfl,unl |
-| ic4cream | 5.1 | 8 | 4% | 8% of 131 | $4,031 | nfl,nba,cbb |
-| BreakTheBank | 6.1 | 4 | 3% | 32% of 131 | $106,594 | lol,nfl,ufc |
-| ch27er | 8.1 | 8 | 2% | 7% of 131 | $7,342 | nba,atp,sea |
-| ianf2026 | 6.0 | 4 | 5% | 12% of 131 | $4,364 | nba |
-| JoeyAroyyOO | 6.6 | 8 | 0% | 7% of 131 | $9,056 | nba |
-| Kyn008 | 3.1 | 7 | 0% | 3% of 131 | $20,866 | unl,ere,es2 |
+| monkeymashingkeyboard | 14.3 | 8 | 3% | 24% of 134 | $15,178 | nba,nfl,wta |
+| purplegatto | 12.0 | 8 | 12% | 23% of 134 | $7,810 | nba,nfl,cfb |
+| jakepaulthegoat2008 | 11.9 | 7 | 1% | 32% of 134 | $81,747 | nba,cs2,lol |
+| 0xb4F978BE | 8.3 | 8 | 9% | 13% of 134 | $7,642 | nba,nfl,cfb |
+| bands1 | 6.9 | 7 | 1% | 4% of 134 | $14,972 | cfb,nfl,nba |
+| fantasy7788 | 6.6 | 6 | 2% | 7% of 134 | $34,417 | cs2,lol,nba |
+| drainedandpoor | 6.7 | 7 | 0% | 15% of 134 | $13,553 | cs2,nba |
+| 999585 | 5.0 | 8 | 5% | 6% of 134 | $142,442 | cfb,nfl,wta |
+| 0x9f15613e | 15.9 | 8 | 3% | 18% of 134 | $8,258 | nfl,nba,unl |
+| ic4cream | 4.9 | 7 | 4% | 10% of 134 | $5,080 | nfl,cbb,nba |
+| BreakTheBank | 6.1 | 2 | 0% | 31% of 134 | $170,873 | nfl,ufc,nba |
+| ch27er | 9.3 | 8 | 0% | 8% of 134 | $5,022 | nba,atp,unl |
+| ianf2026 | 5.6 | 4 | 2% | 11% of 134 | $4,600 | nba |
+| JoeyAroyyOO | 7.7 | 8 | 0% | 4% of 134 | $8,654 | nba |
+| Kyn008 | 2.7 | 7 | 0% | 2% of 134 | $22,367 | unl,es2,nor |
 
 ## Open signals
 
