@@ -263,3 +263,74 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T21:08:26+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.95,Keshav Chopra,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-16T21:08:16+00:00
 2026-11-16T21:08:36+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.79,Juan Pablo Varillas,polyus,0.16,0.971,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-16T21:08:36+00:00
 2026-11-16T21:08:46+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.79,Juan Pablo Varillas,polyus,0.16,0.971,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-16T21:08:36+00:00
+2026-11-16T21:08:56+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.79,Juan Pablo Varillas,polyus,0.16,0.971,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-16T21:08:36+00:00
+2026-11-16T21:09:26+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.54,Tristan Boyer,kalshi,0.42,0.9943,0.0,0.0,0.0,0.0,,0.47,,0.0,True,2026-11-16T21:09:26+00:00
+2026-11-16T21:09:46+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.84,Noah Zamora,kalshi,0.13,0.9873,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-16T21:09:46+00:00
+2026-11-16T21:10:06+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.88,Noah Zamora,polyus,0.08,0.9725,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T21:10:06+00:00
+2026-11-16T21:10:06+00:00,chopra v hussey,True,Giles Hussey,polyus,0.94,Keshav Chopra,kalshi,0.03,0.976,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-16T21:10:06+00:00
+2026-11-16T21:10:16+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.88,Noah Zamora,polyus,0.08,0.9725,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T21:10:06+00:00
+2026-11-16T21:10:16+00:00,chopra v hussey,True,Giles Hussey,polyus,0.94,Keshav Chopra,kalshi,0.03,0.976,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-16T21:10:06+00:00
+2026-11-16T21:10:36+00:00,chopra v hussey,True,Giles Hussey,polyus,0.92,Keshav Chopra,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.09,,0.0,True,2026-11-16T21:10:36+00:00
+2026-11-16T21:10:46+00:00,chopra v hussey,True,Giles Hussey,polyus,0.84,Keshav Chopra,kalshi,0.07,0.9239,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T21:10:36+00:00
+2026-11-16T21:10:56+00:00,chopra v hussey,True,Giles Hussey,polyus,0.84,Keshav Chopra,kalshi,0.08,0.9345,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T21:10:36+00:00
+2026-11-16T21:10:56+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.93,Noah Zamora,polyus,0.04,0.9772,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-16T21:10:56+00:00
+2026-11-16T21:11:06+00:00,chopra v hussey,True,Giles Hussey,polyus,0.84,Keshav Chopra,kalshi,0.08,0.9345,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T21:10:36+00:00
+2026-11-16T21:11:06+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.93,Noah Zamora,polyus,0.04,0.9772,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-16T21:10:56+00:00
+2026-11-16T21:11:16+00:00,chopra v hussey,True,Giles Hussey,polyus,0.8,Keshav Chopra,kalshi,0.08,0.8963,0.0,0.0,0.0,0.0,,0.2,,0.0,True,2026-11-16T21:10:36+00:00
+2026-11-16T21:11:16+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.93,Noah Zamora,polyus,0.04,0.9772,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-16T21:10:56+00:00
+2026-11-16T21:11:36+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.87,Thiago Cigarran,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-16T21:11:36+00:00
+2026-11-16T21:11:46+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.93,Noah Zamora,kalshi,0.04,0.9772,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-16T21:11:46+00:00
+2026-11-16T21:11:46+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.87,Thiago Cigarran,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-16T21:11:36+00:00
+2026-11-16T21:11:56+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.8,Keshav Chopra,polyus,0.08,0.8963,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T21:11:56+00:00
+2026-11-16T21:11:56+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.93,Noah Zamora,kalshi,0.04,0.9772,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-16T21:11:46+00:00
+2026-11-16T21:11:56+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.87,Thiago Cigarran,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-16T21:11:36+00:00
+2026-11-16T21:12:06+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.84,Keshav Chopra,polyus,0.08,0.9345,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T21:11:56+00:00
+2026-11-16T21:12:16+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.84,Keshav Chopra,polyus,0.08,0.9345,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T21:11:56+00:00
+2026-11-16T21:12:16+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.84,Thiago Cigarran,kalshi,0.14,0.9978,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-16T21:12:16+00:00
+2026-11-16T21:12:26+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.93,Noah Zamora,polyus,0.03,0.9666,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-16T21:12:26+00:00
+2026-11-16T21:12:26+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.84,Keshav Chopra,polyus,0.12,0.9767,0.0,0.0,0.0,0.0,0.91,,,0.0,True,2026-11-16T21:11:56+00:00
+2026-11-16T21:12:26+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.84,Thiago Cigarran,kalshi,0.14,0.9978,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-16T21:12:16+00:00
+2026-11-16T21:12:36+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.84,Juan Pablo Varillas,kalshi,0.14,0.9978,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T21:12:36+00:00
+2026-11-16T21:12:46+00:00,chopra v hussey,True,Giles Hussey,polyus,0.83,Keshav Chopra,kalshi,0.08,0.925,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T21:12:46+00:00
+2026-11-16T21:12:46+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.84,Juan Pablo Varillas,kalshi,0.14,0.9978,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-16T21:12:36+00:00
+2026-11-16T21:12:56+00:00,chopra v hussey,True,Giles Hussey,polyus,0.83,Keshav Chopra,kalshi,0.08,0.925,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T21:12:46+00:00
+2026-11-16T21:12:56+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.94,Noah Zamora,kalshi,0.03,0.976,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-16T21:12:56+00:00
+2026-11-16T21:12:56+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.84,Juan Pablo Varillas,kalshi,0.14,0.9978,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-16T21:12:36+00:00
+2026-11-16T21:13:16+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.84,Keshav Chopra,polyus,0.08,0.9345,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T21:13:16+00:00
+2026-11-16T21:13:26+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.84,Keshav Chopra,polyus,0.08,0.9345,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T21:13:16+00:00
+2026-11-16T21:13:36+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.84,Noah Zamora,kalshi,0.08,0.9345,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T21:13:36+00:00
+2026-11-16T21:13:46+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.84,Noah Zamora,kalshi,0.08,0.9345,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T21:13:36+00:00
+2026-11-16T21:13:56+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.84,Noah Zamora,kalshi,0.08,0.9345,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T21:13:36+00:00
+2026-11-16T21:13:56+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.93,Keshav Chopra,polyus,0.03,0.9666,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-16T21:13:56+00:00
+2026-11-16T21:13:56+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.84,Juan Pablo Varillas,polyus,0.13,0.9873,0.0,0.0,0.0,0.0,0.88,,,0.0,True,2026-11-16T21:13:56+00:00
+2026-11-16T21:14:36+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.92,Noah Zamora,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.09,,0.0,True,2026-11-16T21:14:36+00:00
+2026-11-16T21:14:46+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.78,Thiago Cigarran,kalshi,0.17,0.9718,0.0,0.0,0.0,0.0,,0.23,,0.0,True,2026-11-16T21:14:46+00:00
+2026-11-16T21:14:46+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.93,Noah Zamora,polyus,0.04,0.9772,0.0,0.0,0.0,0.0,,,,0.0,True,2026-11-16T21:14:46+00:00
+2026-11-16T21:14:46+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.85,Juan Pablo Varillas,kalshi,0.13,0.9968,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T21:14:46+00:00
+2026-11-16T21:14:56+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.77,Thiago Cigarran,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,,0.24,,0.0,True,2026-11-16T21:14:46+00:00
+2026-11-16T21:15:06+00:00,kennedy v krueger,True,Jack Kennedy,polyus,0.23,Mitchell Krueger,kalshi,0.72,0.9764,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-16T21:15:06+00:00
+2026-11-16T21:15:06+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.77,Thiago Cigarran,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,,0.24,,0.0,True,2026-11-16T21:14:46+00:00
+2026-11-16T21:15:16+00:00,kennedy v krueger,True,Jack Kennedy,polyus,0.23,Mitchell Krueger,kalshi,0.72,0.9764,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-16T21:15:06+00:00
+2026-11-16T21:15:16+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.8,Juan Pablo Varillas,kalshi,0.16,0.9805,0.0,0.0,0.0,0.0,,0.21,,0.0,True,2026-11-16T21:15:16+00:00
+2026-11-16T21:15:26+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.8,Juan Pablo Varillas,kalshi,0.16,0.9805,0.0,0.0,0.0,0.0,,0.21,,0.0,True,2026-11-16T21:15:16+00:00
+2026-11-16T21:15:36+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.79,Juan Pablo Varillas,kalshi,0.16,0.9709,0.0,0.0,0.0,0.0,,0.22,,0.0,True,2026-11-16T21:15:16+00:00
+2026-11-16T21:15:36+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.72,Thiago Cigarran,kalshi,0.25,0.9971,0.0,0.0,0.0,0.0,,0.29,,0.0,True,2026-11-16T21:15:36+00:00
+2026-11-16T21:15:46+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,polyus,0.5,Valeriya Strakhova,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-16T21:15:46+00:00
+2026-11-16T21:15:46+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.72,Thiago Cigarran,kalshi,0.25,0.9971,0.0,0.0,0.0,0.0,,0.29,,0.0,True,2026-11-16T21:15:36+00:00
+2026-11-16T21:15:46+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.82,Juan Pablo Varillas,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,,0.23,,0.0,True,2026-11-16T21:15:16+00:00
+2026-11-16T21:15:56+00:00,cobolli v medvedev,True,Daniil Medvedev,kalshi,0.92,Flavio Cobolli,polyus,0.06,0.9891,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-16T21:15:56+00:00
+2026-11-16T21:15:56+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,polyus,0.5,Valeriya Strakhova,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-16T21:15:46+00:00
+2026-11-16T21:16:16+00:00,cobolli v medvedev,True,Daniil Medvedev,kalshi,0.95,Flavio Cobolli,polyus,0.03,0.9853,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-16T21:16:16+00:00
+2026-11-16T21:16:26+00:00,cobolli v medvedev,True,Daniil Medvedev,kalshi,0.95,Flavio Cobolli,polyus,0.03,0.9853,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-16T21:16:16+00:00
+2026-11-16T21:16:36+00:00,cobolli v medvedev,True,Daniil Medvedev,kalshi,0.95,Flavio Cobolli,polyus,0.03,0.9853,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-16T21:16:16+00:00
+2026-11-16T21:16:46+00:00,cobolli v medvedev,True,Daniil Medvedev,kalshi,0.95,Flavio Cobolli,polyus,0.03,0.9853,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-16T21:16:16+00:00
+2026-11-16T21:17:06+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.69,Thiago Cigarran,kalshi,0.27,0.9887,0.0,0.0,0.0,0.0,,0.31,,0.0,True,2026-11-16T21:17:06+00:00
+2026-11-16T21:17:16+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.69,Thiago Cigarran,kalshi,0.27,0.9887,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-16T21:17:06+00:00
+2026-11-16T21:17:26+00:00,boscardin v cigarran,True,Pedro Boscardin Dias,polyus,0.68,Thiago Cigarran,kalshi,0.27,0.9789,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-16T21:17:06+00:00
+2026-11-16T21:18:26+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.24,Mitchell Krueger,polyus,0.73,0.9965,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-16T21:18:26+00:00
+2026-11-16T21:21:26+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.72,Juan Pablo Varillas,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-16T21:21:26+00:00
+2026-11-16T21:21:56+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.72,Juan Pablo Varillas,kalshi,0.25,0.9971,0.0,0.0,0.0,0.0,,0.29,,0.0,True,2026-11-16T21:21:56+00:00
+2026-11-16T21:23:16+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.75,Juan Pablo Varillas,polyus,0.21,0.9847,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-16T21:23:16+00:00
+2026-11-16T21:23:26+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.75,Juan Pablo Varillas,polyus,0.21,0.9847,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-16T21:23:16+00:00
+2026-11-16T21:23:36+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.75,Juan Pablo Varillas,polyus,0.2,0.9742,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-16T21:23:16+00:00
+2026-11-16T21:23:46+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.75,Juan Pablo Varillas,polyus,0.22,0.9951,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-16T21:23:16+00:00
