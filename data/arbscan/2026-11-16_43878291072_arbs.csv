@@ -1440,3 +1440,117 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T19:00:15+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.47,Leyre Romero Gormaz,kalshi,0.49,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-16T19:00:05+00:00
 2026-11-16T19:00:25+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.47,Leyre Romero Gormaz,kalshi,0.49,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-16T19:00:05+00:00
 2026-11-16T19:00:35+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.47,Leyre Romero Gormaz,kalshi,0.49,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-16T19:00:05+00:00
+2026-11-16T19:00:45+00:00,basilashvili v houkes,True,Max Houkes,polyus,0.05,Nikoloz Basilashvili,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-16T19:00:45+00:00
+2026-11-16T19:00:55+00:00,basilashvili v houkes,True,Max Houkes,polyus,0.05,Nikoloz Basilashvili,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-16T19:00:45+00:00
+2026-11-16T19:01:05+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.47,Leyre Romero Gormaz,polyus,0.49,0.9948,0.0,0.0,0.0,0.0,0.52,,,0.1,True,2026-11-16T19:01:05+00:00
+2026-11-16T19:01:35+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.49,Leyre Romero Gormaz,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.53,,,0.0,True,2026-11-16T19:01:35+00:00
+2026-11-16T19:01:45+00:00,jimenez v monnet,True,Carole Monnet,kalshi,0.84,Victoria Jimenez Kasintseva,polyus,0.14,0.9978,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-16T19:01:45+00:00
+2026-11-16T19:01:55+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.52,Leyre Romero Gormaz,polyus,0.42,0.9744,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-16T19:01:55+00:00
+2026-11-16T19:01:55+00:00,jimenez v monnet,True,Carole Monnet,kalshi,0.84,Victoria Jimenez Kasintseva,polyus,0.14,0.9978,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-16T19:01:45+00:00
+2026-11-16T19:02:05+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.52,Leyre Romero Gormaz,polyus,0.42,0.9744,0.0,0.0,0.0,0.0,0.59,,,0.0,True,2026-11-16T19:01:55+00:00
+2026-11-16T19:02:15+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.75,Ryan Nijboer,polyus,0.2,0.9742,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-16T19:02:15+00:00
+2026-11-16T19:02:15+00:00,jimenez v monnet,True,Carole Monnet,kalshi,0.87,Victoria Jimenez Kasintseva,polyus,0.1,0.9842,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T19:02:15+00:00
+2026-11-16T19:02:25+00:00,jimenez v monnet,True,Carole Monnet,kalshi,0.87,Victoria Jimenez Kasintseva,polyus,0.1,0.9842,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T19:02:15+00:00
+2026-11-16T19:02:25+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.44,Gonzalo Villanueva,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-16T19:02:25+00:00
+2026-11-16T19:02:25+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.77,Ryan Nijboer,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-16T19:02:15+00:00
+2026-11-16T19:02:35+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.58,Leyre Romero Gormaz,polyus,0.36,0.9731,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-16T19:02:35+00:00
+2026-11-16T19:02:35+00:00,jimenez v monnet,True,Carole Monnet,kalshi,0.87,Victoria Jimenez Kasintseva,polyus,0.1,0.9842,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T19:02:15+00:00
+2026-11-16T19:02:35+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.44,Gonzalo Villanueva,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-16T19:02:25+00:00
+2026-11-16T19:02:35+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.77,Ryan Nijboer,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-16T19:02:15+00:00
+2026-11-16T19:02:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.44,Gonzalo Villanueva,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-16T19:02:25+00:00
+2026-11-16T19:02:45+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.77,Ryan Nijboer,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-16T19:02:15+00:00
+2026-11-16T19:02:55+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.81,Ryan Nijboer,polyus,0.12,0.9481,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:02:15+00:00
+2026-11-16T19:03:05+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.81,Ryan Nijboer,polyus,0.12,0.9481,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:02:15+00:00
+2026-11-16T19:03:15+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.81,Ryan Nijboer,polyus,0.12,0.9481,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:02:15+00:00
+2026-11-16T19:03:15+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.63,Elias Ymer,polyus,0.32,0.9814,0.0,0.0,0.0,0.0,0.69,,,0.0,True,2026-11-16T19:03:15+00:00
+2026-11-16T19:03:45+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.66,Elias Ymer,polyus,0.25,0.9387,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-16T19:03:45+00:00
+2026-11-16T19:03:55+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.64,Leyre Romero Gormaz,polyus,0.31,0.981,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-16T19:03:55+00:00
+2026-11-16T19:03:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.44,Gonzalo Villanueva,kalshi,0.51,0.9846,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-16T19:03:55+00:00
+2026-11-16T19:03:55+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.71,Elias Ymer,polyus,0.25,0.9874,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-16T19:03:45+00:00
+2026-11-16T19:04:05+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.64,Leyre Romero Gormaz,polyus,0.31,0.981,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-16T19:03:55+00:00
+2026-11-16T19:04:05+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.44,Gonzalo Villanueva,kalshi,0.51,0.9846,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-16T19:03:55+00:00
+2026-11-16T19:04:05+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.71,Elias Ymer,polyus,0.25,0.9874,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-16T19:03:45+00:00
+2026-11-16T19:04:15+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.42,Gonzalo Villanueva,kalshi,0.51,0.9644,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-16T19:03:55+00:00
+2026-11-16T19:04:15+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.64,Leyre Romero Gormaz,polyus,0.31,0.981,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-16T19:03:55+00:00
+2026-11-16T19:04:15+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.71,Elias Ymer,polyus,0.25,0.9874,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-16T19:03:45+00:00
+2026-11-16T19:04:35+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.36,Gonzalo Villanueva,kalshi,0.58,0.9731,0.0,0.0,0.0,0.0,,0.65,,0.0,True,2026-11-16T19:04:35+00:00
+2026-11-16T19:04:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.36,Gonzalo Villanueva,kalshi,0.58,0.9731,0.0,0.0,0.0,0.0,,0.65,,0.0,True,2026-11-16T19:04:35+00:00
+2026-11-16T19:04:55+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.85,Victoria Jimenez Kasintseva,kalshi,0.13,0.9968,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-16T19:04:55+00:00
+2026-11-16T19:05:05+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.85,Victoria Jimenez Kasintseva,kalshi,0.13,0.9968,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-16T19:04:55+00:00
+2026-11-16T19:05:25+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.32,Gonzalo Villanueva,polyus,0.61,0.9618,0.0,0.0,0.0,0.0,0.4,,,0.0,True,2026-11-16T19:05:25+00:00
+2026-11-16T19:05:25+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.65,Leyre Romero Gormaz,polyus,0.31,0.9908,0.0,0.0,0.0,0.0,0.7,,,0.3,True,2026-11-16T19:05:25+00:00
+2026-11-16T19:05:35+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.65,Leyre Romero Gormaz,polyus,0.31,0.9908,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-16T19:05:25+00:00
+2026-11-16T19:05:35+00:00,jover v llanes,True,Carlos Sanchez Jover,polyus,0.44,Francisco Llanes,kalshi,0.52,0.9946,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-16T19:05:35+00:00
+2026-11-16T19:05:35+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.84,Victoria Jimenez Kasintseva,kalshi,0.14,0.9978,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T19:05:35+00:00
+2026-11-16T19:05:45+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.82,Victoria Jimenez Kasintseva,kalshi,0.14,0.9787,0.0,0.0,0.0,0.0,,0.19,,0.0,True,2026-11-16T19:05:35+00:00
+2026-11-16T19:05:45+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.65,Leyre Romero Gormaz,polyus,0.31,0.9908,0.0,0.0,0.0,0.0,0.7,,,0.1,True,2026-11-16T19:05:25+00:00
+2026-11-16T19:05:45+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.75,Elias Ymer,polyus,0.22,0.9951,0.0,0.0,0.0,0.0,0.79,,,0.0,True,2026-11-16T19:05:45+00:00
+2026-11-16T19:05:55+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.65,Leyre Romero Gormaz,kalshi,0.31,0.9908,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-16T19:05:55+00:00
+2026-11-16T19:05:55+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.75,Elias Ymer,polyus,0.22,0.9951,0.0,0.0,0.0,0.0,0.79,,,0.0,True,2026-11-16T19:05:45+00:00
+2026-11-16T19:06:05+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.65,Leyre Romero Gormaz,kalshi,0.31,0.9908,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-16T19:05:55+00:00
+2026-11-16T19:06:15+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.65,Leyre Romero Gormaz,kalshi,0.31,0.9908,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-16T19:05:55+00:00
+2026-11-16T19:06:25+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.28,Gonzalo Villanueva,kalshi,0.6,0.9108,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T19:06:25+00:00
+2026-11-16T19:06:25+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.65,Leyre Romero Gormaz,polyus,0.3,0.9805,0.0,0.0,0.0,0.0,0.71,,,0.0,True,2026-11-16T19:06:25+00:00
+2026-11-16T19:06:35+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.65,Leyre Romero Gormaz,polyus,0.3,0.9805,0.0,0.0,0.0,0.0,0.71,,,0.0,True,2026-11-16T19:06:25+00:00
+2026-11-16T19:06:45+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.65,Leyre Romero Gormaz,polyus,0.29,0.9702,0.0,0.0,0.0,0.0,0.71,,,0.0,True,2026-11-16T19:06:25+00:00
+2026-11-16T19:07:05+00:00,jover v llanes,True,Carlos Sanchez Jover,kalshi,0.41,Francisco Llanes,polyus,0.54,0.9842,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-16T19:07:05+00:00
+2026-11-16T19:07:15+00:00,jover v llanes,True,Carlos Sanchez Jover,kalshi,0.41,Francisco Llanes,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-16T19:07:05+00:00
+2026-11-16T19:07:15+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.74,Victoria Jimenez Kasintseva,kalshi,0.22,0.9854,0.0,0.0,0.0,0.0,,0.27,,0.0,True,2026-11-16T19:07:15+00:00
+2026-11-16T19:07:25+00:00,jover v llanes,True,Carlos Sanchez Jover,kalshi,0.41,Francisco Llanes,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-16T19:07:05+00:00
+2026-11-16T19:07:25+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.71,Leyre Romero Gormaz,polyus,0.24,0.9771,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-16T19:07:25+00:00
+2026-11-16T19:07:25+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.74,Victoria Jimenez Kasintseva,kalshi,0.22,0.9854,0.0,0.0,0.0,0.0,,0.27,,0.0,True,2026-11-16T19:07:15+00:00
+2026-11-16T19:07:35+00:00,jover v llanes,True,Carlos Sanchez Jover,kalshi,0.41,Francisco Llanes,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.49,,,0.0,True,2026-11-16T19:07:05+00:00
+2026-11-16T19:07:35+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.73,Victoria Jimenez Kasintseva,kalshi,0.22,0.9757,0.0,0.0,0.0,0.0,,0.28,,0.0,True,2026-11-16T19:07:15+00:00
+2026-11-16T19:07:35+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.71,Leyre Romero Gormaz,polyus,0.24,0.9771,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-16T19:07:25+00:00
+2026-11-16T19:07:35+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.76,Keshav Chopra,polyus,0.21,0.9943,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-16T19:07:35+00:00
+2026-11-16T19:07:45+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.76,Keshav Chopra,polyus,0.21,0.9943,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-16T19:07:35+00:00
+2026-11-16T19:08:15+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.83,Elias Ymer,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-16T19:08:15+00:00
+2026-11-16T19:08:45+00:00,basilashvili v houkes,True,Max Houkes,kalshi,0.04,Nikoloz Basilashvili,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.06,,,0.0,True,2026-11-16T19:08:45+00:00
+2026-11-16T19:09:05+00:00,basilashvili v houkes,True,Max Houkes,polyus,0.04,Nikoloz Basilashvili,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-16T19:09:05+00:00
+2026-11-16T19:09:15+00:00,chopra v hussey,True,Giles Hussey,polyus,0.7,Keshav Chopra,kalshi,0.26,0.9881,0.0,0.0,0.0,0.0,,0.31,,0.0,True,2026-11-16T19:09:15+00:00
+2026-11-16T19:09:15+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.25,Gonzalo Villanueva,polyus,0.72,0.9971,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-16T19:09:15+00:00
+2026-11-16T19:09:25+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.78,Leyre Romero Gormaz,polyus,0.18,0.9823,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-16T19:09:25+00:00
+2026-11-16T19:09:25+00:00,chopra v hussey,True,Giles Hussey,polyus,0.7,Keshav Chopra,kalshi,0.26,0.9881,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-16T19:09:15+00:00
+2026-11-16T19:09:35+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.78,Leyre Romero Gormaz,polyus,0.18,0.9823,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-16T19:09:25+00:00
+2026-11-16T19:09:35+00:00,chopra v hussey,True,Giles Hussey,polyus,0.7,Keshav Chopra,kalshi,0.26,0.9881,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-16T19:09:15+00:00
+2026-11-16T19:09:35+00:00,basilashvili v houkes,True,Max Houkes,kalshi,0.05,Nikoloz Basilashvili,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.0,True,2026-11-16T19:09:35+00:00
+2026-11-16T19:09:35+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.68,Victoria Jimenez Kasintseva,kalshi,0.29,0.9995,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-16T19:09:35+00:00
+2026-11-16T19:09:45+00:00,chopra v hussey,True,Giles Hussey,polyus,0.68,Keshav Chopra,kalshi,0.26,0.9686,0.0,0.0,0.0,0.0,,0.34,,0.0,True,2026-11-16T19:09:15+00:00
+2026-11-16T19:09:45+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.78,Leyre Romero Gormaz,kalshi,0.18,0.9823,0.0,0.0,0.0,0.0,,0.23,,0.0,True,2026-11-16T19:09:45+00:00
+2026-11-16T19:09:55+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.78,Leyre Romero Gormaz,kalshi,0.18,0.9823,0.0,0.0,0.0,0.0,,0.23,,0.0,True,2026-11-16T19:09:45+00:00
+2026-11-16T19:10:05+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.73,Leyre Romero Gormaz,kalshi,0.18,0.934,0.0,0.0,0.0,0.0,,0.28,,0.0,True,2026-11-16T19:09:45+00:00
+2026-11-16T19:10:15+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.67,Keshav Chopra,polyus,0.27,0.9692,0.0,0.0,0.0,0.0,0.74,,,0.0,True,2026-11-16T19:10:15+00:00
+2026-11-16T19:10:25+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.67,Keshav Chopra,polyus,0.27,0.9692,0.0,0.0,0.0,0.0,0.74,,,0.0,True,2026-11-16T19:10:15+00:00
+2026-11-16T19:10:25+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.25,Gonzalo Villanueva,kalshi,0.71,0.9874,0.0,0.0,0.0,0.0,,0.76,,0.0,True,2026-11-16T19:10:25+00:00
+2026-11-16T19:10:25+00:00,basilashvili v houkes,True,Max Houkes,kalshi,0.05,Nikoloz Basilashvili,polyus,0.93,0.9878,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-16T19:10:25+00:00
+2026-11-16T19:10:45+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.68,Leyre Romero Gormaz,kalshi,0.28,0.9892,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-16T19:10:45+00:00
+2026-11-16T19:10:55+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.68,Leyre Romero Gormaz,kalshi,0.27,0.9789,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-16T19:10:45+00:00
+2026-11-16T19:10:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.21,Gonzalo Villanueva,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T19:10:55+00:00
+2026-11-16T19:10:55+00:00,basilashvili v houkes,True,Max Houkes,polyus,0.05,Nikoloz Basilashvili,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-16T19:10:55+00:00
+2026-11-16T19:11:05+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.68,Leyre Romero Gormaz,kalshi,0.27,0.9789,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-16T19:10:45+00:00
+2026-11-16T19:11:05+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.73,Keshav Chopra,polyus,0.24,0.9965,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-16T19:11:05+00:00
+2026-11-16T19:11:15+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.68,Leyre Romero Gormaz,kalshi,0.27,0.9789,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-16T19:10:45+00:00
+2026-11-16T19:11:15+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.73,Keshav Chopra,polyus,0.24,0.9965,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-16T19:11:05+00:00
+2026-11-16T19:11:25+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.73,Keshav Chopra,polyus,0.24,0.9965,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-16T19:11:05+00:00
+2026-11-16T19:11:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.16,Gonzalo Villanueva,kalshi,0.81,0.9901,0.0,0.0,0.0,0.0,,0.84,,0.0,True,2026-11-16T19:11:45+00:00
+2026-11-16T19:11:55+00:00,batalla v nijboer,True,Oriol Roca Batalla,polyus,0.83,Ryan Nijboer,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-16T19:11:55+00:00
+2026-11-16T19:12:15+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.12,Gonzalo Villanueva,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-16T19:12:15+00:00
+2026-11-16T19:12:25+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.11,Gonzalo Villanueva,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,,0.91,,0.0,True,2026-11-16T19:12:15+00:00
+2026-11-16T19:12:35+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.1,Gonzalo Villanueva,polyus,0.86,0.9747,0.0,0.0,0.0,0.0,0.15,,,0.0,True,2026-11-16T19:12:35+00:00
+2026-11-16T19:12:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.1,Gonzalo Villanueva,polyus,0.86,0.9747,0.0,0.0,0.0,0.0,0.15,,,0.0,True,2026-11-16T19:12:35+00:00
+2026-11-16T19:12:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.1,Gonzalo Villanueva,polyus,0.86,0.9747,0.0,0.0,0.0,0.0,0.15,,,0.0,True,2026-11-16T19:12:35+00:00
+2026-11-16T19:13:25+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.6,Leyre Romero Gormaz,kalshi,0.35,0.9826,0.0,0.0,0.0,0.0,,0.41,,0.0,True,2026-11-16T19:13:25+00:00
+2026-11-16T19:13:35+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.6,Leyre Romero Gormaz,kalshi,0.35,0.9826,0.0,0.0,0.0,0.0,,0.41,,0.0,True,2026-11-16T19:13:25+00:00
+2026-11-16T19:13:35+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.12,Gonzalo Villanueva,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-16T19:13:35+00:00
+2026-11-16T19:13:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.12,Gonzalo Villanueva,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-16T19:13:35+00:00
+2026-11-16T19:13:45+00:00,batalla v nijboer,True,Oriol Roca Batalla,polyus,0.84,Ryan Nijboer,kalshi,0.14,0.9978,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T19:13:45+00:00
+2026-11-16T19:14:05+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.54,Leyre Romero Gormaz,kalshi,0.41,0.9842,0.0,0.0,0.0,0.0,,0.47,,0.0,True,2026-11-16T19:14:05+00:00
+2026-11-16T19:14:15+00:00,jover v llanes,True,Carlos Sanchez Jover,kalshi,0.6,Francisco Llanes,polyus,0.36,0.9928,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-16T19:14:15+00:00
+2026-11-16T19:14:35+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.09,Gonzalo Villanueva,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-16T19:14:35+00:00
+2026-11-16T19:14:35+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.52,Victoria Jimenez Kasintseva,kalshi,0.44,0.9946,0.0,0.0,0.0,0.0,,0.48,,0.0,True,2026-11-16T19:14:35+00:00
+2026-11-16T19:14:45+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.78,Elias Ymer,polyus,0.18,0.9823,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-16T19:14:45+00:00
+2026-11-16T19:14:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.09,Gonzalo Villanueva,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-16T19:14:35+00:00
+2026-11-16T19:15:35+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.06,Gonzalo Villanueva,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-16T19:15:35+00:00
+2026-11-16T19:15:35+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.84,Elias Ymer,polyus,0.12,0.9767,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:15:35+00:00
+2026-11-16T19:15:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.06,Gonzalo Villanueva,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-16T19:15:35+00:00
+2026-11-16T19:15:45+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.84,Elias Ymer,polyus,0.12,0.9767,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:15:35+00:00
