@@ -1,3 +1,8 @@
 ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
-2026-11-16T09:15:07+00:00,alberto v coppejans,False,Carlo Alberto Caniato,polyus,0.48,Kimmer Coppejans,kalshi,0.47,0.9848,0.0,0,0.0,0.0,,0.53,,0.1,True,2026-11-16T09:15:07+00:00
-2026-11-16T09:15:17+00:00,alberto v coppejans,False,Carlo Alberto Caniato,polyus,0.48,Kimmer Coppejans,kalshi,0.47,0.9848,0.0,0,0.0,0.0,,0.53,,0.1,True,2026-11-16T09:15:07+00:00
+2026-11-16T09:15:07+00:00,alberto v coppejans,False,Carlo Alberto Caniato,polyus,0.48,Kimmer Coppejans,kalshi,0.47,0.9848,0.0,0.0,0.0,0.0,,0.53,,0.1,True,2026-11-16T09:15:07+00:00
+2026-11-16T09:15:17+00:00,alberto v coppejans,False,Carlo Alberto Caniato,polyus,0.48,Kimmer Coppejans,kalshi,0.47,0.9848,0.0,0.0,0.0,0.0,,0.53,,0.1,True,2026-11-16T09:15:07+00:00
+2026-11-16T09:24:47+00:00,alberto v coppejans,False,Carlo Alberto Caniato,polyus,0.5,Kimmer Coppejans,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,,0.51,,0.1,True,2026-11-16T09:24:47+00:00
+2026-11-16T09:24:57+00:00,alberto v coppejans,False,Carlo Alberto Caniato,polyus,0.5,Kimmer Coppejans,kalshi,0.45,0.9847,0.0,0.0,0.0,0.0,,0.51,,0.1,True,2026-11-16T09:24:47+00:00
+2026-11-16T09:25:07+00:00,alberto v coppejans,False,Carlo Alberto Caniato,polyus,0.5,Kimmer Coppejans,kalshi,0.45,0.9847,0.0,0.0,0.0,0.0,,0.51,,0.1,True,2026-11-16T09:24:47+00:00
+2026-11-16T09:25:17+00:00,alberto v coppejans,False,Carlo Alberto Caniato,polyus,0.5,Kimmer Coppejans,kalshi,0.45,0.9847,0.0,0.0,0.0,0.0,,0.51,,0.1,True,2026-11-16T09:24:47+00:00
+2026-11-16T09:30:27+00:00,heck v wells,False,Colson Wells,kalshi,0.16,Hunter Heck,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-16T09:30:27+00:00
