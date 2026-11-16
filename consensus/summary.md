@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 16, 3:40PM MT
+# Consensus paper tracker — Mon Nov 16, 4:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,10 +8,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-1 | +0.36 | 0 |
-| 2 agree | all 15 | 21-16 | +0.81 | 24-22 | -5.02 | 5 |
+| 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-1 | +0.36 | 2 |
+| 2 agree | all 15 | 21-16 | +0.81 | 24-22 | -5.02 | 4 |
 | 2+ agree, 1+ against (split) | all 15 | 25-14 | +10.54 | 21-18 | -3.19 | 0 |
-| 3+ agree (paper play) | core 10 only | 4-2 | +2.72 | 1-0 | +0.12 | 0 |
+| 3+ agree (paper play) | core 10 only | 4-2 | +2.72 | 1-0 | +0.12 | 1 |
 | 2 agree | core 10 only | 10-7 | +1.69 | 12-9 | -0.75 | 5 |
 | 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 8-8 | -1.90 | 0 |
 
@@ -81,5 +81,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+15.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 55.0c |
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+16.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 52.5c |
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
-| new | 2026-11-16 | NBA | 76ers vs. Nets | 76ers (Moneyline) | 2 agree, 0 against | pre-game | purplegatto; jakepaulthegoat2008 | — | 66.5c |
-| new | 2026-11-16 | NBA | Rockets vs. Heat | Heat (Moneyline) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; ic4cream | — | 44.5c |
+| new | 2026-11-16 | NBA | 76ers vs. Nets | 76ers (Moneyline) | 3 agree, 0 against | pre-game | purplegatto; jakepaulthegoat2008; 0xb4F978BE | — | 66.5c |
+| new | 2026-11-16 | NBA | Rockets vs. Heat | Heat (Moneyline) | 3 agree, 0 against | pre-game | jakepaulthegoat2008; ic4cream; JoeyAroyyOO | — | 43.5c |
+| new | 2026-11-16 | NBA | Grizzlies vs. Wizards | Grizzlies (-3.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; jakepaulthegoat2008 | — | 51.5c |
