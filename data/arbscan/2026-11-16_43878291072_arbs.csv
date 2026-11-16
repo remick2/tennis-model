@@ -185,3 +185,66 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T15:27:41+00:00,george v jonge,True,Benjamin Thomas George,polyus,0.21,Daniel de Jonge,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T15:27:31+00:00
 2026-11-16T15:27:51+00:00,ivashka v samuel,True,Ilya Ivashka,kalshi,0.3,Toby Samuel,polyus,0.66,0.9903,0.0,0.0,0.0,0.0,0.34,,,0.0,True,2026-11-16T15:26:51+00:00
 2026-11-16T15:27:51+00:00,george v jonge,True,Benjamin Thomas George,polyus,0.21,Daniel de Jonge,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T15:27:31+00:00
+2026-11-16T15:28:11+00:00,blanchet v ghibaudo,True,Antoine Ghibaudo,polyus,0.5,Ugo Blanchet,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-16T15:28:11+00:00
+2026-11-16T15:28:21+00:00,blanchet v ghibaudo,True,Antoine Ghibaudo,polyus,0.5,Ugo Blanchet,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,,0.52,,0.0,True,2026-11-16T15:28:11+00:00
+2026-11-16T15:30:01+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.46,Shintaro Mochizuki,kalshi,0.5,0.9948,0.0,0.0,0.0,0.0,,0.55,,0.0,True,2026-11-16T15:30:01+00:00
+2026-11-16T15:30:11+00:00,blanchet v ghibaudo,True,Antoine Ghibaudo,polyus,0.52,Ugo Blanchet,kalshi,0.44,0.9946,0.0,0.0,0.0,0.0,,0.48,,0.0,True,2026-11-16T15:30:11+00:00
+2026-11-16T15:30:11+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.46,Shintaro Mochizuki,kalshi,0.5,0.9948,0.0,0.0,0.0,0.0,,0.55,,0.1,True,2026-11-16T15:30:01+00:00
+2026-11-16T15:30:31+00:00,blanchet v ghibaudo,True,Antoine Ghibaudo,kalshi,0.53,Ugo Blanchet,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-16T15:30:31+00:00
+2026-11-16T15:30:41+00:00,blanchet v ghibaudo,True,Antoine Ghibaudo,kalshi,0.53,Ugo Blanchet,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-16T15:30:31+00:00
+2026-11-16T15:30:51+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.4,Shintaro Mochizuki,kalshi,0.56,0.9939,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-16T15:30:51+00:00
+2026-11-16T15:31:01+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.4,Shintaro Mochizuki,kalshi,0.56,0.9939,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-16T15:30:51+00:00
+2026-11-16T15:31:11+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.4,Shintaro Mochizuki,kalshi,0.56,0.9939,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-16T15:30:51+00:00
+2026-11-16T15:31:31+00:00,scott v zolotareva,True,Anastasia Zolotareva,polyus,0.96,Katrina Scott,kalshi,0.02,0.984,0.0,0.0,0.0,0.0,,0.05,,0.0,True,2026-11-16T15:31:31+00:00
+2026-11-16T15:31:31+00:00,cherubini v masarova,True,Diletta Cherubini,kalshi,0.06,Rebeka Masarova,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.07,,,0.0,True,2026-11-16T15:31:31+00:00
+2026-11-16T15:32:11+00:00,scott v zolotareva,True,Anastasia Zolotareva,polyus,0.95,Katrina Scott,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.0,True,2026-11-16T15:32:11+00:00
+2026-11-16T15:32:21+00:00,scott v zolotareva,True,Anastasia Zolotareva,polyus,0.95,Katrina Scott,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.0,True,2026-11-16T15:32:11+00:00
+2026-11-16T15:32:31+00:00,scott v zolotareva,True,Anastasia Zolotareva,polyus,0.93,Katrina Scott,kalshi,0.04,0.9772,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-16T15:32:11+00:00
+2026-11-16T15:32:41+00:00,scott v zolotareva,True,Anastasia Zolotareva,polyus,0.93,Katrina Scott,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-16T15:32:11+00:00
+2026-11-16T15:32:51+00:00,scott v zolotareva,True,Anastasia Zolotareva,polyus,0.93,Katrina Scott,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-16T15:32:11+00:00
+2026-11-16T15:33:01+00:00,scott v zolotareva,True,Anastasia Zolotareva,polyus,0.93,Katrina Scott,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-16T15:32:11+00:00
+2026-11-16T15:33:11+00:00,scott v zolotareva,True,Anastasia Zolotareva,polyus,0.93,Katrina Scott,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-16T15:32:11+00:00
+2026-11-16T15:33:41+00:00,ivashka v samuel,True,Ilya Ivashka,kalshi,0.43,Toby Samuel,polyus,0.53,0.9945,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-16T15:33:41+00:00
+2026-11-16T15:33:51+00:00,ivashka v samuel,True,Ilya Ivashka,kalshi,0.43,Toby Samuel,polyus,0.52,0.9845,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-16T15:33:41+00:00
+2026-11-16T15:34:01+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.43,Toby Samuel,kalshi,0.52,0.9845,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-16T15:34:01+00:00
+2026-11-16T15:34:11+00:00,blanchet v ghibaudo,True,Antoine Ghibaudo,kalshi,0.59,Ugo Blanchet,polyus,0.36,0.9829,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-16T15:34:11+00:00
+2026-11-16T15:34:11+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.43,Toby Samuel,kalshi,0.52,0.9845,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-16T15:34:01+00:00
+2026-11-16T15:34:11+00:00,scott v zolotareva,True,Anastasia Zolotareva,kalshi,0.93,Katrina Scott,polyus,0.05,0.9879,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-16T15:34:11+00:00
+2026-11-16T15:34:21+00:00,blanchet v ghibaudo,True,Antoine Ghibaudo,kalshi,0.59,Ugo Blanchet,polyus,0.36,0.9829,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-16T15:34:11+00:00
+2026-11-16T15:34:21+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.43,Toby Samuel,kalshi,0.52,0.9845,0.0,0.0,0.0,0.0,,0.58,,0.0,True,2026-11-16T15:34:01+00:00
+2026-11-16T15:34:31+00:00,scott v zolotareva,True,Anastasia Zolotareva,kalshi,0.96,Katrina Scott,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-16T15:34:31+00:00
+2026-11-16T15:34:41+00:00,blanchet v ghibaudo,True,Antoine Ghibaudo,kalshi,0.65,Ugo Blanchet,polyus,0.24,0.9186,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-16T15:34:41+00:00
+2026-11-16T15:34:41+00:00,ivashka v samuel,True,Ilya Ivashka,kalshi,0.43,Toby Samuel,polyus,0.52,0.9845,0.0,0.0,0.0,0.0,0.49,,,0.0,True,2026-11-16T15:34:41+00:00
+2026-11-16T15:34:41+00:00,scott v zolotareva,True,Anastasia Zolotareva,kalshi,0.96,Katrina Scott,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-16T15:34:31+00:00
+2026-11-16T15:34:51+00:00,blanchet v ghibaudo,True,Antoine Ghibaudo,kalshi,0.65,Ugo Blanchet,polyus,0.23,0.9082,0.0,0.0,0.0,0.0,0.78,,,0.0,True,2026-11-16T15:34:41+00:00
+2026-11-16T15:34:51+00:00,ivashka v samuel,True,Ilya Ivashka,kalshi,0.43,Toby Samuel,polyus,0.52,0.9845,0.0,0.0,0.0,0.0,0.49,,,0.0,True,2026-11-16T15:34:41+00:00
+2026-11-16T15:35:11+00:00,george v jonge,True,Benjamin Thomas George,polyus,0.18,Daniel de Jonge,kalshi,0.78,0.9823,0.0,0.0,0.0,0.0,,0.83,,0.0,True,2026-11-16T15:35:11+00:00
+2026-11-16T15:35:21+00:00,george v jonge,True,Benjamin Thomas George,polyus,0.18,Daniel de Jonge,kalshi,0.78,0.9823,0.0,0.0,0.0,0.0,,0.83,,0.0,True,2026-11-16T15:35:11+00:00
+2026-11-16T15:35:31+00:00,george v jonge,True,Benjamin Thomas George,polyus,0.18,Daniel de Jonge,kalshi,0.78,0.9823,0.0,0.0,0.0,0.0,,0.83,,0.0,True,2026-11-16T15:35:11+00:00
+2026-11-16T15:35:41+00:00,george v jonge,True,Benjamin Thomas George,polyus,0.18,Daniel de Jonge,kalshi,0.78,0.9823,0.0,0.0,0.0,0.0,,0.83,,0.0,True,2026-11-16T15:35:11+00:00
+2026-11-16T15:35:51+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.4,Toby Samuel,kalshi,0.56,0.9939,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-16T15:35:51+00:00
+2026-11-16T15:36:01+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.4,Toby Samuel,kalshi,0.56,0.9939,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-16T15:35:51+00:00
+2026-11-16T15:36:51+00:00,montes v sharipov,True,Inaki Montes-de la Torre,kalshi,0.61,Marat Sharipov,polyus,0.34,0.9822,0.0,0.0,0.0,0.0,0.67,,,0.0,True,2026-11-16T15:36:51+00:00
+2026-11-16T15:37:01+00:00,montes v sharipov,True,Inaki Montes-de la Torre,kalshi,0.61,Marat Sharipov,polyus,0.34,0.9822,0.0,0.0,0.0,0.0,0.67,,,0.0,True,2026-11-16T15:36:51+00:00
+2026-11-16T15:37:01+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.41,Shintaro Mochizuki,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-16T15:37:01+00:00
+2026-11-16T15:37:11+00:00,montes v sharipov,True,Inaki Montes-de la Torre,kalshi,0.61,Marat Sharipov,polyus,0.34,0.9822,0.0,0.0,0.0,0.0,0.67,,,0.0,True,2026-11-16T15:36:51+00:00
+2026-11-16T15:37:11+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.41,Shintaro Mochizuki,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-16T15:37:01+00:00
+2026-11-16T15:38:01+00:00,cherubini v masarova,True,Diletta Cherubini,kalshi,0.06,Rebeka Masarova,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-16T15:38:01+00:00
+2026-11-16T15:38:11+00:00,cherubini v masarova,True,Diletta Cherubini,kalshi,0.06,Rebeka Masarova,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-16T15:38:01+00:00
+2026-11-16T15:38:31+00:00,banerjee v roh,True,Hoyoung Roh,polyus,0.31,Samir Banerjee,kalshi,0.63,0.9712,0.0,0.0,0.0,0.0,,0.7,,0.0,True,2026-11-16T15:38:31+00:00
+2026-11-16T15:38:41+00:00,banerjee v roh,True,Hoyoung Roh,polyus,0.31,Samir Banerjee,kalshi,0.63,0.9712,0.0,0.0,0.0,0.0,,0.7,,0.0,True,2026-11-16T15:38:31+00:00
+2026-11-16T15:38:51+00:00,banerjee v roh,True,Hoyoung Roh,polyus,0.31,Samir Banerjee,kalshi,0.63,0.9712,0.0,0.0,0.0,0.0,,0.7,,0.0,True,2026-11-16T15:38:31+00:00
+2026-11-16T15:39:21+00:00,ivashka v samuel,True,Ilya Ivashka,kalshi,0.37,Toby Samuel,polyus,0.59,0.9931,0.0,0.0,0.0,0.0,0.42,,,0.0,True,2026-11-16T15:39:21+00:00
+2026-11-16T15:40:31+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.26,Shintaro Mochizuki,kalshi,0.69,0.9783,0.0,0.0,0.0,0.0,,0.75,,0.0,True,2026-11-16T15:40:31+00:00
+2026-11-16T15:40:41+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.26,Shintaro Mochizuki,kalshi,0.69,0.9783,0.0,0.0,0.0,0.0,,0.75,,0.0,True,2026-11-16T15:40:31+00:00
+2026-11-16T15:40:51+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.26,Shintaro Mochizuki,kalshi,0.71,0.9978,0.0,0.0,0.0,0.0,,0.76,,0.0,True,2026-11-16T15:40:31+00:00
+2026-11-16T15:41:01+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.25,Shintaro Mochizuki,kalshi,0.71,0.9874,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-16T15:40:31+00:00
+2026-11-16T15:41:11+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.25,Shintaro Mochizuki,kalshi,0.71,0.9874,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-16T15:40:31+00:00
+2026-11-16T15:42:01+00:00,ivashka v samuel,True,Ilya Ivashka,kalshi,0.45,Toby Samuel,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-16T15:42:01+00:00
+2026-11-16T15:42:11+00:00,ivashka v samuel,True,Ilya Ivashka,kalshi,0.45,Toby Samuel,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-16T15:42:01+00:00
+2026-11-16T15:42:21+00:00,cherubini v masarova,True,Diletta Cherubini,kalshi,0.11,Rebeka Masarova,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-16T15:42:21+00:00
+2026-11-16T15:42:31+00:00,cherubini v masarova,True,Diletta Cherubini,kalshi,0.11,Rebeka Masarova,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-16T15:42:21+00:00
+2026-11-16T15:42:41+00:00,cherubini v masarova,True,Diletta Cherubini,kalshi,0.11,Rebeka Masarova,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-16T15:42:21+00:00
+2026-11-16T15:42:51+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.43,Toby Samuel,kalshi,0.51,0.9745,0.0,0.0,0.0,0.0,,0.58,,0.0,True,2026-11-16T15:42:51+00:00
+2026-11-16T15:42:51+00:00,cherubini v masarova,True,Diletta Cherubini,polyus,0.11,Rebeka Masarova,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-16T15:42:51+00:00
+2026-11-16T15:43:01+00:00,cherubini v masarova,True,Diletta Cherubini,polyus,0.11,Rebeka Masarova,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-16T15:42:51+00:00
