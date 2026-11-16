@@ -1,4 +1,4 @@
-# Arb test status (Mon Nov 16 1:53AM MT)
+# Arb test status (Mon Nov 16 2:01AM MT)
 
 Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (5/10 occasions, 2/5 days). Test ends Nov 22 00:00 UTC. Live trading is off and stays off.
 
@@ -13,9 +13,9 @@ Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (5/10 occasions, 2/5
 | Paper bot: fires still fillable 1s later | 21% | - |
 | Polymarket US reads refused as stale | 0.0% (oldest 1s) | < 5% |
 
-Coverage: 814 candidate checks (list prices showed an arb), 17 got no Polymarket US book; 0 rate-limit hits; 109 failed list refreshes in 62,400 cycles; list vs book disagreed on 163 of 797 checks.
+Coverage: 814 candidate checks (list prices showed an arb), 17 got no Polymarket US book; 0 rate-limit hits; 109 failed list refreshes in 62,640 cycles; list vs book disagreed on 163 of 797 checks.
 
-Bot coverage: 2,080 minutes watched. Cycles (2s each) where some pair cost under $1: **6,056**. Best a single fire would have netted: **$14.92**.
+Bot coverage: 2,088 minutes watched. Cycles (2s each) where some pair cost under $1: **6,056**. Best a single fire would have netted: **$14.92**.
 
 ## Maker test (rest a bid on one venue, hedge on the other if it fills)
 
