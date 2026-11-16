@@ -264,3 +264,7 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T13:15:00+00:00,gobat v grenier,True,kalshi:KXATPCHALLENGERMATCH-26NOV16GOBGRE-GOB:yes,0.36,138,False,0.0135,2.0,unwound,polyus:aec-atp-adrgob-huggre-2026-11-16:1,0.67,-6.26,-4.93,-4.93,True
 2026-11-16T13:15:24+00:00,agwi v mikrut,True,kalshi:KXATPCHALLENGERMATCH-26NOV16MIKAGW-AGW:yes,0.2,250,True,0.0081,2.3,hedged,polyus:aec-atp-lukmik-micagw-2026-11-16:0,0.8,-2.78,-5.19,-2.78,True
 2026-11-16T13:16:46+00:00,gobat v grenier,True,kalshi:KXATPCHALLENGERMATCH-26NOV16GOBGRE-GOB:yes,0.2,250,False,0.0081,2.0,hedged,polyus:aec-atp-adrgob-huggre-2026-11-16:1,0.8,-2.78,-5.19,-2.78,True
+2026-11-16T13:22:37+00:00,gobat v grenier,True,kalshi:KXATPCHALLENGERMATCH-26NOV16GOBGRE-GOB:yes,0.2,250,False,0.0081,2.0,hedged,polyus:aec-atp-adrgob-huggre-2026-11-16:1,0.82,-7.56,-7.58,-7.56,True
+2026-11-16T13:23:41+00:00,gobat v grenier,True,kalshi:KXATPCHALLENGERMATCH-26NOV16GOBGRE-GRE:yes,0.81,61,False,0.0102,2.0,hedged,polyus:aec-atp-adrgob-huggre-2026-11-16:0,0.2,-1.29,-1.29,-1.29,True
+2026-11-16T13:26:51+00:00,gobat v grenier,True,kalshi:KXATPCHALLENGERMATCH-26NOV16GOBGRE-GOB:yes,0.15,333,False,0.0102,2.0,hedged,polyus:aec-atp-adrgob-huggre-2026-11-16:1,0.83,3.39,-6.14,3.39,True
+2026-11-16T13:32:07+00:00,gobat v grenier,True,kalshi:KXATPCHALLENGERMATCH-26NOV16GOBGRE-GRE:yes,0.71,70,False,0.0063,2.0,hedged,polyus:aec-atp-adrgob-huggre-2026-11-16:0,0.31,-2.44,-2.45,-2.44,True
