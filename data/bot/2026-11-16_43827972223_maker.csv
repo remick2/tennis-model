@@ -9,3 +9,5 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T09:28:05+00:00,dominko v viiala,False,polyus:aec-atp-sebdom-zacvii-2026-11-16:0,0.81,61,False,0.0101,29.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV16DOMVII-VII:yes,0.2,-1.29,-1.92,-1.29,True
 2026-11-16T09:30:44+00:00,heck v wells,False,kalshi:KXATPCHALLENGERMATCH-26NOV16HECWEL-HEC:yes,0.82,60,False,0.0107,84.0,hedged,polyus:aec-atp-hunhec-colwel-2026-11-16:1,0.19,-1.24,-1.82,-1.24,True
 2026-11-16T09:30:44+00:00,heck v wells,False,polyus:aec-atp-hunhec-colwel-2026-11-16:0,0.82,60,False,0.0106,84.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV16HECWEL-WEL:yes,0.19,-1.15,-1.24,-1.15,True
+2026-11-16T09:33:47+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.57,87,False,0.0133,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.44,-2.36,-2.37,-2.36,True
+2026-11-16T09:35:13+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.52,96,False,0.0128,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.45,1.23,-2.64,1.23,True
