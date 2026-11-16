@@ -11,3 +11,11 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T09:30:44+00:00,heck v wells,False,polyus:aec-atp-hunhec-colwel-2026-11-16:0,0.82,60,False,0.0106,84.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV16HECWEL-WEL:yes,0.19,-1.15,-1.24,-1.15,True
 2026-11-16T09:33:47+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.57,87,False,0.0133,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.44,-2.36,-2.37,-2.36,True
 2026-11-16T09:35:13+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.52,96,False,0.0128,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.45,1.23,-2.64,1.23,True
+2026-11-16T09:48:42+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-CAN:yes,0.38,131,False,0.0132,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:0,0.63,-3.43,-3.45,-3.43,True
+2026-11-16T09:49:36+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.65,76,False,0.0149,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.36,-1.98,-1.99,-1.98,True
+2026-11-16T09:50:00+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-CAN:yes,0.32,156,False,0.0142,2.1,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:0,0.72,-8.43,-8.44,-8.43,True
+2026-11-16T09:52:16+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-CAN:yes,0.18,277,False,0.0089,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:0,0.82,-2.84,-5.51,-2.84,True
+2026-11-16T09:52:16+00:00,alberto v coppejans,True,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.19,263,False,0.0084,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.83,-7.8,-5.33,-5.33,True
+2026-11-16T09:54:07+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.71,70,True,0.0063,3.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.31,-2.44,-3.16,-2.44,True
+2026-11-16T09:54:54+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-CAN:yes,0.2,250,False,0.0081,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:0,0.81,-5.17,-5.19,-5.17,True
+2026-11-16T09:55:28+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-CAN:yes,0.17,294,False,0.0093,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:0,0.84,-5.69,-5.71,-5.69,True
