@@ -1,0 +1,36 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-16T03:21:20+00:00,heredia v viiala,True,Samuel Heredia,polyus,0.09,Zachary Viiala,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-16T03:21:20+00:00
+2026-11-16T03:21:30+00:00,heredia v viiala,True,Samuel Heredia,polyus,0.09,Zachary Viiala,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-16T03:21:20+00:00
+2026-11-16T03:24:00+00:00,fancutt v moriya,True,Hiroki Moriya,kalshi,0.86,Thomas Fancutt,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T03:24:00+00:00
+2026-11-16T03:24:00+00:00,heredia v viiala,True,Samuel Heredia,polyus,0.06,Zachary Viiala,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-16T03:24:00+00:00
+2026-11-16T03:24:30+00:00,fancutt v moriya,True,Hiroki Moriya,kalshi,0.89,Thomas Fancutt,polyus,0.07,0.9714,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-16T03:24:30+00:00
+2026-11-16T03:24:40+00:00,fancutt v moriya,True,Hiroki Moriya,kalshi,0.89,Thomas Fancutt,polyus,0.07,0.9714,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-16T03:24:30+00:00
+2026-11-16T03:24:50+00:00,fancutt v moriya,True,Hiroki Moriya,kalshi,0.89,Thomas Fancutt,polyus,0.07,0.9714,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-16T03:24:30+00:00
+2026-11-16T03:24:50+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,polyus,0.15,Takuya Kumasaka,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.85,,0.0,True,2026-11-16T03:24:50+00:00
+2026-11-16T03:27:20+00:00,fancutt v moriya,True,Hiroki Moriya,polyus,0.93,Thomas Fancutt,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-16T03:27:20+00:00
+2026-11-16T03:27:40+00:00,fancutt v moriya,True,Hiroki Moriya,kalshi,0.93,Thomas Fancutt,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-16T03:27:40+00:00
+2026-11-16T03:27:50+00:00,fancutt v moriya,True,Hiroki Moriya,kalshi,0.93,Thomas Fancutt,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-16T03:27:40+00:00
+2026-11-16T03:28:00+00:00,fancutt v moriya,True,Hiroki Moriya,kalshi,0.93,Thomas Fancutt,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-16T03:27:40+00:00
+2026-11-16T03:28:20+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,polyus,0.09,Takuya Kumasaka,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.91,,0.0,True,2026-11-16T03:28:20+00:00
+2026-11-16T03:28:30+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,polyus,0.09,Takuya Kumasaka,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.91,,0.0,True,2026-11-16T03:28:20+00:00
+2026-11-16T03:28:40+00:00,heredia v viiala,True,Samuel Heredia,kalshi,0.09,Zachary Viiala,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-16T03:28:40+00:00
+2026-11-16T03:28:50+00:00,heredia v viiala,True,Samuel Heredia,kalshi,0.09,Zachary Viiala,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-16T03:28:40+00:00
+2026-11-16T03:29:00+00:00,heredia v viiala,True,Samuel Heredia,kalshi,0.09,Zachary Viiala,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-16T03:28:40+00:00
+2026-11-16T03:29:10+00:00,heredia v viiala,True,Samuel Heredia,polyus,0.09,Zachary Viiala,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-16T03:29:10+00:00
+2026-11-16T03:29:20+00:00,heredia v viiala,True,Samuel Heredia,polyus,0.09,Zachary Viiala,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-16T03:29:10+00:00
+2026-11-16T03:29:30+00:00,heredia v viiala,True,Samuel Heredia,polyus,0.09,Zachary Viiala,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-16T03:29:10+00:00
+2026-11-16T03:29:40+00:00,heredia v viiala,True,Samuel Heredia,polyus,0.07,Zachary Viiala,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-16T03:29:10+00:00
+2026-11-16T03:29:50+00:00,heredia v viiala,True,Samuel Heredia,polyus,0.07,Zachary Viiala,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-16T03:29:10+00:00
+2026-11-16T03:30:00+00:00,heredia v viiala,True,Samuel Heredia,polyus,0.07,Zachary Viiala,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-16T03:29:10+00:00
+2026-11-16T03:30:50+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,kalshi,0.1,Takuya Kumasaka,polyus,0.87,0.9842,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-16T03:30:50+00:00
+2026-11-16T03:31:00+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,kalshi,0.1,Takuya Kumasaka,polyus,0.87,0.9842,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-16T03:30:50+00:00
+2026-11-16T03:31:10+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,kalshi,0.1,Takuya Kumasaka,polyus,0.87,0.9842,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-16T03:30:50+00:00
+2026-11-16T03:31:50+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,polyus,0.09,Takuya Kumasaka,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-16T03:31:50+00:00
+2026-11-16T03:32:10+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,polyus,0.05,Takuya Kumasaka,kalshi,0.9,0.9596,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-16T03:32:10+00:00
+2026-11-16T03:32:20+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,polyus,0.05,Takuya Kumasaka,kalshi,0.9,0.9596,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-16T03:32:10+00:00
+2026-11-16T03:33:00+00:00,fancutt v moriya,True,Hiroki Moriya,kalshi,0.95,Thomas Fancutt,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-16T03:33:00+00:00
+2026-11-16T03:34:30+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,polyus,0.03,Takuya Kumasaka,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-16T03:34:30+00:00
+2026-11-16T03:34:40+00:00,bittoun v kumasaka,True,Constantin Bittoun Kouzmine,polyus,0.03,Takuya Kumasaka,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-16T03:34:30+00:00
+2026-11-16T03:35:40+00:00,heredia v viiala,True,Samuel Heredia,kalshi,0.02,Zachary Viiala,polyus,0.97,0.9934,0.0,0.0,0.0,0.0,0.04,,,0.0,True,2026-11-16T03:35:40+00:00
+2026-11-16T03:35:50+00:00,heredia v viiala,True,Samuel Heredia,kalshi,0.02,Zachary Viiala,polyus,0.97,0.9934,0.0,0.0,0.0,0.0,0.04,,,0.0,True,2026-11-16T03:35:40+00:00
+2026-11-16T03:35:50+00:00,imamura v takahashi,True,Masamichi Imamura,polyus,0.58,Yusuke Takahashi,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,,0.44,,0.0,True,2026-11-16T03:35:50+00:00
