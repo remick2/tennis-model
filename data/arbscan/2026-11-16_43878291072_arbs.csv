@@ -1769,3 +1769,37 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T19:58:35+00:00,jover v llanes,True,Carlos Sanchez Jover,kalshi,0.97,Francisco Llanes,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-16T19:57:55+00:00
 2026-11-16T19:58:45+00:00,dominko v viiala,True,Sebastian Dominko,polyus,0.56,Zachary Viiala,kalshi,0.39,0.9838,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-16T19:58:45+00:00
 2026-11-16T19:58:45+00:00,jover v llanes,True,Carlos Sanchez Jover,kalshi,0.97,Francisco Llanes,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-16T19:57:55+00:00
+2026-11-16T20:02:45+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.61,Keshav Chopra,polyus,0.35,0.9925,0.0,0.0,0.0,0.0,0.66,,,0.0,True,2026-11-16T20:02:45+00:00
+2026-11-16T20:05:45+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.36,Noah Zamora,kalshi,0.6,0.9928,0.0,0.0,0.0,0.0,,0.64,,0.0,True,2026-11-16T20:05:45+00:00
+2026-11-16T20:06:05+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.31,Noah Zamora,kalshi,0.6,0.9417,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-16T20:06:05+00:00
+2026-11-16T20:06:15+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.31,Noah Zamora,kalshi,0.65,0.9908,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-16T20:06:05+00:00
+2026-11-16T20:06:35+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.31,Noah Zamora,kalshi,0.65,0.9908,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-16T20:06:35+00:00
+2026-11-16T20:06:45+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.24,Noah Zamora,kalshi,0.71,0.9771,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-16T20:06:35+00:00
+2026-11-16T20:06:55+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.24,Noah Zamora,kalshi,0.71,0.9771,0.0,0.0,0.0,0.0,,0.75,,0.0,True,2026-11-16T20:06:35+00:00
+2026-11-16T20:06:55+00:00,dominko v viiala,True,Sebastian Dominko,kalshi,0.39,Zachary Viiala,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-16T20:06:55+00:00
+2026-11-16T20:07:05+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.25,Noah Zamora,kalshi,0.71,0.9874,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-16T20:06:35+00:00
+2026-11-16T20:07:05+00:00,dominko v viiala,True,Sebastian Dominko,kalshi,0.39,Zachary Viiala,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-16T20:06:55+00:00
+2026-11-16T20:07:15+00:00,dedura v prizmic,True,Diego Dedura,kalshi,0.06,Dino Prizmic,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-16T20:07:15+00:00
+2026-11-16T20:07:25+00:00,dedura v prizmic,True,Diego Dedura,kalshi,0.06,Dino Prizmic,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-16T20:07:15+00:00
+2026-11-16T20:07:35+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.2,Noah Zamora,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T20:07:35+00:00
+2026-11-16T20:09:05+00:00,dominko v viiala,True,Sebastian Dominko,kalshi,0.49,Zachary Viiala,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.0,True,2026-11-16T20:09:05+00:00
+2026-11-16T20:09:15+00:00,dominko v viiala,True,Sebastian Dominko,kalshi,0.49,Zachary Viiala,polyus,0.46,0.9848,0.0,0.0,0.0,0.0,0.55,,,0.0,True,2026-11-16T20:09:05+00:00
+2026-11-16T20:09:35+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.29,Juan Pablo Varillas,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T20:09:35+00:00
+2026-11-16T20:09:45+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.29,Juan Pablo Varillas,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T20:09:35+00:00
+2026-11-16T20:09:45+00:00,dedura v prizmic,True,Diego Dedura-Palomero,polyus,0.07,Dino Prizmic,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.93,,0.0,True,2026-11-16T20:09:45+00:00
+2026-11-16T20:10:15+00:00,cobolli v medvedev,True,Daniil Medvedev,kalshi,0.8,Flavio Cobolli,polyus,0.17,0.991,0.0,0.0,0.0,0.0,0.84,,,0.0,True,2026-11-16T20:10:15+00:00
+2026-11-16T20:11:25+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.27,Noah Zamora,polyus,0.68,0.9789,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-16T20:11:25+00:00
+2026-11-16T20:11:35+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.27,Noah Zamora,polyus,0.68,0.9789,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-16T20:11:25+00:00
+2026-11-16T20:11:35+00:00,cobolli v medvedev,True,Daniil Medvedev,polyus,0.83,Flavio Cobolli,kalshi,0.14,0.9882,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T20:11:35+00:00
+2026-11-16T20:11:45+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.33,Noah Zamora,polyus,0.6,0.9622,0.0,0.0,0.0,0.0,0.41,,,0.0,True,2026-11-16T20:11:25+00:00
+2026-11-16T20:11:45+00:00,cobolli v medvedev,True,Daniil Medvedev,polyus,0.83,Flavio Cobolli,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-16T20:11:35+00:00
+2026-11-16T20:11:55+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.33,Noah Zamora,polyus,0.6,0.9622,0.0,0.0,0.0,0.0,0.41,,,0.0,True,2026-11-16T20:11:25+00:00
+2026-11-16T20:11:55+00:00,chopra v hussey,True,Giles Hussey,polyus,0.6,Keshav Chopra,kalshi,0.36,0.9928,0.0,0.0,0.0,0.0,,0.41,,0.0,True,2026-11-16T20:11:55+00:00
+2026-11-16T20:11:55+00:00,cobolli v medvedev,True,Daniil Medvedev,polyus,0.83,Flavio Cobolli,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-16T20:11:35+00:00
+2026-11-16T20:12:05+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.33,Noah Zamora,polyus,0.6,0.9622,0.0,0.0,0.0,0.0,0.41,,,0.0,True,2026-11-16T20:11:25+00:00
+2026-11-16T20:12:05+00:00,cobolli v medvedev,True,Daniil Medvedev,polyus,0.81,Flavio Cobolli,kalshi,0.15,0.9796,0.0,0.0,0.0,0.0,,0.2,,0.0,True,2026-11-16T20:11:35+00:00
+2026-11-16T20:12:05+00:00,chopra v hussey,True,Giles Hussey,polyus,0.6,Keshav Chopra,kalshi,0.36,0.9928,0.0,0.0,0.0,0.0,,0.41,,0.0,True,2026-11-16T20:11:55+00:00
+2026-11-16T20:13:05+00:00,chopra v hussey,True,Giles Hussey,polyus,0.53,Keshav Chopra,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,,0.48,,0.0,True,2026-11-16T20:13:05+00:00
+2026-11-16T20:14:35+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.58,Keshav Chopra,polyus,0.38,0.9934,0.0,0.0,0.0,0.0,0.63,,,0.0,True,2026-11-16T20:14:35+00:00
+2026-11-16T20:14:45+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.58,Keshav Chopra,polyus,0.38,0.9934,0.0,0.0,0.0,0.0,0.63,,,0.0,True,2026-11-16T20:14:35+00:00
+2026-11-16T20:16:25+00:00,dominko v viiala,True,Sebastian Dominko,kalshi,0.44,Zachary Viiala,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.49,,,0.0,True,2026-11-16T20:16:25+00:00
