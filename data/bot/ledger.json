@@ -1,27 +1,13 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 181.57,
-  "polyus": 478.46
+  "kalshi": 386.51,
+  "polyus": 386.51
  },
- "open": [
-  {
-   "id": "0b5d601d1cff",
-   "key": "kennedy v krueger",
-   "opened": "2026-11-16T22:01:40+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV16KENKRU-KRU",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 113.0,
-    "kalshi": 113.0
-   },
-   "cost": 109.42,
-   "expected": 3.58
-  }
- ],
- "settled_pnl": 102.66,
+ "open": [],
+ "settled_pnl": 106.24,
  "unwind_pnl": -33.22,
  "fires": 31,
- "settled": 23,
- "rebalances": 4
+ "settled": 24,
+ "rebalances": 5
 }
