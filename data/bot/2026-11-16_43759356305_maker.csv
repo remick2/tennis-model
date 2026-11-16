@@ -315,3 +315,12 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T03:10:24+00:00,heredia v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VIIHER-HER:yes,0.38,131,False,0.0132,2.0,hedged,polyus:aec-atp-zacvii-samher-2026-11-15:0,0.71,-13.66,-13.68,-13.66,True
 2026-11-16T03:11:26+00:00,heredia v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VIIHER-VII:yes,0.61,81,False,0.014,2.1,hedged,polyus:aec-atp-zacvii-samher-2026-11-15:1,0.43,-4.62,-4.63,-4.62,True
 2026-11-16T03:11:26+00:00,heredia v viiala,True,polyus:aec-atp-zacvii-samher-2026-11-15:0,0.61,81,False,0.0139,2.1,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV15VIIHER-HER:yes,0.43,-4.35,-4.62,-4.35,True
+2026-11-16T03:13:08+00:00,bittoun v kumasaka,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BITKUM-KUM:yes,0.82,60,False,0.0107,1.5,hedged,polyus:aec-atp-conkou-takkum-2026-11-15:0,0.16,0.64,-1.25,0.64,True
+2026-11-16T03:13:18+00:00,heredia v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VIIHER-HER:yes,0.34,147,False,0.0138,2.0,hedged,polyus:aec-atp-zacvii-samher-2026-11-15:0,0.59,7.82,-5.18,7.82,True
+2026-11-16T03:14:22+00:00,heredia v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VIIHER-HER:yes,0.34,147,True,0.0236,2.0,hedged,polyus:aec-atp-zacvii-samher-2026-11-15:0,0.73,-12.3,-12.32,-12.3,True
+2026-11-16T03:15:14+00:00,heredia v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VIIHER-HER:yes,0.27,185,False,0.0057,2.0,hedged,polyus:aec-atp-zacvii-samher-2026-11-15:0,0.75,-6.11,-6.13,-6.11,True
+2026-11-16T03:15:44+00:00,bittoun v kumasaka,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BITKUM-BIT:yes,0.18,277,False,0.0089,2.0,hedged,polyus:aec-atp-conkou-takkum-2026-11-15:1,0.83,-5.49,-5.51,-5.49,True
+2026-11-16T03:16:16+00:00,bittoun v kumasaka,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BITKUM-BIT:yes,0.15,333,False,0.0102,2.0,hedged,polyus:aec-atp-conkou-takkum-2026-11-15:1,0.86,-6.12,-6.14,-6.12,True
+2026-11-16T03:17:04+00:00,heredia v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VIIHER-HER:yes,0.24,208,True,0.0066,2.0,hedged,polyus:aec-atp-zacvii-samher-2026-11-15:0,0.79,-8.64,-8.66,-8.64,True
+2026-11-16T03:19:04+00:00,heredia v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VIIHER-HER:yes,0.14,357,True,0.0107,2.3,hedged,polyus:aec-atp-zacvii-samher-2026-11-15:0,0.87,-6.38,-9.78,-6.38,True
+2026-11-16T03:19:48+00:00,heredia v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VIIHER-VII:yes,0.92,54,True,0.0055,2.0,hedged,polyus:aec-atp-zacvii-samher-2026-11-15:1,0.08,-0.28,-0.85,-0.28,True
