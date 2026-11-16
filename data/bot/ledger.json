@@ -2,26 +2,12 @@
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
   "kalshi": 214.81,
-  "polyus": 392.24
+  "polyus": 571.24
  },
- "open": [
-  {
-   "id": "05cb0ea07e7c",
-   "key": "dominko v viiala",
-   "opened": "2026-11-16T20:27:28+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV16DOMVII-DOM",
-   "kalshi_side": "yes",
-   "shares": {
-    "kalshi": 179.0,
-    "polyus": 179.0
-   },
-   "cost": 177.96,
-   "expected": 1.04
-  }
- ],
- "settled_pnl": 101.62,
+ "open": [],
+ "settled_pnl": 102.66,
  "unwind_pnl": -16.62,
- "fires": 27,
- "settled": 22,
+ "fires": 28,
+ "settled": 23,
  "rebalances": 4
 }
