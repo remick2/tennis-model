@@ -589,3 +589,64 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T22:24:16+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.72,Mitchell Krueger,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-16T22:24:06+00:00
 2026-11-16T22:24:26+00:00,bigun v krall,True,Kaylan Bigun,polyus,0.93,Liam Krall,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-16T22:24:26+00:00
 2026-11-16T22:24:36+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.87,Juan Pablo Varillas,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T22:24:36+00:00
+2026-11-16T22:24:46+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.87,Juan Pablo Varillas,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T22:24:36+00:00
+2026-11-16T22:24:56+00:00,bigun v krall,True,Kaylan Bigun,polyus,0.92,Liam Krall,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.09,,0.0,True,2026-11-16T22:24:56+00:00
+2026-11-16T22:25:06+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.87,Juan Pablo Varillas,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-16T22:25:06+00:00
+2026-11-16T22:25:16+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.87,Juan Pablo Varillas,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-16T22:25:06+00:00
+2026-11-16T22:25:26+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.86,Juan Pablo Varillas,kalshi,0.11,0.9852,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-16T22:25:06+00:00
+2026-11-16T22:25:26+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.25,Valeriya Strakhova,polyus,0.72,0.9971,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-16T22:25:26+00:00
+2026-11-16T22:25:36+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.25,Valeriya Strakhova,polyus,0.72,0.9971,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-16T22:25:26+00:00
+2026-11-16T22:25:46+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.83,Juan Pablo Varillas,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-16T22:25:46+00:00
+2026-11-16T22:25:56+00:00,bueno v pablo,True,Gonzalo Bueno,polyus,0.83,Juan Pablo Varillas,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-16T22:25:46+00:00
+2026-11-16T22:26:06+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.29,Valeriya Strakhova,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-16T22:26:06+00:00
+2026-11-16T22:27:16+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.83,Juan Pablo Varillas,polyus,0.11,0.9567,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T22:27:16+00:00
+2026-11-16T22:27:26+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.83,Juan Pablo Varillas,polyus,0.11,0.9567,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T22:27:16+00:00
+2026-11-16T22:27:46+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.79,Mitchell Krueger,polyus,0.17,0.9814,0.0,0.0,0.0,0.0,0.84,,,0.0,True,2026-11-16T22:27:46+00:00
+2026-11-16T22:27:56+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.82,Mitchell Krueger,polyus,0.16,0.9997,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-16T22:27:46+00:00
+2026-11-16T22:28:06+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.82,Juan Pablo Varillas,polyus,0.1,0.9366,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T22:28:06+00:00
+2026-11-16T22:28:06+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.82,Mitchell Krueger,polyus,0.16,0.9997,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-16T22:27:46+00:00
+2026-11-16T22:28:16+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.82,Juan Pablo Varillas,polyus,0.11,0.9471,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T22:28:06+00:00
+2026-11-16T22:28:26+00:00,dietrich v nesterov,True,Dylan Dietrich,polyus,0.95,Pyotr Nesterov,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.05,,0.0,True,2026-11-16T22:28:26+00:00
+2026-11-16T22:28:26+00:00,kennedy v krueger,True,Jack Kennedy,polyus,0.82,Mitchell Krueger,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,,0.19,,0.0,True,2026-11-16T22:28:26+00:00
+2026-11-16T22:28:36+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.9,Juan Pablo Varillas,polyus,0.04,0.949,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-16T22:28:36+00:00
+2026-11-16T22:28:36+00:00,dietrich v nesterov,True,Dylan Dietrich,polyus,0.95,Pyotr Nesterov,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.05,,0.0,True,2026-11-16T22:28:26+00:00
+2026-11-16T22:28:36+00:00,kennedy v krueger,True,Jack Kennedy,polyus,0.82,Mitchell Krueger,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,,0.19,,0.0,True,2026-11-16T22:28:26+00:00
+2026-11-16T22:28:46+00:00,bueno v pablo,True,Gonzalo Bueno,kalshi,0.9,Juan Pablo Varillas,polyus,0.05,0.9596,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-16T22:28:36+00:00
+2026-11-16T22:28:46+00:00,dietrich v nesterov,True,Dylan Dietrich,polyus,0.95,Pyotr Nesterov,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.0,True,2026-11-16T22:28:26+00:00
+2026-11-16T22:28:46+00:00,kennedy v krueger,True,Jack Kennedy,polyus,0.82,Mitchell Krueger,kalshi,0.16,0.9997,0.0,0.0,0.0,0.0,,0.2,,0.0,True,2026-11-16T22:28:26+00:00
+2026-11-16T22:28:56+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.82,Mitchell Krueger,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-16T22:28:56+00:00
+2026-11-16T22:29:06+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.82,Mitchell Krueger,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-16T22:28:56+00:00
+2026-11-16T22:29:16+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.82,Mitchell Krueger,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-16T22:28:56+00:00
+2026-11-16T22:29:36+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.86,Mitchell Krueger,polyus,0.08,0.9535,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T22:29:36+00:00
+2026-11-16T22:29:46+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.86,Mitchell Krueger,polyus,0.08,0.9535,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T22:29:36+00:00
+2026-11-16T22:30:36+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.93,Mitchell Krueger,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-16T22:30:36+00:00
+2026-11-16T22:30:46+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.93,Mitchell Krueger,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-16T22:30:36+00:00
+2026-11-16T22:30:56+00:00,dietrich v nesterov,True,Dylan Dietrich,kalshi,0.95,Petr Nesterov,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-16T22:30:56+00:00
+2026-11-16T22:31:16+00:00,dietrich v nesterov,True,Dylan Dietrich,polyus,0.95,Pyotr Nesterov,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.05,,0.0,True,2026-11-16T22:31:16+00:00
+2026-11-16T22:31:26+00:00,dietrich v nesterov,True,Dylan Dietrich,polyus,0.95,Pyotr Nesterov,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.05,,0.0,True,2026-11-16T22:31:16+00:00
+2026-11-16T22:31:56+00:00,kennedy v krueger,True,Jack Kennedy,kalshi,0.94,Mitchell Krueger,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-16T22:31:56+00:00
+2026-11-16T22:32:06+00:00,dietrich v nesterov,True,Dylan Dietrich,polyus,0.94,Pyotr Nesterov,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-16T22:32:06+00:00
+2026-11-16T22:32:16+00:00,dietrich v nesterov,True,Dylan Dietrich,polyus,0.94,Pyotr Nesterov,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-16T22:32:06+00:00
+2026-11-16T22:32:26+00:00,dietrich v nesterov,True,Dylan Dietrich,polyus,0.94,Pyotr Nesterov,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-16T22:32:06+00:00
+2026-11-16T22:34:46+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,polyus,0.29,Valeriya Strakhova,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T22:34:46+00:00
+2026-11-16T22:34:56+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,polyus,0.29,Valeriya Strakhova,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T22:34:46+00:00
+2026-11-16T22:36:36+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.29,Valeriya Strakhova,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-16T22:36:36+00:00
+2026-11-16T22:36:46+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.29,Valeriya Strakhova,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-16T22:36:36+00:00
+2026-11-16T22:37:16+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.33,Valeriya Strakhova,polyus,0.63,0.9917,0.0,0.0,0.0,0.0,0.38,,,0.0,True,2026-11-16T22:37:16+00:00
+2026-11-16T22:37:46+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.35,Valeriya Strakhova,polyus,0.57,0.953,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-16T22:37:46+00:00
+2026-11-16T22:37:46+00:00,bigun v krall,True,Kaylan Bigun,kalshi,0.92,Liam Krall,polyus,0.06,0.9891,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-16T22:37:46+00:00
+2026-11-16T22:37:56+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.39,Valeriya Strakhova,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-16T22:37:46+00:00
+2026-11-16T22:38:06+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.39,Valeriya Strakhova,polyus,0.56,0.9838,0.0,0.0,0.0,0.0,0.45,,,0.0,True,2026-11-16T22:37:46+00:00
+2026-11-16T22:38:16+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.39,Valeriya Strakhova,polyus,0.56,0.9838,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-16T22:37:46+00:00
+2026-11-16T22:38:56+00:00,bigun v krall,True,Kaylan Bigun,polyus,0.92,Liam Krall,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.09,,0.0,True,2026-11-16T22:38:56+00:00
+2026-11-16T22:39:06+00:00,bigun v krall,True,Kaylan Bigun,polyus,0.92,Liam Krall,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.09,,0.0,True,2026-11-16T22:38:56+00:00
+2026-11-16T22:39:16+00:00,kennedy v krueger,True,Jack Kennedy,polyus,0.93,Mitchell Krueger,kalshi,0.05,0.9878,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-16T22:39:16+00:00
+2026-11-16T22:39:16+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.42,Valeriya Strakhova,polyus,0.54,0.9943,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-16T22:39:16+00:00
+2026-11-16T22:39:16+00:00,bigun v krall,True,Kaylan Bigun,polyus,0.92,Liam Krall,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.09,,0.0,True,2026-11-16T22:38:56+00:00
+2026-11-16T22:39:26+00:00,strakhova v tikhonova,True,Anastasia Tikhonova,kalshi,0.42,Valeriya Strakhova,polyus,0.53,0.9844,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-16T22:39:16+00:00
+2026-11-16T22:39:26+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.56,Tristan Boyer,kalshi,0.4,0.9939,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-16T22:39:26+00:00
+2026-11-16T22:39:36+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.56,Tristan Boyer,kalshi,0.4,0.9939,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-16T22:39:26+00:00
+2026-11-16T22:39:36+00:00,bigun v krall,True,Kaylan Bigun,kalshi,0.92,Liam Krall,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-16T22:39:36+00:00
+2026-11-16T22:39:46+00:00,kennedy v krueger,True,Jack Kennedy,polyus,0.9,Mitchell Krueger,kalshi,0.08,0.9914,0.0,0.0,0.0,0.0,,0.11,,0.0,True,2026-11-16T22:39:46+00:00
+2026-11-16T22:39:46+00:00,boyer v dellien,True,Hugo Dellien,polyus,0.56,Tristan Boyer,kalshi,0.4,0.9939,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-16T22:39:26+00:00
+2026-11-16T22:39:46+00:00,bigun v krall,True,Kaylan Bigun,kalshi,0.92,Liam Krall,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-16T22:39:36+00:00
