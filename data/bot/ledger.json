@@ -1,13 +1,27 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 223.61,
-  "polyus": 568.79
+  "kalshi": 193.26,
+  "polyus": 552.03
  },
- "open": [],
+ "open": [
+  {
+   "id": "264cf030d8d7",
+   "key": "jones v marterer",
+   "opened": "2026-11-16T02:13:38+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15MARJON-MAR",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 50.0,
+    "kalshi": 50.0
+   },
+   "cost": 47.11,
+   "expected": 2.89
+  }
+ ],
  "settled_pnl": 98.73,
  "unwind_pnl": -6.34,
- "fires": 23,
+ "fires": 24,
  "settled": 21,
  "rebalances": 4
 }
