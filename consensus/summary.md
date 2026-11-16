@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 15, 7:40PM MT
+# Consensus paper tracker — Sun Nov 15, 8:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-1 | +0.36 | 0 |
-| 2 agree | all 15 | 21-14 | +2.81 | 24-19 | -2.02 | 8 |
-| 2+ agree, 1+ against (split) | all 15 | 25-13 | +11.54 | 21-17 | -2.19 | 1 |
+| 2 agree | all 15 | 21-16 | +0.81 | 24-21 | -4.02 | 4 |
+| 2+ agree, 1+ against (split) | all 15 | 25-14 | +10.54 | 21-17 | -2.19 | 0 |
 | 3+ agree (paper play) | core 10 only | 4-2 | +2.72 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 10-7 | +1.69 | 12-8 | +0.25 | 4 |
+| 2 agree | core 10 only | 10-7 | +1.69 | 12-9 | -0.75 | 3 |
 | 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 8-7 | -0.90 | 0 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 7 of 30 graded plays · net +2.89u · 5 wins vs 3.9 expected, z = +0.90 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
@@ -22,8 +22,8 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Graded | Wins vs expected | Units at logged price | Units after spread + fees | Price move by game time |
 |---|---|---|---|---|---|
 | 3+ agree (paper play) | 7 | 5 vs 3.8 (+1.2) | +3.13 | +2.89 | +2.07c avg (7) |
-| 2 agree | 35 | 21 vs 18.7 (+2.3) | +2.81 | +1.76 | +0.01c avg (35) |
-| 2+ agree, 1+ against (split) | 38 | 25 vs 19.2 (+5.8) | +11.54 | +10.17 | +0.50c avg (38) |
+| 2 agree | 37 | 21 vs 19.6 (+1.4) | +0.81 | -0.29 | -0.01c avg (37) |
+| 2+ agree, 1+ against (split) | 39 | 25 vs 19.7 (+5.3) | +10.54 | +9.16 | +0.49c avg (39) |
 
 Units after spread + fees = paying the ask (or logged price + 0.5c when the ask wasn't recorded) plus Polymarket's taker fee (rate x (1 - price) of the stake, about 2.5% at 50c). Price move = closing price minus logged price; sharp signals should see the price move their way before the game.
 
@@ -34,8 +34,8 @@ Units after spread + fees = paying the ask (or logged price + 0.5c when the ask 
 | 3+ agree (paper play) | Underdog (<45c) | 1-0 | +2.17 | 1 | 0.3 | +0.7 |
 | 3+ agree (paper play) | Coin flip (45-65c) | 3-2 | +0.69 | 3 | 2.7 | +0.3 |
 | 3+ agree (paper play) | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
-| 2 agree | Underdog (<45c) | 2-5 | -1.87 | 2 | 2.4 | -0.4 |
-| 2 agree | Coin flip (45-65c) | 14-8 | +4.10 | 14 | 11.8 | +2.2 |
+| 2 agree | Underdog (<45c) | 2-6 | -2.87 | 2 | 2.8 | -0.8 |
+| 2 agree | Coin flip (45-65c) | 14-9 | +3.10 | 14 | 12.3 | +1.7 |
 | 2 agree | Favorite (65-80c) | 3-1 | +0.18 | 3 | 2.9 | +0.1 |
 | 2 agree | Heavy favorite (80c+) | 2-0 | +0.40 | 2 | 1.7 | +0.3 |
 
@@ -81,9 +81,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+15.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 55.0c |
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+16.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 52.5c |
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
-| new | 2026-11-15 | NFL | Steelers vs. Bengals | Steelers (+3.5) (Spread) | 2 agree, 1 against | pre-game | bands1; BreakTheBank | monkeymashingkeyboard | 47.5c |
-| new | 2026-11-15 | NBA | Hawks vs. Bucks | Hawks (-8.5) (Spread) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; ianf2026 | — | 51.5c |
-| new | 2026-11-15 | NFL | Steelers vs. Bengals | Steelers (Moneyline) | 2 agree, 0 against | pre-game | bands1; BreakTheBank | — | 34.5c |
-| new | 2026-11-15 | NFL | Steelers vs. Bengals | Steelers (+4.5) (Spread) | 2 agree, 0 against | in-play | purplegatto; BreakTheBank | — | 45.5c |
 | new | 2026-11-15 | NFL | Steelers vs. Bengals | Under 48.5 (Total) | 2 agree, 0 against | in-play | 0x9f15613e; BreakTheBank | — | 54.5c |
-| new | 2026-11-15 | NFL | Steelers vs. Bengals | Steelers (+10.5) (Spread) | 2 agree, 0 against | in-play | 0xb4F978BE; 0x9f15613e | — | 40.5c |
