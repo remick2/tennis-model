@@ -75,3 +75,11 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T10:43:39+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.83,60,False,0.0111,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.18,-1.22,-1.22,-1.22,True
 2026-11-16T10:43:45+00:00,donald v hemery,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HEMDON-DON:yes,0.26,192,True,0.006,2.0,hedged,polyus:aec-atp-calhem-matdon-2026-11-16:0,0.75,-4.42,-4.44,-4.42,True
 2026-11-16T10:44:13+00:00,donald v hemery,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HEMDON-DON:yes,0.23,217,True,0.007,2.3,hedged,polyus:aec-atp-calhem-matdon-2026-11-16:0,0.75,1.51,-6.86,1.51,True
+2026-11-16T10:48:44+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.84,59,False,0.0116,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.18,-1.79,-1.79,-1.79,True
+2026-11-16T10:49:54+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-CAN:yes,0.13,384,False,0.0111,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:0,0.89,-10.29,-10.31,-10.29,True
+2026-11-16T10:51:46+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-CAN:yes,0.07,714,True,0.0143,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:0,0.95,-16.64,-16.65,-16.64,True
+2026-11-16T10:52:50+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.93,53,False,0.0061,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.11,-2.48,-2.48,-2.48,True
+2026-11-16T10:53:22+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-COP:yes,0.87,57,False,0.0132,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:1,0.16,-2.24,-2.25,-2.24,True
+2026-11-16T10:53:52+00:00,alberto v coppejans,True,kalshi:KXATPCHALLENGERMATCH-26NOV16COPCAN-CAN:yes,0.13,384,True,0.0111,2.0,hedged,polyus:aec-atp-kimcop-carcan-2026-11-16:0,0.93,-24.78,-24.79,-24.78,True
+2026-11-16T11:00:14+00:00,donald v hemery,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HEMDON-DON:yes,0.07,714,True,0.0143,2.3,hedged,polyus:aec-atp-calhem-matdon-2026-11-16:0,0.94,-9.94,-15.24,-9.94,True
+2026-11-16T11:00:34+00:00,donald v hemery,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HEMDON-HEM:yes,0.92,54,False,0.0055,2.0,hedged,polyus:aec-atp-calhem-matdon-2026-11-16:1,0.08,-0.28,-0.85,-0.28,True
