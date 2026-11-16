@@ -296,3 +296,12 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T02:38:45+00:00,palan v zhu,True,polyus:aec-atp-evazhu-dompal-2026-11-15:1,0.09,555,False,0.0131,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15ZHUPAL-ZHU:yes,0.92,-8.41,-8.39,-8.39,True
 2026-11-16T02:40:57+00:00,palan v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15ZHUPAL-PAL:yes,0.05,1000,False,0.0061,1.9,hedged,polyus:aec-atp-evazhu-dompal-2026-11-15:0,0.96,-12.67,-12.69,-12.67,True
 2026-11-16T02:40:57+00:00,palan v zhu,True,polyus:aec-atp-evazhu-dompal-2026-11-15:1,0.05,1000,False,0.0061,1.9,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV15ZHUPAL-ZHU:yes,0.95,-3.33,-12.67,-3.33,True
+2026-11-16T02:41:53+00:00,palan v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15ZHUPAL-ZHU:yes,0.94,53,False,0.0067,2.0,hedged,polyus:aec-atp-evazhu-dompal-2026-11-15:1,0.07,-0.77,-0.77,-0.77,True
+2026-11-16T02:41:53+00:00,palan v zhu,True,polyus:aec-atp-evazhu-dompal-2026-11-15:0,0.94,53,False,0.0067,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15ZHUPAL-ZHU:no,0.07,-0.77,-0.77,-0.77,True
+2026-11-16T02:42:35+00:00,palan v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15ZHUPAL-PAL:yes,0.04,1250,True,0.0067,2.0,hedged,polyus:aec-atp-evazhu-dompal-2026-11-15:0,0.95,8.37,-26.71,8.37,True
+2026-11-16T02:42:47+00:00,matsuda v watanabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MATWAT-MAT:yes,0.93,53,True,0.0061,2.0,hedged,polyus:aec-atp-kokmat-kanwat-2026-11-15:1,0.07,-0.24,-0.8,-0.24,True
+2026-11-16T02:44:03+00:00,broady v honda,True,kalshi:KXATPCHALLENGERMATCH-26NOV15HONBRO-HON:yes,0.09,555,False,0.0132,2.0,hedged,polyus:aec-atp-naohon-liabro-2026-11-15:1,0.89,7.32,-8.41,7.32,True
+2026-11-16T02:52:17+00:00,matsuda v watanabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MATWAT-WAT:yes,0.1,500,True,0.0127,1.7,hedged,polyus:aec-atp-kokmat-kanwat-2026-11-15:0,0.88,6.33,-12.58,6.33,True
+2026-11-16T02:53:50+00:00,broady v honda,True,kalshi:KXATPCHALLENGERMATCH-26NOV15HONBRO-HON:yes,0.11,454,False,0.0121,2.0,hedged,polyus:aec-atp-naohon-liabro-2026-11-15:1,0.9,-7.38,-7.4,-7.38,True
+2026-11-16T02:54:34+00:00,broady v honda,True,kalshi:KXATPCHALLENGERMATCH-26NOV15HONBRO-BRO:yes,0.87,57,True,0.0132,2.1,hedged,polyus:aec-atp-naohon-liabro-2026-11-15:0,0.14,-1.05,-1.05,-1.05,True
+2026-11-16T02:55:20+00:00,broady v honda,True,kalshi:KXATPCHALLENGERMATCH-26NOV15HONBRO-BRO:yes,0.82,60,True,0.0107,1.9,hedged,polyus:aec-atp-naohon-liabro-2026-11-15:0,0.16,0.64,-1.25,0.64,True
