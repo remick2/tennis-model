@@ -960,3 +960,85 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T17:44:15+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.56,Shunsuke Mitsui,kalshi,0.39,0.9838,0.0,0.0,0.0,0.0,,0.44,,0.0,True,2026-11-16T17:44:05+00:00
 2026-11-16T17:44:15+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.16,Gonzalo Villanueva,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,,0.85,,0.0,True,2026-11-16T17:44:15+00:00
 2026-11-16T17:44:25+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.16,Gonzalo Villanueva,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,,0.85,,0.0,True,2026-11-16T17:44:15+00:00
+2026-11-16T17:44:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.13,Gonzalo Villanueva,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-16T17:44:55+00:00
+2026-11-16T17:45:15+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.68,Shintaro Mochizuki,kalshi,0.24,0.9479,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-16T17:45:15+00:00
+2026-11-16T17:45:25+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.68,Shintaro Mochizuki,kalshi,0.24,0.9479,0.0,0.0,0.0,0.0,,0.34,,0.0,True,2026-11-16T17:45:15+00:00
+2026-11-16T17:46:05+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.67,Shintaro Mochizuki,polyus,0.24,0.9382,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-16T17:46:05+00:00
+2026-11-16T17:46:05+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.15,Gonzalo Villanueva,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.0,True,2026-11-16T17:46:05+00:00
+2026-11-16T17:46:15+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.67,Shintaro Mochizuki,polyus,0.25,0.9485,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-16T17:46:05+00:00
+2026-11-16T17:46:15+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.15,Gonzalo Villanueva,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.0,True,2026-11-16T17:46:05+00:00
+2026-11-16T17:46:45+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.64,Shintaro Mochizuki,kalshi,0.24,0.9088,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-16T17:46:45+00:00
+2026-11-16T17:47:25+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.51,Shintaro Mochizuki,kalshi,0.38,0.9239,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-16T17:47:25+00:00
+2026-11-16T17:47:35+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.51,Shintaro Mochizuki,kalshi,0.38,0.9239,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-16T17:47:25+00:00
+2026-11-16T17:47:45+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.51,Shintaro Mochizuki,kalshi,0.38,0.9239,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-16T17:47:25+00:00
+2026-11-16T17:47:45+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.44,Shunsuke Mitsui,kalshi,0.51,0.9846,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-16T17:47:45+00:00
+2026-11-16T17:47:55+00:00,alves v zeitune,True,Felipe Meligeni Alves,polyus,0.97,Maximo Zeitune,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-16T17:47:55+00:00
+2026-11-16T17:48:05+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.39,Shintaro Mochizuki,kalshi,0.51,0.934,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-16T17:48:05+00:00
+2026-11-16T17:48:05+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.62,Victoria Jimenez Kasintseva,kalshi,0.33,0.9819,0.0,0.0,0.0,0.0,,0.39,,0.0,True,2026-11-16T17:48:05+00:00
+2026-11-16T17:48:05+00:00,alves v zeitune,True,Felipe Meligeni Alves,polyus,0.97,Maximo Zeitune,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-16T17:47:55+00:00
+2026-11-16T17:48:15+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.39,Shintaro Mochizuki,kalshi,0.51,0.934,0.0,0.0,0.0,0.0,,0.62,,0.0,True,2026-11-16T17:48:05+00:00
+2026-11-16T17:48:15+00:00,alves v zeitune,True,Felipe Meligeni Alves,polyus,0.97,Maximo Zeitune,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-16T17:47:55+00:00
+2026-11-16T17:48:25+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.39,Shintaro Mochizuki,kalshi,0.51,0.934,0.0,0.0,0.0,0.0,,0.62,,0.0,True,2026-11-16T17:48:05+00:00
+2026-11-16T17:48:25+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.44,Shunsuke Mitsui,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-16T17:48:25+00:00
+2026-11-16T17:48:25+00:00,alves v zeitune,True,Felipe Meligeni Alves,polyus,0.97,Maximo Zeitune,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.0,True,2026-11-16T17:47:55+00:00
+2026-11-16T17:48:35+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.44,Shunsuke Mitsui,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-16T17:48:25+00:00
+2026-11-16T17:48:45+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.44,Shunsuke Mitsui,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-16T17:48:25+00:00
+2026-11-16T17:48:55+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.39,Shintaro Mochizuki,polyus,0.47,0.894,0.0,0.0,0.0,0.0,0.53,,,0.0,True,2026-11-16T17:48:55+00:00
+2026-11-16T17:48:55+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.44,Shunsuke Mitsui,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-16T17:48:25+00:00
+2026-11-16T17:48:55+00:00,gogineni v opitz,True,Jannik Opitz,kalshi,0.14,Vignesh Gogineni,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.0,True,2026-11-16T17:48:55+00:00
+2026-11-16T17:49:25+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.43,Shunsuke Mitsui,kalshi,0.51,0.9745,0.0,0.0,0.0,0.0,,0.58,,0.0,True,2026-11-16T17:49:25+00:00
+2026-11-16T17:49:35+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.53,Shintaro Mochizuki,polyus,0.37,0.9336,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-16T17:49:35+00:00
+2026-11-16T17:49:45+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.53,Shintaro Mochizuki,polyus,0.37,0.9336,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-16T17:49:35+00:00
+2026-11-16T17:49:45+00:00,cadenasso v fearnley,True,Gianluca Cadenasso,polyus,0.13,Jacob Fearnley,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-16T17:49:45+00:00
+2026-11-16T17:49:55+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.53,Shintaro Mochizuki,polyus,0.37,0.9336,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-16T17:49:35+00:00
+2026-11-16T17:49:55+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.43,Shunsuke Mitsui,polyus,0.53,0.9945,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-16T17:49:55+00:00
+2026-11-16T17:49:55+00:00,cadenasso v fearnley,True,Gianluca Cadenasso,polyus,0.13,Jacob Fearnley,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-16T17:49:45+00:00
+2026-11-16T17:50:25+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.48,Shunsuke Mitsui,polyus,0.48,0.9948,0.0,0.0,0.0,0.0,0.53,,,0.0,True,2026-11-16T17:50:25+00:00
+2026-11-16T17:51:25+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.67,Shintaro Mochizuki,kalshi,0.23,0.9278,0.0,0.0,0.0,0.0,,0.34,,0.0,True,2026-11-16T17:51:25+00:00
+2026-11-16T17:51:45+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.53,Shunsuke Mitsui,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,,0.48,,0.0,True,2026-11-16T17:51:45+00:00
+2026-11-16T17:51:55+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.56,Shintaro Mochizuki,kalshi,0.34,0.9328,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-16T17:51:55+00:00
+2026-11-16T17:51:55+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.52,Shunsuke Mitsui,kalshi,0.43,0.9845,0.0,0.0,0.0,0.0,,0.49,,0.0,True,2026-11-16T17:51:45+00:00
+2026-11-16T17:52:45+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.56,Shintaro Mochizuki,polyus,0.31,0.9021,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-16T17:52:45+00:00
+2026-11-16T17:52:55+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.59,Shintaro Mochizuki,polyus,0.31,0.9318,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-16T17:52:45+00:00
+2026-11-16T17:53:05+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.59,Shintaro Mochizuki,polyus,0.31,0.9318,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-16T17:52:45+00:00
+2026-11-16T17:53:15+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.59,Shintaro Mochizuki,polyus,0.31,0.9318,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-16T17:52:45+00:00
+2026-11-16T17:54:15+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.7,Shintaro Mochizuki,polyus,0.17,0.8945,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-16T17:54:15+00:00
+2026-11-16T17:54:15+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.14,Gonzalo Villanueva,kalshi,0.84,0.9978,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-16T17:54:15+00:00
+2026-11-16T17:54:55+00:00,giustino v mochizuki,True,Lorenzo Giustino,polyus,0.75,Shintaro Mochizuki,kalshi,0.17,0.9429,0.0,0.0,0.0,0.0,,0.26,,0.0,True,2026-11-16T17:54:55+00:00
+2026-11-16T17:55:05+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.4,Leyre Romero Gormaz,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-16T17:55:05+00:00
+2026-11-16T17:55:05+00:00,gogineni v opitz,True,Jannik Opitz,polyus,0.07,Vignesh Gogineni,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-16T17:55:05+00:00
+2026-11-16T17:55:15+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.77,Shintaro Mochizuki,polyus,0.08,0.8675,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T17:55:15+00:00
+2026-11-16T17:55:15+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.4,Leyre Romero Gormaz,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-16T17:55:05+00:00
+2026-11-16T17:55:15+00:00,gogineni v opitz,True,Jannik Opitz,polyus,0.07,Vignesh Gogineni,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-16T17:55:05+00:00
+2026-11-16T17:55:25+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.77,Shintaro Mochizuki,polyus,0.08,0.8675,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T17:55:15+00:00
+2026-11-16T17:55:35+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.66,Victoria Jimenez Kasintseva,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-16T17:55:35+00:00
+2026-11-16T17:55:35+00:00,heck v wells,True,Colson Wells,polyus,0.13,Hunter Heck,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-16T17:55:35+00:00
+2026-11-16T17:55:35+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.16,Gonzalo Villanueva,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-16T17:55:35+00:00
+2026-11-16T17:55:45+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.66,Victoria Jimenez Kasintseva,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-16T17:55:35+00:00
+2026-11-16T17:55:45+00:00,heck v wells,True,Colson Wells,polyus,0.13,Hunter Heck,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-16T17:55:35+00:00
+2026-11-16T17:55:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.16,Gonzalo Villanueva,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-16T17:55:35+00:00
+2026-11-16T17:55:45+00:00,gogineni v opitz,True,Jannik Opitz,polyus,0.07,Vignesh Gogineni,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-16T17:55:45+00:00
+2026-11-16T17:55:55+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.41,Shunsuke Mitsui,kalshi,0.54,0.9842,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-16T17:55:55+00:00
+2026-11-16T17:55:55+00:00,heck v wells,True,Colson Wells,polyus,0.13,Hunter Heck,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-16T17:55:35+00:00
+2026-11-16T17:55:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.16,Gonzalo Villanueva,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-16T17:55:35+00:00
+2026-11-16T17:56:15+00:00,gogineni v opitz,True,Jannik Opitz,polyus,0.04,Vignesh Gogineni,kalshi,0.94,0.9866,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-16T17:56:15+00:00
+2026-11-16T17:56:15+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.15,Gonzalo Villanueva,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-16T17:56:15+00:00
+2026-11-16T17:56:25+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.33,Shunsuke Mitsui,kalshi,0.6,0.9622,0.0,0.0,0.0,0.0,,0.68,,0.0,True,2026-11-16T17:56:25+00:00
+2026-11-16T17:56:25+00:00,gogineni v opitz,True,Jannik Opitz,polyus,0.04,Vignesh Gogineni,kalshi,0.94,0.9866,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-16T17:56:15+00:00
+2026-11-16T17:56:25+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.15,Gonzalo Villanueva,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-16T17:56:15+00:00
+2026-11-16T17:56:45+00:00,jimenez v monnet,True,Carole Monnet,polyus,0.59,Victoria Jimenez Kasintseva,kalshi,0.37,0.9931,0.0,0.0,0.0,0.0,,0.42,,0.0,True,2026-11-16T17:56:45+00:00
+2026-11-16T17:56:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.15,Gonzalo Villanueva,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.16,,,0.0,True,2026-11-16T17:56:45+00:00
+2026-11-16T17:56:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.15,Gonzalo Villanueva,polyus,0.82,0.9892,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-16T17:56:45+00:00
+2026-11-16T17:57:35+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.65,Elias Ymer,polyus,0.31,0.9908,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-16T17:57:35+00:00
+2026-11-16T17:57:45+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.29,Shunsuke Mitsui,kalshi,0.63,0.9506,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T17:57:45+00:00
+2026-11-16T17:57:45+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.65,Elias Ymer,polyus,0.31,0.9908,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-16T17:57:35+00:00
+2026-11-16T17:57:55+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.29,Shunsuke Mitsui,kalshi,0.61,0.931,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T17:57:45+00:00
+2026-11-16T17:58:05+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.29,Shunsuke Mitsui,kalshi,0.61,0.931,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T17:57:45+00:00
+2026-11-16T17:58:15+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.27,Shunsuke Mitsui,kalshi,0.61,0.9104,0.0,0.0,0.0,0.0,,0.74,,0.0,True,2026-11-16T17:57:45+00:00
+2026-11-16T17:58:15+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.7,Elias Ymer,polyus,0.27,0.9984,0.0,0.0,0.0,0.0,0.74,,,0.0,True,2026-11-16T17:58:15+00:00
+2026-11-16T17:58:45+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.19,Shunsuke Mitsui,kalshi,0.72,0.9348,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-16T17:58:45+00:00
+2026-11-16T17:58:55+00:00,gogineni v opitz,True,Jannik Opitz,kalshi,0.06,Vignesh Gogineni,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-16T17:58:55+00:00
+2026-11-16T17:59:05+00:00,gogineni v opitz,True,Jannik Opitz,kalshi,0.06,Vignesh Gogineni,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-16T17:58:55+00:00
+2026-11-16T17:59:15+00:00,gogineni v opitz,True,Jannik Opitz,kalshi,0.06,Vignesh Gogineni,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.09,,,0.0,True,2026-11-16T17:58:55+00:00
+2026-11-16T17:59:45+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.21,Shunsuke Mitsui,polyus,0.76,0.9943,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-16T17:59:45+00:00
+2026-11-16T17:59:55+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.2,Shunsuke Mitsui,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-16T17:59:55+00:00
