@@ -365,3 +365,64 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T16:11:25+00:00,banerjee v roh,True,Hoyoung Roh,polyus,0.04,Samir Banerjee,kalshi,0.94,0.9866,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-16T16:11:05+00:00
 2026-11-16T16:12:25+00:00,giustino v mochizuki,True,Lorenzo Giustino,kalshi,0.09,Shintaro Mochizuki,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-16T16:12:25+00:00
 2026-11-16T16:12:45+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.63,Toby Samuel,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,,0.37,,0.0,True,2026-11-16T16:12:45+00:00
+2026-11-16T16:14:05+00:00,george v jonge,True,Benjamin Thomas George,polyus,0.04,Daniel de Jonge,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-16T16:14:05+00:00
+2026-11-16T16:14:45+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.64,Shunsuke Mitsui,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.0,True,2026-11-16T16:14:45+00:00
+2026-11-16T16:14:45+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.62,Toby Samuel,kalshi,0.34,0.9921,0.0,0.0,0.0,0.0,,0.39,,0.0,True,2026-11-16T16:14:45+00:00
+2026-11-16T16:16:55+00:00,george v jonge,True,Benjamin Thomas George,kalshi,0.05,Daniel de Jonge,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.0,True,2026-11-16T16:16:55+00:00
+2026-11-16T16:17:05+00:00,brancaccio v costoulas,True,Nuria Brancaccio,kalshi,0.46,Sofia Costoulas,polyus,0.49,0.9848,0.0,0.0,0.0,0.0,0.52,,,0.0,True,2026-11-16T16:17:05+00:00
+2026-11-16T16:17:15+00:00,brancaccio v costoulas,True,Nuria Brancaccio,kalshi,0.46,Sofia Costoulas,polyus,0.49,0.9848,0.0,0.0,0.0,0.0,0.52,,,0.0,True,2026-11-16T16:17:05+00:00
+2026-11-16T16:17:25+00:00,brancaccio v costoulas,True,Nuria Brancaccio,kalshi,0.46,Sofia Costoulas,polyus,0.46,0.9547,0.0,0.0,0.0,0.0,0.55,,,0.0,True,2026-11-16T16:17:05+00:00
+2026-11-16T16:17:45+00:00,maristany v trevisan,True,Guiomar Maristany Zuleta de Reales,kalshi,0.56,Martina Trevisan,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-16T16:17:45+00:00
+2026-11-16T16:17:55+00:00,maristany v trevisan,True,Guiomar Maristany Zuleta de Reales,kalshi,0.56,Martina Trevisan,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-16T16:17:45+00:00
+2026-11-16T16:18:55+00:00,maristany v trevisan,True,Guiomar Maristany,polyus,0.58,Martina Trevisan,kalshi,0.36,0.9731,0.0,0.0,0.0,0.0,,0.42,,0.0,True,2026-11-16T16:18:55+00:00
+2026-11-16T16:19:05+00:00,maristany v trevisan,True,Guiomar Maristany,polyus,0.58,Martina Trevisan,kalshi,0.36,0.9731,0.0,0.0,0.0,0.0,,0.42,,0.0,True,2026-11-16T16:18:55+00:00
+2026-11-16T16:19:05+00:00,brancaccio v costoulas,True,Nuria Brancaccio,polyus,0.46,Sofia Costoulas,kalshi,0.48,0.9747,0.0,0.0,0.0,0.0,,0.56,,0.0,True,2026-11-16T16:19:05+00:00
+2026-11-16T16:19:15+00:00,maristany v trevisan,True,Guiomar Maristany,polyus,0.58,Martina Trevisan,kalshi,0.36,0.9731,0.0,0.0,0.0,0.0,,0.4,,0.0,True,2026-11-16T16:18:55+00:00
+2026-11-16T16:19:15+00:00,brancaccio v costoulas,True,Nuria Brancaccio,polyus,0.46,Sofia Costoulas,kalshi,0.48,0.9747,0.0,0.0,0.0,0.0,,0.55,,0.0,True,2026-11-16T16:19:05+00:00
+2026-11-16T16:20:15+00:00,george v jonge,True,Benjamin Thomas George,kalshi,0.1,Daniel de Jonge,polyus,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-16T16:20:15+00:00
+2026-11-16T16:20:15+00:00,brunold v budkov,True,Mika Brunold,polyus,0.42,Nicolai Budkov Kjaer,kalshi,0.54,0.9943,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-16T16:20:15+00:00
+2026-11-16T16:20:55+00:00,george v jonge,True,Benjamin Thomas George,kalshi,0.13,Daniel de Jonge,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.15,,,0.0,True,2026-11-16T16:20:55+00:00
+2026-11-16T16:21:25+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.56,Shunsuke Mitsui,kalshi,0.4,0.9939,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-16T16:21:25+00:00
+2026-11-16T16:21:55+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.56,Shunsuke Mitsui,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-16T16:21:55+00:00
+2026-11-16T16:22:05+00:00,banerjee v roh,True,Hoyoung Roh,polyus,0.03,Samir Banerjee,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-16T16:22:05+00:00
+2026-11-16T16:22:15+00:00,banerjee v roh,True,Hoyoung Roh,polyus,0.03,Samir Banerjee,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-16T16:22:05+00:00
+2026-11-16T16:22:25+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.56,Shunsuke Mitsui,kalshi,0.4,0.9939,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-16T16:22:25+00:00
+2026-11-16T16:22:25+00:00,banerjee v roh,True,Hoyoung Roh,polyus,0.03,Samir Banerjee,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-16T16:22:05+00:00
+2026-11-16T16:22:45+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.5,Nicolai Budkov Kjaer,polyus,0.44,0.9746,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-16T16:22:45+00:00
+2026-11-16T16:22:55+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.5,Nicolai Budkov Kjaer,polyus,0.44,0.9746,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-16T16:22:45+00:00
+2026-11-16T16:22:55+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.56,Shunsuke Mitsui,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.6,,,0.0,True,2026-11-16T16:22:55+00:00
+2026-11-16T16:23:05+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.5,Nicolai Budkov Kjaer,polyus,0.44,0.9746,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-16T16:22:45+00:00
+2026-11-16T16:23:05+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.56,Shunsuke Mitsui,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.6,,,0.0,True,2026-11-16T16:22:55+00:00
+2026-11-16T16:23:15+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.5,Nicolai Budkov Kjaer,polyus,0.39,0.924,0.0,0.0,0.0,0.0,0.62,,,0.0,True,2026-11-16T16:22:45+00:00
+2026-11-16T16:23:15+00:00,mitsui v nakashima,True,Bryce Nakashima,kalshi,0.56,Shunsuke Mitsui,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.6,,,0.0,True,2026-11-16T16:22:55+00:00
+2026-11-16T16:23:25+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.57,Nicolai Budkov Kjaer,polyus,0.39,0.9937,0.0,0.0,0.0,0.0,0.62,,,0.0,True,2026-11-16T16:22:45+00:00
+2026-11-16T16:23:35+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.55,Shunsuke Mitsui,kalshi,0.4,0.984,0.0,0.0,0.0,0.0,,0.46,,0.0,True,2026-11-16T16:23:35+00:00
+2026-11-16T16:23:35+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.57,Nicolai Budkov Kjaer,polyus,0.39,0.9937,0.0,0.0,0.0,0.0,0.63,,,0.0,True,2026-11-16T16:22:45+00:00
+2026-11-16T16:23:45+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.57,Nicolai Budkov Kjaer,polyus,0.35,0.953,0.0,0.0,0.0,0.0,0.66,,,0.0,True,2026-11-16T16:22:45+00:00
+2026-11-16T16:23:45+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.55,Shunsuke Mitsui,kalshi,0.4,0.984,0.0,0.0,0.0,0.0,,0.46,,0.0,True,2026-11-16T16:23:35+00:00
+2026-11-16T16:24:05+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.6,Toby Samuel,kalshi,0.35,0.9826,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-16T16:24:05+00:00
+2026-11-16T16:24:15+00:00,mitsui v nakashima,True,Bryce Nakashima,polyus,0.47,Shunsuke Mitsui,kalshi,0.46,0.9647,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-16T16:24:15+00:00
+2026-11-16T16:24:15+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.6,Toby Samuel,kalshi,0.35,0.9826,0.0,0.0,0.0,0.0,,0.41,,0.0,True,2026-11-16T16:24:05+00:00
+2026-11-16T16:24:45+00:00,brunold v budkov,True,Mika Brunold,polyus,0.59,Nicolai Budkov Kjaer,kalshi,0.35,0.9727,0.0,0.0,0.0,0.0,,0.42,,0.0,True,2026-11-16T16:24:45+00:00
+2026-11-16T16:24:45+00:00,george v jonge,True,Benjamin Thomas George,kalshi,0.13,Daniel de Jonge,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.16,,,0.0,True,2026-11-16T16:24:45+00:00
+2026-11-16T16:25:15+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.59,Nicolai Budkov Kjaer,polyus,0.37,0.9931,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-16T16:25:15+00:00
+2026-11-16T16:25:35+00:00,george v jonge,True,Benjamin Thomas George,polyus,0.15,Daniel de Jonge,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.85,,0.0,True,2026-11-16T16:25:35+00:00
+2026-11-16T16:25:45+00:00,george v jonge,True,Benjamin Thomas George,polyus,0.15,Daniel de Jonge,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.85,,0.0,True,2026-11-16T16:25:35+00:00
+2026-11-16T16:26:05+00:00,brunold v budkov,True,Mika Brunold,polyus,0.56,Nicolai Budkov Kjaer,kalshi,0.37,0.9634,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-16T16:26:05+00:00
+2026-11-16T16:26:15+00:00,brunold v budkov,True,Mika Brunold,polyus,0.56,Nicolai Budkov Kjaer,kalshi,0.37,0.9634,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-16T16:26:05+00:00
+2026-11-16T16:26:25+00:00,brunold v budkov,True,Mika Brunold,polyus,0.56,Nicolai Budkov Kjaer,kalshi,0.37,0.9634,0.0,0.0,0.0,0.0,,0.46,,0.0,True,2026-11-16T16:26:05+00:00
+2026-11-16T16:26:35+00:00,brunold v budkov,True,Mika Brunold,polyus,0.49,Nicolai Budkov Kjaer,kalshi,0.45,0.9747,0.0,0.0,0.0,0.0,,0.52,,0.0,True,2026-11-16T16:26:05+00:00
+2026-11-16T16:26:45+00:00,brunold v budkov,True,Mika Brunold,polyus,0.49,Nicolai Budkov Kjaer,kalshi,0.45,0.9747,0.0,0.0,0.0,0.0,,0.52,,0.0,True,2026-11-16T16:26:05+00:00
+2026-11-16T16:26:55+00:00,brunold v budkov,True,Mika Brunold,polyus,0.42,Nicolai Budkov Kjaer,kalshi,0.45,0.9043,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-16T16:26:05+00:00
+2026-11-16T16:27:05+00:00,montes v sharipov,True,Inaki Montes-de la Torre,kalshi,0.83,Marat Sharipov,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-16T16:27:05+00:00
+2026-11-16T16:27:15+00:00,montes v sharipov,True,Inaki Montes-de la Torre,kalshi,0.83,Marat Sharipov,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-16T16:27:05+00:00
+2026-11-16T16:27:25+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.42,Nicolai Budkov Kjaer,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.49,,,0.0,True,2026-11-16T16:27:25+00:00
+2026-11-16T16:27:25+00:00,george v jonge,True,Benjamin Thomas George,polyus,0.13,Daniel de Jonge,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-16T16:27:25+00:00
+2026-11-16T16:27:25+00:00,montes v sharipov,True,Inaki Montes-de la Torre,kalshi,0.83,Marat Sharipov,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-16T16:27:05+00:00
+2026-11-16T16:27:55+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.49,Nicolai Budkov Kjaer,polyus,0.43,0.9545,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-16T16:27:55+00:00
+2026-11-16T16:28:05+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.49,Nicolai Budkov Kjaer,polyus,0.43,0.9545,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-16T16:27:55+00:00
+2026-11-16T16:28:05+00:00,montes v sharipov,True,Inaki Montes,polyus,0.84,Marat Sharipov,kalshi,0.13,0.9873,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T16:28:05+00:00
+2026-11-16T16:28:05+00:00,ivashka v samuel,True,Ilya Ivashka,polyus,0.46,Toby Samuel,kalshi,0.5,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-16T16:28:05+00:00
+2026-11-16T16:28:15+00:00,brunold v budkov,True,Mika Brunold,kalshi,0.49,Nicolai Budkov Kjaer,polyus,0.43,0.9545,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-16T16:27:55+00:00
+2026-11-16T16:28:15+00:00,montes v sharipov,True,Inaki Montes,polyus,0.84,Marat Sharipov,kalshi,0.13,0.9873,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T16:28:05+00:00
+2026-11-16T16:28:55+00:00,brunold v budkov,True,Mika Brunold,polyus,0.49,Nicolai Budkov Kjaer,kalshi,0.43,0.9545,0.0,0.0,0.0,0.0,,0.52,,0.0,True,2026-11-16T16:28:55+00:00
