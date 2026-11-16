@@ -389,3 +389,54 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T12:17:47+00:00,catry v forejtek,True,Jonas Forejtek,kalshi,0.79,Robin Catry,polyus,0.17,0.9814,0.0,0.0,0.0,0.0,0.84,,,0.1,True,2026-11-16T12:17:37+00:00
 2026-11-16T12:17:47+00:00,cretu v echargui,True,Cezar Cretu,polyus,0.89,Moez Echargui,kalshi,0.09,0.9925,0.0,0.0,0.0,0.0,,0.12,,0.1,True,2026-11-16T12:17:17+00:00
 2026-11-16T12:18:17+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.89,Moez Echargui,polyus,0.08,0.982,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-16T12:18:17+00:00
+2026-11-16T12:23:57+00:00,nagal v vrbensky,True,Michael Vrbensky,kalshi,0.24,Sumit Nagal,polyus,0.73,0.9965,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-16T12:23:57+00:00
+2026-11-16T12:24:07+00:00,nagal v vrbensky,True,Michael Vrbensky,kalshi,0.24,Sumit Nagal,polyus,0.73,0.9965,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-16T12:23:57+00:00
+2026-11-16T12:24:17+00:00,nagal v vrbensky,True,Michael Vrbensky,kalshi,0.24,Sumit Nagal,polyus,0.73,0.9965,37265.71,0.0,0.0,0.0,0.23,0.78,1.0343,0.2,True,2026-11-16T12:23:57+00:00
+2026-11-16T12:24:27+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.23,Sumit Nagal,kalshi,0.73,0.9861,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-16T12:24:27+00:00
+2026-11-16T12:24:37+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.23,Sumit Nagal,kalshi,0.73,0.9861,0.0,0.0,0.0,0.0,,0.79,,0.1,True,2026-11-16T12:24:27+00:00
+2026-11-16T12:24:47+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.19,Sumit Nagal,kalshi,0.73,0.9445,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-16T12:24:27+00:00
+2026-11-16T12:24:47+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.9,Moez Echargui,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-16T12:24:47+00:00
+2026-11-16T12:24:47+00:00,gobat v grenier,True,Adrien Gobat,kalshi,0.43,Hugo Grenier,polyus,0.53,0.9945,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-16T12:24:47+00:00
+2026-11-16T12:24:47+00:00,gulin v nordquist,True,Arvid Nordquist,kalshi,0.04,Svyatoslav Gulin,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.06,,,0.1,True,2026-11-16T12:24:47+00:00
+2026-11-16T12:25:07+00:00,gulin v nordquist,True,Arvid Nordquist,kalshi,0.04,Svyatoslav Gulin,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-16T12:25:07+00:00
+2026-11-16T12:25:17+00:00,gulin v nordquist,True,Arvid Nordquist,kalshi,0.04,Svyatoslav Gulin,polyus,0.94,0.9866,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-16T12:25:07+00:00
+2026-11-16T12:25:17+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.91,Moez Echargui,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-16T12:25:17+00:00
+2026-11-16T12:25:17+00:00,gobat v grenier,True,Adrien Gobat,polyus,0.43,Hugo Grenier,kalshi,0.53,0.9945,0.0,0.0,0.0,0.0,,0.58,,0.1,True,2026-11-16T12:25:17+00:00
+2026-11-16T12:25:37+00:00,gulin v nordquist,True,Arvid Nordquist,polyus,0.05,Svyatoslav Gulin,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-16T12:25:37+00:00
+2026-11-16T12:25:47+00:00,gulin v nordquist,True,Arvid Nordquist,polyus,0.05,Svyatoslav Gulin,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-16T12:25:37+00:00
+2026-11-16T12:25:57+00:00,gulin v nordquist,True,Arvid Nordquist,polyus,0.05,Svyatoslav Gulin,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-16T12:25:37+00:00
+2026-11-16T12:26:27+00:00,gulin v nordquist,True,Arvid Nordquist,polyus,0.03,Svyatoslav Gulin,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-16T12:26:27+00:00
+2026-11-16T12:26:27+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.14,Sumit Nagal,kalshi,0.84,0.9978,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-16T12:26:27+00:00
+2026-11-16T12:26:37+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.14,Sumit Nagal,kalshi,0.84,0.9978,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-16T12:26:27+00:00
+2026-11-16T12:26:47+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.13,Sumit Nagal,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-16T12:26:27+00:00
+2026-11-16T12:26:47+00:00,gulin v nordquist,True,Arvid Nordquist,polyus,0.02,Svyatoslav Gulin,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-16T12:26:47+00:00
+2026-11-16T12:26:57+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.12,Sumit Nagal,kalshi,0.84,0.9767,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-16T12:26:27+00:00
+2026-11-16T12:26:57+00:00,gulin v nordquist,True,Arvid Nordquist,polyus,0.02,Svyatoslav Gulin,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-16T12:26:47+00:00
+2026-11-16T12:27:17+00:00,nagal v vrbensky,True,Michael Vrbensky,kalshi,0.13,Sumit Nagal,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.15,,,0.1,True,2026-11-16T12:27:17+00:00
+2026-11-16T12:27:27+00:00,nagal v vrbensky,True,Michael Vrbensky,kalshi,0.13,Sumit Nagal,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.15,,,0.1,True,2026-11-16T12:27:17+00:00
+2026-11-16T12:28:27+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.12,Sumit Nagal,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-16T12:28:27+00:00
+2026-11-16T12:28:37+00:00,gobat v grenier,True,Adrien Gobat,polyus,0.36,Hugo Grenier,kalshi,0.59,0.9829,0.0,0.0,0.0,0.0,,0.65,,0.1,True,2026-11-16T12:28:37+00:00
+2026-11-16T12:28:37+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.12,Sumit Nagal,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-16T12:28:27+00:00
+2026-11-16T12:29:47+00:00,nagal v vrbensky,True,Michael Vrbensky,kalshi,0.14,Sumit Nagal,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-16T12:29:47+00:00
+2026-11-16T12:29:57+00:00,nagal v vrbensky,True,Michael Vrbensky,kalshi,0.14,Sumit Nagal,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-16T12:29:47+00:00
+2026-11-16T12:30:07+00:00,nagal v vrbensky,True,Michael Vrbensky,kalshi,0.14,Sumit Nagal,polyus,0.81,0.9691,0.0,0.0,0.0,0.0,0.2,,,0.1,True,2026-11-16T12:29:47+00:00
+2026-11-16T12:31:57+00:00,nagal v vrbensky,True,Michael Vrbensky,kalshi,0.2,Sumit Nagal,polyus,0.77,0.9935,0.0,0.0,0.0,0.0,0.24,,,0.1,True,2026-11-16T12:31:57+00:00
+2026-11-16T12:31:57+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.93,Moez Echargui,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-16T12:31:57+00:00
+2026-11-16T12:32:07+00:00,gulin v nordquist,True,Arvid Nordquist,kalshi,0.03,Svyatoslav Gulin,polyus,0.95,0.9853,0.0,0.0,0.0,0.0,0.06,,,0.1,True,2026-11-16T12:32:07+00:00
+2026-11-16T12:32:07+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.93,Moez Echargui,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-16T12:31:57+00:00
+2026-11-16T12:32:17+00:00,gulin v nordquist,True,Arvid Nordquist,kalshi,0.03,Svyatoslav Gulin,polyus,0.95,0.9853,0.0,0.0,0.0,0.0,0.06,,,0.1,True,2026-11-16T12:32:07+00:00
+2026-11-16T12:32:17+00:00,nagal v vrbensky,True,Michael Vrbensky,kalshi,0.21,Sumit Nagal,polyus,0.76,0.9943,0.0,0.0,0.0,0.0,0.24,,,0.1,True,2026-11-16T12:32:17+00:00
+2026-11-16T12:32:17+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.93,Moez Echargui,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-16T12:31:57+00:00
+2026-11-16T12:32:27+00:00,gulin v nordquist,True,Arvid Nordquist,kalshi,0.03,Svyatoslav Gulin,polyus,0.95,0.9853,0.0,0.0,0.0,0.0,0.06,,,0.1,True,2026-11-16T12:32:07+00:00
+2026-11-16T12:32:37+00:00,cretu v echargui,True,Cezar Cretu,polyus,0.92,Moez Echargui,kalshi,0.06,0.9891,0.0,0.0,0.0,0.0,,0.09,,0.1,True,2026-11-16T12:32:37+00:00
+2026-11-16T12:32:47+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.18,Sumit Nagal,kalshi,0.77,0.9727,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-16T12:32:47+00:00
+2026-11-16T12:32:47+00:00,cretu v echargui,True,Cezar Cretu,polyus,0.92,Moez Echargui,kalshi,0.06,0.9891,0.0,0.0,0.0,0.0,,0.09,,0.1,True,2026-11-16T12:32:37+00:00
+2026-11-16T12:32:57+00:00,nagal v vrbensky,True,Michael Vrbensky,polyus,0.18,Sumit Nagal,kalshi,0.77,0.9727,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-16T12:32:47+00:00
+2026-11-16T12:33:17+00:00,gulin v nordquist,True,Arvid Nordquist,polyus,0.04,Svyatoslav Gulin,kalshi,0.93,0.9772,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-16T12:33:17+00:00
+2026-11-16T12:33:17+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.91,Moez Echargui,polyus,0.06,0.9797,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-16T12:33:17+00:00
+2026-11-16T12:33:27+00:00,gulin v nordquist,True,Arvid Nordquist,polyus,0.04,Svyatoslav Gulin,kalshi,0.93,0.9772,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-16T12:33:17+00:00
+2026-11-16T12:33:27+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.91,Moez Echargui,polyus,0.06,0.9797,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-16T12:33:17+00:00
+2026-11-16T12:33:37+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.94,Moez Echargui,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-16T12:33:17+00:00
+2026-11-16T12:33:47+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.94,Moez Echargui,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-16T12:33:17+00:00
+2026-11-16T12:33:57+00:00,gulin v nordquist,True,Arvid Nordquist,polyus,0.02,Svyatoslav Gulin,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-16T12:33:57+00:00
+2026-11-16T12:34:27+00:00,cretu v echargui,True,Cezar Cretu (b. 2001),kalshi,0.95,Moez Echargui,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-16T12:34:27+00:00
