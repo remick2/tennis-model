@@ -10,3 +10,9 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T03:30:06+00:00,bittoun v kumasaka,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BITKUM-BIT:yes,0.1,500,False,0.0127,2.0,hedged,polyus:aec-atp-conkou-takkum-2026-11-15:1,0.91,-7.85,-7.87,-7.85,True
 2026-11-16T03:32:03+00:00,bittoun v kumasaka,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BITKUM-BIT:yes,0.06,833,True,0.0055,1.0,hedged,polyus:aec-atp-conkou-takkum-2026-11-15:1,0.93,4.56,-18.9,4.56,True
 2026-11-16T03:36:00+00:00,bittoun v kumasaka,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BITKUM-KUM:yes,0.95,52,True,0.0073,2.1,hedged,polyus:aec-atp-conkou-takkum-2026-11-15:0,0.04,0.38,-0.73,0.38,True
+2026-11-16T03:42:31+00:00,matsuda v sun,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MATSUN-MAT:yes,0.2,250,True,0.0081,1.8,hedged,polyus:aec-atp-ryumat-fajsun-2026-11-15:1,0.81,-5.17,-5.19,-5.17,True
+2026-11-16T03:43:17+00:00,matsuda v sun,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MATSUN-SUN:yes,0.79,63,False,0.0093,2.0,hedged,polyus:aec-atp-ryumat-fajsun-2026-11-15:0,0.22,-1.38,-1.39,-1.38,True
+2026-11-16T03:43:29+00:00,bittoun v kumasaka,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BITKUM-KUM:yes,0.95,52,True,0.0073,2.4,hedged,polyus:aec-atp-conkou-takkum-2026-11-15:0,0.06,-0.72,-0.73,-0.72,True
+2026-11-16T03:45:59+00:00,matsuda v sun,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MATSUN-MAT:yes,0.17,294,True,0.0093,2.0,hedged,polyus:aec-atp-ryumat-fajsun-2026-11-15:1,0.84,-5.69,-5.71,-5.69,True
+2026-11-16T03:49:45+00:00,matsuda v sun,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MATSUN-SUN:yes,0.81,61,True,0.0102,1.8,hedged,polyus:aec-atp-ryumat-fajsun-2026-11-15:0,0.2,-1.29,-1.29,-1.29,True
+2026-11-16T03:50:21+00:00,matsuda v sun,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MATSUN-SUN:yes,0.77,64,True,0.0189,2.1,hedged,polyus:aec-atp-ryumat-fajsun-2026-11-15:0,0.25,-2.11,-2.12,-2.11,True
