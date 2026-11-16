@@ -487,3 +487,6 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T08:21:39+00:00,aguiard v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-OCO:yes,0.1,500,False,0.0127,1.9,hedged,polyus:aec-atp-enzagu-chroco-2026-11-15:0,0.91,-7.85,-7.87,-7.85,True
 2026-11-16T08:22:37+00:00,aguiard v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-AGU:yes,0.87,57,False,0.0132,2.0,hedged,polyus:aec-atp-enzagu-chroco-2026-11-15:1,0.14,-1.05,-1.05,-1.05,True
 2026-11-16T08:22:37+00:00,aguiard v oconnell,True,polyus:aec-atp-enzagu-chroco-2026-11-15:0,0.87,57,False,0.0131,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-OCO:yes,0.14,-1.05,-1.05,-1.05,True
+2026-11-16T08:24:09+00:00,aguiard v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-AGU:yes,0.88,56,True,0.0137,2.1,hedged,polyus:aec-atp-enzagu-chroco-2026-11-15:1,0.14,-1.59,-1.59,-1.59,True
+2026-11-16T08:29:49+00:00,aguiard v oconnell,True,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-OCO:yes,0.15,333,False,0.0102,2.1,hedged,polyus:aec-atp-enzagu-chroco-2026-11-15:0,0.86,-6.12,-6.14,-6.12,True
+2026-11-16T08:29:49+00:00,aguiard v oconnell,True,polyus:aec-atp-enzagu-chroco-2026-11-15:1,0.15,333,False,0.0101,2.1,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15AGUOCO-OCO:no,0.86,-6.14,-6.12,-6.12,True
