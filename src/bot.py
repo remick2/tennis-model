@@ -391,6 +391,11 @@ def cycle(U, L, consumed, pool, LV=None, MS=None):
         if (not real["0"]["ask"] or not real["0"]["bid"] or abs(real["0"]["ask"][0][0] - listed["0"]["ask"][0][0]) > 0.0051
                 or abs(real["0"]["bid"][0][0] - listed["0"]["bid"][0][0]) > 0.0051):
             CYCLE_STATS["list_mismatch"] += 1
+        try:   # per-fire two-source record (Nov 16): Polymarket US list top vs uncached book top, outcome 0
+            two_src = (f"list {listed['0']['bid'][0][0]:.2f}/{listed['0']['ask'][0][0]:.2f} "
+                       f"book {real['0']['bid'][0][0]:.2f}/{real['0']['ask'][0][0]:.2f}")
+        except (KeyError, IndexError, TypeError):
+            two_src = "n/a"
         c, _ = best_combo(m, {**books, p_inst[:2]: real}, consumed, cash)
         if not c:
             continue
@@ -405,6 +410,8 @@ def cycle(U, L, consumed, pool, LV=None, MS=None):
             fires.append(live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs))
         else:
             fires.append(fire(key, m, L, consumed, pool, exp, ia, ib, sh, fa, fb, sa, sb, read_secs))
+        if isinstance(fires[-1], dict):
+            fires[-1]["polyus_two_src"] = two_src
     return fires, best_total, read_secs
 
 
