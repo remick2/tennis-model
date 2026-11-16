@@ -1554,3 +1554,103 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T19:15:35+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.84,Elias Ymer,polyus,0.12,0.9767,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:15:35+00:00
 2026-11-16T19:15:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.06,Gonzalo Villanueva,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-16T19:15:35+00:00
 2026-11-16T19:15:45+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.84,Elias Ymer,polyus,0.12,0.9767,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:15:35+00:00
+2026-11-16T19:15:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.06,Gonzalo Villanueva,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-16T19:15:35+00:00
+2026-11-16T19:16:05+00:00,guerrieri v ymer,True,Andrea Guerrieri,polyus,0.84,Elias Ymer,kalshi,0.12,0.9767,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T19:16:05+00:00
+2026-11-16T19:16:05+00:00,chopra v hussey,True,Giles Hussey,polyus,0.8,Keshav Chopra,kalshi,0.17,0.991,0.0,0.0,0.0,0.0,,0.21,,0.0,True,2026-11-16T19:16:05+00:00
+2026-11-16T19:16:15+00:00,guerrieri v ymer,True,Andrea Guerrieri,polyus,0.84,Elias Ymer,kalshi,0.12,0.9767,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T19:16:05+00:00
+2026-11-16T19:16:15+00:00,chopra v hussey,True,Giles Hussey,polyus,0.8,Keshav Chopra,kalshi,0.17,0.991,0.0,0.0,0.0,0.0,,0.21,,0.0,True,2026-11-16T19:16:05+00:00
+2026-11-16T19:16:25+00:00,chopra v hussey,True,Giles Hussey,polyus,0.8,Keshav Chopra,kalshi,0.17,0.991,0.0,0.0,0.0,0.0,,0.21,,0.0,True,2026-11-16T19:16:05+00:00
+2026-11-16T19:16:55+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.8,Keshav Chopra,polyus,0.17,0.991,0.0,0.0,0.0,0.0,0.84,,,0.0,True,2026-11-16T19:16:55+00:00
+2026-11-16T19:17:05+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.88,Elias Ymer,polyus,0.08,0.9725,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T19:17:05+00:00
+2026-11-16T19:17:15+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.88,Elias Ymer,polyus,0.08,0.9725,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T19:17:05+00:00
+2026-11-16T19:17:25+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.88,Elias Ymer,polyus,0.09,0.9831,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T19:17:05+00:00
+2026-11-16T19:17:25+00:00,dominko v viiala,True,Sebastian Dominko,polyus,0.85,Zachary Viiala,kalshi,0.12,0.9863,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-16T19:17:25+00:00
+2026-11-16T19:17:35+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.93,Elias Ymer,polyus,0.04,0.9772,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-16T19:17:05+00:00
+2026-11-16T19:17:45+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.93,Elias Ymer,polyus,0.04,0.9772,0.0,0.0,0.0,0.0,0.97,,,0.0,True,2026-11-16T19:17:05+00:00
+2026-11-16T19:17:45+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.85,Keshav Chopra,polyus,0.12,0.9863,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:17:45+00:00
+2026-11-16T19:17:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.06,Gonzalo Villanueva,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-16T19:17:45+00:00
+2026-11-16T19:17:55+00:00,guerrieri v ymer,True,Andrea Guerrieri,kalshi,0.93,Elias Ymer,polyus,0.02,0.9559,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-16T19:17:05+00:00
+2026-11-16T19:17:55+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.85,Keshav Chopra,polyus,0.11,0.9757,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:17:45+00:00
+2026-11-16T19:17:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.06,Gonzalo Villanueva,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-16T19:17:45+00:00
+2026-11-16T19:18:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.07,Gonzalo Villanueva,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-16T19:18:45+00:00
+2026-11-16T19:18:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.07,Gonzalo Villanueva,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-16T19:18:45+00:00
+2026-11-16T19:19:45+00:00,basilashvili v houkes,True,Max Houkes,polyus,0.02,Nikoloz Basilashvili,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.0,True,2026-11-16T19:19:45+00:00
+2026-11-16T19:19:55+00:00,basilashvili v houkes,True,Max Houkes,polyus,0.02,Nikoloz Basilashvili,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.0,True,2026-11-16T19:19:45+00:00
+2026-11-16T19:20:05+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.34,Leyre Romero Gormaz,kalshi,0.62,0.9921,0.0,0.0,0.0,0.0,,0.67,,0.0,True,2026-11-16T19:20:05+00:00
+2026-11-16T19:20:05+00:00,basilashvili v houkes,True,Max Houkes,polyus,0.02,Nikoloz Basilashvili,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.0,True,2026-11-16T19:19:45+00:00
+2026-11-16T19:20:15+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.34,Leyre Romero Gormaz,kalshi,0.62,0.9921,0.0,0.0,0.0,0.0,,0.67,,0.0,True,2026-11-16T19:20:05+00:00
+2026-11-16T19:20:25+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.05,Gonzalo Villanueva,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.0,True,2026-11-16T19:20:25+00:00
+2026-11-16T19:20:35+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.05,Gonzalo Villanueva,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.0,True,2026-11-16T19:20:25+00:00
+2026-11-16T19:20:45+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.44,Noah Zamora,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.49,,,0.0,True,2026-11-16T19:20:45+00:00
+2026-11-16T19:20:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.05,Gonzalo Villanueva,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.0,True,2026-11-16T19:20:25+00:00
+2026-11-16T19:21:15+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.45,Noah Zamora,polyus,0.46,0.9446,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-16T19:21:15+00:00
+2026-11-16T19:21:15+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.07,Gonzalo Villanueva,polyus,0.9,0.9808,0.0,0.0,0.0,0.0,0.11,,,0.0,True,2026-11-16T19:21:15+00:00
+2026-11-16T19:21:25+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.48,Noah Zamora,polyus,0.46,0.9747,0.0,0.0,0.0,0.0,0.55,,,0.0,True,2026-11-16T19:21:15+00:00
+2026-11-16T19:21:25+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.08,Gonzalo Villanueva,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.11,,,0.0,True,2026-11-16T19:21:15+00:00
+2026-11-16T19:21:35+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.48,Noah Zamora,polyus,0.46,0.9747,0.0,0.0,0.0,0.0,0.55,,,0.0,True,2026-11-16T19:21:15+00:00
+2026-11-16T19:21:35+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.08,Gonzalo Villanueva,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-16T19:21:15+00:00
+2026-11-16T19:21:45+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.48,Noah Zamora,polyus,0.45,0.9647,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-16T19:21:15+00:00
+2026-11-16T19:21:45+00:00,guillen v villanueva,True,Alvaro Guillen Meza,kalshi,0.08,Gonzalo Villanueva,polyus,0.89,0.982,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-16T19:21:15+00:00
+2026-11-16T19:21:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.07,Gonzalo Villanueva,kalshi,0.86,0.943,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-16T19:21:55+00:00
+2026-11-16T19:22:05+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.07,Gonzalo Villanueva,kalshi,0.86,0.943,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-16T19:21:55+00:00
+2026-11-16T19:22:15+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.07,Gonzalo Villanueva,kalshi,0.86,0.943,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-16T19:21:55+00:00
+2026-11-16T19:22:55+00:00,guillen v villanueva,True,Alvaro Guillen Meza,polyus,0.04,Gonzalo Villanueva,kalshi,0.94,0.9866,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-16T19:22:55+00:00
+2026-11-16T19:25:35+00:00,dominko v viiala,True,Sebastian Dominko,kalshi,0.86,Zachary Viiala,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:25:35+00:00
+2026-11-16T19:25:45+00:00,chopra v hussey,True,Giles Hussey,polyus,0.88,Keshav Chopra,kalshi,0.1,0.9936,0.0,0.0,0.0,0.0,,0.13,,0.0,True,2026-11-16T19:25:45+00:00
+2026-11-16T19:25:45+00:00,dominko v viiala,True,Sebastian Dominko,kalshi,0.86,Zachary Viiala,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-16T19:25:35+00:00
+2026-11-16T19:26:05+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.29,Leyre Romero Gormaz,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T19:26:05+00:00
+2026-11-16T19:26:15+00:00,chopra v hussey,True,Giles Hussey,polyus,0.84,Keshav Chopra,kalshi,0.11,0.9662,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-16T19:26:15+00:00
+2026-11-16T19:26:15+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.89,Ryan Nijboer,polyus,0.09,0.9925,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-16T19:26:15+00:00
+2026-11-16T19:26:15+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.29,Leyre Romero Gormaz,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T19:26:05+00:00
+2026-11-16T19:26:25+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.29,Leyre Romero Gormaz,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T19:26:05+00:00
+2026-11-16T19:26:45+00:00,chopra v hussey,True,Giles Hussey,polyus,0.79,Keshav Chopra,kalshi,0.17,0.9814,0.0,0.0,0.0,0.0,,0.22,,0.0,True,2026-11-16T19:26:45+00:00
+2026-11-16T19:26:45+00:00,dominko v viiala,True,Sebastian Dominko,kalshi,0.87,Zachary Viiala,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T19:26:45+00:00
+2026-11-16T19:26:45+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.29,Leyre Romero Gormaz,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-16T19:26:45+00:00
+2026-11-16T19:26:55+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.3,Noah Zamora,kalshi,0.65,0.9805,0.0,0.0,0.0,0.0,,0.71,,0.0,True,2026-11-16T19:26:55+00:00
+2026-11-16T19:26:55+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.29,Leyre Romero Gormaz,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-16T19:26:45+00:00
+2026-11-16T19:27:05+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.3,Noah Zamora,kalshi,0.65,0.9805,0.0,0.0,0.0,0.0,,0.71,,0.0,True,2026-11-16T19:26:55+00:00
+2026-11-16T19:27:05+00:00,gormaz v ipek oz,True,Ipek Oz,kalshi,0.29,Leyre Romero Gormaz,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-16T19:26:45+00:00
+2026-11-16T19:27:15+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.3,Noah Zamora,kalshi,0.65,0.9805,0.0,0.0,0.0,0.0,,0.71,,0.0,True,2026-11-16T19:26:55+00:00
+2026-11-16T19:27:45+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.89,Ryan Nijboer,polyus,0.09,0.9925,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-16T19:27:45+00:00
+2026-11-16T19:27:55+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.24,Leyre Romero Gormaz,kalshi,0.72,0.9868,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-16T19:27:55+00:00
+2026-11-16T19:28:05+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.24,Leyre Romero Gormaz,kalshi,0.72,0.9868,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-16T19:27:55+00:00
+2026-11-16T19:28:15+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.84,Keshav Chopra,polyus,0.13,0.9873,0.0,0.0,0.0,0.0,0.88,,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:28:15+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.33,Noah Zamora,polyus,0.63,0.9917,0.0,0.0,0.0,0.0,0.38,,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:28:15+00:00,batalla v nijboer,True,Oriol Roca Batalla,polyus,0.89,Ryan Nijboer,kalshi,0.09,0.9925,0.0,0.0,0.0,0.0,,0.12,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:28:25+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.84,Keshav Chopra,polyus,0.13,0.9873,0.0,0.0,0.0,0.0,0.88,,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:28:25+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.33,Noah Zamora,polyus,0.63,0.9917,0.0,0.0,0.0,0.0,0.38,,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:28:25+00:00,batalla v nijboer,True,Oriol Roca Batalla,polyus,0.89,Ryan Nijboer,kalshi,0.09,0.9925,0.0,0.0,0.0,0.0,,0.12,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:28:35+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.84,Keshav Chopra,polyus,0.1,0.9557,0.0,0.0,0.0,0.0,0.91,,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:28:35+00:00,charlton v zamora,True,Joshua Charlton,kalshi,0.33,Noah Zamora,polyus,0.63,0.9917,0.0,0.0,0.0,0.0,0.39,,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:28:35+00:00,batalla v nijboer,True,Oriol Roca Batalla,polyus,0.89,Ryan Nijboer,kalshi,0.09,0.9925,0.0,0.0,0.0,0.0,,0.11,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:28:45+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.31,Noah Zamora,kalshi,0.63,0.9712,0.0,0.0,0.0,0.0,,0.7,,0.0,True,2026-11-16T19:28:45+00:00
+2026-11-16T19:28:45+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.89,Ryan Nijboer,polyus,0.08,0.982,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-16T19:28:45+00:00
+2026-11-16T19:28:45+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.88,Keshav Chopra,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:28:55+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.31,Noah Zamora,kalshi,0.63,0.9712,0.0,0.0,0.0,0.0,,0.7,,0.0,True,2026-11-16T19:28:45+00:00
+2026-11-16T19:28:55+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.89,Ryan Nijboer,polyus,0.08,0.982,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-16T19:28:45+00:00
+2026-11-16T19:28:55+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.88,Keshav Chopra,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:29:05+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.31,Noah Zamora,kalshi,0.63,0.9712,0.0,0.0,0.0,0.0,,0.7,,0.0,True,2026-11-16T19:28:45+00:00
+2026-11-16T19:29:05+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.89,Ryan Nijboer,polyus,0.08,0.982,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-16T19:28:45+00:00
+2026-11-16T19:29:05+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.88,Keshav Chopra,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.0,True,2026-11-16T19:28:15+00:00
+2026-11-16T19:29:15+00:00,chopra v hussey,True,Giles Hussey,polyus,0.88,Keshav Chopra,kalshi,0.1,0.9936,0.0,0.0,0.0,0.0,,0.13,,0.0,True,2026-11-16T19:29:15+00:00
+2026-11-16T19:29:25+00:00,chopra v hussey,True,Giles Hussey,polyus,0.88,Keshav Chopra,kalshi,0.1,0.9936,0.0,0.0,0.0,0.0,,0.13,,0.0,True,2026-11-16T19:29:15+00:00
+2026-11-16T19:29:35+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.19,Noah Zamora,kalshi,0.7,0.9154,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-16T19:29:35+00:00
+2026-11-16T19:29:35+00:00,chopra v hussey,True,Giles Hussey,polyus,0.88,Keshav Chopra,kalshi,0.1,0.9936,0.0,0.0,0.0,0.0,,0.13,,0.0,True,2026-11-16T19:29:15+00:00
+2026-11-16T19:29:45+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.19,Noah Zamora,kalshi,0.73,0.9445,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-16T19:29:35+00:00
+2026-11-16T19:29:55+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.19,Noah Zamora,kalshi,0.73,0.9445,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-16T19:29:35+00:00
+2026-11-16T19:30:05+00:00,charlton v zamora,True,Joshua Charlton,polyus,0.19,Noah Zamora,kalshi,0.73,0.9445,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-16T19:29:35+00:00
+2026-11-16T19:30:05+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.89,Ryan Nijboer,polyus,0.08,0.982,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T19:30:05+00:00
+2026-11-16T19:30:05+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.21,Leyre Romero Gormaz,kalshi,0.75,0.9847,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T19:30:05+00:00
+2026-11-16T19:30:15+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.21,Leyre Romero Gormaz,kalshi,0.75,0.9847,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T19:30:05+00:00
+2026-11-16T19:30:15+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.9,Ryan Nijboer,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T19:30:05+00:00
+2026-11-16T19:30:15+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.87,Keshav Chopra,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T19:30:15+00:00
+2026-11-16T19:30:25+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.21,Leyre Romero Gormaz,kalshi,0.75,0.9847,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T19:30:05+00:00
+2026-11-16T19:30:25+00:00,batalla v nijboer,True,Oriol Roca Batalla,kalshi,0.9,Ryan Nijboer,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-16T19:30:05+00:00
+2026-11-16T19:30:25+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.87,Keshav Chopra,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T19:30:15+00:00
+2026-11-16T19:30:35+00:00,gormaz v ipek oz,True,Ipek Oz,polyus,0.21,Leyre Romero Gormaz,kalshi,0.75,0.9847,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T19:30:05+00:00
+2026-11-16T19:30:35+00:00,chopra v hussey,True,Giles Hussey,kalshi,0.87,Keshav Chopra,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-16T19:30:15+00:00
+2026-11-16T19:30:45+00:00,batalla v nijboer,True,Oriol Roca Batalla,polyus,0.9,Ryan Nijboer,kalshi,0.08,0.9914,0.0,0.0,0.0,0.0,,0.11,,0.0,True,2026-11-16T19:30:45+00:00
+2026-11-16T19:30:45+00:00,chopra v hussey,True,Giles Hussey,polyus,0.87,Keshav Chopra,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,,0.13,,0.0,True,2026-11-16T19:30:45+00:00
+2026-11-16T19:30:55+00:00,jimenez v monnet,True,Carole Monnet,kalshi,0.64,Victoria Jimenez Kasintseva,polyus,0.3,0.9707,0.0,0.0,0.0,0.0,0.71,,,0.0,True,2026-11-16T19:30:55+00:00
+2026-11-16T19:30:55+00:00,batalla v nijboer,True,Oriol Roca Batalla,polyus,0.9,Ryan Nijboer,kalshi,0.08,0.9914,0.0,0.0,0.0,0.0,,0.11,,0.0,True,2026-11-16T19:30:45+00:00
+2026-11-16T19:30:55+00:00,chopra v hussey,True,Giles Hussey,polyus,0.87,Keshav Chopra,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-16T19:30:45+00:00
