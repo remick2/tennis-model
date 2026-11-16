@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sun Nov 15, 5:40PM MT
+# Consensus paper tracker — Sun Nov 15, 6:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-0 | +1.36 | 1 |
-| 2 agree | all 15 | 21-13 | +3.81 | 24-19 | -2.02 | 6 |
-| 2+ agree, 1+ against (split) | all 15 | 24-13 | +10.60 | 21-16 | -1.19 | 3 |
+| 2 agree | all 15 | 21-13 | +3.81 | 24-19 | -2.02 | 8 |
+| 2+ agree, 1+ against (split) | all 15 | 24-13 | +10.60 | 21-17 | -2.19 | 2 |
 | 3+ agree (paper play) | core 10 only | 4-2 | +2.72 | 1-0 | +0.12 | 0 |
 | 2 agree | core 10 only | 10-6 | +2.69 | 12-8 | +0.25 | 4 |
-| 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 8-6 | +0.10 | 1 |
+| 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 8-7 | -0.90 | 0 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 7 of 30 graded plays · net +2.89u · 5 wins vs 3.9 expected, z = +0.90 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
@@ -85,6 +85,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | NBA | Rockets vs. Wizards | Wizards (+8.5) (Spread) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; 0x9f15613e | — | 50.5c |
 | new | 2026-11-15 | NFL | Steelers vs. Bengals | Steelers (+3.5) (Spread) | 2 agree, 1 against | pre-game | bands1; BreakTheBank | monkeymashingkeyboard | 47.5c |
 | new | 2026-11-15 | NBA | Hawks vs. Bucks | Hawks (-8.5) (Spread) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; ianf2026 | — | 51.5c |
-| new | 2026-11-15 | NBA | Rockets vs. Wizards | Wizards (Moneyline) | 3 agree, 1 against | in-play | jakepaulthegoat2008; fantasy7788; ch27er | 0x9f15613e | 11.5c |
 | new | 2026-11-15 | NFL | Steelers vs. Bengals | Steelers (Moneyline) | 2 agree, 0 against | pre-game | bands1; BreakTheBank | — | 34.5c |
 | new | 2026-11-15 | NBA | Rockets vs. Wizards | Wizards (+9.5) (Spread) | 3 agree, 0 against | in-play | drainedandpoor; ch27er; ianf2026 | — | 35.5c |
+| new | 2026-11-15 | NFL | Steelers vs. Bengals | Steelers (+4.5) (Spread) | 2 agree, 0 against | in-play | purplegatto; BreakTheBank | — | 45.5c |
+| new | 2026-11-15 | NFL | Steelers vs. Bengals | Under 48.5 (Total) | 2 agree, 0 against | in-play | 0x9f15613e; BreakTheBank | — | 54.5c |
