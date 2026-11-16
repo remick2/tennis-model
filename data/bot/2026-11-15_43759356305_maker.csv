@@ -99,3 +99,4 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-15T23:51:01+00:00,charlton v noord,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANCHA-VAN:yes,0.24,208,False,0.0066,2.2,hedged,polyus:aec-atp-nienoo-joscha-2026-11-15:1,0.74,1.38,-6.66,1.38,True
 2026-11-15T23:52:21+00:00,charlton v noord,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANCHA-VAN:yes,0.17,294,True,0.0093,1.9,hedged,polyus:aec-atp-nienoo-joscha-2026-11-15:1,0.85,-8.49,-11.3,-8.49,True
 2026-11-15T23:52:21+00:00,charlton v noord,True,polyus:aec-atp-nienoo-joscha-2026-11-15:0,0.17,294,False,0.0092,1.9,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15VANCHA-VAN:no,0.86,-11.3,-8.49,-8.49,True
+2026-11-15T23:57:05+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-BIG:yes,0.88,56,False,0.0137,2.2,hedged,polyus:aec-atp-kaybig-sascol-2026-11-15:1,0.1,0.77,-1.0,0.77,True

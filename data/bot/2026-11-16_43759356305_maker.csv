@@ -1,0 +1,10 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-16T00:01:49+00:00,jones v marterer,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MARJON-MAR:yes,0.79,63,True,0.0093,2.5,hedged,polyus:aec-atp-maxmar-benjon-2026-11-15:1,0.19,0.59,-1.39,0.59,True
+2026-11-16T00:02:40+00:00,jones v marterer,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MARJON-JON:yes,0.18,277,True,0.0089,2.0,hedged,polyus:aec-atp-maxmar-benjon-2026-11-15:0,0.84,-8.13,-8.15,-8.13,True
+2026-11-16T00:02:52+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-BIG:yes,0.84,59,False,0.0116,2.1,hedged,polyus:aec-atp-kaybig-sascol-2026-11-15:1,0.14,0.69,-1.17,0.69,True
+2026-11-16T00:03:32+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-COL:yes,0.13,384,True,0.0111,2.0,hedged,polyus:aec-atp-kaybig-sascol-2026-11-15:0,0.87,-3.02,-6.68,-3.02,True
+2026-11-16T00:04:53+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-BIG:yes,0.82,60,True,0.0107,2.4,hedged,polyus:aec-atp-kaybig-sascol-2026-11-15:1,0.2,-1.87,-1.87,-1.87,True
+2026-11-16T00:06:25+00:00,jones v marterer,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MARJON-JON:yes,0.2,250,False,0.0081,2.0,hedged,polyus:aec-atp-maxmar-benjon-2026-11-15:0,0.81,-5.17,-5.19,-5.17,True
+2026-11-16T00:06:25+00:00,jones v marterer,True,polyus:aec-atp-maxmar-benjon-2026-11-15:1,0.21,238,False,0.0076,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV15MARJON-MAR:yes,0.81,-7.32,-7.31,-7.31,True
+2026-11-16T00:09:50+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-BIG:yes,0.71,70,True,0.0063,2.6,hedged,polyus:aec-atp-kaybig-sascol-2026-11-15:1,0.27,0.44,-2.45,0.44,True
+2026-11-16T00:10:17+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-BIG:yes,0.67,74,False,0.0051,2.2,hedged,polyus:aec-atp-kaybig-sascol-2026-11-15:1,0.34,-1.89,-1.9,-1.89,True
