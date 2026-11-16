@@ -1,4 +1,4 @@
-# Arb test status (Mon Nov 16 12:13PM MT)
+# Arb test status (Mon Nov 16 12:28PM MT)
 
 Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (5/10 occasions, 2/5 days). Test ends Nov 22 00:00 UTC. Live trading is off and stays off.
 
@@ -13,20 +13,20 @@ Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (5/10 occasions, 2/5
 | Paper bot: fires still fillable 1s later | 19% | - |
 | Polymarket US reads refused as stale | 0.0% (oldest 1s) | < 5% |
 
-Coverage: 848 candidate checks (list prices showed an arb), 17 got no Polymarket US book; 0 rate-limit hits; 111 failed list refreshes in 80,910 cycles; list vs book disagreed on 188 of 831 checks.
+Coverage: 850 candidate checks (list prices showed an arb), 17 got no Polymarket US book; 0 rate-limit hits; 111 failed list refreshes in 81,360 cycles; list vs book disagreed on 190 of 833 checks.
 
-Bot coverage: 2,697 minutes watched. Cycles (2s each) where some pair cost under $1: **7,188**. Best a single fire would have netted: **$14.92**.
+Bot coverage: 2,712 minutes watched. Cycles (2s each) where some pair cost under $1: **7,190**. Best a single fire would have netted: **$14.92**.
 
 ## Maker test (rest a bid on one venue, hedge on the other if it fills)
 
-Fills: **4794** · total **$-17596.62** · per fill $-3.67 ± 0.08. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
+Fills: **4834** · total **$-17825.61** · per fill $-3.69 ± 0.08. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
 
 | venue   | live   |   fills |     total |   mean |
 |:--------|:-------|--------:|----------:|-------:|
 | kalshi  | False  |      94 |    249.58 |   2.66 |
-| kalshi  | True   |    3966 | -13657.2  |  -3.44 |
+| kalshi  | True   |    4001 | -13854.1  |  -3.46 |
 | polyus  | False  |      14 |    -37.17 |  -2.66 |
-| polyus  | True   |     720 |  -4151.82 |  -5.77 |
+| polyus  | True   |     725 |  -4183.88 |  -5.77 |
 
 ## By UTC day
 
@@ -34,5 +34,5 @@ Fills: **4794** · total **$-17596.62** · per fill $-3.67 ± 0.08. No edge show
 |:-----------|------------:|-------------:|--------------:|------------:|----------:|
 | 2026-11-14 |           0 |            0 |            19 |        0    |      7.28 |
 | 2026-11-15 |          21 |           20 |          2740 |       79.75 |  -8654.03 |
-| 2026-11-16 |           5 |            5 |          2035 |        5.25 |  -8949.87 |
+| 2026-11-16 |           5 |            5 |          2075 |        5.25 |  -9178.86 |
 

@@ -843,3 +843,43 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T19:12:41+00:00,gormaz v ipek oz,True,kalshi:KXWTACHALLENGERMATCH-26NOV16ROMIPE-IPE:yes,0.68,73,True,0.0054,34.0,hedged,polyus:aec-wta-leygor-ipeoz-2026-11-16:0,0.35,-3.34,-3.35,-3.34,True
 2026-11-16T19:13:01+00:00,jover v llanes,True,kalshi:KXATPCHALLENGERMATCH-26NOV16SANLLA-LLA:yes,0.39,128,False,0.0131,2.0,hedged,polyus:aec-atp-carjov-fralla-2026-11-17:0,0.62,-3.38,-3.39,-3.38,True
 2026-11-16T19:13:23+00:00,gormaz v ipek oz,True,kalshi:KXWTACHALLENGERMATCH-26NOV16ROMIPE-IPE:yes,0.6,83,False,0.0138,1.9,hedged,polyus:aec-wta-leygor-ipeoz-2026-11-16:0,0.41,-2.23,-2.24,-2.23,True
+2026-11-16T19:13:43+00:00,chopra v hussey,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HUSCHO-CHO:yes,0.19,263,False,0.0085,2.2,hedged,polyus:aec-atp-gilhus-kescho-2026-11-16:0,0.81,-2.81,-5.35,-2.81,True
+2026-11-16T19:13:55+00:00,dominko v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DOMVII-VII:yes,0.09,555,True,0.0132,2.0,hedged,polyus:aec-atp-sebdom-zacvii-2026-11-16:0,0.92,-8.39,-8.41,-8.39,True
+2026-11-16T19:13:59+00:00,guillen v villanueva,True,polyus:aec-atp-gonvil-alvmez-2026-11-17:1,0.1,500,False,0.0126,2.1,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16VILGUI-VIL:yes,0.91,-7.87,-7.85,-7.85,True
+2026-11-16T19:14:05+00:00,batalla v nijboer,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ROCNIJ-ROC:yes,0.81,61,False,0.0102,2.0,hedged,polyus:aec-atp-oribat-ryanij-2026-11-17:1,0.2,-1.29,-1.29,-1.29,True
+2026-11-16T19:14:11+00:00,chopra v hussey,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HUSCHO-HUS:yes,0.79,63,False,0.0093,1.0,hedged,polyus:aec-atp-gilhus-kescho-2026-11-16:1,0.19,0.59,-1.39,0.59,True
+2026-11-16T19:14:35+00:00,guillen v villanueva,True,kalshi:KXATPCHALLENGERMATCH-26NOV16VILGUI-VIL:yes,0.88,56,False,0.0137,2.0,hedged,polyus:aec-atp-gonvil-alvmez-2026-11-17:1,0.13,-1.0,-1.0,-1.0,True
+2026-11-16T19:14:51+00:00,batalla v nijboer,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ROCNIJ-NIJ:yes,0.17,294,True,0.0093,2.0,hedged,polyus:aec-atp-oribat-ryanij-2026-11-17:0,0.84,-5.69,-5.71,-5.69,True
+2026-11-16T19:15:03+00:00,chopra v hussey,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HUSCHO-CHO:yes,0.18,277,False,0.0089,2.0,hedged,polyus:aec-atp-gilhus-kescho-2026-11-16:0,0.83,-5.49,-5.51,-5.49,True
+2026-11-16T19:15:07+00:00,guerrieri v ymer,True,kalshi:KXATPCHALLENGERMATCH-26NOV16GUEYME-YME:yes,0.2,250,False,0.0081,47.9,hedged,polyus:aec-atp-andgue-eliyme-2026-11-16:0,0.83,-9.95,-9.97,-9.95,True
+2026-11-16T19:15:29+00:00,guerrieri v ymer,True,kalshi:KXATPCHALLENGERMATCH-26NOV16GUEYME-YME:yes,0.14,357,False,0.0107,2.0,unwound,polyus:aec-atp-andgue-eliyme-2026-11-16:0,0.89,-13.14,-9.78,-9.78,True
+2026-11-16T19:15:55+00:00,chopra v hussey,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HUSCHO-HUS:yes,0.81,61,False,0.0102,2.0,hedged,polyus:aec-atp-gilhus-kescho-2026-11-16:1,0.17,0.62,-1.93,0.62,True
+2026-11-16T19:16:53+00:00,chopra v hussey,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HUSCHO-CHO:yes,0.17,294,False,0.0093,2.0,hedged,polyus:aec-atp-gilhus-kescho-2026-11-16:0,0.84,-5.69,-5.71,-5.69,True
+2026-11-16T19:16:59+00:00,guerrieri v ymer,True,kalshi:KXATPCHALLENGERMATCH-26NOV16GUEYME-YME:yes,0.1,500,False,0.0127,2.0,hedged,polyus:aec-atp-andgue-eliyme-2026-11-16:0,0.93,-17.26,-17.28,-17.26,True
+2026-11-16T19:16:59+00:00,guerrieri v ymer,True,polyus:aec-atp-andgue-eliyme-2026-11-16:1,0.1,500,False,0.0126,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16GUEYME-YME:no,0.93,-17.28,-17.26,-17.26,True
+2026-11-16T19:17:21+00:00,dominko v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DOMVII-DOM:yes,0.85,58,False,0.0121,2.0,hedged,polyus:aec-atp-sebdom-zacvii-2026-11-16:1,0.16,-1.12,-1.13,-1.12,True
+2026-11-16T19:17:27+00:00,guerrieri v ymer,True,kalshi:KXATPCHALLENGERMATCH-26NOV16GUEYME-YME:yes,0.04,1250,False,0.0067,2.0,hedged,polyus:aec-atp-andgue-eliyme-2026-11-16:0,0.97,-15.03,-15.05,-15.03,True
+2026-11-16T19:17:43+00:00,guillen v villanueva,True,kalshi:KXATPCHALLENGERMATCH-26NOV16VILGUI-VIL:yes,0.93,53,False,0.0061,1.9,hedged,polyus:aec-atp-gonvil-alvmez-2026-11-17:1,0.08,-0.8,-0.8,-0.8,True
+2026-11-16T19:17:45+00:00,chopra v hussey,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HUSCHO-CHO:yes,0.13,384,False,0.0111,2.0,hedged,polyus:aec-atp-gilhus-kescho-2026-11-16:0,0.89,-10.29,-10.31,-10.29,True
+2026-11-16T19:18:10+00:00,gormaz v ipek oz,True,kalshi:KXWTACHALLENGERMATCH-26NOV16ROMIPE-IPE:yes,0.39,128,False,0.0131,34.7,hedged,polyus:aec-wta-leygor-ipeoz-2026-11-16:0,0.62,-3.38,-3.39,-3.38,True
+2026-11-16T19:20:19+00:00,guillen v villanueva,True,kalshi:KXATPCHALLENGERMATCH-26NOV16VILGUI-VIL:yes,0.94,53,False,0.0067,2.0,hedged,polyus:aec-atp-gonvil-alvmez-2026-11-17:1,0.07,-0.77,-0.77,-0.77,True
+2026-11-16T19:20:19+00:00,guillen v villanueva,True,polyus:aec-atp-gonvil-alvmez-2026-11-17:0,0.94,53,False,0.0067,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16VILGUI-VIL:no,0.07,-0.77,-0.77,-0.77,True
+2026-11-16T19:20:39+00:00,charlton v zamora,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZAMCHA-ZAM:yes,0.53,94,False,0.0129,2.0,hedged,polyus:aec-atp-noazam-joscha-2026-11-16:1,0.44,1.21,-2.58,1.21,True
+2026-11-16T19:21:01+00:00,gormaz v ipek oz,True,kalshi:KXWTACHALLENGERMATCH-26NOV16ROMIPE-IPE:yes,0.33,151,False,0.014,2.0,hedged,polyus:aec-wta-leygor-ipeoz-2026-11-16:0,0.67,-2.32,-3.81,-2.32,True
+2026-11-16T19:21:13+00:00,guillen v villanueva,True,kalshi:KXATPCHALLENGERMATCH-26NOV16VILGUI-VIL:yes,0.9,55,False,0.0149,2.2,hedged,polyus:aec-atp-gonvil-alvmez-2026-11-17:1,0.11,-0.92,-0.93,-0.92,True
+2026-11-16T19:21:49+00:00,guillen v villanueva,True,kalshi:KXATPCHALLENGERMATCH-26NOV16VILGUI-GUI:yes,0.08,625,False,0.0137,2.0,hedged,polyus:aec-atp-gonvil-alvmez-2026-11-17:0,0.94,-14.95,-14.97,-14.95,True
+2026-11-16T19:22:51+00:00,guillen v villanueva,True,kalshi:KXATPCHALLENGERMATCH-26NOV16VILGUI-GUI:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-atp-gonvil-alvmez-2026-11-17:0,0.97,-22.02,-22.04,-22.02,True
+2026-11-16T19:24:27+00:00,jimenez v monnet,True,kalshi:KXWTACHALLENGERMATCH-26NOV16JIMMON-JIM:yes,0.45,111,False,0.0127,2.0,hedged,polyus:aec-wta-vickas-carmon-2026-11-16:1,0.58,-5.21,-5.22,-5.21,True
+2026-11-16T19:24:27+00:00,jimenez v monnet,True,polyus:aec-wta-vickas-carmon-2026-11-16:0,0.45,111,False,0.0125,2.0,unwound,kalshi:KXWTACHALLENGERMATCH-26NOV16JIMMON-MON:yes,0.58,-5.22,-5.21,-5.21,True
+2026-11-16T19:26:03+00:00,gormaz v ipek oz,True,kalshi:KXWTACHALLENGERMATCH-26NOV16ROMIPE-IPE:yes,0.29,172,False,0.0149,2.2,hedged,polyus:aec-wta-leygor-ipeoz-2026-11-16:0,0.72,-4.13,-4.15,-4.13,True
+2026-11-16T19:26:10+00:00,chopra v hussey,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HUSCHO-HUS:yes,0.84,59,False,0.0116,2.8,hedged,polyus:aec-atp-gilhus-kescho-2026-11-16:1,0.17,-1.17,-1.17,-1.17,True
+2026-11-16T19:26:31+00:00,gormaz v ipek oz,True,kalshi:KXWTACHALLENGERMATCH-26NOV16ROMIPE-ROM:yes,0.69,72,True,0.0057,2.0,hedged,polyus:aec-wta-leygor-ipeoz-2026-11-16:1,0.33,-2.55,-2.55,-2.55,True
+2026-11-16T19:26:53+00:00,charlton v zamora,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZAMCHA-CHA:yes,0.32,156,False,0.0142,2.0,hedged,polyus:aec-atp-noazam-joscha-2026-11-16:0,0.71,-6.91,-6.93,-6.91,True
+2026-11-16T19:27:13+00:00,gormaz v ipek oz,True,kalshi:KXWTACHALLENGERMATCH-26NOV16ROMIPE-IPE:yes,0.29,172,True,0.0149,2.2,hedged,polyus:aec-wta-leygor-ipeoz-2026-11-16:0,0.72,-4.13,-4.15,-4.13,True
+2026-11-16T19:27:29+00:00,charlton v zamora,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZAMCHA-ZAM:yes,0.68,73,False,0.0054,2.0,hedged,polyus:aec-atp-noazam-joscha-2026-11-16:1,0.33,-1.85,-1.86,-1.85,True
+2026-11-16T19:27:49+00:00,gormaz v ipek oz,True,kalshi:KXWTACHALLENGERMATCH-26NOV16ROMIPE-IPE:yes,0.26,192,True,0.006,2.0,hedged,polyus:aec-wta-leygor-ipeoz-2026-11-16:0,0.77,-8.12,-8.14,-8.12,True
+2026-11-16T19:28:07+00:00,charlton v zamora,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZAMCHA-ZAM:yes,0.64,78,False,0.0146,2.0,hedged,polyus:aec-atp-noazam-joscha-2026-11-16:1,0.37,-2.04,-2.05,-2.04,True
+2026-11-16T19:28:07+00:00,batalla v nijboer,True,polyus:aec-atp-oribat-ryanij-2026-11-17:0,0.89,56,False,0.0143,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16ROCNIJ-ROC:no,0.12,-0.97,-0.97,-0.97,True
+2026-11-16T19:28:35+00:00,chopra v hussey,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HUSCHO-CHO:yes,0.1,500,False,0.0127,2.0,hedged,polyus:aec-atp-gilhus-kescho-2026-11-16:0,0.91,-7.85,-7.87,-7.85,True
+2026-11-16T19:28:37+00:00,batalla v nijboer,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ROCNIJ-NIJ:yes,0.09,555,True,0.0132,2.0,unwound,polyus:aec-atp-oribat-ryanij-2026-11-17:0,0.93,-13.61,-8.41,-8.41,True
+2026-11-16T19:28:39+00:00,charlton v zamora,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZAMCHA-CHA:yes,0.34,147,False,0.0138,2.0,hedged,polyus:aec-atp-noazam-joscha-2026-11-16:0,0.7,-8.03,-8.04,-8.03,True
