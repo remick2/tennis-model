@@ -894,3 +894,43 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-16T07:08:11+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.33,Yun Seong Chung,kalshi,0.63,0.9917,0.0,0.0,0.0,0.0,,0.67,,0.0,True,2026-11-16T07:08:11+00:00
 2026-11-16T07:08:21+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.33,Yun Seong Chung,kalshi,0.63,0.9917,0.0,0.0,0.0,0.0,,0.68,,0.0,True,2026-11-16T07:08:11+00:00
 2026-11-16T07:08:31+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.29,Yun Seong Chung,kalshi,0.63,0.9506,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-16T07:08:11+00:00
+2026-11-16T07:08:41+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.29,Yun Seong Chung,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T07:08:11+00:00
+2026-11-16T07:08:51+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.29,Yun Seong Chung,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T07:08:11+00:00
+2026-11-16T07:09:01+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.28,Yun Seong Chung,kalshi,0.68,0.9892,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-16T07:08:11+00:00
+2026-11-16T07:09:11+00:00,chung v hassan,True,Benjamin Hassan,kalshi,0.29,Yun-Seong Chung,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,,,0.0,True,2026-11-16T07:09:11+00:00
+2026-11-16T07:09:21+00:00,chung v hassan,True,Benjamin Hassan,kalshi,0.29,Yun-Seong Chung,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,,,0.0,True,2026-11-16T07:09:11+00:00
+2026-11-16T07:09:31+00:00,chung v hassan,True,Benjamin Hassan,kalshi,0.29,Yun-Seong Chung,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.34,,,0.0,True,2026-11-16T07:09:11+00:00
+2026-11-16T07:09:41+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.29,Yun Seong Chung,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.71,,0.0,True,2026-11-16T07:09:41+00:00
+2026-11-16T07:09:51+00:00,aguiard v oconnell,True,Christopher O'Connell,kalshi,0.92,Enzo Aguiard,polyus,0.06,0.9891,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-16T07:09:51+00:00
+2026-11-16T07:09:51+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.29,Yun Seong Chung,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-16T07:09:41+00:00
+2026-11-16T07:10:01+00:00,aguiard v oconnell,True,Christopher O'Connell,kalshi,0.92,Enzo Aguiard,polyus,0.06,0.9891,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-16T07:09:51+00:00
+2026-11-16T07:10:01+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.29,Yun Seong Chung,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-16T07:09:41+00:00
+2026-11-16T07:10:11+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.21,Yun Seong Chung,kalshi,0.73,0.9653,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T07:09:41+00:00
+2026-11-16T07:10:21+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.21,Yun Seong Chung,kalshi,0.73,0.9653,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T07:09:41+00:00
+2026-11-16T07:10:31+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.21,Yun Seong Chung,kalshi,0.73,0.9653,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T07:09:41+00:00
+2026-11-16T07:10:41+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.21,Yun Seong Chung,kalshi,0.73,0.9653,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T07:09:41+00:00
+2026-11-16T07:12:31+00:00,cui v watanuki,True,Jie Cui,polyus,0.04,Yosuke Watanuki,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-16T07:12:31+00:00
+2026-11-16T07:12:41+00:00,cui v watanuki,True,Jie Cui,polyus,0.04,Yosuke Watanuki,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-16T07:12:31+00:00
+2026-11-16T07:14:41+00:00,aguiard v oconnell,True,Christopher O'Connell,polyus,0.86,Enzo Aguiard,kalshi,0.1,0.9747,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-16T07:14:41+00:00
+2026-11-16T07:14:51+00:00,aguiard v oconnell,True,Christopher O'Connell,polyus,0.86,Enzo Aguiard,kalshi,0.1,0.9747,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-16T07:14:41+00:00
+2026-11-16T07:15:01+00:00,aguiard v oconnell,True,Christopher O'Connell,polyus,0.86,Enzo Aguiard,kalshi,0.1,0.9747,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-16T07:14:41+00:00
+2026-11-16T07:15:41+00:00,aguiard v oconnell,True,Christopher O'Connell,kalshi,0.85,Enzo Aguiard,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-16T07:15:41+00:00
+2026-11-16T07:15:51+00:00,aguiard v oconnell,True,Christopher O'Connell,kalshi,0.85,Enzo Aguiard,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-16T07:15:41+00:00
+2026-11-16T07:17:01+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.2,Yun Seong Chung,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-16T07:17:01+00:00
+2026-11-16T07:17:11+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.2,Yun Seong Chung,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-16T07:17:01+00:00
+2026-11-16T07:18:41+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.14,Yun Seong Chung,kalshi,0.82,0.9787,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-16T07:18:41+00:00
+2026-11-16T07:18:51+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.14,Yun Seong Chung,kalshi,0.82,0.9787,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-16T07:18:41+00:00
+2026-11-16T07:19:02+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.15,Yun Seong Chung,kalshi,0.82,0.9892,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-16T07:18:41+00:00
+2026-11-16T07:19:12+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.09,Yun Seong Chung,kalshi,0.86,0.9641,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-16T07:18:41+00:00
+2026-11-16T07:19:22+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.1,Yun Seong Chung,kalshi,0.86,0.9747,0.0,0.0,0.0,0.0,,0.93,,0.0,True,2026-11-16T07:18:41+00:00
+2026-11-16T07:19:32+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.08,Yun Seong Chung,kalshi,0.86,0.9535,0.0,0.0,0.0,0.0,,0.93,,0.0,True,2026-11-16T07:18:41+00:00
+2026-11-16T07:19:52+00:00,chung v hassan,True,Benjamin Hassan,kalshi,0.08,Yun-Seong Chung,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.11,,,0.0,True,2026-11-16T07:19:52+00:00
+2026-11-16T07:20:02+00:00,chung v hassan,True,Benjamin Hassan,kalshi,0.08,Yun-Seong Chung,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-16T07:19:52+00:00
+2026-11-16T07:20:32+00:00,chung v hassan,True,Benjamin Hassan,kalshi,0.12,Yun-Seong Chung,polyus,0.85,0.9863,0.0,0.0,0.0,0.0,0.16,,,0.0,True,2026-11-16T07:20:32+00:00
+2026-11-16T07:21:02+00:00,chung v hassan,True,Benjamin Hassan,kalshi,0.16,Yun-Seong Chung,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-16T07:21:02+00:00
+2026-11-16T07:22:42+00:00,aguiard v oconnell,True,Christopher O'Connell,polyus,0.71,Enzo Aguiard,kalshi,0.23,0.9667,0.0,0.0,0.0,0.0,,0.29,,0.0,True,2026-11-16T07:22:42+00:00
+2026-11-16T07:23:12+00:00,aguiard v oconnell,True,Christopher O'Connell,polyus,0.68,Enzo Aguiard,kalshi,0.29,0.9995,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-16T07:23:12+00:00
+2026-11-16T07:23:22+00:00,aguiard v oconnell,True,Christopher O'Connell,kalshi,0.67,Enzo Aguiard,polyus,0.24,0.9382,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-16T07:23:22+00:00
+2026-11-16T07:23:32+00:00,aguiard v oconnell,True,Christopher O'Connell,kalshi,0.67,Enzo Aguiard,polyus,0.24,0.9382,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-16T07:23:22+00:00
+2026-11-16T07:23:42+00:00,aguiard v oconnell,True,Christopher O'Connell,kalshi,0.67,Enzo Aguiard,polyus,0.24,0.9382,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-16T07:23:22+00:00
+2026-11-16T07:23:42+00:00,chung v hassan,True,Benjamin Hassan,polyus,0.19,Yun Seong Chung,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-16T07:23:42+00:00
