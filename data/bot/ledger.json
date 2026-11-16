@@ -1,13 +1,27 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 339.88,
-  "polyus": 439.88
+  "kalshi": 246.29,
+  "polyus": 348.28
  },
- "open": [],
+ "open": [
+  {
+   "id": "40832e098ad3",
+   "key": "bigun v colleu",
+   "opened": "2026-11-16T00:39:31+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV15BIGCOL-COL",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 192.0,
+    "kalshi": 192.0
+   },
+   "cost": 185.19,
+   "expected": 6.81
+  }
+ ],
  "settled_pnl": 86.09,
  "unwind_pnl": -6.34,
- "fires": 21,
+ "fires": 22,
  "settled": 19,
  "rebalances": 4
 }

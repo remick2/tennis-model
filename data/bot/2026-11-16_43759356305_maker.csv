@@ -27,3 +27,11 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T00:19:23+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-BIG:yes,0.69,72,False,0.0057,1.7,unwound,polyus:aec-atp-kaybig-sascol-2026-11-15:1,0.33,-2.55,-1.82,-1.82,True
 2026-11-16T00:24:53+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-BIG:yes,0.62,80,False,0.0142,2.0,hedged,polyus:aec-atp-kaybig-sascol-2026-11-15:1,0.39,-2.12,-2.13,-2.12,True
 2026-11-16T00:25:07+00:00,jones v marterer,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MARJON-MAR:yes,0.72,69,False,0.0066,2.0,hedged,polyus:aec-atp-maxmar-benjon-2026-11-15:1,0.29,-1.68,-1.68,-1.68,True
+2026-11-16T00:30:07+00:00,charlton v noord,True,kalshi:KXATPCHALLENGERMATCH-26NOV15VANCHA-CHA:yes,0.96,52,True,0.008,2.0,hedged,polyus:aec-atp-nienoo-joscha-2026-11-15:0,0.03,0.41,-1.25,0.41,True
+2026-11-16T00:30:16+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-BIG:yes,0.55,90,False,0.0131,2.3,hedged,polyus:aec-atp-kaybig-sascol-2026-11-15:1,0.42,1.18,-2.46,1.18,True
+2026-11-16T00:30:25+00:00,jones v marterer,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MARJON-JON:yes,0.21,238,True,0.0077,1.1,hedged,polyus:aec-atp-maxmar-benjon-2026-11-15:0,0.77,1.83,-5.05,1.83,True
+2026-11-16T00:31:37+00:00,jones v marterer,True,kalshi:KXATPCHALLENGERMATCH-26NOV15MARJON-MAR:yes,0.82,60,False,0.0107,1.9,hedged,polyus:aec-atp-maxmar-benjon-2026-11-15:1,0.19,-1.24,-2.5,-1.24,True
+2026-11-16T00:37:29+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-BIG:yes,0.42,119,False,0.0128,1.9,hedged,polyus:aec-atp-kaybig-sascol-2026-11-15:1,0.6,-4.36,-4.38,-4.36,True
+2026-11-16T00:39:31+00:00,bigun v colleu,True,kalshi:KXATPCHALLENGERMATCH-26NOV15BIGCOL-COL:yes,0.51,98,False,0.0127,1.8,hedged,polyus:aec-atp-kaybig-sascol-2026-11-15:0,0.45,2.23,-6.6,2.23,True
+2026-11-16T00:39:53+00:00,marinkov v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV15PHAMAR-PHA:yes,0.47,106,True,0.0126,2.4,hedged,polyus:aec-atp-derpha-pavmar-2026-11-15:1,0.54,-2.89,-2.9,-2.89,True
+2026-11-16T00:40:24+00:00,marinkov v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV15PHAMAR-MAR:yes,0.5,100,True,0.0127,1.5,hedged,polyus:aec-atp-derpha-pavmar-2026-11-15:0,0.52,-3.73,-3.75,-3.73,True
