@@ -1,13 +1,27 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 340.88,
-  "polyus": 504.88
+  "kalshi": 191.01,
+  "polyus": 405.39
  },
- "open": [],
+ "open": [
+  {
+   "id": "271263aef08b",
+   "key": "papamichail v samson",
+   "opened": "2026-11-17T21:44:06+00:00",
+   "kalshi_ticker": "KXWTACHALLENGERMATCH-26NOV17PAPSAM-SAM",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 251,
+    "kalshi": 251
+   },
+   "cost": 249.36,
+   "expected": 1.64
+  }
+ ],
  "settled_pnl": 198.74,
  "unwind_pnl": -52.99,
- "fires": 49,
+ "fires": 50,
  "settled": 38,
  "rebalances": 8
 }
