@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 208.79,
-  "polyus": 208.79
+  "kalshi": 138.13,
+  "polyus": 169.86
  },
  "open": [
   {
@@ -30,11 +30,24 @@
    },
    "cost": 167.3,
    "expected": 2.7
+  },
+  {
+   "id": "9e8ea96060ea",
+   "key": "dellavedova v kubler",
+   "opened": "2026-11-17T01:42:24+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB",
+   "kalshi_side": "yes",
+   "shares": {
+    "kalshi": 111.0,
+    "polyus": 111.0
+   },
+   "cost": 109.59,
+   "expected": 1.41
   }
  ],
  "settled_pnl": 113.24,
  "unwind_pnl": -46.02,
- "fires": 37,
+ "fires": 38,
  "settled": 26,
  "rebalances": 6
 }
