@@ -324,3 +324,97 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T20:21:56+00:00,faurel v nardi,True,Luca Nardi,polyus,0.93,Thomas Faurel,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-17T20:21:46+00:00
 2026-11-17T20:22:06+00:00,mejia v wessels,True,Louis Wessels,polyus,0.06,Nicolas Mejia,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T20:21:36+00:00
 2026-11-17T20:22:16+00:00,mejia v wessels,True,Louis Wessels,polyus,0.06,Nicolas Mejia,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T20:21:36+00:00
+2026-11-17T20:22:26+00:00,mejia v wessels,True,Louis Wessels,polyus,0.06,Nicolas Mejia,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T20:21:36+00:00
+2026-11-17T20:22:26+00:00,faurel v nardi,True,Luca Nardi,kalshi,0.93,Thomas Faurel,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T20:22:26+00:00
+2026-11-17T20:22:26+00:00,hussey v wendelken,True,Giles Hussey,kalshi,0.07,Harry Wendelken,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-17T20:22:26+00:00
+2026-11-17T20:22:36+00:00,carle v erjavec,True,Maria Carle,kalshi,0.71,Veronika Erjavec,polyus,0.24,0.9771,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-17T20:22:36+00:00
+2026-11-17T20:22:36+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.06,Nicolas Mejia,polyus,0.91,0.9796,0.0,0.0,0.0,0.0,0.1,,,0.1,True,2026-11-17T20:22:36+00:00
+2026-11-17T20:22:46+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.06,Nicolas Mejia,polyus,0.91,0.9796,0.0,0.0,0.0,0.0,0.1,,,0.1,True,2026-11-17T20:22:36+00:00
+2026-11-17T20:22:56+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.06,Nicolas Mejia,polyus,0.91,0.9796,0.0,0.0,0.0,0.0,0.1,,,0.1,True,2026-11-17T20:22:36+00:00
+2026-11-17T20:22:56+00:00,hussey v wendelken,True,Giles Hussey,polyus,0.07,Harry Wendelken,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T20:22:56+00:00
+2026-11-17T20:23:06+00:00,mejia v wessels,True,Louis Wessels,polyus,0.06,Nicolas Mejia,kalshi,0.91,0.9797,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T20:23:06+00:00
+2026-11-17T20:23:16+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.71,Veronika Erjavec,kalshi,0.24,0.9771,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-17T20:23:16+00:00
+2026-11-17T20:23:16+00:00,mejia v wessels,True,Louis Wessels,polyus,0.06,Nicolas Mejia,kalshi,0.91,0.9797,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T20:23:06+00:00
+2026-11-17T20:23:16+00:00,faurel v nardi,True,Luca Nardi,kalshi,0.96,Thomas Faurel,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T20:23:16+00:00
+2026-11-17T20:23:26+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.71,Veronika Erjavec,kalshi,0.24,0.9771,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-17T20:23:16+00:00
+2026-11-17T20:23:26+00:00,mejia v wessels,True,Louis Wessels,polyus,0.07,Nicolas Mejia,kalshi,0.91,0.9903,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T20:23:06+00:00
+2026-11-17T20:23:26+00:00,faurel v nardi,True,Luca Nardi,kalshi,0.96,Thomas Faurel,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T20:23:16+00:00
+2026-11-17T20:23:36+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.65,Veronika Erjavec,kalshi,0.24,0.9186,0.0,0.0,0.0,0.0,,0.36,,0.1,True,2026-11-17T20:23:16+00:00
+2026-11-17T20:23:36+00:00,hussey v wendelken,True,Giles Hussey,polyus,0.05,Harry Wendelken,kalshi,0.93,0.9879,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T20:23:36+00:00
+2026-11-17T20:23:36+00:00,faurel v nardi,True,Luca Nardi,kalshi,0.96,Thomas Faurel,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T20:23:16+00:00
+2026-11-17T20:23:46+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.65,Veronika Erjavec,kalshi,0.24,0.9186,0.0,0.0,0.0,0.0,,0.36,,0.1,True,2026-11-17T20:23:16+00:00
+2026-11-17T20:23:56+00:00,mejia v wessels,True,Louis Wessels,polyus,0.04,Nicolas Mejia,kalshi,0.94,0.9866,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T20:23:56+00:00
+2026-11-17T20:24:06+00:00,mejia v wessels,True,Louis Wessels,polyus,0.04,Nicolas Mejia,kalshi,0.94,0.9866,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T20:23:56+00:00
+2026-11-17T20:24:16+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,polyus,0.59,Gonzalo Villanueva,kalshi,0.37,0.9931,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-17T20:24:16+00:00
+2026-11-17T20:24:26+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,polyus,0.59,Gonzalo Villanueva,kalshi,0.37,0.9931,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-17T20:24:16+00:00
+2026-11-17T20:24:36+00:00,ivan v rincon,True,Daniel Rincon,kalshi,0.49,Guido Justo,polyus,0.46,0.9848,0.0,0.0,0.0,0.0,0.56,,,0.1,True,2026-11-17T20:24:36+00:00
+2026-11-17T20:24:36+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,polyus,0.59,Gonzalo Villanueva,kalshi,0.37,0.9931,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-17T20:24:16+00:00
+2026-11-17T20:25:56+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.6,Veronika Erjavec,kalshi,0.36,0.9928,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-17T20:25:56+00:00
+2026-11-17T20:26:26+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.65,Gonzalo Villanueva,polyus,0.31,0.9908,0.0,0.0,0.0,0.0,0.7,,,0.1,True,2026-11-17T20:26:26+00:00
+2026-11-17T20:26:26+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.04,Nicolas Mejia,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.06,,,0.1,True,2026-11-17T20:26:26+00:00
+2026-11-17T20:27:16+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.7,Gonzalo Villanueva,polyus,0.22,0.9466,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-17T20:27:16+00:00
+2026-11-17T20:27:16+00:00,carle v erjavec,True,Maria Carle,kalshi,0.64,Veronika Erjavec,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-17T20:27:16+00:00
+2026-11-17T20:27:26+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.7,Gonzalo Villanueva,polyus,0.22,0.9466,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-17T20:27:16+00:00
+2026-11-17T20:27:26+00:00,carle v erjavec,True,Maria Carle,kalshi,0.64,Veronika Erjavec,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-17T20:27:16+00:00
+2026-11-17T20:27:36+00:00,carle v erjavec,True,Maria Carle,kalshi,0.64,Veronika Erjavec,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-17T20:27:16+00:00
+2026-11-17T20:27:56+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.64,Veronika Erjavec,kalshi,0.32,0.9912,0.0,0.0,0.0,0.0,,0.37,,0.1,True,2026-11-17T20:27:56+00:00
+2026-11-17T20:27:56+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.34,Laura Samson,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,,,0.1,True,2026-11-17T20:27:56+00:00
+2026-11-17T20:28:06+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.64,Veronika Erjavec,kalshi,0.32,0.9912,0.0,0.0,0.0,0.0,,0.37,,0.1,True,2026-11-17T20:27:56+00:00
+2026-11-17T20:28:06+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.34,Laura Samson,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,,,0.1,True,2026-11-17T20:27:56+00:00
+2026-11-17T20:28:26+00:00,carle v erjavec,True,Maria Carle,kalshi,0.64,Veronika Erjavec,polyus,0.3,0.9707,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-17T20:28:26+00:00
+2026-11-17T20:28:36+00:00,carle v erjavec,True,Maria Carle,kalshi,0.64,Veronika Erjavec,polyus,0.3,0.9707,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-17T20:28:26+00:00
+2026-11-17T20:28:56+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.06,Nicolas Mejia,polyus,0.9,0.9702,0.0,0.0,0.0,0.0,0.11,,,0.1,True,2026-11-17T20:28:56+00:00
+2026-11-17T20:28:56+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.64,Veronika Erjavec,kalshi,0.3,0.9707,0.0,0.0,0.0,0.0,,0.37,,0.1,True,2026-11-17T20:28:56+00:00
+2026-11-17T20:29:06+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.06,Nicolas Mejia,polyus,0.89,0.9608,0.0,0.0,0.0,0.0,0.12,,,0.1,True,2026-11-17T20:28:56+00:00
+2026-11-17T20:29:06+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.64,Veronika Erjavec,kalshi,0.3,0.9707,0.0,0.0,0.0,0.0,,0.37,,0.1,True,2026-11-17T20:28:56+00:00
+2026-11-17T20:29:26+00:00,carle v erjavec,True,Maria Carle,kalshi,0.64,Veronika Erjavec,polyus,0.31,0.981,0.0,0.0,0.0,0.0,0.7,,,0.1,True,2026-11-17T20:29:26+00:00
+2026-11-17T20:29:36+00:00,carle v erjavec,True,Maria Carle,kalshi,0.64,Veronika Erjavec,polyus,0.31,0.981,0.0,0.0,0.0,0.0,0.7,,,0.1,True,2026-11-17T20:29:26+00:00
+2026-11-17T20:29:56+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.15,Nicolas Mejia,polyus,0.81,0.9796,0.0,0.0,0.0,0.0,0.2,,,0.1,True,2026-11-17T20:29:56+00:00
+2026-11-17T20:30:06+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.15,Nicolas Mejia,polyus,0.81,0.9796,0.0,0.0,0.0,0.0,0.2,,,0.1,True,2026-11-17T20:29:56+00:00
+2026-11-17T20:30:06+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.65,Veronika Erjavec,kalshi,0.31,0.9908,0.0,0.0,0.0,0.0,,0.37,,0.1,True,2026-11-17T20:30:06+00:00
+2026-11-17T20:30:06+00:00,ivan v rincon,True,Daniel Rincon,kalshi,0.61,Guido Justo,polyus,0.35,0.9925,0.0,0.0,0.0,0.0,0.66,,,0.1,True,2026-11-17T20:30:06+00:00
+2026-11-17T20:30:16+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.65,Veronika Erjavec,kalshi,0.31,0.9908,0.0,0.0,0.0,0.0,,0.37,,0.1,True,2026-11-17T20:30:06+00:00
+2026-11-17T20:30:36+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.57,Veronika Erjavec,kalshi,0.37,0.9734,0.0,0.0,0.0,0.0,,0.44,,0.1,True,2026-11-17T20:30:36+00:00
+2026-11-17T20:30:36+00:00,mejia v wessels,True,Louis Wessels,polyus,0.15,Nicolas Mejia,kalshi,0.81,0.9796,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T20:30:36+00:00
+2026-11-17T20:30:46+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.56,Veronika Erjavec,kalshi,0.37,0.9634,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T20:30:36+00:00
+2026-11-17T20:30:46+00:00,ivan v rincon,True,Daniel Rincon,kalshi,0.67,Guido Justo,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-17T20:30:46+00:00
+2026-11-17T20:30:56+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.56,Veronika Erjavec,kalshi,0.37,0.9634,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T20:30:36+00:00
+2026-11-17T20:30:56+00:00,ivan v rincon,True,Daniel Rincon,kalshi,0.67,Guido Justo,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-17T20:30:46+00:00
+2026-11-17T20:31:06+00:00,mejia v wessels,True,Louis Wessels,polyus,0.09,Nicolas Mejia,kalshi,0.86,0.9641,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-17T20:31:06+00:00
+2026-11-17T20:31:06+00:00,carle v erjavec,True,Maria Carle,kalshi,0.56,Veronika Erjavec,polyus,0.38,0.9736,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-17T20:31:06+00:00
+2026-11-17T20:31:06+00:00,ivan v rincon,True,Daniel Rincon,kalshi,0.67,Guido Justo,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-17T20:30:46+00:00
+2026-11-17T20:31:16+00:00,carle v erjavec,True,Maria Carle,kalshi,0.56,Veronika Erjavec,polyus,0.37,0.9634,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-17T20:31:06+00:00
+2026-11-17T20:31:26+00:00,carle v erjavec,True,Maria Carle,kalshi,0.56,Veronika Erjavec,polyus,0.37,0.9634,0.0,0.0,0.0,0.0,0.63,,,0.2,True,2026-11-17T20:31:06+00:00
+2026-11-17T20:31:56+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.07,Nicolas Mejia,polyus,0.82,0.9048,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T20:31:56+00:00
+2026-11-17T20:31:56+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.57,Veronika Erjavec,kalshi,0.37,0.9734,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T20:31:56+00:00
+2026-11-17T20:32:06+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.07,Nicolas Mejia,polyus,0.82,0.9048,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T20:31:56+00:00
+2026-11-17T20:32:26+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.19,Nicolas Mejia,polyus,0.78,0.9927,0.0,0.0,0.0,0.0,0.23,,,0.1,True,2026-11-17T20:32:26+00:00
+2026-11-17T20:32:26+00:00,carle v erjavec,True,Maria Carle,kalshi,0.57,Veronika Erjavec,polyus,0.39,0.9937,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-17T20:32:26+00:00
+2026-11-17T20:32:36+00:00,carle v erjavec,True,Maria Carle,kalshi,0.57,Veronika Erjavec,polyus,0.38,0.9835,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-17T20:32:26+00:00
+2026-11-17T20:32:56+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.22,Nicolas Mejia,polyus,0.63,0.8782,0.0,0.0,0.0,0.0,0.37,,,0.1,True,2026-11-17T20:32:56+00:00
+2026-11-17T20:33:06+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.22,Nicolas Mejia,polyus,0.63,0.8782,0.0,0.0,0.0,0.0,0.37,,,0.1,True,2026-11-17T20:32:56+00:00
+2026-11-17T20:33:16+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.22,Nicolas Mejia,polyus,0.63,0.8782,0.0,0.0,0.0,0.0,0.37,,,0.1,True,2026-11-17T20:32:56+00:00
+2026-11-17T20:33:16+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.72,Guido Ivan Justo,kalshi,0.25,0.9971,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-17T20:33:16+00:00
+2026-11-17T20:33:26+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.22,Nicolas Mejia,polyus,0.63,0.8782,0.0,0.0,0.0,0.0,0.37,,,0.1,True,2026-11-17T20:32:56+00:00
+2026-11-17T20:33:26+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.72,Guido Ivan Justo,kalshi,0.25,0.9971,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-17T20:33:16+00:00
+2026-11-17T20:33:36+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.56,Veronika Erjavec,kalshi,0.38,0.9736,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T20:33:36+00:00
+2026-11-17T20:33:46+00:00,mejia v wessels,True,Louis Wessels,polyus,0.31,Nicolas Mejia,kalshi,0.63,0.9712,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-17T20:33:46+00:00
+2026-11-17T20:33:56+00:00,mejia v wessels,True,Louis Wessels,polyus,0.3,Nicolas Mejia,kalshi,0.63,0.9609,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-17T20:33:46+00:00
+2026-11-17T20:34:26+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.3,Nicolas Mejia,polyus,0.65,0.9805,0.0,0.0,0.0,0.0,0.36,,,0.1,True,2026-11-17T20:34:26+00:00
+2026-11-17T20:34:46+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.47,Veronika Erjavec,kalshi,0.46,0.9647,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-17T20:34:46+00:00
+2026-11-17T20:34:46+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.6,Guido Ivan Justo,kalshi,0.34,0.9724,0.0,0.0,0.0,0.0,,0.4,,0.1,True,2026-11-17T20:34:46+00:00
+2026-11-17T20:34:56+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.47,Veronika Erjavec,kalshi,0.46,0.9647,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-17T20:34:46+00:00
+2026-11-17T20:34:56+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.6,Guido Ivan Justo,kalshi,0.34,0.9724,0.0,0.0,0.0,0.0,,0.4,,0.1,True,2026-11-17T20:34:46+00:00
+2026-11-17T20:35:06+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.35,Nicolas Mejia,polyus,0.6,0.9826,0.0,0.0,0.0,0.0,0.41,,,0.1,True,2026-11-17T20:35:06+00:00
+2026-11-17T20:35:16+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.35,Nicolas Mejia,polyus,0.6,0.9826,0.0,0.0,0.0,0.0,0.41,,,0.1,True,2026-11-17T20:35:06+00:00
+2026-11-17T20:35:26+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.35,Nicolas Mejia,polyus,0.6,0.9826,0.0,0.0,0.0,0.0,0.41,,,0.1,True,2026-11-17T20:35:06+00:00
+2026-11-17T20:35:46+00:00,mejia v wessels,True,Louis Wessels,polyus,0.35,Nicolas Mejia,kalshi,0.58,0.9629,0.0,0.0,0.0,0.0,,0.66,,0.1,True,2026-11-17T20:35:46+00:00
+2026-11-17T20:35:56+00:00,mejia v wessels,True,Louis Wessels,polyus,0.35,Nicolas Mejia,kalshi,0.58,0.9629,0.0,0.0,0.0,0.0,,0.66,,0.1,True,2026-11-17T20:35:46+00:00
+2026-11-17T20:35:56+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.27,Laura Samson,polyus,0.7,0.9984,0.0,0.0,0.0,0.0,0.31,,,0.1,True,2026-11-17T20:35:56+00:00
+2026-11-17T20:36:06+00:00,mejia v wessels,True,Louis Wessels,polyus,0.35,Nicolas Mejia,kalshi,0.58,0.9629,0.0,0.0,0.0,0.0,,0.66,,0.1,True,2026-11-17T20:35:46+00:00
+2026-11-17T20:36:16+00:00,mejia v wessels,True,Louis Wessels,polyus,0.35,Nicolas Mejia,kalshi,0.58,0.9629,0.0,0.0,0.0,0.0,,0.66,,0.1,True,2026-11-17T20:35:46+00:00
+2026-11-17T20:36:26+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.35,Nicolas Mejia,polyus,0.59,0.9727,0.0,0.0,0.0,0.0,0.42,,,0.2,True,2026-11-17T20:36:26+00:00
+2026-11-17T20:36:36+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.35,Nicolas Mejia,polyus,0.59,0.9727,0.0,0.0,0.0,0.0,0.42,,,0.1,True,2026-11-17T20:36:26+00:00
+2026-11-17T20:36:46+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.35,Nicolas Mejia,polyus,0.59,0.9727,0.0,0.0,0.0,0.0,0.42,,,0.1,True,2026-11-17T20:36:26+00:00
+2026-11-17T20:37:06+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.42,Nicolas Mejia,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-17T20:37:06+00:00
+2026-11-17T20:37:16+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.42,Nicolas Mejia,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-17T20:37:06+00:00
