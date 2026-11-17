@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 16, 6:40PM MT
+# Consensus paper tracker — Mon Nov 16, 7:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,21 +8,21 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-1 | +0.36 | 2 |
-| 2 agree | all 15 | 21-16 | +0.81 | 24-22 | -5.02 | 5 |
-| 2+ agree, 1+ against (split) | all 15 | 25-14 | +10.54 | 21-18 | -3.19 | 7 |
+| 3+ agree (paper play) | all 15 | 6-2 | +4.43 | 4-1 | +0.36 | 1 |
+| 2 agree | all 15 | 22-16 | +1.75 | 24-22 | -5.02 | 4 |
+| 2+ agree, 1+ against (split) | all 15 | 25-14 | +10.54 | 25-18 | +6.75 | 3 |
 | 3+ agree (paper play) | core 10 only | 4-2 | +2.72 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 10-7 | +1.69 | 12-9 | -0.75 | 7 |
-| 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 8-8 | -1.90 | 3 |
+| 2 agree | core 10 only | 12-7 | +3.93 | 12-9 | -0.75 | 5 |
+| 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 9-8 | -1.07 | 2 |
 
-**Go-live test (3+ agree, pre-game, after spread + fees):** 7 of 30 graded plays · net +2.89u · 5 wins vs 3.9 expected, z = +0.90 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
+**Go-live test (3+ agree, pre-game, after spread + fees):** 8 of 30 graded plays · net +4.13u · 6 wins vs 4.3 expected, z = +1.24 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
 **After costs** (new roster, pre-game):
 
 | Rule | Graded | Wins vs expected | Units at logged price | Units after spread + fees | Price move by game time |
 |---|---|---|---|---|---|
-| 3+ agree (paper play) | 7 | 5 vs 3.8 (+1.2) | +3.13 | +2.89 | +2.07c avg (7) |
-| 2 agree | 37 | 21 vs 19.6 (+1.4) | +0.81 | -0.29 | -0.01c avg (37) |
+| 3+ agree (paper play) | 8 | 6 vs 4.3 (+1.7) | +4.43 | +4.13 | +2.31c avg (8) |
+| 2 agree | 38 | 22 vs 20.1 (+1.9) | +1.75 | +0.61 | -0.01c avg (38) |
 | 2+ agree, 1+ against (split) | 39 | 25 vs 19.7 (+5.3) | +10.54 | +9.16 | +0.49c avg (39) |
 
 Units after spread + fees = paying the ask (or logged price + 0.5c when the ask wasn't recorded) plus Polymarket's taker fee (rate x (1 - price) of the stake, about 2.5% at 50c). Price move = closing price minus logged price; sharp signals should see the price move their way before the game.
@@ -31,11 +31,11 @@ Units after spread + fees = paying the ask (or logged price + 0.5c when the ask 
 
 | Rule | Price range | Record | Units | Actual wins | Expected wins | Edge |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | Underdog (<45c) | 1-0 | +2.17 | 1 | 0.3 | +0.7 |
+| 3+ agree (paper play) | Underdog (<45c) | 2-0 | +3.47 | 2 | 0.8 | +1.2 |
 | 3+ agree (paper play) | Coin flip (45-65c) | 3-2 | +0.69 | 3 | 2.7 | +0.3 |
 | 3+ agree (paper play) | Favorite (65-80c) | 1-0 | +0.27 | 1 | 0.8 | +0.2 |
 | 2 agree | Underdog (<45c) | 2-6 | -2.87 | 2 | 2.8 | -0.8 |
-| 2 agree | Coin flip (45-65c) | 14-9 | +3.10 | 14 | 12.3 | +1.7 |
+| 2 agree | Coin flip (45-65c) | 15-9 | +4.04 | 15 | 12.8 | +2.2 |
 | 2 agree | Favorite (65-80c) | 3-1 | +0.18 | 3 | 2.9 | +0.1 |
 | 2 agree | Heavy favorite (80c+) | 2-0 | +0.40 | 2 | 1.7 | +0.3 |
 
@@ -82,13 +82,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+16.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 52.5c |
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
 | new | 2026-11-16 | NBA | 76ers vs. Nets | 76ers (Moneyline) | 3 agree, 0 against | pre-game | purplegatto; jakepaulthegoat2008; 0xb4F978BE | — | 66.5c |
-| new | 2026-11-16 | NBA | Rockets vs. Heat | Heat (Moneyline) | 3 agree, 0 against | pre-game | jakepaulthegoat2008; ic4cream; JoeyAroyyOO | — | 43.5c |
-| new | 2026-11-16 | NBA | Grizzlies vs. Wizards | Grizzlies (-3.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; jakepaulthegoat2008 | — | 51.5c |
-| new | 2026-11-16 | NBA | Rockets vs. Heat | Heat (+2.5) (Spread) | 2 agree, 1 against | in-play | bands1; drainedandpoor | monkeymashingkeyboard | 54.5c |
 | new | 2026-11-16 | NBA | Warriors vs. Pelicans | Pelicans (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; bands1 | jakepaulthegoat2008 | 39.5c |
-| new | 2026-11-16 | NBA | Magic vs. Celtics | Over 213.5 (Total) | 2 agree, 1 against | in-play | 0x9f15613e; JoeyAroyyOO | purplegatto | 12.0c |
-| new | 2026-11-16 | NBA | Grizzlies vs. Wizards | Grizzlies (Moneyline) | 2 agree, 1 against | in-play | jakepaulthegoat2008; BreakTheBank | bands1 | 55.5c |
-| new | 2026-11-16 | NBA | Rockets vs. Heat | Heat (+1.5) (Spread) | 2 agree, 1 against | in-play | bands1; BreakTheBank | ianf2026 | 50.5c |
 | new | 2026-11-16 | NBA | Trail Blazers vs. Timberwolves | Timberwolves (Moneyline) | 2 agree, 0 against | in-play | monkeymashingkeyboard; jakepaulthegoat2008 | — | 53.5c |
 | new | 2026-11-16 | NBA | Warriors vs. Pelicans | Pelicans (+3.5) (Spread) | 5 agree, 1 against | in-play | monkeymashingkeyboard; bands1; drainedandpoor; 0x9f15613e; ianf2026 | jakepaulthegoat2008 | 92.0c |
 | new | 2026-11-16 | NFL | Chargers vs. Ravens | Chargers (Moneyline) | 2 agree, 1 against | in-play | 0xb4F978BE; bands1 | BreakTheBank | 63.5c |
