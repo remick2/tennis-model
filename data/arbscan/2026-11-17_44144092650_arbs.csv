@@ -1,0 +1,60 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-17T19:06:36+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.64,Lautaro Midon,polyus,0.29,0.9604,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-17T19:06:36+00:00
+2026-11-17T19:06:36+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.85,Kimmer Coppejans,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.1,True,2026-11-17T19:06:36+00:00
+2026-11-17T19:06:46+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.64,Lautaro Midon,polyus,0.29,0.9604,0.0,0.0,0.0,0.0,0.65,,,0.1,True,2026-11-17T19:06:36+00:00
+2026-11-17T19:06:46+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,polyus,0.1,Henrique Rocha,kalshi,0.87,0.9842,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-17T19:06:46+00:00
+2026-11-17T19:06:46+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.85,Kimmer Coppejans,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.1,True,2026-11-17T19:06:36+00:00
+2026-11-17T19:06:56+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,polyus,0.1,Henrique Rocha,kalshi,0.87,0.9842,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-17T19:06:46+00:00
+2026-11-17T19:07:06+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.65,Lautaro Midon,kalshi,0.3,0.9805,0.0,0.0,0.0,0.0,,0.37,,0.1,True,2026-11-17T19:07:06+00:00
+2026-11-17T19:07:16+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.56,Lautaro Midon,kalshi,0.3,0.8918,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T19:07:06+00:00
+2026-11-17T19:07:36+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,polyus,0.06,Henrique Rocha,kalshi,0.91,0.9797,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T19:07:36+00:00
+2026-11-17T19:07:46+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.56,Lautaro Midon,polyus,0.37,0.9634,0.0,0.0,0.0,0.0,0.64,,,0.1,True,2026-11-17T19:07:46+00:00
+2026-11-17T19:07:46+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,polyus,0.06,Henrique Rocha,kalshi,0.91,0.9797,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T19:07:36+00:00
+2026-11-17T19:07:56+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.56,Lautaro Midon,polyus,0.37,0.9634,0.0,0.0,0.0,0.0,0.64,,,0.1,True,2026-11-17T19:07:46+00:00
+2026-11-17T19:07:56+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,polyus,0.06,Henrique Rocha,kalshi,0.91,0.9797,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T19:07:36+00:00
+2026-11-17T19:08:06+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.88,Kimmer Coppejans,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-17T19:08:06+00:00
+2026-11-17T19:08:16+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.56,Lautaro Midon,kalshi,0.37,0.9634,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T19:08:16+00:00
+2026-11-17T19:08:16+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.88,Kimmer Coppejans,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-17T19:08:06+00:00
+2026-11-17T19:08:26+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.56,Lautaro Midon,kalshi,0.37,0.9634,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T19:08:16+00:00
+2026-11-17T19:08:26+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.88,Kimmer Coppejans,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-17T19:08:06+00:00
+2026-11-17T19:08:36+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.56,Lautaro Midon,kalshi,0.37,0.9634,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T19:08:16+00:00
+2026-11-17T19:08:36+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.88,Kimmer Coppejans,polyus,0.09,0.9831,0.0,0.0,0.0,0.0,0.92,,,0.1,True,2026-11-17T19:08:06+00:00
+2026-11-17T19:08:56+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.56,Lautaro Midon,polyus,0.37,0.9634,0.0,0.0,0.0,0.0,0.64,,,0.1,True,2026-11-17T19:08:56+00:00
+2026-11-17T19:09:06+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.56,Lautaro Midon,polyus,0.37,0.9634,0.0,0.0,0.0,0.0,0.64,,,0.1,True,2026-11-17T19:08:56+00:00
+2026-11-17T19:09:36+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.64,Lautaro Midon,polyus,0.27,0.9398,0.0,0.0,0.0,0.0,0.74,,,0.1,True,2026-11-17T19:09:36+00:00
+2026-11-17T19:09:46+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.64,Lautaro Midon,polyus,0.27,0.9398,0.0,0.0,0.0,0.0,0.74,,,0.1,True,2026-11-17T19:09:36+00:00
+2026-11-17T19:09:46+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,polyus,0.05,Henrique Rocha,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T19:09:46+00:00
+2026-11-17T19:09:56+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.64,Lautaro Midon,polyus,0.27,0.9398,0.0,0.0,0.0,0.0,0.75,,,0.1,True,2026-11-17T19:09:36+00:00
+2026-11-17T19:09:56+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,polyus,0.05,Henrique Rocha,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T19:09:46+00:00
+2026-11-17T19:10:06+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.64,Lautaro Midon,polyus,0.27,0.9398,0.0,0.0,0.0,0.0,0.78,,,0.1,True,2026-11-17T19:09:36+00:00
+2026-11-17T19:10:06+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,polyus,0.05,Henrique Rocha,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T19:09:46+00:00
+2026-11-17T19:10:16+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.76,Lautaro Midon,polyus,0.13,0.9106,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-17T19:09:36+00:00
+2026-11-17T19:10:26+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.76,Lautaro Midon,polyus,0.12,0.9001,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-17T19:09:36+00:00
+2026-11-17T19:10:36+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.76,Lautaro Midon,polyus,0.12,0.9001,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-17T19:09:36+00:00
+2026-11-17T19:11:26+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.89,Lautaro Midon,polyus,0.08,0.982,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-17T19:11:26+00:00
+2026-11-17T19:11:36+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.89,Lautaro Midon,polyus,0.08,0.982,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-17T19:11:26+00:00
+2026-11-17T19:11:46+00:00,coppejans v gojo,True,Borna Gojo,polyus,0.8,Kimmer Coppejans,kalshi,0.16,0.9805,0.0,0.0,0.0,0.0,,0.21,,0.1,True,2026-11-17T19:11:46+00:00
+2026-11-17T19:11:46+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.89,Lautaro Midon,polyus,0.09,0.9925,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T19:11:26+00:00
+2026-11-17T19:12:06+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.89,Lautaro Midon,kalshi,0.08,0.982,0.0,0.0,0.0,0.0,,0.12,,0.2,True,2026-11-17T19:12:06+00:00
+2026-11-17T19:12:06+00:00,coppejans v gojo,True,Borna Gojo,polyus,0.79,Kimmer Coppejans,kalshi,0.18,0.9919,0.0,0.0,0.0,0.0,,0.21,,0.1,True,2026-11-17T19:12:06+00:00
+2026-11-17T19:12:16+00:00,coppejans v gojo,True,Borna Gojo,polyus,0.72,Kimmer Coppejans,kalshi,0.18,0.9243,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-17T19:12:06+00:00
+2026-11-17T19:12:16+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.89,Lautaro Midon,kalshi,0.08,0.982,0.0,0.0,0.0,0.0,,0.12,,0.1,True,2026-11-17T19:12:06+00:00
+2026-11-17T19:12:16+00:00,perot v vales,True,Amit Vales,kalshi,0.22,Raphael Perot,polyus,0.75,0.995,0.0,0.0,0.0,0.0,0.26,,,0.1,True,2026-11-17T19:12:16+00:00
+2026-11-17T19:12:26+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.72,Kimmer Coppejans,polyus,0.24,0.9868,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-17T19:12:26+00:00
+2026-11-17T19:12:36+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.72,Kimmer Coppejans,polyus,0.24,0.9868,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-17T19:12:26+00:00
+2026-11-17T19:12:46+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.72,Kimmer Coppejans,polyus,0.18,0.9244,0.0,0.0,0.0,0.0,0.83,,,0.1,True,2026-11-17T19:12:26+00:00
+2026-11-17T19:13:06+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.83,Kimmer Coppejans,polyus,0.13,0.9777,0.0,0.0,0.0,0.0,0.88,,,0.1,True,2026-11-17T19:13:06+00:00
+2026-11-17T19:13:16+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.83,Kimmer Coppejans,polyus,0.13,0.9777,0.0,0.0,0.0,0.0,0.88,,,0.1,True,2026-11-17T19:13:06+00:00
+2026-11-17T19:13:46+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.94,Lautaro Midon,polyus,0.03,0.976,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T19:13:46+00:00
+2026-11-17T19:13:46+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.88,Kimmer Coppejans,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-17T19:13:46+00:00
+2026-11-17T19:13:56+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.94,Lautaro Midon,polyus,0.03,0.976,0.0,0.0,0.0,0.0,0.98,,,0.2,True,2026-11-17T19:13:46+00:00
+2026-11-17T19:13:56+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.88,Kimmer Coppejans,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-17T19:13:46+00:00
+2026-11-17T19:14:06+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.88,Kimmer Coppejans,polyus,0.08,0.9725,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-17T19:13:46+00:00
+2026-11-17T19:14:06+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.94,Lautaro Midon,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-17T19:13:46+00:00
+2026-11-17T19:17:26+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.93,Kimmer Coppejans,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T19:17:26+00:00
+2026-11-17T19:17:36+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.93,Kimmer Coppejans,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T19:17:26+00:00
+2026-11-17T19:17:46+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.93,Kimmer Coppejans,polyus,0.05,0.9879,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-17T19:17:26+00:00
+2026-11-17T19:17:56+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.96,Kimmer Coppejans,polyus,0.02,0.9841,0.0,0.0,0.0,0.0,0.99,,,0.1,True,2026-11-17T19:17:26+00:00
+2026-11-17T19:18:06+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.96,Kimmer Coppejans,polyus,0.02,0.9841,0.0,0.0,0.0,0.0,0.99,,,0.1,True,2026-11-17T19:17:26+00:00
+2026-11-17T19:18:16+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.96,Kimmer Coppejans,polyus,0.02,0.9841,0.0,0.0,0.0,0.0,0.99,,,0.1,True,2026-11-17T19:17:26+00:00
+2026-11-17T19:18:16+00:00,perot v vales,True,Amit Vales,kalshi,0.27,Raphael Perot,polyus,0.7,0.9984,0.0,0.0,0.0,0.0,0.31,,,0.1,True,2026-11-17T19:18:16+00:00
