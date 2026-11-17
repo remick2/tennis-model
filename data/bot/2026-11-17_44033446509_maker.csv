@@ -115,3 +115,11 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-17T10:48:15+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.17,294,True,0.0093,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.84,-5.69,-5.71,-5.69,True
 2026-11-17T10:48:53+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-KWON:yes,0.81,61,False,0.0102,2.1,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:0,0.2,-1.29,-1.29,-1.29,True
 2026-11-17T10:49:01+00:00,lajovic v nagel,True,polyus:aec-atp-artnag-duslaj-2026-11-16:1,0.38,131,False,0.0131,2.6,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV17NAGLAJ-NAG:yes,0.7,-12.41,-12.39,-12.39,True
+2026-11-17T11:04:27+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.05,1000,True,0.0061,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.96,-12.67,-12.69,-12.67,True
+2026-11-17T11:04:55+00:00,kwon v sachko,True,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.94,53,True,0.0067,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.07,-0.77,-0.77,-0.77,True
+2026-11-17T11:05:35+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.05,1000,True,0.0061,2.1,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.96,-12.67,-12.69,-12.67,True
+2026-11-17T11:06:03+00:00,kwon v sachko,True,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.94,53,True,0.0067,1.4,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.07,-0.77,-0.77,-0.77,True
+2026-11-17T11:07:09+00:00,kwon v sachko,True,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.94,53,True,0.0067,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.07,-0.77,-0.77,-0.77,True
+2026-11-17T11:09:21+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-KWON:yes,0.93,53,False,0.0061,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:0,0.07,-0.24,-0.8,-0.24,True
+2026-11-17T11:10:27+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-KWON:yes,0.93,53,True,0.0061,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:0,0.07,-0.24,-0.8,-0.24,True
+2026-11-17T11:13:13+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.06,833,True,0.0055,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.95,-11.08,-11.1,-11.08,True
