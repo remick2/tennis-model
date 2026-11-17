@@ -34,3 +34,13 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-17T02:33:25+00:00,delaney v marinkov,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELMAR-DEL:yes,0.59,84,False,0.0136,2.4,hedged,polyus:aec-atp-jakdel-pavmar-2026-11-16:1,0.38,1.14,-3.97,1.14,True
 2026-11-17T02:33:44+00:00,delaney v marinkov,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELMAR-MAR:yes,0.4,125,False,0.013,2.0,hedged,polyus:aec-atp-jakdel-pavmar-2026-11-16:0,0.57,1.62,-3.33,1.62,True
 2026-11-17T02:34:25+00:00,delaney v marinkov,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELMAR-DEL:yes,0.6,83,False,0.0138,3.1,hedged,polyus:aec-atp-jakdel-pavmar-2026-11-16:1,0.41,-2.23,-2.24,-2.23,True
+2026-11-17T02:36:01+00:00,delaney v marinkov,True,polyus:aec-atp-jakdel-pavmar-2026-11-16:1,0.51,98,False,0.0126,2.4,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV16DELMAR-DEL:yes,0.59,-11.46,-12.41,-11.46,True
+2026-11-17T02:39:00+00:00,delaney v marinkov,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELMAR-DEL:yes,0.29,172,False,0.0149,2.0,hedged,polyus:aec-atp-jakdel-pavmar-2026-11-16:1,0.68,2.56,-5.81,2.56,True
+2026-11-17T02:40:27+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-PHA:yes,0.34,147,True,0.0138,1.9,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:1,0.63,2.03,-3.75,2.03,True
+2026-11-17T02:42:42+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-MOR:yes,0.63,79,True,0.0144,2.0,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:0,0.38,-2.08,-2.09,-2.08,True
+2026-11-17T02:42:44+00:00,delaney v marinkov,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELMAR-DEL:yes,0.22,227,False,0.0073,2.0,hedged,polyus:aec-atp-jakdel-pavmar-2026-11-16:1,0.77,-0.52,-4.91,-0.52,True
+2026-11-17T02:43:20+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-MOR:yes,0.59,84,True,0.0136,2.0,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:0,0.41,-1.41,-2.27,-1.41,True
+2026-11-17T02:45:46+00:00,staeheli v zhang,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZHASTA-STA:yes,0.45,111,True,0.0127,2.2,hedged,polyus:aec-atp-zhizha-lucsta-2026-11-15:0,0.52,1.4,-4.12,1.4,True
+2026-11-17T02:47:40+00:00,delaney v marinkov,True,polyus:aec-atp-jakdel-pavmar-2026-11-16:1,0.77,64,True,0.0084,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16DELMAR-MAR:no,0.24,-1.46,-1.45,-1.45,True
+2026-11-17T02:48:04+00:00,delaney v marinkov,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELMAR-MAR:yes,0.73,68,False,0.007,2.2,hedged,polyus:aec-atp-jakdel-pavmar-2026-11-16:0,0.26,-0.23,-2.34,-0.23,True
+2026-11-17T02:49:16+00:00,staeheli v zhang,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZHASTA-STA:yes,0.33,151,False,0.014,2.0,hedged,polyus:aec-atp-zhizha-lucsta-2026-11-15:0,0.71,-8.2,-8.22,-8.2,True
