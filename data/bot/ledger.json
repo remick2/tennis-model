@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 245.25,
-  "polyus": 245.25
+  "kalshi": 108.61,
+  "polyus": 95.29
  },
  "open": [
   {
@@ -17,11 +17,24 @@
    },
    "cost": 282.5,
    "expected": 1.5
+  },
+  {
+   "id": "29706cbf377c",
+   "key": "delaney v marinkov",
+   "opened": "2026-11-17T02:57:42+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV16DELMAR-MAR",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 336.0,
+    "kalshi": 336.0
+   },
+   "cost": 286.6,
+   "expected": 49.4
   }
  ],
  "settled_pnl": 119.0,
  "unwind_pnl": -46.02,
- "fires": 39,
+ "fires": 40,
  "settled": 29,
  "rebalances": 7
 }
