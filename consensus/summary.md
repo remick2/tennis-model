@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 16, 4:40PM MT
+# Consensus paper tracker — Mon Nov 16, 5:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,10 +10,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-1 | +0.36 | 2 |
 | 2 agree | all 15 | 21-16 | +0.81 | 24-22 | -5.02 | 4 |
-| 2+ agree, 1+ against (split) | all 15 | 25-14 | +10.54 | 21-18 | -3.19 | 0 |
+| 2+ agree, 1+ against (split) | all 15 | 25-14 | +10.54 | 21-18 | -3.19 | 5 |
 | 3+ agree (paper play) | core 10 only | 4-2 | +2.72 | 1-0 | +0.12 | 1 |
 | 2 agree | core 10 only | 10-7 | +1.69 | 12-9 | -0.75 | 5 |
-| 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 8-8 | -1.90 | 0 |
+| 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 8-8 | -1.90 | 2 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 7 of 30 graded plays · net +2.89u · 5 wins vs 3.9 expected, z = +0.90 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
@@ -84,3 +84,8 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-16 | NBA | 76ers vs. Nets | 76ers (Moneyline) | 3 agree, 0 against | pre-game | purplegatto; jakepaulthegoat2008; 0xb4F978BE | — | 66.5c |
 | new | 2026-11-16 | NBA | Rockets vs. Heat | Heat (Moneyline) | 3 agree, 0 against | pre-game | jakepaulthegoat2008; ic4cream; JoeyAroyyOO | — | 43.5c |
 | new | 2026-11-16 | NBA | Grizzlies vs. Wizards | Grizzlies (-3.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; jakepaulthegoat2008 | — | 51.5c |
+| new | 2026-11-16 | NBA | Rockets vs. Heat | Heat (+2.5) (Spread) | 2 agree, 1 against | in-play | bands1; drainedandpoor | monkeymashingkeyboard | 54.5c |
+| new | 2026-11-16 | NBA | Warriors vs. Pelicans | Pelicans (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; bands1 | jakepaulthegoat2008 | 39.5c |
+| new | 2026-11-16 | NBA | Magic vs. Celtics | Over 213.5 (Total) | 2 agree, 1 against | in-play | 0x9f15613e; JoeyAroyyOO | purplegatto | 12.0c |
+| new | 2026-11-16 | NBA | Grizzlies vs. Wizards | Grizzlies (Moneyline) | 2 agree, 1 against | in-play | jakepaulthegoat2008; BreakTheBank | bands1 | 55.5c |
+| new | 2026-11-16 | NBA | Rockets vs. Heat | Heat (+1.5) (Spread) | 2 agree, 1 against | in-play | bands1; BreakTheBank | ianf2026 | 50.5c |
