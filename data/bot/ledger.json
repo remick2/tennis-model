@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 208.96,
-  "polyus": 202.91
+  "kalshi": 59.5,
+  "polyus": 180.21
  },
  "open": [
   {
@@ -30,11 +30,24 @@
    },
    "cost": 190.92,
    "expected": 1.08
+  },
+  {
+   "id": "91c929206281",
+   "key": "mejia v wessels",
+   "opened": "2026-11-17T20:31:47+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17MEJWES-MEJ",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 180.0,
+    "kalshi": 180.0
+   },
+   "cost": 165.19,
+   "expected": 14.81
   }
  ],
  "settled_pnl": 178.87,
- "unwind_pnl": -46.02,
- "fires": 46,
+ "unwind_pnl": -52.99,
+ "fires": 48,
  "settled": 34,
  "rebalances": 7
 }

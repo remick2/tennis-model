@@ -1,13 +1,13 @@
 {
  "pass": false,
  "status": "RUNNING",
- "as_of": "2026-11-17T20:21+00:00",
+ "as_of": "2026-11-17T20:36+00:00",
  "occasions": 8,
  "days": 3,
- "bot_traded": 43,
- "bot_sim_profit": 135.85,
+ "bot_traded": 45,
+ "bot_sim_profit": 143.69,
  "poly_stale_pct": 0.0,
- "maker_fills": 7465,
- "maker_pnl": -28881.77,
+ "maker_fills": 7502,
+ "maker_pnl": -29036.67,
  "maker_edge": false
 }
