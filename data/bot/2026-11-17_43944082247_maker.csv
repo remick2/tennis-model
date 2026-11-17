@@ -8,3 +8,17 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-17T00:08:36+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.33,151,True,0.014,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.64,2.11,-5.28,2.11,True
 2026-11-17T00:09:10+00:00,chan v mmoh,True,kalshi:KXATPCHALLENGERMATCH-26NOV16CHAMMO-MMO:yes,0.47,106,False,0.0126,2.0,hedged,polyus:aec-atp-duncha-micmmo-2026-11-16:0,0.52,-0.78,-2.9,-0.78,True
 2026-11-17T00:09:48+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB:yes,0.67,74,True,0.0051,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:0,0.32,-0.38,-3.41,-0.38,True
+2026-11-17T00:12:29+00:00,palan v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PALSEK-PAL:yes,0.05,1000,True,0.0061,2.1,hedged,polyus:aec-atp-dompal-phisek-2026-11-16:1,0.96,-12.67,-12.69,-12.67,True
+2026-11-17T00:13:21+00:00,palan v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PALSEK-SEK:yes,0.92,54,True,0.0055,2.1,hedged,polyus:aec-atp-dompal-phisek-2026-11-16:0,0.1,-1.42,-1.99,-1.42,True
+2026-11-17T00:13:21+00:00,palan v sekulic,True,polyus:aec-atp-dompal-phisek-2026-11-16:1,0.92,54,False,0.0054,2.1,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16PALSEK-PAL:yes,0.1,-1.42,-1.42,-1.42,True
+2026-11-17T00:15:15+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB:yes,0.65,76,False,0.0149,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:0,0.36,-1.98,-1.99,-1.98,True
+2026-11-17T00:17:13+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.29,172,False,0.0051,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.69,0.88,-5.81,0.88,True
+2026-11-17T00:18:31+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.25,200,True,0.0063,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.8,-12.22,-12.24,-12.22,True
+2026-11-17T00:19:03+00:00,baris v miyoshi,True,kalshi:KXATPCHALLENGERMATCH-26NOV16BARMIY-MIY:yes,0.22,227,True,0.0073,2.9,hedged,polyus:aec-atp-ozabar-kenmiy-2026-11-16:0,0.79,-4.89,-4.91,-4.89,True
+2026-11-17T00:20:27+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.22,227,False,0.0073,1.9,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.8,-7.06,-7.08,-7.06,True
+2026-11-17T00:21:47+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.18,277,False,0.0089,2.2,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.8,2.46,-5.51,2.46,True
+2026-11-17T00:22:35+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB:yes,0.82,60,True,0.0107,1.9,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:0,0.18,-0.62,-1.48,-0.62,True
+2026-11-17T00:23:23+00:00,palan v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PALSEK-SEK:yes,0.88,56,True,0.0137,1.9,hedged,polyus:aec-atp-dompal-phisek-2026-11-16:0,0.1,0.77,-1.0,0.77,True
+2026-11-17T00:23:45+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.17,294,True,0.0093,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.86,-11.28,-11.3,-11.28,True
+2026-11-17T00:24:55+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.16,312,True,0.0097,2.1,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.82,3.04,-8.77,3.04,True
+2026-11-17T00:25:04+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.16,312,True,0.0097,3.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.82,3.04,-8.87,3.04,True
