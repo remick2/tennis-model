@@ -790,3 +790,122 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T21:53:06+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.49,Vignesh Gogineni,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-17T21:53:06+00:00
 2026-11-17T21:53:16+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.19,Laura Samson,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-17T21:53:16+00:00
 2026-11-17T21:53:16+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.42,Guido Ivan Justo,kalshi,0.53,0.9844,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-17T21:53:06+00:00
+2026-11-17T21:53:26+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.19,Laura Samson,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-17T21:53:16+00:00
+2026-11-17T21:53:26+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.42,Guido Ivan Justo,kalshi,0.53,0.9844,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-17T21:53:06+00:00
+2026-11-17T21:53:36+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,polyus,0.56,Gonzalo Villanueva,kalshi,0.38,0.9736,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T21:53:36+00:00
+2026-11-17T21:53:36+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.42,Guido Ivan Justo,kalshi,0.53,0.9844,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-17T21:53:06+00:00
+2026-11-17T21:53:46+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,polyus,0.56,Gonzalo Villanueva,kalshi,0.38,0.9736,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T21:53:36+00:00
+2026-11-17T21:53:46+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.15,Laura Samson,kalshi,0.82,0.9892,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T21:53:46+00:00
+2026-11-17T21:53:56+00:00,garcia v gatica,True,Andrea Lazaro Garcia,polyus,0.47,Barbara Gatica,kalshi,0.48,0.9848,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-17T21:53:56+00:00
+2026-11-17T21:53:56+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.15,Laura Samson,kalshi,0.82,0.9892,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T21:53:46+00:00
+2026-11-17T21:53:56+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.23,Joaquin Aguilar Cardozo,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-17T21:53:56+00:00
+2026-11-17T21:54:06+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.36,Guido Ivan Justo,kalshi,0.59,0.9829,0.0,0.0,0.0,0.0,,0.65,,0.1,True,2026-11-17T21:54:06+00:00
+2026-11-17T21:54:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.23,Joaquin Aguilar Cardozo,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-17T21:53:56+00:00
+2026-11-17T21:54:16+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.36,Guido Ivan Justo,kalshi,0.59,0.9829,0.0,0.0,0.0,0.0,,0.65,,0.1,True,2026-11-17T21:54:06+00:00
+2026-11-17T21:54:16+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,polyus,0.51,Gonzalo Villanueva,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-17T21:54:16+00:00
+2026-11-17T21:54:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.23,Joaquin Aguilar Cardozo,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.2,True,2026-11-17T21:53:56+00:00
+2026-11-17T21:54:26+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.36,Guido Ivan Justo,kalshi,0.6,0.9928,0.0,0.0,0.0,0.0,,0.66,,0.2,True,2026-11-17T21:54:06+00:00
+2026-11-17T21:54:36+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.35,Guido Ivan Justo,kalshi,0.6,0.9826,0.0,0.0,0.0,0.0,,0.66,,0.1,True,2026-11-17T21:54:06+00:00
+2026-11-17T21:54:46+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.19,Joaquin Aguilar Cardozo,kalshi,0.78,0.9927,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-17T21:54:46+00:00
+2026-11-17T21:54:56+00:00,hans v mitsui,True,Max Hans Rehberg,polyus,0.09,Shunsuke Mitsui,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-17T21:54:56+00:00
+2026-11-17T21:55:06+00:00,hans v mitsui,True,Max Hans Rehberg,polyus,0.09,Shunsuke Mitsui,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-17T21:54:56+00:00
+2026-11-17T21:55:16+00:00,hans v mitsui,True,Max Hans Rehberg,polyus,0.07,Shunsuke Mitsui,kalshi,0.89,0.9714,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T21:54:56+00:00
+2026-11-17T21:55:16+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,polyus,0.44,Gonzalo Villanueva,kalshi,0.5,0.9746,0.0,0.0,0.0,0.0,,0.57,,0.1,True,2026-11-17T21:55:16+00:00
+2026-11-17T21:55:26+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,polyus,0.44,Gonzalo Villanueva,kalshi,0.51,0.9846,0.0,0.0,0.0,0.0,,0.57,,0.1,True,2026-11-17T21:55:16+00:00
+2026-11-17T21:55:26+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.32,Guido Ivan Justo,kalshi,0.64,0.9913,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-17T21:55:26+00:00
+2026-11-17T21:55:26+00:00,hans v mitsui,True,Max Hans Rehberg,polyus,0.07,Shunsuke Mitsui,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T21:54:56+00:00
+2026-11-17T21:55:36+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.32,Guido Ivan Justo,kalshi,0.64,0.9913,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-17T21:55:26+00:00
+2026-11-17T21:55:36+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,polyus,0.45,Gonzalo Villanueva,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-17T21:55:16+00:00
+2026-11-17T21:55:36+00:00,hans v mitsui,True,Max Hans Rehberg,polyus,0.07,Shunsuke Mitsui,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T21:54:56+00:00
+2026-11-17T21:55:46+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,polyus,0.43,Gonzalo Villanueva,kalshi,0.51,0.9745,0.0,0.0,0.0,0.0,,0.58,,0.1,True,2026-11-17T21:55:16+00:00
+2026-11-17T21:55:46+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.32,Guido Ivan Justo,kalshi,0.64,0.9913,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-17T21:55:26+00:00
+2026-11-17T21:56:16+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.43,Gonzalo Villanueva,polyus,0.51,0.9745,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-17T21:56:16+00:00
+2026-11-17T21:56:36+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.29,Guido Ivan Justo,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-17T21:56:36+00:00
+2026-11-17T21:56:46+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.29,Guido Ivan Justo,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-17T21:56:36+00:00
+2026-11-17T21:57:06+00:00,ivan v rincon,True,Daniel Rincon,kalshi,0.28,Guido Justo,polyus,0.68,0.9892,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-17T21:57:06+00:00
+2026-11-17T21:57:06+00:00,blanch v sinclair,True,Colin Sinclair,polyus,0.02,Darwin Blanch,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-17T21:57:06+00:00
+2026-11-17T21:57:16+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.5,Gonzalo Villanueva,polyus,0.45,0.9847,0.0,0.0,0.0,0.0,0.56,,,0.1,True,2026-11-17T21:57:16+00:00
+2026-11-17T21:57:16+00:00,blanch v sinclair,True,Colin Sinclair,polyus,0.02,Darwin Blanch,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-17T21:57:06+00:00
+2026-11-17T21:57:26+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.5,Gonzalo Villanueva,polyus,0.45,0.9847,0.0,0.0,0.0,0.0,0.56,,,0.1,True,2026-11-17T21:57:16+00:00
+2026-11-17T21:57:26+00:00,ivan v rincon,True,Daniel Rincon,kalshi,0.28,Guido Justo,polyus,0.68,0.9892,0.0,0.0,0.0,0.0,0.35,,,0.1,True,2026-11-17T21:57:26+00:00
+2026-11-17T21:57:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.16,Joaquin Aguilar Cardozo,kalshi,0.81,0.9901,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-17T21:57:26+00:00
+2026-11-17T21:57:26+00:00,blanch v sinclair,True,Colin Sinclair,polyus,0.02,Darwin Blanch,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-17T21:57:06+00:00
+2026-11-17T21:57:36+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.5,Gonzalo Villanueva,polyus,0.45,0.9847,0.0,0.0,0.0,0.0,0.58,,,0.1,True,2026-11-17T21:57:16+00:00
+2026-11-17T21:57:36+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.16,Joaquin Aguilar Cardozo,kalshi,0.81,0.9901,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-17T21:57:26+00:00
+2026-11-17T21:57:36+00:00,blanch v sinclair,True,Colin Sinclair,polyus,0.02,Darwin Blanch,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-17T21:57:06+00:00
+2026-11-17T21:57:46+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.29,Guido Ivan Justo,kalshi,0.66,0.98,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-17T21:57:46+00:00
+2026-11-17T21:57:46+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.56,Gonzalo Villanueva,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.61,,,0.1,True,2026-11-17T21:57:16+00:00
+2026-11-17T21:57:56+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.3,Guido Ivan Justo,kalshi,0.66,0.9903,0.0,0.0,0.0,0.0,,0.7,,0.1,True,2026-11-17T21:57:46+00:00
+2026-11-17T21:57:56+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.56,Gonzalo Villanueva,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-17T21:57:16+00:00
+2026-11-17T21:58:06+00:00,hans v mitsui,True,Max Hans Rehberg,polyus,0.02,Shunsuke Mitsui,kalshi,0.96,0.9841,0.0,0.0,0.0,0.0,,0.99,,0.2,True,2026-11-17T21:58:06+00:00
+2026-11-17T21:58:16+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.26,Guido Ivan Justo,kalshi,0.7,0.9881,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-17T21:58:16+00:00
+2026-11-17T21:58:16+00:00,hans v mitsui,True,Max Hans Rehberg,polyus,0.02,Shunsuke Mitsui,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-17T21:58:06+00:00
+2026-11-17T21:58:26+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.25,Guido Ivan Justo,kalshi,0.7,0.9777,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-17T21:58:16+00:00
+2026-11-17T21:58:26+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.19,Laura Samson,kalshi,0.78,0.9927,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-17T21:58:26+00:00
+2026-11-17T21:58:36+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.25,Guido Ivan Justo,kalshi,0.7,0.9777,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-17T21:58:16+00:00
+2026-11-17T21:59:46+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.23,Laura Samson,polyus,0.72,0.9764,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-17T21:59:46+00:00
+2026-11-17T21:59:56+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.23,Laura Samson,polyus,0.72,0.9764,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-17T21:59:46+00:00
+2026-11-17T21:59:56+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.17,Joaquin Aguilar Cardozo,kalshi,0.79,0.9814,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-17T21:59:56+00:00
+2026-11-17T22:00:06+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.23,Laura Samson,polyus,0.7,0.957,0.0,0.0,0.0,0.0,0.31,,,0.1,True,2026-11-17T21:59:46+00:00
+2026-11-17T22:00:06+00:00,ivan v rincon,True,Daniel Rincon,kalshi,0.23,Guido Justo,polyus,0.72,0.9764,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-17T22:00:06+00:00
+2026-11-17T22:00:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.17,Joaquin Aguilar Cardozo,kalshi,0.79,0.9814,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-17T21:59:56+00:00
+2026-11-17T22:00:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.16,Joaquin Aguilar Cardozo,kalshi,0.79,0.971,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-17T21:59:56+00:00
+2026-11-17T22:00:16+00:00,ivan v rincon,True,Daniel Rincon,kalshi,0.23,Guido Justo,polyus,0.74,0.9958,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-17T22:00:06+00:00
+2026-11-17T22:00:16+00:00,heck v lee,True,Hunter Heck,polyus,0.15,Jordan Lee,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T22:00:16+00:00
+2026-11-17T22:00:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.17,Joaquin Aguilar Cardozo,kalshi,0.79,0.9814,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-17T21:59:56+00:00
+2026-11-17T22:00:26+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.24,Laura Samson,kalshi,0.72,0.9868,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-17T22:00:26+00:00
+2026-11-17T22:00:26+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.47,Vignesh Gogineni,kalshi,0.49,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-17T22:00:26+00:00
+2026-11-17T22:00:26+00:00,ivan v rincon,True,Daniel Rincon,kalshi,0.23,Guido Justo,polyus,0.74,0.9958,0.0,0.0,0.0,0.0,0.26,,,0.1,True,2026-11-17T22:00:06+00:00
+2026-11-17T22:00:26+00:00,heck v lee,True,Hunter Heck,polyus,0.15,Jordan Lee,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T22:00:16+00:00
+2026-11-17T22:00:36+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.64,Gonzalo Villanueva,polyus,0.3,0.9707,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-17T22:00:36+00:00
+2026-11-17T22:00:36+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.24,Laura Samson,kalshi,0.72,0.9868,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-17T22:00:26+00:00
+2026-11-17T22:00:46+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.64,Gonzalo Villanueva,polyus,0.3,0.9707,0.0,0.0,0.0,0.0,0.73,,,0.1,True,2026-11-17T22:00:36+00:00
+2026-11-17T22:00:46+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.13,Joaquin Aguilar Cardozo,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-17T22:00:46+00:00
+2026-11-17T22:00:56+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.64,Gonzalo Villanueva,polyus,0.3,0.9707,0.0,0.0,0.0,0.0,0.73,,,0.1,True,2026-11-17T22:00:36+00:00
+2026-11-17T22:00:56+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.18,Laura Samson,kalshi,0.77,0.9727,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-17T22:00:56+00:00
+2026-11-17T22:00:56+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.13,Joaquin Aguilar Cardozo,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-17T22:00:46+00:00
+2026-11-17T22:01:06+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.72,Gonzalo Villanueva,polyus,0.22,0.966,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-17T22:00:36+00:00
+2026-11-17T22:01:06+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.18,Laura Samson,kalshi,0.77,0.9727,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-17T22:00:56+00:00
+2026-11-17T22:01:16+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.72,Gonzalo Villanueva,polyus,0.22,0.966,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-17T22:00:36+00:00
+2026-11-17T22:01:26+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.72,Gonzalo Villanueva,polyus,0.23,0.9764,0.0,0.0,0.0,0.0,0.81,,,0.1,True,2026-11-17T22:00:36+00:00
+2026-11-17T22:01:36+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.13,Laura Samson,kalshi,0.83,0.9777,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-17T22:01:36+00:00
+2026-11-17T22:01:46+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.13,Laura Samson,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-17T22:01:36+00:00
+2026-11-17T22:01:56+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.79,Gonzalo Villanueva,polyus,0.15,0.9605,0.0,0.0,0.0,0.0,0.87,,,0.1,True,2026-11-17T22:01:56+00:00
+2026-11-17T22:01:56+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.13,Laura Samson,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-17T22:01:36+00:00
+2026-11-17T22:02:06+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.82,Gonzalo Villanueva,polyus,0.14,0.9787,0.0,0.0,0.0,0.0,0.87,,,0.1,True,2026-11-17T22:01:56+00:00
+2026-11-17T22:02:16+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.82,Gonzalo Villanueva,polyus,0.14,0.9787,0.0,0.0,0.0,0.0,0.87,,,0.1,True,2026-11-17T22:01:56+00:00
+2026-11-17T22:02:16+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.41,Vignesh Gogineni,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-17T22:02:16+00:00
+2026-11-17T22:02:26+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.82,Gonzalo Villanueva,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.87,,,0.1,True,2026-11-17T22:01:56+00:00
+2026-11-17T22:02:26+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.41,Vignesh Gogineni,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-17T22:02:16+00:00
+2026-11-17T22:02:26+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.13,Laura Samson,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-17T22:02:26+00:00
+2026-11-17T22:02:46+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.87,Gonzalo Villanueva,polyus,0.09,0.9736,0.0,0.0,0.0,0.0,0.92,,,0.1,True,2026-11-17T22:02:46+00:00
+2026-11-17T22:02:46+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.41,Vignesh Gogineni,polyus,0.55,0.9941,0.0,0.0,0.0,0.0,0.46,,,0.1,True,2026-11-17T22:02:46+00:00
+2026-11-17T22:02:56+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.87,Gonzalo Villanueva,polyus,0.09,0.9736,0.0,0.0,0.0,0.0,0.92,,,0.1,True,2026-11-17T22:02:46+00:00
+2026-11-17T22:02:56+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.41,Vignesh Gogineni,polyus,0.55,0.9941,0.0,0.0,0.0,0.0,0.46,,,0.1,True,2026-11-17T22:02:46+00:00
+2026-11-17T22:03:06+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.41,Vignesh Gogineni,polyus,0.52,0.9643,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-17T22:02:46+00:00
+2026-11-17T22:03:06+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.87,Gonzalo Villanueva,polyus,0.09,0.9736,0.0,0.0,0.0,0.0,0.92,,,0.1,True,2026-11-17T22:02:46+00:00
+2026-11-17T22:03:06+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.16,Laura Samson,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T22:03:06+00:00
+2026-11-17T22:03:16+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.16,Laura Samson,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T22:03:06+00:00
+2026-11-17T22:03:16+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.92,Gonzalo Villanueva,polyus,0.07,0.9997,56.0,15.0,15.0,0.0,0.92,0.07,0.9997,0.2,True,2026-11-17T22:02:46+00:00
+2026-11-17T22:03:26+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.92,Gonzalo Villanueva,polyus,0.05,0.9785,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-17T22:02:46+00:00
+2026-11-17T22:03:36+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.92,Gonzalo Villanueva,polyus,0.06,0.9891,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T22:02:46+00:00
+2026-11-17T22:03:36+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.46,Vignesh Gogineni,polyus,0.5,0.9948,0.0,0.0,0.0,0.0,0.51,,,0.1,True,2026-11-17T22:03:36+00:00
+2026-11-17T22:03:56+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.13,Laura Samson,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-17T22:03:56+00:00
+2026-11-17T22:03:56+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.96,Gonzalo Villanueva,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T22:03:56+00:00
+2026-11-17T22:03:56+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.27,Guido Ivan Justo,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-17T22:03:56+00:00
+2026-11-17T22:04:06+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.13,Laura Samson,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-17T22:03:56+00:00
+2026-11-17T22:04:06+00:00,alberto v villanueva,True,Genaro Alberto Olivieri,kalshi,0.96,Gonzalo Villanueva,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T22:03:56+00:00
+2026-11-17T22:04:06+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.27,Guido Ivan Justo,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-17T22:03:56+00:00
+2026-11-17T22:04:16+00:00,papamichail v samson,True,Despina Papamichail,polyus,0.13,Laura Samson,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-17T22:03:56+00:00
+2026-11-17T22:04:46+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.13,Laura Samson,polyus,0.83,0.9777,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-17T22:04:46+00:00
+2026-11-17T22:06:16+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.49,Vignesh Gogineni,kalshi,0.46,0.9848,0.0,0.0,0.0,0.0,,0.52,,0.1,True,2026-11-17T22:06:16+00:00
+2026-11-17T22:06:26+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.49,Vignesh Gogineni,kalshi,0.46,0.9848,0.0,0.0,0.0,0.0,,0.52,,0.2,True,2026-11-17T22:06:16+00:00
+2026-11-17T22:06:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.15,Joaquin Aguilar Cardozo,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T22:06:26+00:00
+2026-11-17T22:07:16+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.22,Laura Samson,polyus,0.73,0.9757,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-17T22:07:16+00:00
+2026-11-17T22:07:26+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.22,Laura Samson,polyus,0.73,0.9757,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-17T22:07:16+00:00
+2026-11-17T22:07:26+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.47,Vignesh Gogineni,kalshi,0.49,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.2,True,2026-11-17T22:07:26+00:00
+2026-11-17T22:07:36+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.22,Laura Samson,polyus,0.72,0.966,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-17T22:07:16+00:00
+2026-11-17T22:07:46+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.28,Laura Samson,polyus,0.67,0.9795,0.0,0.0,0.0,0.0,0.34,,,0.1,True,2026-11-17T22:07:16+00:00
+2026-11-17T22:07:56+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.28,Laura Samson,polyus,0.67,0.9795,0.0,0.0,0.0,0.0,0.34,,,0.1,True,2026-11-17T22:07:16+00:00
+2026-11-17T22:08:06+00:00,papamichail v samson,True,Despina Papamichail,kalshi,0.28,Laura Samson,polyus,0.65,0.9599,0.0,0.0,0.0,0.0,0.36,,,0.1,True,2026-11-17T22:07:16+00:00
+2026-11-17T22:08:26+00:00,ivan v rincon,True,Daniel Rincon,polyus,0.16,Guido Ivan Justo,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-17T22:08:26+00:00
