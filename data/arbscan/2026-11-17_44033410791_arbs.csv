@@ -1,0 +1,60 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-17T07:44:46+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.45,Mili Poljicak,kalshi,0.49,0.9747,0.0,0.0,0.0,0.0,,0.56,,0.1,True,2026-11-17T07:44:46+00:00
+2026-11-17T07:44:56+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.45,Mili Poljicak,kalshi,0.49,0.9747,0.0,0.0,0.0,0.0,,0.56,,0.1,True,2026-11-17T07:44:46+00:00
+2026-11-17T07:45:06+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.46,Mili Poljicak,kalshi,0.49,0.9848,0.0,0.0,0.0,0.0,,0.58,,0.1,True,2026-11-17T07:44:46+00:00
+2026-11-17T07:45:16+00:00,friend v poljicak,True,Jay Friend,kalshi,0.42,Mili Poljicak,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-17T07:45:16+00:00
+2026-11-17T07:45:36+00:00,daniel v michalski,True,Daniel Michalski,kalshi,0.19,Taro Daniel,polyus,0.78,0.9927,0.0,0.0,0.0,0.0,0.23,,,0.1,True,2026-11-17T07:45:36+00:00
+2026-11-17T07:45:46+00:00,langmo v sweeny,True,Christian Langmo,polyus,0.43,Dane Sweeny,kalshi,0.53,0.9945,0.0,0.0,0.0,0.0,,0.58,,0.1,True,2026-11-17T07:45:46+00:00
+2026-11-17T07:45:56+00:00,langmo v sweeny,True,Christian Langmo,polyus,0.43,Dane Sweeny,kalshi,0.53,0.9945,0.0,0.0,0.0,0.0,,0.58,,0.1,True,2026-11-17T07:45:46+00:00
+2026-11-17T07:46:06+00:00,langmo v sweeny,True,Christian Langmo,polyus,0.43,Dane Sweeny,kalshi,0.53,0.9945,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-17T07:45:46+00:00
+2026-11-17T07:46:16+00:00,friend v poljicak,True,Jay Friend,kalshi,0.4,Mili Poljicak,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.45,,,0.1,True,2026-11-17T07:46:16+00:00
+2026-11-17T07:46:46+00:00,friend v poljicak,True,Jay Friend,kalshi,0.45,Mili Poljicak,polyus,0.47,0.9546,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-17T07:46:46+00:00
+2026-11-17T07:46:56+00:00,langmo v sweeny,True,Christian Langmo,kalshi,0.48,Dane Sweeny,polyus,0.43,0.9445,0.0,0.0,0.0,0.0,0.58,,,0.1,True,2026-11-17T07:46:56+00:00
+2026-11-17T07:46:56+00:00,friend v poljicak,True,Jay Friend,kalshi,0.45,Mili Poljicak,polyus,0.49,0.9747,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-17T07:46:46+00:00
+2026-11-17T07:47:16+00:00,friend v poljicak,True,Jay Friend,kalshi,0.54,Mili Poljicak,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,,,0.1,True,2026-11-17T07:47:16+00:00
+2026-11-17T07:47:26+00:00,langmo v sweeny,True,Christian Langmo,kalshi,0.58,Dane Sweeny,polyus,0.27,0.8808,0.0,0.0,0.0,0.0,0.74,,,0.1,True,2026-11-17T07:47:26+00:00
+2026-11-17T07:47:26+00:00,friend v poljicak,True,Jay Friend,kalshi,0.54,Mili Poljicak,polyus,0.39,0.9639,0.0,0.0,0.0,0.0,0.62,,,0.1,True,2026-11-17T07:47:16+00:00
+2026-11-17T07:47:56+00:00,langmo v sweeny,True,Christian Langmo,kalshi,0.74,Dane Sweeny,polyus,0.12,0.8808,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-17T07:47:56+00:00
+2026-11-17T07:48:16+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.15,Taro Daniel,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T07:48:16+00:00
+2026-11-17T07:48:26+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.15,Taro Daniel,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T07:48:16+00:00
+2026-11-17T07:48:36+00:00,friend v poljicak,True,Jay Friend,kalshi,0.62,Mili Poljicak,polyus,0.34,0.9921,0.0,0.0,0.0,0.0,0.67,,,0.1,True,2026-11-17T07:48:36+00:00
+2026-11-17T07:48:36+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.15,Taro Daniel,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-17T07:48:16+00:00
+2026-11-17T07:48:56+00:00,daniel v michalski,True,Daniel Michalski,kalshi,0.15,Taro Daniel,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-17T07:48:56+00:00
+2026-11-17T07:49:06+00:00,ichikawa v schoenhaus,False,Max Schoenhaus,kalshi,0.84,Taisei Ichikawa,polyus,0.13,0.9873,0.0,0.0,0.0,0.0,0.92,,,0.1,True,2026-11-17T07:49:06+00:00
+2026-11-17T07:49:06+00:00,daniel v michalski,True,Daniel Michalski,kalshi,0.15,Taro Daniel,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-17T07:48:56+00:00
+2026-11-17T07:49:16+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.84,Taisei Ichikawa,polyus,0.09,0.9451,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T07:49:06+00:00
+2026-11-17T07:49:16+00:00,daniel v michalski,True,Daniel Michalski,kalshi,0.15,Taro Daniel,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-17T07:48:56+00:00
+2026-11-17T07:49:26+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.92,Taisei Ichikawa,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T07:49:06+00:00
+2026-11-17T07:49:36+00:00,friend v poljicak,True,Jay Friend,kalshi,0.63,Mili Poljicak,polyus,0.32,0.9814,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-17T07:49:36+00:00
+2026-11-17T07:49:36+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.92,Taisei Ichikawa,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-17T07:49:06+00:00
+2026-11-17T07:49:46+00:00,friend v poljicak,True,Jay Friend,kalshi,0.63,Mili Poljicak,polyus,0.32,0.9814,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-17T07:49:36+00:00
+2026-11-17T07:49:46+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.92,Taisei Ichikawa,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T07:49:06+00:00
+2026-11-17T07:49:56+00:00,langmo v sweeny,True,Christian Langmo,polyus,0.83,Dane Sweeny,kalshi,0.1,0.9461,0.0,0.0,0.0,0.0,,0.18,,0.1,True,2026-11-17T07:49:56+00:00
+2026-11-17T07:50:06+00:00,langmo v sweeny,True,Christian Langmo,polyus,0.83,Dane Sweeny,kalshi,0.1,0.9461,0.0,0.0,0.0,0.0,,0.18,,0.1,True,2026-11-17T07:49:56+00:00
+2026-11-17T07:50:26+00:00,daniel v michalski,True,Daniel Michalski,kalshi,0.2,Taro Daniel,polyus,0.76,0.9839,0.0,0.0,0.0,0.0,0.25,,,0.1,True,2026-11-17T07:50:26+00:00
+2026-11-17T07:50:36+00:00,langmo v sweeny,True,Christian Langmo,kalshi,0.82,Dane Sweeny,polyus,0.12,0.9577,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-17T07:50:36+00:00
+2026-11-17T07:50:36+00:00,daniel v michalski,True,Daniel Michalski,kalshi,0.2,Taro Daniel,polyus,0.76,0.9839,0.0,0.0,0.0,0.0,0.25,,,0.1,True,2026-11-17T07:50:26+00:00
+2026-11-17T07:50:36+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.6,Mili Poljicak,kalshi,0.36,0.9928,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-17T07:50:36+00:00
+2026-11-17T07:50:56+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.21,Taro Daniel,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.79,,0.1,True,2026-11-17T07:50:56+00:00
+2026-11-17T07:51:06+00:00,langmo v sweeny,True,Christian Langmo,kalshi,0.88,Dane Sweeny,polyus,0.07,0.9619,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T07:51:06+00:00
+2026-11-17T07:51:06+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.21,Taro Daniel,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.79,,0.1,True,2026-11-17T07:50:56+00:00
+2026-11-17T07:51:46+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.16,Taro Daniel,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-17T07:51:46+00:00
+2026-11-17T07:51:46+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.51,Mili Poljicak,kalshi,0.44,0.9846,0.0,0.0,0.0,0.0,,0.49,,0.1,True,2026-11-17T07:51:46+00:00
+2026-11-17T07:51:56+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.16,Taro Daniel,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-17T07:51:46+00:00
+2026-11-17T07:51:56+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.51,Mili Poljicak,kalshi,0.44,0.9846,0.0,0.0,0.0,0.0,,0.49,,0.1,True,2026-11-17T07:51:46+00:00
+2026-11-17T07:51:56+00:00,langmo v sweeny,True,Christian Langmo,polyus,0.92,Dane Sweeny,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.09,,0.1,True,2026-11-17T07:51:56+00:00
+2026-11-17T07:52:16+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.1,Taro Daniel,kalshi,0.84,0.9557,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-17T07:52:16+00:00
+2026-11-17T07:52:16+00:00,langmo v sweeny,True,Christian Langmo,kalshi,0.94,Dane Sweeny,polyus,0.03,0.976,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T07:52:16+00:00
+2026-11-17T07:52:26+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.44,Mili Poljicak,kalshi,0.46,0.9345,0.0,0.0,0.0,0.0,,0.57,,0.2,True,2026-11-17T07:52:26+00:00
+2026-11-17T07:52:26+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.1,Taro Daniel,kalshi,0.84,0.9557,0.0,0.0,0.0,0.0,,0.91,,0.1,True,2026-11-17T07:52:16+00:00
+2026-11-17T07:52:26+00:00,langmo v sweeny,True,Christian Langmo,kalshi,0.94,Dane Sweeny,polyus,0.03,0.976,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T07:52:16+00:00
+2026-11-17T07:52:36+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.44,Mili Poljicak,kalshi,0.52,0.9946,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-17T07:52:26+00:00
+2026-11-17T07:53:16+00:00,friend v poljicak,True,Jay Friend,kalshi,0.49,Mili Poljicak,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-17T07:53:16+00:00
+2026-11-17T07:53:46+00:00,friend v poljicak,True,Jay Friend,kalshi,0.54,Mili Poljicak,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.59,,,0.1,True,2026-11-17T07:53:46+00:00
+2026-11-17T07:57:16+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.96,Taisei Ichikawa,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,,0.05,,0.1,True,2026-11-17T07:57:16+00:00
+2026-11-17T07:57:26+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.96,Taisei Ichikawa,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,,0.05,,0.1,True,2026-11-17T07:57:16+00:00
+2026-11-17T07:58:36+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.06,Taro Daniel,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T07:58:36+00:00
+2026-11-17T07:58:46+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.06,Taro Daniel,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T07:58:36+00:00
+2026-11-17T07:59:06+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.04,Taro Daniel,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T07:59:06+00:00
+2026-11-17T07:59:16+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.04,Taro Daniel,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T07:59:06+00:00
+2026-11-17T07:59:26+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.04,Taro Daniel,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T07:59:06+00:00
