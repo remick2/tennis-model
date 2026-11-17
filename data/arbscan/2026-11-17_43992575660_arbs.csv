@@ -921,3 +921,102 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T06:06:07+00:00,langmo v sweeny,True,Christian Langmo,kalshi,0.03,Dane Sweeny,polyus,0.96,0.9947,0.0,0.0,0.0,0.0,0.05,,,0.0,True,2026-11-17T06:06:07+00:00
 2026-11-17T06:06:17+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.93,Niels McDonald,kalshi,0.05,0.9878,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-17T06:06:17+00:00
 2026-11-17T06:06:27+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.93,Niels McDonald,kalshi,0.05,0.9878,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-17T06:06:17+00:00
+2026-11-17T06:06:47+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.39,Kaichi Uchida,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,,0.62,,0.0,True,2026-11-17T06:06:47+00:00
+2026-11-17T06:06:57+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.9,Niels McDonald,kalshi,0.05,0.9596,0.0,0.0,0.0,0.0,,0.11,,0.0,True,2026-11-17T06:06:57+00:00
+2026-11-17T06:06:57+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.39,Kaichi Uchida,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,,0.62,,0.0,True,2026-11-17T06:06:47+00:00
+2026-11-17T06:07:07+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.6,Moerani Bouzige,polyus,0.36,0.9928,0.0,0.0,0.0,0.0,0.66,,,0.0,True,2026-11-17T06:07:07+00:00
+2026-11-17T06:07:17+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.6,Moerani Bouzige,polyus,0.34,0.9724,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-17T06:07:07+00:00
+2026-11-17T06:07:27+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.6,Moerani Bouzige,polyus,0.36,0.9928,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-17T06:07:07+00:00
+2026-11-17T06:07:37+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.86,Niels McDonald,kalshi,0.07,0.9429,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-17T06:07:37+00:00
+2026-11-17T06:07:47+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.6,Moerani Bouzige,kalshi,0.31,0.9417,0.0,0.0,0.0,0.0,,0.41,,0.0,True,2026-11-17T06:07:47+00:00
+2026-11-17T06:07:47+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.86,Niels McDonald,kalshi,0.07,0.9429,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-17T06:07:37+00:00
+2026-11-17T06:07:57+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.86,Niels McDonald,kalshi,0.07,0.9429,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-17T06:07:37+00:00
+2026-11-17T06:07:57+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.63,Moerani Bouzige,kalshi,0.31,0.9712,0.0,0.0,0.0,0.0,,0.39,,0.0,True,2026-11-17T06:07:47+00:00
+2026-11-17T06:08:07+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.03,Rio Noguchi,polyus,0.96,0.9947,0.0,0.0,0.0,0.0,0.05,,,0.0,True,2026-11-17T06:08:07+00:00
+2026-11-17T06:08:17+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.4,Kaichi Uchida,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.45,,,0.0,True,2026-11-17T06:08:17+00:00
+2026-11-17T06:08:27+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.67,Niels McDonald,kalshi,0.15,0.8443,0.0,0.0,0.0,0.0,,0.34,,0.0,True,2026-11-17T06:08:27+00:00
+2026-11-17T06:08:27+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.4,Kaichi Uchida,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.45,,,0.0,True,2026-11-17T06:08:17+00:00
+2026-11-17T06:08:57+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.4,Kaichi Uchida,kalshi,0.56,0.9939,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-17T06:08:57+00:00
+2026-11-17T06:09:47+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.05,Rio Noguchi,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.0,True,2026-11-17T06:09:47+00:00
+2026-11-17T06:09:57+00:00,mcdonald v smith,True,Keegan Smith,kalshi,0.67,Niels McDonald,polyus,0.27,0.9692,0.0,0.0,0.0,0.0,0.74,,,0.0,True,2026-11-17T06:09:57+00:00
+2026-11-17T06:09:57+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.32,Kaichi Uchida,kalshi,0.64,0.9913,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-17T06:09:57+00:00
+2026-11-17T06:09:57+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.05,Rio Noguchi,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-17T06:09:47+00:00
+2026-11-17T06:10:07+00:00,mcdonald v smith,True,Keegan Smith,kalshi,0.67,Niels McDonald,polyus,0.27,0.9692,0.0,0.0,0.0,0.0,0.74,,,0.0,True,2026-11-17T06:09:57+00:00
+2026-11-17T06:10:07+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.32,Kaichi Uchida,kalshi,0.64,0.9913,0.0,0.0,0.0,0.0,,0.7,,0.0,True,2026-11-17T06:09:57+00:00
+2026-11-17T06:10:17+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.69,Niels McDonald,kalshi,0.27,0.9887,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-17T06:10:17+00:00
+2026-11-17T06:10:17+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,polyus,0.05,Rio Noguchi,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-17T06:10:17+00:00
+2026-11-17T06:10:27+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.24,Kaichi Uchida,kalshi,0.7,0.9674,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-17T06:10:27+00:00
+2026-11-17T06:10:27+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.49,Moerani Bouzige,kalshi,0.46,0.9848,0.0,0.0,0.0,0.0,,0.52,,0.0,True,2026-11-17T06:10:27+00:00
+2026-11-17T06:10:27+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.69,Niels McDonald,kalshi,0.27,0.9887,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-17T06:10:17+00:00
+2026-11-17T06:10:27+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,polyus,0.05,Rio Noguchi,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-17T06:10:17+00:00
+2026-11-17T06:10:37+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.24,Kaichi Uchida,kalshi,0.7,0.9674,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-17T06:10:27+00:00
+2026-11-17T06:10:37+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.48,Moerani Bouzige,kalshi,0.46,0.9747,0.0,0.0,0.0,0.0,,0.55,,0.0,True,2026-11-17T06:10:27+00:00
+2026-11-17T06:10:37+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.69,Niels McDonald,kalshi,0.27,0.9887,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-17T06:10:17+00:00
+2026-11-17T06:10:57+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.22,Kaichi Uchida,polyus,0.72,0.966,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:10:57+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.38,Moerani Bouzige,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,,0.64,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:10:57+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,polyus,0.04,Rio Noguchi,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:11:07+00:00,mcdonald v smith,True,Keegan Smith,kalshi,0.69,Niels McDonald,polyus,0.24,0.9576,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-17T06:11:07+00:00
+2026-11-17T06:11:07+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.22,Kaichi Uchida,polyus,0.72,0.966,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:11:07+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.37,Moerani Bouzige,kalshi,0.57,0.9734,0.0,0.0,0.0,0.0,,0.65,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:11:07+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,polyus,0.04,Rio Noguchi,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:11:17+00:00,mcdonald v smith,True,Keegan Smith,kalshi,0.69,Niels McDonald,polyus,0.24,0.9576,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-17T06:11:07+00:00
+2026-11-17T06:11:17+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.22,Kaichi Uchida,polyus,0.73,0.9757,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:11:27+00:00,mcdonald v smith,True,Keegan Smith,kalshi,0.69,Niels McDonald,polyus,0.25,0.968,0.0,0.0,0.0,0.0,0.78,,,0.0,True,2026-11-17T06:11:07+00:00
+2026-11-17T06:11:27+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.22,Kaichi Uchida,polyus,0.74,0.9854,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:11:37+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.71,Niels McDonald,kalshi,0.24,0.9771,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-17T06:11:37+00:00
+2026-11-17T06:11:37+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.41,Moerani Bouzige,polyus,0.54,0.9842,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-17T06:11:37+00:00
+2026-11-17T06:11:37+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.29,Kaichi Uchida,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:11:47+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.41,Moerani Bouzige,polyus,0.44,0.8841,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-17T06:11:37+00:00
+2026-11-17T06:11:47+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.71,Niels McDonald,kalshi,0.24,0.9771,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-17T06:11:37+00:00
+2026-11-17T06:11:47+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.29,Kaichi Uchida,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:11:57+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.41,Moerani Bouzige,polyus,0.41,0.8537,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-17T06:11:37+00:00
+2026-11-17T06:11:57+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.29,Kaichi Uchida,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,,,0.0,True,2026-11-17T06:10:57+00:00
+2026-11-17T06:12:07+00:00,mcdonald v smith,True,Keegan Smith,kalshi,0.71,Niels McDonald,polyus,0.19,0.9251,0.0,0.0,0.0,0.0,0.82,,,0.0,True,2026-11-17T06:12:07+00:00
+2026-11-17T06:12:17+00:00,mcdonald v smith,True,Keegan Smith,kalshi,0.71,Niels McDonald,polyus,0.19,0.9251,0.0,0.0,0.0,0.0,0.82,,,0.0,True,2026-11-17T06:12:07+00:00
+2026-11-17T06:12:17+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.34,Kaichi Uchida,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,,,0.0,True,2026-11-17T06:12:17+00:00
+2026-11-17T06:12:27+00:00,mcdonald v smith,True,Keegan Smith,kalshi,0.71,Niels McDonald,polyus,0.15,0.8833,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-17T06:12:07+00:00
+2026-11-17T06:12:27+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.57,Moerani Bouzige,polyus,0.35,0.953,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-17T06:12:27+00:00
+2026-11-17T06:12:27+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.34,Kaichi Uchida,polyus,0.61,0.9822,0.0,0.0,0.0,0.0,0.39,,,0.0,True,2026-11-17T06:12:17+00:00
+2026-11-17T06:12:37+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.6,Moerani Bouzige,polyus,0.35,0.9826,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-17T06:12:27+00:00
+2026-11-17T06:12:57+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.6,Moerani Bouzige,polyus,0.36,0.9928,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-17T06:12:57+00:00
+2026-11-17T06:14:07+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.04,Rio Noguchi,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.06,,,0.0,True,2026-11-17T06:14:07+00:00
+2026-11-17T06:14:17+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.43,Kaichi Uchida,polyus,0.53,0.9945,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-17T06:14:17+00:00
+2026-11-17T06:14:37+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.43,Kaichi Uchida,polyus,0.53,0.9945,0.0,0.0,0.0,0.0,0.49,,,0.0,True,2026-11-17T06:14:37+00:00
+2026-11-17T06:14:47+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.49,Kaichi Uchida,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.0,True,2026-11-17T06:14:37+00:00
+2026-11-17T06:14:47+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.06,Rio Noguchi,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-17T06:14:47+00:00
+2026-11-17T06:14:57+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.49,Kaichi Uchida,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.0,True,2026-11-17T06:14:37+00:00
+2026-11-17T06:14:57+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.06,Rio Noguchi,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-17T06:14:47+00:00
+2026-11-17T06:14:57+00:00,langmo v sweeny,True,Christian Langmo,kalshi,0.06,Dane Sweeny,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-17T06:14:57+00:00
+2026-11-17T06:15:07+00:00,langmo v sweeny,True,Christian Langmo,kalshi,0.06,Dane Sweeny,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-17T06:14:57+00:00
+2026-11-17T06:15:17+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,polyus,0.06,Rio Noguchi,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-17T06:15:17+00:00
+2026-11-17T06:15:27+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.45,Kaichi Uchida,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.0,True,2026-11-17T06:15:27+00:00
+2026-11-17T06:15:27+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,polyus,0.06,Rio Noguchi,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-17T06:15:17+00:00
+2026-11-17T06:15:37+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.43,Kaichi Uchida,kalshi,0.51,0.9745,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-17T06:15:27+00:00
+2026-11-17T06:15:37+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,polyus,0.06,Rio Noguchi,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-17T06:15:17+00:00
+2026-11-17T06:15:47+00:00,langmo v sweeny,True,Christian Langmo,polyus,0.05,Dane Sweeny,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-17T06:15:47+00:00
+2026-11-17T06:15:57+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.46,Kaichi Uchida,polyus,0.48,0.9747,0.0,0.0,0.0,0.0,0.53,,,0.0,True,2026-11-17T06:15:57+00:00
+2026-11-17T06:15:57+00:00,langmo v sweeny,True,Christian Langmo,polyus,0.05,Dane Sweeny,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-17T06:15:47+00:00
+2026-11-17T06:16:07+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.46,Kaichi Uchida,polyus,0.48,0.9747,0.0,0.0,0.0,0.0,0.53,,,0.0,True,2026-11-17T06:15:57+00:00
+2026-11-17T06:16:27+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.53,Kaichi Uchida,polyus,0.36,0.9234,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-17T06:16:27+00:00
+2026-11-17T06:16:27+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.08,Rio Noguchi,polyus,0.89,0.982,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-17T06:16:27+00:00
+2026-11-17T06:16:37+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.53,Kaichi Uchida,polyus,0.36,0.9234,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-17T06:16:27+00:00
+2026-11-17T06:16:37+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.08,Rio Noguchi,polyus,0.89,0.982,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-17T06:16:27+00:00
+2026-11-17T06:16:47+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.53,Kaichi Uchida,polyus,0.36,0.9234,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-17T06:16:27+00:00
+2026-11-17T06:16:47+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.66,Moerani Bouzige,polyus,0.26,0.9491,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-17T06:16:47+00:00
+2026-11-17T06:16:47+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.08,Rio Noguchi,polyus,0.89,0.982,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-17T06:16:27+00:00
+2026-11-17T06:16:57+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.53,Kaichi Uchida,polyus,0.36,0.9234,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-17T06:16:27+00:00
+2026-11-17T06:16:57+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.66,Moerani Bouzige,polyus,0.24,0.9284,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-17T06:16:47+00:00
+2026-11-17T06:16:57+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.08,Rio Noguchi,polyus,0.89,0.982,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-17T06:16:27+00:00
+2026-11-17T06:17:07+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.66,Moerani Bouzige,kalshi,0.26,0.9491,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-17T06:17:07+00:00
+2026-11-17T06:17:17+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.65,Moerani Bouzige,kalshi,0.26,0.9393,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-17T06:17:07+00:00
+2026-11-17T06:17:27+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.66,Moerani Bouzige,kalshi,0.26,0.9491,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-17T06:17:07+00:00
+2026-11-17T06:17:57+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.66,Moerani Bouzige,polyus,0.25,0.9387,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-17T06:17:57+00:00
+2026-11-17T06:18:37+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.66,Moerani Bouzige,kalshi,0.26,0.9491,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-17T06:18:37+00:00
+2026-11-17T06:18:47+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.66,Moerani Bouzige,kalshi,0.26,0.9491,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-17T06:18:37+00:00
+2026-11-17T06:18:57+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.66,Moerani Bouzige,kalshi,0.26,0.9491,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-17T06:18:37+00:00
+2026-11-17T06:19:07+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.61,Moerani Bouzige,kalshi,0.26,0.9,0.0,0.0,0.0,0.0,,0.4,,0.0,True,2026-11-17T06:18:37+00:00
+2026-11-17T06:19:17+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.61,Moerani Bouzige,kalshi,0.35,0.9925,0.0,0.0,0.0,0.0,,0.4,,0.0,True,2026-11-17T06:18:37+00:00
+2026-11-17T06:19:27+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.61,Moerani Bouzige,kalshi,0.35,0.9925,0.0,0.0,0.0,0.0,,0.42,,0.0,True,2026-11-17T06:18:37+00:00
+2026-11-17T06:19:37+00:00,bouzige v shang,True,Juncheng Shang,polyus,0.56,Moerani Bouzige,kalshi,0.35,0.943,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-17T06:18:37+00:00
+2026-11-17T06:21:27+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.53,Moerani Bouzige,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-17T06:21:27+00:00
+2026-11-17T06:21:37+00:00,bouzige v shang,True,Juncheng Shang,kalshi,0.53,Moerani Bouzige,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-17T06:21:27+00:00
