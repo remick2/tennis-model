@@ -195,3 +195,10 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-17T01:53:21+00:00,winter v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZHUWIN-ZHU:yes,0.37,135,False,0.0133,2.0,hedged,polyus:aec-atp-evazhu-edwwin-2026-11-16:1,0.6,1.8,-3.53,1.8,True
 2026-11-17T01:54:01+00:00,winter v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZHUWIN-ZHU:yes,0.33,151,False,0.014,2.0,hedged,polyus:aec-atp-evazhu-edwwin-2026-11-16:1,0.64,2.11,-8.22,2.11,True
 2026-11-17T01:54:40+00:00,winter v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZHUWIN-ZHU:yes,0.3,166,True,0.0146,1.1,hedged,polyus:aec-atp-evazhu-edwwin-2026-11-16:1,0.67,2.43,-21.64,2.43,True
+2026-11-17T01:59:59+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB:yes,0.89,56,False,0.0143,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:0,0.09,0.8,-0.97,0.8,True
+2026-11-17T02:00:45+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB:yes,0.86,58,False,0.0127,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:0,0.12,0.73,-1.1,0.73,True
+2026-11-17T02:00:57+00:00,winter v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZHUWIN-ZHU:yes,0.12,416,True,0.0116,0.3,hedged,polyus:aec-atp-evazhu-edwwin-2026-11-16:1,0.86,4.84,-7.01,4.84,True
+2026-11-17T02:01:35+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.12,416,False,0.0116,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.86,4.84,-10.94,4.84,True
+2026-11-17T02:02:29+00:00,winter v zhu,True,kalshi:KXATPCHALLENGERMATCH-26NOV16ZHUWIN-WIN:yes,0.86,58,False,0.0127,1.9,hedged,polyus:aec-atp-evazhu-edwwin-2026-11-16:0,0.12,0.73,-1.1,0.73,True
+2026-11-17T02:03:47+00:00,delaney v marinkov,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELMAR-MAR:yes,0.11,454,False,0.0121,1.9,hedged,polyus:aec-atp-jakdel-pavmar-2026-11-16:0,0.91,-11.66,-11.68,-11.66,True
+2026-11-17T02:03:47+00:00,delaney v marinkov,True,polyus:aec-atp-jakdel-pavmar-2026-11-16:1,0.12,416,False,0.0116,1.9,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16DELMAR-MAR:no,0.91,-14.86,-14.85,-14.85,True
