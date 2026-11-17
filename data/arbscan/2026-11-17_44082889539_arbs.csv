@@ -1319,3 +1319,78 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T18:28:06+00:00,mejia v wessels,True,Louis Wessels,polyus,0.39,Nicolas Mejia,kalshi,0.56,0.9838,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-17T18:28:06+00:00
 2026-11-17T18:28:16+00:00,mejia v wessels,True,Louis Wessels,polyus,0.39,Nicolas Mejia,kalshi,0.56,0.9838,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-17T18:28:06+00:00
 2026-11-17T18:28:26+00:00,mejia v wessels,True,Louis Wessels,polyus,0.39,Nicolas Mejia,kalshi,0.56,0.9838,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-17T18:28:06+00:00
+2026-11-17T18:29:26+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.39,Lautaro Midon,kalshi,0.54,0.9639,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-17T18:29:26+00:00
+2026-11-17T18:29:36+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.39,Lautaro Midon,kalshi,0.54,0.9639,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-17T18:29:26+00:00
+2026-11-17T18:29:56+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.28,Nicolas Mejia,polyus,0.65,0.9599,0.0,0.0,0.0,0.0,0.36,,,0.1,True,2026-11-17T18:29:56+00:00
+2026-11-17T18:29:56+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.71,Braden Shick,polyus,0.23,0.9667,0.0,0.0,0.0,0.0,0.78,,,0.1,True,2026-11-17T18:29:56+00:00
+2026-11-17T18:30:06+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.3,Lautaro Midon,kalshi,0.61,0.9412,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-17T18:30:06+00:00
+2026-11-17T18:30:06+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.28,Nicolas Mejia,polyus,0.65,0.9599,0.0,0.0,0.0,0.0,0.36,,,0.1,True,2026-11-17T18:29:56+00:00
+2026-11-17T18:30:06+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.71,Braden Shick,polyus,0.23,0.9667,0.0,0.0,0.0,0.0,0.78,,,0.1,True,2026-11-17T18:29:56+00:00
+2026-11-17T18:30:36+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.78,Braden Shick,polyus,0.09,0.8877,0.0,0.0,0.0,0.0,0.92,,,0.1,True,2026-11-17T18:30:36+00:00
+2026-11-17T18:31:16+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.39,Nicolas Mejia,polyus,0.48,0.904,0.0,0.0,0.0,0.0,0.53,,,0.1,True,2026-11-17T18:31:16+00:00
+2026-11-17T18:31:26+00:00,mejia v wessels,True,Louis Wessels,kalshi,0.39,Nicolas Mejia,polyus,0.48,0.904,0.0,0.0,0.0,0.0,0.53,,,0.1,True,2026-11-17T18:31:16+00:00
+2026-11-17T18:31:26+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.49,Sascha Gueymard Wayenburg,kalshi,0.47,0.9948,0.0,0.0,0.0,0.0,,0.51,,0.1,True,2026-11-17T18:31:26+00:00
+2026-11-17T18:31:56+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.3,Lautaro Midon,polyus,0.66,0.9903,0.0,0.0,0.0,0.0,0.35,,,0.1,True,2026-11-17T18:31:56+00:00
+2026-11-17T18:32:16+00:00,mayo v shick,True,Aidan Mayo,polyus,0.88,Braden Shick,kalshi,0.09,0.9831,0.0,0.0,0.0,0.0,,0.13,,0.1,True,2026-11-17T18:32:16+00:00
+2026-11-17T18:32:16+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.35,Lautaro Midon,polyus,0.61,0.9925,0.0,0.0,0.0,0.0,0.4,,,0.1,True,2026-11-17T18:32:16+00:00
+2026-11-17T18:32:26+00:00,mayo v shick,True,Aidan Mayo,polyus,0.88,Braden Shick,kalshi,0.09,0.9831,0.0,0.0,0.0,0.0,,0.13,,0.1,True,2026-11-17T18:32:16+00:00
+2026-11-17T18:32:26+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.35,Lautaro Midon,polyus,0.61,0.9925,0.0,0.0,0.0,0.0,0.4,,,0.1,True,2026-11-17T18:32:16+00:00
+2026-11-17T18:32:36+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.88,Braden Shick,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-17T18:32:36+00:00
+2026-11-17T18:32:46+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.88,Braden Shick,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-17T18:32:36+00:00
+2026-11-17T18:32:46+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.51,Sascha Gueymard Wayenburg,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-17T18:32:46+00:00
+2026-11-17T18:32:56+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.51,Sascha Gueymard Wayenburg,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-17T18:32:46+00:00
+2026-11-17T18:33:16+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.42,Sascha Gueymard Wayenburg,kalshi,0.5,0.9544,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-17T18:33:16+00:00
+2026-11-17T18:33:16+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.9,Braden Shick,polyus,0.07,0.9808,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T18:33:16+00:00
+2026-11-17T18:33:26+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.42,Sascha Gueymard Wayenburg,kalshi,0.5,0.9544,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-17T18:33:16+00:00
+2026-11-17T18:33:26+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.9,Braden Shick,polyus,0.07,0.9808,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T18:33:16+00:00
+2026-11-17T18:33:46+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.25,Sascha Gueymard Wayenburg,kalshi,0.62,0.8995,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-17T18:33:46+00:00
+2026-11-17T18:33:46+00:00,mayo v shick,True,Aidan Mayo,polyus,0.9,Braden Shick,kalshi,0.07,0.9808,0.0,0.0,0.0,0.0,,0.11,,0.1,True,2026-11-17T18:33:46+00:00
+2026-11-17T18:33:56+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.25,Sascha Gueymard Wayenburg,kalshi,0.62,0.8995,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-17T18:33:46+00:00
+2026-11-17T18:33:56+00:00,mayo v shick,True,Aidan Mayo,polyus,0.9,Braden Shick,kalshi,0.07,0.9808,0.0,0.0,0.0,0.0,,0.11,,0.1,True,2026-11-17T18:33:46+00:00
+2026-11-17T18:34:06+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.25,Sascha Gueymard Wayenburg,kalshi,0.62,0.8995,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-17T18:33:46+00:00
+2026-11-17T18:34:06+00:00,mayo v shick,True,Aidan Mayo,polyus,0.9,Braden Shick,kalshi,0.07,0.9808,0.0,0.0,0.0,0.0,,0.11,,0.1,True,2026-11-17T18:33:46+00:00
+2026-11-17T18:34:16+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.25,Sascha Gueymard Wayenburg,kalshi,0.62,0.8995,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-17T18:33:46+00:00
+2026-11-17T18:34:16+00:00,mayo v shick,True,Aidan Mayo,polyus,0.9,Braden Shick,kalshi,0.07,0.9808,0.0,0.0,0.0,0.0,,0.12,,0.1,True,2026-11-17T18:33:46+00:00
+2026-11-17T18:34:16+00:00,fenty v young,True,Andrew Fenty,polyus,0.05,Gavin Young,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T18:34:16+00:00
+2026-11-17T18:34:36+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.9,Braden Shick,polyus,0.07,0.9808,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T18:34:36+00:00
+2026-11-17T18:34:46+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.9,Braden Shick,polyus,0.07,0.9808,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T18:34:36+00:00
+2026-11-17T18:35:06+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.94,Braden Shick,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-17T18:35:06+00:00
+2026-11-17T18:35:16+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.94,Braden Shick,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-17T18:35:06+00:00
+2026-11-17T18:35:16+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.49,Lautaro Midon,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-17T18:35:16+00:00
+2026-11-17T18:35:36+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.22,Sascha Gueymard Wayenburg,kalshi,0.75,0.9951,0.0,0.0,0.0,0.0,,0.79,,0.1,True,2026-11-17T18:35:36+00:00
+2026-11-17T18:35:46+00:00,artnak v wiedenmann,True,Bor Artnak,kalshi,0.87,Luca Wiedenmann,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.1,True,2026-11-17T18:35:46+00:00
+2026-11-17T18:36:06+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,polyus,0.07,Henrique Rocha,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T18:36:06+00:00
+2026-11-17T18:36:16+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,polyus,0.07,Henrique Rocha,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.2,True,2026-11-17T18:36:06+00:00
+2026-11-17T18:36:46+00:00,fenty v young,True,Andrew Fenty,polyus,0.02,Gavin Young,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-17T18:36:46+00:00
+2026-11-17T18:36:46+00:00,bonzi v gueymard,True,Benjamin Bonzi,polyus,0.23,Sascha Gueymard Wayenburg,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-17T18:36:46+00:00
+2026-11-17T18:37:06+00:00,artnak v wiedenmann,True,Bor Artnak,kalshi,0.88,Luca Wiedenmann,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-17T18:37:06+00:00
+2026-11-17T18:37:16+00:00,artnak v wiedenmann,True,Bor Artnak,kalshi,0.88,Luca Wiedenmann,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-17T18:37:06+00:00
+2026-11-17T18:37:16+00:00,mejia v wessels,True,Louis Wessels,polyus,0.46,Nicolas Mejia,kalshi,0.5,0.9948,0.0,0.0,0.0,0.0,,0.55,,0.1,True,2026-11-17T18:37:16+00:00
+2026-11-17T18:37:36+00:00,artnak v wiedenmann,True,Bor Artnak,kalshi,0.92,Luca Wiedenmann,polyus,0.06,0.9891,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T18:37:36+00:00
+2026-11-17T18:37:46+00:00,artnak v wiedenmann,True,Bor Artnak,kalshi,0.92,Luca Wiedenmann,polyus,0.06,0.9891,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T18:37:36+00:00
+2026-11-17T18:37:46+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.94,Kimmer Coppejans,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-17T18:37:46+00:00
+2026-11-17T18:38:16+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.96,Kimmer Coppejans,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T18:38:16+00:00
+2026-11-17T18:38:26+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.96,Kimmer Coppejans,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T18:38:16+00:00
+2026-11-17T18:38:36+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.96,Kimmer Coppejans,polyus,0.02,0.9841,0.0,0.0,0.0,0.0,0.99,,,0.1,True,2026-11-17T18:38:16+00:00
+2026-11-17T18:38:46+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.58,Lautaro Midon,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,,0.43,,0.1,True,2026-11-17T18:38:46+00:00
+2026-11-17T18:38:56+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.58,Lautaro Midon,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,,0.42,,0.1,True,2026-11-17T18:38:46+00:00
+2026-11-17T18:39:06+00:00,coppejans v gojo,True,Borna Gojo,polyus,0.96,Kimmer Coppejans,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,,0.05,,0.1,True,2026-11-17T18:39:06+00:00
+2026-11-17T18:39:56+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.58,Lautaro Midon,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,,0.43,,0.1,True,2026-11-17T18:39:56+00:00
+2026-11-17T18:40:06+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.58,Lautaro Midon,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,,0.43,,0.1,True,2026-11-17T18:39:56+00:00
+2026-11-17T18:40:16+00:00,mejia v wessels,True,Louis Wessels,polyus,0.36,Nicolas Mejia,kalshi,0.58,0.9731,0.0,0.0,0.0,0.0,,0.65,,0.1,True,2026-11-17T18:40:16+00:00
+2026-11-17T18:40:26+00:00,mejia v wessels,True,Louis Wessels,polyus,0.36,Nicolas Mejia,kalshi,0.58,0.9731,0.0,0.0,0.0,0.0,,0.66,,0.1,True,2026-11-17T18:40:16+00:00
+2026-11-17T18:40:36+00:00,mejia v wessels,True,Louis Wessels,polyus,0.35,Nicolas Mejia,kalshi,0.58,0.9629,0.0,0.0,0.0,0.0,,0.66,,0.1,True,2026-11-17T18:40:16+00:00
+2026-11-17T18:40:36+00:00,artnak v wiedenmann,True,Bor Artnak,polyus,0.94,Luca Wiedenmann,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.1,True,2026-11-17T18:40:36+00:00
+2026-11-17T18:41:06+00:00,artnak v wiedenmann,True,Bor Artnak,polyus,0.92,Luca Wiedenmann,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.1,,0.1,True,2026-11-17T18:41:06+00:00
+2026-11-17T18:41:26+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.57,Lautaro Midon,kalshi,0.38,0.9835,0.0,0.0,0.0,0.0,,0.44,,0.1,True,2026-11-17T18:41:26+00:00
+2026-11-17T18:41:26+00:00,artnak v wiedenmann,True,Bor Artnak,kalshi,0.91,Luca Wiedenmann,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T18:41:26+00:00
+2026-11-17T18:41:36+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.54,Lautaro Midon,kalshi,0.38,0.9538,0.0,0.0,0.0,0.0,,0.46,,0.1,True,2026-11-17T18:41:26+00:00
+2026-11-17T18:41:36+00:00,artnak v wiedenmann,True,Bor Artnak,kalshi,0.91,Luca Wiedenmann,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T18:41:26+00:00
+2026-11-17T18:41:46+00:00,artnak v wiedenmann,True,Bor Artnak,kalshi,0.91,Luca Wiedenmann,polyus,0.05,0.969,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-17T18:41:26+00:00
+2026-11-17T18:41:46+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.58,Lautaro Midon,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,,0.49,,0.1,True,2026-11-17T18:41:26+00:00
+2026-11-17T18:42:46+00:00,bonzi v gueymard,True,Benjamin Bonzi,kalshi,0.16,Sascha Gueymard-Wayenburg,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T18:42:46+00:00
+2026-11-17T18:42:56+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.46,Lautaro Midon,kalshi,0.49,0.9848,0.0,0.0,0.0,0.0,,0.55,,0.1,True,2026-11-17T18:42:56+00:00
+2026-11-17T18:42:56+00:00,bonzi v gueymard,True,Benjamin Bonzi,kalshi,0.16,Sascha Gueymard-Wayenburg,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T18:42:46+00:00
+2026-11-17T18:43:26+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.45,Lautaro Midon,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.1,True,2026-11-17T18:43:26+00:00
+2026-11-17T18:43:46+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.39,Lautaro Midon,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-17T18:43:46+00:00
+2026-11-17T18:43:56+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.39,Lautaro Midon,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-17T18:43:46+00:00
