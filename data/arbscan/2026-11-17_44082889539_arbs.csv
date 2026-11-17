@@ -913,3 +913,72 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T16:57:06+00:00,maxted v vandecasteele,True,Lui Maxted,kalshi,0.34,Quinn Vandecasteele,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,,,0.1,True,2026-11-17T16:57:06+00:00
 2026-11-17T16:57:36+00:00,barrena v soto,True,Alex Barrena,polyus,0.75,Matias Soto,kalshi,0.22,0.995,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-17T16:57:36+00:00
 2026-11-17T16:57:46+00:00,forejtek v herbert,True,Jonas Forejtek,polyus,0.13,Pierre-Hugues Herbert,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-17T16:57:46+00:00
+2026-11-17T16:57:56+00:00,forejtek v herbert,True,Jonas Forejtek,polyus,0.13,Pierre-Hugues Herbert,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-17T16:57:46+00:00
+2026-11-17T16:58:06+00:00,forejtek v herbert,True,Jonas Forejtek,polyus,0.12,Pierre-Hugues Herbert,kalshi,0.85,0.9863,0.0,0.0,0.0,0.0,,0.89,,0.2,True,2026-11-17T16:57:46+00:00
+2026-11-17T16:58:26+00:00,forejtek v herbert,True,Jonas Forejtek,kalshi,0.13,Pierre-Hugues Herbert,polyus,0.84,0.9873,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-17T16:58:26+00:00
+2026-11-17T16:58:46+00:00,forejtek v herbert,True,Jonas Forejtek,kalshi,0.16,Pierre-Hugues Herbert,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T16:58:46+00:00
+2026-11-17T16:58:56+00:00,forejtek v herbert,True,Jonas Forejtek,kalshi,0.16,Pierre-Hugues Herbert,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T16:58:46+00:00
+2026-11-17T16:59:26+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.4,Polona Hercog,kalshi,0.56,0.9939,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-17T16:59:26+00:00
+2026-11-17T17:01:56+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.35,Polona Hercog,kalshi,0.6,0.9826,0.0,0.0,0.0,0.0,,0.66,,0.1,True,2026-11-17T17:01:56+00:00
+2026-11-17T17:02:06+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.35,Polona Hercog,kalshi,0.6,0.9826,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-17T17:01:56+00:00
+2026-11-17T17:02:06+00:00,barrena v soto,True,Alex Barrena,polyus,0.7,Matias Soto,kalshi,0.26,0.9881,0.0,0.0,0.0,0.0,,0.31,,0.1,True,2026-11-17T17:02:06+00:00
+2026-11-17T17:02:16+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.35,Polona Hercog,kalshi,0.6,0.9826,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-17T17:01:56+00:00
+2026-11-17T17:02:16+00:00,barrena v soto,True,Alex Barrena,polyus,0.7,Matias Soto,kalshi,0.26,0.9881,0.0,0.0,0.0,0.0,,0.31,,0.1,True,2026-11-17T17:02:06+00:00
+2026-11-17T17:02:26+00:00,barrena v soto,True,Alex Barrena,polyus,0.7,Matias Soto,kalshi,0.26,0.9881,0.0,0.0,0.0,0.0,,0.31,,0.1,True,2026-11-17T17:02:06+00:00
+2026-11-17T17:03:46+00:00,mayo v shick,True,Aidan Mayo,polyus,0.61,Braden Shick,kalshi,0.34,0.9822,0.0,0.0,0.0,0.0,,0.4,,0.1,True,2026-11-17T17:03:46+00:00
+2026-11-17T17:03:46+00:00,gray v maloney,True,Alastair Gray,polyus,0.98,Patrick Maloney,kalshi,0.01,0.9921,0.0,0.0,0.0,0.0,,0.02,,0.1,True,2026-11-17T17:03:46+00:00
+2026-11-17T17:03:56+00:00,mayo v shick,True,Aidan Mayo,polyus,0.61,Braden Shick,kalshi,0.34,0.9822,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-17T17:03:46+00:00
+2026-11-17T17:03:56+00:00,gray v maloney,True,Alastair Gray,polyus,0.98,Patrick Maloney,kalshi,0.01,0.9921,0.0,0.0,0.0,0.0,,0.02,,0.1,True,2026-11-17T17:03:46+00:00
+2026-11-17T17:04:26+00:00,bianca v hercog,True,Miriam Bianca Bulgaru,kalshi,0.29,Polona Hercog,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-17T17:04:26+00:00
+2026-11-17T17:04:36+00:00,bianca v hercog,True,Miriam Bianca Bulgaru,kalshi,0.29,Polona Hercog,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-17T17:04:26+00:00
+2026-11-17T17:04:46+00:00,bianca v hercog,True,Miriam Bianca Bulgaru,kalshi,0.29,Polona Hercog,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-17T17:04:26+00:00
+2026-11-17T17:05:06+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.64,Braden Shick,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-17T17:05:06+00:00
+2026-11-17T17:05:16+00:00,forejtek v herbert,True,Jonas Forejtek,polyus,0.12,Pierre-Hugues Herbert,kalshi,0.83,0.9672,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-17T17:05:16+00:00
+2026-11-17T17:05:16+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.64,Braden Shick,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-17T17:05:06+00:00
+2026-11-17T17:05:26+00:00,forejtek v herbert,True,Jonas Forejtek,polyus,0.12,Pierre-Hugues Herbert,kalshi,0.85,0.9863,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-17T17:05:16+00:00
+2026-11-17T17:05:36+00:00,forejtek v herbert,True,Jonas Forejtek,polyus,0.11,Pierre-Hugues Herbert,kalshi,0.85,0.9757,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-17T17:05:16+00:00
+2026-11-17T17:05:56+00:00,mayo v shick,True,Aidan Mayo,polyus,0.63,Braden Shick,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,,0.38,,0.2,True,2026-11-17T17:05:56+00:00
+2026-11-17T17:06:06+00:00,mayo v shick,True,Aidan Mayo,polyus,0.63,Braden Shick,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,,0.38,,0.1,True,2026-11-17T17:05:56+00:00
+2026-11-17T17:06:16+00:00,forejtek v herbert,True,Jonas Forejtek,kalshi,0.12,Pierre-Hugues Herbert,polyus,0.84,0.9767,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-17T17:06:16+00:00
+2026-11-17T17:06:16+00:00,mayo v shick,True,Aidan Mayo,polyus,0.63,Braden Shick,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,,0.38,,0.1,True,2026-11-17T17:05:56+00:00
+2026-11-17T17:06:26+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.05,Lucia Bronzetti,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T17:06:26+00:00
+2026-11-17T17:06:36+00:00,mayo v shick,True,Aidan Mayo,polyus,0.53,Braden Shick,kalshi,0.38,0.9438,0.0,0.0,0.0,0.0,,0.48,,0.1,True,2026-11-17T17:06:36+00:00
+2026-11-17T17:06:36+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.05,Lucia Bronzetti,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T17:06:26+00:00
+2026-11-17T17:06:46+00:00,mayo v shick,True,Aidan Mayo,polyus,0.53,Braden Shick,kalshi,0.38,0.9438,0.0,0.0,0.0,0.0,,0.48,,0.1,True,2026-11-17T17:06:36+00:00
+2026-11-17T17:06:56+00:00,bronzetti v herrero,True,Alicia Herrero Linana,kalshi,0.05,Lucia Bronzetti,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-17T17:06:56+00:00
+2026-11-17T17:07:06+00:00,bronzetti v herrero,True,Alicia Herrero Linana,kalshi,0.05,Lucia Bronzetti,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-17T17:06:56+00:00
+2026-11-17T17:07:16+00:00,bronzetti v herrero,True,Alicia Herrero Linana,kalshi,0.05,Lucia Bronzetti,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-17T17:06:56+00:00
+2026-11-17T17:07:26+00:00,forejtek v herbert,True,Jonas Forejtek,polyus,0.06,Pierre-Hugues Herbert,kalshi,0.86,0.9323,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T17:07:26+00:00
+2026-11-17T17:07:26+00:00,bronzetti v herrero,True,Alicia Herrero Linana,kalshi,0.05,Lucia Bronzetti,polyus,0.92,0.9784,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-17T17:06:56+00:00
+2026-11-17T17:07:36+00:00,bronzetti v herrero,True,Alicia Herrero Linana,kalshi,0.05,Lucia Bronzetti,polyus,0.92,0.9784,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-17T17:06:56+00:00
+2026-11-17T17:07:46+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.26,Polona Hercog,kalshi,0.71,0.9978,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-17T17:07:46+00:00
+2026-11-17T17:07:46+00:00,bronzetti v herrero,True,Alicia Herrero Linana,kalshi,0.07,Lucia Bronzetti,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-17T17:06:56+00:00
+2026-11-17T17:07:56+00:00,maxted v vandecasteele,True,Lui Maxted,kalshi,0.46,Quinn Vandecasteele,polyus,0.5,0.9948,0.0,0.0,0.0,0.0,0.51,,,0.2,True,2026-11-17T17:07:56+00:00
+2026-11-17T17:08:16+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.07,Lucia Bronzetti,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T17:08:16+00:00
+2026-11-17T17:08:26+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.07,Lucia Bronzetti,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T17:08:16+00:00
+2026-11-17T17:08:56+00:00,maxted v vandecasteele,True,Lui Maxted,kalshi,0.47,Quinn Vandecasteele,polyus,0.47,0.9747,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-17T17:08:56+00:00
+2026-11-17T17:08:56+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.05,Lucia Bronzetti,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T17:08:56+00:00
+2026-11-17T17:08:56+00:00,bianca v hercog,True,Miriam Bianca Bulgaru,kalshi,0.28,Polona Hercog,polyus,0.69,0.999,0.0,0.0,0.0,0.0,0.32,,,0.1,True,2026-11-17T17:08:56+00:00
+2026-11-17T17:09:06+00:00,maxted v vandecasteele,True,Lui Maxted,kalshi,0.47,Quinn Vandecasteele,polyus,0.47,0.9747,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-17T17:08:56+00:00
+2026-11-17T17:09:36+00:00,maxted v vandecasteele,True,Lui Maxted,kalshi,0.54,Quinn Vandecasteele,polyus,0.37,0.9436,0.0,0.0,0.0,0.0,0.64,,,0.1,True,2026-11-17T17:09:36+00:00
+2026-11-17T17:09:36+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.58,Braden Shick,polyus,0.37,0.9833,0.0,0.0,0.0,0.0,0.64,,,0.1,True,2026-11-17T17:09:36+00:00
+2026-11-17T17:09:36+00:00,bronzetti v herrero,True,Alicia Herrero Linana,kalshi,0.05,Lucia Bronzetti,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-17T17:09:36+00:00
+2026-11-17T17:09:46+00:00,maxted v vandecasteele,True,Lui Maxted,kalshi,0.56,Quinn Vandecasteele,polyus,0.37,0.9634,0.0,0.0,0.0,0.0,0.64,,,0.1,True,2026-11-17T17:09:36+00:00
+2026-11-17T17:09:56+00:00,maxted v vandecasteele,True,Lui Maxted,kalshi,0.56,Quinn Vandecasteele,polyus,0.36,0.9533,0.0,0.0,0.0,0.0,0.65,,,0.2,True,2026-11-17T17:09:36+00:00
+2026-11-17T17:10:06+00:00,maxted v vandecasteele,True,Lui Maxted,kalshi,0.56,Quinn Vandecasteele,polyus,0.36,0.9533,0.0,0.0,0.0,0.0,0.65,,,0.1,True,2026-11-17T17:09:36+00:00
+2026-11-17T17:10:16+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.05,Lucia Bronzetti,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T17:10:16+00:00
+2026-11-17T17:10:26+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.05,Lucia Bronzetti,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T17:10:16+00:00
+2026-11-17T17:10:36+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.05,Lucia Bronzetti,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T17:10:16+00:00
+2026-11-17T17:10:56+00:00,bronzetti v herrero,True,Alicia Herrero Linana,kalshi,0.05,Lucia Bronzetti,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-17T17:10:56+00:00
+2026-11-17T17:11:06+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.61,Braden Shick,polyus,0.32,0.9618,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-17T17:11:06+00:00
+2026-11-17T17:11:06+00:00,maxted v vandecasteele,True,Lui Maxted,polyus,0.57,Quinn Vandecasteele,kalshi,0.39,0.9937,0.0,0.0,0.0,0.0,,0.44,,0.1,True,2026-11-17T17:11:06+00:00
+2026-11-17T17:11:06+00:00,bronzetti v herrero,True,Alicia Herrero Linana,kalshi,0.05,Lucia Bronzetti,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-17T17:10:56+00:00
+2026-11-17T17:11:16+00:00,mayo v shick,True,Aidan Mayo,kalshi,0.61,Braden Shick,polyus,0.31,0.9515,0.0,0.0,0.0,0.0,0.7,,,0.1,True,2026-11-17T17:11:06+00:00
+2026-11-17T17:11:16+00:00,maxted v vandecasteele,True,Lui Maxted,polyus,0.56,Quinn Vandecasteele,kalshi,0.39,0.9838,0.0,0.0,0.0,0.0,,0.44,,0.1,True,2026-11-17T17:11:06+00:00
+2026-11-17T17:11:16+00:00,barrena v soto,True,Alex Barrena,kalshi,0.71,Matias Soto,polyus,0.26,0.9978,0.0,0.0,0.0,0.0,0.75,,,0.1,True,2026-11-17T17:11:16+00:00
+2026-11-17T17:12:16+00:00,barrena v soto,True,Alex Barrena,polyus,0.68,Matias Soto,kalshi,0.27,0.9789,0.0,0.0,0.0,0.0,,0.33,,0.1,True,2026-11-17T17:12:16+00:00
+2026-11-17T17:12:26+00:00,barrena v soto,True,Alex Barrena,polyus,0.68,Matias Soto,kalshi,0.27,0.9789,0.0,0.0,0.0,0.0,,0.33,,0.1,True,2026-11-17T17:12:16+00:00
+2026-11-17T17:12:36+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.05,Lucia Bronzetti,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T17:12:36+00:00
+2026-11-17T17:12:46+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.05,Lucia Bronzetti,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T17:12:36+00:00
+2026-11-17T17:12:56+00:00,maxted v vandecasteele,True,Lui Maxted,polyus,0.58,Quinn Vandecasteele,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,,0.43,,0.1,True,2026-11-17T17:12:56+00:00
+2026-11-17T17:12:56+00:00,bronzetti v herrero,True,Alicia Herrero Linana,polyus,0.05,Lucia Bronzetti,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T17:12:36+00:00
