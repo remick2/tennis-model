@@ -1,0 +1,14 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-17T00:01:06+00:00,baris v miyoshi,True,Kenta Miyoshi (b. 2004),kalshi,0.24,Ozan Baris,polyus,0.71,0.9771,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-17T00:01:06+00:00
+2026-11-17T00:01:06+00:00,chan v mmoh,True,Duncan Chan,kalshi,0.47,Michael Mmoh,polyus,0.49,0.9948,0.0,0.0,0.0,0.0,0.52,,,0.0,True,2026-11-17T00:01:06+00:00
+2026-11-17T00:03:46+00:00,broska v hoole,True,Casey Hoole,polyus,0.05,Florian Broska,kalshi,0.93,0.9879,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-17T00:03:46+00:00
+2026-11-17T00:04:46+00:00,broska v hoole,True,Casey Hoole,polyus,0.03,Florian Broska,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-17T00:04:46+00:00
+2026-11-17T00:05:36+00:00,dellavedova v kubler,True,Jason Kubler,kalshi,0.64,Matthew Dellavedova,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.0,True,2026-11-17T00:05:36+00:00
+2026-11-17T00:05:46+00:00,dellavedova v kubler,True,Jason Kubler,kalshi,0.64,Matthew Dellavedova,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.0,True,2026-11-17T00:05:36+00:00
+2026-11-17T00:06:26+00:00,dellavedova v kubler,True,Jason Kubler,polyus,0.65,Matthew Dellavedova,kalshi,0.3,0.9805,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-17T00:06:26+00:00
+2026-11-17T00:06:36+00:00,dellavedova v kubler,True,Jason Kubler,polyus,0.65,Matthew Dellavedova,kalshi,0.3,0.9805,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-17T00:06:26+00:00
+2026-11-17T00:06:46+00:00,dellavedova v kubler,True,Jason Kubler,polyus,0.65,Matthew Dellavedova,kalshi,0.3,0.9805,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-17T00:06:26+00:00
+2026-11-17T00:06:56+00:00,dellavedova v kubler,True,Jason Kubler,polyus,0.65,Matthew Dellavedova,kalshi,0.3,0.9805,0.0,0.0,0.0,0.0,,0.38,,0.0,True,2026-11-17T00:06:26+00:00
+2026-11-17T00:07:36+00:00,almeida v jarry,True,Matheus Pucinelli de Almeida,kalshi,0.67,Nicolas Jarry,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,,,0.0,True,2026-11-17T00:07:36+00:00
+2026-11-17T00:09:16+00:00,dellavedova v kubler,True,Jason Kubler,kalshi,0.65,Matthew Dellavedova,polyus,0.31,0.9908,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-17T00:09:16+00:00
+2026-11-17T00:10:36+00:00,palan v sekulic,True,Dominik Palan,polyus,0.1,Philip Sekulic,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-17T00:10:36+00:00
