@@ -1,13 +1,27 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 442.01,
-  "polyus": 400.42
+  "kalshi": 292.04,
+  "polyus": 384.46
  },
- "open": [],
+ "open": [
+  {
+   "id": "2962967d9337",
+   "key": "aguilar v jover",
+   "opened": "2026-11-17T22:52:31+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17AGUSAN-SAN",
+   "kalshi_side": "no",
+   "shares": {
+    "polyus": 169.0,
+    "kalshi": 169.0
+   },
+   "cost": 165.93,
+   "expected": 3.06
+  }
+ ],
  "settled_pnl": 200.38,
  "unwind_pnl": -57.96,
- "fires": 51,
+ "fires": 52,
  "settled": 39,
  "rebalances": 8
 }
