@@ -72,3 +72,5 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-17T08:55:10+00:00,kumasaka v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV17KUMZHO-KUM:yes,0.18,277,True,0.0089,2.0,hedged,polyus:aec-atp-takkum-yizho-2026-11-17:1,0.84,-8.13,-8.15,-8.13,True
 2026-11-17T08:55:40+00:00,kumasaka v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV17KUMZHO-KUM:yes,0.14,357,True,0.0107,1.9,hedged,polyus:aec-atp-takkum-yizho-2026-11-17:1,0.88,-9.76,-9.78,-9.76,True
 2026-11-17T09:28:28+00:00,kumasaka v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV17KUMZHO-ZHO:yes,0.86,58,True,0.0127,2.0,hedged,polyus:aec-atp-takkum-yizho-2026-11-17:0,0.15,-1.09,-1.1,-1.09,True
+2026-11-17T09:31:24+00:00,kumasaka v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV17KUMZHO-KUM:yes,0.06,833,True,0.0055,2.0,hedged,polyus:aec-atp-takkum-yizho-2026-11-17:1,0.95,-11.08,-11.1,-11.08,True
+2026-11-17T09:32:01+00:00,kumasaka v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV17KUMZHO-KUM:yes,0.04,1250,True,0.0067,2.6,hedged,polyus:aec-atp-takkum-yizho-2026-11-17:1,0.97,-15.03,-15.05,-15.03,True
