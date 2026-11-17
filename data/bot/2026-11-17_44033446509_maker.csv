@@ -57,3 +57,7 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-17T08:14:20+00:00,daniel v michalski,True,kalshi:KXATPCHALLENGERMATCH-26NOV17MICDAN-MIC:yes,0.04,1250,False,0.0067,2.0,hedged,polyus:aec-atp-danmic-tardan-2026-11-15:1,0.97,-15.03,-15.05,-15.03,True
 2026-11-17T08:14:20+00:00,daniel v michalski,True,polyus:aec-atp-danmic-tardan-2026-11-15:0,0.05,1000,True,0.0061,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV17MICDAN-MIC:no,0.97,-22.04,-22.02,-22.02,True
 2026-11-17T08:14:34+00:00,friend v poljicak,True,kalshi:KXATPCHALLENGERMATCH-26NOV16POLHAR-HAR:yes,0.94,53,True,0.0067,2.0,hedged,polyus:aec-atp-milpol-jayfri-2026-11-15:0,0.07,-0.77,-0.77,-0.77,True
+2026-11-17T08:15:46+00:00,friend v poljicak,True,kalshi:KXATPCHALLENGERMATCH-26NOV16POLHAR-POL:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-atp-milpol-jayfri-2026-11-15:1,0.96,-12.67,-12.69,-12.67,True
+2026-11-17T08:16:04+00:00,friend v poljicak,True,polyus:aec-atp-milpol-jayfri-2026-11-15:1,0.95,52,True,0.0073,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16POLHAR-POL:yes,0.06,-0.73,-0.72,-0.72,True
+2026-11-17T08:17:12+00:00,ichikawa v schoenhaus,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ICHSCH-ICH:yes,0.06,833,True,0.0055,2.0,hedged,polyus:aec-atp-taiich-maxsch-2026-11-17:1,0.93,4.56,-11.1,4.56,True
+2026-11-17T08:17:50+00:00,friend v poljicak,True,kalshi:KXATPCHALLENGERMATCH-26NOV16POLHAR-POL:yes,0.08,625,False,0.0137,2.0,hedged,polyus:aec-atp-milpol-jayfri-2026-11-15:1,0.96,-26.67,-26.68,-26.67,True
