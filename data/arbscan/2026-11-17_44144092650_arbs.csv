@@ -58,3 +58,36 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T19:18:06+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.96,Kimmer Coppejans,polyus,0.02,0.9841,0.0,0.0,0.0,0.0,0.99,,,0.1,True,2026-11-17T19:17:26+00:00
 2026-11-17T19:18:16+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.96,Kimmer Coppejans,polyus,0.02,0.9841,0.0,0.0,0.0,0.0,0.99,,,0.1,True,2026-11-17T19:17:26+00:00
 2026-11-17T19:18:16+00:00,perot v vales,True,Amit Vales,kalshi,0.27,Raphael Perot,polyus,0.7,0.9984,0.0,0.0,0.0,0.0,0.31,,,0.1,True,2026-11-17T19:18:16+00:00
+2026-11-17T19:23:16+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.61,Veronika Erjavec,kalshi,0.35,0.9925,0.0,0.0,0.0,0.0,,0.4,,0.1,True,2026-11-17T19:23:16+00:00
+2026-11-17T19:24:26+00:00,faurel v nardi,True,Luca Nardi,kalshi,0.6,Thomas Faurel,polyus,0.36,0.9928,0.0,0.0,0.0,0.0,0.65,,,0.1,True,2026-11-17T19:24:26+00:00
+2026-11-17T19:24:36+00:00,faurel v nardi,True,Luca Nardi,kalshi,0.6,Thomas Faurel,polyus,0.36,0.9928,0.0,0.0,0.0,0.0,0.66,,,0.1,True,2026-11-17T19:24:26+00:00
+2026-11-17T19:24:56+00:00,faurel v nardi,True,Luca Nardi,kalshi,0.65,Thomas Faurel,polyus,0.3,0.9805,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-17T19:24:56+00:00
+2026-11-17T19:25:06+00:00,faurel v nardi,True,Luca Nardi,kalshi,0.65,Thomas Faurel,polyus,0.29,0.9702,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-17T19:24:56+00:00
+2026-11-17T19:25:06+00:00,carle v erjavec,True,Maria Carle,kalshi,0.59,Veronika Erjavec,polyus,0.35,0.9727,0.0,0.0,0.0,0.0,0.65,,,0.1,True,2026-11-17T19:25:06+00:00
+2026-11-17T19:25:06+00:00,perot v vales,True,Amit Vales,polyus,0.31,Raphael Perot,kalshi,0.65,0.9908,0.0,0.0,0.0,0.0,,0.7,,0.1,True,2026-11-17T19:25:06+00:00
+2026-11-17T19:25:16+00:00,carle v erjavec,True,Maria Carle,kalshi,0.59,Veronika Erjavec,polyus,0.36,0.9829,0.0,0.0,0.0,0.0,0.65,,,0.1,True,2026-11-17T19:25:06+00:00
+2026-11-17T19:25:56+00:00,hussey v wendelken,True,Giles Hussey,polyus,0.34,Harry Wendelken,kalshi,0.62,0.9921,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-17T19:25:56+00:00
+2026-11-17T19:25:56+00:00,perot v vales,True,Amit Vales,polyus,0.27,Raphael Perot,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-17T19:25:56+00:00
+2026-11-17T19:26:06+00:00,hussey v wendelken,True,Giles Hussey,polyus,0.34,Harry Wendelken,kalshi,0.62,0.9921,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-17T19:25:56+00:00
+2026-11-17T19:26:06+00:00,perot v vales,True,Amit Vales,polyus,0.27,Raphael Perot,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-17T19:25:56+00:00
+2026-11-17T19:26:36+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.57,Veronika Erjavec,kalshi,0.37,0.9734,0.0,0.0,0.0,0.0,,0.44,,0.1,True,2026-11-17T19:26:36+00:00
+2026-11-17T19:26:56+00:00,hussey v wendelken,True,Giles Hussey,polyus,0.27,Harry Wendelken,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-17T19:26:56+00:00
+2026-11-17T19:27:06+00:00,hussey v wendelken,True,Giles Hussey,polyus,0.26,Harry Wendelken,kalshi,0.7,0.9881,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-17T19:26:56+00:00
+2026-11-17T19:27:06+00:00,faurel v nardi,True,Luca Nardi,kalshi,0.7,Thomas Faurel,polyus,0.27,0.9984,0.0,0.0,0.0,0.0,0.74,,,0.1,True,2026-11-17T19:27:06+00:00
+2026-11-17T19:27:26+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.5,Veronika Erjavec,kalshi,0.43,0.9645,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-17T19:27:26+00:00
+2026-11-17T19:27:36+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.5,Veronika Erjavec,kalshi,0.43,0.9645,0.0,0.0,0.0,0.0,,0.51,,0.1,True,2026-11-17T19:27:26+00:00
+2026-11-17T19:28:06+00:00,hussey v wendelken,True,Giles Hussey,polyus,0.24,Harry Wendelken,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-17T19:28:06+00:00
+2026-11-17T19:28:16+00:00,carle v erjavec,True,Maria Carle,kalshi,0.5,Veronika Erjavec,polyus,0.46,0.9948,0.0,0.0,0.0,0.0,0.55,,,0.1,True,2026-11-17T19:28:16+00:00
+2026-11-17T19:28:16+00:00,hussey v wendelken,True,Giles Hussey,polyus,0.24,Harry Wendelken,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-17T19:28:06+00:00
+2026-11-17T19:30:06+00:00,aguilar v rocha,True,Federico Aguilar Cardozo,kalshi,0.05,Henrique Rocha,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.06,,,0.1,True,2026-11-17T19:30:06+00:00
+2026-11-17T19:30:16+00:00,perot v vales,True,Amit Vales,polyus,0.22,Raphael Perot,kalshi,0.75,0.9951,0.0,0.0,0.0,0.0,,0.79,,0.2,True,2026-11-17T19:30:16+00:00
+2026-11-17T19:32:06+00:00,faurel v nardi,True,Luca Nardi,polyus,0.78,Thomas Faurel,kalshi,0.18,0.9823,0.0,0.0,0.0,0.0,,0.23,,0.2,True,2026-11-17T19:32:06+00:00
+2026-11-17T19:32:26+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.62,Veronika Erjavec,kalshi,0.34,0.9921,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-17T19:32:26+00:00
+2026-11-17T19:32:36+00:00,faurel v nardi,True,Luca Nardi,polyus,0.76,Thomas Faurel,kalshi,0.2,0.9839,0.0,0.0,0.0,0.0,,0.25,,0.1,True,2026-11-17T19:32:36+00:00
+2026-11-17T19:32:36+00:00,carle v erjavec,True,Maria Lourdes Carle,polyus,0.62,Veronika Erjavec,kalshi,0.34,0.9921,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-17T19:32:26+00:00
+2026-11-17T19:34:36+00:00,carle v erjavec,True,Maria Carle,kalshi,0.61,Veronika Erjavec,polyus,0.35,0.9925,0.0,0.0,0.0,0.0,0.66,,,0.1,True,2026-11-17T19:34:36+00:00
+2026-11-17T19:35:16+00:00,carle v erjavec,True,Maria Carle,kalshi,0.66,Veronika Erjavec,polyus,0.28,0.9697,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-17T19:35:16+00:00
+2026-11-17T19:35:26+00:00,carle v erjavec,True,Maria Carle,kalshi,0.66,Veronika Erjavec,polyus,0.29,0.98,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-17T19:35:16+00:00
+2026-11-17T19:35:26+00:00,faurel v nardi,True,Luca Nardi,polyus,0.71,Thomas Faurel,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-17T19:35:26+00:00
+2026-11-17T19:35:46+00:00,carle v erjavec,True,Maria Carle,kalshi,0.72,Veronika Erjavec,polyus,0.23,0.9764,0.0,0.0,0.0,0.0,0.78,,,0.1,True,2026-11-17T19:35:46+00:00
+2026-11-17T19:35:56+00:00,carle v erjavec,True,Maria Carle,kalshi,0.72,Veronika Erjavec,polyus,0.23,0.9764,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-17T19:35:46+00:00
