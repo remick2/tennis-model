@@ -1141,3 +1141,50 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T17:37:56+00:00,bonzi v gueymard,True,Benjamin Bonzi,kalshi,0.76,Sascha Gueymard-Wayenburg,polyus,0.2,0.9839,0.0,0.0,0.0,0.0,0.81,,,0.1,True,2026-11-17T17:37:36+00:00
 2026-11-17T17:39:56+00:00,barrena v soto,True,Alex Barrena,kalshi,0.82,Matias Soto,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.1,True,2026-11-17T17:39:56+00:00
 2026-11-17T17:40:56+00:00,maxted v vandecasteele,True,Lui Maxted,kalshi,0.93,Quinn Vandecasteele,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T17:40:56+00:00
+2026-11-17T17:44:16+00:00,fenty v young,True,Andrew Fenty,polyus,0.39,Gavin Young,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-17T17:44:16+00:00
+2026-11-17T17:44:26+00:00,fenty v young,True,Andrew Fenty,polyus,0.38,Gavin Young,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,,0.63,,0.1,True,2026-11-17T17:44:16+00:00
+2026-11-17T17:44:46+00:00,fenty v young,True,Andrew Fenty,polyus,0.32,Gavin Young,kalshi,0.61,0.9618,0.0,0.0,0.0,0.0,,0.69,,0.1,True,2026-11-17T17:44:46+00:00
+2026-11-17T17:45:26+00:00,barrena v soto,True,Alex Barrena,kalshi,0.9,Matias Soto,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-17T17:45:26+00:00
+2026-11-17T17:45:36+00:00,barrena v soto,True,Alex Barrena,kalshi,0.92,Matias Soto,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T17:45:26+00:00
+2026-11-17T17:45:46+00:00,barrena v soto,True,Alex Barrena,kalshi,0.92,Matias Soto,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T17:45:26+00:00
+2026-11-17T17:46:36+00:00,barrena v soto,True,Alex Barrena,kalshi,0.93,Matias Soto,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T17:46:36+00:00
+2026-11-17T17:46:46+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.05,Polona Hercog,kalshi,0.93,0.9879,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T17:46:46+00:00
+2026-11-17T17:47:06+00:00,barrena v soto,True,Alex Barrena,polyus,0.93,Matias Soto,kalshi,0.05,0.9878,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-17T17:47:06+00:00
+2026-11-17T17:47:16+00:00,barrena v soto,True,Alex Barrena,polyus,0.93,Matias Soto,kalshi,0.05,0.9878,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-17T17:47:06+00:00
+2026-11-17T17:48:06+00:00,bianca v hercog,True,Miriam Bianca Bulgaru,kalshi,0.06,Polona Hercog,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.2,True,2026-11-17T17:48:06+00:00
+2026-11-17T17:48:16+00:00,bianca v hercog,True,Miriam Bianca Bulgaru,kalshi,0.06,Polona Hercog,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-17T17:48:06+00:00
+2026-11-17T17:48:26+00:00,bianca v hercog,True,Miriam Bianca Bulgaru,kalshi,0.06,Polona Hercog,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-17T17:48:06+00:00
+2026-11-17T17:48:36+00:00,bonzi v gueymard,True,Benjamin Bonzi,kalshi,0.77,Sascha Gueymard-Wayenburg,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,,,0.1,True,2026-11-17T17:48:36+00:00
+2026-11-17T17:48:36+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.06,Polona Hercog,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T17:48:36+00:00
+2026-11-17T17:48:46+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.06,Polona Hercog,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T17:48:36+00:00
+2026-11-17T17:48:56+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.06,Polona Hercog,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T17:48:36+00:00
+2026-11-17T17:49:16+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.04,Polona Hercog,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T17:49:16+00:00
+2026-11-17T17:49:26+00:00,bianca v hercog,True,Miriam Bulgaru,polyus,0.04,Polona Hercog,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T17:49:16+00:00
+2026-11-17T17:49:46+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.69,Lautaro Midon,kalshi,0.28,0.999,0.0,0.0,0.0,0.0,,0.32,,0.2,True,2026-11-17T17:49:46+00:00
+2026-11-17T17:52:26+00:00,barrena v soto,True,Alex Barrena,polyus,0.95,Matias Soto,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.1,True,2026-11-17T17:52:26+00:00
+2026-11-17T17:52:36+00:00,barrena v soto,True,Alex Barrena,polyus,0.93,Matias Soto,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-17T17:52:26+00:00
+2026-11-17T17:52:46+00:00,barrena v soto,True,Alex Barrena,polyus,0.93,Matias Soto,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-17T17:52:26+00:00
+2026-11-17T17:53:16+00:00,barrena v soto,True,Alex Barrena,kalshi,0.93,Matias Soto,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T17:53:16+00:00
+2026-11-17T17:53:26+00:00,barrena v soto,True,Alex Barrena,kalshi,0.93,Matias Soto,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T17:53:16+00:00
+2026-11-17T17:53:46+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.65,Lautaro Midon,polyus,0.3,0.9805,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-17T17:53:46+00:00
+2026-11-17T17:53:56+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.65,Lautaro Midon,polyus,0.3,0.9805,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-17T17:53:46+00:00
+2026-11-17T17:53:56+00:00,barrena v soto,True,Alex Barrena,kalshi,0.95,Matias Soto,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-17T17:53:56+00:00
+2026-11-17T17:54:16+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.66,Lautaro Midon,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,,0.35,,0.1,True,2026-11-17T17:54:16+00:00
+2026-11-17T17:54:26+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.66,Lautaro Midon,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,,0.35,,0.2,True,2026-11-17T17:54:16+00:00
+2026-11-17T17:54:36+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.66,Lautaro Midon,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,,0.35,,0.1,True,2026-11-17T17:54:16+00:00
+2026-11-17T17:54:46+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.65,Lautaro Midon,kalshi,0.3,0.9805,0.0,0.0,0.0,0.0,,0.36,,0.1,True,2026-11-17T17:54:16+00:00
+2026-11-17T17:54:46+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.75,Kimmer Coppejans,polyus,0.22,0.9951,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-17T17:54:46+00:00
+2026-11-17T17:54:56+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.66,Lautaro Midon,polyus,0.3,0.9903,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-17T17:54:56+00:00
+2026-11-17T17:55:06+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.66,Lautaro Midon,polyus,0.3,0.9903,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-17T17:54:56+00:00
+2026-11-17T17:55:06+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.78,Kimmer Coppejans,polyus,0.19,0.9927,0.0,0.0,0.0,0.0,0.82,,,0.1,True,2026-11-17T17:55:06+00:00
+2026-11-17T17:55:16+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.66,Lautaro Midon,polyus,0.28,0.9697,0.0,0.0,0.0,0.0,0.74,,,0.1,True,2026-11-17T17:54:56+00:00
+2026-11-17T17:55:16+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.78,Kimmer Coppejans,polyus,0.19,0.9927,0.0,0.0,0.0,0.0,0.82,,,0.1,True,2026-11-17T17:55:06+00:00
+2026-11-17T17:55:26+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.71,Lautaro Midon,polyus,0.26,0.9978,0.0,0.0,0.0,0.0,0.75,,,0.1,True,2026-11-17T17:54:56+00:00
+2026-11-17T17:55:36+00:00,angelo v midon,True,Juan Carlos Prado Angelo,kalshi,0.71,Lautaro Midon,polyus,0.26,0.9978,0.0,0.0,0.0,0.0,0.75,,,0.1,True,2026-11-17T17:54:56+00:00
+2026-11-17T17:55:56+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.71,Lautaro Midon,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-17T17:55:56+00:00
+2026-11-17T17:56:06+00:00,coppejans v gojo,True,Borna Gojo,polyus,0.76,Kimmer Coppejans,kalshi,0.21,0.9943,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-17T17:56:06+00:00
+2026-11-17T17:56:06+00:00,angelo v midon,True,Juan Carlos Prado,polyus,0.71,Lautaro Midon,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-17T17:55:56+00:00
+2026-11-17T17:56:16+00:00,coppejans v gojo,True,Borna Gojo,polyus,0.76,Kimmer Coppejans,kalshi,0.21,0.9943,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-17T17:56:06+00:00
+2026-11-17T17:57:26+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.82,Kimmer Coppejans,polyus,0.16,0.9997,0.0,0.0,0.0,0.0,0.85,,,0.1,True,2026-11-17T17:57:26+00:00
+2026-11-17T17:57:36+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.82,Kimmer Coppejans,polyus,0.16,0.9997,0.0,0.0,0.0,0.0,0.85,,,0.1,True,2026-11-17T17:57:26+00:00
+2026-11-17T17:57:46+00:00,coppejans v gojo,True,Borna Gojo,kalshi,0.82,Kimmer Coppejans,polyus,0.16,0.9997,0.0,0.0,0.0,0.0,0.85,,,0.1,True,2026-11-17T17:57:26+00:00
