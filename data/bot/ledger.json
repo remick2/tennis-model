@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 237.07,
-  "polyus": 309.61
+  "kalshi": 216.97,
+  "polyus": 160.25
  },
  "open": [
   {
@@ -17,11 +17,24 @@
    },
    "cost": 213.54,
    "expected": 4.46
+  },
+  {
+   "id": "47351ae99993",
+   "key": "chan v mmoh",
+   "opened": "2026-11-17T00:50:09+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV16CHAMMO-MMO",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 172,
+    "kalshi": 172
+   },
+   "cost": 169.46,
+   "expected": 2.54
   }
  ],
  "settled_pnl": 106.24,
  "unwind_pnl": -46.02,
- "fires": 34,
+ "fires": 35,
  "settled": 24,
  "rebalances": 5
 }
