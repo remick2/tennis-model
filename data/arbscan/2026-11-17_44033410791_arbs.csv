@@ -58,3 +58,66 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T07:59:06+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.04,Taro Daniel,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T07:59:06+00:00
 2026-11-17T07:59:16+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.04,Taro Daniel,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T07:59:06+00:00
 2026-11-17T07:59:26+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.04,Taro Daniel,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T07:59:06+00:00
+2026-11-17T08:00:16+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.5,Mili Poljicak,kalshi,0.45,0.9847,0.0,0.0,0.0,0.0,,0.51,,0.2,True,2026-11-17T08:00:16+00:00
+2026-11-17T08:00:26+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.5,Mili Poljicak,kalshi,0.45,0.9847,0.0,0.0,0.0,0.0,,0.51,,0.1,True,2026-11-17T08:00:16+00:00
+2026-11-17T08:00:36+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.5,Mili Poljicak,kalshi,0.45,0.9847,0.0,0.0,0.0,0.0,,0.51,,0.1,True,2026-11-17T08:00:16+00:00
+2026-11-17T08:01:16+00:00,friend v poljicak,True,Jay Friend,kalshi,0.5,Mili Poljicak,polyus,0.45,0.9847,0.0,0.0,0.0,0.0,0.56,,,0.1,True,2026-11-17T08:01:16+00:00
+2026-11-17T08:01:26+00:00,friend v poljicak,True,Jay Friend,kalshi,0.48,Mili Poljicak,polyus,0.45,0.9647,0.0,0.0,0.0,0.0,0.56,,,0.1,True,2026-11-17T08:01:16+00:00
+2026-11-17T08:01:36+00:00,friend v poljicak,True,Jay Friend,kalshi,0.48,Mili Poljicak,polyus,0.46,0.9747,0.0,0.0,0.0,0.0,0.56,,,0.1,True,2026-11-17T08:01:16+00:00
+2026-11-17T08:01:46+00:00,friend v poljicak,True,Jay Friend,kalshi,0.48,Mili Poljicak,polyus,0.47,0.9848,0.0,0.0,0.0,0.0,0.59,,,0.1,True,2026-11-17T08:01:16+00:00
+2026-11-17T08:03:46+00:00,friend v poljicak,True,Jay Friend,kalshi,0.58,Mili Poljicak,polyus,0.38,0.9934,0.0,0.0,0.0,0.0,0.64,,,0.1,True,2026-11-17T08:03:46+00:00
+2026-11-17T08:03:56+00:00,friend v poljicak,True,Jay Friend,kalshi,0.58,Mili Poljicak,polyus,0.37,0.9833,0.0,0.0,0.0,0.0,0.64,,,0.1,True,2026-11-17T08:03:46+00:00
+2026-11-17T08:04:26+00:00,friend v poljicak,True,Jay Friend,kalshi,0.64,Mili Poljicak,polyus,0.29,0.9604,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-17T08:04:26+00:00
+2026-11-17T08:04:46+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.67,Mili Poljicak,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-17T08:04:46+00:00
+2026-11-17T08:04:56+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.96,Taisei Ichikawa,polyus,0.03,0.9947,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T08:04:56+00:00
+2026-11-17T08:05:06+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.61,Mili Poljicak,kalshi,0.32,0.9618,0.0,0.0,0.0,0.0,,0.4,,0.1,True,2026-11-17T08:05:06+00:00
+2026-11-17T08:05:16+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.6,Mili Poljicak,kalshi,0.32,0.9519,0.0,0.0,0.0,0.0,,0.41,,0.1,True,2026-11-17T08:05:06+00:00
+2026-11-17T08:05:26+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.55,Mili Poljicak,kalshi,0.32,0.9024,0.0,0.0,0.0,0.0,,0.46,,0.1,True,2026-11-17T08:05:06+00:00
+2026-11-17T08:05:36+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.55,Mili Poljicak,kalshi,0.32,0.9024,0.0,0.0,0.0,0.0,,0.46,,0.1,True,2026-11-17T08:05:06+00:00
+2026-11-17T08:05:46+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.56,Mili Poljicak,kalshi,0.32,0.9124,0.0,0.0,0.0,0.0,,0.46,,0.1,True,2026-11-17T08:05:06+00:00
+2026-11-17T08:05:46+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.96,Taisei Ichikawa,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,,0.05,,0.1,True,2026-11-17T08:05:46+00:00
+2026-11-17T08:05:56+00:00,daniel v michalski,True,Daniel Michalski,kalshi,0.06,Taro Daniel,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-17T08:05:56+00:00
+2026-11-17T08:06:06+00:00,friend v poljicak,True,Jay Friend,kalshi,0.54,Mili Poljicak,polyus,0.4,0.9741,0.0,0.0,0.0,0.0,0.61,,,0.1,True,2026-11-17T08:06:06+00:00
+2026-11-17T08:06:06+00:00,daniel v michalski,True,Daniel Michalski,kalshi,0.06,Taro Daniel,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-17T08:05:56+00:00
+2026-11-17T08:06:16+00:00,friend v poljicak,True,Jay Friend,kalshi,0.54,Mili Poljicak,polyus,0.42,0.9943,0.0,0.0,0.0,0.0,0.61,,,0.1,True,2026-11-17T08:06:06+00:00
+2026-11-17T08:06:16+00:00,daniel v michalski,True,Daniel Michalski,kalshi,0.06,Taro Daniel,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-17T08:05:56+00:00
+2026-11-17T08:06:26+00:00,friend v poljicak,True,Jay Friend,kalshi,0.54,Mili Poljicak,polyus,0.39,0.9639,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-17T08:06:06+00:00
+2026-11-17T08:06:26+00:00,daniel v michalski,True,Daniel Michalski,kalshi,0.06,Taro Daniel,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-17T08:05:56+00:00
+2026-11-17T08:07:26+00:00,friend v poljicak,True,Jay Friend,kalshi,0.67,Mili Poljicak,polyus,0.26,0.9588,0.0,0.0,0.0,0.0,0.75,,,0.1,True,2026-11-17T08:07:26+00:00
+2026-11-17T08:07:36+00:00,friend v poljicak,True,Jay Friend,kalshi,0.73,Mili Poljicak,polyus,0.12,0.8711,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-17T08:07:26+00:00
+2026-11-17T08:07:46+00:00,friend v poljicak,True,Jay Friend,kalshi,0.73,Mili Poljicak,polyus,0.12,0.8711,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-17T08:07:26+00:00
+2026-11-17T08:08:06+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.93,Taisei Ichikawa,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-17T08:08:06+00:00
+2026-11-17T08:08:16+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.86,Mili Poljicak,kalshi,0.12,0.9958,0.0,0.0,0.0,0.0,,0.14,,0.1,True,2026-11-17T08:08:16+00:00
+2026-11-17T08:08:16+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.93,Taisei Ichikawa,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-17T08:08:06+00:00
+2026-11-17T08:08:56+00:00,friend v poljicak,True,Jay Friend,kalshi,0.87,Mili Poljicak,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.1,True,2026-11-17T08:08:56+00:00
+2026-11-17T08:09:06+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.92,Taisei Ichikawa,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.09,,0.1,True,2026-11-17T08:09:06+00:00
+2026-11-17T08:09:16+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.92,Taisei Ichikawa,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.09,,0.1,True,2026-11-17T08:09:06+00:00
+2026-11-17T08:09:26+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.92,Taisei Ichikawa,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.09,,0.1,True,2026-11-17T08:09:06+00:00
+2026-11-17T08:09:36+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.92,Taisei Ichikawa,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.11,,0.1,True,2026-11-17T08:09:06+00:00
+2026-11-17T08:09:56+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.87,Taisei Ichikawa,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,,0.14,,0.1,True,2026-11-17T08:09:56+00:00
+2026-11-17T08:10:06+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.87,Taisei Ichikawa,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,,0.15,,0.1,True,2026-11-17T08:09:56+00:00
+2026-11-17T08:10:06+00:00,friend v poljicak,True,Jay Friend,kalshi,0.92,Mili Poljicak,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T08:10:06+00:00
+2026-11-17T08:10:16+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.87,Taisei Ichikawa,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,,0.15,,0.1,True,2026-11-17T08:09:56+00:00
+2026-11-17T08:10:16+00:00,friend v poljicak,True,Jay Friend,kalshi,0.92,Mili Poljicak,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T08:10:06+00:00
+2026-11-17T08:11:36+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.86,Taisei Ichikawa,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.88,,,0.1,True,2026-11-17T08:11:36+00:00
+2026-11-17T08:11:46+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.86,Taisei Ichikawa,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.88,,,0.1,True,2026-11-17T08:11:36+00:00
+2026-11-17T08:12:16+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.88,Taisei Ichikawa,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.1,True,2026-11-17T08:12:16+00:00
+2026-11-17T08:12:26+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.07,Taro Daniel,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T08:12:26+00:00
+2026-11-17T08:12:36+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.07,Taro Daniel,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T08:12:26+00:00
+2026-11-17T08:12:46+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.07,Taro Daniel,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T08:12:26+00:00
+2026-11-17T08:12:56+00:00,friend v poljicak,True,Jay Friend,kalshi,0.94,Mili Poljicak,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-17T08:12:56+00:00
+2026-11-17T08:12:56+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.07,Taro Daniel,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T08:12:26+00:00
+2026-11-17T08:13:06+00:00,friend v poljicak,True,Jay Friend,kalshi,0.94,Mili Poljicak,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-17T08:12:56+00:00
+2026-11-17T08:13:16+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.89,Taisei Ichikawa,polyus,0.09,0.9925,0.0,0.0,0.0,0.0,0.92,,,0.1,True,2026-11-17T08:13:16+00:00
+2026-11-17T08:13:16+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.05,Taro Daniel,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T08:13:16+00:00
+2026-11-17T08:13:26+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.89,Taisei Ichikawa,polyus,0.09,0.9925,0.0,0.0,0.0,0.0,0.92,,,0.1,True,2026-11-17T08:13:16+00:00
+2026-11-17T08:13:26+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.05,Taro Daniel,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T08:13:16+00:00
+2026-11-17T08:13:36+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,kalshi,0.89,Taisei Ichikawa,polyus,0.09,0.9925,0.0,0.0,0.0,0.0,0.93,,,0.1,True,2026-11-17T08:13:16+00:00
+2026-11-17T08:13:36+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.05,Taro Daniel,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T08:13:16+00:00
+2026-11-17T08:13:46+00:00,friend v poljicak,True,Jay Friend,kalshi,0.95,Mili Poljicak,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-17T08:13:46+00:00
+2026-11-17T08:13:56+00:00,friend v poljicak,True,Jay Friend,kalshi,0.95,Mili Poljicak,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-17T08:13:46+00:00
+2026-11-17T08:14:16+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.95,Mili Poljicak,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.1,True,2026-11-17T08:14:16+00:00
+2026-11-17T08:14:26+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.04,Taro Daniel,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T08:14:26+00:00
+2026-11-17T08:14:36+00:00,friend v poljicak,True,Jay Dylan Friend,polyus,0.94,Mili Poljicak,kalshi,0.04,0.9866,0.0,0.0,0.0,0.0,,0.07,,0.1,True,2026-11-17T08:14:36+00:00
+2026-11-17T08:14:36+00:00,daniel v michalski,True,Daniel Michalski,polyus,0.04,Taro Daniel,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T08:14:26+00:00
+2026-11-17T08:14:56+00:00,ichikawa v schoenhaus,True,Max Schoenhaus,polyus,0.93,Taisei Ichikawa,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-17T08:14:56+00:00
