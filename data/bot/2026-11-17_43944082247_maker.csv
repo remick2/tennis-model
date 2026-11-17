@@ -1,0 +1,10 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-17T00:00:40+00:00,almeida v jarry,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PDAJAR-PDA:yes,0.63,79,False,0.0144,2.0,hedged,polyus:aec-atp-matalm-nicjar-2026-11-16:1,0.38,-2.08,-2.09,-2.08,True
+2026-11-17T00:01:00+00:00,baris v miyoshi,True,kalshi:KXATPCHALLENGERMATCH-26NOV16BARMIY-BAR:yes,0.71,70,True,0.0063,1.9,hedged,polyus:aec-atp-ozabar-kenmiy-2026-11-16:1,0.27,0.44,-1.73,0.44,True
+2026-11-17T00:01:14+00:00,almeida v jarry,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PDAJAR-JAR:yes,0.34,147,False,0.0138,1.8,hedged,polyus:aec-atp-matalm-nicjar-2026-11-16:0,0.63,2.03,-3.75,2.03,True
+2026-11-17T00:04:14+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.32,156,False,0.0142,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.68,-2.36,-3.9,-2.36,True
+2026-11-17T00:06:12+00:00,almeida v jarry,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PDAJAR-JAR:yes,0.35,142,False,0.0136,1.9,hedged,polyus:aec-atp-matalm-nicjar-2026-11-16:0,0.66,-3.63,-3.65,-3.63,True
+2026-11-17T00:07:58+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB:yes,0.67,74,True,0.0051,1.7,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:0,0.33,-1.14,-3.41,-1.14,True
+2026-11-17T00:08:36+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.33,151,True,0.014,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.64,2.11,-5.28,2.11,True
+2026-11-17T00:09:10+00:00,chan v mmoh,True,kalshi:KXATPCHALLENGERMATCH-26NOV16CHAMMO-MMO:yes,0.47,106,False,0.0126,2.0,hedged,polyus:aec-atp-duncha-micmmo-2026-11-16:0,0.52,-0.78,-2.9,-0.78,True
+2026-11-17T00:09:48+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB:yes,0.67,74,True,0.0051,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:0,0.32,-0.38,-3.41,-0.38,True

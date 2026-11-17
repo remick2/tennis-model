@@ -457,3 +457,15 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-16T23:53:36+00:00,baris v miyoshi,True,kalshi:KXATPCHALLENGERMATCH-26NOV16BARMIY-MIY:yes,0.46,108,True,0.0126,2.0,hedged,polyus:aec-atp-ozabar-kenmiy-2026-11-16:0,0.55,-2.94,-2.95,-2.94,True
 2026-11-16T23:54:20+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.6,83,False,0.0138,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.4,-1.38,-2.24,-1.38,True
 2026-11-16T23:54:36+00:00,baris v miyoshi,True,kalshi:KXATPCHALLENGERMATCH-26NOV16BARMIY-MIY:yes,0.4,125,True,0.0229,2.0,hedged,polyus:aec-atp-ozabar-kenmiy-2026-11-16:0,0.62,-4.55,-4.56,-4.55,True
+2026-11-16T23:55:34+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.54,92,False,0.013,2.1,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.47,-2.51,-3.45,-2.51,True
+2026-11-16T23:55:38+00:00,broska v hoole,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HOOBRO-HOO:yes,0.26,192,False,0.006,2.1,hedged,polyus:aec-atp-cashoo-flobro-2026-11-15:1,0.75,-4.42,-4.44,-4.42,True
+2026-11-16T23:56:28+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.46,108,False,0.0126,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.59,-7.22,-7.23,-7.22,True
+2026-11-16T23:56:40+00:00,broska v hoole,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HOOBRO-HOO:yes,0.22,227,True,0.0073,1.9,hedged,polyus:aec-atp-cashoo-flobro-2026-11-15:1,0.8,-7.06,-7.08,-7.06,True
+2026-11-16T23:56:40+00:00,broska v hoole,True,polyus:aec-atp-cashoo-flobro-2026-11-15:0,0.21,238,False,0.0076,1.9,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV16HOOBRO-BRO:yes,0.79,-2.76,-5.03,-2.76,True
+2026-11-16T23:57:18+00:00,broska v hoole,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HOOBRO-HOO:yes,0.18,277,False,0.0089,2.0,hedged,polyus:aec-atp-cashoo-flobro-2026-11-15:1,0.81,-0.19,-12.91,-0.19,True
+2026-11-16T23:57:22+00:00,broska v hoole,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HOOBRO-BRO:yes,0.77,64,False,0.0085,2.0,hedged,polyus:aec-atp-cashoo-flobro-2026-11-15:0,0.25,-2.11,-2.12,-2.11,True
+2026-11-16T23:58:00+00:00,broska v hoole,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HOOBRO-HOO:yes,0.22,227,False,0.0073,2.0,hedged,polyus:aec-atp-cashoo-flobro-2026-11-15:1,0.76,1.66,-7.08,1.66,True
+2026-11-16T23:58:24+00:00,broska v hoole,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HOOBRO-BRO:yes,0.77,64,False,0.0085,2.1,hedged,polyus:aec-atp-cashoo-flobro-2026-11-15:0,0.24,-1.45,-1.46,-1.45,True
+2026-11-16T23:58:24+00:00,broska v hoole,True,polyus:aec-atp-cashoo-flobro-2026-11-15:1,0.77,64,False,0.0084,2.1,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16HOOBRO-HOO:yes,0.24,-1.46,-1.45,-1.45,True
+2026-11-16T23:58:28+00:00,dellavedova v kubler,True,kalshi:KXATPCHALLENGERMATCH-26NOV16DELKUB-DEL:yes,0.39,128,False,0.0131,2.0,hedged,polyus:aec-atp-matdel-jaskub-2026-11-16:1,0.62,-3.38,-3.39,-3.38,True
+2026-11-16T23:58:54+00:00,broska v hoole,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HOOBRO-HOO:yes,0.21,238,False,0.0077,2.0,hedged,polyus:aec-atp-cashoo-flobro-2026-11-15:1,0.81,-7.31,-7.32,-7.31,True
