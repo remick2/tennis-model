@@ -1,53 +1,13 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 138.13,
-  "polyus": 169.86
+  "kalshi": 249.13,
+  "polyus": 523.86
  },
- "open": [
-  {
-   "id": "52d3cb5b4973",
-   "key": "dellavedova v kubler",
-   "opened": "2026-11-17T01:27:54+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB",
-   "kalshi_side": "no",
-   "shares": {
-    "polyus": 184,
-    "kalshi": 184
-   },
-   "cost": 182.35,
-   "expected": 1.65
-  },
-  {
-   "id": "1f792a882705",
-   "key": "dellavedova v kubler",
-   "opened": "2026-11-17T01:36:44+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB",
-   "kalshi_side": "no",
-   "shares": {
-    "polyus": 170.0,
-    "kalshi": 170.0
-   },
-   "cost": 167.3,
-   "expected": 2.7
-  },
-  {
-   "id": "9e8ea96060ea",
-   "key": "dellavedova v kubler",
-   "opened": "2026-11-17T01:42:24+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV16DELKUB-KUB",
-   "kalshi_side": "yes",
-   "shares": {
-    "kalshi": 111.0,
-    "polyus": 111.0
-   },
-   "cost": 109.59,
-   "expected": 1.41
-  }
- ],
- "settled_pnl": 113.24,
+ "open": [],
+ "settled_pnl": 119.0,
  "unwind_pnl": -46.02,
  "fires": 38,
- "settled": 26,
+ "settled": 29,
  "rebalances": 6
 }
