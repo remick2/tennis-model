@@ -4078,6 +4078,8 @@ KXATPCHALLENGERMATCH-26NOV16TULMCC,atp,2026-11-17,ATP Challenger Sydney,Round Of
 KXATPCHALLENGERMATCH-26NOV16UCHHAS,atp,2026-11-17,ATP Challenger Kobe,Round Of 32,Benjamin Hassan,Kaichi Uchida
 KXATPCHALLENGERMATCH-26NOV16ZHASTA,atp,2026-11-17,ATP Challenger Kobe,Round Of 32,Luca Staeheli,Zhizhen Zhang
 KXATPCHALLENGERMATCH-26NOV16ZHUWIN,atp,2026-11-17,ATP Challenger Sydney,Round Of 32,Edward Winter,Evan Zhu
+KXATPCHALLENGERMATCH-26NOV17BONGUE,atp,2026-11-17,ATP Challenger Metz,Round Of 32,Sascha Gueymard Wayenburg,Benjamin Bonzi
+KXATPCHALLENGERMATCH-26NOV17BOSMEL,atp,2026-11-17,ATP Challenger Montevideo,Round Of 32,Felipe Meligeni Alves,Pedro Boscardin Dias
 KXATPCHALLENGERMATCH-26NOV17CREDJE,atp,2026-11-17,ATP Challenger Helsinki,Round Of 32,Laslo Djere,Cezar Cretu (b. 2001)
 KXATPCHALLENGERMATCH-26NOV17DEAKAS,atp,2026-11-17,ATP Challenger Drummondville,Round Of 32,Maks Kasnikowski,Theodore Dean
 KXATPCHALLENGERMATCH-26NOV17ECHVIR,atp,2026-11-17,ATP Challenger Helsinki,Round Of 32,Otto Virtanen,Moez Echargui
@@ -4086,6 +4088,7 @@ KXATPCHALLENGERMATCH-26NOV17GHIMOR,atp,2026-11-17,ATP Challenger Metz,Round Of 3
 KXATPCHALLENGERMATCH-26NOV17GREMAY,atp,2026-11-17,ATP Challenger Metz,Round Of 32,Harold Mayot,Hugo Grenier
 KXATPCHALLENGERMATCH-26NOV17HEMPAS,atp,2026-11-17,ATP Challenger Metz,Round Of 32,Francesco Passaro,Calvin Hemery
 KXATPCHALLENGERMATCH-26NOV17ICHSCH,atp,2026-11-17,ATP Challenger Kobe,Round Of 32,Max Schoenhaus,Taisei Ichikawa
+KXATPCHALLENGERMATCH-26NOV17KOZDE,atp,2026-11-17,ATP Challenger Drummondville,Round Of 32,Stefan Kozlov,Daniel de Jonge
 KXATPCHALLENGERMATCH-26NOV17KUMZHO,atp,2026-11-17,ATP Challenger Kobe,Round Of 32,Yi Zhou,Takuya Kumasaka
 KXATPCHALLENGERMATCH-26NOV17LAGGUL,atp,2026-11-17,ATP Challenger Helsinki,Round Of 32,Svyatoslav Gulin,Linus Lagerbohm
 KXATPCHALLENGERMATCH-26NOV17MALGRA,atp,2026-11-17,ATP Challenger Champaign,Round Of 32,Alastair Gray,Patrick Maloney
@@ -4093,15 +4096,20 @@ KXATPCHALLENGERMATCH-26NOV17MICDAN,atp,2026-11-17,ATP Challenger Kobe,Round Of 3
 KXATPCHALLENGERMATCH-26NOV17MRVJAC,atp,2026-11-17,ATP Challenger Metz,Round Of 32,Kyrian Jacquet,Maxim Mrva
 KXATPCHALLENGERMATCH-26NOV17NAGLAJ,atp,2026-11-17,ATP Challenger Metz,Round Of 32,Arthur Nagel,Dusan Lajovic
 KXATPCHALLENGERMATCH-26NOV17NEURIT,atp,2026-11-17,ATP Challenger Helsinki,Round Of 32,Alexander Ritschard,Lukas Neumayer
+KXATPCHALLENGERMATCH-26NOV17PRAMID,atp,2026-11-17,ATP Challenger Montevideo,Round Of 32,Juan Carlos Prado Angelo,Lautaro Midon
 KXATPCHALLENGERMATCH-26NOV17RODNAG,atp,2026-11-17,ATP Challenger Helsinki,Round Of 32,Jurij Rodionov,Sumit Nagal
 KXATPCHALLENGERMATCH-26NOV17SACKWON,atp,2026-11-17,ATP Challenger Metz,Round Of 32,Soonwoo Kwon,Vitaliy Sachko
+KXATPCHALLENGERMATCH-26NOV17SHIMAY,atp,2026-11-17,ATP Challenger Drummondville,Round Of 32,Aidan Mayo,Braden Shick
 KXATPCHALLENGERMATCH-26NOV17SOTBAR,atp,2026-11-17,ATP Challenger Montevideo,Round Of 32,Alex Barrena,Matias Soto
 KXATPCHALLENGERMATCH-26NOV17SVRBOR,atp,2026-11-17,ATP Challenger Helsinki,Round Of 32,Dalibor Svrcina,Leo Borg
 KXATPCHALLENGERMATCH-26NOV17TRAMIK,atp,2026-11-17,ATP Challenger Helsinki,Round Of 32,Stefano Travaglia,Luka Mikrut
 KXATPCHALLENGERMATCH-26NOV17VANMAX,atp,2026-11-17,ATP Challenger Champaign,Round Of 32,Lui Maxted,Quinn Vandecasteele
 KXATPCHALLENGERMATCH-26NOV17VISBAN,atp,2026-11-17,ATP Challenger Drummondville,Round Of 32,Samir Banerjee,Niels Visker
+KXATPCHALLENGERMATCH-26NOV17WIEART,atp,2026-11-17,ATP Challenger Champaign,Round Of 32,Bor Artnak,Luca Wiedenmann
+KXATPCHALLENGERMATCH-26NOV17YOUFEN,atp,2026-11-17,ATP Challenger Champaign,Round Of 32,Gavin Young,Andrew Fenty
 KXWTACHALLENGERMATCH-26NOV16GIOGEE,wta,2026-11-17,WTA Challenger Colina,Round Of 32,Ariana Geerlings Martinez,Luisina Giovannini
 KXWTACHALLENGERMATCH-26NOV16STRTIK,wta,2026-11-17,WTA Challenger Colina,Round Of 32,Valeriya Strakhova,Anastasia Tikhonova
 KXWTACHALLENGERMATCH-26NOV17BROHER,wta,2026-11-17,WTA Challenger Colina,Round Of 32,Lucia Bronzetti,Alicia Herrero Linana
 KXWTACHALLENGERMATCH-26NOV17BURSEM,wta,2026-11-17,WTA Challenger Colina,Round Of 32,Irene Burillo Escorihuela,Darja Semenistaja
+KXWTACHALLENGERMATCH-26NOV17HERBUL,wta,2026-11-17,WTA Challenger Colina,Round Of 32,Polona Hercog,Miriam Bianca Bulgaru
 KXWTACHALLENGERMATCH-26NOV17PODLEP,wta,2026-11-17,WTA Challenger Colina,Round Of 32,Nadia Podoroska,Varvara Lepchenko
