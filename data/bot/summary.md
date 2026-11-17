@@ -1,10 +1,10 @@
-# Dry-run bot (Mon Nov 16 8:34PM MT)
+# Dry-run bot (Mon Nov 16 8:49PM MT)
 
 Paper only: no keys, no real orders. Started 2026-11-14 with $700 (Kalshi $345, Polymarket US $355).
 
-- Cash: Kalshi **$108.61**, Polymarket US **$95.29**; locked in 2 open matches: $569.10
-- Bankroll now (cash + open at cost): **$773.00**
-- Fires: 40 · settled: 29 · settled P&L **$+119.00** (includes unwinds: $-46.02)
+- Cash: Kalshi **$444.61**, Polymarket US **$379.29**; locked in 0 open matches: $0.00
+- Bankroll now (cash + open at cost): **$823.90**
+- Fires: 40 · settled: 31 · settled P&L **$+169.90** (includes unwinds: $-46.02)
 - Paper rebalances (times Remick would have had to move money between venues): 7 · cap $150 per venue per arb
 - On fresh (uncached) Polymarket US books, since Nov 14: 40 fires, 38 traded, 7 with one leg short · simulated $123.88 vs $115.63 if both orders had gone at once
 - Earlier fires (23) used Polymarket US books up to 30s stale: not evidence either way
