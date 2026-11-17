@@ -88,3 +88,9 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-17T10:08:56+00:00,kumasaka v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV17KUMZHO-KUM:yes,0.13,384,False,0.0111,1.9,hedged,polyus:aec-atp-takkum-yizho-2026-11-17:1,0.89,-10.29,-10.31,-10.29,True
 2026-11-17T10:09:38+00:00,kumasaka v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV17KUMZHO-KUM:yes,0.09,555,False,0.0132,2.0,hedged,polyus:aec-atp-takkum-yizho-2026-11-17:1,0.94,-18.83,-18.84,-18.83,True
 2026-11-17T10:12:42+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.36,138,True,0.0135,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.66,-4.91,-4.93,-4.91,True
+2026-11-17T10:21:04+00:00,comesana v manuel,False,kalshi:KXATPCHALLENGERMATCH-26NOV17LACOM-LA:yes,0.37,135,False,0.0133,10.0,hedged,polyus:aec-atp-juaser-fracom-2026-11-16:1,0.61,0.47,-4.85,0.47,True
+2026-11-17T10:23:26+00:00,lajovic v nagel,True,kalshi:KXATPCHALLENGERMATCH-26NOV17NAGLAJ-NAG:yes,0.3,166,False,0.0146,2.0,hedged,polyus:aec-atp-artnag-duslaj-2026-11-16:1,0.71,-4.04,-5.66,-4.04,True
+2026-11-17T10:26:18+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.37,135,True,0.0133,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.64,-3.51,-3.53,-3.51,True
+2026-11-17T10:28:50+00:00,lajovic v nagel,True,kalshi:KXATPCHALLENGERMATCH-26NOV17NAGLAJ-LAJ:yes,0.58,86,True,0.0135,2.0,hedged,polyus:aec-atp-artnag-duslaj-2026-11-16:0,0.43,-2.32,-2.34,-2.32,True
+2026-11-17T10:29:36+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.35,142,False,0.0136,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.68,-6.41,-6.42,-6.41,True
+2026-11-17T10:30:10+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-KWON:yes,0.64,78,False,0.0146,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:0,0.36,-1.25,-2.85,-1.25,True
