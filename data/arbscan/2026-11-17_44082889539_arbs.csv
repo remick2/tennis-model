@@ -70,3 +70,72 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T13:39:45+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.09,Laslo Djere,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.12,,,0.1,True,2026-11-17T13:39:45+00:00
 2026-11-17T13:39:45+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.4,Francesco Passaro,polyus,0.56,0.9939,0.0,0.0,0.0,0.0,0.46,,,0.1,True,2026-11-17T13:39:45+00:00
 2026-11-17T13:39:55+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.09,Laslo Djere,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.12,,,0.1,True,2026-11-17T13:39:45+00:00
+2026-11-17T13:40:45+00:00,cretu v djere,True,Cezar Cretu,polyus,0.06,Laslo Djere,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T13:40:45+00:00
+2026-11-17T13:40:55+00:00,cretu v djere,True,Cezar Cretu,polyus,0.06,Laslo Djere,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T13:40:45+00:00
+2026-11-17T13:41:05+00:00,cretu v djere,True,Cezar Cretu,polyus,0.06,Laslo Djere,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T13:40:45+00:00
+2026-11-17T13:41:25+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.06,Laslo Djere,polyus,0.92,0.9891,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-17T13:41:25+00:00
+2026-11-17T13:41:35+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.06,Laslo Djere,polyus,0.92,0.9891,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-17T13:41:25+00:00
+2026-11-17T13:42:15+00:00,borg v svrcina,True,Dalibor Svrcina,kalshi,0.94,Leo Borg,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-17T13:42:15+00:00
+2026-11-17T13:42:15+00:00,cretu v djere,True,Cezar Cretu,polyus,0.06,Laslo Djere,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T13:42:15+00:00
+2026-11-17T13:42:25+00:00,borg v svrcina,True,Dalibor Svrcina,kalshi,0.94,Leo Borg,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-17T13:42:15+00:00
+2026-11-17T13:42:25+00:00,cretu v djere,True,Cezar Cretu,polyus,0.06,Laslo Djere,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T13:42:15+00:00
+2026-11-17T13:44:05+00:00,mikrut v travaglia,True,Luka Mikrut,kalshi,0.85,Stefano Travaglia,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.1,True,2026-11-17T13:44:05+00:00
+2026-11-17T13:45:35+00:00,fils v jodar,True,Arthur Fils,kalshi,0.55,Rafael Jodar,polyus,0.41,0.9941,0.0,0.0,0.0,0.0,0.6,,,0.1,True,2026-11-17T13:45:35+00:00
+2026-11-17T13:45:45+00:00,fils v jodar,True,Arthur Fils,kalshi,0.55,Rafael Jodar,polyus,0.41,0.9941,0.0,0.0,0.0,0.0,0.6,,,0.1,True,2026-11-17T13:45:35+00:00
+2026-11-17T13:45:55+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.35,Francesco Passaro,polyus,0.61,0.9925,0.0,0.0,0.0,0.0,0.39,,,0.1,True,2026-11-17T13:45:55+00:00
+2026-11-17T13:46:05+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.35,Francesco Passaro,polyus,0.61,0.9925,0.0,0.0,0.0,0.0,0.39,,,0.1,True,2026-11-17T13:45:55+00:00
+2026-11-17T13:46:25+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.33,Francesco Passaro,kalshi,0.62,0.9819,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-17T13:46:25+00:00
+2026-11-17T13:46:35+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.18,Laslo Djere,polyus,0.77,0.9726,0.0,0.0,0.0,0.0,0.24,,,0.1,True,2026-11-17T13:46:35+00:00
+2026-11-17T13:46:35+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.33,Francesco Passaro,kalshi,0.62,0.9819,0.0,0.0,0.0,0.0,,0.69,,0.1,True,2026-11-17T13:46:25+00:00
+2026-11-17T13:46:35+00:00,fils v jodar,True,Arthur Fils,polyus,0.52,Rafael Jodar,kalshi,0.43,0.9845,0.0,0.0,0.0,0.0,,0.49,,0.1,True,2026-11-17T13:46:35+00:00
+2026-11-17T13:46:35+00:00,grenier v mayot,True,Harold Mayot,kalshi,0.91,Hugo Grenier,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-17T13:46:35+00:00
+2026-11-17T13:46:45+00:00,fils v jodar,True,Arthur Fils,polyus,0.52,Rafael Jodar,kalshi,0.43,0.9845,0.0,0.0,0.0,0.0,,0.49,,0.1,True,2026-11-17T13:46:35+00:00
+2026-11-17T13:46:55+00:00,fils v jodar,True,Arthur Fils,polyus,0.52,Rafael Jodar,kalshi,0.43,0.9845,0.0,0.0,0.0,0.0,,0.49,,0.1,True,2026-11-17T13:46:35+00:00
+2026-11-17T13:47:05+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.21,Francesco Passaro,polyus,0.73,0.9653,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-17T13:47:05+00:00
+2026-11-17T13:47:05+00:00,grenier v mayot,True,Harold Mayot,kalshi,0.94,Hugo Grenier,polyus,0.03,0.976,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T13:47:05+00:00
+2026-11-17T13:47:15+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.21,Francesco Passaro,polyus,0.73,0.9653,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-17T13:47:05+00:00
+2026-11-17T13:47:15+00:00,grenier v mayot,True,Harold Mayot,kalshi,0.94,Hugo Grenier,polyus,0.03,0.976,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T13:47:05+00:00
+2026-11-17T13:47:25+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.21,Francesco Passaro,polyus,0.73,0.9653,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-17T13:47:05+00:00
+2026-11-17T13:47:25+00:00,grenier v mayot,True,Harold Mayot,kalshi,0.94,Hugo Grenier,polyus,0.03,0.976,0.0,0.0,0.0,0.0,0.98,,,0.1,True,2026-11-17T13:47:05+00:00
+2026-11-17T13:47:45+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.29,Francesco Passaro,polyus,0.62,0.9408,0.0,0.0,0.0,0.0,0.39,,,0.1,True,2026-11-17T13:47:45+00:00
+2026-11-17T13:47:55+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.29,Francesco Passaro,polyus,0.64,0.9604,0.0,0.0,0.0,0.0,0.38,,,0.1,True,2026-11-17T13:47:45+00:00
+2026-11-17T13:47:55+00:00,mikrut v travaglia,True,Luka Mikrut,polyus,0.75,Stefano Travaglia,kalshi,0.22,0.995,0.0,0.0,0.0,0.0,,0.27,,0.1,True,2026-11-17T13:47:55+00:00
+2026-11-17T13:48:05+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.28,Francesco Passaro,kalshi,0.62,0.9305,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-17T13:48:05+00:00
+2026-11-17T13:48:15+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.28,Francesco Passaro,kalshi,0.62,0.9305,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-17T13:48:05+00:00
+2026-11-17T13:48:35+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.31,Laslo Djere,polyus,0.65,0.9908,0.0,0.0,0.0,0.0,0.36,,,0.1,True,2026-11-17T13:48:35+00:00
+2026-11-17T13:48:35+00:00,mikrut v travaglia,True,Luka Mikrut,polyus,0.7,Stefano Travaglia,kalshi,0.27,0.9984,0.0,0.0,0.0,0.0,,0.31,,0.1,True,2026-11-17T13:48:35+00:00
+2026-11-17T13:49:05+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.28,Francesco Passaro,kalshi,0.62,0.9305,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-17T13:49:05+00:00
+2026-11-17T13:49:25+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.28,Francesco Passaro,polyus,0.62,0.9305,0.0,0.0,0.0,0.0,0.39,,,0.1,True,2026-11-17T13:49:25+00:00
+2026-11-17T13:49:35+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.28,Francesco Passaro,polyus,0.62,0.9305,0.0,0.0,0.0,0.0,0.39,,,0.1,True,2026-11-17T13:49:25+00:00
+2026-11-17T13:49:55+00:00,mikrut v travaglia,True,Luka Mikrut,kalshi,0.73,Stefano Travaglia,polyus,0.23,0.9861,0.0,0.0,0.0,0.0,0.78,,,0.1,True,2026-11-17T13:49:55+00:00
+2026-11-17T13:50:05+00:00,mikrut v travaglia,True,Luka Mikrut,kalshi,0.73,Stefano Travaglia,polyus,0.23,0.9861,0.0,0.0,0.0,0.0,0.78,,,0.1,True,2026-11-17T13:49:55+00:00
+2026-11-17T13:50:05+00:00,fils v jodar,True,Arthur Fils,kalshi,0.53,Rafael Jodar,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.57,,,0.1,True,2026-11-17T13:50:05+00:00
+2026-11-17T13:50:15+00:00,fils v jodar,True,Arthur Fils,kalshi,0.53,Rafael Jodar,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.57,,,0.1,True,2026-11-17T13:50:05+00:00
+2026-11-17T13:50:25+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.28,Francesco Passaro,kalshi,0.62,0.9305,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-17T13:50:25+00:00
+2026-11-17T13:50:25+00:00,fils v jodar,True,Arthur Fils,kalshi,0.53,Rafael Jodar,polyus,0.43,0.9945,0.0,0.0,0.0,0.0,0.59,,,0.1,True,2026-11-17T13:50:05+00:00
+2026-11-17T13:50:35+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.28,Francesco Passaro,kalshi,0.62,0.9305,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-17T13:50:25+00:00
+2026-11-17T13:50:35+00:00,mikrut v travaglia,True,Luka Mikrut,polyus,0.74,Stefano Travaglia,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,,0.27,,0.1,True,2026-11-17T13:50:35+00:00
+2026-11-17T13:50:45+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.31,Francesco Passaro,kalshi,0.62,0.9614,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-17T13:50:25+00:00
+2026-11-17T13:50:45+00:00,fils v jodar,True,Arthur Fils,kalshi,0.57,Rafael Jodar,polyus,0.36,0.9632,0.0,0.0,0.0,0.0,0.65,,,0.1,True,2026-11-17T13:50:45+00:00
+2026-11-17T13:50:45+00:00,mikrut v travaglia,True,Luka Mikrut,polyus,0.74,Stefano Travaglia,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,,0.27,,0.1,True,2026-11-17T13:50:35+00:00
+2026-11-17T13:50:55+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.1,Francesco Passaro,kalshi,0.62,0.7427,0.0,0.0,0.0,0.0,,0.91,,0.1,True,2026-11-17T13:50:25+00:00
+2026-11-17T13:50:55+00:00,fils v jodar,True,Arthur Fils,kalshi,0.57,Rafael Jodar,polyus,0.36,0.9632,0.0,0.0,0.0,0.0,0.65,,,0.1,True,2026-11-17T13:50:45+00:00
+2026-11-17T13:50:55+00:00,mikrut v travaglia,True,Luka Mikrut,polyus,0.74,Stefano Travaglia,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,,0.28,,0.1,True,2026-11-17T13:50:35+00:00
+2026-11-17T13:51:05+00:00,mikrut v travaglia,True,Luka Mikrut,polyus,0.67,Stefano Travaglia,kalshi,0.27,0.9692,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-17T13:50:35+00:00
+2026-11-17T13:51:05+00:00,fils v jodar,True,Arthur Fils,polyus,0.59,Rafael Jodar,kalshi,0.36,0.9829,0.0,0.0,0.0,0.0,,0.43,,0.1,True,2026-11-17T13:51:05+00:00
+2026-11-17T13:51:05+00:00,borg v svrcina,True,Dalibor Svrcina,polyus,0.94,Leo Borg,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.1,True,2026-11-17T13:51:05+00:00
+2026-11-17T13:51:15+00:00,mikrut v travaglia,True,Luka Mikrut,polyus,0.67,Stefano Travaglia,kalshi,0.27,0.9692,0.0,0.0,0.0,0.0,,0.35,,0.1,True,2026-11-17T13:50:35+00:00
+2026-11-17T13:51:15+00:00,fils v jodar,True,Arthur Fils,polyus,0.58,Rafael Jodar,kalshi,0.36,0.9731,0.0,0.0,0.0,0.0,,0.43,,0.1,True,2026-11-17T13:51:05+00:00
+2026-11-17T13:51:15+00:00,borg v svrcina,True,Dalibor Svrcina,polyus,0.94,Leo Borg,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.1,True,2026-11-17T13:51:05+00:00
+2026-11-17T13:51:25+00:00,mikrut v travaglia,True,Luka Mikrut,polyus,0.67,Stefano Travaglia,kalshi,0.27,0.9692,0.0,0.0,0.0,0.0,,0.35,,0.1,True,2026-11-17T13:50:35+00:00
+2026-11-17T13:51:25+00:00,fils v jodar,True,Arthur Fils,polyus,0.58,Rafael Jodar,kalshi,0.36,0.9731,0.0,0.0,0.0,0.0,,0.43,,0.1,True,2026-11-17T13:51:05+00:00
+2026-11-17T13:52:35+00:00,borg v svrcina,True,Dalibor Svrcina,kalshi,0.93,Leo Borg,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T13:52:35+00:00
+2026-11-17T13:52:45+00:00,borg v svrcina,True,Dalibor Svrcina,kalshi,0.93,Leo Borg,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T13:52:35+00:00
+2026-11-17T13:52:55+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.07,Francesco Passaro,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T13:52:55+00:00
+2026-11-17T13:53:25+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.52,Laslo Djere,polyus,0.43,0.9845,0.0,0.0,0.0,0.0,0.59,,,0.1,True,2026-11-17T13:53:25+00:00
+2026-11-17T13:54:25+00:00,borg v svrcina,True,Dalibor Svrcina,kalshi,0.93,Leo Borg,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T13:54:25+00:00
+2026-11-17T13:54:35+00:00,borg v svrcina,True,Dalibor Svrcina,kalshi,0.93,Leo Borg,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-17T13:54:25+00:00
+2026-11-17T13:55:05+00:00,cretu v djere,True,Cezar Cretu,polyus,0.62,Laslo Djere,kalshi,0.32,0.9716,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-17T13:55:05+00:00
+2026-11-17T13:55:15+00:00,cretu v djere,True,Cezar Cretu,polyus,0.62,Laslo Djere,kalshi,0.32,0.9716,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-17T13:55:05+00:00
+2026-11-17T13:55:25+00:00,cretu v djere,True,Cezar Cretu,polyus,0.62,Laslo Djere,kalshi,0.32,0.9716,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-17T13:55:05+00:00
+2026-11-17T13:55:35+00:00,cretu v djere,True,Cezar Cretu,polyus,0.54,Laslo Djere,kalshi,0.32,0.8925,0.0,0.0,0.0,0.0,,0.47,,0.1,True,2026-11-17T13:55:05+00:00
