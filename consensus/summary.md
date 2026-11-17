@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 16, 5:40PM MT
+# Consensus paper tracker — Mon Nov 16, 6:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 5-2 | +3.13 | 4-1 | +0.36 | 2 |
-| 2 agree | all 15 | 21-16 | +0.81 | 24-22 | -5.02 | 4 |
-| 2+ agree, 1+ against (split) | all 15 | 25-14 | +10.54 | 21-18 | -3.19 | 5 |
+| 2 agree | all 15 | 21-16 | +0.81 | 24-22 | -5.02 | 5 |
+| 2+ agree, 1+ against (split) | all 15 | 25-14 | +10.54 | 21-18 | -3.19 | 7 |
 | 3+ agree (paper play) | core 10 only | 4-2 | +2.72 | 1-0 | +0.12 | 1 |
-| 2 agree | core 10 only | 10-7 | +1.69 | 12-9 | -0.75 | 5 |
-| 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 8-8 | -1.90 | 2 |
+| 2 agree | core 10 only | 10-7 | +1.69 | 12-9 | -0.75 | 7 |
+| 2+ agree, 1+ against (split) | core 10 only | 8-4 | +4.30 | 8-8 | -1.90 | 3 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 7 of 30 graded plays · net +2.89u · 5 wins vs 3.9 expected, z = +0.90 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
@@ -89,3 +89,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-16 | NBA | Magic vs. Celtics | Over 213.5 (Total) | 2 agree, 1 against | in-play | 0x9f15613e; JoeyAroyyOO | purplegatto | 12.0c |
 | new | 2026-11-16 | NBA | Grizzlies vs. Wizards | Grizzlies (Moneyline) | 2 agree, 1 against | in-play | jakepaulthegoat2008; BreakTheBank | bands1 | 55.5c |
 | new | 2026-11-16 | NBA | Rockets vs. Heat | Heat (+1.5) (Spread) | 2 agree, 1 against | in-play | bands1; BreakTheBank | ianf2026 | 50.5c |
+| new | 2026-11-16 | NBA | Trail Blazers vs. Timberwolves | Timberwolves (Moneyline) | 2 agree, 0 against | in-play | monkeymashingkeyboard; jakepaulthegoat2008 | — | 53.5c |
+| new | 2026-11-16 | NBA | Warriors vs. Pelicans | Pelicans (+3.5) (Spread) | 5 agree, 1 against | in-play | monkeymashingkeyboard; bands1; drainedandpoor; 0x9f15613e; ianf2026 | jakepaulthegoat2008 | 92.0c |
+| new | 2026-11-16 | NFL | Chargers vs. Ravens | Chargers (Moneyline) | 2 agree, 1 against | in-play | 0xb4F978BE; bands1 | BreakTheBank | 63.5c |
