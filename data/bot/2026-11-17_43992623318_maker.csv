@@ -262,3 +262,38 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-17T04:46:13+00:00,hassan v uchida,True,kalshi:KXATPCHALLENGERMATCH-26NOV16UCHHAS-HAS:yes,0.59,84,True,0.0136,2.0,hedged,polyus:aec-atp-kaiuch-benhas-2026-11-16:0,0.43,-3.11,-3.12,-3.11,True
 2026-11-17T04:48:55+00:00,becroft v ellis,True,kalshi:KXATPCHALLENGERMATCH-26NOV16BECELL-BEC:yes,0.75,66,False,0.0077,2.0,hedged,polyus:aec-atp-isabec-blaell-2026-11-16:1,0.26,-1.54,-1.55,-1.54,True
 2026-11-17T04:49:13+00:00,becroft v ellis,True,kalshi:KXATPCHALLENGERMATCH-26NOV16BECELL-ELL:yes,0.19,263,False,0.0085,2.0,hedged,polyus:aec-atp-isabec-blaell-2026-11-16:0,0.83,-7.84,-7.86,-7.84,True
+2026-11-17T04:49:51+00:00,mcdonald v smith,True,kalshi:KXATPCHALLENGERMATCH-26NOV16MCDSMI-MCD:yes,0.22,227,True,0.0073,2.0,hedged,polyus:aec-atp-niemcd-keesmi-2026-11-15:1,0.8,-7.06,-7.08,-7.06,True
+2026-11-17T04:50:31+00:00,becroft v ellis,True,kalshi:KXATPCHALLENGERMATCH-26NOV16BECELL-ELL:yes,0.1,500,True,0.0127,1.5,hedged,polyus:aec-atp-isabec-blaell-2026-11-16:0,0.91,-7.85,-7.87,-7.85,True
+2026-11-17T04:51:01+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-PHA:yes,0.28,178,False,0.0054,2.0,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:1,0.73,-4.22,-4.24,-4.22,True
+2026-11-17T04:51:11+00:00,li tu v mccabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV16TULMCC-MCC:yes,0.44,113,False,0.0127,2.0,hedged,polyus:aec-atp-litu-jammcc-2026-11-15:0,0.53,1.43,-10.86,1.43,True
+2026-11-17T04:51:59+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-MOR:yes,0.71,70,False,0.0063,2.0,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:0,0.3,-1.72,-2.45,-1.72,True
+2026-11-17T04:52:27+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-PHA:yes,0.29,172,True,0.0051,2.0,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:1,0.74,-7.46,-7.48,-7.46,True
+2026-11-17T04:53:03+00:00,becroft v ellis,True,kalshi:KXATPCHALLENGERMATCH-26NOV16BECELL-ELL:yes,0.06,833,False,0.0055,2.0,hedged,polyus:aec-atp-isabec-blaell-2026-11-16:0,0.95,-11.08,-11.1,-11.08,True
+2026-11-17T04:53:03+00:00,becroft v ellis,True,polyus:aec-atp-isabec-blaell-2026-11-16:1,0.06,833,False,0.0054,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16BECELL-ELL:no,0.95,-11.1,-11.08,-11.08,True
+2026-11-17T04:53:03+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-PHA:yes,0.2,250,True,0.0081,2.0,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:1,0.81,-5.17,-5.19,-5.17,True
+2026-11-17T04:53:27+00:00,hassan v uchida,True,kalshi:KXATPCHALLENGERMATCH-26NOV16UCHHAS-UCH:yes,0.4,125,True,0.013,2.0,hedged,polyus:aec-atp-kaiuch-benhas-2026-11-16:1,0.62,-4.55,-4.56,-4.55,True
+2026-11-17T04:53:33+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-PHA:yes,0.15,333,False,0.0102,1.9,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:1,0.89,-15.59,-15.6,-15.59,True
+2026-11-17T04:55:11+00:00,ghibaudo v moroni,False,polyus:aec-atp-antghi-filmor-2026-11-17:1,0.35,142,False,0.0135,83.9,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV17GHIMOR-GHI:yes,0.68,-3.9,-6.41,-3.9,True
+2026-11-17T04:55:23+00:00,hassan v uchida,True,kalshi:KXATPCHALLENGERMATCH-26NOV16UCHHAS-HAS:yes,0.6,83,False,0.0138,2.0,hedged,polyus:aec-atp-kaiuch-benhas-2026-11-16:0,0.37,1.15,-3.91,1.15,True
+2026-11-17T04:56:21+00:00,hassan v uchida,True,kalshi:KXATPCHALLENGERMATCH-26NOV16UCHHAS-UCH:yes,0.38,131,False,0.0132,2.0,hedged,polyus:aec-atp-kaiuch-benhas-2026-11-16:1,0.63,-3.43,-3.45,-3.43,True
+2026-11-17T04:56:57+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-PHA:yes,0.11,454,False,0.0121,2.0,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:1,0.9,-7.38,-7.4,-7.38,True
+2026-11-17T04:57:03+00:00,hassan v uchida,True,kalshi:KXATPCHALLENGERMATCH-26NOV16UCHHAS-HAS:yes,0.61,81,True,0.014,1.9,hedged,polyus:aec-atp-kaiuch-benhas-2026-11-16:0,0.42,-3.8,-4.63,-3.8,True
+2026-11-17T04:58:45+00:00,hassan v uchida,True,kalshi:KXATPCHALLENGERMATCH-26NOV16UCHHAS-HAS:yes,0.56,89,False,0.0132,2.0,hedged,polyus:aec-atp-kaiuch-benhas-2026-11-16:0,0.45,-2.42,-2.43,-2.42,True
+2026-11-17T04:59:01+00:00,li tu v mccabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV16TULMCC-MCC:yes,0.23,217,False,0.007,2.0,hedged,polyus:aec-atp-litu-jammcc-2026-11-15:0,0.82,-13.08,-13.09,-13.08,True
+2026-11-17T04:59:01+00:00,li tu v mccabe,True,polyus:aec-atp-litu-jammcc-2026-11-15:1,0.23,217,False,0.0069,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV16TULMCC-TUL:yes,0.82,-12.24,-13.08,-12.24,True
+2026-11-17T04:59:29+00:00,li tu v mccabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV16TULMCC-MCC:yes,0.14,357,False,0.0107,2.6,hedged,polyus:aec-atp-litu-jammcc-2026-11-15:0,0.92,-23.25,-25.31,-23.25,True
+2026-11-17T04:59:43+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-MOR:yes,0.81,61,False,0.0102,2.0,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:0,0.2,-1.29,-1.29,-1.29,True
+2026-11-17T04:59:43+00:00,moriya v pham,True,polyus:aec-atp-derpha-hirmor-2026-11-16:1,0.81,61,False,0.0101,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-PHA:yes,0.2,-1.29,-1.29,-1.29,True
+2026-11-17T05:00:09+00:00,moriya v pham,True,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-PHA:yes,0.16,312,False,0.0097,2.0,hedged,polyus:aec-atp-derpha-hirmor-2026-11-16:1,0.86,-8.85,-8.87,-8.85,True
+2026-11-17T05:00:09+00:00,moriya v pham,True,polyus:aec-atp-derpha-hirmor-2026-11-16:0,0.18,277,True,0.0088,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-PHA:no,0.86,-13.41,-13.4,-13.4,True
+2026-11-17T05:00:35+00:00,moriya v pham,True,polyus:aec-atp-derpha-hirmor-2026-11-16:0,0.13,384,True,0.0111,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16PHAMOR-PHA:no,0.9,-13.94,-13.92,-13.92,True
+2026-11-17T05:00:59+00:00,holmgren v suresh,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HOLSUR-SUR:yes,0.17,294,False,0.0093,2.2,hedged,polyus:aec-atp-aughol-dhasur-2026-11-15:0,0.87,-14.07,-14.09,-14.07,True
+2026-11-17T05:00:59+00:00,holmgren v suresh,True,polyus:aec-atp-aughol-dhasur-2026-11-15:1,0.17,294,False,0.0092,2.2,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16HOLSUR-SUR:no,0.87,-14.09,-14.07,-14.07,True
+2026-11-17T05:01:17+00:00,li tu v mccabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV16TULMCC-TUL:yes,0.93,53,True,0.0061,2.0,hedged,polyus:aec-atp-litu-jammcc-2026-11-15:1,0.06,0.32,-1.36,0.32,True
+2026-11-17T05:01:40+00:00,li tu v mccabe,True,kalshi:KXATPCHALLENGERMATCH-26NOV16TULMCC-MCC:yes,0.06,833,False,0.0149,2.1,hedged,polyus:aec-atp-litu-jammcc-2026-11-15:0,0.92,12.4,-11.1,12.4,True
+2026-11-17T05:01:44+00:00,holmgren v suresh,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HOLSUR-HOL:yes,0.84,59,True,0.0116,5.4,hedged,polyus:aec-atp-aughol-dhasur-2026-11-15:1,0.14,0.69,-2.41,0.69,True
+2026-11-17T05:02:14+00:00,kang v noguchi,False,kalshi:KXATPCHALLENGERMATCH-26NOV16LEONOG-LEO:yes,0.25,200,False,0.0063,45.7,hedged,polyus:aec-atp-mitleo-rionog-2026-11-15:1,0.78,-8.39,-8.4,-8.39,True
+2026-11-17T05:02:14+00:00,kang v noguchi,False,polyus:aec-atp-mitleo-rionog-2026-11-15:0,0.26,192,False,0.0059,45.7,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV16LEONOG-NOG:yes,0.78,-9.99,-9.97,-9.97,True
+2026-11-17T05:02:22+00:00,holmgren v suresh,True,kalshi:KXATPCHALLENGERMATCH-26NOV16HOLSUR-HOL:yes,0.78,64,False,0.0089,1.9,hedged,polyus:aec-atp-aughol-dhasur-2026-11-15:1,0.31,-6.71,-6.72,-6.71,True
+2026-11-17T05:03:18+00:00,kang v noguchi,True,kalshi:KXATPCHALLENGERMATCH-26NOV16LEONOG-LEO:yes,0.23,217,True,0.007,2.1,hedged,polyus:aec-atp-mitleo-rionog-2026-11-15:1,0.79,-6.84,-8.94,-6.84,True
+2026-11-17T05:03:52+00:00,kang v noguchi,True,kalshi:KXATPCHALLENGERMATCH-26NOV16LEONOG-NOG:yes,0.78,64,True,0.0089,2.0,hedged,polyus:aec-atp-mitleo-rionog-2026-11-15:0,0.23,-1.43,-1.43,-1.43,True
