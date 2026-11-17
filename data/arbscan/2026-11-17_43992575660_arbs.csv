@@ -1,0 +1,26 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-17T02:04:07+00:00,delaney v marinkov,True,Jake Delaney,kalshi,0.86,Pavle Marinkov,polyus,0.1,0.9747,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-17T02:04:07+00:00
+2026-11-17T02:04:57+00:00,winter v zhu,True,Edward Winter,polyus,0.78,Evan Zhu,kalshi,0.19,0.9927,0.0,0.0,0.0,0.0,,0.23,,0.0,True,2026-11-17T02:04:57+00:00
+2026-11-17T02:05:17+00:00,winter v zhu,True,Edward Winter,polyus,0.75,Evan Zhu,kalshi,0.22,0.995,0.0,0.0,0.0,0.0,,0.26,,0.0,True,2026-11-17T02:05:17+00:00
+2026-11-17T02:05:27+00:00,winter v zhu,True,Edward Winter,polyus,0.75,Evan Zhu,kalshi,0.22,0.995,0.0,0.0,0.0,0.0,,0.26,,0.0,True,2026-11-17T02:05:17+00:00
+2026-11-17T02:05:27+00:00,jilly v johnson,True,Adam Jilly,kalshi,0.06,Spencer Johnson,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-17T02:05:27+00:00
+2026-11-17T02:11:47+00:00,dellavedova v kubler,True,Jason Kubler,polyus,0.95,Matthew Dellavedova,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.0,True,2026-11-17T02:11:47+00:00
+2026-11-17T02:11:47+00:00,samrej v tomida,True,Kasidit Samrej,polyus,0.7,Yuta Tomida,kalshi,0.27,0.9984,0.0,0.0,0.0,0.0,,0.31,,0.0,True,2026-11-17T02:11:47+00:00
+2026-11-17T02:11:57+00:00,dellavedova v kubler,True,Jason Kubler,polyus,0.95,Matthew Dellavedova,kalshi,0.04,0.996,0.0,0.0,0.0,0.0,,0.06,,0.0,True,2026-11-17T02:11:47+00:00
+2026-11-17T02:11:57+00:00,samrej v tomida,True,Kasidit Samrej,polyus,0.7,Yuta Tomida,kalshi,0.27,0.9984,0.0,0.0,0.0,0.0,,0.31,,0.0,True,2026-11-17T02:11:47+00:00
+2026-11-17T02:11:57+00:00,winter v zhu,True,Edward Winter,polyus,0.68,Evan Zhu,kalshi,0.29,0.9995,0.0,0.0,0.0,0.0,,0.34,,0.0,True,2026-11-17T02:11:57+00:00
+2026-11-17T02:12:27+00:00,dellavedova v kubler,True,Jason Kubler,polyus,0.93,Matthew Dellavedova,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-17T02:12:27+00:00
+2026-11-17T02:12:57+00:00,jilly v johnson,True,Adam Jilly,polyus,0.05,Spencer Johnson,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-17T02:12:57+00:00
+2026-11-17T02:13:37+00:00,dellavedova v kubler,True,Jason Kubler,kalshi,0.94,Matthew Dellavedova,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-17T02:13:37+00:00
+2026-11-17T02:13:47+00:00,samrej v tomida,True,Kasidit Samrej,kalshi,0.72,Yuta Tomida,polyus,0.23,0.9764,0.0,0.0,0.0,0.0,0.78,,,0.0,True,2026-11-17T02:13:47+00:00
+2026-11-17T02:13:47+00:00,dellavedova v kubler,True,Jason Kubler,kalshi,0.94,Matthew Dellavedova,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-17T02:13:37+00:00
+2026-11-17T02:13:57+00:00,dellavedova v kubler,True,Jason Kubler,kalshi,0.94,Matthew Dellavedova,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-17T02:13:37+00:00
+2026-11-17T02:14:07+00:00,dellavedova v kubler,True,Jason Kubler,kalshi,0.94,Matthew Dellavedova,polyus,0.03,0.976,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-17T02:13:37+00:00
+2026-11-17T02:14:17+00:00,dellavedova v kubler,True,Jason Kubler,kalshi,0.94,Matthew Dellavedova,polyus,0.03,0.976,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-17T02:13:37+00:00
+2026-11-17T02:16:07+00:00,staeheli v zhang,True,Luca Staeheli,polyus,0.19,Zhizhen Zhang,kalshi,0.78,0.9927,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-17T02:16:07+00:00
+2026-11-17T02:16:17+00:00,staeheli v zhang,True,Luca Staeheli,polyus,0.19,Zhizhen Zhang,kalshi,0.78,0.9927,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-17T02:16:07+00:00
+2026-11-17T02:16:27+00:00,staeheli v zhang,True,Luca Staeheli,polyus,0.19,Zhizhen Zhang,kalshi,0.78,0.9927,0.0,0.0,0.0,0.0,,0.83,,0.0,True,2026-11-17T02:16:07+00:00
+2026-11-17T02:16:57+00:00,samrej v tomida,True,Kasidit Samrej,kalshi,0.82,Yuta Tomida,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-17T02:16:57+00:00
+2026-11-17T02:18:47+00:00,delaney v marinkov,True,Jake Delaney,kalshi,0.83,Pavle Marinkov,polyus,0.12,0.9672,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-17T02:18:47+00:00
+2026-11-17T02:18:57+00:00,delaney v marinkov,True,Jake Delaney,kalshi,0.85,Pavle Marinkov,polyus,0.12,0.9863,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-17T02:18:47+00:00
+2026-11-17T02:19:07+00:00,delaney v marinkov,True,Jake Delaney,kalshi,0.85,Pavle Marinkov,polyus,0.12,0.9863,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-17T02:18:47+00:00
