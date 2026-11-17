@@ -1167,3 +1167,73 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T22:53:46+00:00,garcia v gatica,True,Andrea Lazaro Garcia,polyus,0.56,Barbara Gatica,kalshi,0.4,0.9939,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T22:53:46+00:00
 2026-11-17T22:53:56+00:00,garcia v gatica,True,Andrea Lazaro Garcia,polyus,0.56,Barbara Gatica,kalshi,0.38,0.9736,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T22:53:46+00:00
 2026-11-17T22:53:56+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.07,Joaquin Aguilar Cardozo,kalshi,0.91,0.9903,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T22:53:56+00:00
+2026-11-17T22:54:06+00:00,garcia v gatica,True,Andrea Lazaro Garcia,polyus,0.56,Barbara Gatica,kalshi,0.38,0.9736,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T22:53:46+00:00
+2026-11-17T22:54:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.07,Joaquin Aguilar Cardozo,kalshi,0.91,0.9903,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T22:53:56+00:00
+2026-11-17T22:54:16+00:00,garcia v gatica,True,Andrea Lazaro Garcia,polyus,0.56,Barbara Gatica,kalshi,0.38,0.9736,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-17T22:53:46+00:00
+2026-11-17T22:54:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.07,Joaquin Aguilar,polyus,0.9,0.9808,0.0,0.0,0.0,0.0,0.12,,,0.1,True,2026-11-17T22:54:26+00:00
+2026-11-17T22:54:36+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.07,Joaquin Aguilar,polyus,0.9,0.9808,0.0,0.0,0.0,0.0,0.12,,,0.1,True,2026-11-17T22:54:26+00:00
+2026-11-17T22:54:36+00:00,garcia v gatica,True,Andrea Lazaro Garcia,polyus,0.51,Barbara Gatica,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-17T22:54:36+00:00
+2026-11-17T22:54:46+00:00,garcia v gatica,True,Andrea Lazaro Garcia,polyus,0.51,Barbara Gatica,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-17T22:54:36+00:00
+2026-11-17T22:55:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.12,Joaquin Aguilar,polyus,0.84,0.9767,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-17T22:55:06+00:00
+2026-11-17T22:55:06+00:00,garcia v gatica,True,Andrea Lazaro Garcia,kalshi,0.51,Barbara Gatica,polyus,0.45,0.9947,0.0,0.0,0.0,0.0,0.56,,,0.1,True,2026-11-17T22:55:06+00:00
+2026-11-17T22:55:16+00:00,garcia v gatica,True,Andrea Lazaro Garcia,kalshi,0.51,Barbara Gatica,polyus,0.45,0.9947,0.0,0.0,0.0,0.0,0.56,,,0.1,True,2026-11-17T22:55:06+00:00
+2026-11-17T22:55:46+00:00,garcia v gatica,True,Andrea Lazaro Garcia,kalshi,0.56,Barbara Gatica,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.61,,,0.1,True,2026-11-17T22:55:46+00:00
+2026-11-17T22:55:46+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.15,Vignesh Gogineni,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T22:55:46+00:00
+2026-11-17T22:55:56+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.17,Joaquin Aguilar,polyus,0.8,0.991,0.0,0.0,0.0,0.0,0.21,,,0.1,True,2026-11-17T22:55:56+00:00
+2026-11-17T22:56:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.17,Joaquin Aguilar,polyus,0.8,0.991,0.0,0.0,0.0,0.0,0.21,,,0.1,True,2026-11-17T22:55:56+00:00
+2026-11-17T22:56:06+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.15,Vignesh Gogineni,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-17T22:56:06+00:00
+2026-11-17T22:56:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.17,Joaquin Aguilar,polyus,0.8,0.991,0.0,0.0,0.0,0.0,0.21,,,0.1,True,2026-11-17T22:55:56+00:00
+2026-11-17T22:56:16+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.15,Vignesh Gogineni,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-17T22:56:06+00:00
+2026-11-17T22:56:26+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.15,Vignesh Gogineni,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T22:56:26+00:00
+2026-11-17T22:56:36+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.17,Joaquin Aguilar Cardozo,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.1,True,2026-11-17T22:56:36+00:00
+2026-11-17T22:56:36+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.15,Vignesh Gogineni,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T22:56:26+00:00
+2026-11-17T22:56:46+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.17,Joaquin Aguilar Cardozo,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.1,True,2026-11-17T22:56:36+00:00
+2026-11-17T22:56:46+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.15,Vignesh Gogineni,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T22:56:26+00:00
+2026-11-17T22:57:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.17,Joaquin Aguilar,polyus,0.79,0.9814,0.0,0.0,0.0,0.0,0.22,,,0.1,True,2026-11-17T22:57:16+00:00
+2026-11-17T22:57:16+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.12,Patrick Zahraj,polyus,0.86,0.9958,0.0,0.0,0.0,0.0,0.15,,,0.1,True,2026-11-17T22:57:16+00:00
+2026-11-17T22:58:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.18,Joaquin Aguilar Cardozo,kalshi,0.79,0.9919,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-17T22:58:26+00:00
+2026-11-17T22:58:26+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.16,Vignesh Gogineni,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-17T22:58:26+00:00
+2026-11-17T22:58:36+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.18,Joaquin Aguilar Cardozo,kalshi,0.79,0.9919,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-17T22:58:26+00:00
+2026-11-17T22:58:36+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.16,Vignesh Gogineni,kalshi,0.82,0.9997,0.01,34036.96,0.01,0.0,0.16,0.82,0.9997,0.2,True,2026-11-17T22:58:26+00:00
+2026-11-17T22:58:46+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.16,Vignesh Gogineni,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T22:58:46+00:00
+2026-11-17T22:58:56+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.16,Vignesh Gogineni,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T22:58:46+00:00
+2026-11-17T22:59:06+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.16,Vignesh Gogineni,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T22:58:46+00:00
+2026-11-17T22:59:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.18,Joaquin Aguilar,polyus,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,,,0.1,True,2026-11-17T22:59:16+00:00
+2026-11-17T22:59:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.18,Joaquin Aguilar,polyus,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,,,0.1,True,2026-11-17T22:59:16+00:00
+2026-11-17T22:59:36+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.18,Joaquin Aguilar,polyus,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,,,0.1,True,2026-11-17T22:59:16+00:00
+2026-11-17T22:59:56+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.16,Vignesh Gogineni,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T22:59:56+00:00
+2026-11-17T23:00:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.18,Joaquin Aguilar Cardozo,kalshi,0.79,0.9919,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-17T23:00:06+00:00
+2026-11-17T23:00:06+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.16,Vignesh Gogineni,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-17T22:59:56+00:00
+2026-11-17T23:00:46+00:00,garcia v gatica,True,Andrea Lazaro Garcia,kalshi,0.7,Barbara Gatica,polyus,0.27,0.9984,0.0,0.0,0.0,0.0,0.74,,,0.1,True,2026-11-17T23:00:46+00:00
+2026-11-17T23:00:56+00:00,alcala v batalla,True,Max Alcala Gurri,polyus,0.41,Oriol Roca Batalla,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-17T23:00:56+00:00
+2026-11-17T23:00:56+00:00,garcia v gatica,True,Andrea Lazaro Garcia,kalshi,0.7,Barbara Gatica,polyus,0.27,0.9984,0.0,0.0,0.0,0.0,0.74,,,0.1,True,2026-11-17T23:00:46+00:00
+2026-11-17T23:01:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.12,Joaquin Aguilar Cardozo,kalshi,0.83,0.9672,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-17T23:01:06+00:00
+2026-11-17T23:01:06+00:00,alcala v batalla,True,Max Alcala Gurri,polyus,0.41,Oriol Roca Batalla,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-17T23:00:56+00:00
+2026-11-17T23:01:46+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.06,Joaquin Aguilar Cardozo,kalshi,0.89,0.9608,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T23:01:46+00:00
+2026-11-17T23:02:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.06,Joaquin Aguilar,polyus,0.91,0.9796,0.0,0.0,0.0,0.0,0.1,,,0.1,True,2026-11-17T23:02:16+00:00
+2026-11-17T23:02:26+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.19,Vignesh Gogineni,polyus,0.76,0.9734,0.0,0.0,0.0,0.0,0.25,,,0.1,True,2026-11-17T23:02:26+00:00
+2026-11-17T23:02:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.06,Joaquin Aguilar,polyus,0.91,0.9796,0.0,0.0,0.0,0.0,0.1,,,0.1,True,2026-11-17T23:02:16+00:00
+2026-11-17T23:02:36+00:00,gogineni v wiskandt,True,Max Wiskandt,kalshi,0.19,Vignesh Gogineni,polyus,0.76,0.9734,0.0,0.0,0.0,0.0,0.25,,,0.1,True,2026-11-17T23:02:26+00:00
+2026-11-17T23:02:46+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.04,Joaquin Aguilar Cardozo,kalshi,0.91,0.9584,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-17T23:02:46+00:00
+2026-11-17T23:03:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.04,Joaquin Aguilar,polyus,0.91,0.9584,0.0,0.0,0.0,0.0,0.1,,,0.1,True,2026-11-17T23:03:16+00:00
+2026-11-17T23:03:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.04,Joaquin Aguilar,polyus,0.92,0.9678,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-17T23:03:16+00:00
+2026-11-17T23:03:36+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.04,Joaquin Aguilar,polyus,0.93,0.9772,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-17T23:03:16+00:00
+2026-11-17T23:03:56+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.09,Joaquin Aguilar,polyus,0.85,0.9546,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-17T23:03:56+00:00
+2026-11-17T23:04:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.09,Joaquin Aguilar,polyus,0.85,0.9546,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-17T23:03:56+00:00
+2026-11-17T23:05:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.09,Joaquin Aguilar Cardozo,kalshi,0.84,0.9451,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-17T23:05:26+00:00
+2026-11-17T23:05:36+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.08,Joaquin Aguilar Cardozo,kalshi,0.84,0.9345,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-17T23:05:26+00:00
+2026-11-17T23:05:36+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.15,Vignesh Gogineni,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T23:05:36+00:00
+2026-11-17T23:05:46+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.08,Joaquin Aguilar Cardozo,kalshi,0.84,0.9345,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-17T23:05:26+00:00
+2026-11-17T23:05:46+00:00,gogineni v wiskandt,True,Max Wiskandt,polyus,0.15,Vignesh Gogineni,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-17T23:05:36+00:00
+2026-11-17T23:06:26+00:00,kicker v seyboth,True,Nicolas Kicker,kalshi,0.22,Thiago Seyboth Wild,polyus,0.75,0.995,0.0,0.0,0.0,0.0,0.26,,,0.1,True,2026-11-17T23:06:26+00:00
+2026-11-17T23:06:36+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.08,Joaquin Aguilar,polyus,0.83,0.925,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-17T23:06:36+00:00
+2026-11-17T23:06:36+00:00,kicker v seyboth,True,Nicolas Kicker,kalshi,0.22,Thiago Seyboth Wild,polyus,0.75,0.995,0.0,0.0,0.0,0.0,0.26,,,0.1,True,2026-11-17T23:06:26+00:00
+2026-11-17T23:06:46+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.08,Joaquin Aguilar,polyus,0.83,0.925,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-17T23:06:36+00:00
+2026-11-17T23:06:46+00:00,kicker v seyboth,True,Nicolas Kicker,kalshi,0.22,Thiago Seyboth Wild,polyus,0.75,0.995,0.0,0.0,0.0,0.0,0.26,,,0.1,True,2026-11-17T23:06:26+00:00
+2026-11-17T23:07:06+00:00,kicker v seyboth,True,Nicolas Kicker,polyus,0.23,Thiago Seyboth Wild,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-17T23:07:06+00:00
+2026-11-17T23:07:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.18,Joaquin Aguilar,polyus,0.74,0.9437,0.0,0.0,0.0,0.0,0.27,,,0.1,True,2026-11-17T23:07:16+00:00
+2026-11-17T23:07:16+00:00,kicker v seyboth,True,Nicolas Kicker,polyus,0.23,Thiago Seyboth Wild,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-17T23:07:06+00:00
+2026-11-17T23:08:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.26,Joaquin Aguilar,polyus,0.64,0.9295,0.0,0.0,0.0,0.0,0.37,,,0.1,True,2026-11-17T23:08:16+00:00
+2026-11-17T23:08:36+00:00,garcia v gatica,True,Andrea Lazaro Garcia,kalshi,0.7,Barbara Gatica,polyus,0.26,0.9881,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-17T23:08:36+00:00
+2026-11-17T23:08:46+00:00,garcia v gatica,True,Andrea Lazaro Garcia,kalshi,0.7,Barbara Gatica,polyus,0.26,0.9881,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-17T23:08:36+00:00
+2026-11-17T23:08:56+00:00,garcia v gatica,True,Andrea Lazaro Garcia,kalshi,0.7,Barbara Gatica,polyus,0.26,0.9881,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-17T23:08:36+00:00
