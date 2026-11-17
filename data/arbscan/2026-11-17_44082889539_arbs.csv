@@ -139,3 +139,63 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T13:55:15+00:00,cretu v djere,True,Cezar Cretu,polyus,0.62,Laslo Djere,kalshi,0.32,0.9716,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-17T13:55:05+00:00
 2026-11-17T13:55:25+00:00,cretu v djere,True,Cezar Cretu,polyus,0.62,Laslo Djere,kalshi,0.32,0.9716,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-17T13:55:05+00:00
 2026-11-17T13:55:35+00:00,cretu v djere,True,Cezar Cretu,polyus,0.54,Laslo Djere,kalshi,0.32,0.8925,0.0,0.0,0.0,0.0,,0.47,,0.1,True,2026-11-17T13:55:05+00:00
+2026-11-17T13:55:55+00:00,fils v jodar,True,Arthur Fils,polyus,0.41,Rafael Jodar,kalshi,0.54,0.9842,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-17T13:55:55+00:00
+2026-11-17T13:56:05+00:00,fils v jodar,True,Arthur Fils,polyus,0.42,Rafael Jodar,kalshi,0.54,0.9943,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-17T13:55:55+00:00
+2026-11-17T13:56:15+00:00,fils v jodar,True,Arthur Fils,polyus,0.42,Rafael Jodar,kalshi,0.54,0.9943,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-17T13:55:55+00:00
+2026-11-17T13:56:55+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.48,Laslo Djere,polyus,0.46,0.9747,0.0,0.0,0.0,0.0,0.55,,,0.1,True,2026-11-17T13:56:55+00:00
+2026-11-17T13:57:05+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.48,Laslo Djere,polyus,0.46,0.9747,0.0,0.0,0.0,0.0,0.55,,,0.1,True,2026-11-17T13:56:55+00:00
+2026-11-17T13:57:05+00:00,fils v jodar,True,Arthur Fils,polyus,0.38,Rafael Jodar,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,,0.63,,0.1,True,2026-11-17T13:57:05+00:00
+2026-11-17T13:57:15+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.48,Laslo Djere,polyus,0.46,0.9747,0.0,0.0,0.0,0.0,0.55,,,0.1,True,2026-11-17T13:56:55+00:00
+2026-11-17T13:57:15+00:00,fils v jodar,True,Arthur Fils,polyus,0.38,Rafael Jodar,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,,0.63,,0.1,True,2026-11-17T13:57:05+00:00
+2026-11-17T13:57:25+00:00,cretu v djere,True,Cezar Cretu,polyus,0.47,Laslo Djere,kalshi,0.46,0.9647,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-17T13:57:25+00:00
+2026-11-17T13:57:25+00:00,fils v jodar,True,Arthur Fils,polyus,0.38,Rafael Jodar,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,,0.63,,0.1,True,2026-11-17T13:57:05+00:00
+2026-11-17T13:57:25+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.05,Francesco Passaro,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T13:57:25+00:00
+2026-11-17T13:57:35+00:00,cretu v djere,True,Cezar Cretu,polyus,0.47,Laslo Djere,kalshi,0.46,0.9647,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-17T13:57:25+00:00
+2026-11-17T13:57:35+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.05,Francesco Passaro,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T13:57:25+00:00
+2026-11-17T13:57:45+00:00,cretu v djere,True,Cezar Cretu,polyus,0.47,Laslo Djere,kalshi,0.46,0.9647,0.0,0.0,0.0,0.0,,0.52,,0.1,True,2026-11-17T13:57:25+00:00
+2026-11-17T13:57:45+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.05,Francesco Passaro,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T13:57:25+00:00
+2026-11-17T13:58:15+00:00,hemery v passaro,True,Calvin Hemery,kalshi,0.05,Francesco Passaro,polyus,0.92,0.9784,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-17T13:58:15+00:00
+2026-11-17T13:58:25+00:00,fils v jodar,True,Arthur Fils,polyus,0.3,Rafael Jodar,kalshi,0.59,0.9215,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-17T13:58:25+00:00
+2026-11-17T13:58:35+00:00,fils v jodar,True,Arthur Fils,polyus,0.29,Rafael Jodar,kalshi,0.59,0.9112,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-17T13:58:25+00:00
+2026-11-17T13:58:45+00:00,fils v jodar,True,Arthur Fils,polyus,0.29,Rafael Jodar,kalshi,0.59,0.9112,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-17T13:58:25+00:00
+2026-11-17T13:59:05+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.05,Francesco Passaro,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T13:59:05+00:00
+2026-11-17T13:59:15+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.05,Francesco Passaro,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T13:59:05+00:00
+2026-11-17T13:59:25+00:00,cretu v djere,True,Cezar Cretu,polyus,0.34,Laslo Djere,kalshi,0.59,0.9625,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-17T13:59:25+00:00
+2026-11-17T13:59:25+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.05,Francesco Passaro,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-17T13:59:05+00:00
+2026-11-17T13:59:35+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.03,Francesco Passaro,kalshi,0.92,0.9572,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-17T13:59:05+00:00
+2026-11-17T13:59:35+00:00,cretu v djere,True,Cezar Cretu,polyus,0.34,Laslo Djere,kalshi,0.59,0.9625,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-17T13:59:25+00:00
+2026-11-17T13:59:45+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.03,Francesco Passaro,kalshi,0.96,0.9947,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-17T13:59:05+00:00
+2026-11-17T13:59:55+00:00,hemery v passaro,True,Calvin Hemery,polyus,0.02,Francesco Passaro,kalshi,0.96,0.9841,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-17T13:59:05+00:00
+2026-11-17T14:00:05+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.34,Laslo Djere,polyus,0.61,0.9822,0.0,0.0,0.0,0.0,0.4,,,0.1,True,2026-11-17T14:00:05+00:00
+2026-11-17T14:00:15+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.34,Laslo Djere,polyus,0.61,0.9822,0.0,0.0,0.0,0.0,0.4,,,0.1,True,2026-11-17T14:00:05+00:00
+2026-11-17T14:00:45+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.41,Laslo Djere,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-17T14:00:45+00:00
+2026-11-17T14:00:55+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.41,Laslo Djere,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-17T14:00:45+00:00
+2026-11-17T14:01:05+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.41,Laslo Djere,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-17T14:00:45+00:00
+2026-11-17T14:01:25+00:00,cretu v djere,True,Cezar Cretu,polyus,0.4,Laslo Djere,kalshi,0.53,0.9641,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-17T14:01:25+00:00
+2026-11-17T14:01:35+00:00,cretu v djere,True,Cezar Cretu,polyus,0.4,Laslo Djere,kalshi,0.53,0.9641,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-17T14:01:25+00:00
+2026-11-17T14:02:25+00:00,cretu v djere,True,Cezar Cretu,polyus,0.28,Laslo Djere,kalshi,0.65,0.9599,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-17T14:02:25+00:00
+2026-11-17T14:02:35+00:00,cretu v djere,True,Cezar Cretu,polyus,0.27,Laslo Djere,kalshi,0.65,0.9496,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-17T14:02:25+00:00
+2026-11-17T14:02:45+00:00,cretu v djere,True,Cezar Cretu,polyus,0.27,Laslo Djere,kalshi,0.65,0.9496,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-17T14:02:25+00:00
+2026-11-17T14:02:55+00:00,cretu v djere,True,Cezar Cretu,polyus,0.27,Laslo Djere,kalshi,0.65,0.9496,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-17T14:02:25+00:00
+2026-11-17T14:03:15+00:00,cretu v djere,True,Cezar Cretu,polyus,0.11,Laslo Djere,kalshi,0.74,0.8703,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-17T14:03:15+00:00
+2026-11-17T14:03:25+00:00,cretu v djere,True,Cezar Cretu,polyus,0.11,Laslo Djere,kalshi,0.74,0.8703,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-17T14:03:15+00:00
+2026-11-17T14:05:15+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.11,Laslo Djere,polyus,0.85,0.9757,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-17T14:05:15+00:00
+2026-11-17T14:05:25+00:00,cretu v djere,True,Cezar Cretu (b. 2001),kalshi,0.11,Laslo Djere,polyus,0.84,0.9662,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-17T14:05:15+00:00
+2026-11-17T14:05:35+00:00,borg v svrcina,True,Dalibor Svrcina,polyus,0.93,Leo Borg,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.07,,0.1,True,2026-11-17T14:05:35+00:00
+2026-11-17T14:05:45+00:00,borg v svrcina,True,Dalibor Svrcina,polyus,0.93,Leo Borg,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.07,,0.1,True,2026-11-17T14:05:35+00:00
+2026-11-17T14:05:55+00:00,cretu v djere,True,Cezar Cretu,polyus,0.11,Laslo Djere,kalshi,0.84,0.9662,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-17T14:05:55+00:00
+2026-11-17T14:06:15+00:00,cretu v djere,True,Cezar Cretu,polyus,0.06,Laslo Djere,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T14:06:15+00:00
+2026-11-17T14:06:25+00:00,cretu v djere,True,Cezar Cretu,polyus,0.06,Laslo Djere,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T14:06:15+00:00
+2026-11-17T14:06:35+00:00,cretu v djere,True,Cezar Cretu,polyus,0.06,Laslo Djere,kalshi,0.9,0.9702,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-17T14:06:15+00:00
+2026-11-17T14:06:35+00:00,mikrut v travaglia,True,Luka Mikrut,kalshi,0.59,Stefano Travaglia,polyus,0.37,0.9931,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-17T14:06:35+00:00
+2026-11-17T14:06:45+00:00,cretu v djere,True,Cezar Cretu,polyus,0.07,Laslo Djere,kalshi,0.9,0.9808,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-17T14:06:15+00:00
+2026-11-17T14:06:45+00:00,mikrut v travaglia,True,Luka Mikrut,kalshi,0.59,Stefano Travaglia,polyus,0.37,0.9931,0.0,0.0,0.0,0.0,0.63,,,0.1,True,2026-11-17T14:06:35+00:00
+2026-11-17T14:07:35+00:00,cretu v djere,True,Cezar Cretu,polyus,0.02,Laslo Djere,kalshi,0.95,0.9747,0.0,0.0,0.0,0.0,,0.99,,0.2,True,2026-11-17T14:07:35+00:00
+2026-11-17T14:07:45+00:00,cretu v djere,True,Cezar Cretu,polyus,0.02,Laslo Djere,kalshi,0.95,0.9747,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-17T14:07:35+00:00
+2026-11-17T14:09:05+00:00,fils v jodar,True,Arthur Fils,kalshi,0.32,Rafael Jodar,polyus,0.63,0.9814,0.0,0.0,0.0,0.0,0.38,,,0.1,True,2026-11-17T14:09:05+00:00
+2026-11-17T14:09:15+00:00,fils v jodar,True,Arthur Fils,kalshi,0.32,Rafael Jodar,polyus,0.63,0.9814,0.0,0.0,0.0,0.0,0.38,,,0.1,True,2026-11-17T14:09:05+00:00
+2026-11-17T14:09:35+00:00,fils v jodar,True,Arthur Fils,kalshi,0.38,Rafael Jodar,polyus,0.54,0.9538,0.0,0.0,0.0,0.0,0.47,,,0.1,True,2026-11-17T14:09:35+00:00
+2026-11-17T14:09:45+00:00,fils v jodar,True,Arthur Fils,kalshi,0.38,Rafael Jodar,polyus,0.54,0.9538,0.0,0.0,0.0,0.0,0.47,,,0.1,True,2026-11-17T14:09:35+00:00
+2026-11-17T14:09:45+00:00,borg v svrcina,True,Dalibor Svrcina,polyus,0.84,Leo Borg,kalshi,0.12,0.9767,0.0,0.0,0.0,0.0,,0.17,,0.1,True,2026-11-17T14:09:45+00:00
+2026-11-17T14:09:55+00:00,borg v svrcina,True,Dalibor Svrcina,polyus,0.84,Leo Borg,kalshi,0.12,0.9767,0.0,0.0,0.0,0.0,,0.17,,0.1,True,2026-11-17T14:09:45+00:00
+2026-11-17T14:10:05+00:00,borg v svrcina,True,Dalibor Svrcina,polyus,0.84,Leo Borg,kalshi,0.12,0.9767,0.0,0.0,0.0,0.0,,0.17,,0.1,True,2026-11-17T14:09:45+00:00
