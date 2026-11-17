@@ -123,3 +123,6 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-17T11:09:21+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-KWON:yes,0.93,53,False,0.0061,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:0,0.07,-0.24,-0.8,-0.24,True
 2026-11-17T11:10:27+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-KWON:yes,0.93,53,True,0.0061,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:0,0.07,-0.24,-0.8,-0.24,True
 2026-11-17T11:13:13+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-SAC:yes,0.06,833,True,0.0055,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:1,0.95,-11.08,-11.1,-11.08,True
+2026-11-17T11:25:07+00:00,kwon v sachko,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SACKWON-KWON:yes,0.95,52,True,0.0073,2.0,hedged,polyus:aec-atp-vitsac-sookwo-2026-11-16:0,0.07,-1.28,-1.28,-1.28,True
+2026-11-17T11:26:01+00:00,perot v vales,False,kalshi:KXATPCHALLENGERMATCH-26NOV17VALPER-VAL:yes,0.22,227,True,0.0073,40.6,hedged,polyus:aec-atp-amival-rapper-2026-11-16:1,0.76,1.66,-8.81,1.66,True
+2026-11-17T11:29:35+00:00,lajovic v nagel,True,polyus:aec-atp-artnag-duslaj-2026-11-16:1,0.29,172,True,0.0245,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV17NAGLAJ-NAG:yes,0.77,-12.45,-12.44,-12.44,True
