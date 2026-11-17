@@ -2,26 +2,12 @@
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
   "kalshi": 340.88,
-  "polyus": 340.88
+  "polyus": 504.88
  },
- "open": [
-  {
-   "id": "1f994e21f6a9",
-   "key": "shelton v zverev",
-   "opened": "2026-11-17T20:53:59+00:00",
-   "kalshi_ticker": "KXATPMATCH-26NOV17ZVESHE-ZVE",
-   "kalshi_side": "no",
-   "shares": {
-    "polyus": 164.0,
-    "kalshi": 164.0
-   },
-   "cost": 161.94,
-   "expected": 2.06
-  }
- ],
- "settled_pnl": 196.68,
+ "open": [],
+ "settled_pnl": 198.74,
  "unwind_pnl": -52.99,
  "fires": 49,
- "settled": 37,
+ "settled": 38,
  "rebalances": 8
 }
