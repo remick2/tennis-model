@@ -600,3 +600,83 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-17T04:50:27+00:00,mcdonald v smith,True,Keegan Smith,kalshi,0.74,Niels McDonald,polyus,0.22,0.9854,0.0,0.0,0.0,0.0,0.78,,,0.0,True,2026-11-17T04:49:57+00:00
 2026-11-17T04:50:37+00:00,becroft v ellis,True,Blake Ellis,polyus,0.1,Isaac Becroft,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,,0.91,,0.0,True,2026-11-17T04:50:07+00:00
 2026-11-17T04:50:47+00:00,becroft v ellis,True,Blake Ellis,polyus,0.1,Isaac Becroft,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,,0.91,,0.0,True,2026-11-17T04:50:07+00:00
+2026-11-17T04:50:57+00:00,becroft v ellis,True,Blake Ellis,polyus,0.09,Isaac Becroft,kalshi,0.88,0.9831,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-17T04:50:07+00:00
+2026-11-17T04:51:17+00:00,li tu v mccabe,True,James McCabe,polyus,0.36,Li Tu,kalshi,0.53,0.9234,0.0,0.0,0.0,0.0,,0.65,,0.0,True,2026-11-17T04:51:17+00:00
+2026-11-17T04:51:27+00:00,li tu v mccabe,True,James McCabe,polyus,0.36,Li Tu,kalshi,0.53,0.9234,0.0,0.0,0.0,0.0,,0.65,,0.0,True,2026-11-17T04:51:17+00:00
+2026-11-17T04:51:27+00:00,moriya v pham,True,Derek Pham,polyus,0.27,Hiroki Moriya,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.75,,0.0,True,2026-11-17T04:51:27+00:00
+2026-11-17T04:52:07+00:00,moriya v pham,True,Derek Pham,kalshi,0.27,Hiroki Moriya,polyus,0.7,0.9984,0.0,0.0,0.0,0.0,0.31,,,0.0,True,2026-11-17T04:52:07+00:00
+2026-11-17T04:52:17+00:00,moriya v pham,True,Derek Pham,kalshi,0.27,Hiroki Moriya,polyus,0.7,0.9984,0.0,0.0,0.0,0.0,0.31,,,0.0,True,2026-11-17T04:52:07+00:00
+2026-11-17T04:52:37+00:00,moriya v pham,True,Derek Pham,polyus,0.27,Hiroki Moriya,kalshi,0.69,0.9887,0.0,0.0,0.0,0.0,,0.74,,0.0,True,2026-11-17T04:52:37+00:00
+2026-11-17T04:52:47+00:00,moriya v pham,True,Derek Pham,polyus,0.27,Hiroki Moriya,kalshi,0.69,0.9887,0.0,0.0,0.0,0.0,,0.74,,0.0,True,2026-11-17T04:52:37+00:00
+2026-11-17T04:52:57+00:00,moriya v pham,True,Derek Pham,polyus,0.27,Hiroki Moriya,kalshi,0.69,0.9887,0.0,0.0,0.0,0.0,,0.75,,0.0,True,2026-11-17T04:52:37+00:00
+2026-11-17T04:53:07+00:00,moriya v pham,True,Derek Pham,polyus,0.2,Hiroki Moriya,kalshi,0.75,0.9742,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-17T04:52:37+00:00
+2026-11-17T04:53:07+00:00,becroft v ellis,True,Blake Ellis,polyus,0.06,Isaac Becroft,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-17T04:53:07+00:00
+2026-11-17T04:53:17+00:00,moriya v pham,True,Derek Pham,polyus,0.2,Hiroki Moriya,kalshi,0.75,0.9742,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-17T04:52:37+00:00
+2026-11-17T04:53:17+00:00,becroft v ellis,True,Blake Ellis,polyus,0.06,Isaac Becroft,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-17T04:53:07+00:00
+2026-11-17T04:53:27+00:00,moriya v pham,True,Derek Pham,polyus,0.19,Hiroki Moriya,kalshi,0.75,0.9638,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-17T04:52:37+00:00
+2026-11-17T04:53:27+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.55,Kaichi Uchida,polyus,0.39,0.9739,0.0,0.0,0.0,0.0,0.62,,,0.0,True,2026-11-17T04:53:27+00:00
+2026-11-17T04:53:27+00:00,becroft v ellis,True,Blake Ellis,polyus,0.06,Isaac Becroft,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-17T04:53:07+00:00
+2026-11-17T04:53:37+00:00,moriya v pham,True,Derek Pham,polyus,0.12,Hiroki Moriya,kalshi,0.75,0.8905,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-17T04:52:37+00:00
+2026-11-17T04:53:37+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.55,Kaichi Uchida,polyus,0.39,0.9739,0.0,0.0,0.0,0.0,0.62,,,0.0,True,2026-11-17T04:53:27+00:00
+2026-11-17T04:53:37+00:00,becroft v ellis,True,Blake Ellis,polyus,0.05,Isaac Becroft,kalshi,0.93,0.9879,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-17T04:53:07+00:00
+2026-11-17T04:53:47+00:00,moriya v pham,True,Derek Pham,polyus,0.13,Hiroki Moriya,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-17T04:52:37+00:00
+2026-11-17T04:53:47+00:00,becroft v ellis,True,Blake Ellis,polyus,0.03,Isaac Becroft,kalshi,0.95,0.9853,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-17T04:53:07+00:00
+2026-11-17T04:53:57+00:00,moriya v pham,True,Derek Pham,polyus,0.13,Hiroki Moriya,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-17T04:52:37+00:00
+2026-11-17T04:53:57+00:00,becroft v ellis,True,Blake Ellis,polyus,0.03,Isaac Becroft,kalshi,0.95,0.9853,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-17T04:53:07+00:00
+2026-11-17T04:54:07+00:00,moriya v pham,True,Derek Pham,polyus,0.13,Hiroki Moriya,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-17T04:52:37+00:00
+2026-11-17T04:54:07+00:00,becroft v ellis,True,Blake Ellis,polyus,0.03,Isaac Becroft,kalshi,0.95,0.9853,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-17T04:53:07+00:00
+2026-11-17T04:55:17+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.59,Kaichi Uchida,polyus,0.37,0.9931,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-17T04:55:17+00:00
+2026-11-17T04:55:17+00:00,moriya v pham,True,Derek Pham,kalshi,0.13,Hiroki Moriya,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.16,,,0.0,True,2026-11-17T04:55:17+00:00
+2026-11-17T04:55:27+00:00,moriya v pham,True,Derek Pham,kalshi,0.13,Hiroki Moriya,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.16,,,0.0,True,2026-11-17T04:55:17+00:00
+2026-11-17T04:55:37+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.58,Kaichi Uchida,kalshi,0.37,0.9832,0.0,0.0,0.0,0.0,,0.43,,0.0,True,2026-11-17T04:55:37+00:00
+2026-11-17T04:55:47+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.58,Kaichi Uchida,kalshi,0.37,0.9832,0.0,0.0,0.0,0.0,,0.43,,0.0,True,2026-11-17T04:55:37+00:00
+2026-11-17T04:55:57+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.59,Kaichi Uchida,kalshi,0.37,0.9931,0.0,0.0,0.0,0.0,,0.42,,0.0,True,2026-11-17T04:55:37+00:00
+2026-11-17T04:56:07+00:00,moriya v pham,True,Derek Pham,polyus,0.14,Hiroki Moriya,kalshi,0.83,0.9882,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-17T04:56:07+00:00
+2026-11-17T04:56:17+00:00,moriya v pham,True,Derek Pham,polyus,0.14,Hiroki Moriya,kalshi,0.83,0.9882,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-17T04:56:07+00:00
+2026-11-17T04:56:17+00:00,holmgren v suresh,True,August Holmgren,kalshi,0.89,Dhakshineswar Suresh,polyus,0.09,0.9925,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-17T04:56:17+00:00
+2026-11-17T04:56:27+00:00,moriya v pham,True,Derek Pham,polyus,0.14,Hiroki Moriya,kalshi,0.83,0.9882,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-17T04:56:07+00:00
+2026-11-17T04:56:27+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.58,Kaichi Uchida,polyus,0.38,0.9934,0.0,0.0,0.0,0.0,0.63,,,0.0,True,2026-11-17T04:56:27+00:00
+2026-11-17T04:56:57+00:00,hassan v uchida,True,Benjamin Hassan,kalshi,0.59,Kaichi Uchida,polyus,0.36,0.9829,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-17T04:56:57+00:00
+2026-11-17T04:56:57+00:00,moriya v pham,True,Derek Pham,polyus,0.11,Hiroki Moriya,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-17T04:56:57+00:00
+2026-11-17T04:57:07+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.59,Kaichi Uchida,kalshi,0.36,0.9829,0.0,0.0,0.0,0.0,,0.42,,0.0,True,2026-11-17T04:57:07+00:00
+2026-11-17T04:57:07+00:00,moriya v pham,True,Derek Pham,polyus,0.11,Hiroki Moriya,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-17T04:56:57+00:00
+2026-11-17T04:57:17+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.59,Kaichi Uchida,kalshi,0.36,0.9829,0.0,0.0,0.0,0.0,,0.42,,0.0,True,2026-11-17T04:57:07+00:00
+2026-11-17T04:57:17+00:00,moriya v pham,True,Derek Pham,polyus,0.11,Hiroki Moriya,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-17T04:56:57+00:00
+2026-11-17T04:57:27+00:00,hassan v uchida,True,Benjamin Hassan,polyus,0.55,Kaichi Uchida,kalshi,0.36,0.9433,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-17T04:57:07+00:00
+2026-11-17T04:57:57+00:00,moriya v pham,True,Derek Pham,polyus,0.09,Hiroki Moriya,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-17T04:57:57+00:00
+2026-11-17T04:58:07+00:00,moriya v pham,True,Derek Pham,polyus,0.09,Hiroki Moriya,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-17T04:57:57+00:00
+2026-11-17T04:58:47+00:00,li tu v mccabe,True,James McCabe,polyus,0.27,Li Tu,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.74,,0.0,True,2026-11-17T04:58:47+00:00
+2026-11-17T04:59:07+00:00,li tu v mccabe,True,James McCabe,polyus,0.2,Li Tu,kalshi,0.7,0.9258,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-17T04:59:07+00:00
+2026-11-17T04:59:17+00:00,moriya v pham,True,Derek Pham,kalshi,0.11,Hiroki Moriya,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-17T04:59:17+00:00
+2026-11-17T04:59:27+00:00,li tu v mccabe,True,James McCabe,polyus,0.11,Li Tu,kalshi,0.82,0.9471,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-17T04:59:27+00:00
+2026-11-17T04:59:27+00:00,moriya v pham,True,Derek Pham,kalshi,0.11,Hiroki Moriya,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-17T04:59:17+00:00
+2026-11-17T04:59:37+00:00,li tu v mccabe,True,James McCabe,polyus,0.05,Li Tu,kalshi,0.82,0.8836,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-17T04:59:27+00:00
+2026-11-17T04:59:47+00:00,moriya v pham,True,Derek Pham,kalshi,0.16,Hiroki Moriya,polyus,0.81,0.9901,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-17T04:59:47+00:00
+2026-11-17T04:59:57+00:00,moriya v pham,True,Derek Pham,kalshi,0.16,Hiroki Moriya,polyus,0.81,0.9901,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-17T04:59:47+00:00
+2026-11-17T05:00:07+00:00,holmgren v suresh,True,August Holmgren,polyus,0.85,Dhakshineswar Suresh,kalshi,0.13,0.9968,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-17T05:00:07+00:00
+2026-11-17T05:00:37+00:00,moriya v pham,True,Derek Pham,polyus,0.11,Hiroki Moriya,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-17T05:00:37+00:00
+2026-11-17T05:00:47+00:00,moriya v pham,True,Derek Pham,polyus,0.11,Hiroki Moriya,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-17T05:00:37+00:00
+2026-11-17T05:00:47+00:00,holmgren v suresh,True,August Holmgren,polyus,0.81,Dhakshineswar Suresh,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,,0.2,,0.0,True,2026-11-17T05:00:47+00:00
+2026-11-17T05:00:57+00:00,moriya v pham,True,Derek Pham,polyus,0.11,Hiroki Moriya,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-17T05:00:37+00:00
+2026-11-17T05:00:57+00:00,holmgren v suresh,True,August Holmgren,polyus,0.81,Dhakshineswar Suresh,kalshi,0.16,0.9901,0.11,66243.70999999999,0.11,0.0,0.81,0.14,0.9691,0.0,True,2026-11-17T05:00:47+00:00
+2026-11-17T05:01:07+00:00,holmgren v suresh,True,August Holmgren,kalshi,0.83,Dhakshineswar Suresh,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-17T05:01:07+00:00
+2026-11-17T05:01:17+00:00,holmgren v suresh,True,August Holmgren,kalshi,0.83,Dhakshineswar Suresh,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-17T05:01:07+00:00
+2026-11-17T05:01:27+00:00,li tu v mccabe,True,James McCabe,kalshi,0.05,Li Tu,polyus,0.92,0.9784,0.0,0.0,0.0,0.0,0.09,,,0.0,True,2026-11-17T05:01:27+00:00
+2026-11-17T05:01:27+00:00,holmgren v suresh,True,August Holmgren,kalshi,0.83,Dhakshineswar Suresh,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-17T05:01:07+00:00
+2026-11-17T05:01:47+00:00,holmgren v suresh,True,August Holmgren,polyus,0.82,Dhakshineswar Suresh,kalshi,0.14,0.9787,0.0,0.0,0.0,0.0,,0.19,,0.0,True,2026-11-17T05:01:47+00:00
+2026-11-17T05:01:47+00:00,li tu v mccabe,True,James McCabe,polyus,0.06,Li Tu,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-17T05:01:47+00:00
+2026-11-17T05:01:47+00:00,moriya v pham,True,Derek Pham,polyus,0.09,Hiroki Moriya,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-17T05:01:47+00:00
+2026-11-17T05:01:57+00:00,holmgren v suresh,True,August Holmgren,polyus,0.82,Dhakshineswar Suresh,kalshi,0.14,0.9787,0.0,0.0,0.0,0.0,,0.19,,0.0,True,2026-11-17T05:01:47+00:00
+2026-11-17T05:01:57+00:00,moriya v pham,True,Derek Pham,polyus,0.09,Hiroki Moriya,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-17T05:01:47+00:00
+2026-11-17T05:01:57+00:00,li tu v mccabe,True,James McCabe,polyus,0.07,Li Tu,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-17T05:01:47+00:00
+2026-11-17T05:02:07+00:00,li tu v mccabe,True,James McCabe,polyus,0.04,Li Tu,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-17T05:01:47+00:00
+2026-11-17T05:02:17+00:00,li tu v mccabe,True,James McCabe,polyus,0.04,Li Tu,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-17T05:01:47+00:00
+2026-11-17T05:02:27+00:00,holmgren v suresh,True,August Holmgren,polyus,0.69,Dhakshineswar Suresh,kalshi,0.19,0.9056,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-17T05:02:27+00:00
+2026-11-17T05:02:57+00:00,li tu v mccabe,True,James McCabe,polyus,0.02,Li Tu,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.0,True,2026-11-17T05:02:57+00:00
+2026-11-17T05:03:27+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,polyus,0.21,Rio Noguchi,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-17T05:03:27+00:00
+2026-11-17T05:03:37+00:00,moriya v pham,True,Derek Pham,polyus,0.07,Hiroki Moriya,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-17T05:03:37+00:00
+2026-11-17T05:04:07+00:00,mcdonald v smith,True,Keegan Smith,polyus,0.8,Niels McDonald,kalshi,0.16,0.9805,0.0,0.0,0.0,0.0,,0.21,,0.0,True,2026-11-17T05:04:07+00:00
+2026-11-17T05:04:27+00:00,kang v noguchi,True,Mitsuki Wei Kang Leong,kalshi,0.23,Rio Noguchi,polyus,0.74,0.9958,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-17T05:04:27+00:00
+2026-11-17T05:04:37+00:00,holmgren v suresh,True,August Holmgren,kalshi,0.69,Dhakshineswar Suresh,polyus,0.28,0.999,0.0,0.0,0.0,0.0,0.73,,,0.0,True,2026-11-17T05:04:37+00:00
+2026-11-17T05:04:57+00:00,holmgren v suresh,True,August Holmgren,kalshi,0.73,Dhakshineswar Suresh,polyus,0.24,0.9965,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-17T05:04:57+00:00
+2026-11-17T05:05:07+00:00,holmgren v suresh,True,August Holmgren,kalshi,0.73,Dhakshineswar Suresh,polyus,0.24,0.9965,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-17T05:04:57+00:00
