@@ -1,4 +1,4 @@
-# Consensus paper tracker — Mon Nov 16, 10:40PM MT
+# Consensus paper tracker — Mon Nov 16, 11:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 7-2 | +4.93 | 4-1 | +0.36 | 0 |
-| 2 agree | all 15 | 22-16 | +1.75 | 25-22 | -4.15 | 3 |
+| 2 agree | all 15 | 22-16 | +1.75 | 25-22 | -4.15 | 4 |
 | 2+ agree, 1+ against (split) | all 15 | 26-14 | +12.07 | 27-18 | +7.41 | 0 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 12-7 | +3.93 | 14-9 | +0.69 | 3 |
+| 2 agree | core 10 only | 12-7 | +3.93 | 14-9 | +0.69 | 4 |
 | 2+ agree, 1+ against (split) | core 10 only | 9-4 | +5.83 | 10-8 | -0.98 | 0 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 9 of 30 graded plays · net +4.61u · 7 wins vs 5.0 expected, z = +1.41 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
@@ -81,3 +81,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+15.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 55.0c |
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+16.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 52.5c |
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
+| new | 2026-11-17 | NBA | Pistons vs. Spurs | Spurs (Moneyline) | 2 agree, 0 against | pre-game | purplegatto; drainedandpoor | — | 76.5c |
