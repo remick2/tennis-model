@@ -311,3 +311,102 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-18T14:09:21+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.13,Matthew William Donald,polyus,0.81,0.9586,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-18T14:09:21+00:00
 2026-11-18T14:09:31+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.13,Matthew William Donald,polyus,0.81,0.9586,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-18T14:09:21+00:00
 2026-11-18T14:09:41+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.13,Matthew William Donald,polyus,0.81,0.9586,0.0,0.0,0.0,0.0,0.21,,,0.0,True,2026-11-18T14:09:21+00:00
+2026-11-18T14:10:41+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.14,Matthew William Donald,polyus,0.81,0.9691,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-18T14:10:41+00:00
+2026-11-18T14:11:01+00:00,donald v taberner,True,Carlos Taberner,polyus,0.13,Matthew William Donald,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-18T14:11:01+00:00
+2026-11-18T14:11:11+00:00,donald v taberner,True,Carlos Taberner,polyus,0.13,Matthew William Donald,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-18T14:11:01+00:00
+2026-11-18T14:11:21+00:00,donald v taberner,True,Carlos Taberner,polyus,0.1,Matthew William Donald,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-18T14:11:01+00:00
+2026-11-18T14:11:31+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.14,Matthew William Donald,polyus,0.8,0.9595,0.0,0.0,0.0,0.0,0.21,,,0.0,True,2026-11-18T14:11:31+00:00
+2026-11-18T14:11:41+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.14,Matthew William Donald,polyus,0.8,0.9595,0.0,0.0,0.0,0.0,0.21,,,0.0,True,2026-11-18T14:11:31+00:00
+2026-11-18T14:11:51+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.14,Matthew William Donald,polyus,0.83,0.9882,0.0,0.0,0.0,0.0,0.21,,,0.0,True,2026-11-18T14:11:31+00:00
+2026-11-18T14:11:51+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.49,Laslo Djere,kalshi,0.47,0.9948,0.0,0.0,0.0,0.0,,0.52,,0.0,True,2026-11-18T14:11:51+00:00
+2026-11-18T14:12:01+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.49,Laslo Djere,kalshi,0.47,0.9948,0.0,0.0,0.0,0.0,,0.52,,0.0,True,2026-11-18T14:11:51+00:00
+2026-11-18T14:12:11+00:00,donald v taberner,True,Carlos Taberner,polyus,0.14,Matthew William Donald,kalshi,0.81,0.9691,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-18T14:12:11+00:00
+2026-11-18T14:12:21+00:00,donald v taberner,True,Carlos Taberner,polyus,0.14,Matthew William Donald,kalshi,0.81,0.9691,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-18T14:12:11+00:00
+2026-11-18T14:12:31+00:00,donald v taberner,True,Carlos Taberner,polyus,0.16,Matthew William Donald,kalshi,0.81,0.9901,0.0,0.0,0.0,0.0,,0.85,,0.0,True,2026-11-18T14:12:11+00:00
+2026-11-18T14:12:51+00:00,donald v taberner,True,Carlos Taberner,polyus,0.09,Matthew William Donald,kalshi,0.87,0.9736,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-18T14:12:51+00:00
+2026-11-18T14:12:51+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.45,Laslo Djere,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-18T14:12:51+00:00
+2026-11-18T14:13:01+00:00,donald v taberner,True,Carlos Taberner,polyus,0.09,Matthew William Donald,kalshi,0.87,0.9736,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-18T14:12:51+00:00
+2026-11-18T14:13:01+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.45,Laslo Djere,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-18T14:12:51+00:00
+2026-11-18T14:13:31+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.5,Laslo Djere,polyus,0.45,0.9847,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-18T14:13:31+00:00
+2026-11-18T14:14:01+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.5,Laslo Djere,kalshi,0.45,0.9847,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-18T14:14:01+00:00
+2026-11-18T14:14:11+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.5,Laslo Djere,kalshi,0.45,0.9847,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-18T14:14:01+00:00
+2026-11-18T14:14:11+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.23,Michele Ribecai,polyus,0.74,0.9958,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-18T14:14:11+00:00
+2026-11-18T14:14:21+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.45,Laslo Djere,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.0,True,2026-11-18T14:14:01+00:00
+2026-11-18T14:14:31+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.45,Laslo Djere,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.0,True,2026-11-18T14:14:01+00:00
+2026-11-18T14:15:01+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.2,Michele Ribecai,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-18T14:15:01+00:00
+2026-11-18T14:15:01+00:00,budkov v rodionov,True,Jurij Rodionov,polyus,0.24,Nicolai Budkov Kjaer,kalshi,0.72,0.9868,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-18T14:15:01+00:00
+2026-11-18T14:15:11+00:00,budkov v rodionov,True,Jurij Rodionov,polyus,0.24,Nicolai Budkov Kjaer,kalshi,0.72,0.9868,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-18T14:15:01+00:00
+2026-11-18T14:15:21+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.14,Michele Ribecai,kalshi,0.81,0.9691,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-18T14:15:21+00:00
+2026-11-18T14:15:31+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.14,Michele Ribecai,kalshi,0.81,0.9691,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-18T14:15:21+00:00
+2026-11-18T14:15:41+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.14,Michele Ribecai,kalshi,0.81,0.9691,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-18T14:15:21+00:00
+2026-11-18T14:15:41+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.5,Laslo Djere,polyus,0.44,0.9746,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-18T14:15:41+00:00
+2026-11-18T14:16:01+00:00,budkov v rodionov,True,Jurij Rodionov,kalshi,0.26,Nicolai Budkov Kjaer,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-18T14:16:01+00:00
+2026-11-18T14:16:21+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.51,Laslo Djere,kalshi,0.44,0.9846,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-18T14:16:21+00:00
+2026-11-18T14:16:21+00:00,donald v taberner,True,Carlos Taberner,polyus,0.06,Matthew William Donald,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-18T14:16:21+00:00
+2026-11-18T14:16:31+00:00,donald v taberner,True,Carlos Taberner,polyus,0.05,Matthew William Donald,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-18T14:16:21+00:00
+2026-11-18T14:16:31+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.51,Laslo Djere,kalshi,0.44,0.9846,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-18T14:16:21+00:00
+2026-11-18T14:16:41+00:00,budkov v rodionov,True,Jurij Rodionov,polyus,0.24,Nicolai Budkov Kjaer,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-18T14:16:41+00:00
+2026-11-18T14:16:51+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.51,Laslo Djere,polyus,0.44,0.9846,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-18T14:16:51+00:00
+2026-11-18T14:16:51+00:00,budkov v rodionov,True,Jurij Rodionov,polyus,0.24,Nicolai Budkov Kjaer,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-18T14:16:41+00:00
+2026-11-18T14:17:01+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.51,Laslo Djere,polyus,0.44,0.9846,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-18T14:16:51+00:00
+2026-11-18T14:17:01+00:00,budkov v rodionov,True,Jurij Rodionov,polyus,0.24,Nicolai Budkov Kjaer,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-18T14:16:41+00:00
+2026-11-18T14:17:01+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.06,Matthew William Donald,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-18T14:17:01+00:00
+2026-11-18T14:17:11+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.05,Matthew William Donald,polyus,0.93,0.9878,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-18T14:17:01+00:00
+2026-11-18T14:17:21+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.51,Laslo Djere,kalshi,0.44,0.9846,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-18T14:17:21+00:00
+2026-11-18T14:17:21+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.05,Matthew William Donald,polyus,0.93,0.9878,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-18T14:17:01+00:00
+2026-11-18T14:17:21+00:00,budkov v rodionov,True,Jurij Rodionov,kalshi,0.24,Nicolai Budkov Kjaer,polyus,0.73,0.9965,47.36,0.0,0.0,0.0,0.24,0.78,1.0447,0.1,True,2026-11-18T14:17:21+00:00
+2026-11-18T14:17:31+00:00,budkov v rodionov,True,Jurij Rodionov,polyus,0.15,Nicolai Budkov Kjaer,kalshi,0.77,0.9413,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-18T14:17:31+00:00
+2026-11-18T14:17:31+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.51,Laslo Djere,kalshi,0.44,0.9846,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-18T14:17:21+00:00
+2026-11-18T14:17:31+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.05,Matthew William Donald,polyus,0.93,0.9878,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-18T14:17:01+00:00
+2026-11-18T14:17:41+00:00,budkov v rodionov,True,Jurij Rodionov,polyus,0.15,Nicolai Budkov Kjaer,kalshi,0.8,0.9701,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-18T14:17:31+00:00
+2026-11-18T14:17:51+00:00,budkov v rodionov,True,Jurij Rodionov,polyus,0.15,Nicolai Budkov Kjaer,kalshi,0.8,0.9701,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-18T14:17:31+00:00
+2026-11-18T14:17:51+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.08,Matthew William Donald,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.11,,,0.0,True,2026-11-18T14:17:51+00:00
+2026-11-18T14:17:51+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.11,Michele Ribecai,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-18T14:17:51+00:00
+2026-11-18T14:18:01+00:00,budkov v rodionov,True,Jurij Rodionov,polyus,0.15,Nicolai Budkov Kjaer,kalshi,0.8,0.9701,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-18T14:17:31+00:00
+2026-11-18T14:18:01+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.51,Laslo Djere,polyus,0.43,0.9745,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-18T14:18:01+00:00
+2026-11-18T14:18:01+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.08,Matthew William Donald,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-18T14:17:51+00:00
+2026-11-18T14:18:01+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.11,Michele Ribecai,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-18T14:17:51+00:00
+2026-11-18T14:18:11+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.11,Michele Ribecai,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-18T14:18:11+00:00
+2026-11-18T14:18:21+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.52,Laslo Djere,kalshi,0.43,0.9845,0.0,0.0,0.0,0.0,,0.49,,0.0,True,2026-11-18T14:18:21+00:00
+2026-11-18T14:18:21+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.11,Michele Ribecai,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-18T14:18:11+00:00
+2026-11-18T14:18:31+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.52,Laslo Djere,kalshi,0.43,0.9845,0.0,0.0,0.0,0.0,,0.49,,0.0,True,2026-11-18T14:18:21+00:00
+2026-11-18T14:18:41+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.11,Michele Ribecai,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-18T14:18:41+00:00
+2026-11-18T14:18:51+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.11,Michele Ribecai,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-18T14:18:41+00:00
+2026-11-18T14:18:51+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.47,Laslo Djere,kalshi,0.49,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-18T14:18:51+00:00
+2026-11-18T14:19:01+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.11,Michele Ribecai,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.15,,,0.0,True,2026-11-18T14:18:41+00:00
+2026-11-18T14:19:01+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.47,Laslo Djere,kalshi,0.49,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-18T14:18:51+00:00
+2026-11-18T14:19:21+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.16,Michele Ribecai,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-18T14:19:21+00:00
+2026-11-18T14:19:31+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.16,Michele Ribecai,polyus,0.81,0.9901,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-18T14:19:21+00:00
+2026-11-18T14:19:51+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.14,Matthew William Donald,polyus,0.81,0.9691,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-18T14:19:51+00:00
+2026-11-18T14:20:01+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.14,Matthew William Donald,polyus,0.81,0.9691,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-18T14:19:51+00:00
+2026-11-18T14:20:01+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.15,Michele Ribecai,kalshi,0.81,0.9796,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-18T14:20:01+00:00
+2026-11-18T14:20:11+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.14,Matthew William Donald,polyus,0.78,0.9404,0.0,0.0,0.0,0.0,0.23,,,0.0,True,2026-11-18T14:19:51+00:00
+2026-11-18T14:20:11+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.15,Michele Ribecai,kalshi,0.81,0.9796,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-18T14:20:01+00:00
+2026-11-18T14:20:21+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.23,Matthew William Donald,polyus,0.7,0.957,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-18T14:19:51+00:00
+2026-11-18T14:20:31+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.23,Matthew William Donald,polyus,0.7,0.957,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-18T14:19:51+00:00
+2026-11-18T14:20:31+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.12,Michele Ribecai,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-18T14:20:31+00:00
+2026-11-18T14:20:41+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.23,Matthew William Donald,polyus,0.72,0.9764,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-18T14:19:51+00:00
+2026-11-18T14:20:41+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.12,Michele Ribecai,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-18T14:20:31+00:00
+2026-11-18T14:21:01+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.12,Michele Ribecai,polyus,0.86,0.9958,0.0,0.0,0.0,0.0,0.15,,,0.0,True,2026-11-18T14:21:01+00:00
+2026-11-18T14:21:11+00:00,donald v taberner,True,Carlos Taberner,polyus,0.15,Matthew William Donald,kalshi,0.77,0.9413,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-18T14:21:11+00:00
+2026-11-18T14:21:11+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.12,Michele Ribecai,polyus,0.86,0.9958,0.0,0.0,0.0,0.0,0.15,,,0.0,True,2026-11-18T14:21:01+00:00
+2026-11-18T14:21:21+00:00,donald v taberner,True,Carlos Taberner,polyus,0.15,Matthew William Donald,kalshi,0.77,0.9413,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-18T14:21:11+00:00
+2026-11-18T14:21:31+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.24,Matthew William Donald,polyus,0.72,0.9868,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-18T14:21:31+00:00
+2026-11-18T14:21:41+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.15,Matthew William Donald,polyus,0.72,0.8929,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-18T14:21:31+00:00
+2026-11-18T14:21:51+00:00,donald v taberner,True,Carlos Taberner,kalshi,0.15,Matthew William Donald,polyus,0.73,0.9026,0.0,0.0,0.0,0.0,0.26,,,0.0,True,2026-11-18T14:21:31+00:00
+2026-11-18T14:21:51+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.16,Michele Ribecai,polyus,0.81,0.9901,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-18T14:21:51+00:00
+2026-11-18T14:22:01+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.16,Michele Ribecai,polyus,0.81,0.9901,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-18T14:21:51+00:00
+2026-11-18T14:22:01+00:00,alcaraz v medvedev,True,Carlos Alcaraz,polyus,0.96,Daniil Medvedev,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,,0.05,,0.0,True,2026-11-18T14:22:01+00:00
+2026-11-18T14:22:11+00:00,alcaraz v medvedev,True,Carlos Alcaraz,polyus,0.96,Daniil Medvedev,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,,0.05,,0.0,True,2026-11-18T14:22:01+00:00
+2026-11-18T14:22:31+00:00,donald v taberner,True,Carlos Taberner,polyus,0.06,Matthew William Donald,kalshi,0.86,0.9323,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-18T14:22:31+00:00
+2026-11-18T14:22:31+00:00,alcaraz v medvedev,True,Carlos Alcaraz,polyus,0.96,Daniil Medvedev,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,,0.06,,0.0,True,2026-11-18T14:22:31+00:00
+2026-11-18T14:22:41+00:00,donald v taberner,True,Carlos Taberner,polyus,0.06,Matthew William Donald,kalshi,0.84,0.9133,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-18T14:22:31+00:00
+2026-11-18T14:22:41+00:00,alcaraz v medvedev,True,Carlos Alcaraz,kalshi,0.95,Daniil Medvedev,polyus,0.03,0.9853,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-18T14:22:41+00:00
+2026-11-18T14:22:41+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.22,Michele Ribecai,polyus,0.74,0.9854,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-18T14:22:41+00:00
+2026-11-18T14:22:51+00:00,donald v taberner,True,Carlos Taberner,polyus,0.06,Matthew William Donald,kalshi,0.84,0.9133,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-18T14:22:31+00:00
+2026-11-18T14:22:51+00:00,alcaraz v medvedev,True,Carlos Alcaraz,kalshi,0.95,Daniil Medvedev,polyus,0.03,0.9853,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-18T14:22:41+00:00
+2026-11-18T14:22:51+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.22,Michele Ribecai,polyus,0.74,0.9854,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-18T14:22:41+00:00
+2026-11-18T14:23:01+00:00,donald v taberner,True,Carlos Taberner,polyus,0.08,Matthew William Donald,kalshi,0.84,0.9345,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-18T14:22:31+00:00
+2026-11-18T14:23:01+00:00,alcaraz v medvedev,True,Carlos Alcaraz,kalshi,0.95,Daniil Medvedev,polyus,0.03,0.9853,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-18T14:22:41+00:00
+2026-11-18T14:23:01+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.22,Michele Ribecai,polyus,0.74,0.9854,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-18T14:22:41+00:00
+2026-11-18T14:24:01+00:00,budkov v rodionov,True,Jurij Rodionov,polyus,0.05,Nicolai Budkov Kjaer,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-18T14:24:01+00:00
