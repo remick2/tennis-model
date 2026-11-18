@@ -633,7 +633,19 @@ def rebalance(L):
 def write_gate():
     try:
         import gate
-        gate.main()
+        status = gate.main()
+        flag = LIVE.LIVE_DIR / "gate_pass_alerted"
+        if status == "PASSED" and not flag.exists():   # tell Remick once, the moment it passes
+            LIVE.LIVE_DIR.mkdir(parents=True, exist_ok=True)
+            flag.write_text(A.now().isoformat(timespec="minutes"))
+            LIVE.issue("ARB GATE PASSED on fresh data: ready for your API keys",
+                       "The fresh-data gate passed (see data/gate.md): 10+ arbs a ready bot would profit from, on 5+ "
+                       "different days, paper fills net positive, feed fresh.\n\nNext steps are yours:\n"
+                       "1. Kalshi: Account settings > API Keys > Create (save the key file)\n"
+                       "2. Polymarket US: polymarket.us/developer > create key (copy the secret)\n"
+                       "3. GitHub repo Settings > Secrets and variables > Actions: add KALSHI_KEY_ID, KALSHI_PRIVATE_KEY, "
+                       "POLY_KEY_ID, POLY_SECRET_KEY\n4. Tell Claude to turn it on.\n\nLive budget is set to $20 total, "
+                       "at most $5 per arb, stop after $10 of one-leg losses in a day or $20 lifetime.")
     except Exception as e:
         print("gate report failed:", repr(e))
 

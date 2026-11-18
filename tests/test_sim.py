@@ -129,4 +129,20 @@ class S:
 A._BUCKET.update(tokens=4.0, t=A.time.time(), blocked_until=0.0)
 check("fresh Polymarket US book is accepted", A.polyus_book("s", session=S(1))[0] is not None)
 check("Polymarket US book older than POLY_MAX_AGE is refused", A.polyus_book("s", session=S(9))[0] is None and A.POLY_STATS["stale"] >= 1)
+# --- live budget ($20 total, $5 per arb)
+lv = LIVE.Live.__new__(LIVE.Live)
+lv.L = {"open": [], "realized": 0.0, "loss_by_day": {}}
+lv.bal, lv.cap, lv.off_reason = {"kalshi": 345.0, "polyus": 355.0}, 25.0, None
+check("live: one leg gets at most ~half of the $5 per-arb budget", lv.cash("kalshi") == 3.0)
+lv.L["open"] = [{"cost": 18.5}]
+check("live: with $18.50 tied up, a leg gets at most ~half of the $1.50 left", abs(lv.cash("polyus") - 1.25) < 1e-9)
+lv.L["open"] = [{"cost": 19.5}]
+lv.gate_pass, lv.force = True, False
+LIVE.LIVE_DIR = Path("/tmp/tennis_test"); (LIVE.LIVE_DIR / "auth_check.json").write_text('{"convention": "yes_price"}')
+check("live: budget fully tied up => no new trades until something settles", lv.active("2026-11-20") is False)
+lv.L["open"] = []
+check("live: budget free, all locks open => active", lv.active("2026-11-20") is True)
+LIVE.issue = lambda *a: None
+lv.L["realized"] = -20.0
+check("live: lifetime P&L at -$20 => live off for good", lv.active("2026-11-20") is False and lv.off_reason)
 print("all checks passed")

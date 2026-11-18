@@ -8,6 +8,8 @@ Nothing here runs unless ALL of these hold:
     override that, by putting the word force on a second line of ENABLED.
   - data/live/auth_check.json (written by the no-trade login test) says convention "yes_price": previews
     proved Polymarket US prices short orders the way this file assumes
+  - budget: at most PER_ARB ($5) per arb and TOTAL_BUDGET ($20) tied up at once; live stops for good if
+    lifetime P&L reaches -TOTAL_BUDGET
   - today's live losses haven't hit DAILY_LOSS_STOP and order errors haven't hit ERROR_STOP
     (either one turns live trading off for the rest of the run and opens a GitHub issue)
 
@@ -37,7 +39,10 @@ ROOT = Path(__file__).resolve().parents[1]
 LIVE_DIR = ROOT / "data" / "live"
 K_BASE, K_PREFIX = "https://api.elections.kalshi.com", "/trade-api/v2"
 P_BASE = "https://api.polymarket.us"
-DAILY_LOSS_STOP = 20.0     # dollars of realized one-leg losses in a UTC day -> live off
+# Remick's first live test (Nov 18): "a budget of like $20 ... dont spend all 20 on one arb. ration it out"
+TOTAL_BUDGET = 20.0        # max dollars tied up in open live positions at once, AND the lifetime loss stop
+PER_ARB = 5.0              # max dollars per arb, both legs together (so the budget covers 4+ arbs at once)
+DAILY_LOSS_STOP = 10.0     # dollars of realized one-leg losses in a UTC day -> live off
 ERROR_STOP = 3             # order API errors in a run -> live off
 UNWIND_MAX_LOSS = 0.06     # unwind sell accepts up to 6c/share below what we paid
 
@@ -226,10 +231,20 @@ class Live:
                 return False
         except (OSError, ValueError):
             return False
+        if self.L.get("realized", 0.0) <= -TOTAL_BUDGET:   # settled P&L, unwind losses included
+            self.turn_off(f"lifetime live P&L hit -${TOTAL_BUDGET:.0f} (the whole test budget)")
+            return False
+        if self.budget_left() < 1.0:
+            return False   # budget fully tied up in open matches: wait for settlements
         return self.L["loss_by_day"].get(day, 0.0) < DAILY_LOSS_STOP
 
+    def budget_left(self):
+        return TOTAL_BUDGET - sum(p["cost"] for p in self.L["open"])
+
     def cash(self, venue):
-        return min(self.bal[venue] or 0.0, self.cap or 0.0)
+        """Max spend on ONE leg: the real balance, the ENABLED cap, and half of what's left of the per-arb and
+        total budgets (the two legs of a pair cost about $1 together, so each side gets at most half)."""
+        return min(self.bal[venue] or 0.0, self.cap or 0.0, PER_ARB / 2 + 0.5, max(0.0, self.budget_left()) / 2 + 0.5)
 
     def turn_off(self, reason):
         self.off_reason = reason
