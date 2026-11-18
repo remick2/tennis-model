@@ -1,4 +1,4 @@
-# Consensus paper tracker — Tue Nov 17, 5:40PM MT
+# Consensus paper tracker — Tue Nov 17, 6:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,7 +10,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 7-2 | +4.93 | 4-1 | +0.36 | 0 |
 | 2 agree | all 15 | 23-16 | +2.69 | 26-22 | -4.09 | 9 |
-| 2+ agree, 1+ against (split) | all 15 | 26-14 | +12.07 | 27-18 | +7.41 | 3 |
+| 2+ agree, 1+ against (split) | all 15 | 26-14 | +12.07 | 27-18 | +7.41 | 4 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 0 |
 | 2 agree | core 10 only | 12-7 | +3.93 | 15-9 | +0.75 | 9 |
 | 2+ agree, 1+ against (split) | core 10 only | 9-4 | +5.83 | 10-8 | -0.98 | 2 |
@@ -90,3 +90,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-17 | NBA | Knicks vs. Raptors | Raptors (Moneyline) | 2 agree, 2 against | pre-game | monkeymashingkeyboard; BreakTheBank | jakepaulthegoat2008; purplegatto | 44.5c |
 | new | 2026-11-17 | CFB | Miami (OH) vs. Kent State | Under 45.5 (Total) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; 0x9f15613e | — | 48.5c |
 | new | 2026-11-17 | NBA | Trail Blazers vs. Timberwolves | Trail Blazers (+2.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; 0x9f15613e | — | 44.5c |
+| new | 2026-11-17 | NBA | Trail Blazers vs. Timberwolves | Timberwolves (-4.5) (Spread) | 2 agree, 1 against | in-play | purplegatto; ch27er | 0x9f15613e | 73.5c |
