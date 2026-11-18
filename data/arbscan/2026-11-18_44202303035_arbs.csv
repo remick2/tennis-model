@@ -737,3 +737,129 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-18T03:18:01+00:00,aboian v kolar,True,Valerio Aboian,kalshi,0.71,Zdenek Kolar,polyus,0.24,0.9771,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-18T03:18:01+00:00
 2026-11-18T03:18:11+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.17,Zachary Viiala,polyus,0.75,0.9429,0.0,0.0,0.0,0.0,0.26,,,0.1,True,2026-11-18T03:18:01+00:00
 2026-11-18T03:18:11+00:00,aboian v kolar,True,Valerio Aboian,kalshi,0.71,Zdenek Kolar,polyus,0.24,0.9771,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-18T03:18:01+00:00
+2026-11-18T03:18:51+00:00,kubler v sekulic,True,Jason Kubler,polyus,0.2,Philip Sekulic,kalshi,0.77,0.9935,0.0,0.0,0.0,0.0,,0.81,,0.1,True,2026-11-18T03:18:51+00:00
+2026-11-18T03:19:01+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.14,Zachary Viiala,kalshi,0.75,0.9115,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-18T03:19:01+00:00
+2026-11-18T03:19:01+00:00,kubler v sekulic,True,Jason Kubler,polyus,0.2,Philip Sekulic,kalshi,0.77,0.9935,0.0,0.0,0.0,0.0,,0.81,,0.1,True,2026-11-18T03:18:51+00:00
+2026-11-18T03:19:01+00:00,hsiou v jorda,True,David Jorda Sanchis,kalshi,0.07,Yu-Hsiou Hsu,polyus,0.92,0.9997,0.0,0.0,0.0,0.0,0.09,,,0.1,True,2026-11-18T03:19:01+00:00
+2026-11-18T03:19:11+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.14,Zachary Viiala,kalshi,0.78,0.9404,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-18T03:19:01+00:00
+2026-11-18T03:19:21+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.14,Zachary Viiala,kalshi,0.78,0.9404,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-18T03:19:01+00:00
+2026-11-18T03:19:31+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.12,Zachary Viiala,kalshi,0.78,0.9194,0.0,0.0,0.0,0.0,,0.91,,0.1,True,2026-11-18T03:19:01+00:00
+2026-11-18T03:19:41+00:00,kubler v sekulic,True,Jason Kubler,polyus,0.15,Philip Sekulic,kalshi,0.81,0.9796,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-18T03:19:41+00:00
+2026-11-18T03:19:41+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.57,Juan Manuel La Serna,kalshi,0.39,0.9937,0.0,0.0,0.0,0.0,,0.44,,0.1,True,2026-11-18T03:19:41+00:00
+2026-11-18T03:19:41+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.11,Zachary Viiala,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.91,,0.1,True,2026-11-18T03:19:01+00:00
+2026-11-18T03:19:51+00:00,kubler v sekulic,True,Jason Kubler,polyus,0.15,Philip Sekulic,kalshi,0.81,0.9796,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-18T03:19:41+00:00
+2026-11-18T03:19:51+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.67,Zdenek Kolar,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.33,,0.1,True,2026-11-18T03:19:51+00:00
+2026-11-18T03:19:51+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.57,Juan Manuel La Serna,kalshi,0.39,0.9937,0.0,0.0,0.0,0.0,,0.45,,0.1,True,2026-11-18T03:19:41+00:00
+2026-11-18T03:20:01+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.14,Zachary Viiala,polyus,0.8,0.9595,0.0,0.0,0.0,0.0,0.21,,,0.1,True,2026-11-18T03:20:01+00:00
+2026-11-18T03:20:01+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.55,Juan Manuel La Serna,kalshi,0.39,0.9739,0.0,0.0,0.0,0.0,,0.46,,0.1,True,2026-11-18T03:19:41+00:00
+2026-11-18T03:20:01+00:00,kubler v sekulic,True,Jason Kubler,polyus,0.15,Philip Sekulic,kalshi,0.81,0.9796,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-18T03:19:41+00:00
+2026-11-18T03:20:01+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.67,Zdenek Kolar,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-18T03:19:51+00:00
+2026-11-18T03:20:01+00:00,jasika v marinkov,True,Omar Jasika,polyus,0.97,Pavle Marinkov,kalshi,0.02,0.9934,0.0,0.0,0.0,0.0,,0.04,,0.1,True,2026-11-18T03:20:01+00:00
+2026-11-18T03:20:11+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.15,Philip Sekulic,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-18T03:20:11+00:00
+2026-11-18T03:20:21+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.15,Philip Sekulic,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-18T03:20:11+00:00
+2026-11-18T03:20:31+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.53,Zdenek Kolar,kalshi,0.34,0.903,0.0,0.0,0.0,0.0,,0.47,,0.1,True,2026-11-18T03:20:31+00:00
+2026-11-18T03:20:31+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.17,Zachary Viiala,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.1,True,2026-11-18T03:20:31+00:00
+2026-11-18T03:20:41+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.16,Zachary Viiala,polyus,0.7,0.884,0.0,0.0,0.0,0.0,0.34,,,0.1,True,2026-11-18T03:20:41+00:00
+2026-11-18T03:20:41+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.53,Zdenek Kolar,kalshi,0.42,0.9844,0.0,0.0,0.0,0.0,,0.48,,0.1,True,2026-11-18T03:20:31+00:00
+2026-11-18T03:20:41+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.17,Philip Sekulic,polyus,0.8,0.991,0.0,0.0,0.0,0.0,0.21,,,0.1,True,2026-11-18T03:20:41+00:00
+2026-11-18T03:20:51+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.16,Zachary Viiala,polyus,0.68,0.8645,0.0,0.0,0.0,0.0,0.34,,,0.1,True,2026-11-18T03:20:41+00:00
+2026-11-18T03:20:51+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.53,Zdenek Kolar,kalshi,0.42,0.9844,0.0,0.0,0.0,0.0,,0.48,,0.1,True,2026-11-18T03:20:31+00:00
+2026-11-18T03:20:51+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.17,Philip Sekulic,polyus,0.8,0.991,0.0,0.0,0.0,0.0,0.21,,,0.1,True,2026-11-18T03:20:41+00:00
+2026-11-18T03:21:01+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.16,Zachary Viiala,polyus,0.67,0.8548,0.0,0.0,0.0,0.0,0.34,,,0.1,True,2026-11-18T03:20:41+00:00
+2026-11-18T03:21:01+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.53,Zdenek Kolar,kalshi,0.42,0.9844,0.0,0.0,0.0,0.0,,0.48,,0.1,True,2026-11-18T03:20:31+00:00
+2026-11-18T03:21:01+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.17,Philip Sekulic,polyus,0.8,0.991,0.0,0.0,0.0,0.0,0.21,,,0.1,True,2026-11-18T03:20:41+00:00
+2026-11-18T03:21:41+00:00,kubler v sekulic,True,Jason Kubler,polyus,0.16,Philip Sekulic,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-18T03:21:41+00:00
+2026-11-18T03:21:41+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.48,Zdenek Kolar,kalshi,0.48,0.9948,0.0,0.0,0.0,0.0,,0.53,,0.1,True,2026-11-18T03:21:41+00:00
+2026-11-18T03:21:51+00:00,kubler v sekulic,True,Jason Kubler,polyus,0.16,Philip Sekulic,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-18T03:21:41+00:00
+2026-11-18T03:21:51+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.48,Zdenek Kolar,kalshi,0.48,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-18T03:21:41+00:00
+2026-11-18T03:22:01+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.34,Zachary Viiala,polyus,0.58,0.9526,0.0,0.0,0.0,0.0,0.42,,,0.1,True,2026-11-18T03:22:01+00:00
+2026-11-18T03:22:11+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.34,Zachary Viiala,polyus,0.58,0.9526,0.0,0.0,0.0,0.0,0.44,,,0.1,True,2026-11-18T03:22:01+00:00
+2026-11-18T03:22:21+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.34,Zachary Viiala,polyus,0.59,0.9625,0.0,0.0,0.0,0.0,0.47,,,0.1,True,2026-11-18T03:22:01+00:00
+2026-11-18T03:22:31+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.14,Philip Sekulic,polyus,0.8,0.9595,0.0,0.0,0.0,0.0,0.21,,,0.1,True,2026-11-18T03:22:31+00:00
+2026-11-18T03:22:41+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.14,Philip Sekulic,polyus,0.8,0.9595,0.0,0.0,0.0,0.0,0.21,,,0.1,True,2026-11-18T03:22:31+00:00
+2026-11-18T03:22:41+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.44,Zachary Viiala,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-18T03:22:41+00:00
+2026-11-18T03:22:51+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.14,Philip Sekulic,polyus,0.81,0.9691,0.0,0.0,0.0,0.0,0.2,,,0.1,True,2026-11-18T03:22:31+00:00
+2026-11-18T03:22:51+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.44,Zachary Viiala,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-18T03:22:41+00:00
+2026-11-18T03:23:21+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.49,Zachary Viiala,polyus,0.43,0.9545,0.0,0.0,0.0,0.0,0.58,,,0.1,True,2026-11-18T03:23:21+00:00
+2026-11-18T03:23:31+00:00,aboian v kolar,True,Valerio Aboian,kalshi,0.49,Zdenek Kolar,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-18T03:23:31+00:00
+2026-11-18T03:23:41+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.51,Zachary Viiala,kalshi,0.43,0.9745,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-18T03:23:41+00:00
+2026-11-18T03:23:41+00:00,aboian v kolar,True,Valerio Aboian,kalshi,0.49,Zdenek Kolar,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-18T03:23:31+00:00
+2026-11-18T03:23:51+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.21,Philip Sekulic,polyus,0.76,0.9943,0.0,0.0,0.0,0.0,0.25,,,0.1,True,2026-11-18T03:23:51+00:00
+2026-11-18T03:23:51+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.53,Zachary Viiala,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,,0.49,,0.1,True,2026-11-18T03:23:41+00:00
+2026-11-18T03:23:51+00:00,aboian v kolar,True,Valerio Aboian,kalshi,0.49,Zdenek Kolar,polyus,0.47,0.9948,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-18T03:23:31+00:00
+2026-11-18T03:24:31+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.47,Zdenek Kolar,kalshi,0.47,0.9747,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-18T03:24:31+00:00
+2026-11-18T03:24:31+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.46,Zachary Viiala,kalshi,0.49,0.9848,0.0,0.0,0.0,0.0,,0.55,,0.1,True,2026-11-18T03:24:31+00:00
+2026-11-18T03:24:41+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.47,Zdenek Kolar,kalshi,0.47,0.9747,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-18T03:24:31+00:00
+2026-11-18T03:24:41+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.46,Zachary Viiala,kalshi,0.49,0.9848,0.0,0.0,0.0,0.0,,0.55,,0.1,True,2026-11-18T03:24:31+00:00
+2026-11-18T03:24:51+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.47,Zdenek Kolar,kalshi,0.44,0.9446,0.0,0.0,0.0,0.0,,0.55,,0.1,True,2026-11-18T03:24:31+00:00
+2026-11-18T03:25:01+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.41,Zdenek Kolar,kalshi,0.44,0.8841,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-18T03:24:31+00:00
+2026-11-18T03:25:11+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.41,Zdenek Kolar,kalshi,0.44,0.8841,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-18T03:24:31+00:00
+2026-11-18T03:25:21+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.41,Zachary Viiala,kalshi,0.54,0.9842,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-18T03:25:21+00:00
+2026-11-18T03:25:31+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.41,Zachary Viiala,kalshi,0.54,0.9842,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-18T03:25:21+00:00
+2026-11-18T03:25:41+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.41,Zachary Viiala,kalshi,0.54,0.9842,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-18T03:25:21+00:00
+2026-11-18T03:26:31+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.35,Zdenek Kolar,kalshi,0.6,0.9826,0.0,0.0,0.0,0.0,,0.66,,0.1,True,2026-11-18T03:26:31+00:00
+2026-11-18T03:26:41+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.35,Zdenek Kolar,kalshi,0.6,0.9826,0.0,0.0,0.0,0.0,,0.66,,0.1,True,2026-11-18T03:26:31+00:00
+2026-11-18T03:27:01+00:00,aboian v kolar,True,Valerio Aboian,kalshi,0.35,Zdenek Kolar,polyus,0.6,0.9826,0.0,0.0,0.0,0.0,0.41,,,0.1,True,2026-11-18T03:27:01+00:00
+2026-11-18T03:27:11+00:00,aboian v kolar,True,Valerio Aboian,kalshi,0.35,Zdenek Kolar,polyus,0.6,0.9826,0.0,0.0,0.0,0.0,0.41,,,0.1,True,2026-11-18T03:27:01+00:00
+2026-11-18T03:27:11+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.26,Philip Sekulic,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-18T03:27:11+00:00
+2026-11-18T03:27:31+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.29,Philip Sekulic,polyus,0.65,0.9702,0.0,0.0,0.0,0.0,0.36,,,0.1,True,2026-11-18T03:27:31+00:00
+2026-11-18T03:27:41+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.29,Philip Sekulic,polyus,0.65,0.9702,0.0,0.0,0.0,0.0,0.36,,,0.1,True,2026-11-18T03:27:31+00:00
+2026-11-18T03:28:11+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.36,Philip Sekulic,polyus,0.54,0.9334,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-18T03:28:11+00:00
+2026-11-18T03:28:21+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.36,Philip Sekulic,polyus,0.53,0.9234,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-18T03:28:11+00:00
+2026-11-18T03:28:21+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.39,Zdenek Kolar,kalshi,0.54,0.9639,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-18T03:28:21+00:00
+2026-11-18T03:28:31+00:00,kubler v sekulic,True,Jason Kubler,kalshi,0.36,Philip Sekulic,polyus,0.53,0.9234,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-18T03:28:11+00:00
+2026-11-18T03:28:31+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.4,Zdenek Kolar,kalshi,0.54,0.9741,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-18T03:28:21+00:00
+2026-11-18T03:29:01+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.43,Zachary Viiala,polyus,0.52,0.9845,0.0,0.0,0.0,0.0,0.49,,,0.1,True,2026-11-18T03:29:01+00:00
+2026-11-18T03:29:01+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.46,Juan Manuel La Serna,kalshi,0.49,0.9848,0.0,0.0,0.0,0.0,,0.55,,0.1,True,2026-11-18T03:29:01+00:00
+2026-11-18T03:29:01+00:00,hsiou v jorda,True,David Jorda Sanchis,polyus,0.07,Yu Hsiou Hsu,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-18T03:29:01+00:00
+2026-11-18T03:29:11+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.46,Juan Manuel La Serna,kalshi,0.5,0.9948,0.0,0.0,0.0,0.0,,0.55,,0.1,True,2026-11-18T03:29:01+00:00
+2026-11-18T03:29:21+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.46,Juan Manuel La Serna,kalshi,0.5,0.9948,0.0,0.0,0.0,0.0,,0.55,,0.1,True,2026-11-18T03:29:01+00:00
+2026-11-18T03:29:21+00:00,hsiou v jorda,True,David Jorda Sanchis,polyus,0.07,Yu Hsiou Hsu,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-18T03:29:21+00:00
+2026-11-18T03:29:31+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.39,Juan Manuel La Serna,kalshi,0.5,0.924,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-18T03:29:01+00:00
+2026-11-18T03:29:31+00:00,hsiou v jorda,True,David Jorda Sanchis,polyus,0.05,Yu Hsiou Hsu,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-18T03:29:21+00:00
+2026-11-18T03:29:41+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.39,Juan Manuel La Serna,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-18T03:29:01+00:00
+2026-11-18T03:29:41+00:00,hsiou v jorda,True,David Jorda Sanchis,polyus,0.05,Yu Hsiou Hsu,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-18T03:29:21+00:00
+2026-11-18T03:29:51+00:00,aboian v kolar,True,Valerio Aboian,kalshi,0.39,Zdenek Kolar,polyus,0.53,0.954,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-18T03:29:51+00:00
+2026-11-18T03:29:51+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.39,Juan Manuel La Serna,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-18T03:29:01+00:00
+2026-11-18T03:29:51+00:00,hsiou v jorda,True,David Jorda Sanchis,polyus,0.05,Yu Hsiou Hsu,kalshi,0.94,0.9972,0.0,0.0,0.0,0.0,,0.96,,0.1,True,2026-11-18T03:29:21+00:00
+2026-11-18T03:30:01+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.31,Juan Manuel La Serna,kalshi,0.55,0.8922,0.0,0.0,0.0,0.0,,0.7,,0.1,True,2026-11-18T03:29:01+00:00
+2026-11-18T03:30:01+00:00,aboian v kolar,True,Valerio Aboian,kalshi,0.39,Zdenek Kolar,polyus,0.53,0.954,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-18T03:29:51+00:00
+2026-11-18T03:30:21+00:00,hsiou v jorda,True,David Jorda Sanchis,polyus,0.04,Yu Hsiou Hsu,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-18T03:30:21+00:00
+2026-11-18T03:30:31+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.25,Juan Manuel La Serna,kalshi,0.69,0.968,0.0,0.0,0.0,0.0,,0.76,,0.1,True,2026-11-18T03:30:31+00:00
+2026-11-18T03:30:41+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.4,Zdenek Kolar,kalshi,0.53,0.9641,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-18T03:30:41+00:00
+2026-11-18T03:30:41+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.25,Juan Manuel La Serna,kalshi,0.69,0.968,0.0,0.0,0.0,0.0,,0.76,,0.1,True,2026-11-18T03:30:31+00:00
+2026-11-18T03:30:41+00:00,hsiou v jorda,True,David Jorda Sanchis,polyus,0.04,Yu Hsiou Hsu,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-18T03:30:41+00:00
+2026-11-18T03:30:51+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.4,Zdenek Kolar,kalshi,0.55,0.984,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-18T03:30:41+00:00
+2026-11-18T03:31:01+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.37,Zdenek Kolar,kalshi,0.55,0.9535,0.0,0.0,0.0,0.0,,0.64,,0.1,True,2026-11-18T03:30:41+00:00
+2026-11-18T03:31:01+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.41,Zachary Viiala,kalshi,0.51,0.9543,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-18T03:31:01+00:00
+2026-11-18T03:31:11+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.42,Zachary Viiala,kalshi,0.51,0.9644,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-18T03:31:01+00:00
+2026-11-18T03:31:11+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.39,Zdenek Kolar,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,,0.64,,0.1,True,2026-11-18T03:30:41+00:00
+2026-11-18T03:31:21+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.21,Juan Manuel La Serna,kalshi,0.75,0.9847,0.0,0.0,0.0,0.0,,0.8,,0.1,True,2026-11-18T03:31:21+00:00
+2026-11-18T03:31:31+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.28,Zdenek Kolar,kalshi,0.63,0.9403,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-18T03:31:31+00:00
+2026-11-18T03:31:31+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.21,Juan Manuel La Serna,kalshi,0.75,0.9847,0.0,0.0,0.0,0.0,,0.8,,0.1,True,2026-11-18T03:31:21+00:00
+2026-11-18T03:31:41+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.28,Zdenek Kolar,kalshi,0.63,0.9403,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-18T03:31:31+00:00
+2026-11-18T03:31:41+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.21,Juan Manuel La Serna,kalshi,0.75,0.9847,0.0,0.0,0.0,0.0,,0.83,,0.1,True,2026-11-18T03:31:21+00:00
+2026-11-18T03:31:51+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.45,Zachary Viiala,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-18T03:31:51+00:00
+2026-11-18T03:31:51+00:00,hsiou v jorda,True,David Jorda Sanchis,kalshi,0.06,Yu-Hsiou Hsu,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-18T03:31:51+00:00
+2026-11-18T03:32:01+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.45,Zachary Viiala,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-18T03:31:51+00:00
+2026-11-18T03:32:01+00:00,hsiou v jorda,True,David Jorda Sanchis,kalshi,0.06,Yu-Hsiou Hsu,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-18T03:31:51+00:00
+2026-11-18T03:32:11+00:00,aboian v kolar,True,Valerio Aboian,kalshi,0.28,Zdenek Kolar,polyus,0.62,0.9305,0.0,0.0,0.0,0.0,0.39,,,0.1,True,2026-11-18T03:32:11+00:00
+2026-11-18T03:32:11+00:00,comesana v manuel,True,Francisco Comesana,polyus,0.15,Juan Manuel La Serna,kalshi,0.81,0.9796,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-18T03:32:11+00:00
+2026-11-18T03:32:11+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.45,Zachary Viiala,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-18T03:31:51+00:00
+2026-11-18T03:32:11+00:00,hsiou v jorda,True,David Jorda Sanchis,kalshi,0.06,Yu-Hsiou Hsu,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.1,True,2026-11-18T03:31:51+00:00
+2026-11-18T03:32:21+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.5,Zachary Viiala,polyus,0.41,0.9443,0.0,0.0,0.0,0.0,0.6,,,0.1,True,2026-11-18T03:31:51+00:00
+2026-11-18T03:32:31+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.5,Zachary Viiala,polyus,0.41,0.9443,0.0,0.0,0.0,0.0,0.6,,,0.1,True,2026-11-18T03:31:51+00:00
+2026-11-18T03:32:41+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.5,Zachary Viiala,polyus,0.41,0.9443,0.0,0.0,0.0,0.0,0.62,,,0.1,True,2026-11-18T03:31:51+00:00
+2026-11-18T03:33:11+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.63,Zachary Viiala,polyus,0.25,0.9093,0.0,0.0,0.0,0.0,0.76,,,0.1,True,2026-11-18T03:33:11+00:00
+2026-11-18T03:33:11+00:00,kubler v sekulic,True,Jason Kubler,polyus,0.36,Philip Sekulic,kalshi,0.59,0.9829,0.0,0.0,0.0,0.0,,0.65,,0.1,True,2026-11-18T03:33:11+00:00
+2026-11-18T03:33:21+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.63,Zachary Viiala,polyus,0.25,0.9093,0.0,0.0,0.0,0.0,0.76,,,0.1,True,2026-11-18T03:33:11+00:00
+2026-11-18T03:33:21+00:00,kubler v sekulic,True,Jason Kubler,polyus,0.36,Philip Sekulic,kalshi,0.59,0.9829,0.0,0.0,0.0,0.0,,0.65,,0.1,True,2026-11-18T03:33:11+00:00
+2026-11-18T03:33:31+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,kalshi,0.63,Zachary Viiala,polyus,0.26,0.9197,0.0,0.0,0.0,0.0,0.68,,,0.1,True,2026-11-18T03:33:11+00:00
+2026-11-18T03:33:31+00:00,hsiou v jorda,True,David Jorda Sanchis,polyus,0.02,Yu Hsiou Hsu,kalshi,0.95,0.9747,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-18T03:33:31+00:00
+2026-11-18T03:33:31+00:00,kubler v sekulic,True,Jason Kubler,polyus,0.36,Philip Sekulic,kalshi,0.59,0.9829,0.0,0.0,0.0,0.0,,0.65,,0.1,True,2026-11-18T03:33:11+00:00
+2026-11-18T03:33:41+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.68,Zachary Viiala,kalshi,0.25,0.9582,0.0,0.0,0.0,0.0,,0.33,,0.1,True,2026-11-18T03:33:41+00:00
+2026-11-18T03:33:41+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.39,Zdenek Kolar,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-18T03:33:41+00:00
+2026-11-18T03:33:41+00:00,hsiou v jorda,True,David Jorda Sanchis,polyus,0.02,Yu Hsiou Hsu,kalshi,0.96,0.9841,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-18T03:33:31+00:00
+2026-11-18T03:33:51+00:00,blancaneaux v viiala,True,Geoffrey Blancaneaux,polyus,0.68,Zachary Viiala,kalshi,0.25,0.9582,0.0,0.0,0.0,0.0,,0.33,,0.1,True,2026-11-18T03:33:41+00:00
+2026-11-18T03:33:51+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.39,Zdenek Kolar,kalshi,0.55,0.9739,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-18T03:33:41+00:00
+2026-11-18T03:33:51+00:00,hsiou v jorda,True,David Jorda Sanchis,polyus,0.02,Yu Hsiou Hsu,kalshi,0.96,0.9841,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-18T03:33:31+00:00
