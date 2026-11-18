@@ -1,0 +1,24 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-18T00:48:40+00:00,labrana v rivera,True,kalshi:KXWTACHALLENGERMATCH-26NOV17LABVER-VER:yes,0.18,277,True,0.0089,2.0,hedged,polyus:aec-wta-ferlab-antver-2026-11-16:0,0.83,-5.49,-5.51,-5.49,True
+2026-11-18T00:49:40+00:00,labrana v rivera,True,kalshi:KXWTACHALLENGERMATCH-26NOV17LABVER-LAB:yes,0.78,64,False,0.0089,2.0,hedged,polyus:aec-wta-ferlab-antver-2026-11-16:1,0.23,-1.43,-1.43,-1.43,True
+2026-11-18T00:50:38+00:00,barrios v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV17RONBAR-BAR:yes,0.43,116,True,0.0127,1.9,hedged,polyus:aec-atp-fraron-tombar-2026-11-16:0,0.57,-1.98,-3.14,-1.98,True
+2026-11-18T00:50:54+00:00,labrana v rivera,True,kalshi:KXWTACHALLENGERMATCH-26NOV17LABVER-VER:yes,0.18,277,True,0.0089,2.0,hedged,polyus:aec-wta-ferlab-antver-2026-11-16:0,0.83,-5.49,-8.15,-5.49,True
+2026-11-18T00:51:11+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-WIN:yes,0.59,84,True,0.0136,0.8,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:1,0.38,1.14,-2.27,1.14,True
+2026-11-18T00:51:11+00:00,barrios v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV17RONBAR-RON:yes,0.54,92,False,0.013,0.8,hedged,polyus:aec-atp-fraron-tombar-2026-11-16:1,0.43,1.19,-2.52,1.19,True
+2026-11-18T00:51:44+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-AGU:yes,0.38,131,False,0.0132,2.0,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:0,0.59,1.73,-3.45,1.73,True
+2026-11-18T00:52:22+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-WIN:yes,0.58,86,False,0.0135,1.9,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:1,0.39,1.16,-2.34,1.16,True
+2026-11-18T00:52:56+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-AGU:yes,0.39,128,True,0.0131,2.0,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:0,0.58,1.67,-4.65,1.67,True
+2026-11-18T00:53:40+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-WIN:yes,0.59,84,False,0.0136,2.0,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:1,0.43,-3.11,-3.97,-3.11,True
+2026-11-18T00:54:20+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-WIN:yes,0.53,94,False,0.0129,2.1,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:1,0.44,1.21,-8.21,1.21,True
+2026-11-18T00:54:22+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-WIN:yes,0.47,106,True,0.0729,1.9,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:1,0.44,7.72,-2.9,7.72,True
+2026-11-18T00:54:58+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-AGU:yes,0.5,100,False,0.0127,2.0,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:0,0.47,1.27,-7.72,1.27,True
+2026-11-18T00:56:54+00:00,alcala v batalla,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ALCROC-ALC:yes,0.23,217,True,0.007,2.0,hedged,polyus:aec-atp-maxgur-oribat-2026-11-17:1,0.77,-2.67,-4.78,-2.67,True
+2026-11-18T00:57:11+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-AGU:yes,0.41,121,True,0.0129,2.8,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:0,0.56,1.56,-4.44,1.56,True
+2026-11-18T00:57:36+00:00,labrana v rivera,True,kalshi:KXWTACHALLENGERMATCH-26NOV17LABVER-LAB:yes,0.88,56,True,0.0137,2.0,hedged,polyus:aec-wta-ferlab-antver-2026-11-16:1,0.14,-1.59,-1.59,-1.59,True
+2026-11-18T00:57:36+00:00,labrana v rivera,True,polyus:aec-wta-ferlab-antver-2026-11-16:0,0.87,57,False,0.0131,2.0,unwound,kalshi:KXWTACHALLENGERMATCH-26NOV17LABVER-VER:yes,0.14,-1.05,-1.05,-1.05,True
+2026-11-18T00:58:22+00:00,labrana v rivera,True,kalshi:KXWTACHALLENGERMATCH-26NOV17LABVER-LAB:yes,0.84,59,False,0.0116,1.9,hedged,polyus:aec-wta-ferlab-antver-2026-11-16:1,0.17,-1.17,-1.17,-1.17,True
+2026-11-18T00:58:22+00:00,labrana v rivera,True,polyus:aec-wta-ferlab-antver-2026-11-16:0,0.85,58,False,0.0121,1.9,unwound,kalshi:KXWTACHALLENGERMATCH-26NOV17LABVER-VER:yes,0.17,-1.73,-1.73,-1.73,True
+2026-11-18T01:00:06+00:00,blancaneaux v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV17VIIBLA-BLA:yes,0.59,84,True,0.0136,2.0,hedged,polyus:aec-atp-zacvii-geobla-2026-11-17:0,0.38,1.14,-2.27,1.14,True
+2026-11-18T01:00:22+00:00,labrana v rivera,True,kalshi:KXWTACHALLENGERMATCH-26NOV17LABVER-LAB:yes,0.81,61,False,0.0102,2.0,hedged,polyus:aec-wta-ferlab-antver-2026-11-16:1,0.2,-1.29,-1.29,-1.29,True
+2026-11-18T01:00:56+00:00,blancaneaux v viiala,True,kalshi:KXATPCHALLENGERMATCH-26NOV17VIIBLA-BLA:yes,0.53,94,True,0.0331,2.0,hedged,polyus:aec-atp-zacvii-geobla-2026-11-17:0,0.42,3.11,-3.52,3.11,True
+2026-11-18T01:01:48+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-AGU:yes,0.27,185,True,0.0251,2.0,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:0,0.69,4.65,-7.91,4.65,True
