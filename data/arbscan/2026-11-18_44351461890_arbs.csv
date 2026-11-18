@@ -862,3 +862,23 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-18T22:19:00+00:00,kennedy v maxted,True,Jack Kennedy,kalshi,0.23,Lui Maxted,polyus,0.73,0.9861,0.0,0.0,0.0,0.0,0.28,,,0.0,True,2026-11-18T22:18:50+00:00
 2026-11-18T22:19:30+00:00,kennedy v maxted,True,Jack Kennedy,kalshi,0.28,Lui Maxted,polyus,0.66,0.9697,0.0,0.0,0.0,0.0,0.36,,,0.0,True,2026-11-18T22:19:30+00:00
 2026-11-18T22:21:40+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.24,Tristan Boyer,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-18T22:21:40+00:00
+2026-11-18T22:22:20+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.28,Lui Maxted,kalshi,0.67,0.9795,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-18T22:22:20+00:00
+2026-11-18T22:22:30+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.28,Lui Maxted,kalshi,0.67,0.9795,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-18T22:22:20+00:00
+2026-11-18T22:23:20+00:00,kennedy v maxted,True,Jack Kennedy,kalshi,0.34,Lui Maxted,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,,,0.0,True,2026-11-18T22:23:20+00:00
+2026-11-18T22:23:30+00:00,kennedy v maxted,True,Jack Kennedy,kalshi,0.34,Lui Maxted,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,,,0.0,True,2026-11-18T22:23:20+00:00
+2026-11-18T22:25:10+00:00,alberto v boyer,True,Genaro Alberto Olivieri,kalshi,0.29,Tristan Boyer,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-18T22:25:10+00:00
+2026-11-18T22:26:10+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.26,Tristan Boyer,kalshi,0.71,0.9978,0.0,0.0,0.0,0.0,,0.75,,0.0,True,2026-11-18T22:26:10+00:00
+2026-11-18T22:26:40+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.22,Tristan Boyer,kalshi,0.75,0.9951,0.0,0.0,0.0,0.0,,0.79,,0.0,True,2026-11-18T22:26:40+00:00
+2026-11-18T22:28:30+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.26,Lui Maxted,kalshi,0.67,0.9588,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-18T22:28:30+00:00
+2026-11-18T22:29:20+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.29,Lui Maxted,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-18T22:29:20+00:00
+2026-11-18T22:29:30+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.29,Lui Maxted,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-18T22:29:20+00:00
+2026-11-18T22:29:40+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.29,Lui Maxted,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-18T22:29:20+00:00
+2026-11-18T22:30:00+00:00,kennedy v maxted,True,Jack Kennedy,kalshi,0.29,Lui Maxted,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-18T22:30:00+00:00
+2026-11-18T22:30:10+00:00,kennedy v maxted,True,Jack Kennedy,kalshi,0.29,Lui Maxted,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-18T22:30:00+00:00
+2026-11-18T22:30:30+00:00,kennedy v maxted,True,Jack Kennedy,kalshi,0.33,Lui Maxted,polyus,0.62,0.9819,0.0,0.0,0.0,0.0,0.39,,,0.0,True,2026-11-18T22:30:30+00:00
+2026-11-18T22:30:40+00:00,kennedy v maxted,True,Jack Kennedy,kalshi,0.33,Lui Maxted,polyus,0.62,0.9819,0.0,0.0,0.0,0.0,0.39,,,0.0,True,2026-11-18T22:30:30+00:00
+2026-11-18T22:31:00+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.34,Lui Maxted,kalshi,0.62,0.9921,0.0,0.0,0.0,0.0,,0.67,,0.0,True,2026-11-18T22:31:00+00:00
+2026-11-18T22:31:10+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.34,Lui Maxted,kalshi,0.62,0.9921,0.0,0.0,0.0,0.0,,0.67,,0.0,True,2026-11-18T22:31:00+00:00
+2026-11-18T22:31:50+00:00,kennedy v maxted,True,Jack Kennedy,kalshi,0.34,Lui Maxted,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,,,0.0,True,2026-11-18T22:31:50+00:00
+2026-11-18T22:32:00+00:00,kennedy v maxted,True,Jack Kennedy,kalshi,0.34,Lui Maxted,polyus,0.62,0.9921,0.0,0.0,0.0,0.0,0.39,,,0.0,True,2026-11-18T22:31:50+00:00
+2026-11-18T22:34:40+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.38,Lui Maxted,kalshi,0.57,0.9835,0.0,0.0,0.0,0.0,,0.63,,0.0,True,2026-11-18T22:34:40+00:00
