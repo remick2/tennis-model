@@ -77,3 +77,16 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-18T18:32:44+00:00,montes v tabur,True,polyus:aec-atp-cletab-inamon-2026-11-18:1,0.94,53,True,0.0067,2.3,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18TABMON-TAB:yes,0.08,-1.33,-1.33,-1.33,True
 2026-11-18T18:32:55+00:00,baris v tarvet,True,kalshi:KXATPCHALLENGERMATCH-26NOV18TARBAR-BAR:yes,0.5,100,False,0.0127,2.0,hedged,polyus:aec-atp-olitar-ozabar-2026-11-18:0,0.51,-2.74,-2.75,-2.74,True
 2026-11-18T18:33:57+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.53,94,True,0.0129,2.1,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.48,-2.57,-2.58,-2.57,True
+2026-11-18T18:35:07+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.52,96,True,0.0128,1.0,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.45,1.23,-2.64,1.23,True
+2026-11-18T18:36:20+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-BAR:yes,0.45,111,False,0.0127,2.0,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:0,0.56,-3.01,-3.02,-3.01,True
+2026-11-18T18:37:08+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.52,96,True,0.0128,2.6,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.49,-2.63,-2.64,-2.63,True
+2026-11-18T18:44:15+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-BAR:yes,0.56,89,False,0.0132,2.0,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:0,0.45,-2.42,-2.43,-2.42,True
+2026-11-18T18:44:25+00:00,boulais v kingsley,True,polyus:aec-atp-cankin-jusbou-2026-11-16:1,0.27,185,True,0.0056,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18KINBOU-KIN:yes,0.74,-4.34,-4.32,-4.32,True
+2026-11-18T18:44:59+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.42,119,True,0.0128,2.0,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.59,-3.19,-3.21,-3.19,True
+2026-11-18T18:45:23+00:00,boulais v kingsley,True,kalshi:KXATPCHALLENGERMATCH-26NOV18KINBOU-BOU:yes,0.26,192,False,0.006,2.0,hedged,polyus:aec-atp-cankin-jusbou-2026-11-16:0,0.72,1.15,-6.29,1.15,True
+2026-11-18T18:46:11+00:00,baris v tarvet,True,kalshi:KXATPCHALLENGERMATCH-26NOV18TARBAR-TAR:yes,0.46,108,False,0.0126,2.3,hedged,polyus:aec-atp-olitar-ozabar-2026-11-18:1,0.51,1.36,-2.95,1.36,True
+2026-11-18T18:46:27+00:00,gormaz v podoroska,True,kalshi:KXWTACHALLENGERMATCH-26NOV18ROMPOD-POD:yes,0.39,128,True,0.0131,2.0,hedged,polyus:aec-wta-leygor-nadpod-2026-11-18:0,0.62,-3.38,-3.39,-3.38,True
+2026-11-18T18:47:36+00:00,boulais v kingsley,True,kalshi:KXATPCHALLENGERMATCH-26NOV18KINBOU-BOU:yes,0.16,312,False,0.0097,2.4,hedged,polyus:aec-atp-cankin-jusbou-2026-11-16:0,0.85,-5.88,-5.9,-5.88,True
+2026-11-18T18:47:36+00:00,boulais v kingsley,True,polyus:aec-atp-cankin-jusbou-2026-11-16:1,0.18,277,True,0.0088,2.4,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18KINBOU-KIN:yes,0.85,-10.78,-10.76,-10.76,True
+2026-11-18T18:47:49+00:00,gormaz v podoroska,True,kalshi:KXWTACHALLENGERMATCH-26NOV18ROMPOD-POD:yes,0.39,128,True,0.0131,1.7,hedged,polyus:aec-wta-leygor-nadpod-2026-11-18:0,0.61,-2.12,-3.39,-2.12,True
+2026-11-18T18:47:53+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.42,119,True,0.0128,1.8,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.59,-3.19,-3.21,-3.19,True
