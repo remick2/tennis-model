@@ -1,0 +1,22 @@
+key,legs,first_seen,closed_by,kind,minutes,min_minutes
+kennedy v maxted,Jack Kennedy@polyus + Lui Maxted@kalshi,2026-11-18T23:31:18+00:00,2026-11-18T23:31:58+00:00,any,0.7,0.5
+kennedy v maxted,Jack Kennedy@kalshi + Lui Maxted@polyus,2026-11-18T23:32:28+00:00,2026-11-18T23:32:48+00:00,any,0.3,0.2
+alberto v boyer,Genaro Alberto Olivieri@polyus + Tristan Boyer@kalshi,2026-11-18T23:32:38+00:00,2026-11-18T23:32:58+00:00,any,0.3,0.2
+alberto v boyer,Genaro Alberto Olivieri@polyus + Tristan Boyer@kalshi,2026-11-18T23:33:38+00:00,2026-11-18T23:33:58+00:00,any,0.3,0.2
+kennedy v maxted,Jack Kennedy@polyus + Lui Maxted@kalshi,2026-11-18T23:33:48+00:00,2026-11-18T23:33:58+00:00,any,0.2,0.0
+alberto v boyer,Genaro Alberto Olivieri@kalshi + Tristan Boyer@polyus,2026-11-18T23:34:08+00:00,2026-11-18T23:34:28+00:00,any,0.3,0.2
+kennedy v maxted,Jack Kennedy@kalshi + Lui Maxted@polyus,2026-11-18T23:34:18+00:00,2026-11-18T23:34:38+00:00,any,0.3,0.2
+alberto v boyer,Genaro Alberto Olivieri@polyus + Tristan Boyer@kalshi,2026-11-18T23:34:48+00:00,2026-11-18T23:34:58+00:00,any,0.2,0.0
+kennedy v maxted,Jack Kennedy@kalshi + Lui Maxted@polyus,2026-11-18T23:35:18+00:00,2026-11-18T23:35:38+00:00,any,0.3,0.2
+broska v langmo,Christian Langmo@kalshi + Florian Broska@polyus,2026-11-18T23:35:28+00:00,2026-11-18T23:35:38+00:00,any,0.2,0.0
+alberto v boyer,Genaro Alberto Olivieri@kalshi + Tristan Boyer@polyus,2026-11-18T23:35:48+00:00,2026-11-18T23:36:08+00:00,any,0.3,0.2
+alberto v boyer,Genaro Alberto Olivieri@polyus + Tristan Boyer@kalshi,2026-11-18T23:36:38+00:00,2026-11-18T23:37:08+00:00,any,0.5,0.3
+alberto v boyer,Genaro Alberto Olivieri@polyus + Tristan Boyer@kalshi,2026-11-18T23:37:18+00:00,2026-11-18T23:37:58+00:00,any,0.7,0.5
+kennedy v maxted,Jack Kennedy@polyus + Lui Maxted@kalshi,2026-11-18T23:38:58+00:00,2026-11-18T23:39:28+00:00,any,0.5,0.3
+alberto v boyer,Genaro Alberto Olivieri@kalshi + Tristan Boyer@polyus,2026-11-18T23:39:28+00:00,2026-11-18T23:39:48+00:00,any,0.3,0.2
+alberto v boyer,Genaro Alberto Olivieri@polyus + Tristan Boyer@kalshi,2026-11-18T23:40:38+00:00,2026-11-18T23:41:08+00:00,any,0.5,0.3
+alberto v boyer,Genaro Alberto Olivieri@polyus + Tristan Boyer@kalshi,2026-11-18T23:41:38+00:00,2026-11-18T23:42:08+00:00,any,0.5,0.3
+alberto v boyer,Genaro Alberto Olivieri@kalshi + Tristan Boyer@polyus,2026-11-18T23:42:28+00:00,2026-11-18T23:42:48+00:00,any,0.3,0.2
+alberto v boyer,Genaro Alberto Olivieri@polyus + Tristan Boyer@kalshi,2026-11-18T23:43:08+00:00,2026-11-18T23:43:18+00:00,any,0.2,0.0
+broska v langmo,Christian Langmo@polyus + Florian Broska@kalshi,2026-11-18T23:43:28+00:00,2026-11-18T23:43:48+00:00,any,0.3,0.2
+alberto v boyer,Genaro Alberto Olivieri@polyus + Tristan Boyer@kalshi,2026-11-18T23:43:38+00:00,2026-11-18T23:43:48+00:00,any,0.2,0.0
