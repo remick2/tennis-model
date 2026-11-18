@@ -1,4 +1,4 @@
-# Consensus paper tracker — Tue Nov 17, 6:40PM MT
+# Consensus paper tracker — Tue Nov 17, 7:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,11 +8,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | all 15 | 7-2 | +4.93 | 4-1 | +0.36 | 0 |
-| 2 agree | all 15 | 23-16 | +2.69 | 26-22 | -4.09 | 9 |
+| 3+ agree (paper play) | all 15 | 7-2 | +4.93 | 4-1 | +0.36 | 1 |
+| 2 agree | all 15 | 24-16 | +3.75 | 26-22 | -4.09 | 7 |
 | 2+ agree, 1+ against (split) | all 15 | 26-14 | +12.07 | 27-18 | +7.41 | 4 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 12-7 | +3.93 | 15-9 | +0.75 | 9 |
+| 2 agree | core 10 only | 13-7 | +4.99 | 15-9 | +0.75 | 8 |
 | 2+ agree, 1+ against (split) | core 10 only | 9-4 | +5.83 | 10-8 | -0.98 | 2 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 9 of 30 graded plays · net +4.61u · 7 wins vs 5.0 expected, z = +1.41 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
@@ -22,7 +22,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Graded | Wins vs expected | Units at logged price | Units after spread + fees | Price move by game time |
 |---|---|---|---|---|---|
 | 3+ agree (paper play) | 9 | 7 vs 4.9 (+2.1) | +4.93 | +4.61 | +1.94c avg (9) |
-| 2 agree | 39 | 23 vs 20.6 (+2.4) | +2.69 | +1.51 | -0.01c avg (39) |
+| 2 agree | 40 | 24 vs 21.1 (+2.9) | +3.75 | +2.53 | -0.01c avg (40) |
 | 2+ agree, 1+ against (split) | 40 | 26 vs 20.1 (+5.9) | +12.07 | +10.63 | +0.47c avg (40) |
 
 Units after spread + fees = paying the ask (or logged price + 0.5c when the ask wasn't recorded) plus Polymarket's taker fee (rate x (1 - price) of the stake, about 2.5% at 50c). Price move = closing price minus logged price; sharp signals should see the price move their way before the game.
@@ -35,7 +35,7 @@ Units after spread + fees = paying the ask (or logged price + 0.5c when the ask 
 | 3+ agree (paper play) | Coin flip (45-65c) | 3-2 | +0.69 | 3 | 2.7 | +0.3 |
 | 3+ agree (paper play) | Favorite (65-80c) | 2-0 | +0.77 | 2 | 1.5 | +0.5 |
 | 2 agree | Underdog (<45c) | 2-6 | -2.87 | 2 | 2.8 | -0.8 |
-| 2 agree | Coin flip (45-65c) | 16-9 | +4.98 | 16 | 13.3 | +2.7 |
+| 2 agree | Coin flip (45-65c) | 17-9 | +6.04 | 17 | 13.8 | +3.2 |
 | 2 agree | Favorite (65-80c) | 3-1 | +0.18 | 3 | 2.9 | +0.1 |
 | 2 agree | Heavy favorite (80c+) | 2-0 | +0.40 | 2 | 1.7 | +0.3 |
 
@@ -85,9 +85,8 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-17 | NBA | Hornets vs. Lakers | Hornets (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; drainedandpoor | purplegatto | 27.5c |
 | new | 2026-11-17 | NBA | Knicks vs. Raptors | Knicks (Moneyline) | 2 agree, 1 against | pre-game | purplegatto; jakepaulthegoat2008 | monkeymashingkeyboard | 61.5c |
 | new | 2026-11-17 | NBA | Knicks vs. Raptors | Raptors (+3.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; 0x9f15613e | — | 48.5c |
-| new | 2026-11-17 | NBA | Hornets vs. Lakers | Hornets (+7.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; drainedandpoor | — | 51.5c |
+| new | 2026-11-17 | NBA | Hornets vs. Lakers | Hornets (+7.5) (Spread) | 3 agree, 0 against | pre-game | monkeymashingkeyboard; drainedandpoor; BreakTheBank | — | 52.5c |
 | new | 2026-11-17 | NBA | Knicks vs. Raptors | Raptors (+2.5) (Spread) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; 0x9f15613e | — | 44.5c |
 | new | 2026-11-17 | NBA | Knicks vs. Raptors | Raptors (Moneyline) | 2 agree, 2 against | pre-game | monkeymashingkeyboard; BreakTheBank | jakepaulthegoat2008; purplegatto | 44.5c |
-| new | 2026-11-17 | CFB | Miami (OH) vs. Kent State | Under 45.5 (Total) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; 0x9f15613e | — | 48.5c |
 | new | 2026-11-17 | NBA | Trail Blazers vs. Timberwolves | Trail Blazers (+2.5) (Spread) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; 0x9f15613e | — | 44.5c |
 | new | 2026-11-17 | NBA | Trail Blazers vs. Timberwolves | Timberwolves (-4.5) (Spread) | 2 agree, 1 against | in-play | purplegatto; ch27er | 0x9f15613e | 73.5c |
