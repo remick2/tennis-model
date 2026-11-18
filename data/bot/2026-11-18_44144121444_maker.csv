@@ -1,0 +1,13 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-18T00:00:15+00:00,aguilar v jover,True,kalshi:KXATPCHALLENGERMATCH-26NOV17AGUSAN-AGU:yes,0.25,200,False,0.0063,2.0,hedged,polyus:aec-atp-joaagu-carjov-2026-11-17:1,0.79,-10.31,-10.32,-10.31,True
+2026-11-18T00:01:35+00:00,aguilar v jover,True,kalshi:KXATPCHALLENGERMATCH-26NOV17AGUSAN-AGU:yes,0.24,208,False,0.0066,2.0,hedged,polyus:aec-atp-joaagu-carjov-2026-11-17:1,0.74,1.38,-8.66,1.38,True
+2026-11-18T00:02:11+00:00,aguilar v jover,True,kalshi:KXATPCHALLENGERMATCH-26NOV17AGUSAN-AGU:yes,0.19,263,False,0.0085,1.9,hedged,polyus:aec-atp-joaagu-carjov-2026-11-17:1,0.79,2.23,-15.37,2.23,True
+2026-11-18T00:02:51+00:00,aguilar v jover,True,kalshi:KXATPCHALLENGERMATCH-26NOV17AGUSAN-AGU:yes,0.07,714,False,0.0143,2.4,hedged,polyus:aec-atp-joaagu-carjov-2026-11-17:1,0.92,3.49,-9.96,3.49,True
+2026-11-18T00:02:59+00:00,alcala v batalla,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ALCROC-ALC:yes,0.25,200,False,0.0063,2.0,hedged,polyus:aec-atp-maxgur-oribat-2026-11-17:1,0.76,-4.54,-4.55,-4.54,True
+2026-11-18T00:03:31+00:00,nicholas v zahraj,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ZAHTUD-ZAH:yes,0.68,73,False,0.0054,2.1,hedged,polyus:aec-atp-patzah-alvtud-2026-11-16:1,0.34,-2.6,-2.61,-2.6,True
+2026-11-18T00:04:11+00:00,nicholas v zahraj,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ZAHTUD-ZAH:yes,0.62,80,False,0.0142,1.9,hedged,polyus:aec-atp-patzah-alvtud-2026-11-16:1,0.35,1.14,-2.13,1.14,True
+2026-11-18T00:04:45+00:00,alcala v batalla,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ALCROC-ALC:yes,0.25,200,True,0.0063,2.0,hedged,polyus:aec-atp-maxgur-oribat-2026-11-17:1,0.76,-4.54,-6.48,-4.54,True
+2026-11-18T00:05:27+00:00,alcala v batalla,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ALCROC-ROC:yes,0.74,67,True,0.0073,1.9,hedged,polyus:aec-atp-maxgur-oribat-2026-11-17:0,0.28,-2.28,-2.29,-2.28,True
+2026-11-18T00:05:48+00:00,aguilar v jover,True,kalshi:KXATPCHALLENGERMATCH-26NOV17AGUSAN-SAN:yes,0.94,53,False,0.0067,2.9,hedged,polyus:aec-atp-joaagu-carjov-2026-11-17:0,0.06,-0.21,-0.77,-0.21,True
+2026-11-18T00:06:03+00:00,aguilar v jover,True,kalshi:KXATPCHALLENGERMATCH-26NOV17AGUSAN-AGU:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-atp-joaagu-carjov-2026-11-17:1,0.96,-12.67,-12.69,-12.67,True
+2026-11-18T00:06:03+00:00,aguilar v jover,True,polyus:aec-atp-joaagu-carjov-2026-11-17:0,0.05,1000,False,0.0061,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV17AGUSAN-SAN:yes,0.96,-12.69,-12.67,-12.67,True
