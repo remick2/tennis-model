@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 131.62,
-  "polyus": 0.36
+  "kalshi": 181.83,
+  "polyus": 171.3
  },
  "open": [
   {
@@ -45,35 +45,22 @@
    "expected": 1.23
   },
   {
-   "id": "b83f379483ef",
-   "key": "labrana v rivera",
-   "opened": "2026-11-18T01:29:56+00:00",
-   "kalshi_ticker": "KXWTACHALLENGERMATCH-26NOV17LABVER-LAB",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 266.0,
-    "kalshi": 266.0
-   },
-   "cost": 257.66,
-   "expected": 8.33
-  },
-  {
-   "id": "f9cbbfcc4ca3",
-   "key": "aguiard v winter",
-   "opened": "2026-11-18T01:40:33+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17WINAGU-WIN",
+   "id": "4b8d18beda6e",
+   "key": "comesana v manuel",
+   "opened": "2026-11-18T02:16:36+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17LACOM-LA",
    "kalshi_side": "no",
    "shares": {
-    "polyus": 34,
-    "kalshi": 34
+    "kalshi": 80.0,
+    "polyus": 80.0
    },
-   "cost": 32.81,
-   "expected": 1.19
+   "cost": 78.85,
+   "expected": 1.15
   }
  ],
- "settled_pnl": 211.61,
+ "settled_pnl": 221.14,
  "unwind_pnl": -60.76,
- "fires": 60,
- "settled": 42,
- "rebalances": 9
+ "fires": 61,
+ "settled": 44,
+ "rebalances": 10
 }
