@@ -135,8 +135,11 @@ def main():
         L += ["**COVERAGE WARNING: the bot is missing too many Polymarket US reads to trust a 'no arbs' result. "
               "Run the feed-diagnostics workflow (diag.yml) and fix the read budget in arbscan.py.**", ""]
     if checks >= 10 and mism > 0.3 * checks:
-        L += ["**DATA WARNING: Polymarket US list prices disagree with its order book too often; candidates from "
-              "the list can't be trusted. Investigate before believing any result.**", ""]
+        # Not a data warning: candidates are picked BECAUSE the list shows an arb, so at those moments the list
+        # often disagrees with the book. Every fire is re-decided on a fresh, age-checked Polymarket US book,
+        # so this costs detections (recall), not accuracy.
+        L += [f"Note: at candidate moments the Polymarket US list disagreed with its book {mism / checks:.0%} of the "
+              "time. Every fire is re-checked on the real book, so this means missed detections, not false fires.", ""]
     if unverified:
         L += ["**DATA WARNING: Polymarket US stopped sending the header the freshness check uses, so freshness is "
               "UNVERIFIED and nothing can pass. Fix arbscan.polyus_book before trusting any arb.**", ""]
