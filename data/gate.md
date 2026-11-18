@@ -1,4 +1,4 @@
-# Arb test status (Wed Nov 18 12:49PM MT)
+# Arb test status (Wed Nov 18 1:04PM MT)
 
 Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (14/10 occasions, 4/5 days). Test ends Nov 22 00:00 UTC. Live trading is off and stays off.
 
@@ -13,22 +13,22 @@ Fresh data only, since Nov 14 21:20 UTC. **NOT PASSED YET** (14/10 occasions, 4/
 | Paper bot: fires still fillable 1s later | 21% | - |
 | Polymarket US reads refused as stale | 0.0% (oldest 1s) | < 5% |
 
-Coverage: 1224 candidate checks (list prices showed an arb), 29 got no Polymarket US book; 0 rate-limit hits; 117 failed list refreshes in 167,940 cycles; list vs book disagreed on 377 of 1195 checks.
+Coverage: 1229 candidate checks (list prices showed an arb), 29 got no Polymarket US book; 0 rate-limit hits; 117 failed list refreshes in 168,390 cycles; list vs book disagreed on 382 of 1200 checks.
 
 **DATA WARNING: Polymarket US list prices disagree with its order book too often; candidates from the list can't be trusted. Investigate before believing any result.**
 
-Bot coverage: 5,598 minutes watched. Cycles (2s each) where some pair cost under $1: **13,776**. Best a single fire would have netted: **$49.40**.
+Bot coverage: 5,613 minutes watched. Cycles (2s each) where some pair cost under $1: **13,784**. Best a single fire would have netted: **$49.40**.
 
 ## Maker test (rest a bid on one venue, hedge on the other if it fills)
 
-Fills: **9305** · total **$-35695.04** · per fill $-3.84 ± 0.06. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
+Fills: **9317** · total **$-35747.09** · per fill $-3.84 ± 0.06. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
 
 | venue   | live   |   fills |     total |   mean |
 |:--------|:-------|--------:|----------:|-------:|
 | kalshi  | False  |     137 |    188.88 |   1.38 |
-| kalshi  | True   |    7637 | -27272.4  |  -3.57 |
+| kalshi  | True   |    7646 | -27305.5  |  -3.57 |
 | polyus  | False  |      21 |   -110.74 |  -5.27 |
-| polyus  | True   |    1510 |  -8500.77 |  -5.63 |
+| polyus  | True   |    1513 |  -8519.72 |  -5.63 |
 
 ## By UTC day
 
@@ -38,5 +38,5 @@ Fills: **9305** · total **$-35695.04** · per fill $-3.84 ± 0.06. No edge show
 | 2026-11-15 |          21 |           20 |          2740 |       79.75 |  -8654.03 |
 | 2026-11-16 |          12 |           11 |          2622 |      -19.53 | -11791.7  |
 | 2026-11-17 |          20 |           19 |          2654 |       82.47 | -10745.6  |
-| 2026-11-18 |          13 |           13 |          1270 |       47.6  |  -4511.03 |
+| 2026-11-18 |          13 |           13 |          1282 |       47.6  |  -4563.08 |
 
