@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 243.96,
-  "polyus": 243.96
+  "kalshi": 207.63,
+  "polyus": 232.64
  },
  "open": [
   {
@@ -45,22 +45,22 @@
    "expected": 1.15
   },
   {
-   "id": "b32d5c1c6be6",
-   "key": "blancaneaux v viiala",
-   "opened": "2026-11-18T03:19:53+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17VIIBLA-VII",
-   "kalshi_side": "yes",
+   "id": "9cc24dbe6c2f",
+   "key": "aboian v kolar",
+   "opened": "2026-11-18T03:36:55+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17ABOKOL-KOL",
+   "kalshi_side": "no",
    "shares": {
-    "polyus": 79.0,
-    "kalshi": 79.0
+    "kalshi": 128.0,
+    "polyus": 128.0
    },
-   "cost": 76.5,
-   "expected": 2.49
+   "cost": 126.65,
+   "expected": 1.35
   }
  ],
- "settled_pnl": 246.46,
+ "settled_pnl": 248.96,
  "unwind_pnl": -60.76,
- "fires": 64,
- "settled": 47,
+ "fires": 65,
+ "settled": 48,
  "rebalances": 11
 }
