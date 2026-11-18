@@ -53,3 +53,7 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-18T00:35:16+00:00,alcala v batalla,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ALCROC-ALC:yes,0.58,86,False,0.0135,2.1,hedged,polyus:aec-atp-maxgur-oribat-2026-11-17:1,0.39,1.16,-2.34,1.16,True
 2026-11-18T00:35:38+00:00,aboian v kolar,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ABOKOL-KOL:yes,0.33,151,True,0.014,1.9,hedged,polyus:aec-atp-valabo-zdekol-2026-11-16:0,0.66,-0.84,-5.28,-0.84,True
 2026-11-18T00:36:50+00:00,aboian v kolar,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ABOKOL-ABO:yes,0.61,81,False,0.014,2.0,hedged,polyus:aec-atp-valabo-zdekol-2026-11-16:1,0.4,-2.16,-2.17,-2.16,True
+2026-11-18T00:37:33+00:00,aboian v kolar,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ABOKOL-ABO:yes,0.57,87,True,0.0133,3.0,hedged,polyus:aec-atp-valabo-zdekol-2026-11-16:1,0.44,-2.36,-2.37,-2.36,True
+2026-11-18T00:44:16+00:00,alcala v batalla,True,kalshi:KXATPCHALLENGERMATCH-26NOV17ALCROC-ALC:yes,0.4,125,False,0.013,2.1,hedged,polyus:aec-atp-maxgur-oribat-2026-11-17:1,0.61,-3.32,-4.56,-3.32,True
+2026-11-18T00:45:32+00:00,aguiard v winter,True,kalshi:KXATPCHALLENGERMATCH-26NOV17WINAGU-WIN:yes,0.62,80,False,0.0142,2.2,hedged,polyus:aec-atp-edwwin-enzagu-2026-11-17:1,0.35,1.14,-2.13,1.14,True
+2026-11-18T00:45:34+00:00,labrana v rivera,True,kalshi:KXWTACHALLENGERMATCH-26NOV17LABVER-LAB:yes,0.7,71,True,0.006,2.0,hedged,polyus:aec-wta-ferlab-antver-2026-11-16:1,0.3,-1.04,-1.77,-1.04,True
