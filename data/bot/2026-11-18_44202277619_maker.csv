@@ -515,3 +515,12 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-18T05:11:44+00:00,draxl v rice,True,kalshi:KXATPCHALLENGERMATCH-26NOV17RICDRA-RIC:yes,0.11,454,False,0.0121,2.0,hedged,polyus:aec-atp-keeric-liadra-2026-11-16:1,0.92,-15.94,-15.96,-15.94,True
 2026-11-18T05:11:48+00:00,moriya v suresh,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-SUR:yes,0.28,178,False,0.0054,2.0,hedged,polyus:aec-atp-dhasur-hirmor-2026-11-17:1,0.7,0.96,-4.24,0.96,True
 2026-11-18T05:12:20+00:00,moriya v suresh,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-MOR:yes,0.7,71,False,0.006,2.0,hedged,polyus:aec-atp-dhasur-hirmor-2026-11-17:0,0.31,-1.77,-1.77,-1.77,True
+2026-11-18T05:18:04+00:00,moriya v suresh,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-SUR:yes,0.26,192,False,0.006,2.0,hedged,polyus:aec-atp-dhasur-hirmor-2026-11-17:1,0.76,-6.27,-6.29,-6.27,True
+2026-11-18T05:18:04+00:00,moriya v suresh,True,polyus:aec-atp-dhasur-hirmor-2026-11-17:0,0.26,192,False,0.0059,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-MOR:yes,0.75,-4.44,-6.27,-4.44,True
+2026-11-18T05:19:22+00:00,moriya v suresh,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-MOR:yes,0.8,62,False,0.0097,2.0,hedged,polyus:aec-atp-dhasur-hirmor-2026-11-17:0,0.22,-1.98,-1.98,-1.98,True
+2026-11-18T05:19:22+00:00,moriya v suresh,True,polyus:aec-atp-dhasur-hirmor-2026-11-17:1,0.81,61,False,0.0101,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-SUR:yes,0.22,-2.56,-2.56,-2.56,True
+2026-11-18T05:19:44+00:00,moriya v suresh,True,polyus:aec-atp-dhasur-hirmor-2026-11-17:1,0.75,66,False,0.0076,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-SUR:yes,0.26,-1.55,-1.54,-1.54,True
+2026-11-18T05:20:16+00:00,moriya v suresh,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-SUR:yes,0.25,200,True,0.0063,1.9,hedged,polyus:aec-atp-dhasur-hirmor-2026-11-17:1,0.81,-14.14,-14.15,-14.14,True
+2026-11-18T05:21:14+00:00,moriya v suresh,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-MOR:yes,0.79,63,True,0.0093,1.8,hedged,polyus:aec-atp-dhasur-hirmor-2026-11-17:0,0.26,-3.99,-4.0,-3.99,True
+2026-11-18T05:24:56+00:00,moriya v suresh,True,polyus:aec-atp-dhasur-hirmor-2026-11-17:0,0.32,156,False,0.0141,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-MOR:yes,0.68,-2.38,-3.88,-2.38,True
+2026-11-18T05:26:10+00:00,moriya v suresh,True,kalshi:KXATPCHALLENGERMATCH-26NOV17SURMOR-SUR:yes,0.28,178,False,0.0054,2.0,hedged,polyus:aec-atp-dhasur-hirmor-2026-11-17:1,0.73,-4.22,-5.96,-4.22,True
