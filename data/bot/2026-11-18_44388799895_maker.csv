@@ -58,3 +58,10 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-18T20:52:56+00:00,alves v barrena,True,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.09,555,False,0.0131,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.91,-3.18,-8.39,-3.18,True
 2026-11-18T20:53:16+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.89,56,False,0.0143,2.0,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.12,-0.97,-0.97,-0.97,True
 2026-11-18T20:54:46+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.81,61,True,0.0102,2.0,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.2,-1.29,-1.29,-1.29,True
+2026-11-18T21:15:20+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.58,86,False,0.0135,2.0,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.44,-3.19,-3.2,-3.19,True
+2026-11-18T21:17:46+00:00,alves v barrena,True,polyus:aec-atp-felalv-alebar-2026-11-18:0,0.56,89,False,0.0131,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:no,0.45,-2.43,-2.42,-2.42,True
+2026-11-18T21:18:22+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-BAR:yes,0.39,128,False,0.0131,2.0,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:0,0.62,-3.38,-3.39,-3.38,True
+2026-11-18T21:25:19+00:00,alves v barrena,True,polyus:aec-atp-felalv-alebar-2026-11-18:0,0.86,58,False,0.0126,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:no,0.15,-1.1,-1.09,-1.09,True
+2026-11-18T21:26:29+00:00,alves v barrena,True,polyus:aec-atp-felalv-alebar-2026-11-18:0,0.86,58,True,0.0126,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:no,0.15,-1.1,-1.09,-1.09,True
+2026-11-18T21:27:13+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-BAR:yes,0.11,454,False,0.0121,2.2,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:0,0.9,-7.38,-7.4,-7.38,True
+2026-11-18T21:27:13+00:00,alves v barrena,True,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.11,454,False,0.0121,2.2,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.9,-7.4,-7.38,-7.38,True
