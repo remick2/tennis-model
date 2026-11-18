@@ -1,0 +1,5 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-18T12:08:39+00:00,guerrieri v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV18GUESAM-GUE:yes,0.48,104,True,0.0126,2.0,hedged,polyus:aec-atp-andgue-tobsam-2026-11-18:1,0.53,-2.84,-2.85,-2.84,True
+2026-11-18T12:15:19+00:00,giustino v gulin,True,polyus:aec-atp-lorgiu-svygul-2026-11-18:0,0.53,94,True,0.0128,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18GIUGUL-GUL:yes,0.49,-3.52,-2.57,-2.57,True
+2026-11-18T12:17:57+00:00,guerrieri v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV18GUESAM-SAM:yes,0.44,113,True,0.0127,2.0,hedged,polyus:aec-atp-andgue-tobsam-2026-11-18:0,0.57,-3.05,-4.19,-3.05,True
+2026-11-18T12:22:47+00:00,giustino v gulin,True,kalshi:KXATPCHALLENGERMATCH-26NOV18GIUGUL-GIU:yes,0.52,96,False,0.0128,2.0,hedged,polyus:aec-atp-lorgiu-svygul-2026-11-18:1,0.48,-1.67,-3.6,-1.67,True
