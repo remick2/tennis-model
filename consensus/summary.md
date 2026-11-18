@@ -1,4 +1,4 @@
-# Consensus paper tracker — Tue Nov 17, 11:40PM MT
+# Consensus paper tracker — Wed Nov 18, 12:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 4-1 | +0.36 | 0 |
-| 2 agree | all 15 | 25-19 | +2.00 | 26-22 | -4.09 | 4 |
-| 2+ agree, 1+ against (split) | all 15 | 27-16 | +10.70 | 28-22 | +4.28 | 2 |
+| 2 agree | all 15 | 25-19 | +2.00 | 26-23 | -5.09 | 3 |
+| 2+ agree, 1+ against (split) | all 15 | 27-17 | +9.70 | 29-22 | +4.93 | 0 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 0 |
 | 2 agree | core 10 only | 15-10 | +4.14 | 15-10 | -0.25 | 3 |
-| 2+ agree, 1+ against (split) | core 10 only | 10-4 | +6.46 | 10-8 | -0.98 | 2 |
+| 2+ agree, 1+ against (split) | core 10 only | 10-5 | +5.46 | 11-8 | -0.33 | 0 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 10 of 30 graded plays · net +5.47u · 8 wins vs 5.5 expected, z = +1.64 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
@@ -23,7 +23,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|
 | 3+ agree (paper play) | 10 | 8 vs 5.5 (+2.5) | +5.83 | +5.47 | +1.75c avg (10) |
 | 2 agree | 44 | 25 vs 23.2 (+1.8) | +2.00 | +0.65 | +0.31c avg (44) |
-| 2+ agree, 1+ against (split) | 43 | 27 vs 21.6 (+5.4) | +10.70 | +9.17 | +0.30c avg (43) |
+| 2+ agree, 1+ against (split) | 44 | 27 vs 21.9 (+5.1) | +9.70 | +8.13 | +0.32c avg (44) |
 
 Units after spread + fees = paying the ask (or logged price + 0.5c when the ask wasn't recorded) plus Polymarket's taker fee (rate x (1 - price) of the stake, about 2.5% at 50c). Price move = closing price minus logged price; sharp signals should see the price move their way before the game.
 
@@ -81,6 +81,3 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+15.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 55.0c |
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+16.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 52.5c |
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
-| new | 2026-11-17 | NBA | Hornets vs. Lakers | Hornets (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; drainedandpoor | purplegatto | 27.5c |
-| new | 2026-11-17 | NBA | Hornets vs. Lakers | Lakers (Moneyline) | 2 agree, 3 against | in-play | purplegatto; jakepaulthegoat2008 | BreakTheBank; drainedandpoor; monkeymashingkeyboard | 60.5c |
-| new | 2026-11-17 | NBA | Hornets vs. Lakers | Under 220.5 (Total) | 2 agree, 0 against | in-play | jakepaulthegoat2008; JoeyAroyyOO | — | 26.0c |
