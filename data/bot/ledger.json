@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 255.0,
-  "polyus": 167.45
+  "kalshi": 146.83,
+  "polyus": 17.96
  },
  "open": [
   {
@@ -43,11 +43,24 @@
    },
    "cost": 189.77,
    "expected": 1.23
+  },
+  {
+   "id": "b83f379483ef",
+   "key": "labrana v rivera",
+   "opened": "2026-11-18T01:29:56+00:00",
+   "kalshi_ticker": "KXWTACHALLENGERMATCH-26NOV17LABVER-LAB",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 266.0,
+    "kalshi": 266.0
+   },
+   "cost": 257.66,
+   "expected": 8.33
   }
  ],
  "settled_pnl": 211.61,
  "unwind_pnl": -60.76,
- "fires": 58,
+ "fires": 59,
  "settled": 42,
  "rebalances": 9
 }
