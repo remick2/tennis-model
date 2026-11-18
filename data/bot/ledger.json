@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 171.48,
-  "polyus": 40.94
+  "kalshi": 243.96,
+  "polyus": 243.96
  },
  "open": [
   {
@@ -45,35 +45,22 @@
    "expected": 1.15
   },
   {
-   "id": "d0164b9fe11b",
-   "key": "barton v galarneau",
-   "opened": "2026-11-18T02:17:54+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17BARGAL-GAL",
-   "kalshi_side": "no",
-   "shares": {
-    "polyus": 274.0,
-    "kalshi": 274.0
-   },
-   "cost": 252.33,
-   "expected": 21.67
-  },
-  {
-   "id": "c7504403a14c",
-   "key": "barton v galarneau",
-   "opened": "2026-11-18T03:08:02+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17BARGAL-GAL",
+   "id": "b32d5c1c6be6",
+   "key": "blancaneaux v viiala",
+   "opened": "2026-11-18T03:19:53+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17VIIBLA-VII",
    "kalshi_side": "yes",
    "shares": {
-    "kalshi": 78.0,
-    "polyus": 78.0
+    "polyus": 79.0,
+    "kalshi": 79.0
    },
-   "cost": 75.38,
-   "expected": 2.62
+   "cost": 76.5,
+   "expected": 2.49
   }
  ],
- "settled_pnl": 222.17,
+ "settled_pnl": 246.46,
  "unwind_pnl": -60.76,
- "fires": 63,
- "settled": 45,
- "rebalances": 10
+ "fires": 64,
+ "settled": 47,
+ "rebalances": 11
 }
