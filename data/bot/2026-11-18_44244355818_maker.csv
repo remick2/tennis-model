@@ -11,3 +11,5 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-18T10:35:53+00:00,mchugh v mitsui,False,kalshi:KXATPCHALLENGERMATCH-26NOV18MCHMIT-MIT:yes,0.64,78,True,0.0146,2.0,hedged,polyus:aec-atp-aidmch-shumit-2026-11-18:0,0.33,1.14,-2.05,1.14,True
 2026-11-18T10:36:05+00:00,mchugh v mitsui,False,kalshi:KXATPCHALLENGERMATCH-26NOV18MCHMIT-MIT:yes,0.64,78,True,0.0146,0.9,hedged,polyus:aec-atp-aidmch-shumit-2026-11-18:0,0.33,1.14,-2.05,1.14,True
 2026-11-18T10:36:37+00:00,mchugh v mitsui,False,kalshi:KXATPCHALLENGERMATCH-26NOV18MCHMIT-MIT:yes,0.64,78,True,0.0146,2.0,hedged,polyus:aec-atp-aidmch-shumit-2026-11-18:0,0.33,1.14,-2.05,1.14,True
+2026-11-18T11:32:46+00:00,kennedy v maxted,False,kalshi:KXATPCHALLENGERMATCH-26NOV18KENMAX-MAX:yes,0.65,76,True,0.0149,2.0,unwound,polyus:aec-atp-jacken-luimax-2026-11-18:0,0.37,-2.75,-1.99,-1.99,True
+2026-11-18T11:41:20+00:00,giustino v gulin,True,kalshi:KXATPCHALLENGERMATCH-26NOV18GIUGUL-GUL:yes,0.6,83,True,0.0138,2.0,hedged,polyus:aec-atp-lorgiu-svygul-2026-11-18:0,0.38,0.3,-2.24,0.3,True
