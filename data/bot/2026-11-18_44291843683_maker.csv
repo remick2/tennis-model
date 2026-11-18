@@ -329,3 +329,16 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-18T16:19:16+00:00,bigun v dominko,True,kalshi:KXATPCHALLENGERMATCH-26NOV18DOMBIG-BIG:yes,0.39,128,False,0.0131,2.0,hedged,polyus:aec-atp-sebdom-kaybig-2026-11-18:0,0.61,-2.12,-3.39,-2.12,True
 2026-11-18T16:23:08+00:00,bigun v dominko,True,kalshi:KXATPCHALLENGERMATCH-26NOV18DOMBIG-BIG:yes,0.29,172,False,0.0149,2.0,hedged,polyus:aec-atp-sebdom-kaybig-2026-11-18:0,0.72,-4.13,-4.15,-4.13,True
 2026-11-18T16:24:34+00:00,bigun v dominko,True,kalshi:KXATPCHALLENGERMATCH-26NOV18DOMBIG-BIG:yes,0.21,238,True,0.0077,2.2,hedged,polyus:aec-atp-sebdom-kaybig-2026-11-18:0,0.81,-7.31,-7.32,-7.31,True
+2026-11-18T16:24:55+00:00,duckworth v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV18DUCVAS-DUC:yes,0.82,60,False,0.0107,2.0,unwound,polyus:aec-atp-jamduc-eervas-2026-11-16:1,0.21,-2.49,-1.89,-1.89,True
+2026-11-18T16:25:33+00:00,duckworth v vasa,True,polyus:aec-atp-jamduc-eervas-2026-11-16:1,0.18,277,True,0.0184,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18DUCVAS-VAS:no,0.84,-8.15,-8.13,-8.13,True
+2026-11-18T16:26:11+00:00,duckworth v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV18DUCVAS-DUC:yes,0.81,61,False,0.0102,1.9,hedged,polyus:aec-atp-jamduc-eervas-2026-11-16:1,0.22,-2.56,-2.56,-2.56,True
+2026-11-18T16:27:03+00:00,costoulas v maristany,True,polyus:aec-wta-guimar-sofcos-2026-11-18:1,0.09,555,True,0.0131,2.0,unwound,kalshi:KXWTACHALLENGERMATCH-26NOV18MARCOS-MAR:yes,0.93,-13.63,-13.61,-13.61,True
+2026-11-18T16:27:11+00:00,duckworth v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV18DUCVAS-DUC:yes,0.81,61,False,0.0102,2.1,hedged,polyus:aec-atp-jamduc-eervas-2026-11-16:1,0.22,-2.56,-2.56,-2.56,True
+2026-11-18T16:28:01+00:00,duckworth v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV18DUCVAS-VAS:yes,0.19,263,False,0.0085,2.0,hedged,polyus:aec-atp-jamduc-eervas-2026-11-16:0,0.84,-10.35,-10.36,-10.35,True
+2026-11-18T16:28:37+00:00,johnson v perot,True,kalshi:KXATPCHALLENGERMATCH-26NOV18JOHPER-PER:yes,0.4,125,False,0.013,2.0,hedged,polyus:aec-atp-spejoh-rapper-2026-11-18:0,0.61,-3.32,-3.33,-3.32,True
+2026-11-18T16:28:44+00:00,costoulas v maristany,True,kalshi:KXWTACHALLENGERMATCH-26NOV18MARCOS-COS:yes,0.04,1250,False,0.0067,2.7,hedged,polyus:aec-wta-guimar-sofcos-2026-11-18:0,0.97,-15.03,-15.05,-15.03,True
+2026-11-18T16:28:44+00:00,costoulas v maristany,True,polyus:aec-wta-guimar-sofcos-2026-11-18:1,0.04,1250,False,0.0067,2.7,unwound,kalshi:KXWTACHALLENGERMATCH-26NOV18MARCOS-MAR:yes,0.97,-15.05,-15.03,-15.03,True
+2026-11-18T16:29:29+00:00,johnson v perot,True,kalshi:KXATPCHALLENGERMATCH-26NOV18JOHPER-PER:yes,0.36,138,False,0.0135,2.0,hedged,polyus:aec-atp-spejoh-rapper-2026-11-18:0,0.66,-4.91,-4.93,-4.91,True
+2026-11-18T16:30:19+00:00,duckworth v vasa,True,polyus:aec-atp-jamduc-eervas-2026-11-16:1,0.25,200,True,0.0062,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18DUCVAS-VAS:no,0.78,-8.4,-8.39,-8.39,True
+2026-11-18T16:31:29+00:00,duckworth v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV18DUCVAS-DUC:yes,0.82,60,True,0.0107,2.0,unwound,polyus:aec-atp-jamduc-eervas-2026-11-16:1,0.2,-1.87,-1.25,-1.25,True
+2026-11-18T16:32:47+00:00,duckworth v vasa,True,polyus:aec-atp-jamduc-eervas-2026-11-16:0,0.69,72,True,0.0056,2.3,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18DUCVAS-VAS:yes,0.34,-3.29,-4.02,-3.29,True
