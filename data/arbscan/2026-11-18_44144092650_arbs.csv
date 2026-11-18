@@ -29,3 +29,55 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-18T00:06:26+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.29,Oriol Roca Batalla,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-18T00:06:16+00:00
 2026-11-18T00:06:36+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.29,Oriol Roca Batalla,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-18T00:06:16+00:00
 2026-11-18T00:09:46+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.29,Patrick Zahraj,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-18T00:09:46+00:00
+2026-11-18T00:09:56+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.29,Patrick Zahraj,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-18T00:09:46+00:00
+2026-11-18T00:12:16+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.28,Patrick Zahraj,kalshi,0.67,0.9795,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-18T00:12:16+00:00
+2026-11-18T00:12:26+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.28,Patrick Zahraj,kalshi,0.68,0.9892,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-18T00:12:16+00:00
+2026-11-18T00:12:36+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.28,Patrick Zahraj,kalshi,0.68,0.9892,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-18T00:12:16+00:00
+2026-11-18T00:12:46+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.28,Patrick Zahraj,kalshi,0.68,0.9892,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-18T00:12:16+00:00
+2026-11-18T00:12:56+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.2,Patrick Zahraj,kalshi,0.73,0.9549,0.0,0.0,0.0,0.0,,0.81,,0.1,True,2026-11-18T00:12:16+00:00
+2026-11-18T00:12:56+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.39,Oriol Roca Batalla,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.45,,,0.1,True,2026-11-18T00:12:56+00:00
+2026-11-18T00:13:06+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.2,Patrick Zahraj,kalshi,0.73,0.9549,0.0,0.0,0.0,0.0,,0.81,,0.1,True,2026-11-18T00:12:16+00:00
+2026-11-18T00:13:06+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.39,Oriol Roca Batalla,polyus,0.56,0.9838,0.0,0.0,0.0,0.0,0.45,,,0.1,True,2026-11-18T00:12:56+00:00
+2026-11-18T00:13:26+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.2,Patrick Zahraj,polyus,0.74,0.9646,0.0,0.0,0.0,0.0,0.27,,,0.1,True,2026-11-18T00:13:26+00:00
+2026-11-18T00:13:36+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.2,Patrick Zahraj,polyus,0.74,0.9646,0.0,0.0,0.0,0.0,0.27,,,0.1,True,2026-11-18T00:13:26+00:00
+2026-11-18T00:14:06+00:00,alcala v batalla,True,Max Alcala Gurri,polyus,0.39,Oriol Roca Batalla,kalshi,0.56,0.9838,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-18T00:14:06+00:00
+2026-11-18T00:14:16+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.27,Patrick Zahraj,polyus,0.68,0.9789,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-18T00:14:16+00:00
+2026-11-18T00:14:16+00:00,alcala v batalla,True,Max Alcala Gurri,polyus,0.39,Oriol Roca Batalla,kalshi,0.56,0.9838,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-18T00:14:06+00:00
+2026-11-18T00:14:26+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.27,Patrick Zahraj,polyus,0.68,0.9789,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-18T00:14:16+00:00
+2026-11-18T00:14:26+00:00,alcala v batalla,True,Max Alcala Gurri,polyus,0.39,Oriol Roca Batalla,kalshi,0.56,0.9838,0.0,0.0,0.0,0.0,,0.62,,0.1,True,2026-11-18T00:14:06+00:00
+2026-11-18T00:14:46+00:00,alcala v batalla,True,Max Alcala Gurri,polyus,0.34,Oriol Roca Batalla,kalshi,0.62,0.9921,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-18T00:14:46+00:00
+2026-11-18T00:16:06+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.39,Patrick Zahraj,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,,,0.1,True,2026-11-18T00:16:06+00:00
+2026-11-18T00:16:16+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.39,Patrick Zahraj,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,,,0.1,True,2026-11-18T00:16:06+00:00
+2026-11-18T00:16:26+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.39,Patrick Zahraj,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,,,0.1,True,2026-11-18T00:16:06+00:00
+2026-11-18T00:16:36+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.39,Patrick Zahraj,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,,,0.1,True,2026-11-18T00:16:06+00:00
+2026-11-18T00:16:36+00:00,mchugh v zhang,True,Aidan McHugh,kalshi,0.94,Jeremy Zhang,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-18T00:16:36+00:00
+2026-11-18T00:17:06+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.39,Patrick Zahraj,kalshi,0.57,0.9937,0.0,0.0,0.0,0.0,,0.63,,0.1,True,2026-11-18T00:17:06+00:00
+2026-11-18T00:17:16+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.38,Patrick Zahraj,kalshi,0.55,0.9637,0.0,0.0,0.0,0.0,,0.63,,0.1,True,2026-11-18T00:17:06+00:00
+2026-11-18T00:17:26+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.38,Patrick Zahraj,kalshi,0.55,0.9637,0.0,0.0,0.0,0.0,,0.63,,0.1,True,2026-11-18T00:17:06+00:00
+2026-11-18T00:17:36+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.38,Patrick Zahraj,kalshi,0.55,0.9637,0.0,0.0,0.0,0.0,,0.63,,0.1,True,2026-11-18T00:17:06+00:00
+2026-11-18T00:18:26+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.33,Patrick Zahraj,kalshi,0.61,0.972,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-18T00:18:26+00:00
+2026-11-18T00:18:36+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.33,Patrick Zahraj,kalshi,0.61,0.972,0.0,0.0,0.0,0.0,,0.67,,0.3,True,2026-11-18T00:18:26+00:00
+2026-11-18T00:18:46+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.33,Patrick Zahraj,kalshi,0.61,0.972,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-18T00:18:26+00:00
+2026-11-18T00:19:26+00:00,labrana v rivera,True,Antonia Vergara,polyus,0.51,Fernanda Labrana,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-18T00:19:26+00:00
+2026-11-18T00:19:36+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.29,Patrick Zahraj,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-18T00:19:36+00:00
+2026-11-18T00:19:46+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.29,Patrick Zahraj,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-18T00:19:36+00:00
+2026-11-18T00:19:56+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.29,Patrick Zahraj,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-18T00:19:36+00:00
+2026-11-18T00:20:26+00:00,aboian v kolar,True,Valerio Aboian,polyus,0.37,Zdenek Kolar,kalshi,0.57,0.9734,0.0,0.0,0.0,0.0,,0.64,,0.1,True,2026-11-18T00:20:26+00:00
+2026-11-18T00:21:46+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.22,Patrick Zahraj,kalshi,0.73,0.9757,0.0,0.0,0.0,0.0,,0.79,,0.1,True,2026-11-18T00:21:46+00:00
+2026-11-18T00:21:56+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.22,Patrick Zahraj,kalshi,0.73,0.9757,0.0,0.0,0.0,0.0,,0.79,,0.1,True,2026-11-18T00:21:46+00:00
+2026-11-18T00:21:56+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.4,Oriol Roca Batalla,polyus,0.55,0.984,0.0,0.0,0.0,0.0,0.46,,,0.1,True,2026-11-18T00:21:56+00:00
+2026-11-18T00:22:06+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.15,Patrick Zahraj,kalshi,0.73,0.9027,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-18T00:21:46+00:00
+2026-11-18T00:22:06+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.4,Oriol Roca Batalla,polyus,0.55,0.984,0.0,0.0,0.0,0.0,0.46,,,0.1,True,2026-11-18T00:21:56+00:00
+2026-11-18T00:22:16+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.15,Patrick Zahraj,kalshi,0.79,0.9605,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-18T00:21:46+00:00
+2026-11-18T00:22:26+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.15,Patrick Zahraj,kalshi,0.79,0.9605,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-18T00:21:46+00:00
+2026-11-18T00:22:36+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.15,Patrick Zahraj,kalshi,0.79,0.9605,0.0,0.0,0.0,0.0,,0.81,,0.1,True,2026-11-18T00:21:46+00:00
+2026-11-18T00:22:46+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.15,Patrick Zahraj,polyus,0.81,0.9796,0.0,0.0,0.0,0.0,0.2,,,0.1,True,2026-11-18T00:22:46+00:00
+2026-11-18T00:22:56+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.15,Patrick Zahraj,polyus,0.81,0.9796,0.0,0.0,0.0,0.0,0.2,,,0.1,True,2026-11-18T00:22:46+00:00
+2026-11-18T00:23:06+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.15,Patrick Zahraj,polyus,0.81,0.9796,0.0,0.0,0.0,0.0,0.2,,,0.1,True,2026-11-18T00:22:46+00:00
+2026-11-18T00:23:06+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.42,Oriol Roca Batalla,polyus,0.53,0.9844,0.0,0.0,0.0,0.0,0.48,,,0.1,True,2026-11-18T00:23:06+00:00
+2026-11-18T00:23:36+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.12,Patrick Zahraj,kalshi,0.81,0.9481,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-18T00:23:36+00:00
+2026-11-18T00:23:36+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.48,Oriol Roca Batalla,polyus,0.46,0.9747,0.0,0.0,0.0,0.0,0.55,,,0.1,True,2026-11-18T00:23:36+00:00
+2026-11-18T00:23:46+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.12,Patrick Zahraj,kalshi,0.81,0.9481,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-18T00:23:36+00:00
+2026-11-18T00:23:46+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.48,Oriol Roca Batalla,polyus,0.46,0.9747,0.0,0.0,0.0,0.0,0.55,,,0.1,True,2026-11-18T00:23:36+00:00
+2026-11-18T00:24:06+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.06,Patrick Zahraj,kalshi,0.89,0.9608,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-18T00:24:06+00:00
+2026-11-18T00:24:16+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.06,Patrick Zahraj,kalshi,0.89,0.9608,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-18T00:24:06+00:00
