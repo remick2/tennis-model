@@ -725,3 +725,20 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-18T20:50:10+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.95,Ozan Baris,polyus,0.03,0.9853,0.0,0.0,0.0,0.0,0.98,,,0.0,True,2026-11-18T20:49:50+00:00
 2026-11-18T20:50:40+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.96,Ozan Baris,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,,0.05,,0.0,True,2026-11-18T20:50:40+00:00
 2026-11-18T20:50:50+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.96,Ozan Baris,kalshi,0.03,0.9947,0.0,0.0,0.0,0.0,,0.05,,0.0,True,2026-11-18T20:50:40+00:00
+2026-11-18T20:51:10+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.94,Ozan Baris,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-18T20:51:10+00:00
+2026-11-18T20:51:20+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.94,Ozan Baris,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-18T20:51:10+00:00
+2026-11-18T20:51:30+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.89,Ozan Baris,kalshi,0.07,0.9714,0.0,0.0,0.0,0.0,,0.12,,0.0,True,2026-11-18T20:51:10+00:00
+2026-11-18T20:51:40+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.89,Ozan Baris,kalshi,0.07,0.9714,0.0,0.0,0.0,0.0,,0.12,,0.0,True,2026-11-18T20:51:10+00:00
+2026-11-18T20:51:50+00:00,baris v tarvet,True,Oliver Tarvet,polyus,0.89,Ozan Baris,kalshi,0.07,0.9714,0.0,0.0,0.0,0.0,,0.12,,0.0,True,2026-11-18T20:51:10+00:00
+2026-11-18T20:52:10+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.89,Ozan Baris,polyus,0.05,0.9502,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-18T20:52:10+00:00
+2026-11-18T20:52:20+00:00,baris v tarvet,True,Oliver Tarvet,kalshi,0.89,Ozan Baris,polyus,0.05,0.9502,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-18T20:52:10+00:00
+2026-11-18T20:53:00+00:00,alves v barrena,True,Alex Barrena,polyus,0.09,Felipe Meligeni Alves,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.91,,0.0,True,2026-11-18T20:53:00+00:00
+2026-11-18T20:53:10+00:00,alves v barrena,True,Alex Barrena,polyus,0.09,Felipe Meligeni Alves,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.91,,0.0,True,2026-11-18T20:53:00+00:00
+2026-11-18T20:53:20+00:00,alves v barrena,True,Alex Barrena,kalshi,0.09,Felipe Meligeni Alves,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-18T20:53:20+00:00
+2026-11-18T20:53:30+00:00,alves v barrena,True,Alex Barrena,kalshi,0.09,Felipe Meligeni Alves,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-18T20:53:20+00:00
+2026-11-18T20:53:40+00:00,alves v barrena,True,Alex Barrena,kalshi,0.09,Felipe Meligeni Alves,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-18T20:53:20+00:00
+2026-11-18T20:56:10+00:00,alves v barrena,True,Alex Barrena,kalshi,0.23,Felipe Meligeni Alves,polyus,0.74,0.9958,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-18T20:56:10+00:00
+2026-11-18T20:56:20+00:00,alves v barrena,True,Alex Barrena,kalshi,0.23,Felipe Meligeni Alves,polyus,0.74,0.9958,0.0,0.0,0.0,0.0,0.27,,,0.0,True,2026-11-18T20:56:10+00:00
+2026-11-18T20:57:20+00:00,cobolli v tiafoe,True,Flavio Cobolli,polyus,0.02,Frances Tiafoe,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.0,True,2026-11-18T20:57:20+00:00
+2026-11-18T20:57:30+00:00,cobolli v tiafoe,True,Flavio Cobolli,polyus,0.02,Frances Tiafoe,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.0,True,2026-11-18T20:57:20+00:00
+2026-11-18T21:01:20+00:00,alves v barrena,True,Alex Barrena,kalshi,0.31,Felipe Meligeni Alves,polyus,0.64,0.981,0.0,0.0,0.0,0.0,0.38,,,0.0,True,2026-11-18T21:01:20+00:00
