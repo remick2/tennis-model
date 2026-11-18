@@ -155,3 +155,7 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-18T14:23:06+00:00,donald v taberner,True,kalshi:KXATPCHALLENGERMATCH-26NOV18TABDON-TAB:yes,0.05,1000,True,0.0061,2.0,hedged,polyus:aec-atp-cartab-matdon-2026-11-18:1,0.94,6.08,,6.08,True
 2026-11-18T14:23:08+00:00,alcaraz v medvedev,True,kalshi:KXATPMATCH-26NOV17ALCMED-ALC:yes,0.97,51,True,0.0081,1.9,hedged,polyus:aec-atp-caralc-danmed-2026-11-15:1,0.03,-0.13,-0.67,-0.13,True
 2026-11-18T14:23:50+00:00,budkov v rodionov,True,polyus:aec-atp-jurrod-nickja-2026-11-18:1,0.93,53,True,0.0061,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18RODBUD-ROD:yes,0.06,0.32,-0.8,0.32,True
+2026-11-18T14:25:27+00:00,budkov v rodionov,True,polyus:aec-atp-jurrod-nickja-2026-11-18:1,0.93,53,True,0.0061,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18RODBUD-ROD:yes,0.08,-0.8,-1.36,-0.8,True
+2026-11-18T14:28:33+00:00,djere v fearnley,True,kalshi:KXATPCHALLENGERMATCH-26NOV18DJEFEA-FEA:yes,0.47,106,False,0.0126,2.0,hedged,polyus:aec-atp-lasdje-jacfea-2026-11-18:0,0.54,-2.89,-2.9,-2.89,True
+2026-11-18T14:32:17+00:00,ayeni v schoolkate,False,kalshi:KXATPCHALLENGERMATCH-26NOV18SCHAVE-SCH:yes,0.81,61,True,0.0102,2.0,hedged,polyus:aec-atp-trisch-alaaye-2026-11-18:1,0.17,0.62,-1.29,0.62,True
+2026-11-18T14:38:33+00:00,djere v fearnley,True,kalshi:KXATPCHALLENGERMATCH-26NOV18DJEFEA-FEA:yes,0.6,83,False,0.0138,2.0,hedged,polyus:aec-atp-lasdje-jacfea-2026-11-18:0,0.4,-1.38,-2.24,-1.38,True
