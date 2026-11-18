@@ -1,0 +1,5 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-18T09:53:07+00:00,mchugh v mitsui,False,kalshi:KXATPCHALLENGERMATCH-26NOV18MCHMIT-MIT:yes,0.68,73,True,0.0054,2.0,hedged,polyus:aec-atp-aidmch-shumit-2026-11-18:0,0.3,0.39,-3.64,0.39,True
+2026-11-18T09:55:09+00:00,hercog v masarova,False,kalshi:KXWTACHALLENGERMATCH-26NOV18MASHER-HER:yes,0.43,116,False,0.0127,30.0,hedged,polyus:aec-wta-rebmas-polher-2026-11-18:0,0.54,1.48,-4.23,1.48,True
+2026-11-18T09:57:45+00:00,medvedev v tiafoe,False,kalshi:KXATPMATCH-26NOV17MEDTIA-MED:yes,0.61,81,True,0.0098,2.0,hedged,polyus:aec-atp-danmed-fratia-2026-11-15:1,0.36,0.8,-20.15,0.8,True
+2026-11-18T09:58:01+00:00,medvedev v tiafoe,False,kalshi:KXATPMATCH-26NOV17MEDTIA-MED:yes,0.61,81,True,0.02,2.6,hedged,polyus:aec-atp-danmed-fratia-2026-11-15:1,0.36,0.8,-20.15,0.8,True
