@@ -531,3 +531,80 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-18T15:09:31+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.16,Laslo Djere,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-18T15:09:31+00:00
 2026-11-18T15:09:41+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.16,Laslo Djere,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-18T15:09:31+00:00
 2026-11-18T15:10:11+00:00,gaston v henning,True,Hugo Gaston,polyus,0.82,Philip Henning,kalshi,0.14,0.9787,0.0,0.0,0.0,0.0,,0.19,,0.0,True,2026-11-18T15:10:11+00:00
+2026-11-18T15:10:51+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.82,Philip Henning,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-18T15:10:51+00:00
+2026-11-18T15:11:01+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.82,Philip Henning,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-18T15:10:51+00:00
+2026-11-18T15:11:11+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.44,Michele Ribecai,polyus,0.45,0.9244,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-18T15:11:11+00:00
+2026-11-18T15:11:21+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.44,Michele Ribecai,polyus,0.44,0.9144,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-18T15:11:11+00:00
+2026-11-18T15:11:31+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.44,Michele Ribecai,polyus,0.44,0.9144,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-18T15:11:11+00:00
+2026-11-18T15:12:41+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.85,Philip Henning,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.0,True,2026-11-18T15:12:41+00:00
+2026-11-18T15:12:51+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.85,Philip Henning,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.0,True,2026-11-18T15:12:41+00:00
+2026-11-18T15:13:01+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.85,Philip Henning,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-18T15:12:41+00:00
+2026-11-18T15:13:11+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.29,Laslo Djere,polyus,0.62,0.9408,0.0,0.0,0.0,0.0,0.39,,,0.0,True,2026-11-18T15:13:11+00:00
+2026-11-18T15:13:11+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.85,Philip Henning,polyus,0.11,0.9757,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-18T15:12:41+00:00
+2026-11-18T15:13:21+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.33,Laslo Djere,polyus,0.62,0.9819,0.0,0.0,0.0,0.0,0.4,,,0.0,True,2026-11-18T15:13:11+00:00
+2026-11-18T15:13:31+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.33,Laslo Djere,polyus,0.61,0.972,0.0,0.0,0.0,0.0,0.4,,,0.0,True,2026-11-18T15:13:11+00:00
+2026-11-18T15:13:41+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.33,Laslo Djere,polyus,0.61,0.972,0.0,0.0,0.0,0.0,0.4,,,0.0,True,2026-11-18T15:13:11+00:00
+2026-11-18T15:14:11+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.52,Michele Ribecai,kalshi,0.44,0.9946,0.0,0.0,0.0,0.0,,0.49,,0.0,True,2026-11-18T15:14:11+00:00
+2026-11-18T15:14:31+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.93,Philip Henning,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-18T15:14:31+00:00
+2026-11-18T15:14:41+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.93,Philip Henning,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-18T15:14:31+00:00
+2026-11-18T15:14:51+00:00,gaston v henning,True,Hugo Gaston,polyus,0.93,Philip Henning,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-18T15:14:51+00:00
+2026-11-18T15:15:01+00:00,gaston v henning,True,Hugo Gaston,polyus,0.93,Philip Henning,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.0,True,2026-11-18T15:14:51+00:00
+2026-11-18T15:15:11+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.51,Laslo Djere,polyus,0.45,0.9947,0.0,0.0,0.0,0.0,0.55,,,0.0,True,2026-11-18T15:15:11+00:00
+2026-11-18T15:15:11+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.5,Michele Ribecai,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-18T15:15:11+00:00
+2026-11-18T15:15:21+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.51,Laslo Djere,polyus,0.45,0.9947,0.0,0.0,0.0,0.0,0.55,,,0.0,True,2026-11-18T15:15:11+00:00
+2026-11-18T15:15:21+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.5,Michele Ribecai,kalshi,0.46,0.9948,0.0,0.0,0.0,0.0,,0.51,,0.0,True,2026-11-18T15:15:11+00:00
+2026-11-18T15:15:31+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.51,Laslo Djere,polyus,0.45,0.9947,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-18T15:15:11+00:00
+2026-11-18T15:15:41+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.5,Michele Ribecai,polyus,0.46,0.9948,0.0,0.0,0.0,0.0,0.55,,,0.0,True,2026-11-18T15:15:41+00:00
+2026-11-18T15:15:51+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.5,Michele Ribecai,polyus,0.41,0.9443,0.0,0.0,0.0,0.0,0.6,,,0.0,True,2026-11-18T15:15:41+00:00
+2026-11-18T15:16:01+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.5,Michele Ribecai,polyus,0.41,0.9443,0.0,0.0,0.0,0.0,0.6,,,0.0,True,2026-11-18T15:15:41+00:00
+2026-11-18T15:16:01+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.96,Philip Henning,polyus,0.02,0.9841,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-18T15:16:01+00:00
+2026-11-18T15:16:11+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.97,Philip Henning,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-18T15:16:01+00:00
+2026-11-18T15:16:21+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.97,Philip Henning,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-18T15:16:01+00:00
+2026-11-18T15:16:31+00:00,gaston v henning,True,Hugo Gaston,kalshi,0.97,Philip Henning,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-18T15:16:01+00:00
+2026-11-18T15:16:31+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.55,Michele Ribecai,kalshi,0.41,0.9941,0.0,0.0,0.0,0.0,,0.46,,0.0,True,2026-11-18T15:16:31+00:00
+2026-11-18T15:16:51+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.56,Laslo Djere,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-18T15:16:51+00:00
+2026-11-18T15:17:01+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.55,Michele Ribecai,polyus,0.41,0.9941,0.0,0.0,0.0,0.0,0.6,,,0.0,True,2026-11-18T15:17:01+00:00
+2026-11-18T15:17:41+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.53,Sofia Costoulas,polyus,0.42,0.9844,0.0,0.0,0.0,0.0,0.59,,,0.0,True,2026-11-18T15:17:41+00:00
+2026-11-18T15:18:41+00:00,butvilas v ribecai,True,Edas Butvilas,kalshi,0.63,Michele Ribecai,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-18T15:18:41+00:00
+2026-11-18T15:19:01+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.63,Laslo Djere,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,,0.38,,0.0,True,2026-11-18T15:19:01+00:00
+2026-11-18T15:19:11+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.63,Laslo Djere,kalshi,0.33,0.9917,0.0,0.0,0.0,0.0,,0.38,,0.0,True,2026-11-18T15:19:01+00:00
+2026-11-18T15:19:31+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.63,Sofia Costoulas,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-18T15:19:31+00:00
+2026-11-18T15:19:41+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.63,Sofia Costoulas,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-18T15:19:31+00:00
+2026-11-18T15:19:51+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.63,Sofia Costoulas,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-18T15:19:31+00:00
+2026-11-18T15:20:01+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.64,Laslo Djere,polyus,0.31,0.981,0.0,0.0,0.0,0.0,0.7,,,0.0,True,2026-11-18T15:20:01+00:00
+2026-11-18T15:20:01+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.63,Sofia Costoulas,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-18T15:19:31+00:00
+2026-11-18T15:20:11+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.68,Laslo Djere,polyus,0.25,0.9583,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-18T15:20:01+00:00
+2026-11-18T15:20:21+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.68,Laslo Djere,polyus,0.25,0.9583,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-18T15:20:01+00:00
+2026-11-18T15:20:31+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.57,Michele Ribecai,kalshi,0.37,0.9734,0.0,0.0,0.0,0.0,,0.44,,0.0,True,2026-11-18T15:20:31+00:00
+2026-11-18T15:20:41+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.69,Laslo Djere,kalshi,0.24,0.9576,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-18T15:20:41+00:00
+2026-11-18T15:20:51+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.7,Laslo Djere,kalshi,0.24,0.9674,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-18T15:20:41+00:00
+2026-11-18T15:21:01+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.64,Sofia Costoulas,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.0,True,2026-11-18T15:21:01+00:00
+2026-11-18T15:21:01+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.73,Laslo Djere,kalshi,0.24,0.9965,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-18T15:20:41+00:00
+2026-11-18T15:21:21+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.69,Laslo Djere,polyus,0.21,0.9265,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-18T15:21:21+00:00
+2026-11-18T15:21:31+00:00,djere v fearnley,True,Jacob Fearnley,kalshi,0.69,Laslo Djere,polyus,0.21,0.9265,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-18T15:21:21+00:00
+2026-11-18T15:21:31+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.68,Sofia Costoulas,polyus,0.28,0.9892,0.0,0.0,0.0,0.0,0.73,,,0.0,True,2026-11-18T15:21:31+00:00
+2026-11-18T15:22:11+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.69,Laslo Djere,kalshi,0.19,0.9056,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-18T15:22:11+00:00
+2026-11-18T15:22:21+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.69,Laslo Djere,kalshi,0.19,0.9056,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-18T15:22:11+00:00
+2026-11-18T15:22:31+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.69,Laslo Djere,kalshi,0.19,0.9056,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-18T15:22:11+00:00
+2026-11-18T15:22:31+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.47,Michele Ribecai,kalshi,0.47,0.9747,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-18T15:22:31+00:00
+2026-11-18T15:22:31+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.73,Sofia Costoulas,polyus,0.23,0.9861,0.0,0.0,0.0,0.0,0.78,,,0.0,True,2026-11-18T15:22:31+00:00
+2026-11-18T15:22:41+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.71,Laslo Djere,kalshi,0.19,0.9251,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-18T15:22:11+00:00
+2026-11-18T15:22:41+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.47,Michele Ribecai,kalshi,0.47,0.9747,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-18T15:22:31+00:00
+2026-11-18T15:22:41+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.73,Sofia Costoulas,polyus,0.23,0.9861,0.0,0.0,0.0,0.0,0.78,,,0.0,True,2026-11-18T15:22:31+00:00
+2026-11-18T15:23:11+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.38,Michele Ribecai,kalshi,0.54,0.9538,0.0,0.0,0.0,0.0,,0.63,,0.0,True,2026-11-18T15:23:11+00:00
+2026-11-18T15:23:11+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.61,Laslo Djere,kalshi,0.32,0.9618,0.0,0.0,0.0,0.0,,0.4,,0.0,True,2026-11-18T15:23:11+00:00
+2026-11-18T15:23:21+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.61,Laslo Djere,kalshi,0.29,0.9309,0.0,0.0,0.0,0.0,,0.41,,0.0,True,2026-11-18T15:23:11+00:00
+2026-11-18T15:23:31+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.6,Laslo Djere,kalshi,0.29,0.9211,0.0,0.0,0.0,0.0,,0.41,,0.0,True,2026-11-18T15:23:11+00:00
+2026-11-18T15:23:41+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.63,Laslo Djere,kalshi,0.29,0.9506,0.0,0.0,0.0,0.0,,0.44,,0.0,True,2026-11-18T15:23:11+00:00
+2026-11-18T15:23:41+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.69,Sofia Costoulas,kalshi,0.26,0.9783,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-18T15:23:41+00:00
+2026-11-18T15:23:51+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.28,Michele Ribecai,kalshi,0.66,0.9697,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-18T15:23:51+00:00
+2026-11-18T15:23:51+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.54,Laslo Djere,kalshi,0.41,0.9842,0.0,0.0,0.0,0.0,,0.47,,0.0,True,2026-11-18T15:23:11+00:00
+2026-11-18T15:24:01+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.28,Michele Ribecai,kalshi,0.66,0.9697,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-18T15:23:51+00:00
+2026-11-18T15:24:01+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.54,Laslo Djere,kalshi,0.41,0.9842,0.0,0.0,0.0,0.0,,0.47,,0.0,True,2026-11-18T15:23:11+00:00
+2026-11-18T15:24:11+00:00,butvilas v ribecai,True,Edas Butvilas,polyus,0.28,Michele Ribecai,kalshi,0.66,0.9697,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-18T15:23:51+00:00
+2026-11-18T15:24:11+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.63,Sofia Costoulas,kalshi,0.32,0.9814,0.0,0.0,0.0,0.0,,0.38,,0.0,True,2026-11-18T15:24:11+00:00
+2026-11-18T15:24:11+00:00,djere v fearnley,True,Jacob Fearnley,polyus,0.54,Laslo Djere,kalshi,0.41,0.9842,0.0,0.0,0.0,0.0,,0.47,,0.0,True,2026-11-18T15:23:11+00:00
+2026-11-18T15:24:21+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.63,Sofia Costoulas,kalshi,0.32,0.9814,0.0,0.0,0.0,0.0,,0.38,,0.0,True,2026-11-18T15:24:11+00:00
+2026-11-18T15:24:31+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.64,Sofia Costoulas,kalshi,0.32,0.9912,0.0,0.0,0.0,0.0,,0.37,,0.0,True,2026-11-18T15:24:11+00:00
+2026-11-18T15:24:51+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.58,Sofia Costoulas,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,,0.43,,0.0,True,2026-11-18T15:24:51+00:00
+2026-11-18T15:25:01+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.58,Sofia Costoulas,kalshi,0.38,0.9934,0.0,0.0,0.0,0.0,,0.43,,0.0,True,2026-11-18T15:24:51+00:00
