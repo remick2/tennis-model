@@ -1,4 +1,4 @@
-# Consensus paper tracker — Tue Nov 17, 8:40PM MT
+# Consensus paper tracker — Tue Nov 17, 9:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 7-2 | +4.93 | 4-1 | +0.36 | 1 |
-| 2 agree | all 15 | 25-19 | +2.00 | 26-22 | -4.09 | 3 |
-| 2+ agree, 1+ against (split) | all 15 | 27-15 | +11.70 | 27-19 | +6.41 | 3 |
+| 2 agree | all 15 | 25-19 | +2.00 | 26-22 | -4.09 | 4 |
+| 2+ agree, 1+ against (split) | all 15 | 27-15 | +11.70 | 27-19 | +6.41 | 7 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 14-10 | +3.24 | 15-9 | +0.75 | 4 |
-| 2+ agree, 1+ against (split) | core 10 only | 10-4 | +6.46 | 10-8 | -0.98 | 1 |
+| 2 agree | core 10 only | 14-10 | +3.24 | 15-9 | +0.75 | 5 |
+| 2+ agree, 1+ against (split) | core 10 only | 10-4 | +6.46 | 10-8 | -0.98 | 2 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 9 of 30 graded plays · net +4.61u · 7 wins vs 5.0 expected, z = +1.41 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
@@ -85,3 +85,8 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-17 | NBA | Hornets vs. Lakers | Hornets (+7.5) (Spread) | 3 agree, 0 against | pre-game | monkeymashingkeyboard; drainedandpoor; BreakTheBank | — | 52.5c |
 | new | 2026-11-17 | NBA | Hornets vs. Lakers | Lakers (-7.5) (Spread) | 2 agree, 3 against | pre-game | jakepaulthegoat2008; ianf2026 | BreakTheBank; drainedandpoor; monkeymashingkeyboard | 47.5c |
 | new | 2026-11-17 | NBA | Jazz vs. Clippers | Over 226.5 (Total) | 2 agree, 1 against | in-play | 0x9f15613e; ianf2026 | jakepaulthegoat2008 | 53.5c |
+| new | 2026-11-17 | NBA | Hornets vs. Lakers | Lakers (Moneyline) | 2 agree, 3 against | in-play | purplegatto; jakepaulthegoat2008 | BreakTheBank; drainedandpoor; monkeymashingkeyboard | 60.5c |
+| new | 2026-11-17 | NBA | Hornets vs. Lakers | Lakers (-8.5) (Spread) | 2 agree, 1 against | in-play | purplegatto; jakepaulthegoat2008 | BreakTheBank | 31.5c |
+| new | 2026-11-17 | NBA | Jazz vs. Clippers | Clippers (Moneyline) | 2 agree, 1 against | in-play | purplegatto; BreakTheBank | jakepaulthegoat2008 | 71.5c |
+| new | 2026-11-17 | NBA | Hornets vs. Lakers | Lakers (-6.5) (Spread) | 2 agree, 1 against | in-play | jakepaulthegoat2008; ianf2026 | BreakTheBank | 39.5c |
+| new | 2026-11-17 | NBA | Hornets vs. Lakers | Under 220.5 (Total) | 2 agree, 0 against | in-play | jakepaulthegoat2008; JoeyAroyyOO | — | 26.0c |
