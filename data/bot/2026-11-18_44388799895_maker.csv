@@ -127,3 +127,13 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-18T22:58:28+00:00,kennedy v maxted,True,kalshi:KXATPCHALLENGERMATCH-26NOV18KENMAX-MAX:yes,0.48,104,False,0.0126,1.5,hedged,polyus:aec-atp-jacken-luimax-2026-11-18:0,0.55,-4.91,-4.92,-4.91,True
 2026-11-18T22:58:54+00:00,kennedy v maxted,True,kalshi:KXATPCHALLENGERMATCH-26NOV18KENMAX-KEN:yes,0.51,98,False,0.0127,2.0,hedged,polyus:aec-atp-jacken-luimax-2026-11-18:1,0.46,1.25,-2.7,1.25,True
 2026-11-18T22:59:22+00:00,alberto v boyer,True,kalshi:KXATPCHALLENGERMATCH-26NOV18OLIBOY-OLI:yes,0.18,277,False,0.0089,2.0,hedged,polyus:aec-atp-genoli-triboy-2026-11-18:1,0.83,-5.49,-5.51,-5.49,True
+2026-11-18T22:59:50+00:00,kennedy v maxted,True,polyus:aec-atp-jacken-luimax-2026-11-18:1,0.46,108,False,0.0125,2.1,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18KENMAX-MAX:no,0.55,-2.95,-2.94,-2.94,True
+2026-11-18T23:00:16+00:00,alberto v boyer,True,kalshi:KXATPCHALLENGERMATCH-26NOV18OLIBOY-OLI:yes,0.2,250,True,0.0081,2.0,hedged,polyus:aec-atp-genoli-triboy-2026-11-18:1,0.78,2.02,-16.45,2.02,True
+2026-11-18T23:02:54+00:00,kennedy v maxted,True,kalshi:KXATPCHALLENGERMATCH-26NOV18KENMAX-MAX:yes,0.35,142,False,0.0136,2.0,hedged,polyus:aec-atp-jacken-luimax-2026-11-18:0,0.65,-2.25,-3.65,-2.25,True
+2026-11-18T23:04:06+00:00,kennedy v maxted,True,kalshi:KXATPCHALLENGERMATCH-26NOV18KENMAX-KEN:yes,0.64,78,False,0.0146,2.0,hedged,polyus:aec-atp-jacken-luimax-2026-11-18:1,0.37,-2.04,-2.05,-2.04,True
+2026-11-18T23:04:27+00:00,kennedy v maxted,True,kalshi:KXATPCHALLENGERMATCH-26NOV18KENMAX-KEN:yes,0.6,83,False,0.0138,2.4,hedged,polyus:aec-atp-jacken-luimax-2026-11-18:1,0.41,-2.23,-2.24,-2.23,True
+2026-11-18T23:06:44+00:00,kennedy v maxted,True,kalshi:KXATPCHALLENGERMATCH-26NOV18KENMAX-KEN:yes,0.61,81,False,0.014,2.0,hedged,polyus:aec-atp-jacken-luimax-2026-11-18:1,0.36,1.13,-2.17,1.13,True
+2026-11-18T23:09:46+00:00,alberto v boyer,True,kalshi:KXATPCHALLENGERMATCH-26NOV18OLIBOY-BOY:yes,0.67,74,False,0.0051,2.0,hedged,polyus:aec-atp-genoli-triboy-2026-11-18:0,0.34,-1.89,-1.9,-1.89,True
+2026-11-18T23:11:24+00:00,alberto v boyer,True,kalshi:KXATPCHALLENGERMATCH-26NOV18OLIBOY-OLI:yes,0.29,172,False,0.0051,2.0,hedged,polyus:aec-atp-genoli-triboy-2026-11-18:1,0.72,-4.13,-4.15,-4.13,True
+2026-11-18T23:11:24+00:00,kennedy v maxted,True,kalshi:KXATPCHALLENGERMATCH-26NOV18KENMAX-MAX:yes,0.4,125,False,0.013,2.0,hedged,polyus:aec-atp-jacken-luimax-2026-11-18:0,0.61,-3.32,-3.33,-3.32,True
+2026-11-18T23:12:42+00:00,kennedy v maxted,True,kalshi:KXATPCHALLENGERMATCH-26NOV18KENMAX-KEN:yes,0.54,92,False,0.013,2.0,hedged,polyus:aec-atp-jacken-luimax-2026-11-18:1,0.48,-3.44,-3.45,-3.44,True
