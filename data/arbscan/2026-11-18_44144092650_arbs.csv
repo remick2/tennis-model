@@ -1,0 +1,31 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-18T00:00:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.73,Joaquin Aguilar Cardozo,kalshi,0.22,0.9757,0.0,0.0,0.0,0.0,,0.28,,0.1,True,2026-11-17T23:59:46+00:00
+2026-11-18T00:00:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.73,Joaquin Aguilar,polyus,0.22,0.9757,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-18T00:00:16+00:00
+2026-11-18T00:00:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.73,Joaquin Aguilar,polyus,0.22,0.9757,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-18T00:00:16+00:00
+2026-11-18T00:00:36+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.73,Joaquin Aguilar,polyus,0.22,0.9757,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-18T00:00:16+00:00
+2026-11-18T00:00:56+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.73,Joaquin Aguilar Cardozo,kalshi,0.22,0.9757,0.0,0.0,0.0,0.0,,0.28,,0.1,True,2026-11-18T00:00:56+00:00
+2026-11-18T00:01:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.73,Joaquin Aguilar Cardozo,kalshi,0.22,0.9757,0.0,0.0,0.0,0.0,,0.28,,0.1,True,2026-11-18T00:00:56+00:00
+2026-11-18T00:01:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,polyus,0.73,Joaquin Aguilar Cardozo,kalshi,0.22,0.9757,0.0,0.0,0.0,0.0,,0.28,,0.1,True,2026-11-18T00:00:56+00:00
+2026-11-18T00:01:36+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.73,Joaquin Aguilar,polyus,0.22,0.9757,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-18T00:01:36+00:00
+2026-11-18T00:02:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.79,Joaquin Aguilar,polyus,0.15,0.9605,0.0,0.0,0.0,0.0,0.86,,,0.1,True,2026-11-18T00:02:16+00:00
+2026-11-18T00:02:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.79,Joaquin Aguilar,polyus,0.15,0.9605,0.0,0.0,0.0,0.0,0.86,,,0.1,True,2026-11-18T00:02:16+00:00
+2026-11-18T00:02:56+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.86,Joaquin Aguilar,polyus,0.06,0.9323,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-18T00:02:56+00:00
+2026-11-18T00:03:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.89,Joaquin Aguilar,polyus,0.06,0.9608,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-18T00:02:56+00:00
+2026-11-18T00:03:06+00:00,alcala v batalla,True,Max Alcala Gurri,polyus,0.25,Oriol Roca Batalla,kalshi,0.71,0.9874,0.0,0.0,0.0,0.0,,0.76,,0.1,True,2026-11-18T00:03:06+00:00
+2026-11-18T00:03:06+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.29,Patrick Zahraj,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-18T00:03:06+00:00
+2026-11-18T00:03:16+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.89,Joaquin Aguilar,polyus,0.07,0.9714,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-18T00:02:56+00:00
+2026-11-18T00:03:16+00:00,alcala v batalla,True,Max Alcala Gurri,polyus,0.25,Oriol Roca Batalla,kalshi,0.71,0.9874,0.0,0.0,0.0,0.0,,0.76,,0.1,True,2026-11-18T00:03:06+00:00
+2026-11-18T00:03:16+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,polyus,0.29,Patrick Zahraj,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-18T00:03:06+00:00
+2026-11-18T00:03:36+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.29,Patrick Zahraj,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,,,0.1,True,2026-11-18T00:03:36+00:00
+2026-11-18T00:03:46+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.29,Patrick Zahraj,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,,,0.1,True,2026-11-18T00:03:36+00:00
+2026-11-18T00:03:56+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.29,Patrick Zahraj,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.35,,,0.1,True,2026-11-18T00:03:36+00:00
+2026-11-18T00:03:56+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.25,Oriol Roca Batalla,polyus,0.72,0.9971,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-18T00:03:56+00:00
+2026-11-18T00:04:56+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.95,Joaquin Aguilar,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-18T00:04:56+00:00
+2026-11-18T00:05:06+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.95,Joaquin Aguilar,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-18T00:04:56+00:00
+2026-11-18T00:05:26+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.24,Oriol Roca Batalla,polyus,0.73,0.9965,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-18T00:05:26+00:00
+2026-11-18T00:05:36+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.24,Oriol Roca Batalla,polyus,0.73,0.9965,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-18T00:05:26+00:00
+2026-11-18T00:06:16+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.28,Oriol Roca Batalla,polyus,0.69,0.999,0.0,0.0,0.0,0.0,0.32,,,0.1,True,2026-11-18T00:06:16+00:00
+2026-11-18T00:06:26+00:00,aguilar v jover,True,Carlos Sanchez Jover,kalshi,0.96,Joaquin Aguilar,polyus,0.02,0.9841,0.0,0.0,0.0,0.0,0.99,,,0.1,True,2026-11-18T00:06:26+00:00
+2026-11-18T00:06:26+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.29,Oriol Roca Batalla,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-18T00:06:16+00:00
+2026-11-18T00:06:36+00:00,alcala v batalla,True,Max Alcala Gurri,kalshi,0.29,Oriol Roca Batalla,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-18T00:06:16+00:00
+2026-11-18T00:09:46+00:00,nicholas v zahraj,True,Alvin Nicholas Tudorica,kalshi,0.29,Patrick Zahraj,polyus,0.68,0.9995,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-18T00:09:46+00:00
