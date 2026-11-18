@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 146.83,
-  "polyus": 17.96
+  "kalshi": 131.62,
+  "polyus": 0.36
  },
  "open": [
   {
@@ -56,11 +56,24 @@
    },
    "cost": 257.66,
    "expected": 8.33
+  },
+  {
+   "id": "f9cbbfcc4ca3",
+   "key": "aguiard v winter",
+   "opened": "2026-11-18T01:40:33+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17WINAGU-WIN",
+   "kalshi_side": "no",
+   "shares": {
+    "polyus": 34,
+    "kalshi": 34
+   },
+   "cost": 32.81,
+   "expected": 1.19
   }
  ],
  "settled_pnl": 211.61,
  "unwind_pnl": -60.76,
- "fires": 59,
+ "fires": 60,
  "settled": 42,
  "rebalances": 9
 }
