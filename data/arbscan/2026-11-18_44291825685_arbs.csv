@@ -793,3 +793,31 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-18T16:06:41+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.14,James Duckworth,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.0,True,2026-11-18T16:06:31+00:00
 2026-11-18T16:07:31+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.88,Sofia Costoulas,polyus,0.09,0.9831,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-18T16:07:31+00:00
 2026-11-18T16:07:41+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.88,Sofia Costoulas,polyus,0.09,0.9831,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-18T16:07:31+00:00
+2026-11-18T16:11:51+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.89,Sofia Costoulas,kalshi,0.09,0.9925,0.0,0.0,0.0,0.0,,0.12,,0.0,True,2026-11-18T16:11:51+00:00
+2026-11-18T16:12:41+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.85,Sofia Costoulas,kalshi,0.12,0.9863,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-18T16:12:41+00:00
+2026-11-18T16:14:21+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.25,James Duckworth,kalshi,0.72,0.9971,0.0,0.0,0.0,0.0,,0.76,,0.0,True,2026-11-18T16:14:21+00:00
+2026-11-18T16:14:31+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.25,James Duckworth,kalshi,0.72,0.9971,0.0,0.0,0.0,0.0,,0.76,,0.0,True,2026-11-18T16:14:21+00:00
+2026-11-18T16:14:51+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.89,Sofia Costoulas,polyus,0.09,0.9925,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-18T16:14:51+00:00
+2026-11-18T16:15:51+00:00,charlton v kent,True,James Kent Trotter,polyus,0.71,Joshua Charlton,kalshi,0.25,0.9874,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-18T16:15:51+00:00
+2026-11-18T16:16:01+00:00,charlton v kent,True,James Kent Trotter,polyus,0.71,Joshua Charlton,kalshi,0.25,0.9874,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-18T16:15:51+00:00
+2026-11-18T16:16:01+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.22,James Duckworth,kalshi,0.75,0.9951,0.0,0.0,0.0,0.0,,0.79,,0.0,True,2026-11-18T16:16:01+00:00
+2026-11-18T16:16:11+00:00,charlton v kent,True,James Kent Trotter,polyus,0.71,Joshua Charlton,kalshi,0.25,0.9874,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-18T16:15:51+00:00
+2026-11-18T16:16:11+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.22,James Duckworth,kalshi,0.75,0.9951,0.0,0.0,0.0,0.0,,0.79,,0.0,True,2026-11-18T16:16:01+00:00
+2026-11-18T16:16:41+00:00,charlton v kent,True,James Kent Trotter,polyus,0.65,Joshua Charlton,kalshi,0.3,0.9805,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-18T16:16:41+00:00
+2026-11-18T16:18:41+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.95,Sofia Costoulas,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-18T16:18:41+00:00
+2026-11-18T16:23:12+00:00,bigun v dominko,True,Kaylan Bigun,polyus,0.29,Sebastian Dominko,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-18T16:23:12+00:00
+2026-11-18T16:24:32+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.18,James Duckworth,kalshi,0.79,0.9919,0.0,0.0,0.0,0.0,,0.83,,0.0,True,2026-11-18T16:24:32+00:00
+2026-11-18T16:24:42+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.16,James Duckworth,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,,0.85,,0.0,True,2026-11-18T16:24:32+00:00
+2026-11-18T16:24:42+00:00,bigun v dominko,True,Kaylan Bigun,polyus,0.19,Sebastian Dominko,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-18T16:24:42+00:00
+2026-11-18T16:24:42+00:00,costoulas v maristany,True,Guiomar Maristany Zuleta de Reales,kalshi,0.93,Sofia Costoulas,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.0,True,2026-11-18T16:24:42+00:00
+2026-11-18T16:24:52+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.16,James Duckworth,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,,0.85,,0.0,True,2026-11-18T16:24:32+00:00
+2026-11-18T16:24:52+00:00,bigun v dominko,True,Kaylan Bigun,polyus,0.19,Sebastian Dominko,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-18T16:24:42+00:00
+2026-11-18T16:25:02+00:00,bigun v dominko,True,Kaylan Bigun,polyus,0.19,Sebastian Dominko,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-18T16:24:42+00:00
+2026-11-18T16:25:22+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.91,Sofia Costoulas,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-18T16:25:22+00:00
+2026-11-18T16:25:32+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.91,Sofia Costoulas,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-18T16:25:22+00:00
+2026-11-18T16:25:42+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.17,James Duckworth,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.0,True,2026-11-18T16:25:42+00:00
+2026-11-18T16:25:52+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.17,James Duckworth,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.0,True,2026-11-18T16:25:42+00:00
+2026-11-18T16:25:52+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.88,Sofia Costoulas,kalshi,0.1,0.9936,0.0,0.0,0.0,0.0,,0.13,,0.0,True,2026-11-18T16:25:52+00:00
+2026-11-18T16:26:02+00:00,costoulas v maristany,True,Guiomar Maristany,polyus,0.87,Sofia Costoulas,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-18T16:25:52+00:00
+2026-11-18T16:26:02+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.17,James Duckworth,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.0,True,2026-11-18T16:25:42+00:00
+2026-11-18T16:26:12+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.17,James Duckworth,polyus,0.79,0.9814,0.0,0.0,0.0,0.0,0.22,,,0.0,True,2026-11-18T16:26:12+00:00
