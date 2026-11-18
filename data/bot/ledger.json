@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 209.47,
-  "polyus": 400.91
+  "kalshi": 220.93,
+  "polyus": 220.93
  },
  "open": [
   {
@@ -17,11 +17,24 @@
    },
    "cost": 232.32,
    "expected": 6.68
+  },
+  {
+   "id": "c1e7dcb4ce81",
+   "key": "nicholas v zahraj",
+   "opened": "2026-11-18T00:32:47+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV17ZAHTUD-ZAH",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 170.0,
+    "kalshi": 170.0
+   },
+   "cost": 168.52,
+   "expected": 1.48
   }
  ],
  "settled_pnl": 203.45,
  "unwind_pnl": -60.76,
- "fires": 54,
+ "fires": 55,
  "settled": 40,
- "rebalances": 8
+ "rebalances": 9
 }
