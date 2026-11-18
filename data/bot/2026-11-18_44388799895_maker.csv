@@ -47,3 +47,14 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-18T20:41:31+00:00,baris v tarvet,True,kalshi:KXATPCHALLENGERMATCH-26NOV18TARBAR-BAR:yes,0.23,217,True,0.007,2.0,hedged,polyus:aec-atp-olitar-ozabar-2026-11-18:0,0.86,-21.35,-21.36,-21.35,True
 2026-11-18T20:42:15+00:00,cobolli v tiafoe,True,kalshi:KXATPMATCH-26NOV17COBTIA-COB:yes,0.32,156,False,0.0104,2.0,hedged,polyus:aec-atp-flacob-fratia-2026-11-15:1,0.69,-4.47,-6.01,-4.47,True
 2026-11-18T20:43:03+00:00,cobolli v tiafoe,True,kalshi:KXATPMATCH-26NOV17COBTIA-COB:yes,0.23,217,False,0.0135,2.0,hedged,polyus:aec-atp-flacob-fratia-2026-11-15:1,0.83,-15.82,-16.85,-15.82,True
+2026-11-18T20:46:22+00:00,baris v tarvet,True,polyus:aec-atp-olitar-ozabar-2026-11-18:0,0.93,53,True,0.0061,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18TARBAR-TAR:no,0.08,-0.8,-0.8,-0.8,True
+2026-11-18T20:48:28+00:00,cobolli v tiafoe,True,polyus:aec-atp-flacob-fratia-2026-11-15:0,0.18,277,True,0.0088,2.0,unwound,kalshi:KXATPMATCH-26NOV17COBTIA-TIA:yes,0.84,-8.15,-5.49,-5.49,True
+2026-11-18T20:48:44+00:00,baris v tarvet,True,kalshi:KXATPCHALLENGERMATCH-26NOV18TARBAR-BAR:yes,0.06,833,False,0.0055,2.0,hedged,polyus:aec-atp-olitar-ozabar-2026-11-18:0,0.95,-11.08,-11.1,-11.08,True
+2026-11-18T20:48:44+00:00,baris v tarvet,True,polyus:aec-atp-olitar-ozabar-2026-11-18:1,0.06,833,False,0.0054,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18TARBAR-TAR:yes,0.95,-11.1,-11.08,-11.08,True
+2026-11-18T20:49:28+00:00,baris v tarvet,True,kalshi:KXATPCHALLENGERMATCH-26NOV18TARBAR-TAR:yes,0.94,53,True,0.0067,2.0,hedged,polyus:aec-atp-olitar-ozabar-2026-11-18:1,0.07,-0.77,-0.77,-0.77,True
+2026-11-18T20:49:28+00:00,baris v tarvet,True,polyus:aec-atp-olitar-ozabar-2026-11-18:0,0.94,53,False,0.0067,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18TARBAR-BAR:yes,0.06,-0.21,-0.77,-0.21,True
+2026-11-18T20:49:42+00:00,baris v tarvet,True,polyus:aec-atp-olitar-ozabar-2026-11-18:1,0.03,1666,True,0.0073,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18TARBAR-TAR:yes,0.98,-18.95,-18.93,-18.93,True
+2026-11-18T20:50:14+00:00,arseneault v chidekh,True,kalshi:KXATPCHALLENGERMATCH-26NOV18ARSCHI-ARS:yes,0.04,1250,True,0.0067,2.0,hedged,polyus:aec-atp-mikars-clechi-2026-11-16:1,0.95,8.37,-15.05,8.37,True
+2026-11-18T20:52:56+00:00,alves v barrena,True,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.09,555,False,0.0131,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.91,-3.18,-8.39,-3.18,True
+2026-11-18T20:53:16+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.89,56,False,0.0143,2.0,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.12,-0.97,-0.97,-0.97,True
+2026-11-18T20:54:46+00:00,alves v barrena,True,kalshi:KXATPCHALLENGERMATCH-26NOV18MELBAR-MEL:yes,0.81,61,True,0.0102,2.0,hedged,polyus:aec-atp-felalv-alebar-2026-11-18:1,0.2,-1.29,-1.29,-1.29,True
