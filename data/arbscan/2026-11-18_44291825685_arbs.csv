@@ -1049,3 +1049,46 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-18T17:41:02+00:00,montes v tabur,True,Clement Tabur,polyus,0.48,Inaki Montes-de la Torre,kalshi,0.47,0.9848,0.0,0.0,0.0,0.0,,0.53,,0.0,True,2026-11-18T17:41:02+00:00
 2026-11-18T17:41:42+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.09,James Duckworth,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-18T17:41:42+00:00
 2026-11-18T17:41:52+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.09,James Duckworth,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-18T17:41:42+00:00
+2026-11-18T17:42:12+00:00,montes v tabur,True,Clement Tabur,kalshi,0.51,Inaki Montes,polyus,0.45,0.9947,0.0,0.0,0.0,0.0,0.56,,,0.0,True,2026-11-18T17:42:12+00:00
+2026-11-18T17:42:22+00:00,hercog v masarova,True,Polona Hercog,polyus,0.08,Rebeka Masarova,kalshi,0.89,0.982,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-18T17:42:22+00:00
+2026-11-18T17:43:12+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.07,James Duckworth,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-18T17:43:12+00:00
+2026-11-18T17:43:32+00:00,almeida v angelo,True,Juan Carlos Prado Angelo,kalshi,0.04,Matheus Pucinelli de Almeida,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.06,,,0.0,True,2026-11-18T17:43:32+00:00
+2026-11-18T17:43:42+00:00,almeida v angelo,True,Juan Carlos Prado Angelo,kalshi,0.04,Matheus Pucinelli de Almeida,polyus,0.95,0.996,0.0,0.0,0.0,0.0,0.06,,,0.0,True,2026-11-18T17:43:32+00:00
+2026-11-18T17:44:22+00:00,almeida v angelo,True,Juan Carlos Prado Angelo,kalshi,0.06,Matheus Pucinelli de Almeida,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-18T17:44:22+00:00
+2026-11-18T17:44:32+00:00,charlton v kent,True,James Kent Trotter,kalshi,0.75,Joshua Charlton,polyus,0.18,0.9534,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-18T17:44:32+00:00
+2026-11-18T17:44:32+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.08,James Duckworth,polyus,0.89,0.982,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-18T17:44:32+00:00
+2026-11-18T17:44:32+00:00,almeida v angelo,True,Juan Carlos Prado Angelo,kalshi,0.06,Matheus Pucinelli de Almeida,polyus,0.92,0.9891,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-18T17:44:22+00:00
+2026-11-18T17:44:42+00:00,charlton v kent,True,James Kent Trotter,kalshi,0.78,Joshua Charlton,polyus,0.18,0.9823,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-18T17:44:32+00:00
+2026-11-18T17:44:42+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.09,James Duckworth,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-18T17:44:32+00:00
+2026-11-18T17:44:52+00:00,charlton v kent,True,James Kent Trotter,kalshi,0.78,Joshua Charlton,polyus,0.18,0.9823,0.0,0.0,0.0,0.0,0.83,,,0.0,True,2026-11-18T17:44:32+00:00
+2026-11-18T17:44:52+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.09,James Duckworth,polyus,0.89,0.9925,0.0,0.0,0.0,0.0,0.12,,,0.0,True,2026-11-18T17:44:32+00:00
+2026-11-18T17:45:02+00:00,charlton v kent,True,James Kent Trotter,kalshi,0.78,Joshua Charlton,polyus,0.17,0.9718,0.0,0.0,0.0,0.0,0.84,,,0.0,True,2026-11-18T17:44:32+00:00
+2026-11-18T17:45:02+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.09,James Duckworth,polyus,0.87,0.9736,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-18T17:44:32+00:00
+2026-11-18T17:45:12+00:00,hercog v masarova,True,Polona Hercog,kalshi,0.06,Rebeka Masarova,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-18T17:45:12+00:00
+2026-11-18T17:45:12+00:00,almeida v angelo,True,Juan Carlos Prado,polyus,0.06,Matheus Pucinelli de Almeida,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-18T17:45:12+00:00
+2026-11-18T17:45:22+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.14,James Duckworth,polyus,0.81,0.9691,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-18T17:45:22+00:00
+2026-11-18T17:45:22+00:00,hercog v masarova,True,Polona Hercog,kalshi,0.06,Rebeka Masarova,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-18T17:45:12+00:00
+2026-11-18T17:45:22+00:00,almeida v angelo,True,Juan Carlos Prado,polyus,0.06,Matheus Pucinelli de Almeida,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-18T17:45:12+00:00
+2026-11-18T17:45:32+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.14,James Duckworth,polyus,0.81,0.9691,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-18T17:45:22+00:00
+2026-11-18T17:45:32+00:00,almeida v angelo,True,Juan Carlos Prado,polyus,0.06,Matheus Pucinelli de Almeida,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-18T17:45:12+00:00
+2026-11-18T17:45:42+00:00,almeida v angelo,True,Juan Carlos Prado Angelo,kalshi,0.06,Matheus Pucinelli de Almeida,polyus,0.92,0.9891,0.0,0.0,0.0,0.0,0.09,,,0.0,True,2026-11-18T17:45:42+00:00
+2026-11-18T17:45:42+00:00,charlton v kent,True,James Kent Trotter,kalshi,0.86,Joshua Charlton,polyus,0.12,0.9958,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-18T17:45:42+00:00
+2026-11-18T17:45:52+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.13,James Duckworth,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-18T17:45:52+00:00
+2026-11-18T17:45:52+00:00,charlton v kent,True,James Kent Trotter,kalshi,0.86,Joshua Charlton,polyus,0.11,0.9852,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-18T17:45:42+00:00
+2026-11-18T17:45:52+00:00,almeida v angelo,True,Juan Carlos Prado Angelo,kalshi,0.06,Matheus Pucinelli de Almeida,polyus,0.92,0.9891,0.0,0.0,0.0,0.0,0.09,,,0.0,True,2026-11-18T17:45:42+00:00
+2026-11-18T17:46:02+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.13,James Duckworth,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-18T17:45:52+00:00
+2026-11-18T17:46:02+00:00,charlton v kent,True,James Kent Trotter,kalshi,0.86,Joshua Charlton,polyus,0.11,0.9852,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-18T17:45:42+00:00
+2026-11-18T17:46:02+00:00,almeida v angelo,True,Juan Carlos Prado Angelo,kalshi,0.06,Matheus Pucinelli de Almeida,polyus,0.92,0.9891,0.0,0.0,0.0,0.0,0.09,,,0.0,True,2026-11-18T17:45:42+00:00
+2026-11-18T17:46:12+00:00,duckworth v vasa,True,Eero Vasa,polyus,0.15,James Duckworth,kalshi,0.81,0.9796,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-18T17:45:52+00:00
+2026-11-18T17:46:12+00:00,charlton v kent,True,James Kent Trotter,kalshi,0.86,Joshua Charlton,polyus,0.11,0.9852,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-18T17:45:42+00:00
+2026-11-18T17:46:22+00:00,almeida v angelo,True,Juan Carlos Prado Angelo,kalshi,0.09,Matheus Pucinelli de Almeida,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-18T17:46:22+00:00
+2026-11-18T17:46:22+00:00,charlton v kent,True,James Kent Trotter,polyus,0.86,Joshua Charlton,kalshi,0.11,0.9852,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-18T17:46:22+00:00
+2026-11-18T17:46:32+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.13,James Duckworth,polyus,0.79,0.9394,0.0,0.0,0.0,0.0,0.21,,,0.0,True,2026-11-18T17:46:32+00:00
+2026-11-18T17:46:32+00:00,almeida v angelo,True,Juan Carlos Prado Angelo,kalshi,0.09,Matheus Pucinelli de Almeida,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-18T17:46:22+00:00
+2026-11-18T17:46:32+00:00,charlton v kent,True,James Kent Trotter,polyus,0.86,Joshua Charlton,kalshi,0.11,0.9852,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-18T17:46:22+00:00
+2026-11-18T17:46:42+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.13,James Duckworth,polyus,0.79,0.9394,0.0,0.0,0.0,0.0,0.21,,,0.0,True,2026-11-18T17:46:32+00:00
+2026-11-18T17:46:42+00:00,almeida v angelo,True,Juan Carlos Prado Angelo,kalshi,0.09,Matheus Pucinelli de Almeida,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-18T17:46:22+00:00
+2026-11-18T17:46:42+00:00,charlton v kent,True,James Kent Trotter,polyus,0.86,Joshua Charlton,kalshi,0.11,0.9852,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-18T17:46:22+00:00
+2026-11-18T17:46:52+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.21,James Duckworth,polyus,0.76,0.9943,0.0,0.0,0.0,0.0,0.25,,,0.0,True,2026-11-18T17:46:32+00:00
+2026-11-18T17:47:12+00:00,charlton v kent,True,James Kent Trotter,kalshi,0.86,Joshua Charlton,polyus,0.05,0.9217,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-18T17:47:12+00:00
+2026-11-18T17:47:12+00:00,duckworth v vasa,True,Eero Vasa,kalshi,0.21,James Duckworth,polyus,0.76,0.9943,0.0,0.0,0.0,0.0,0.32,,,0.0,True,2026-11-18T17:47:12+00:00
