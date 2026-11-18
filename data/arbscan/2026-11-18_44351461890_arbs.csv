@@ -218,3 +218,21 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-18T18:33:00+00:00,montes v tabur,True,Clement Tabur,kalshi,0.04,Inaki Montes,polyus,0.93,0.9772,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-18T18:32:50+00:00
 2026-11-18T18:33:20+00:00,montes v tabur,True,Clement Tabur,polyus,0.04,Inaki Montes-de la Torre,kalshi,0.92,0.9678,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-18T18:33:20+00:00
 2026-11-18T18:33:30+00:00,montes v tabur,True,Clement Tabur,polyus,0.04,Inaki Montes-de la Torre,kalshi,0.92,0.9678,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-18T18:33:20+00:00
+2026-11-18T18:36:20+00:00,alves v barrena,True,Alex Barrena,polyus,0.45,Felipe Meligeni Alves,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.0,True,2026-11-18T18:36:20+00:00
+2026-11-18T18:36:30+00:00,alves v barrena,True,Alex Barrena,polyus,0.45,Felipe Meligeni Alves,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.0,True,2026-11-18T18:36:20+00:00
+2026-11-18T18:36:40+00:00,alves v barrena,True,Alex Barrena,polyus,0.45,Felipe Meligeni Alves,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.0,True,2026-11-18T18:36:20+00:00
+2026-11-18T18:36:50+00:00,boulais v kingsley,True,Cannon Kingsley,polyus,0.64,Justin Boulais,kalshi,0.32,0.9912,0.0,0.0,0.0,0.0,,0.37,,0.0,True,2026-11-18T18:36:50+00:00
+2026-11-18T18:37:00+00:00,boulais v kingsley,True,Cannon Kingsley,polyus,0.64,Justin Boulais,kalshi,0.32,0.9912,0.0,0.0,0.0,0.0,,0.37,,0.0,True,2026-11-18T18:36:50+00:00
+2026-11-18T18:38:00+00:00,boulais v kingsley,True,Cannon Kingsley,kalshi,0.64,Justin Boulais,polyus,0.3,0.9707,0.0,0.0,0.0,0.0,0.71,,,0.0,True,2026-11-18T18:38:00+00:00
+2026-11-18T18:38:30+00:00,alves v barrena,True,Alex Barrena,kalshi,0.52,Felipe Meligeni Alves,polyus,0.44,0.9946,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-18T18:38:30+00:00
+2026-11-18T18:38:40+00:00,alves v barrena,True,Alex Barrena,kalshi,0.51,Felipe Meligeni Alves,polyus,0.44,0.9846,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-18T18:38:30+00:00
+2026-11-18T18:38:50+00:00,alves v barrena,True,Alex Barrena,kalshi,0.51,Felipe Meligeni Alves,polyus,0.44,0.9846,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-18T18:38:30+00:00
+2026-11-18T18:39:00+00:00,alves v barrena,True,Alex Barrena,kalshi,0.51,Felipe Meligeni Alves,polyus,0.44,0.9846,0.0,0.0,0.0,0.0,0.57,,,0.0,True,2026-11-18T18:38:30+00:00
+2026-11-18T18:40:40+00:00,boulais v kingsley,True,Cannon Kingsley,polyus,0.63,Justin Boulais,kalshi,0.32,0.9814,0.0,0.0,0.0,0.0,,0.41,,0.0,True,2026-11-18T18:40:40+00:00
+2026-11-18T18:44:30+00:00,boulais v kingsley,True,Cannon Kingsley,kalshi,0.69,Justin Boulais,polyus,0.26,0.9783,0.0,0.0,0.0,0.0,0.75,,,0.0,True,2026-11-18T18:44:30+00:00
+2026-11-18T18:46:00+00:00,boulais v kingsley,True,Cannon Kingsley,kalshi,0.76,Justin Boulais,polyus,0.2,0.9839,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-18T18:46:00+00:00
+2026-11-18T18:46:10+00:00,boulais v kingsley,True,Cannon Kingsley,kalshi,0.76,Justin Boulais,polyus,0.2,0.9839,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-18T18:46:00+00:00
+2026-11-18T18:47:40+00:00,boulais v kingsley,True,Cannon Kingsley,kalshi,0.79,Justin Boulais,polyus,0.16,0.971,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-18T18:47:40+00:00
+2026-11-18T18:47:50+00:00,boulais v kingsley,True,Cannon Kingsley,kalshi,0.79,Justin Boulais,polyus,0.16,0.971,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-18T18:47:40+00:00
+2026-11-18T18:48:00+00:00,boulais v kingsley,True,Cannon Kingsley,kalshi,0.79,Justin Boulais,polyus,0.16,0.971,0.0,0.0,0.0,0.0,0.85,,,0.0,True,2026-11-18T18:47:40+00:00
+2026-11-18T18:49:30+00:00,boulais v kingsley,True,Cannon Kingsley,polyus,0.81,Justin Boulais,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,,0.2,,0.0,True,2026-11-18T18:49:30+00:00
