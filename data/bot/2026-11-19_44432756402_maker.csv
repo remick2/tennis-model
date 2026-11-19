@@ -86,3 +86,12 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T03:21:47+00:00,ayeni v schoolkate,True,kalshi:KXATPCHALLENGERMATCH-26NOV18SCHAVE-SCH:yes,0.82,60,True,0.0107,2.0,hedged,polyus:aec-atp-trisch-alaaye-2026-11-18:1,0.18,-0.62,-1.25,-0.62,True
 2026-11-19T03:22:57+00:00,ayeni v schoolkate,True,kalshi:KXATPCHALLENGERMATCH-26NOV18SCHAVE-AVE:yes,0.13,384,True,0.0111,2.0,hedged,polyus:aec-atp-trisch-alaaye-2026-11-18:0,0.89,-10.29,-10.31,-10.29,True
 2026-11-19T03:25:03+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-SAM:yes,0.64,78,True,0.0146,2.0,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:0,0.39,-3.63,-3.64,-3.63,True
+2026-11-19T03:26:05+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-STA:yes,0.36,138,True,0.0233,2.0,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:1,0.68,-7.61,-7.62,-7.61,True
+2026-11-19T03:26:43+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-STA:yes,0.29,172,True,0.0149,2.0,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:1,0.72,-4.13,-4.15,-4.13,True
+2026-11-19T03:27:25+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-STA:yes,0.27,185,True,0.0057,2.0,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:1,0.74,-4.32,-4.34,-4.32,True
+2026-11-19T03:28:41+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-STA:yes,0.26,192,False,0.006,2.0,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:1,0.72,1.15,-4.44,1.15,True
+2026-11-19T03:29:25+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-SAM:yes,0.73,68,False,0.007,2.0,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:0,0.25,0.47,-2.34,0.47,True
+2026-11-19T03:36:35+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-STA:yes,0.26,192,True,0.006,2.0,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:1,0.76,-6.27,-6.29,-6.27,True
+2026-11-19T03:38:03+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-STA:yes,0.13,384,False,0.0111,2.0,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:1,0.86,0.63,-6.68,0.63,True
+2026-11-19T03:38:53+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-STA:yes,0.08,625,True,0.0137,2.0,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:1,0.9,8.59,-20.83,8.59,True
+2026-11-19T03:39:51+00:00,friend v noguchi,True,polyus:aec-atp-jayfri-rionog-2026-11-17:1,0.46,108,True,0.0125,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG:no,0.58,-6.16,-6.15,-6.15,True

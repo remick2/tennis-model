@@ -1,13 +1,27 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 313.85,
-  "polyus": 624.34
+  "kalshi": 256.14,
+  "polyus": 474.91
  },
- "open": [],
+ "open": [
+  {
+   "id": "86a619783dc6",
+   "key": "friend v noguchi",
+   "opened": "2026-11-19T03:34:37+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 211.0,
+    "kalshi": 211.0
+   },
+   "cost": 207.14,
+   "expected": 3.86
+  }
+ ],
  "settled_pnl": 305.9,
  "unwind_pnl": -73.49,
- "fires": 83,
+ "fires": 84,
  "settled": 68,
  "rebalances": 14
 }
