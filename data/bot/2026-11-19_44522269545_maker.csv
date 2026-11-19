@@ -73,3 +73,10 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T14:28:34+00:00,butvilas v vasa,True,polyus:aec-atp-eervas-edabut-2026-11-19:1,0.94,53,False,0.0067,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-VAS:yes,0.07,-0.77,-0.77,-0.77,True
 2026-11-19T14:29:40+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-BUT:yes,0.93,53,False,0.0061,1.5,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:0,0.08,-0.8,-1.36,-0.8,True
 2026-11-19T14:31:12+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-VAS:yes,0.03,1666,False,0.0073,2.0,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:1,0.98,-18.93,-34.47,-18.93,True
+2026-11-19T14:37:49+00:00,jodar v shelton,True,kalshi:KXATPMATCH-26NOV17SHEJOD-JOD:yes,0.08,625,True,0.0125,2.0,hedged,polyus:aec-atp-benshe-rafjod-2026-11-15:0,0.9,7.79,-21.63,7.79,True
+2026-11-19T14:39:13+00:00,gueymard v nagel,True,kalshi:KXATPCHALLENGERMATCH-26NOV19GUENAG-GUE:yes,0.87,57,False,0.0132,2.0,hedged,polyus:aec-atp-sasgue-artnag-2026-11-19:1,0.15,-1.65,-1.65,-1.65,True
+2026-11-19T14:39:13+00:00,gueymard v nagel,True,polyus:aec-atp-sasgue-artnag-2026-11-19:0,0.88,56,False,0.0137,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV19GUENAG-NAG:yes,0.14,-1.59,-2.18,-1.59,True
+2026-11-19T14:40:39+00:00,gueymard v nagel,True,kalshi:KXATPCHALLENGERMATCH-26NOV19GUENAG-NAG:yes,0.13,384,True,0.0111,2.6,hedged,polyus:aec-atp-sasgue-artnag-2026-11-19:0,0.89,-10.29,-10.31,-10.29,True
+2026-11-19T14:41:19+00:00,bronzetti v monnet,True,kalshi:KXWTACHALLENGERMATCH-26NOV19BROMON-MON:yes,0.48,104,False,0.0126,2.0,hedged,polyus:aec-wta-lucbro-carmon-2026-11-18:0,0.52,-1.8,-2.85,-1.8,True
+2026-11-19T14:41:25+00:00,gueymard v nagel,True,kalshi:KXATPCHALLENGERMATCH-26NOV19GUENAG-GUE:yes,0.85,58,True,0.0121,2.0,hedged,polyus:aec-atp-sasgue-artnag-2026-11-19:1,0.16,-1.12,-1.13,-1.12,True
+2026-11-19T14:46:21+00:00,gueymard v nagel,True,kalshi:KXATPCHALLENGERMATCH-26NOV19GUENAG-NAG:yes,0.07,714,True,0.0143,2.0,hedged,polyus:aec-atp-sasgue-artnag-2026-11-19:0,0.94,-9.94,-9.96,-9.94,True
