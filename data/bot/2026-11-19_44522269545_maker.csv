@@ -21,3 +21,17 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T13:30:52+00:00,jodar v shelton,True,kalshi:KXATPMATCH-26NOV17SHEJOD-SHE:yes,0.75,66,False,0.0148,2.0,hedged,polyus:aec-atp-benshe-rafjod-2026-11-15:1,0.26,-1.76,-1.77,-1.76,True
 2026-11-19T13:30:58+00:00,donald v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV19DONKWON-DON:yes,0.12,416,False,0.0116,2.0,hedged,polyus:aec-atp-matdon-sookwo-2026-11-19:1,0.86,4.84,-10.94,4.84,True
 2026-11-19T13:31:34+00:00,jodar v shelton,True,kalshi:KXATPMATCH-26NOV17SHEJOD-JOD:yes,0.23,217,True,0.0135,2.0,hedged,polyus:aec-atp-benshe-rafjod-2026-11-15:0,0.78,-5.43,-7.53,-5.43,True
+2026-11-19T13:31:43+00:00,donald v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV19DONKWON-KWON:yes,0.87,57,False,0.0132,2.0,hedged,polyus:aec-atp-matdon-sookwo-2026-11-19:0,0.15,-1.65,-1.65,-1.65,True
+2026-11-19T13:32:03+00:00,jodar v shelton,True,kalshi:KXATPMATCH-26NOV17SHEJOD-SHE:yes,0.75,66,True,0.0148,2.0,hedged,polyus:aec-atp-benshe-rafjod-2026-11-15:1,0.26,-1.76,-2.45,-1.76,True
+2026-11-19T13:32:07+00:00,donald v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV19DONKWON-DON:yes,0.12,416,False,0.0116,2.0,hedged,polyus:aec-atp-matdon-sookwo-2026-11-19:1,0.83,16.72,-7.01,16.72,True
+2026-11-19T13:32:29+00:00,jodar v shelton,True,kalshi:KXATPMATCH-26NOV17SHEJOD-JOD:yes,0.23,217,False,0.0135,2.0,hedged,polyus:aec-atp-benshe-rafjod-2026-11-15:0,0.77,-3.34,-5.45,-3.34,True
+2026-11-19T13:32:49+00:00,donald v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV19DONKWON-DON:yes,0.09,555,True,0.0132,2.0,hedged,polyus:aec-atp-matdon-sookwo-2026-11-19:1,0.92,-8.39,-18.84,-8.39,True
+2026-11-19T13:33:25+00:00,donald v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV19DONKWON-KWON:yes,0.92,54,True,0.0055,2.0,hedged,polyus:aec-atp-matdon-sookwo-2026-11-19:0,0.09,-0.85,-0.85,-0.85,True
+2026-11-19T13:33:25+00:00,donald v kwon,True,polyus:aec-atp-matdon-sookwo-2026-11-19:1,0.92,54,False,0.0054,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19DONKWON-KWON:no,0.09,-0.85,-0.85,-0.85,True
+2026-11-19T13:33:59+00:00,donald v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV19DONKWON-DON:yes,0.07,714,False,0.0143,2.0,hedged,polyus:aec-atp-matdon-sookwo-2026-11-19:1,0.94,-9.94,-9.96,-9.94,True
+2026-11-19T13:34:51+00:00,svrcina v travaglia,True,kalshi:KXATPCHALLENGERMATCH-26NOV19SVRTRA-SVR:yes,0.82,60,False,0.0107,2.0,hedged,polyus:aec-atp-dalsvr-stetra-2026-11-19:1,0.18,-0.62,-1.25,-0.62,True
+2026-11-19T13:35:03+00:00,donald v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV19DONKWON-DON:yes,0.05,1000,True,0.0061,2.0,hedged,polyus:aec-atp-matdon-sookwo-2026-11-19:1,0.97,-22.02,-22.04,-22.02,True
+2026-11-19T13:35:03+00:00,donald v kwon,True,polyus:aec-atp-matdon-sookwo-2026-11-19:0,0.05,1000,False,0.0061,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19DONKWON-KWON:yes,0.97,-22.04,-22.02,-22.02,True
+2026-11-19T13:37:21+00:00,svrcina v travaglia,True,kalshi:KXATPCHALLENGERMATCH-26NOV19SVRTRA-TRA:yes,0.17,294,True,0.0093,2.0,hedged,polyus:aec-atp-dalsvr-stetra-2026-11-19:0,0.81,2.74,-5.71,2.74,True
+2026-11-19T13:38:51+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-VAS:yes,0.15,333,True,0.0197,2.0,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:1,0.88,-12.43,-12.45,-12.43,True
+2026-11-19T13:45:35+00:00,svrcina v travaglia,True,kalshi:KXATPCHALLENGERMATCH-26NOV19SVRTRA-SVR:yes,0.84,59,False,0.0116,2.0,hedged,polyus:aec-atp-dalsvr-stetra-2026-11-19:1,0.14,0.69,-1.79,0.69,True
