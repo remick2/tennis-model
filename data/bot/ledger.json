@@ -2,39 +2,12 @@
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
   "kalshi": 313.85,
-  "polyus": 363.34
+  "polyus": 624.34
  },
- "open": [
-  {
-   "id": "2884ead6213c",
-   "key": "bouzige v gorzny",
-   "opened": "2026-11-19T02:11:05+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18GORBOU-GOR",
-   "kalshi_side": "no",
-   "shares": {
-    "kalshi": 94.0,
-    "polyus": 94.0
-   },
-   "cost": 90.95,
-   "expected": 3.05
-  },
-  {
-   "id": "6c8bffe99604",
-   "key": "bouzige v gorzny",
-   "opened": "2026-11-19T02:27:43+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18GORBOU-GOR",
-   "kalshi_side": "no",
-   "shares": {
-    "kalshi": 167,
-    "polyus": 167
-   },
-   "cost": 165.76,
-   "expected": 1.24
-  }
- ],
- "settled_pnl": 301.61,
+ "open": [],
+ "settled_pnl": 305.9,
  "unwind_pnl": -73.49,
  "fires": 83,
- "settled": 66,
+ "settled": 68,
  "rebalances": 14
 }
