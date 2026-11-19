@@ -16,3 +16,28 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-19T22:24:35+00:00,lee v martin,True,Andres Martin,polyus,0.43,Jordan Lee,kalshi,0.5,0.9645,0.0,0.0,0.0,0.0,,0.58,,0.0,True,2026-11-19T22:23:55+00:00
 2026-11-19T22:24:45+00:00,lee v martin,True,Andres Martin,polyus,0.43,Jordan Lee,kalshi,0.5,0.9645,0.0,0.0,0.0,0.0,,0.58,,0.0,True,2026-11-19T22:23:55+00:00
 2026-11-19T22:26:35+00:00,ivan v rocha,True,Guido Ivan Justo,kalshi,0.18,Henrique Rocha,polyus,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,,,0.0,True,2026-11-19T22:26:35+00:00
+2026-11-19T22:33:25+00:00,boulais v dietrich,True,Dylan Dietrich,kalshi,0.9,Justin Boulais,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-19T22:33:25+00:00
+2026-11-19T22:33:35+00:00,boulais v dietrich,True,Dylan Dietrich,kalshi,0.9,Justin Boulais,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-19T22:33:25+00:00
+2026-11-19T22:33:45+00:00,boulais v dietrich,True,Dylan Dietrich,kalshi,0.9,Justin Boulais,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-19T22:33:25+00:00
+2026-11-19T22:34:35+00:00,boulais v dietrich,True,Dylan Dietrich,polyus,0.91,Justin Boulais,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-19T22:34:35+00:00
+2026-11-19T22:34:45+00:00,boulais v dietrich,True,Dylan Dietrich,polyus,0.91,Justin Boulais,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-19T22:34:35+00:00
+2026-11-19T22:34:55+00:00,boulais v dietrich,True,Dylan Dietrich,polyus,0.88,Justin Boulais,kalshi,0.07,0.9619,0.0,0.0,0.0,0.0,,0.12,,0.0,True,2026-11-19T22:34:35+00:00
+2026-11-19T22:35:05+00:00,boulais v dietrich,True,Dylan Dietrich,polyus,0.88,Justin Boulais,kalshi,0.07,0.9619,0.0,0.0,0.0,0.0,,0.12,,0.0,True,2026-11-19T22:34:35+00:00
+2026-11-19T22:36:45+00:00,boulais v dietrich,True,Dylan Dietrich,polyus,0.86,Justin Boulais,kalshi,0.1,0.9747,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-19T22:36:45+00:00
+2026-11-19T22:36:55+00:00,boulais v dietrich,True,Dylan Dietrich,polyus,0.86,Justin Boulais,kalshi,0.1,0.9747,0.0,0.0,0.0,0.0,,0.15,,0.0,True,2026-11-19T22:36:45+00:00
+2026-11-19T22:37:05+00:00,boulais v dietrich,True,Dylan Dietrich,polyus,0.86,Justin Boulais,kalshi,0.1,0.9747,0.0,0.0,0.0,0.0,,0.16,,0.0,True,2026-11-19T22:36:45+00:00
+2026-11-19T22:37:25+00:00,boulais v dietrich,True,Dylan Dietrich,kalshi,0.86,Justin Boulais,polyus,0.11,0.9852,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-19T22:37:25+00:00
+2026-11-19T22:37:35+00:00,boulais v dietrich,True,Dylan Dietrich,kalshi,0.86,Justin Boulais,polyus,0.11,0.9852,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-19T22:37:25+00:00
+2026-11-19T22:37:55+00:00,garcia v labrana,True,Andrea Lazaro Garcia,polyus,0.91,Fernanda Labrana,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-19T22:37:55+00:00
+2026-11-19T22:37:55+00:00,ivan v rocha,True,Guido Ivan Justo,kalshi,0.26,Henrique Rocha,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-19T22:37:55+00:00
+2026-11-19T22:38:05+00:00,garcia v labrana,True,Andrea Lazaro Garcia,polyus,0.91,Fernanda Labrana,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-19T22:37:55+00:00
+2026-11-19T22:38:05+00:00,boulais v dietrich,True,Dylan Dietrich,polyus,0.87,Justin Boulais,kalshi,0.11,0.9947,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-19T22:38:05+00:00
+2026-11-19T22:38:05+00:00,ivan v rocha,True,Guido Ivan Justo,kalshi,0.26,Henrique Rocha,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-19T22:37:55+00:00
+2026-11-19T22:38:15+00:00,boulais v dietrich,True,Dylan Dietrich,kalshi,0.9,Justin Boulais,polyus,0.07,0.9808,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-19T22:38:15+00:00
+2026-11-19T22:38:15+00:00,garcia v labrana,True,Andrea Lazaro Garcia,polyus,0.91,Fernanda Labrana,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,,0.1,,0.1,True,2026-11-19T22:37:55+00:00
+2026-11-19T22:38:15+00:00,ivan v rocha,True,Guido Ivan Justo,kalshi,0.26,Henrique Rocha,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-19T22:37:55+00:00
+2026-11-19T22:38:25+00:00,ivan v rocha,True,Guido Ivan Justo,kalshi,0.26,Henrique Rocha,polyus,0.69,0.9783,0.0,0.0,0.0,0.0,0.32,,,0.0,True,2026-11-19T22:37:55+00:00
+2026-11-19T22:38:25+00:00,garcia v labrana,True,Andrea Lazaro Garcia,polyus,0.92,Fernanda Labrana,kalshi,0.07,0.9997,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-19T22:37:55+00:00
+2026-11-19T22:38:55+00:00,boulais v dietrich,True,Dylan Dietrich,kalshi,0.94,Justin Boulais,polyus,0.04,0.9866,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-19T22:38:55+00:00
+2026-11-19T22:39:25+00:00,ivan v rocha,True,Guido Justo,polyus,0.26,Henrique Rocha,kalshi,0.68,0.9686,0.0,0.0,0.0,0.0,,0.75,,0.0,True,2026-11-19T22:39:25+00:00
+2026-11-19T22:42:15+00:00,garcia v labrana,True,Andrea Lazaro Garcia,kalshi,0.94,Fernanda Labrana,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-19T22:42:15+00:00
