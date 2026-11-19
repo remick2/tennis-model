@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 236.61,
-  "polyus": 17.25
+  "kalshi": 160.45,
+  "polyus": 425.16
  },
  "open": [
   {
@@ -19,35 +19,22 @@
    "expected": 13.71
   },
   {
-   "id": "4497bb48f91f",
-   "key": "geerlings v samson",
-   "opened": "2026-11-19T00:26:14+00:00",
-   "kalshi_ticker": "KXWTACHALLENGERMATCH-26NOV18GEESAM-GEE",
+   "id": "85afdcad3f33",
+   "key": "broska v langmo",
+   "opened": "2026-11-19T00:37:16+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18LANBRO-LAN",
    "kalshi_side": "yes",
    "shares": {
-    "kalshi": 243,
-    "polyus": 243
+    "kalshi": 95,
+    "polyus": 95
    },
-   "cost": 241.26,
-   "expected": 1.74
-  },
-  {
-   "id": "5a20eeea2ce5",
-   "key": "geerlings v samson",
-   "opened": "2026-11-19T00:26:56+00:00",
-   "kalshi_ticker": "KXWTACHALLENGERMATCH-26NOV18GEESAM-SAM",
-   "kalshi_side": "no",
-   "shares": {
-    "kalshi": 182.0,
-    "polyus": 182.0
-   },
-   "cost": 178.84,
-   "expected": 3.15
+   "cost": 93.25,
+   "expected": 1.75
   }
  ],
- "settled_pnl": 255.95,
+ "settled_pnl": 260.85,
  "unwind_pnl": -67.71,
- "fires": 71,
- "settled": 53,
+ "fires": 72,
+ "settled": 55,
  "rebalances": 11
 }
