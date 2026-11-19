@@ -1,105 +1,13 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 129.78,
-  "polyus": 0.67
+  "kalshi": 481.22,
+  "polyus": 481.22
  },
- "open": [
-  {
-   "id": "86a619783dc6",
-   "key": "friend v noguchi",
-   "opened": "2026-11-19T03:34:37+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 211.0,
-    "kalshi": 211.0
-   },
-   "cost": 207.14,
-   "expected": 3.86
-  },
-  {
-   "id": "77b58a86d45b",
-   "key": "friend v noguchi",
-   "opened": "2026-11-19T03:58:55+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 146.0,
-    "kalshi": 146.0
-   },
-   "cost": 144.1,
-   "expected": 1.9
-  },
-  {
-   "id": "059578a1895f",
-   "key": "friend v noguchi",
-   "opened": "2026-11-19T04:00:06+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 71.0,
-    "kalshi": 71.0
-   },
-   "cost": 69.31,
-   "expected": 1.69
-  },
-  {
-   "id": "2b1b2c63db8f",
-   "key": "friend v noguchi",
-   "opened": "2026-11-19T04:09:50+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 137.0,
-    "kalshi": 137.0
-   },
-   "cost": 133.2,
-   "expected": 3.8
-  },
-  {
-   "id": "2d95a5b4646b",
-   "key": "friend v noguchi",
-   "opened": "2026-11-19T04:12:31+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 50.0,
-    "kalshi": 50.0
-   },
-   "cost": 44.0,
-   "expected": 6.0
-  },
-  {
-   "id": "fa59b6597be6",
-   "key": "friend v noguchi",
-   "opened": "2026-11-19T04:13:47+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 129.0,
-    "kalshi": 129.0
-   },
-   "cost": 125.24,
-   "expected": 3.76
-  },
-  {
-   "id": "a3e57ec19f85",
-   "key": "friend v noguchi",
-   "opened": "2026-11-19T04:14:18+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
-   "kalshi_side": "yes",
-   "shares": {
-    "polyus": 88.0,
-    "kalshi": 88.0
-   },
-   "cost": 85.75,
-   "expected": 2.25
-  }
- ],
- "settled_pnl": 306.91,
+ "open": [],
+ "settled_pnl": 330.17,
  "unwind_pnl": -73.49,
  "fires": 91,
- "settled": 69,
- "rebalances": 16
+ "settled": 76,
+ "rebalances": 17
 }
