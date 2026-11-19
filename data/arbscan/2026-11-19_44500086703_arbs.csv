@@ -225,3 +225,33 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-19T14:53:33+00:00,jodar v shelton,True,Ben Shelton,kalshi,0.91,Rafael Jodar,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-19T14:53:33+00:00
 2026-11-19T14:53:43+00:00,jodar v shelton,True,Ben Shelton,kalshi,0.91,Rafael Jodar,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-19T14:53:33+00:00
 2026-11-19T14:53:43+00:00,gueymard v nagel,True,Arthur Nagel,kalshi,0.12,Sascha Gueymard-Wayenburg,polyus,0.86,0.9958,0.0,0.0,0.0,0.0,0.15,,,0.1,True,2026-11-19T14:53:43+00:00
+2026-11-19T14:53:53+00:00,jodar v shelton,True,Ben Shelton,kalshi,0.91,Rafael Jodar,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-19T14:53:33+00:00
+2026-11-19T14:54:23+00:00,jodar v shelton,True,Ben Shelton,polyus,0.9,Rafael Jodar,kalshi,0.07,0.9808,0.0,0.0,0.0,0.0,,0.11,,0.1,True,2026-11-19T14:54:23+00:00
+2026-11-19T14:55:03+00:00,gueymard v nagel,True,Arthur Nagel,polyus,0.1,Sascha Gueymard Wayenburg,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,,0.91,,0.1,True,2026-11-19T14:55:03+00:00
+2026-11-19T14:55:53+00:00,jodar v shelton,True,Ben Shelton,kalshi,0.91,Rafael Jodar,polyus,0.06,0.9797,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-19T14:55:53+00:00
+2026-11-19T14:56:03+00:00,jodar v shelton,True,Ben Shelton,kalshi,0.91,Rafael Jodar,polyus,0.06,0.9797,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-19T14:55:53+00:00
+2026-11-19T14:56:03+00:00,gueymard v nagel,True,Arthur Nagel,polyus,0.1,Sascha Gueymard Wayenburg,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,,0.91,,0.1,True,2026-11-19T14:56:03+00:00
+2026-11-19T14:56:13+00:00,gueymard v nagel,True,Arthur Nagel,polyus,0.1,Sascha Gueymard Wayenburg,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-19T14:56:03+00:00
+2026-11-19T14:56:23+00:00,gueymard v nagel,True,Arthur Nagel,kalshi,0.1,Sascha Gueymard-Wayenburg,polyus,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,,,0.1,True,2026-11-19T14:56:23+00:00
+2026-11-19T14:56:23+00:00,jodar v shelton,True,Ben Shelton,polyus,0.93,Rafael Jodar,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-19T14:56:23+00:00
+2026-11-19T14:56:33+00:00,jodar v shelton,True,Ben Shelton,polyus,0.9,Rafael Jodar,kalshi,0.06,0.9702,0.0,0.0,0.0,0.0,,0.1,,0.1,True,2026-11-19T14:56:23+00:00
+2026-11-19T14:56:33+00:00,gueymard v nagel,True,Arthur Nagel,kalshi,0.1,Sascha Gueymard-Wayenburg,polyus,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,,,0.1,True,2026-11-19T14:56:23+00:00
+2026-11-19T14:56:43+00:00,gueymard v nagel,True,Arthur Nagel,kalshi,0.1,Sascha Gueymard-Wayenburg,polyus,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,,,0.1,True,2026-11-19T14:56:23+00:00
+2026-11-19T14:57:03+00:00,jodar v shelton,True,Ben Shelton,kalshi,0.91,Rafael Jodar,polyus,0.06,0.9797,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-19T14:57:03+00:00
+2026-11-19T14:57:13+00:00,jodar v shelton,True,Ben Shelton,kalshi,0.91,Rafael Jodar,polyus,0.06,0.9797,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-19T14:57:03+00:00
+2026-11-19T14:57:43+00:00,jodar v shelton,True,Ben Shelton,polyus,0.9,Rafael Jodar,kalshi,0.06,0.9702,0.0,0.0,0.0,0.0,,0.11,,0.1,True,2026-11-19T14:57:43+00:00
+2026-11-19T14:58:33+00:00,jodar v shelton,True,Ben Shelton,polyus,0.81,Rafael Jodar,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,,0.2,,0.1,True,2026-11-19T14:58:33+00:00
+2026-11-19T14:58:33+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.57,Lucia Bronzetti,polyus,0.39,0.9937,0.0,0.0,0.0,0.0,0.61,,,0.1,True,2026-11-19T14:58:33+00:00
+2026-11-19T14:58:43+00:00,jodar v shelton,True,Ben Shelton,polyus,0.81,Rafael Jodar,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,,0.2,,0.1,True,2026-11-19T14:58:33+00:00
+2026-11-19T14:58:43+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.57,Lucia Bronzetti,polyus,0.39,0.9937,0.0,0.0,0.0,0.0,0.61,,,0.2,True,2026-11-19T14:58:33+00:00
+2026-11-19T15:00:03+00:00,jodar v shelton,True,Ben Shelton,kalshi,0.85,Rafael Jodar,polyus,0.12,0.9863,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-19T15:00:03+00:00
+2026-11-19T15:00:13+00:00,jodar v shelton,True,Ben Shelton,kalshi,0.85,Rafael Jodar,polyus,0.12,0.9863,0.0,0.0,0.0,0.0,0.89,,,0.1,True,2026-11-19T15:00:03+00:00
+2026-11-19T15:00:23+00:00,gueymard v nagel,True,Arthur Nagel,polyus,0.12,Sascha Gueymard Wayenburg,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-19T15:00:23+00:00
+2026-11-19T15:00:53+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.53,Lucia Bronzetti,kalshi,0.43,0.9945,0.0,0.0,0.0,0.0,,0.48,,0.1,True,2026-11-19T15:00:53+00:00
+2026-11-19T15:01:33+00:00,jodar v shelton,True,Ben Shelton,polyus,0.81,Rafael Jodar,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,,0.2,,0.1,True,2026-11-19T15:01:33+00:00
+2026-11-19T15:01:43+00:00,jodar v shelton,True,Ben Shelton,polyus,0.81,Rafael Jodar,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,,0.2,,0.1,True,2026-11-19T15:01:33+00:00
+2026-11-19T15:01:53+00:00,jodar v shelton,True,Ben Shelton,polyus,0.81,Rafael Jodar,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,,0.2,,0.1,True,2026-11-19T15:01:33+00:00
+2026-11-19T15:02:03+00:00,jodar v shelton,True,Ben Shelton,polyus,0.79,Rafael Jodar,kalshi,0.16,0.9709,0.0,0.0,0.0,0.0,,0.22,,0.1,True,2026-11-19T15:01:33+00:00
+2026-11-19T15:03:43+00:00,gueymard v nagel,True,Arthur Nagel,kalshi,0.12,Sascha Gueymard-Wayenburg,polyus,0.86,0.9958,0.0,0.0,0.0,0.0,0.15,,,0.1,True,2026-11-19T15:03:43+00:00
+2026-11-19T15:05:13+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.57,Lucia Bronzetti,kalshi,0.39,0.9937,0.0,0.0,0.0,0.0,,0.44,,0.1,True,2026-11-19T15:05:13+00:00
+2026-11-19T15:05:53+00:00,jodar v shelton,True,Ben Shelton,kalshi,0.74,Rafael Jodar,polyus,0.23,0.9958,0.0,0.0,0.0,0.0,0.78,,,0.1,True,2026-11-19T15:05:53+00:00
