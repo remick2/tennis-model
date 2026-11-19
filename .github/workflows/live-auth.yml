@@ -35,6 +35,7 @@ jobs:
               print(name, "balance call:", code, "" if code == 200 else str(d)[:300])
           live.auth_check(LV, bot.universe())
           PY
+          python -W ignore authdebug.py
       - name: save result
         if: always()
         run: |
