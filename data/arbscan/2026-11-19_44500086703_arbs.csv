@@ -1,2 +1,41 @@
 ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
-2026-11-19T13:07:33+00:00,basavareddy v gojo,True,Borna Gojo,polyus,0.19,Nishesh Basavareddy,kalshi,0.7,0.9154,0.0,0,0.0,0.0,,0.82,,0.1,True,2026-11-19T13:07:33+00:00
+2026-11-19T13:07:33+00:00,basavareddy v gojo,True,Borna Gojo,polyus,0.19,Nishesh Basavareddy,kalshi,0.7,0.9154,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-19T13:07:33+00:00
+2026-11-19T13:07:43+00:00,basavareddy v gojo,True,Borna Gojo,polyus,0.17,Nishesh Basavareddy,kalshi,0.7,0.8945,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-19T13:07:33+00:00
+2026-11-19T13:07:53+00:00,basavareddy v gojo,True,Borna Gojo,polyus,0.07,Nishesh Basavareddy,kalshi,0.85,0.9334,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-19T13:07:33+00:00
+2026-11-19T13:08:03+00:00,basavareddy v gojo,True,Borna Gojo,polyus,0.07,Nishesh Basavareddy,kalshi,0.85,0.9334,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-19T13:07:33+00:00
+2026-11-19T13:08:13+00:00,basavareddy v gojo,True,Borna Gojo,polyus,0.06,Nishesh Basavareddy,kalshi,0.85,0.9228,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-19T13:07:33+00:00
+2026-11-19T13:08:23+00:00,basavareddy v gojo,True,Borna Gojo,polyus,0.06,Nishesh Basavareddy,kalshi,0.85,0.9228,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-19T13:07:33+00:00
+2026-11-19T13:08:43+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.03,Soon-Woo Kwon,polyus,0.96,0.9947,0.0,0.0,0.0,0.0,0.05,,,0.1,True,2026-11-19T13:08:43+00:00
+2026-11-19T13:08:53+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.03,Soon-Woo Kwon,polyus,0.96,0.9947,0.0,0.0,0.0,0.0,0.05,,,0.1,True,2026-11-19T13:08:43+00:00
+2026-11-19T13:09:33+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.05,Soon-Woo Kwon,polyus,0.94,0.9972,0.0,0.0,0.0,0.0,0.07,,,0.1,True,2026-11-19T13:09:33+00:00
+2026-11-19T13:09:43+00:00,basavareddy v gojo,True,Borna Gojo,polyus,0.04,Nishesh Basavareddy,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-19T13:09:43+00:00
+2026-11-19T13:10:03+00:00,basavareddy v gojo,True,Borna Gojo,polyus,0.03,Nishesh Basavareddy,kalshi,0.95,0.9853,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-19T13:10:03+00:00
+2026-11-19T13:10:03+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.67,Stefano Travaglia,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-19T13:10:03+00:00
+2026-11-19T13:10:13+00:00,basavareddy v gojo,True,Borna Gojo,polyus,0.02,Nishesh Basavareddy,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-19T13:10:03+00:00
+2026-11-19T13:10:33+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.7,Stefano Travaglia,polyus,0.24,0.9674,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-19T13:10:33+00:00
+2026-11-19T13:10:43+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.7,Stefano Travaglia,polyus,0.24,0.9674,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-19T13:10:33+00:00
+2026-11-19T13:10:53+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.09,Soon-Woo Kwon,polyus,0.87,0.9736,0.0,0.0,0.0,0.0,0.14,,,0.1,True,2026-11-19T13:10:53+00:00
+2026-11-19T13:11:03+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.09,Soon-Woo Kwon,polyus,0.87,0.9736,0.0,0.0,0.0,0.0,0.14,,,0.1,True,2026-11-19T13:10:53+00:00
+2026-11-19T13:11:13+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.09,Soon-Woo Kwon,polyus,0.87,0.9736,0.0,0.0,0.0,0.0,0.14,,,0.1,True,2026-11-19T13:10:53+00:00
+2026-11-19T13:11:33+00:00,donald v kwon,True,Matthew William Donald,polyus,0.11,Soonwoo Kwon,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-19T13:11:33+00:00
+2026-11-19T13:11:43+00:00,donald v kwon,True,Matthew William Donald,polyus,0.11,Soonwoo Kwon,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-19T13:11:33+00:00
+2026-11-19T13:11:53+00:00,donald v kwon,True,Matthew William Donald,polyus,0.11,Soonwoo Kwon,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-19T13:11:33+00:00
+2026-11-19T13:12:13+00:00,donald v kwon,True,Matthew William Donald,polyus,0.08,Soonwoo Kwon,kalshi,0.9,0.9914,0.0,0.0,0.0,0.0,,0.91,,0.1,True,2026-11-19T13:12:13+00:00
+2026-11-19T13:12:23+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.11,Soon-Woo Kwon,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.1,True,2026-11-19T13:12:23+00:00
+2026-11-19T13:12:33+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.11,Soon-Woo Kwon,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.15,,,0.1,True,2026-11-19T13:12:23+00:00
+2026-11-19T13:12:43+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.11,Soon-Woo Kwon,polyus,0.85,0.9757,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-19T13:12:23+00:00
+2026-11-19T13:13:53+00:00,donald v kwon,True,Matthew William Donald,polyus,0.13,Soonwoo Kwon,kalshi,0.83,0.9777,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-19T13:13:53+00:00
+2026-11-19T13:14:03+00:00,svrcina v travaglia,True,Dalibor Svrcina,polyus,0.67,Stefano Travaglia,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.34,,0.2,True,2026-11-19T13:14:03+00:00
+2026-11-19T13:14:13+00:00,svrcina v travaglia,True,Dalibor Svrcina,polyus,0.67,Stefano Travaglia,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.34,,0.2,True,2026-11-19T13:14:03+00:00
+2026-11-19T13:14:23+00:00,svrcina v travaglia,True,Dalibor Svrcina,polyus,0.67,Stefano Travaglia,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-19T13:14:03+00:00
+2026-11-19T13:14:33+00:00,svrcina v travaglia,True,Dalibor Svrcina,polyus,0.67,Stefano Travaglia,kalshi,0.29,0.9898,0.0,0.0,0.0,0.0,,0.34,,0.1,True,2026-11-19T13:14:03+00:00
+2026-11-19T13:19:33+00:00,donald v kwon,True,Matthew William Donald,polyus,0.1,Soonwoo Kwon,kalshi,0.87,0.9842,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-19T13:19:33+00:00
+2026-11-19T13:19:43+00:00,donald v kwon,True,Matthew William Donald,polyus,0.1,Soonwoo Kwon,kalshi,0.87,0.9842,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-19T13:19:33+00:00
+2026-11-19T13:20:53+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.1,Soon-Woo Kwon,polyus,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,,,0.1,True,2026-11-19T13:20:53+00:00
+2026-11-19T13:21:03+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.1,Soon-Woo Kwon,polyus,0.88,0.9936,0.0,0.0,0.0,0.0,0.14,,,0.1,True,2026-11-19T13:20:53+00:00
+2026-11-19T13:21:13+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.13,Soon-Woo Kwon,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-19T13:20:53+00:00
+2026-11-19T13:21:23+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.13,Soon-Woo Kwon,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-19T13:20:53+00:00
+2026-11-19T13:21:33+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.13,Soon-Woo Kwon,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-19T13:20:53+00:00
+2026-11-19T13:21:53+00:00,donald v kwon,True,Matthew William Donald,polyus,0.13,Soonwoo Kwon,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-19T13:21:53+00:00
+2026-11-19T13:22:03+00:00,donald v kwon,True,Matthew William Donald,polyus,0.13,Soonwoo Kwon,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-19T13:21:53+00:00
+2026-11-19T13:22:33+00:00,donald v kwon,True,Matthew William Donald,kalshi,0.13,Soon-Woo Kwon,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-19T13:22:33+00:00
