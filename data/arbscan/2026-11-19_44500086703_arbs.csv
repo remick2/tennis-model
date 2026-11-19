@@ -108,3 +108,28 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-19T13:52:53+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.92,Stefano Travaglia,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-19T13:52:53+00:00
 2026-11-19T13:53:03+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.92,Stefano Travaglia,polyus,0.05,0.9785,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-19T13:52:53+00:00
 2026-11-19T13:53:03+00:00,butvilas v vasa,True,Edas Butvilas,kalshi,0.92,Eero Vasa,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-19T13:52:53+00:00
+2026-11-19T13:53:13+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.94,Stefano Travaglia,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-19T13:52:53+00:00
+2026-11-19T13:53:13+00:00,gueymard v nagel,True,Arthur Nagel,polyus,0.16,Sascha Gueymard Wayenburg,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-19T13:53:13+00:00
+2026-11-19T13:53:23+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.94,Stefano Travaglia,polyus,0.05,0.9972,0.0,0.0,0.0,0.0,0.96,,,0.1,True,2026-11-19T13:52:53+00:00
+2026-11-19T13:53:23+00:00,gueymard v nagel,True,Arthur Nagel,polyus,0.16,Sascha Gueymard Wayenburg,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-19T13:53:13+00:00
+2026-11-19T13:53:33+00:00,gueymard v nagel,True,Arthur Nagel,polyus,0.16,Sascha Gueymard Wayenburg,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-19T13:53:13+00:00
+2026-11-19T13:53:53+00:00,gueymard v nagel,True,Arthur Nagel,kalshi,0.16,Sascha Gueymard-Wayenburg,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-19T13:53:53+00:00
+2026-11-19T13:54:03+00:00,svrcina v travaglia,True,Dalibor Svrcina,polyus,0.94,Stefano Travaglia,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.1,True,2026-11-19T13:54:03+00:00
+2026-11-19T13:54:03+00:00,gueymard v nagel,True,Arthur Nagel,kalshi,0.16,Sascha Gueymard-Wayenburg,polyus,0.82,0.9997,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-19T13:53:53+00:00
+2026-11-19T13:55:13+00:00,butvilas v vasa,True,Edas Butvilas,polyus,0.93,Eero Vasa,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-19T13:55:13+00:00
+2026-11-19T13:55:33+00:00,butvilas v vasa,True,Edas Butvilas,polyus,0.91,Eero Vasa,kalshi,0.06,0.9796,0.0,0.0,0.0,0.0,,0.1,,0.1,True,2026-11-19T13:55:33+00:00
+2026-11-19T13:55:33+00:00,gueymard v nagel,True,Arthur Nagel,polyus,0.16,Sascha Gueymard Wayenburg,kalshi,0.82,0.9997,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-19T13:55:33+00:00
+2026-11-19T13:56:43+00:00,gueymard v nagel,True,Arthur Nagel,polyus,0.12,Sascha Gueymard Wayenburg,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-19T13:56:43+00:00
+2026-11-19T13:57:43+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.93,Stefano Travaglia,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-19T13:57:43+00:00
+2026-11-19T13:57:53+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.93,Stefano Travaglia,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-19T13:57:43+00:00
+2026-11-19T13:58:03+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.93,Stefano Travaglia,polyus,0.04,0.9772,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-19T13:57:43+00:00
+2026-11-19T13:58:13+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.95,Stefano Travaglia,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-19T13:57:43+00:00
+2026-11-19T13:58:23+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.95,Stefano Travaglia,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-19T13:57:43+00:00
+2026-11-19T13:58:33+00:00,svrcina v travaglia,True,Dalibor Svrcina,kalshi,0.95,Stefano Travaglia,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.97,,,0.1,True,2026-11-19T13:57:43+00:00
+2026-11-19T13:59:33+00:00,butvilas v vasa,True,Edas Butvilas,polyus,0.85,Eero Vasa,kalshi,0.12,0.9863,0.0,0.0,0.0,0.0,,0.16,,0.1,True,2026-11-19T13:59:33+00:00
+2026-11-19T14:00:03+00:00,butvilas v vasa,True,Edas Butvilas,polyus,0.81,Eero Vasa,kalshi,0.16,0.9901,0.0,0.0,0.0,0.0,,0.18,,0.1,True,2026-11-19T14:00:03+00:00
+2026-11-19T14:00:33+00:00,butvilas v vasa,True,Edas Butvilas,polyus,0.79,Eero Vasa,kalshi,0.18,0.9919,0.0,0.0,0.0,0.0,,0.22,,0.1,True,2026-11-19T14:00:33+00:00
+2026-11-19T14:00:43+00:00,butvilas v vasa,True,Edas Butvilas,polyus,0.79,Eero Vasa,kalshi,0.18,0.9919,0.0,0.0,0.0,0.0,,0.22,,0.1,True,2026-11-19T14:00:33+00:00
+2026-11-19T14:01:33+00:00,svrcina v travaglia,True,Dalibor Svrcina,polyus,0.98,Stefano Travaglia,kalshi,0.01,0.9921,0.0,0.0,0.0,0.0,,0.03,,0.1,True,2026-11-19T14:01:33+00:00
+2026-11-19T14:01:43+00:00,svrcina v travaglia,True,Dalibor Svrcina,polyus,0.98,Stefano Travaglia,kalshi,0.01,0.9921,0.0,0.0,0.0,0.0,,0.03,,0.1,True,2026-11-19T14:01:33+00:00
+2026-11-19T14:01:53+00:00,svrcina v travaglia,True,Dalibor Svrcina,polyus,0.98,Stefano Travaglia,kalshi,0.01,0.9921,0.0,0.0,0.0,0.0,,0.03,,0.1,True,2026-11-19T14:01:33+00:00
