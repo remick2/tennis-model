@@ -1,4 +1,4 @@
-# Arb test status (Thu Nov 19 12:50AM MT)
+# Arb test status (Thu Nov 19 1:05AM MT)
 
 Fresh data only, since Nov 14 21:20 UTC. **PASSED on fresh data.** Next step is Remick's: confirm he wants live trading at $25 per venue per arb. Nobody else turns it on.
 
@@ -13,11 +13,11 @@ Fresh data only, since Nov 14 21:20 UTC. **PASSED on fresh data.** Next step is 
 | Paper bot: fires still fillable 1s later | 30% | - |
 | Polymarket US reads refused as stale | 0.0% (oldest 1s) | < 5% |
 
-Coverage: 1337 candidate checks (list prices showed an arb), 29 got no Polymarket US book; 0 rate-limit hits; 122 failed list refreshes in 189,180 cycles; list vs book disagreed on 398 of 1308 checks.
+Coverage: 1337 candidate checks (list prices showed an arb), 29 got no Polymarket US book; 0 rate-limit hits; 122 failed list refreshes in 189,630 cycles; list vs book disagreed on 398 of 1308 checks.
 
 Note: at candidate moments the Polymarket US list disagreed with its book 30% of the time. Every fire is re-checked on the real book, so this means missed detections, not false fires.
 
-Bot coverage: 6,306 minutes watched. Cycles (2s each) where some pair cost under $1: **16,590**. Best a single fire would have netted: **$49.40**.
+Bot coverage: 6,321 minutes watched. Cycles (2s each) where some pair cost under $1: **16,901**. Best a single fire would have netted: **$49.40**.
 
 ## Maker test (rest a bid on one venue, hedge on the other if it fills)
 
