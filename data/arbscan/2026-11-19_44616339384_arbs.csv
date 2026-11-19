@@ -1,0 +1,18 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-19T22:13:25+00:00,lee v martin,True,Andres Martin,polyus,0.64,Jordan Lee,kalshi,0.32,0.9912,0.0,0.0,0.0,0.0,,0.37,,0.0,True,2026-11-19T22:13:25+00:00
+2026-11-19T22:13:35+00:00,lee v martin,True,Andres Martin,polyus,0.64,Jordan Lee,kalshi,0.32,0.9912,0.0,0.0,0.0,0.0,,0.38,,0.0,True,2026-11-19T22:13:25+00:00
+2026-11-19T22:13:45+00:00,lee v martin,True,Andres Martin,polyus,0.64,Jordan Lee,kalshi,0.32,0.9912,0.0,0.0,0.0,0.0,,0.37,,0.0,True,2026-11-19T22:13:25+00:00
+2026-11-19T22:14:45+00:00,ivan v rocha,True,Guido Justo,polyus,0.09,Henrique Rocha,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-19T22:14:45+00:00
+2026-11-19T22:15:35+00:00,ivan v rocha,True,Guido Justo,polyus,0.07,Henrique Rocha,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-19T22:15:35+00:00
+2026-11-19T22:15:45+00:00,ivan v rocha,True,Guido Justo,polyus,0.07,Henrique Rocha,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-19T22:15:35+00:00
+2026-11-19T22:16:05+00:00,boulais v dietrich,True,Dylan Dietrich,kalshi,0.92,Justin Boulais,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-19T22:16:05+00:00
+2026-11-19T22:16:15+00:00,boulais v dietrich,True,Dylan Dietrich,kalshi,0.92,Justin Boulais,polyus,0.07,0.9997,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-19T22:16:05+00:00
+2026-11-19T22:21:35+00:00,boulais v dietrich,True,Dylan Dietrich,polyus,0.88,Justin Boulais,kalshi,0.1,0.9936,0.0,0.0,0.0,0.0,,0.13,,0.1,True,2026-11-19T22:21:35+00:00
+2026-11-19T22:23:05+00:00,boulais v dietrich,True,Dylan Dietrich,kalshi,0.87,Justin Boulais,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-19T22:23:05+00:00
+2026-11-19T22:23:55+00:00,lee v martin,True,Andres Martin,polyus,0.51,Jordan Lee,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-19T22:23:55+00:00
+2026-11-19T22:24:05+00:00,lee v martin,True,Andres Martin,polyus,0.51,Jordan Lee,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-19T22:23:55+00:00
+2026-11-19T22:24:15+00:00,lee v martin,True,Andres Martin,polyus,0.51,Jordan Lee,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-19T22:23:55+00:00
+2026-11-19T22:24:25+00:00,lee v martin,True,Andres Martin,polyus,0.43,Jordan Lee,kalshi,0.5,0.9645,0.0,0.0,0.0,0.0,,0.58,,0.1,True,2026-11-19T22:23:55+00:00
+2026-11-19T22:24:35+00:00,lee v martin,True,Andres Martin,polyus,0.43,Jordan Lee,kalshi,0.5,0.9645,0.0,0.0,0.0,0.0,,0.58,,0.0,True,2026-11-19T22:23:55+00:00
+2026-11-19T22:24:45+00:00,lee v martin,True,Andres Martin,polyus,0.43,Jordan Lee,kalshi,0.5,0.9645,0.0,0.0,0.0,0.0,,0.58,,0.0,True,2026-11-19T22:23:55+00:00
+2026-11-19T22:26:35+00:00,ivan v rocha,True,Guido Ivan Justo,kalshi,0.18,Henrique Rocha,polyus,0.79,0.9919,0.0,0.0,0.0,0.0,0.22,,,0.0,True,2026-11-19T22:26:35+00:00
