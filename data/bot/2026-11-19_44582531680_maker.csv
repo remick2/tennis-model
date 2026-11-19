@@ -313,3 +313,13 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T22:38:46+00:00,boulais v dietrich,True,kalshi:KXATPCHALLENGERMATCH-26NOV19DIEBOU-BOU:yes,0.04,1250,False,0.0067,2.0,hedged,polyus:aec-atp-dyldie-jusbou-2026-11-19:0,0.97,-15.03,-15.05,-15.03,True
 2026-11-19T22:39:24+00:00,ivan v rocha,True,kalshi:KXATPCHALLENGERMATCH-26NOV19ROCJUS-JUS:yes,0.29,172,True,0.0051,2.0,hedged,polyus:aec-atp-henroc-guijus-2026-11-18:0,0.75,-9.12,-9.14,-9.12,True
 2026-11-19T22:39:24+00:00,ivan v rocha,True,polyus:aec-atp-henroc-guijus-2026-11-18:1,0.28,178,False,0.0053,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19ROCJUS-ROC:yes,0.75,-7.68,-7.66,-7.66,True
+2026-11-19T22:43:42+00:00,lee v martin,True,kalshi:KXATPCHALLENGERMATCH-26NOV19LEEMAR-MAR:yes,0.36,138,False,0.0135,2.1,hedged,polyus:aec-atp-jorlee-andmar-2026-11-18:0,0.65,-3.56,-3.58,-3.56,True
+2026-11-19T22:46:00+00:00,lee v martin,True,kalshi:KXATPCHALLENGERMATCH-26NOV19LEEMAR-MAR:yes,0.33,151,False,0.014,2.0,hedged,polyus:aec-atp-jorlee-andmar-2026-11-18:0,0.68,-3.79,-3.81,-3.79,True
+2026-11-19T22:46:54+00:00,ivan v rocha,True,polyus:aec-atp-henroc-guijus-2026-11-18:1,0.2,250,False,0.008,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19ROCJUS-ROC:yes,0.81,-5.19,-5.17,-5.17,True
+2026-11-19T22:47:32+00:00,ivan v rocha,True,kalshi:KXATPCHALLENGERMATCH-26NOV19ROCJUS-ROC:yes,0.78,64,False,0.0089,2.0,hedged,polyus:aec-atp-henroc-guijus-2026-11-18:1,0.22,-0.76,-1.43,-0.76,True
+2026-11-19T22:49:06+00:00,ivan v rocha,True,kalshi:KXATPCHALLENGERMATCH-26NOV19ROCJUS-ROC:yes,0.78,64,False,0.0089,2.0,hedged,polyus:aec-atp-henroc-guijus-2026-11-18:1,0.23,-1.43,-1.43,-1.43,True
+2026-11-19T22:49:44+00:00,lee v martin,True,kalshi:KXATPCHALLENGERMATCH-26NOV19LEEMAR-MAR:yes,0.27,185,False,0.0057,2.0,hedged,polyus:aec-atp-jorlee-andmar-2026-11-18:0,0.75,-6.11,-6.13,-6.11,True
+2026-11-19T22:51:52+00:00,ivan v rocha,True,kalshi:KXATPCHALLENGERMATCH-26NOV19ROCJUS-ROC:yes,0.72,69,True,0.0066,2.0,hedged,polyus:aec-atp-henroc-guijus-2026-11-18:1,0.29,-1.68,-1.68,-1.68,True
+2026-11-19T22:52:44+00:00,ivan v rocha,True,kalshi:KXATPCHALLENGERMATCH-26NOV19ROCJUS-JUS:yes,0.26,192,False,0.006,2.0,hedged,polyus:aec-atp-henroc-guijus-2026-11-18:0,0.75,-4.42,-4.44,-4.42,True
+2026-11-19T22:55:04+00:00,ivan v rocha,True,kalshi:KXATPCHALLENGERMATCH-26NOV19ROCJUS-ROC:yes,0.7,71,False,0.006,2.0,hedged,polyus:aec-atp-henroc-guijus-2026-11-18:1,0.32,-2.49,-2.5,-2.49,True
+2026-11-19T22:57:34+00:00,ivan v rocha,True,kalshi:KXATPCHALLENGERMATCH-26NOV19ROCJUS-JUS:yes,0.38,131,True,0.0132,2.0,hedged,polyus:aec-atp-henroc-guijus-2026-11-18:0,0.64,-4.72,-4.73,-4.72,True
