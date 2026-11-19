@@ -59,3 +59,17 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T14:13:56+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-VAS:yes,0.18,277,True,0.0089,2.0,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:1,0.84,-8.13,-8.15,-8.13,True
 2026-11-19T14:15:46+00:00,jodar v shelton,True,polyus:aec-atp-benshe-rafjod-2026-11-15:0,0.77,64,True,0.0084,2.0,unwound,kalshi:KXATPMATCH-26NOV17SHEJOD-SHE:no,0.24,-1.46,-1.45,-1.45,True
 2026-11-19T14:16:22+00:00,jodar v shelton,True,kalshi:KXATPMATCH-26NOV17SHEJOD-SHE:yes,0.73,68,False,0.0139,2.0,unwound,polyus:aec-atp-benshe-rafjod-2026-11-15:1,0.29,-2.57,-2.0,-2.0,True
+2026-11-19T14:20:08+00:00,jodar v shelton,True,kalshi:KXATPMATCH-26NOV17SHEJOD-JOD:yes,0.33,151,False,0.0101,2.0,hedged,polyus:aec-atp-benshe-rafjod-2026-11-15:0,0.68,-4.38,-4.39,-4.38,True
+2026-11-19T14:20:10+00:00,jodar v shelton,True,polyus:aec-atp-benshe-rafjod-2026-11-15:1,0.3,166,False,0.0145,2.0,unwound,kalshi:KXATPMATCH-26NOV17SHEJOD-SHE:yes,0.72,-5.66,-5.65,-5.65,True
+2026-11-19T14:21:34+00:00,gueymard v nagel,True,kalshi:KXATPCHALLENGERMATCH-26NOV19GUENAG-GUE:yes,0.94,53,True,0.0067,2.0,hedged,polyus:aec-atp-sasgue-artnag-2026-11-19:1,0.06,-0.21,-1.33,-0.21,True
+2026-11-19T14:22:16+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-BUT:yes,0.82,60,True,0.0107,2.0,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:0,0.19,-1.24,-1.25,-1.24,True
+2026-11-19T14:25:02+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-VAS:yes,0.12,416,True,0.0116,2.0,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:1,0.89,-6.99,-7.01,-6.99,True
+2026-11-19T14:26:14+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-VAS:yes,0.03,1666,True,0.0073,2.0,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:1,0.96,12.21,-18.95,12.21,True
+2026-11-19T14:26:44+00:00,gueymard v nagel,True,kalshi:KXATPCHALLENGERMATCH-26NOV19GUENAG-NAG:yes,0.06,833,True,0.0055,2.0,hedged,polyus:aec-atp-sasgue-artnag-2026-11-19:0,0.95,-11.08,-11.1,-11.08,True
+2026-11-19T14:27:50+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-BUT:yes,0.95,52,False,0.0073,2.0,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:0,0.06,-0.72,-0.73,-0.72,True
+2026-11-19T14:27:50+00:00,butvilas v vasa,True,polyus:aec-atp-eervas-edabut-2026-11-19:1,0.95,52,False,0.0073,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-VAS:yes,0.06,-0.73,-0.72,-0.72,True
+2026-11-19T14:28:10+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-VAS:yes,0.04,1250,False,0.0067,2.0,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:1,0.97,-15.03,-15.05,-15.03,True
+2026-11-19T14:28:34+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-BUT:yes,0.95,52,True,0.0073,2.0,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:0,0.07,-1.28,-1.28,-1.28,True
+2026-11-19T14:28:34+00:00,butvilas v vasa,True,polyus:aec-atp-eervas-edabut-2026-11-19:1,0.94,53,False,0.0067,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-VAS:yes,0.07,-0.77,-0.77,-0.77,True
+2026-11-19T14:29:40+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-BUT:yes,0.93,53,False,0.0061,1.5,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:0,0.08,-0.8,-1.36,-0.8,True
+2026-11-19T14:31:12+00:00,butvilas v vasa,True,kalshi:KXATPCHALLENGERMATCH-26NOV19VASBUT-VAS:yes,0.03,1666,False,0.0073,2.0,hedged,polyus:aec-atp-eervas-edabut-2026-11-19:1,0.98,-18.93,-34.47,-18.93,True
