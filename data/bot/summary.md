@@ -1,20 +1,19 @@
-# Dry-run bot (Wed Nov 18 8:40PM MT)
+# Dry-run bot (Wed Nov 18 8:55PM MT)
 
 Paper only: no keys, no real orders. Started 2026-11-14 with $700 (Kalshi $345, Polymarket US $355).
 
-- Cash: Kalshi **$256.14**, Polymarket US **$474.91**; locked in 1 open matches: $207.14
-- Bankroll now (cash + open at cost): **$938.19**
-- Fires: 84 · settled: 68 · settled P&L **$+305.90** (includes unwinds: $-73.49)
-- Paper rebalances (times Remick would have had to move money between venues): 14 · cap $150 per venue per arb
-- On fresh (uncached) Polymarket US books, since Nov 14: 84 fires, 81 traded, 14 with one leg short · simulated $242.05 vs $238.57 if both orders had gone at once
+- Cash: Kalshi **$443.03**, Polymarket US **$289.03**; locked in 1 open matches: $207.14
+- Bankroll now (cash + open at cost): **$939.20**
+- Fires: 85 · settled: 69 · settled P&L **$+306.91** (includes unwinds: $-73.49)
+- Paper rebalances (times Remick would have had to move money between venues): 15 · cap $150 per venue per arb
+- On fresh (uncached) Polymarket US books, since Nov 14: 85 fires, 82 traded, 14 with one leg short · simulated $243.06 vs $239.58 if both orders had gone at once
 - Earlier fires (23) used Polymarket US books up to 30s stale: not evidence either way
-- Median book-read time 331 ms, fill check 64 ms
+- Median book-read time 329 ms, fill check 64 ms
 
 ## Last 15 fires
 
 | ts                        | key                | live   | mode         |   shares |   total |   expected |   filled_a |   filled_b |   unwind_pnl |   sim_profit |   both_profit |
 |:--------------------------|:-------------------|:-------|:-------------|---------:|--------:|-----------:|-----------:|-----------:|-------------:|-------------:|--------------:|
-| 2026-11-19T00:26:14+00:00 | geerlings v samson | True   | polyus_first |      243 |  0.9928 |       1.74 |        243 |     243    |         0    |         1.74 |          1.74 |
 | 2026-11-19T00:26:56+00:00 | geerlings v samson | True   | polyus_first |      182 |  0.9827 |       3.15 |        182 |     182    |         0    |         3.16 |          3.16 |
 | 2026-11-19T00:37:16+00:00 | broska v langmo    | True   | polyus_first |       95 |  0.9816 |       1.75 |         95 |      95    |         0    |         1.75 |          1.75 |
 | 2026-11-19T00:45:58+00:00 | chan v kasnikowski | True   | polyus_first |       68 |  0.9754 |       1.67 |         68 |      68    |         0    |         1.67 |          1.67 |
@@ -29,3 +28,4 @@ Paper only: no keys, no real orders. Started 2026-11-14 with $700 (Kalshi $345, 
 | 2026-11-19T02:27:43+00:00 | bouzige v gorzny   | True   | polyus_first |      167 |  0.9926 |       1.24 |        167 |     167    |         0    |         1.24 |          1.24 |
 | 2026-11-19T02:33:03+00:00 | banerjee v blanch  | True   | polyus_first |      158 |  0.9911 |       1.41 |        158 |     158    |         0    |         1.42 |          1.42 |
 | 2026-11-19T03:34:37+00:00 | friend v noguchi   | True   | polyus_first |      211 |  0.9817 |       3.86 |        211 |     211    |         0    |         3.86 |          3.86 |
+| 2026-11-19T03:42:11+00:00 | samrej v staeheli  | True   | polyus_first |      154 |  0.9934 |       1.01 |        154 |     154    |         0    |         1.01 |          1.01 |

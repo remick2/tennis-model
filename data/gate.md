@@ -1,4 +1,4 @@
-# Arb test status (Wed Nov 18 8:40PM MT)
+# Arb test status (Wed Nov 18 8:55PM MT)
 
 Fresh data only, since Nov 14 21:20 UTC. **PASSED on fresh data.** Next step is Remick's: confirm he wants live trading at $25 per venue per arb. Nobody else turns it on.
 
@@ -8,27 +8,27 @@ Fresh data only, since Nov 14 21:20 UTC. **PASSED on fresh data.** Next step is 
 | ...on different UTC days | 5 | 5 |
 | ...found by the scanner / by the paper bot | 0 / 25 | - |
 | ...scanner total at the $690 bankroll | $0.00 | - |
-| Paper bot: fires / traded / one leg short | 84 / 81 / 14 | - |
-| Paper bot: simulated profit on traded fires | $+242.05 | > $0 |
+| Paper bot: fires / traded / one leg short | 85 / 82 / 14 | - |
+| Paper bot: simulated profit on traded fires | $+243.06 | > $0 |
 | Paper bot: fires still fillable 1s later | 31% | - |
 | Polymarket US reads refused as stale | 0.0% (oldest 1s) | < 5% |
 
-Coverage: 1322 candidate checks (list prices showed an arb), 29 got no Polymarket US book; 0 rate-limit hits; 117 failed list refreshes in 181,710 cycles; list vs book disagreed on 395 of 1293 checks.
+Coverage: 1326 candidate checks (list prices showed an arb), 29 got no Polymarket US book; 0 rate-limit hits; 117 failed list refreshes in 182,160 cycles; list vs book disagreed on 396 of 1297 checks.
 
 Note: at candidate moments the Polymarket US list disagreed with its book 31% of the time. Every fire is re-checked on the real book, so this means missed detections, not false fires.
 
-Bot coverage: 6,057 minutes watched. Cycles (2s each) where some pair cost under $1: **14,040**. Best a single fire would have netted: **$49.40**.
+Bot coverage: 6,072 minutes watched. Cycles (2s each) where some pair cost under $1: **14,046**. Best a single fire would have netted: **$49.40**.
 
 ## Maker test (rest a bid on one venue, hedge on the other if it fills)
 
-Fills: **9789** · total **$-36737.17** · per fill $-3.75 ± 0.06. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
+Fills: **9813** · total **$-36858.96** · per fill $-3.76 ± 0.06. No edge shown (needs 30+ fills with the mean above zero by 2 standard errors).
 
 | venue   | live   |   fills |     total |   mean |
 |:--------|:-------|--------:|----------:|-------:|
 | kalshi  | False  |     138 |    190.54 |   1.38 |
-| kalshi  | True   |    8050 | -27944.9  |  -3.47 |
+| kalshi  | True   |    8067 | -28007.5  |  -3.47 |
 | polyus  | False  |      21 |   -110.74 |  -5.27 |
-| polyus  | True   |    1580 |  -8872.03 |  -5.62 |
+| polyus  | True   |    1587 |  -8931.25 |  -5.63 |
 
 ## By UTC day
 
@@ -39,5 +39,5 @@ Fills: **9789** · total **$-36737.17** · per fill $-3.75 ± 0.06. No edge show
 | 2026-11-16 |          12 |           11 |          2622 |      -19.53 | -11791.7  |
 | 2026-11-17 |          20 |           19 |          2654 |       82.47 | -10745.6  |
 | 2026-11-18 |          14 |           14 |          1502 |       43.62 |  -5497.53 |
-| 2026-11-19 |          17 |           17 |           252 |       55.74 |    -55.63 |
+| 2026-11-19 |          18 |           18 |           276 |       56.75 |   -177.42 |
 
