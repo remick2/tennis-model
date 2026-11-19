@@ -131,3 +131,10 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T15:38:09+00:00,bronzetti v monnet,True,kalshi:KXWTACHALLENGERMATCH-26NOV19BROMON-MON:yes,0.21,238,False,0.0077,2.0,hedged,polyus:aec-wta-lucbro-carmon-2026-11-18:0,0.79,-2.74,-5.05,-2.74,True
 2026-11-19T15:39:15+00:00,bronzetti v monnet,True,kalshi:KXWTACHALLENGERMATCH-26NOV19BROMON-BRO:yes,0.74,67,False,0.0073,2.0,hedged,polyus:aec-wta-lucbro-carmon-2026-11-18:1,0.27,-1.59,-1.59,-1.59,True
 2026-11-19T15:46:13+00:00,jacquet v nardi,True,polyus:aec-atp-lucnar-kyrjac-2026-11-19:1,0.35,142,False,0.0135,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV19NARJAC-NAR:yes,0.65,-2.26,-3.63,-2.26,True
+2026-11-19T15:53:22+00:00,ritschard v virtanen,True,polyus:aec-atp-alerit-ottvir-2026-11-19:1,0.76,65,True,0.008,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19RITVIR-VIR:no,0.25,-1.5,-1.5,-1.5,True
+2026-11-19T15:53:50+00:00,ritschard v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RITVIR-VIR:yes,0.72,69,False,0.0066,2.0,hedged,polyus:aec-atp-alerit-ottvir-2026-11-19:0,0.29,-1.68,-1.68,-1.68,True
+2026-11-19T15:53:50+00:00,ritschard v virtanen,True,polyus:aec-atp-alerit-ottvir-2026-11-19:1,0.72,69,False,0.0065,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19RITVIR-VIR:no,0.29,-1.68,-1.68,-1.68,True
+2026-11-19T15:54:14+00:00,ritschard v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RITVIR-RIT:yes,0.27,185,False,0.0057,2.0,hedged,polyus:aec-atp-alerit-ottvir-2026-11-19:1,0.74,-4.32,-4.34,-4.32,True
+2026-11-19T15:54:52+00:00,ritschard v virtanen,True,polyus:aec-atp-alerit-ottvir-2026-11-19:0,0.24,208,False,0.0065,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV19RITVIR-VIR:yes,0.76,-2.66,-4.64,-2.66,True
+2026-11-19T15:55:48+00:00,ritschard v virtanen,True,polyus:aec-atp-alerit-ottvir-2026-11-19:1,0.66,75,True,0.0253,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19RITVIR-VIR:no,0.38,-4.24,-4.23,-4.23,True
+2026-11-19T16:01:20+00:00,jacquet v nardi,True,polyus:aec-atp-lucnar-kyrjac-2026-11-19:1,0.26,192,False,0.0059,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19NARJAC-NAR:yes,0.75,-4.44,-4.42,-4.42,True
