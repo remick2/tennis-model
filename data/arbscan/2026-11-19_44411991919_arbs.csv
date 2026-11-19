@@ -1,0 +1,41 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-19T00:00:08+00:00,broska v langmo,True,Christian Langmo,polyus,0.66,Florian Broska,kalshi,0.24,0.9284,0.0,0.0,0.0,0.0,,0.37,,0.1,True,2026-11-18T23:59:58+00:00
+2026-11-19T00:00:08+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.06,Lui Maxted,kalshi,0.92,0.9891,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-18T23:59:58+00:00
+2026-11-19T00:00:08+00:00,becroft v li tu,True,Isaac Becroft,polyus,0.1,Li Tu,kalshi,0.88,0.9936,0.0,0.0,0.0,0.0,,0.9,,0.2,True,2026-11-19T00:00:08+00:00
+2026-11-19T00:00:28+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.24,Tristan Boyer,kalshi,0.71,0.9771,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-19T00:00:28+00:00
+2026-11-19T00:00:38+00:00,kennedy v maxted,True,Jack Kennedy,polyus,0.02,Lui Maxted,kalshi,0.95,0.9747,0.0,0.0,0.0,0.0,,0.99,,0.2,True,2026-11-19T00:00:38+00:00
+2026-11-19T00:00:38+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.24,Tristan Boyer,kalshi,0.71,0.9771,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-19T00:00:28+00:00
+2026-11-19T00:00:38+00:00,broska v langmo,True,Christian Langmo,kalshi,0.64,Florian Broska,polyus,0.31,0.981,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-19T00:00:38+00:00
+2026-11-19T00:00:38+00:00,becroft v li tu,True,Isaac Becroft,polyus,0.08,Li Tu,kalshi,0.9,0.9914,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-19T00:00:38+00:00
+2026-11-19T00:01:08+00:00,alberto v boyer,True,Genaro Alberto Olivieri,kalshi,0.24,Tristan Boyer,polyus,0.73,0.9965,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-19T00:01:08+00:00
+2026-11-19T00:01:48+00:00,alberto v boyer,True,Genaro Alberto Olivieri,kalshi,0.26,Tristan Boyer,polyus,0.7,0.9881,0.0,0.0,0.0,0.0,0.35,,,0.1,True,2026-11-19T00:01:48+00:00
+2026-11-19T00:01:58+00:00,alberto v boyer,True,Genaro Alberto Olivieri,kalshi,0.26,Tristan Boyer,polyus,0.66,0.9491,0.0,0.0,0.0,0.0,0.35,,,0.1,True,2026-11-19T00:01:48+00:00
+2026-11-19T00:02:08+00:00,alberto v boyer,True,Genaro Alberto Olivieri,kalshi,0.26,Tristan Boyer,polyus,0.66,0.9491,0.0,0.0,0.0,0.0,0.35,,,0.1,True,2026-11-19T00:01:48+00:00
+2026-11-19T00:02:18+00:00,alberto v boyer,True,Genaro Alberto Olivieri,kalshi,0.26,Tristan Boyer,polyus,0.66,0.9491,0.0,0.0,0.0,0.0,0.35,,,0.1,True,2026-11-19T00:01:48+00:00
+2026-11-19T00:02:18+00:00,geerlings v samson,True,Ariana Geerlings,polyus,0.25,Laura Samson,kalshi,0.7,0.9777,0.0,0.0,0.0,0.0,,0.76,,0.1,True,2026-11-19T00:02:18+00:00
+2026-11-19T00:02:28+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.28,Tristan Boyer,kalshi,0.68,0.9892,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-19T00:02:28+00:00
+2026-11-19T00:02:38+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.28,Tristan Boyer,kalshi,0.68,0.9892,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-19T00:02:28+00:00
+2026-11-19T00:02:38+00:00,geerlings v samson,True,Ariana Geerlings,polyus,0.23,Laura Samson,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-19T00:02:38+00:00
+2026-11-19T00:02:48+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.28,Tristan Boyer,kalshi,0.68,0.9892,0.0,0.0,0.0,0.0,,0.73,,0.1,True,2026-11-19T00:02:28+00:00
+2026-11-19T00:02:48+00:00,geerlings v samson,True,Ariana Geerlings,polyus,0.23,Laura Samson,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-19T00:02:38+00:00
+2026-11-19T00:03:08+00:00,becroft v li tu,True,Isaac Becroft,polyus,0.04,Li Tu,kalshi,0.9,0.949,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-19T00:03:08+00:00
+2026-11-19T00:03:08+00:00,chan v kasnikowski,True,Duncan Chan,kalshi,0.27,Maks Kasnikowski,polyus,0.68,0.9789,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-19T00:03:08+00:00
+2026-11-19T00:03:18+00:00,becroft v li tu,True,Isaac Becroft,polyus,0.03,Li Tu,kalshi,0.9,0.9383,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-19T00:03:08+00:00
+2026-11-19T00:03:18+00:00,alberto v boyer,True,Genaro Alberto Olivieri,kalshi,0.28,Tristan Boyer,polyus,0.66,0.9697,0.0,0.0,0.0,0.0,0.35,,,0.1,True,2026-11-19T00:03:18+00:00
+2026-11-19T00:03:18+00:00,chan v kasnikowski,True,Duncan Chan,kalshi,0.27,Maks Kasnikowski,polyus,0.68,0.9789,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-19T00:03:08+00:00
+2026-11-19T00:03:58+00:00,chan v kasnikowski,True,Duncan Chan,kalshi,0.33,Maks Kasnikowski,polyus,0.63,0.9917,0.0,0.0,0.0,0.0,0.38,,,0.1,True,2026-11-19T00:03:58+00:00
+2026-11-19T00:03:58+00:00,broska v langmo,True,Christian Langmo,kalshi,0.75,Florian Broska,polyus,0.22,0.9951,0.0,0.0,0.0,0.0,0.79,,,0.1,True,2026-11-19T00:03:58+00:00
+2026-11-19T00:05:48+00:00,alberto v boyer,True,Genaro Alberto Olivieri,kalshi,0.45,Tristan Boyer,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-19T00:05:48+00:00
+2026-11-19T00:08:58+00:00,geerlings v samson,True,Ariana Geerlings Martinez,kalshi,0.31,Laura Samson,polyus,0.62,0.9613,0.0,0.0,0.0,0.0,0.39,,,0.1,True,2026-11-19T00:08:58+00:00
+2026-11-19T00:09:28+00:00,geerlings v samson,True,Ariana Geerlings Martinez,kalshi,0.35,Laura Samson,polyus,0.61,0.9925,0.0,0.0,0.0,0.0,0.4,,,0.1,True,2026-11-19T00:09:28+00:00
+2026-11-19T00:10:48+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.31,Tristan Boyer,kalshi,0.65,0.9908,0.0,0.0,0.0,0.0,,0.7,,0.1,True,2026-11-19T00:10:48+00:00
+2026-11-19T00:13:08+00:00,alberto v boyer,True,Genaro Alberto Olivieri,kalshi,0.34,Tristan Boyer,polyus,0.61,0.9822,0.0,0.0,0.0,0.0,0.4,,,0.1,True,2026-11-19T00:13:08+00:00
+2026-11-19T00:13:48+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.34,Tristan Boyer,kalshi,0.61,0.9822,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-19T00:13:48+00:00
+2026-11-19T00:13:58+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.34,Tristan Boyer,kalshi,0.61,0.9822,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-19T00:13:48+00:00
+2026-11-19T00:14:08+00:00,chan v kasnikowski,True,Duncan Chan,kalshi,0.45,Maks Kasnikowski,polyus,0.48,0.9647,0.0,0.0,0.0,0.0,0.53,,,0.1,True,2026-11-19T00:14:08+00:00
+2026-11-19T00:14:08+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.34,Tristan Boyer,kalshi,0.61,0.9822,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-19T00:13:48+00:00
+2026-11-19T00:14:18+00:00,chan v kasnikowski,True,Duncan Chan,kalshi,0.47,Maks Kasnikowski,polyus,0.48,0.9848,0.0,0.0,0.0,0.0,0.53,,,0.1,True,2026-11-19T00:14:08+00:00
+2026-11-19T00:14:28+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.27,Tristan Boyer,kalshi,0.67,0.9692,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-19T00:14:28+00:00
+2026-11-19T00:14:28+00:00,chan v kasnikowski,True,Duncan Chan,kalshi,0.47,Maks Kasnikowski,polyus,0.48,0.9848,0.0,0.0,0.0,0.0,0.53,,,0.1,True,2026-11-19T00:14:08+00:00
+2026-11-19T00:14:38+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.27,Tristan Boyer,kalshi,0.67,0.9692,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-19T00:14:28+00:00
+2026-11-19T00:14:48+00:00,alberto v boyer,True,Genaro Alberto Olivieri,polyus,0.24,Tristan Boyer,kalshi,0.67,0.9382,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-19T00:14:28+00:00
