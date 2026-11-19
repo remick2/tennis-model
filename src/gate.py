@@ -109,8 +109,8 @@ def main():
                "maker_edge": maker_edge}, open(ROOT / "data" / "gate.json", "w"), indent=1)
 
     verdict = {
-        "PASSED": "**PASSED on fresh data.** Next step is Remick's: confirm he wants live trading at $25 per venue per "
-                  "arb. Nobody else turns it on.",
+        "PASSED": "**PASSED on fresh data.** Next step is Remick's: add his 4 API keys as GitHub secrets, then "
+                  "tell Claude to turn it on ($20 test budget, $5 per arb). Nobody else turns it on.",
         "RUNNING": f"**NOT PASSED YET** ({occ}/{NEED_OCC} occasions, {days}/{NEED_DAYS} days). Test ends "
                    f"{END:%b %-d} 00:00 UTC. Live trading is off and stays off.",
         "FAILED": "**FAILED.** Cross-venue taker arbitrage between Kalshi and Polymarket US is closed as a strategy: "
