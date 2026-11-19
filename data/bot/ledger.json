@@ -2,22 +2,9 @@
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
   "kalshi": 313.85,
-  "polyus": 1.34
+  "polyus": 363.34
  },
  "open": [
-  {
-   "id": "b6d5feebc4a1",
-   "key": "banerjee v blanch",
-   "opened": "2026-11-19T01:35:08+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18BLABAN-BLA",
-   "kalshi_side": "no",
-   "shares": {
-    "polyus": 204,
-    "kalshi": 204
-   },
-   "cost": 201.31,
-   "expected": 2.69
-  },
   {
    "id": "2884ead6213c",
    "key": "bouzige v gorzny",
@@ -43,24 +30,11 @@
    },
    "cost": 165.76,
    "expected": 1.24
-  },
-  {
-   "id": "94eaeeb5eff6",
-   "key": "banerjee v blanch",
-   "opened": "2026-11-19T02:33:03+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18BLABAN-BLA",
-   "kalshi_side": "no",
-   "shares": {
-    "polyus": 158.0,
-    "kalshi": 158.0
-   },
-   "cost": 156.58,
-   "expected": 1.41
   }
  ],
- "settled_pnl": 297.5,
+ "settled_pnl": 301.61,
  "unwind_pnl": -73.49,
  "fires": 83,
- "settled": 64,
+ "settled": 66,
  "rebalances": 14
 }

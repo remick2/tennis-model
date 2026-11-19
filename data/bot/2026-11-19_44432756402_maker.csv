@@ -58,3 +58,10 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T02:36:54+00:00,friend v noguchi,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG:yes,0.21,238,True,0.0077,2.0,hedged,polyus:aec-atp-jayfri-rionog-2026-11-17:0,0.77,1.83,-5.05,1.83,True
 2026-11-19T02:38:30+00:00,friend v noguchi,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HARNOG-HAR:yes,0.77,64,False,0.0085,2.0,hedged,polyus:aec-atp-jayfri-rionog-2026-11-17:1,0.21,0.54,-1.46,0.54,True
 2026-11-19T02:38:52+00:00,friend v noguchi,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG:yes,0.21,238,True,0.0077,2.0,hedged,polyus:aec-atp-jayfri-rionog-2026-11-17:0,0.77,1.83,-5.05,1.83,True
+2026-11-19T02:40:19+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-SAM:yes,0.76,65,True,0.0081,2.0,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:0,0.22,0.52,-1.5,0.52,True
+2026-11-19T02:44:25+00:00,bouzige v gorzny,True,kalshi:KXATPCHALLENGERMATCH-26NOV18GORBOU-BOU:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-atp-sebgor-moebou-2026-11-18:0,0.97,-22.02,-22.04,-22.02,True
+2026-11-19T02:45:35+00:00,hassan v smith,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HASSMI-HAS:yes,0.3,166,True,0.044,1.9,hedged,polyus:aec-atp-benhas-keesmi-2026-11-17:1,0.64,7.3,-8.88,7.3,True
+2026-11-19T02:45:57+00:00,bouzige v gorzny,True,polyus:aec-atp-sebgor-moebou-2026-11-18:1,0.04,1250,True,0.0067,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18GORBOU-GOR:yes,0.97,-15.05,-15.03,-15.03,True
+2026-11-19T02:47:17+00:00,hassan v smith,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HASSMI-SMI:yes,0.71,70,True,0.0063,2.1,hedged,polyus:aec-atp-benhas-keesmi-2026-11-17:0,0.27,0.44,-1.73,0.44,True
+2026-11-19T02:48:13+00:00,samrej v staeheli,True,kalshi:KXATPCHALLENGERMATCH-26NOV18STASAM-SAM:yes,0.77,64,True,0.0085,2.1,hedged,polyus:aec-atp-lucsta-kassam-2026-11-17:0,0.21,0.54,-2.12,0.54,True
+2026-11-19T02:53:45+00:00,friend v noguchi,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HARNOG-HAR:yes,0.79,63,True,0.0197,2.0,hedged,polyus:aec-atp-jayfri-rionog-2026-11-17:1,0.18,1.24,-1.39,1.24,True
