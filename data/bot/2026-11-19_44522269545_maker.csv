@@ -125,3 +125,9 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T15:27:22+00:00,bronzetti v monnet,True,kalshi:KXWTACHALLENGERMATCH-26NOV19BROMON-BRO:yes,0.62,80,False,0.0142,2.0,hedged,polyus:aec-wta-lucbro-carmon-2026-11-18:1,0.39,-2.12,-2.13,-2.12,True
 2026-11-19T15:27:52+00:00,bronzetti v monnet,True,kalshi:KXWTACHALLENGERMATCH-26NOV19BROMON-MON:yes,0.35,142,False,0.0136,2.0,hedged,polyus:aec-wta-lucbro-carmon-2026-11-18:0,0.66,-3.63,-3.65,-3.63,True
 2026-11-19T15:28:28+00:00,bronzetti v monnet,True,kalshi:KXWTACHALLENGERMATCH-26NOV19BROMON-MON:yes,0.34,147,True,0.0138,2.0,hedged,polyus:aec-wta-lucbro-carmon-2026-11-18:0,0.71,-9.45,-10.89,-9.45,True
+2026-11-19T15:33:42+00:00,jacquet v nardi,True,polyus:aec-atp-lucnar-kyrjac-2026-11-19:1,0.55,90,True,0.0129,2.6,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19NARJAC-NAR:yes,0.46,-2.46,-2.45,-2.45,True
+2026-11-19T15:34:21+00:00,jacquet v nardi,True,polyus:aec-atp-lucnar-kyrjac-2026-11-19:1,0.47,106,False,0.0125,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19NARJAC-NAR:yes,0.54,-2.9,-2.89,-2.89,True
+2026-11-19T15:37:33+00:00,jacquet v nardi,True,kalshi:KXATPCHALLENGERMATCH-26NOV19NARJAC-JAC:yes,0.47,106,True,0.0126,2.0,hedged,polyus:aec-atp-lucnar-kyrjac-2026-11-19:0,0.56,-5.0,-5.01,-5.0,True
+2026-11-19T15:38:09+00:00,bronzetti v monnet,True,kalshi:KXWTACHALLENGERMATCH-26NOV19BROMON-MON:yes,0.21,238,False,0.0077,2.0,hedged,polyus:aec-wta-lucbro-carmon-2026-11-18:0,0.79,-2.74,-5.05,-2.74,True
+2026-11-19T15:39:15+00:00,bronzetti v monnet,True,kalshi:KXWTACHALLENGERMATCH-26NOV19BROMON-BRO:yes,0.74,67,False,0.0073,2.0,hedged,polyus:aec-wta-lucbro-carmon-2026-11-18:1,0.27,-1.59,-1.59,-1.59,True
+2026-11-19T15:46:13+00:00,jacquet v nardi,True,polyus:aec-atp-lucnar-kyrjac-2026-11-19:1,0.35,142,False,0.0135,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV19NARJAC-NAR:yes,0.65,-2.26,-3.63,-2.26,True
