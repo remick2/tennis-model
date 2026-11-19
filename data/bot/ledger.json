@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 192.72,
-  "polyus": 192.72
+  "kalshi": 129.78,
+  "polyus": 0.67
  },
  "open": [
   {
@@ -56,11 +56,50 @@
    },
    "cost": 133.2,
    "expected": 3.8
+  },
+  {
+   "id": "2d95a5b4646b",
+   "key": "friend v noguchi",
+   "opened": "2026-11-19T04:12:31+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 50.0,
+    "kalshi": 50.0
+   },
+   "cost": 44.0,
+   "expected": 6.0
+  },
+  {
+   "id": "fa59b6597be6",
+   "key": "friend v noguchi",
+   "opened": "2026-11-19T04:13:47+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 129.0,
+    "kalshi": 129.0
+   },
+   "cost": 125.24,
+   "expected": 3.76
+  },
+  {
+   "id": "a3e57ec19f85",
+   "key": "friend v noguchi",
+   "opened": "2026-11-19T04:14:18+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18HARNOG-NOG",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 88.0,
+    "kalshi": 88.0
+   },
+   "cost": 85.75,
+   "expected": 2.25
   }
  ],
  "settled_pnl": 306.91,
  "unwind_pnl": -73.49,
- "fires": 88,
+ "fires": 91,
  "settled": 69,
  "rebalances": 16
 }
