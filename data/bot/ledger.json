@@ -1,23 +1,10 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 195.47,
-  "polyus": 195.47
+  "kalshi": 99.99,
+  "polyus": 0.49
  },
  "open": [
-  {
-   "id": "ba290486c1bc",
-   "key": "chan v kasnikowski",
-   "opened": "2026-11-19T00:45:58+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18KASCHA-CHA",
-   "kalshi_side": "yes",
-   "shares": {
-    "kalshi": 68.0,
-    "polyus": 68.0
-   },
-   "cost": 66.33,
-   "expected": 1.67
-  },
   {
    "id": "0bce69395fde",
    "key": "alberto v boyer",
@@ -69,11 +56,37 @@
    },
    "cost": 134.48,
    "expected": 3.55
+  },
+  {
+   "id": "c209ef741ec9",
+   "key": "alberto v boyer",
+   "opened": "2026-11-19T01:02:32+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18OLIBOY-BOY",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 192,
+    "kalshi": 192
+   },
+   "cost": 190.92,
+   "expected": 1.08
+  },
+  {
+   "id": "3973a3646b82",
+   "key": "alberto v boyer",
+   "opened": "2026-11-19T01:06:02+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18OLIBOY-OLI",
+   "kalshi_side": "no",
+   "shares": {
+    "polyus": 175.0,
+    "kalshi": 175.0
+   },
+   "cost": 167.53,
+   "expected": 7.46
   }
  ],
- "settled_pnl": 276.31,
+ "settled_pnl": 277.98,
  "unwind_pnl": -73.49,
- "fires": 77,
- "settled": 57,
+ "fires": 79,
+ "settled": 58,
  "rebalances": 13
 }
