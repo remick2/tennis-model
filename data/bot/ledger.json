@@ -1,13 +1,27 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 604.99,
-  "polyus": 324.8
+  "kalshi": 364.24,
+  "polyus": 364.24
  },
- "open": [],
+ "open": [
+  {
+   "id": "b6d5feebc4a1",
+   "key": "banerjee v blanch",
+   "opened": "2026-11-19T01:35:08+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18BLABAN-BLA",
+   "kalshi_side": "no",
+   "shares": {
+    "polyus": 204,
+    "kalshi": 204
+   },
+   "cost": 201.31,
+   "expected": 2.69
+  }
+ ],
  "settled_pnl": 297.5,
  "unwind_pnl": -73.49,
- "fires": 79,
+ "fires": 80,
  "settled": 64,
- "rebalances": 13
+ "rebalances": 14
 }
