@@ -1,2 +1,3 @@
 ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
 2026-11-19T07:50:20+00:00,herbert v piros,False,kalshi:KXATPCHALLENGERMATCH-26NOV19HERPIR-PIR:yes,0.47,106,True,0.0126,1.9,hedged,polyus:aec-atp-pieher-zsopir-2026-11-19:0,0.5,1.34,-6.95,1.34,True
+2026-11-19T09:12:28+00:00,alcaraz v cobolli,False,polyus:aec-atp-caralc-flacob-2026-11-15:1,0.15,333,True,0.0197,45.9,hedged,kalshi:KXATPMATCH-26NOV17ALCCOB-COB:no,0.83,4.75,-6.12,4.75,True
