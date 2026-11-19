@@ -294,3 +294,6 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T22:09:35+00:00,herbert v piros,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HERPIR-PIR:yes,0.14,357,True,0.0107,2.0,hedged,polyus:aec-atp-pieher-zsopir-2026-11-19:0,0.88,-9.76,-27.09,-9.76,True
 2026-11-19T22:09:39+00:00,ivan v rocha,True,kalshi:KXATPCHALLENGERMATCH-26NOV19ROCJUS-ROC:yes,0.92,54,False,0.0055,2.0,hedged,polyus:aec-atp-henroc-guijus-2026-11-18:1,0.07,0.3,-0.85,0.3,True
 2026-11-19T22:11:49+00:00,lee v martin,True,kalshi:KXATPCHALLENGERMATCH-26NOV19LEEMAR-MAR:yes,0.64,78,True,0.0146,2.0,hedged,polyus:aec-atp-jorlee-andmar-2026-11-18:0,0.38,-2.84,-2.85,-2.84,True
+2026-11-19T22:15:59+00:00,boulais v dietrich,True,polyus:aec-atp-dyldie-jusbou-2026-11-19:1,0.07,714,False,0.0143,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19DIEBOU-DIE:yes,0.94,-9.96,-9.94,-9.94,True
+2026-11-19T22:23:55+00:00,lee v martin,True,kalshi:KXATPCHALLENGERMATCH-26NOV19LEEMAR-MAR:yes,0.52,96,False,0.0128,2.0,hedged,polyus:aec-atp-jorlee-andmar-2026-11-18:0,0.5,-3.59,-3.6,-3.59,True
+2026-11-19T22:24:25+00:00,lee v martin,True,kalshi:KXATPCHALLENGERMATCH-26NOV19LEEMAR-MAR:yes,0.44,113,False,0.0127,2.0,hedged,polyus:aec-atp-jorlee-andmar-2026-11-18:0,0.58,-4.17,-4.19,-4.17,True
