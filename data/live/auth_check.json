@@ -1,0 +1,38 @@
+{
+ "ts": "2026-11-19T23:55:05Z",
+ "kalshi_balance": null,
+ "polyus_balance": 355.7504,
+ "previews": [
+  {
+   "slug": "aec-wta-ferlab-andgar-2026-11-19",
+   "idx": "1",
+   "limit_our_side": 0.02,
+   "sent_price": "0.98",
+   "code": 200,
+   "cumQuantity": 0,
+   "state": "ORDER_STATE_PENDING_NEW",
+   "error": null
+  },
+  {
+   "slug": "aec-wta-ferlab-andgar-2026-11-19",
+   "idx": "1",
+   "limit_our_side": 0.98,
+   "sent_price": "0.02",
+   "code": 200,
+   "cumQuantity": 0,
+   "state": "ORDER_STATE_PENDING_NEW",
+   "error": null
+  },
+  {
+   "slug": "aec-wta-ferlab-andgar-2026-11-19",
+   "idx": "0",
+   "limit_our_side": 0.02,
+   "sent_price": "0.02",
+   "code": 200,
+   "cumQuantity": 0,
+   "state": "ORDER_STATE_PENDING_NEW",
+   "error": null
+  }
+ ],
+ "convention": "unknown"
+}
