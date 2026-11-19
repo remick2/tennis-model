@@ -835,3 +835,55 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-19T19:48:08+00:00,jover v seyboth,True,Carlos Sanchez Jover,kalshi,0.16,Thiago Seyboth Wild,polyus,0.8,0.9805,0.0,0.0,0.0,0.0,0.22,,,0.2,True,2026-11-19T19:47:58+00:00
 2026-11-19T19:48:18+00:00,jover v seyboth,True,Carlos Sanchez Jover,kalshi,0.16,Thiago Seyboth Wild,polyus,0.79,0.9709,0.0,0.0,0.0,0.0,0.23,,,0.1,True,2026-11-19T19:47:58+00:00
 2026-11-19T19:48:28+00:00,jover v seyboth,True,Carlos Sanchez Jover,kalshi,0.16,Thiago Seyboth Wild,polyus,0.79,0.9709,0.0,0.0,0.0,0.0,0.22,,,0.1,True,2026-11-19T19:47:58+00:00
+2026-11-19T19:49:18+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,kalshi,0.93,Harry Wendelken,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.1,True,2026-11-19T19:49:18+00:00
+2026-11-19T19:49:28+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,kalshi,0.93,Harry Wendelken,polyus,0.06,0.9985,0.0,0.0,0.0,0.0,0.95,,,0.2,True,2026-11-19T19:49:18+00:00
+2026-11-19T19:50:18+00:00,jover v seyboth,True,Carlos Sanchez Jover,polyus,0.14,Thiago Seyboth Wild,kalshi,0.81,0.9691,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-19T19:50:18+00:00
+2026-11-19T19:50:28+00:00,jover v seyboth,True,Carlos Sanchez Jover,polyus,0.14,Thiago Seyboth Wild,kalshi,0.81,0.9691,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-19T19:50:18+00:00
+2026-11-19T19:50:28+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.93,Harry Wendelken,kalshi,0.06,0.9985,0.0,0.0,0.0,0.0,,0.08,,0.1,True,2026-11-19T19:50:28+00:00
+2026-11-19T19:50:48+00:00,jover v seyboth,True,Carlos Sanchez Jover,polyus,0.07,Thiago Seyboth Wild,kalshi,0.88,0.9619,0.0,0.0,0.0,0.0,,0.93,,0.1,True,2026-11-19T19:50:48+00:00
+2026-11-19T19:50:58+00:00,jover v seyboth,True,Carlos Sanchez Jover,polyus,0.07,Thiago Seyboth Wild,kalshi,0.88,0.9619,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-19T19:50:48+00:00
+2026-11-19T19:50:58+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.9,Harry Wendelken,kalshi,0.08,0.9914,0.0,0.0,0.0,0.0,,0.11,,0.1,True,2026-11-19T19:50:58+00:00
+2026-11-19T19:51:08+00:00,jover v seyboth,True,Carlos Sanchez Jover,polyus,0.06,Thiago Seyboth Wild,kalshi,0.88,0.9513,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-19T19:50:48+00:00
+2026-11-19T19:51:08+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.9,Harry Wendelken,kalshi,0.08,0.9914,0.0,0.0,0.0,0.0,,0.11,,0.1,True,2026-11-19T19:50:58+00:00
+2026-11-19T19:51:18+00:00,jover v seyboth,True,Carlos Sanchez Jover,polyus,0.06,Thiago Seyboth Wild,kalshi,0.88,0.9513,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-19T19:50:48+00:00
+2026-11-19T19:51:18+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.9,Harry Wendelken,kalshi,0.08,0.9914,0.0,0.0,0.0,0.0,,0.13,,0.1,True,2026-11-19T19:50:58+00:00
+2026-11-19T19:51:28+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.85,Harry Wendelken,kalshi,0.11,0.9757,0.0,0.0,0.0,0.0,,0.16,,0.1,True,2026-11-19T19:50:58+00:00
+2026-11-19T19:51:38+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.85,Harry Wendelken,kalshi,0.11,0.9757,0.0,0.0,0.0,0.0,,0.16,,0.1,True,2026-11-19T19:50:58+00:00
+2026-11-19T19:51:38+00:00,jover v seyboth,True,Carlos Sanchez Jover,polyus,0.03,Thiago Seyboth Wild,kalshi,0.94,0.976,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-19T19:51:38+00:00
+2026-11-19T19:51:48+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.85,Harry Wendelken,kalshi,0.11,0.9757,0.0,0.0,0.0,0.0,,0.16,,0.1,True,2026-11-19T19:50:58+00:00
+2026-11-19T19:51:48+00:00,jover v seyboth,True,Carlos Sanchez Jover,polyus,0.03,Thiago Seyboth Wild,kalshi,0.94,0.976,0.0,0.0,0.0,0.0,,0.98,,0.1,True,2026-11-19T19:51:38+00:00
+2026-11-19T19:51:48+00:00,burillo v zolotareva,True,Anastasia Zolotareva,polyus,0.15,Irene Burillo Escorihuela,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-19T19:51:48+00:00
+2026-11-19T19:52:18+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.78,Harry Wendelken,kalshi,0.16,0.9613,0.0,0.0,0.0,0.0,,0.23,,0.1,True,2026-11-19T19:52:18+00:00
+2026-11-19T19:54:18+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,kalshi,0.78,Harry Wendelken,polyus,0.15,0.9509,0.0,0.0,0.0,0.0,0.86,,,0.1,True,2026-11-19T19:54:18+00:00
+2026-11-19T19:54:38+00:00,burillo v zolotareva,True,Anastasia Zolotareva,kalshi,0.14,Irene Burillo Escorihuela,polyus,0.83,0.9882,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-19T19:54:38+00:00
+2026-11-19T19:54:48+00:00,burillo v zolotareva,True,Anastasia Zolotareva,kalshi,0.15,Irene Burillo Escorihuela,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-19T19:54:38+00:00
+2026-11-19T19:54:58+00:00,burillo v zolotareva,True,Anastasia Zolotareva,kalshi,0.15,Irene Burillo Escorihuela,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-19T19:54:38+00:00
+2026-11-19T19:55:08+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.82,Harry Wendelken,kalshi,0.14,0.9787,0.0,0.0,0.0,0.0,,0.19,,0.1,True,2026-11-19T19:55:08+00:00
+2026-11-19T19:55:08+00:00,burillo v zolotareva,True,Anastasia Zolotareva,kalshi,0.15,Irene Burillo Escorihuela,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-19T19:54:38+00:00
+2026-11-19T19:55:18+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.82,Harry Wendelken,kalshi,0.14,0.9787,0.0,0.0,0.0,0.0,,0.19,,0.1,True,2026-11-19T19:55:08+00:00
+2026-11-19T19:55:28+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.82,Harry Wendelken,kalshi,0.14,0.9787,0.0,0.0,0.0,0.0,,0.2,,0.1,True,2026-11-19T19:55:08+00:00
+2026-11-19T19:55:38+00:00,burillo v zolotareva,True,Anastasia Zolotareva,polyus,0.15,Irene Burillo Escorihuela,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.2,True,2026-11-19T19:55:38+00:00
+2026-11-19T19:55:48+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.77,Harry Wendelken,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-19T19:55:48+00:00
+2026-11-19T19:55:58+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.77,Harry Wendelken,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-19T19:55:48+00:00
+2026-11-19T19:56:08+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.77,Harry Wendelken,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,,0.25,,0.1,True,2026-11-19T19:55:48+00:00
+2026-11-19T19:56:18+00:00,burillo v zolotareva,True,Anastasia Zolotareva,kalshi,0.15,Irene Burillo Escorihuela,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-19T19:56:18+00:00
+2026-11-19T19:56:28+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,kalshi,0.77,Harry Wendelken,polyus,0.17,0.9622,0.0,0.0,0.0,0.0,0.84,,,0.1,True,2026-11-19T19:56:28+00:00
+2026-11-19T19:56:28+00:00,burillo v zolotareva,True,Anastasia Zolotareva,kalshi,0.15,Irene Burillo Escorihuela,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-19T19:56:18+00:00
+2026-11-19T19:56:38+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,kalshi,0.77,Harry Wendelken,polyus,0.17,0.9622,0.0,0.0,0.0,0.0,0.84,,,0.1,True,2026-11-19T19:56:28+00:00
+2026-11-19T19:56:38+00:00,burillo v zolotareva,True,Anastasia Zolotareva,kalshi,0.15,Irene Burillo Escorihuela,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-19T19:56:18+00:00
+2026-11-19T19:57:08+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.77,Harry Wendelken,kalshi,0.17,0.9622,0.0,0.0,0.0,0.0,,0.24,,0.2,True,2026-11-19T19:57:08+00:00
+2026-11-19T19:57:38+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.72,Harry Wendelken,kalshi,0.24,0.9868,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-19T19:57:38+00:00
+2026-11-19T19:57:48+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.72,Harry Wendelken,kalshi,0.24,0.9868,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-19T19:57:38+00:00
+2026-11-19T19:57:58+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.72,Harry Wendelken,kalshi,0.24,0.9868,0.0,0.0,0.0,0.0,,0.28,,0.2,True,2026-11-19T19:57:38+00:00
+2026-11-19T19:58:18+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.68,Harry Wendelken,kalshi,0.29,0.9995,0.0,0.0,0.0,0.0,,0.33,,0.1,True,2026-11-19T19:58:18+00:00
+2026-11-19T19:58:28+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.68,Harry Wendelken,kalshi,0.29,0.9995,0.0,0.0,0.0,0.0,,0.33,,0.1,True,2026-11-19T19:58:18+00:00
+2026-11-19T19:59:08+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.62,Harry Wendelken,kalshi,0.33,0.9819,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-19T19:59:08+00:00
+2026-11-19T19:59:18+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.62,Harry Wendelken,kalshi,0.33,0.9819,0.0,0.0,0.0,0.0,,0.39,,0.1,True,2026-11-19T19:59:08+00:00
+2026-11-19T19:59:28+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.61,Harry Wendelken,kalshi,0.33,0.972,0.0,0.0,0.0,0.0,,0.4,,0.1,True,2026-11-19T19:59:08+00:00
+2026-11-19T20:00:28+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,kalshi,0.62,Harry Wendelken,polyus,0.31,0.9614,0.0,0.0,0.0,0.0,0.7,,,0.1,True,2026-11-19T20:00:28+00:00
+2026-11-19T20:01:08+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.65,Harry Wendelken,kalshi,0.31,0.9908,0.0,0.0,0.0,0.0,,0.36,,0.1,True,2026-11-19T20:01:08+00:00
+2026-11-19T20:01:18+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.65,Harry Wendelken,kalshi,0.31,0.9908,0.0,0.0,0.0,0.0,,0.36,,0.1,True,2026-11-19T20:01:08+00:00
+2026-11-19T20:01:28+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,polyus,0.65,Harry Wendelken,kalshi,0.31,0.9908,0.0,0.0,0.0,0.0,,0.36,,0.1,True,2026-11-19T20:01:08+00:00
+2026-11-19T20:01:48+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,kalshi,0.65,Harry Wendelken,polyus,0.3,0.9805,0.0,0.0,0.0,0.0,0.7,,,0.2,True,2026-11-19T20:01:48+00:00
+2026-11-19T20:01:58+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,kalshi,0.65,Harry Wendelken,polyus,0.3,0.9805,0.0,0.0,0.0,0.0,0.71,,,0.1,True,2026-11-19T20:01:48+00:00
+2026-11-19T20:02:08+00:00,blancaneaux v wendelken,True,Geoffrey Blancaneaux,kalshi,0.65,Harry Wendelken,polyus,0.31,0.9908,0.0,0.0,0.0,0.0,0.7,,,0.1,True,2026-11-19T20:01:48+00:00
