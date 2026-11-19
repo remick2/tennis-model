@@ -1,0 +1,45 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-19T16:31:58+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.66,Lucia Bronzetti,polyus,0.29,0.98,0.0,0.0,0.0,0.0,0.72,,,0.1,True,2026-11-19T16:31:58+00:00
+2026-11-19T16:31:58+00:00,ritschard v virtanen,True,Alexander Ritschard,kalshi,0.26,Otto Virtanen,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.3,,,0.1,True,2026-11-19T16:31:58+00:00
+2026-11-19T16:32:28+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.72,Lucia Bronzetti,polyus,0.23,0.9764,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-19T16:32:28+00:00
+2026-11-19T16:32:38+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.72,Lucia Bronzetti,polyus,0.23,0.9764,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-19T16:32:28+00:00
+2026-11-19T16:32:48+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.72,Lucia Bronzetti,polyus,0.23,0.9764,0.0,0.0,0.0,0.0,0.77,,,0.1,True,2026-11-19T16:32:28+00:00
+2026-11-19T16:32:58+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.77,Lucia Bronzetti,polyus,0.19,0.9831,0.0,0.0,0.0,0.0,0.82,,,0.1,True,2026-11-19T16:32:28+00:00
+2026-11-19T16:33:08+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.77,Lucia Bronzetti,polyus,0.19,0.9831,0.0,0.0,0.0,0.0,0.82,,,0.1,True,2026-11-19T16:32:28+00:00
+2026-11-19T16:33:18+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.77,Lucia Bronzetti,polyus,0.19,0.9831,0.0,0.0,0.0,0.0,0.82,,,0.1,True,2026-11-19T16:32:28+00:00
+2026-11-19T16:33:18+00:00,artnak v gray,True,Alastair Gray,polyus,0.47,Bor Artnak,kalshi,0.48,0.9848,0.0,0.0,0.0,0.0,,0.54,,0.1,True,2026-11-19T16:33:18+00:00
+2026-11-19T16:34:38+00:00,chidekh v zahraj,True,Clement Chidekh,polyus,0.86,Patrick Zahraj,kalshi,0.12,0.9958,0.0,0.0,0.0,0.0,,0.15,,0.1,True,2026-11-19T16:34:38+00:00
+2026-11-19T16:34:48+00:00,chidekh v zahraj,True,Clement Chidekh,polyus,0.86,Patrick Zahraj,kalshi,0.12,0.9958,0.0,0.0,0.0,0.0,,0.15,,0.1,True,2026-11-19T16:34:38+00:00
+2026-11-19T16:36:18+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.77,Lucia Bronzetti,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-19T16:36:18+00:00
+2026-11-19T16:36:28+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.77,Lucia Bronzetti,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-19T16:36:18+00:00
+2026-11-19T16:36:38+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.77,Lucia Bronzetti,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-19T16:36:18+00:00
+2026-11-19T16:36:48+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.73,Lucia Bronzetti,kalshi,0.24,0.9965,0.0,0.0,0.0,0.0,,0.27,,0.1,True,2026-11-19T16:36:18+00:00
+2026-11-19T16:36:58+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.73,Lucia Bronzetti,kalshi,0.24,0.9965,0.0,0.0,0.0,0.0,,0.28,,0.1,True,2026-11-19T16:36:18+00:00
+2026-11-19T16:37:08+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.73,Lucia Bronzetti,kalshi,0.24,0.9965,0.0,0.0,0.0,0.0,,0.28,,0.1,True,2026-11-19T16:36:18+00:00
+2026-11-19T16:38:08+00:00,chidekh v zahraj,True,Clement Chidekh,kalshi,0.91,Patrick Zahraj,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.1,True,2026-11-19T16:38:08+00:00
+2026-11-19T16:39:28+00:00,ritschard v virtanen,True,Alexander Ritschard,polyus,0.24,Otto Virtanen,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,,0.77,,0.1,True,2026-11-19T16:39:28+00:00
+2026-11-19T16:40:38+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.71,Lucia Bronzetti,kalshi,0.25,0.9874,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-19T16:40:38+00:00
+2026-11-19T16:40:48+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.71,Lucia Bronzetti,kalshi,0.25,0.9874,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-19T16:40:38+00:00
+2026-11-19T16:40:58+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.71,Lucia Bronzetti,kalshi,0.25,0.9874,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-19T16:40:38+00:00
+2026-11-19T16:41:18+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.71,Lucia Bronzetti,polyus,0.25,0.9874,0.0,0.0,0.0,0.0,0.76,,,0.1,True,2026-11-19T16:41:18+00:00
+2026-11-19T16:41:28+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.71,Lucia Bronzetti,polyus,0.25,0.9874,0.0,0.0,0.0,0.0,0.76,,,0.1,True,2026-11-19T16:41:18+00:00
+2026-11-19T16:41:28+00:00,batalla v kolar,True,Oriol Roca Batalla,kalshi,0.64,Zdenek Kolar,polyus,0.32,0.9913,0.0,0.0,0.0,0.0,0.69,,,0.1,True,2026-11-19T16:41:28+00:00
+2026-11-19T16:41:38+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.76,Lucia Bronzetti,polyus,0.2,0.9839,0.0,0.0,0.0,0.0,0.81,,,0.1,True,2026-11-19T16:41:18+00:00
+2026-11-19T16:41:48+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.76,Lucia Bronzetti,polyus,0.2,0.9839,0.0,0.0,0.0,0.0,0.81,,,0.1,True,2026-11-19T16:41:18+00:00
+2026-11-19T16:41:58+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.76,Lucia Bronzetti,polyus,0.2,0.9839,0.0,0.0,0.0,0.0,0.81,,,0.1,True,2026-11-19T16:41:18+00:00
+2026-11-19T16:42:08+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.76,Lucia Bronzetti,polyus,0.2,0.9839,0.0,0.0,0.0,0.0,0.81,,,0.1,True,2026-11-19T16:41:18+00:00
+2026-11-19T16:42:48+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.75,Lucia Bronzetti,kalshi,0.22,0.995,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-19T16:42:48+00:00
+2026-11-19T16:42:58+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.75,Lucia Bronzetti,kalshi,0.22,0.995,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-19T16:42:48+00:00
+2026-11-19T16:43:08+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.75,Lucia Bronzetti,kalshi,0.22,0.995,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-19T16:42:48+00:00
+2026-11-19T16:43:18+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.73,Lucia Bronzetti,kalshi,0.22,0.9757,0.0,0.0,0.0,0.0,,0.28,,0.1,True,2026-11-19T16:42:48+00:00
+2026-11-19T16:44:58+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.77,Lucia Bronzetti,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,,,0.1,True,2026-11-19T16:44:58+00:00
+2026-11-19T16:45:08+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.77,Lucia Bronzetti,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,,,0.1,True,2026-11-19T16:44:58+00:00
+2026-11-19T16:45:08+00:00,batalla v kolar,True,Oriol Roca Batalla,polyus,0.71,Zdenek Kolar,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-19T16:45:08+00:00
+2026-11-19T16:45:18+00:00,bronzetti v monnet,True,Carole Monnet,kalshi,0.77,Lucia Bronzetti,polyus,0.2,0.9935,0.0,0.0,0.0,0.0,0.81,,,0.1,True,2026-11-19T16:44:58+00:00
+2026-11-19T16:45:18+00:00,batalla v kolar,True,Oriol Roca Batalla,polyus,0.71,Zdenek Kolar,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-19T16:45:08+00:00
+2026-11-19T16:45:28+00:00,batalla v kolar,True,Oriol Roca Batalla,polyus,0.71,Zdenek Kolar,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-19T16:45:08+00:00
+2026-11-19T16:45:38+00:00,batalla v kolar,True,Oriol Roca Batalla,polyus,0.71,Zdenek Kolar,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.1,True,2026-11-19T16:45:08+00:00
+2026-11-19T16:45:58+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.77,Lucia Bronzetti,kalshi,0.2,0.9935,0.0,0.0,0.0,0.0,,0.23,,0.1,True,2026-11-19T16:45:58+00:00
+2026-11-19T16:46:08+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.77,Lucia Bronzetti,kalshi,0.16,0.9517,0.0,0.0,0.0,0.0,,0.23,,0.1,True,2026-11-19T16:45:58+00:00
+2026-11-19T16:46:18+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.77,Lucia Bronzetti,kalshi,0.16,0.9517,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-19T16:45:58+00:00
+2026-11-19T16:46:28+00:00,bronzetti v monnet,True,Carole Monnet,polyus,0.78,Lucia Bronzetti,kalshi,0.16,0.9613,0.0,0.0,0.0,0.0,,0.24,,0.1,True,2026-11-19T16:45:58+00:00
