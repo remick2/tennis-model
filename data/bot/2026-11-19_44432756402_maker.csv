@@ -268,3 +268,17 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T04:55:21+00:00,harris v schoenhaus,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HARSCH-HAR:yes,0.89,56,False,0.0143,2.0,hedged,polyus:aec-atp-bilhar-maxsch-2026-11-18:1,0.13,-1.56,-1.56,-1.56,True
 2026-11-19T04:55:21+00:00,harris v schoenhaus,True,polyus:aec-atp-bilhar-maxsch-2026-11-18:0,0.89,56,False,0.0143,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HARSCH-SCH:yes,0.13,-1.56,-1.56,-1.56,True
 2026-11-19T04:55:25+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.66,75,True,0.0151,1.5,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.37,-3.47,-3.47,-3.47,True
+2026-11-19T04:55:53+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.6,83,False,0.0138,2.0,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.44,-4.74,-4.75,-4.74,True
+2026-11-19T04:56:09+00:00,harris v schoenhaus,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HARSCH-SCH:yes,0.12,416,False,0.0116,2.0,hedged,polyus:aec-atp-bilhar-maxsch-2026-11-18:0,0.92,-18.77,-18.78,-18.77,True
+2026-11-19T04:56:19+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-HSU:yes,0.4,125,True,0.013,1.7,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.57,1.62,-7.02,1.62,True
+2026-11-19T04:56:43+00:00,hsiou v zhou,True,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.35,142,False,0.0135,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.66,-3.65,-3.63,-3.63,True
+2026-11-19T04:56:51+00:00,harris v schoenhaus,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HARSCH-SCH:yes,0.07,714,True,0.0143,2.0,hedged,polyus:aec-atp-bilhar-maxsch-2026-11-18:0,0.94,-9.94,-9.96,-9.94,True
+2026-11-19T04:56:51+00:00,harris v schoenhaus,True,polyus:aec-atp-bilhar-maxsch-2026-11-18:1,0.07,714,False,0.0143,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HARSCH-SCH:no,0.94,-9.96,-9.94,-9.94,True
+2026-11-19T04:57:13+00:00,harris v schoenhaus,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HARSCH-SCH:yes,0.05,1000,True,0.0061,2.1,hedged,polyus:aec-atp-bilhar-maxsch-2026-11-18:0,0.94,6.08,-12.69,6.08,True
+2026-11-19T04:57:33+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-HSU:yes,0.31,161,True,0.0144,2.0,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.75,-11.76,-11.77,-11.76,True
+2026-11-19T04:59:31+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.72,69,True,0.0066,2.0,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.3,-2.39,-2.39,-2.39,True
+2026-11-19T04:59:31+00:00,hsiou v zhou,True,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.71,70,False,0.0062,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:no,0.3,-1.73,-1.72,-1.72,True
+2026-11-19T04:59:59+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-HSU:yes,0.28,178,False,0.0054,2.0,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.74,-5.94,-5.96,-5.94,True
+2026-11-19T04:59:59+00:00,hsiou v zhou,True,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.28,178,False,0.0053,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.74,-5.96,-5.94,-5.94,True
+2026-11-19T05:00:23+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-HSU:yes,0.24,208,False,0.0066,2.4,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.77,-4.64,-4.66,-4.64,True
+2026-11-19T05:00:23+00:00,hsiou v zhou,True,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.25,200,False,0.0062,2.4,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.77,-6.48,-6.46,-6.46,True
