@@ -2,7 +2,7 @@
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
   "kalshi": 24.74,
-  "polyus": 168.16
+  "polyus": 225.16
  },
  "open": [
   {
@@ -56,24 +56,11 @@
    },
    "cost": 178.4,
    "expected": 1.59
-  },
-  {
-   "id": "b94d9f0a308b",
-   "key": "gaston v mayot",
-   "opened": "2026-11-19T18:54:40+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV19MAYGAS-MAY",
-   "kalshi_side": "no",
-   "shares": {
-    "polyus": 57.0,
-    "kalshi": 57.0
-   },
-   "cost": 55.94,
-   "expected": 1.06
   }
  ],
- "settled_pnl": 330.17,
+ "settled_pnl": 331.23,
  "unwind_pnl": -73.49,
  "fires": 96,
- "settled": 76,
+ "settled": 77,
  "rebalances": 18
 }
