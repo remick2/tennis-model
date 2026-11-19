@@ -293,8 +293,11 @@ def auth_check(live, universe):
         for idx, lim in (("1", 0.02), ("1", 0.98), ("0", 0.02)):   # 1 share each, previews only
             code, d = live.p.preview(slug, idx, 1, lim)
             fills[(idx, lim)] = _preview_fill(d) if code == 200 else None
-            out["previews"].append({"slug": slug, "idx": idx, "limit_our_side": lim,
-                                    "sent": live.p.body(slug, idx, 1, lim), "code": code, "resp": d})
+            o = (d or {}).get("order") or {}
+            out["previews"].append({"slug": slug, "idx": idx, "limit_our_side": lim,   # public repo: no ids, only what
+                                    "sent_price": live.p.body(slug, idx, 1, lim)["price"]["value"],  # proves the convention
+                                    "code": code, "cumQuantity": o.get("cumQuantity"), "state": o.get("state"),
+                                    "error": None if code == 200 else str((d or {}).get("message") or d)[:200]})
         lo, hi = fills.get(("1", 0.02)), fills.get(("1", 0.98))
         if lo == 0 and hi and hi > 0:
             out["convention"] = "yes_price"      # what live.py assumes

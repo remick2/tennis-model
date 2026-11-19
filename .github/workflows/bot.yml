@@ -32,7 +32,7 @@ jobs:
           KALSHI_KEY_ID: ${{ secrets.KALSHI_KEY_ID }}
           KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
           POLY_KEY_ID: ${{ secrets.POLY_KEY_ID }}
-          POLY_SECRET_KEY: ${{ secrets.POLY_SECRET_KEY }}
+          POLY_SECRET_KEY: ${{ secrets.POLY_SECRET_KEY || secrets.POLY_PRIVATE_KEY }}   # Remick saved it as POLY_PRIVATE_KEY
         run: |
           git config user.name "tennis-bot-dryrun"
           git config user.email "actions@users.noreply.github.com"
