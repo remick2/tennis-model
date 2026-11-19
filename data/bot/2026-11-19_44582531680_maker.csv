@@ -169,3 +169,17 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T20:24:40+00:00,burillo v zolotareva,True,kalshi:KXWTACHALLENGERMATCH-26NOV19ZOLBUR-ZOL:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-wta-anazol-ireesc-2026-11-18:1,0.96,-12.67,-12.69,-12.67,True
 2026-11-19T20:24:40+00:00,burillo v zolotareva,True,polyus:aec-wta-anazol-ireesc-2026-11-18:0,0.06,833,True,0.0054,2.0,unwound,kalshi:KXWTACHALLENGERMATCH-26NOV19ZOLBUR-ZOL:no,0.96,-18.9,-18.88,-18.88,True
 2026-11-19T20:24:56+00:00,blancaneaux v wendelken,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WENBLA-BLA:yes,0.48,104,False,0.0126,2.0,hedged,polyus:aec-atp-harwen-geobla-2026-11-19:0,0.56,-5.94,-5.95,-5.94,True
+2026-11-19T20:27:47+00:00,burillo v zolotareva,True,kalshi:KXWTACHALLENGERMATCH-26NOV19ZOLBUR-ZOL:yes,0.05,1000,True,0.0061,2.0,hedged,polyus:aec-wta-anazol-ireesc-2026-11-18:1,0.97,-22.02,-22.04,-22.02,True
+2026-11-19T20:27:47+00:00,burillo v zolotareva,True,polyus:aec-wta-anazol-ireesc-2026-11-18:0,0.04,1250,False,0.0067,2.0,unwound,kalshi:KXWTACHALLENGERMATCH-26NOV19ZOLBUR-ZOL:no,0.97,-15.05,-15.03,-15.03,True
+2026-11-19T20:28:35+00:00,herbert v piros,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HERPIR-PIR:yes,0.4,125,False,0.013,2.0,hedged,polyus:aec-atp-pieher-zsopir-2026-11-19:0,0.57,1.62,-4.56,1.62,True
+2026-11-19T20:29:11+00:00,herbert v piros,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HERPIR-PIR:yes,0.33,151,False,0.014,2.0,hedged,polyus:aec-atp-pieher-zsopir-2026-11-19:0,0.64,2.11,-5.28,2.11,True
+2026-11-19T20:30:07+00:00,herbert v piros,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HERPIR-PIR:yes,0.27,185,True,0.0057,2.0,hedged,polyus:aec-atp-pieher-zsopir-2026-11-19:0,0.76,-7.9,-7.91,-7.9,True
+2026-11-19T20:33:59+00:00,blancaneaux v wendelken,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WENBLA-BLA:yes,0.37,135,False,0.0133,2.0,hedged,polyus:aec-atp-harwen-geobla-2026-11-19:0,0.6,1.8,-3.53,1.8,True
+2026-11-19T20:34:11+00:00,herbert v piros,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HERPIR-HER:yes,0.75,66,False,0.0077,2.0,hedged,polyus:aec-atp-pieher-zsopir-2026-11-19:1,0.26,-1.54,-1.55,-1.54,True
+2026-11-19T20:35:03+00:00,herbert v piros,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HERPIR-PIR:yes,0.23,217,False,0.007,2.0,hedged,polyus:aec-atp-pieher-zsopir-2026-11-19:0,0.78,-4.76,-4.78,-4.76,True
+2026-11-19T20:35:27+00:00,herbert v piros,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HERPIR-HER:yes,0.75,66,False,0.0077,2.0,hedged,polyus:aec-atp-pieher-zsopir-2026-11-19:1,0.27,-2.22,-2.23,-2.22,True
+2026-11-19T20:35:27+00:00,blancaneaux v wendelken,True,polyus:aec-atp-harwen-geobla-2026-11-19:0,0.59,84,False,0.0135,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV19WENBLA-WEN:no,0.4,-0.57,-2.26,-0.57,True
+2026-11-19T20:35:55+00:00,herbert v piros,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HERPIR-PIR:yes,0.24,208,False,0.0066,2.0,hedged,polyus:aec-atp-pieher-zsopir-2026-11-19:0,0.78,-6.64,-6.66,-6.64,True
+2026-11-19T20:36:03+00:00,blancaneaux v wendelken,True,polyus:aec-atp-harwen-geobla-2026-11-19:0,0.55,90,False,0.0129,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV19WENBLA-BLA:yes,0.48,-4.27,-5.16,-4.27,True
+2026-11-19T20:40:31+00:00,herbert v piros,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HERPIR-HER:yes,0.82,60,False,0.0107,2.0,hedged,polyus:aec-atp-pieher-zsopir-2026-11-19:1,0.19,-1.24,-1.87,-1.24,True
+2026-11-19T20:41:57+00:00,blancaneaux v wendelken,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WENBLA-WEN:yes,0.28,178,False,0.0054,2.0,hedged,polyus:aec-atp-harwen-geobla-2026-11-19:1,0.72,-2.49,-5.96,-2.49,True
