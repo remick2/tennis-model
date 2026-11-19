@@ -1,4 +1,4 @@
-# Consensus paper tracker — Wed Nov 18, 4:40PM MT
+# Consensus paper tracker — Wed Nov 18, 5:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 4-1 | +0.36 | 0 |
-| 2 agree | all 15 | 25-19 | +2.00 | 26-23 | -5.09 | 8 |
-| 2+ agree, 1+ against (split) | all 15 | 27-17 | +9.70 | 29-22 | +4.93 | 1 |
+| 2 agree | all 15 | 25-19 | +2.00 | 26-23 | -5.09 | 12 |
+| 2+ agree, 1+ against (split) | all 15 | 27-17 | +9.70 | 29-22 | +4.93 | 3 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 0 |
 | 2 agree | core 10 only | 15-10 | +4.14 | 15-10 | -0.25 | 7 |
-| 2+ agree, 1+ against (split) | core 10 only | 10-5 | +5.46 | 11-8 | -0.33 | 1 |
+| 2+ agree, 1+ against (split) | core 10 only | 10-5 | +5.46 | 11-8 | -0.33 | 2 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 10 of 30 graded plays · net +5.47u · 8 wins vs 5.5 expected, z = +1.64 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
@@ -87,3 +87,9 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-18 | NBA | Warriors vs. Mavericks | Warriors (Moneyline) | 2 agree, 0 against | pre-game | purplegatto; jakepaulthegoat2008 | — | 36.5c |
 | new | 2026-11-18 | NBA | 76ers vs. Magic | Magic (Moneyline) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; drainedandpoor | — | 50.5c |
 | new | 2026-11-18 | NBA | 76ers vs. Magic | Magic (-1.5) (Spread) | 2 agree, 0 against | pre-game | bands1; ic4cream | — | 57.5c |
+| new | 2026-11-18 | CFB | Central Michigan vs. Buffalo | Central Michigan (+2.5) (Spread) | 2 agree, 1 against | in-play | purplegatto; 0xb4F978BE | monkeymashingkeyboard | 62.0c |
+| new | 2026-11-18 | NBA | Rockets vs. Pacers | Pacers (Moneyline) | 2 agree, 1 against | in-play | jakepaulthegoat2008; ch27er | purplegatto | 12.5c |
+| new | 2026-11-18 | NBA | Wizards vs. Raptors | Under 221.5 (Total) | 2 agree, 0 against | in-play | jakepaulthegoat2008; JoeyAroyyOO | — | 44.5c |
+| new | 2026-11-18 | NBA | Wizards vs. Raptors | Under 225.5 (Total) | 2 agree, 0 against | in-play | jakepaulthegoat2008; JoeyAroyyOO | — | 53.5c |
+| new | 2026-11-18 | NBA | 76ers vs. Magic | Magic (-2.5) (Spread) | 2 agree, 0 against | in-play | bands1; BreakTheBank | — | 78.5c |
+| new | 2026-11-18 | NBA | Pistons vs. Pelicans | Pelicans (+4.5) (Spread) | 2 agree, 0 against | pre-game | bands1; ianf2026 | — | 52.5c |
