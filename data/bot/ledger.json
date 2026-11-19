@@ -1,40 +1,79 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 160.45,
-  "polyus": 425.16
+  "kalshi": 195.47,
+  "polyus": 195.47
  },
  "open": [
   {
-   "id": "e0f990fa465d",
-   "key": "broska v langmo",
-   "opened": "2026-11-19T00:17:08+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18LANBRO-BRO",
+   "id": "ba290486c1bc",
+   "key": "chan v kasnikowski",
+   "opened": "2026-11-19T00:45:58+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18KASCHA-CHA",
    "kalshi_side": "yes",
    "shares": {
-    "polyus": 228,
-    "kalshi": 228
+    "kalshi": 68.0,
+    "polyus": 68.0
    },
-   "cost": 214.29,
-   "expected": 13.71
+   "cost": 66.33,
+   "expected": 1.67
   },
   {
-   "id": "85afdcad3f33",
-   "key": "broska v langmo",
-   "opened": "2026-11-19T00:37:16+00:00",
-   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18LANBRO-LAN",
+   "id": "0bce69395fde",
+   "key": "alberto v boyer",
+   "opened": "2026-11-19T00:48:26+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18OLIBOY-OLI",
    "kalshi_side": "yes",
    "shares": {
-    "kalshi": 95,
-    "polyus": 95
+    "kalshi": 73.0,
+    "polyus": 73.0
    },
-   "cost": 93.25,
-   "expected": 1.75
+   "cost": 71.43,
+   "expected": 1.57
+  },
+  {
+   "id": "f8a32d34ea67",
+   "key": "alberto v boyer",
+   "opened": "2026-11-19T00:49:44+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18OLIBOY-OLI",
+   "kalshi_side": "yes",
+   "shares": {
+    "kalshi": 251,
+    "polyus": 251
+   },
+   "cost": 239.34,
+   "expected": 4.32
+  },
+  {
+   "id": "3c1387c6900e",
+   "key": "alberto v boyer",
+   "opened": "2026-11-19T00:54:39+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18OLIBOY-BOY",
+   "kalshi_side": "no",
+   "shares": {
+    "kalshi": 0.31,
+    "polyus": 0.3100000000000023
+   },
+   "cost": 6.09,
+   "expected": 1.12
+  },
+  {
+   "id": "a8f4d9359698",
+   "key": "alberto v boyer",
+   "opened": "2026-11-19T00:57:19+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV18OLIBOY-BOY",
+   "kalshi_side": "yes",
+   "shares": {
+    "polyus": 138,
+    "kalshi": 138.0
+   },
+   "cost": 134.48,
+   "expected": 3.55
   }
  ],
- "settled_pnl": 260.85,
- "unwind_pnl": -67.71,
- "fires": 72,
- "settled": 55,
- "rebalances": 11
+ "settled_pnl": 276.31,
+ "unwind_pnl": -73.49,
+ "fires": 77,
+ "settled": 57,
+ "rebalances": 13
 }
