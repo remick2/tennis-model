@@ -304,3 +304,15 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T05:37:29+00:00,daniel v imamura,True,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-DAN:yes,0.88,56,False,0.0137,2.0,hedged,polyus:aec-atp-masima-tardan-2026-11-17:0,0.12,-0.41,-1.0,-0.41,True
 2026-11-19T05:39:45+00:00,daniel v imamura,True,polyus:aec-atp-masima-tardan-2026-11-17:0,0.12,416,True,0.0116,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-IMA:no,0.9,-10.94,-6.99,-6.99,True
 2026-11-19T05:40:27+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-HSU:yes,0.2,250,False,0.0081,2.0,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.81,-5.17,-5.19,-5.17,True
+2026-11-19T05:43:07+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-HSU:yes,0.23,217,False,0.007,2.0,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.79,-6.84,-6.86,-6.84,True
+2026-11-19T05:43:07+00:00,hsiou v zhou,True,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.24,208,False,0.0065,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.78,-6.66,-8.64,-6.66,True
+2026-11-19T05:46:59+00:00,hsiou v zhou,True,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.31,161,False,0.0143,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.7,-3.98,-5.52,-3.98,True
+2026-11-19T05:47:09+00:00,daniel v imamura,True,polyus:aec-atp-masima-tardan-2026-11-17:0,0.16,312,True,0.0097,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-IMA:no,0.84,-2.94,-5.88,-2.94,True
+2026-11-19T05:47:24+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.68,73,False,0.0054,2.5,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.35,-3.34,-3.35,-3.34,True
+2026-11-19T05:47:24+00:00,hsiou v zhou,True,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.67,74,False,0.005,2.5,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:no,0.35,-2.66,-2.65,-2.65,True
+2026-11-19T05:47:49+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-HSU:yes,0.32,156,False,0.0142,2.0,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.69,-3.88,-3.9,-3.88,True
+2026-11-19T05:47:49+00:00,hsiou v zhou,True,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.32,156,False,0.0141,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.69,-3.9,-3.88,-3.88,True
+2026-11-19T05:48:13+00:00,hsiou v zhou,True,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-HSU:yes,0.27,185,False,0.0057,2.0,hedged,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.74,-4.32,-4.34,-4.32,True
+2026-11-19T05:49:15+00:00,daniel v imamura,True,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-DAN:yes,0.85,58,True,0.0227,2.0,hedged,polyus:aec-atp-masima-tardan-2026-11-17:0,0.17,-1.73,-2.34,-1.73,True
+2026-11-19T05:52:41+00:00,hsiou v zhou,True,polyus:aec-atp-yuhhsu-yizho-2026-11-18:1,0.69,72,True,0.0056,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:no,0.32,-1.82,-1.81,-1.81,True
+2026-11-19T05:53:45+00:00,hsiou v zhou,True,polyus:aec-atp-yuhhsu-yizho-2026-11-18:0,0.29,172,False,0.0148,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18HSUZHO-ZHO:yes,0.72,-4.15,-4.13,-4.13,True
