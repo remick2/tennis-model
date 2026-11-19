@@ -29,13 +29,8 @@ jobs:
           LV = live.Live.from_env()
           if not LV:
               raise SystemExit("keys missing or unusable")
-          for name, c in (("kalshi", LV.k), ("polyus", LV.p)):
-              path = "/portfolio/balance" if name == "kalshi" else "/v1/account/balances"
-              code, d = c.req("GET", path)
-              print(name, "balance call:", code, "" if code == 200 else str(d)[:300])
           live.auth_check(LV, bot.universe())
           PY
-          python -W ignore authdebug.py
       - name: save result
         if: always()
         run: |

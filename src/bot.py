@@ -539,6 +539,11 @@ def live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs):
     t = time.time()
     rp = LV.p.order(p_i[1], p_i[2], int(sh), p_lim, f"{cid}p")
     qp = int(rp["filled"])
+    if qp and rp["avg"] > p_lim + 0.005:
+        # Tripwire: an IOC can't fill worse than its limit. If it "did", our reading of Polymarket US's price
+        # convention (or of its response) is wrong: stop live trading before a second order.
+        LV.turn_off(f"Polymarket US fill at {rp['avg']:.3f} above our limit {p_lim:.3f} on {p_i[1]}: price convention "
+                    "or response parsing is wrong")
     rk = rk2 = ru = None
     qk = 0.0
     if qp:

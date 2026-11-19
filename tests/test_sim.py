@@ -138,7 +138,7 @@ lv.L["open"] = [{"cost": 18.5}]
 check("live: with $18.50 tied up, a leg gets at most ~half of the $1.50 left", abs(lv.cash("polyus") - 1.25) < 1e-9)
 lv.L["open"] = [{"cost": 19.5}]
 lv.gate_pass, lv.force = True, False
-LIVE.LIVE_DIR = Path("/tmp/tennis_test"); (LIVE.LIVE_DIR / "auth_check.json").write_text('{"convention": "yes_price"}')
+LIVE.LIVE_DIR = Path("/tmp/tennis_test"); (LIVE.LIVE_DIR / "auth_check.json").write_text('{"convention": "yes_price_docs"}')
 check("live: budget fully tied up => no new trades until something settles", lv.active("2026-11-20") is False)
 lv.L["open"] = []
 check("live: budget free, all locks open => active", lv.active("2026-11-20") is True)

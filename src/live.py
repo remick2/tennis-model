@@ -90,8 +90,15 @@ class Kalshi:
             return r.status_code, {"text": r.text[:300]}
 
     def balance(self):
-        code, d = self.req("GET", "/portfolio/balance")
-        return (d.get("balance", 0) / 100) if code == 200 else None
+        """Kalshi allows 1 balance call per second (its own bucket): retry once after a 429."""
+        for _ in range(2):
+            code, d = self.req("GET", "/portfolio/balance")
+            if code == 200:
+                return d.get("balance", 0) / 100
+            if code != 429:
+                return None
+            time.sleep(1.2)
+        return None
 
     def order(self, ticker, how, qty, limit, cid, sell=False):
         """how 'yes': this ticker's YES; 'no': its NO. limit = worst price for OUR side (max to buy, min to sell)."""
@@ -227,7 +234,7 @@ class Live:
         if not (getattr(self, "gate_pass", False) or getattr(self, "force", False)):
             return False
         try:   # third lock: the no-trade auth check must have proven the Polymarket US price convention
-            if json.loads((LIVE_DIR / "auth_check.json").read_text()).get("convention") != "yes_price":
+            if not str(json.loads((LIVE_DIR / "auth_check.json").read_text()).get("convention")).startswith("yes_price"):
                 return False
         except (OSError, ValueError):
             return False
@@ -274,35 +281,29 @@ def breakeven_limit(paid_per_share, fee_rate):
     return math.floor(lo * 100) / 100
 
 
-def _preview_fill(resp):
-    o = (resp or {}).get("order") or {}
-    return _num(o.get("cumQuantity"))
-
-
 def auth_check(live, universe):
-    """First run with keys: confirm both logins work and PROVE how Polymarket US prices short orders, without
-    trading (previews only). For a mid-priced market, BUY_SHORT with our-side limit 0.02 is sent as YES price
-    0.98 and must NOT fill; with our-side limit 0.98 it is sent as YES price 0.02 and SHOULD fill. If it is
-    the other way round the convention is wrong and live trading stays off. Writes data/live/auth_check.json."""
+    """No orders. Confirms both logins work (balances) and that Polymarket US accepts our order format for every
+    intent (previews). Previews only validate (Nov 19: cumQuantity 0, ORDER_STATE_PENDING_NEW), so they can't
+    show how a short order is priced; that rests on the docs ("price always refers to the YES side": buying the
+    short side at q is a limit of 1 - q) plus a tripwire in bot.live_fire that turns live trading off if a
+    Polymarket US fill ever comes back worse than its limit. Writes data/live/auth_check.json."""
     out = {"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
            "kalshi_balance": live.k.balance(), "polyus_balance": live.p.balance(), "previews": [],
            "convention": "unknown"}
     slug = next((i[1] for m in universe.values() for s in m["insts"].values() for i in s if i[0] == "polyus"), None)
+    ok = 0
     if slug:
-        fills = {}
-        for idx, lim in (("1", 0.02), ("1", 0.98), ("0", 0.02)):   # 1 share each, previews only
+        for idx, lim in (("0", 0.02), ("1", 0.02)):   # 1 share each, previews only
             code, d = live.p.preview(slug, idx, 1, lim)
-            fills[(idx, lim)] = _preview_fill(d) if code == 200 else None
             o = (d or {}).get("order") or {}
-            out["previews"].append({"slug": slug, "idx": idx, "limit_our_side": lim,   # public repo: no ids, only what
-                                    "sent_price": live.p.body(slug, idx, 1, lim)["price"]["value"],  # proves the convention
-                                    "code": code, "cumQuantity": o.get("cumQuantity"), "state": o.get("state"),
+            want = live.p.body(slug, idx, 1, lim)
+            good = code == 200 and o.get("intent") == want["intent"] and (o.get("price") or {}).get("value") == want["price"]["value"]
+            ok += good
+            out["previews"].append({"idx": idx, "limit_our_side": lim, "sent_price": want["price"]["value"],   # public
+                                    "code": code, "intent_echo": o.get("intent"), "accepted": good,      # repo: no ids
                                     "error": None if code == 200 else str((d or {}).get("message") or d)[:200]})
-        lo, hi = fills.get(("1", 0.02)), fills.get(("1", 0.98))
-        if lo == 0 and hi and hi > 0:
-            out["convention"] = "yes_price"      # what live.py assumes
-        elif lo and lo > 0 and hi == 0:
-            out["convention"] = "short_price"    # live.py would be wrong: stays off
+    if ok == 2 and out["kalshi_balance"] is not None and out["polyus_balance"] is not None:
+        out["convention"] = "yes_price_docs"   # format accepted; pricing per docs, enforced by the fill tripwire
     (LIVE_DIR / "auth_check.json").write_text(json.dumps(out, indent=1))
     print("auth check:", {k: v for k, v in out.items() if k != "previews"},
           [(p["idx"], p["limit_our_side"], p["code"]) for p in out["previews"]], flush=True)
