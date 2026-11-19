@@ -331,3 +331,11 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-19T06:05:05+00:00,daniel v imamura,True,polyus:aec-atp-masima-tardan-2026-11-17:0,0.23,217,False,0.0069,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-DAN:yes,0.78,-3.23,-4.76,-3.23,True
 2026-11-19T06:08:57+00:00,daniel v imamura,True,polyus:aec-atp-masima-tardan-2026-11-17:0,0.18,277,False,0.0088,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-IMA:no,0.83,-5.51,-5.49,-5.49,True
 2026-11-19T06:09:35+00:00,daniel v imamura,True,polyus:aec-atp-masima-tardan-2026-11-17:0,0.15,333,False,0.0101,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-IMA:no,0.86,-6.14,-6.12,-6.12,True
+2026-11-19T06:13:41+00:00,daniel v imamura,True,polyus:aec-atp-masima-tardan-2026-11-17:0,0.11,454,True,0.0121,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-IMA:no,0.9,-7.4,-7.38,-7.38,True
+2026-11-19T06:15:47+00:00,daniel v imamura,True,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-DAN:yes,0.86,58,True,0.0127,2.0,hedged,polyus:aec-atp-masima-tardan-2026-11-17:0,0.16,-1.7,-1.71,-1.7,True
+2026-11-19T06:21:03+00:00,daniel v imamura,True,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-DAN:yes,0.83,60,False,0.0111,2.0,hedged,polyus:aec-atp-masima-tardan-2026-11-17:0,0.18,-1.22,-1.22,-1.22,True
+2026-11-19T06:21:41+00:00,daniel v imamura,True,polyus:aec-atp-masima-tardan-2026-11-17:0,0.15,333,False,0.0101,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-IMA:no,0.86,-6.14,-6.12,-6.12,True
+2026-11-19T06:23:45+00:00,daniel v imamura,True,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-IMA:yes,0.13,384,False,0.0111,2.0,hedged,polyus:aec-atp-masima-tardan-2026-11-17:1,0.88,-6.66,-6.68,-6.66,True
+2026-11-19T06:25:19+00:00,daniel v imamura,True,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-DAN:yes,0.87,57,False,0.0132,1.9,unwound,polyus:aec-atp-masima-tardan-2026-11-17:0,0.16,-2.24,-1.65,-1.65,True
+2026-11-19T06:25:43+00:00,daniel v imamura,True,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-IMA:yes,0.13,384,False,0.0111,2.0,hedged,polyus:aec-atp-masima-tardan-2026-11-17:1,0.89,-10.29,-10.31,-10.29,True
+2026-11-19T06:25:43+00:00,daniel v imamura,True,polyus:aec-atp-masima-tardan-2026-11-17:0,0.13,384,False,0.0111,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV18IMADAN-DAN:yes,0.88,-6.68,-10.29,-6.68,True
