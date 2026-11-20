@@ -1,0 +1,15 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-20T01:24:18+00:00,draxl v milavsky,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MILDRA-MIL:yes,0.2,250,True,0.0081,2.0,hedged,polyus:aec-atp-danmil-liadra-2026-11-19:1,0.78,2.02,-9.97,2.02,True
+2026-11-20T01:25:52+00:00,draxl v milavsky,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MILDRA-MIL:yes,0.16,312,False,0.0097,2.0,hedged,polyus:aec-atp-danmil-liadra-2026-11-19:1,0.82,3.04,-5.9,3.04,True
+2026-11-20T01:27:12+00:00,draxl v milavsky,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MILDRA-MIL:yes,0.21,238,False,0.0077,2.0,hedged,polyus:aec-atp-danmil-liadra-2026-11-19:1,0.79,-2.74,-7.32,-2.74,True
+2026-11-20T01:27:12+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.77,64,False,0.0085,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.26,-2.78,-2.78,-2.78,True
+2026-11-20T01:27:48+00:00,draxl v milavsky,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MILDRA-MIL:yes,0.17,294,False,0.0093,2.0,hedged,polyus:aec-atp-danmil-liadra-2026-11-19:1,0.81,2.74,-11.3,2.74,True
+2026-11-20T01:28:18+00:00,draxl v milavsky,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MILDRA-MIL:yes,0.13,384,False,0.0111,2.0,hedged,polyus:aec-atp-danmil-liadra-2026-11-19:1,0.83,11.59,-6.68,11.59,True
+2026-11-20T01:28:34+00:00,gorzny v langmo,True,kalshi:KXATPCHALLENGERMATCH-26NOV19LANGOR-LAN:yes,0.23,217,True,0.007,2.0,hedged,polyus:aec-atp-chrlan-sebgor-2026-11-19:1,0.75,1.51,-4.78,1.51,True
+2026-11-20T01:29:45+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.7,71,False,0.006,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.28,0.43,-1.77,0.43,True
+2026-11-20T01:32:40+00:00,draxl v milavsky,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MILDRA-MIL:yes,0.15,333,True,0.0102,2.0,hedged,polyus:aec-atp-danmil-liadra-2026-11-19:1,0.83,3.39,-6.14,3.39,True
+2026-11-20T01:33:24+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.68,73,False,0.0054,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.3,0.39,-1.86,0.39,True
+2026-11-20T01:34:31+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.65,76,True,0.0149,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.32,1.13,-2.76,1.13,True
+2026-11-20T01:35:04+00:00,draxl v milavsky,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MILDRA-MIL:yes,0.16,312,True,0.0097,2.0,hedged,polyus:aec-atp-danmil-liadra-2026-11-19:1,0.85,-5.88,-8.87,-5.88,True
+2026-11-20T01:35:55+00:00,draxl v milavsky,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MILDRA-MIL:yes,0.14,357,False,0.0107,2.0,hedged,polyus:aec-atp-danmil-liadra-2026-11-19:1,0.89,-13.14,-13.16,-13.14,True
+2026-11-20T01:36:27+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-LA:yes,0.31,161,True,0.0144,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:0,0.66,2.32,-5.54,2.32,True
