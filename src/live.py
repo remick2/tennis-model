@@ -43,6 +43,8 @@ P_BASE = "https://api.polymarket.us"
 TOTAL_BUDGET = 20.0        # max dollars tied up in open live positions at once, AND the lifetime loss stop
 PER_ARB = 5.0              # max dollars per arb, both legs together (so the budget covers 4+ arbs at once)
 DAILY_LOSS_STOP = 10.0     # dollars of realized one-leg losses in a UTC day -> live off
+MAX_LEG = PER_ARB / 2 + 1.0   # hard ceiling on one order's notional; anything bigger means a bug -> live off
+MAX_SHARES = 150              # hard ceiling on shares in one order (a 3c contract at $3.50 is ~117)
 ERROR_STOP = 3             # order API errors in a run -> live off
 UNWIND_MAX_LOSS = 0.06     # unwind sell accepts up to 6c/share below what we paid
 
@@ -110,7 +112,11 @@ class Kalshi:
         body = {"ticker": ticker, "side": side, "count": f"{qty:.2f}", "price": f"{price:.4f}",
                 "time_in_force": "immediate_or_cancel", "self_trade_prevention_type": "taker_at_cross",
                 "client_order_id": cid}
-        code, d = self.req("POST", "/portfolio/events/orders", body)
+        try:
+            code, d = self.req("POST", "/portfolio/events/orders", body)
+        except requests.RequestException as e:   # sent or not? unknown
+            return {"ok": False, "code": "EXC", "unknown": True, "filled": 0.0, "avg": 0.0, "fee": 0.0, "body": body,
+                    "resp": {"error": repr(e)[:200]}}
         ok = code in (200, 201)
         filled = _num(d.get("fill_count")) if ok else 0.0
         avg = _num(d.get("average_fill_price")) if filled else 0.0
@@ -161,7 +167,11 @@ class PolyUS:
 
     def order(self, slug, idx, qty, limit, cid, sell=False):
         body = self.body(slug, idx, qty, limit, sell)
-        code, d = self.req("POST", "/v1/orders", body)
+        try:
+            code, d = self.req("POST", "/v1/orders", body)
+        except requests.RequestException as e:   # sent or not? unknown
+            return {"ok": False, "code": "EXC", "unknown": True, "filled": 0.0, "avg": 0.0, "fee": 0.0, "body": body,
+                    "resp": {"error": repr(e)[:200]}}
         ok = code in (200, 201)
         ex = d.get("executions") or []
         o = (ex[-1].get("order") or {}) if ex else {}
@@ -243,15 +253,34 @@ class Live:
             return False
         if self.budget_left() < 1.0:
             return False   # budget fully tied up in open matches: wait for settlements
+        fl = self.floor()
+        if fl is None or (self.bal["kalshi"] or 0) + (self.bal["polyus"] or 0) < fl + 1.0:
+            return False   # real cash at the $20 floor: no new trades until settlements bring it back
         return self.L["loss_by_day"].get(day, 0.0) < DAILY_LOSS_STOP
 
     def budget_left(self):
         return TOTAL_BUDGET - sum(p["cost"] for p in self.L["open"])
 
+    def floor(self):
+        """Hardest limit, from the EXCHANGES' numbers, not the bot's notes: combined cash on both venues may never
+        drop more than TOTAL_BUDGET below what it was at the auth check. Money tied up in open matches and money
+        lost both lower cash, so this caps (tied up + lost) at $20 even if the ledger file were lost or wrong."""
+        try:
+            a = json.loads((LIVE_DIR / "auth_check.json").read_text())
+            return float(a["kalshi_balance"]) + float(a["polyus_balance"]) - TOTAL_BUDGET
+        except (OSError, ValueError, KeyError, TypeError):
+            return None
+
+    def room(self):
+        """Dollars of real cash above the floor (both venues together)."""
+        fl = self.floor()
+        return 0.0 if fl is None else (self.bal["kalshi"] or 0) + (self.bal["polyus"] or 0) - fl
+
     def cash(self, venue):
         """Max spend on ONE leg: the real balance, the ENABLED cap, and half of what's left of the per-arb and
         total budgets (the two legs of a pair cost about $1 together, so each side gets at most half)."""
-        return min(self.bal[venue] or 0.0, self.cap or 0.0, PER_ARB / 2 + 0.5, max(0.0, self.budget_left()) / 2 + 0.5)
+        return min(self.bal[venue] or 0.0, self.cap or 0.0, PER_ARB / 2 + 0.5, max(0.0, self.budget_left()) / 2 + 0.5,
+                   max(0.0, self.room()) / 2)
 
     def turn_off(self, reason):
         self.off_reason = reason

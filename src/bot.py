@@ -404,10 +404,14 @@ def cycle(U, L, consumed, pool, LV=None, MS=None):
         if exp < bar:
             continue
         if LV:
+            if LV.off_reason or not LV.active(A.now().strftime("%Y-%m-%d")):
+                break   # a stop fired earlier in this cycle (or the budget is used up): no more orders
             if time.time() < LV.cooldown.get(key, 0):
                 continue
             LV.cooldown[key] = time.time() + 10
-            fires.append(live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs))
+            rec = live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs)
+            if rec:
+                fires.append(rec)
         else:
             fires.append(fire(key, m, L, consumed, pool, exp, ia, ib, sh, fa, fb, sa, sb, read_secs))
         if isinstance(fires[-1], dict):
@@ -536,8 +540,16 @@ def live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs):
     lim_a, lim_b = ceil_cent(max(p for p, _ in fa)), ceil_cent(max(p for p, _ in fb))
     p_i, k_i = (ia, ib) if ia[0] == "polyus" else (ib, ia)
     p_lim, k_lim = (lim_a, lim_b) if p_i is ia else (lim_b, lim_a)
+    if sh > LIVE.MAX_SHARES or sh * p_lim > LIVE.MAX_LEG or sh * k_lim > LIVE.MAX_LEG:
+        # sizing should never allow this: treat it as a bug, send nothing
+        LV.turn_off(f"refused an order bigger than the hard limits ({sh} shares, ${sh * p_lim:.2f} / ${sh * k_lim:.2f})")
+        return None
     t = time.time()
     rp = LV.p.order(p_i[1], p_i[2], int(sh), p_lim, f"{cid}p")
+    if rp.get("unknown"):
+        LV.turn_off(f"Polymarket US order call failed mid-send on {p_i[1]} ({rp['resp']}): it may or may not have "
+                    "filled. Check the Polymarket US account for an open position.")
+        return None
     qp = int(rp["filled"])
     if qp and rp["avg"] > p_lim + 0.005:
         # Tripwire: an IOC can't fill worse than its limit. If it "did", our reading of Polymarket US's price
@@ -549,6 +561,11 @@ def live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs):
     if qp:
         rk = LV.k.order(k_i[1], k_i[2], qp, k_lim, f"{cid}k")
         qk = rk["filled"]
+        if rk.get("unknown"):
+            LV.turn_off(f"Kalshi order call failed mid-send on {k_i[1]} after Polymarket US filled {qp} ({rk['resp']}). "
+                        "Check both accounts: one side may be unhedged.")
+        if qk and rk["avg"] > k_lim + 0.005:
+            LV.turn_off(f"Kalshi fill at {rk['avg']:.3f} above our limit {k_lim:.3f} on {k_i[1]}: parsing is wrong")
         if qk < qp:   # Kalshi short: try once more at break-even
             paid = (rp["avg"] * qp + rp["fee"]) / qp
             lim2 = LIVE.breakeven_limit(paid, FEE["kalshi"])

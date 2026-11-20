@@ -138,11 +138,32 @@ lv.L["open"] = [{"cost": 18.5}]
 check("live: with $18.50 tied up, a leg gets at most ~half of the $1.50 left", abs(lv.cash("polyus") - 1.25) < 1e-9)
 lv.L["open"] = [{"cost": 19.5}]
 lv.gate_pass, lv.force = True, False
-LIVE.LIVE_DIR = Path("/tmp/tennis_test"); (LIVE.LIVE_DIR / "auth_check.json").write_text('{"convention": "yes_price_docs"}')
+LIVE.LIVE_DIR = Path("/tmp/tennis_test"); (LIVE.LIVE_DIR / "auth_check.json").write_text('{"convention": "yes_price_docs", "kalshi_balance": 345.0, "polyus_balance": 355.0}')
 check("live: budget fully tied up => no new trades until something settles", lv.active("2026-11-20") is False)
 lv.L["open"] = []
 check("live: budget free, all locks open => active", lv.active("2026-11-20") is True)
 LIVE.issue = lambda *a: None
 lv.L["realized"] = -20.0
 check("live: lifetime P&L at -$20 => live off for good", lv.active("2026-11-20") is False and lv.off_reason)
+# --- hard floor from real balances (auth check: $345 + $355 = $700 -> floor $680)
+(LIVE.LIVE_DIR / "auth_check.json").write_text('{"convention": "yes_price_docs", "kalshi_balance": 345.0, "polyus_balance": 355.0}')
+lv2 = LIVE.Live.__new__(LIVE.Live)
+lv2.L = {"open": [], "realized": 0.0, "loss_by_day": {}}
+lv2.cap, lv2.off_reason, lv2.gate_pass, lv2.force = 25.0, None, True, False
+lv2.bal = {"kalshi": 340.0, "polyus": 345.0}   # $685 real: $5 above the floor
+check("live floor: $5 of real room => a leg gets at most $2.50", lv2.active("d") and abs(lv2.cash("kalshi") - 2.5) < 1e-9)
+lv2.bal = {"kalshi": 335.0, "polyus": 345.5}   # $680.50 real: under floor + $1
+check("live floor: real cash within $1 of the $680 floor => no new trades even if the ledger says otherwise", lv2.active("d") is False)
+# --- a network error mid-order stops live trading and sends nothing else
+class FakeP:
+    def order(self, *a, **k): return {"ok": False, "code": "EXC", "unknown": True, "filled": 0.0, "avg": 0.0, "fee": 0.0, "resp": {"error": "Timeout"}}
+class FakeK:
+    calls = 0
+    def order(self, *a, **k): FakeK.calls += 1; return {"ok": True, "filled": 0.0, "avg": 0.0, "fee": 0.0}
+lv3 = LIVE.Live.__new__(LIVE.Live); lv3.p, lv3.k, lv3.off_reason, lv3.L, lv3.errors = FakeP(), FakeK(), None, {"open": []}, 0
+r3 = B.live_fire(lv3, "a v b", {"live": True}, B.Consumed(), 0.1, ("polyus", "S", "1"), ("kalshi", "KA", "yes"), 5, [(0.5, 5)], [(0.46, 5)], 0.1)
+check("live: Polymarket US order times out => live off, no Kalshi order sent", r3 is None and lv3.off_reason and FakeK.calls == 0)
+lv4 = LIVE.Live.__new__(LIVE.Live); lv4.p, lv4.k, lv4.off_reason, lv4.L, lv4.errors = FakeP(), FakeK(), None, {"open": []}, 0
+r4 = B.live_fire(lv4, "a v b", {"live": True}, B.Consumed(), 0.1, ("polyus", "S", "1"), ("kalshi", "KA", "yes"), 500, [(0.5, 500)], [(0.46, 500)], 0.1)
+check("live: an order over the hard size limit is refused before anything is sent", r4 is None and "bigger than the hard limits" in lv4.off_reason)
 print("all checks passed")
