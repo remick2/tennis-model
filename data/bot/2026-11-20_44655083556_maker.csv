@@ -247,3 +247,13 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-20T04:46:31+00:00,aguiard v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV19SEKAGU-SEK:yes,0.95,52,True,0.0073,2.0,hedged,polyus:aec-atp-phisek-enzagu-2026-11-20:1,0.07,-1.28,-1.83,-1.28,True
 2026-11-20T04:47:23+00:00,aguiard v sekulic,True,polyus:aec-atp-phisek-enzagu-2026-11-20:1,0.05,1000,True,0.0061,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19SEKAGU-SEK:yes,0.97,-22.04,-22.02,-22.02,True
 2026-11-20T04:54:03+00:00,daniel v watanuki,True,polyus:aec-atp-yoswat-tardan-2026-11-19:1,0.22,227,True,0.0072,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-WAT:yes,0.79,-4.91,-7.06,-4.91,True
+2026-11-20T04:55:24+00:00,daniel v watanuki,True,polyus:aec-atp-yoswat-tardan-2026-11-19:0,0.87,57,True,0.0131,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-WAT:no,0.14,-0.53,-1.05,-0.53,True
+2026-11-20T04:55:52+00:00,daniel v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-WAT:yes,0.84,59,False,0.0116,2.0,hedged,polyus:aec-atp-yoswat-tardan-2026-11-19:1,0.17,-1.17,-1.17,-1.17,True
+2026-11-20T04:55:52+00:00,daniel v watanuki,True,polyus:aec-atp-yoswat-tardan-2026-11-19:0,0.84,59,False,0.0116,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-WAT:no,0.17,-1.17,-1.17,-1.17,True
+2026-11-20T04:56:32+00:00,daniel v watanuki,True,polyus:aec-atp-yoswat-tardan-2026-11-19:0,0.81,61,False,0.0101,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-WAT:no,0.18,0.42,-2.56,0.42,True
+2026-11-20T04:56:59+00:00,daniel v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-DAN:yes,0.2,250,False,0.0081,1.6,hedged,polyus:aec-atp-yoswat-tardan-2026-11-19:0,0.78,2.02,-12.35,2.02,True
+2026-11-20T04:57:45+00:00,daniel v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-DAN:yes,0.1,500,False,0.0127,2.0,hedged,polyus:aec-atp-yoswat-tardan-2026-11-19:0,0.88,6.33,-12.58,6.33,True
+2026-11-20T05:00:27+00:00,daniel v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-WAT:yes,0.9,55,False,0.0149,2.0,hedged,polyus:aec-atp-yoswat-tardan-2026-11-19:1,0.1,-0.34,-0.93,-0.34,True
+2026-11-20T05:00:53+00:00,daniel v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-DAN:yes,0.08,625,False,0.0137,2.0,hedged,polyus:aec-atp-yoswat-tardan-2026-11-19:0,0.93,-9.08,-9.1,-9.08,True
+2026-11-20T05:01:19+00:00,daniel v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-WAT:yes,0.9,55,False,0.0149,2.0,hedged,polyus:aec-atp-yoswat-tardan-2026-11-19:1,0.1,-0.34,-0.93,-0.34,True
+2026-11-20T05:04:45+00:00,daniel v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-DAN:yes,0.04,1250,False,0.0067,2.0,hedged,polyus:aec-atp-yoswat-tardan-2026-11-19:0,0.95,8.37,-15.05,8.37,True
