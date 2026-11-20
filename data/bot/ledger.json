@@ -1,66 +1,13 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 23.09,
-  "polyus": 229.24
+  "kalshi": 486.17,
+  "polyus": 486.17
  },
- "open": [
-  {
-   "id": "0d96604c2815",
-   "key": "alcaraz v cobolli",
-   "opened": "2026-11-19T09:12:28+00:00",
-   "kalshi_ticker": "KXATPMATCH-26NOV17ALCCOB-COB",
-   "kalshi_side": "no",
-   "shares": {
-    "kalshi": 180.0,
-    "polyus": 180
-   },
-   "cost": 178.4,
-   "expected": 1.59
-  },
-  {
-   "id": "aa4614463465",
-   "key": "alcaraz v cobolli",
-   "opened": "2026-11-19T09:14:34+00:00",
-   "kalshi_ticker": "KXATPMATCH-26NOV17ALCCOB-COB",
-   "kalshi_side": "no",
-   "shares": {
-    "kalshi": 180.0,
-    "polyus": 180
-   },
-   "cost": 178.4,
-   "expected": 1.59
-  },
-  {
-   "id": "22da23f0c03f",
-   "key": "alcaraz v cobolli",
-   "opened": "2026-11-19T09:16:45+00:00",
-   "kalshi_ticker": "KXATPMATCH-26NOV17ALCCOB-COB",
-   "kalshi_side": "no",
-   "shares": {
-    "kalshi": 180.0,
-    "polyus": 180
-   },
-   "cost": 178.4,
-   "expected": 1.59
-  },
-  {
-   "id": "d0bdbdc00124",
-   "key": "alcaraz v cobolli",
-   "opened": "2026-11-19T09:18:52+00:00",
-   "kalshi_ticker": "KXATPMATCH-26NOV17ALCCOB-COB",
-   "kalshi_side": "no",
-   "shares": {
-    "kalshi": 180.0,
-    "polyus": 180
-   },
-   "cost": 178.4,
-   "expected": 1.59
-  }
- ],
- "settled_pnl": 333.66,
+ "open": [],
+ "settled_pnl": 340.06,
  "unwind_pnl": -73.49,
  "fires": 97,
- "settled": 78,
- "rebalances": 18
+ "settled": 82,
+ "rebalances": 19
 }
