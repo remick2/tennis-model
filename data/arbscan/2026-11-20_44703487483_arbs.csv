@@ -36,3 +36,36 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-20T12:19:49+00:00,budkov v djere,True,Laslo Djere,polyus,0.51,Nicolai Budkov Kjaer,kalshi,0.41,0.9543,0.0,0.0,0.0,0.0,,0.5,,0.0,True,2026-11-20T12:19:49+00:00
 2026-11-20T12:19:59+00:00,budkov v djere,True,Laslo Djere,polyus,0.51,Nicolai Budkov Kjaer,kalshi,0.41,0.9543,0.0,0.0,0.0,0.0,,0.49,,0.0,True,2026-11-20T12:19:49+00:00
 2026-11-20T12:20:29+00:00,budkov v djere,True,Laslo Djere,polyus,0.45,Nicolai Budkov Kjaer,kalshi,0.5,0.9847,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-20T12:20:29+00:00
+2026-11-20T12:21:29+00:00,budkov v djere,True,Laslo Djere,kalshi,0.44,Nicolai Budkov Kjaer,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T12:21:29+00:00
+2026-11-20T12:21:39+00:00,budkov v djere,True,Laslo Djere,kalshi,0.44,Nicolai Budkov Kjaer,polyus,0.52,0.9946,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T12:21:29+00:00
+2026-11-20T12:23:09+00:00,budkov v djere,True,Laslo Djere,kalshi,0.42,Nicolai Budkov Kjaer,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.53,,,0.0,True,2026-11-20T12:23:09+00:00
+2026-11-20T12:23:49+00:00,budkov v djere,True,Laslo Djere,kalshi,0.53,Nicolai Budkov Kjaer,polyus,0.35,0.9132,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-20T12:23:49+00:00
+2026-11-20T12:23:59+00:00,budkov v djere,True,Laslo Djere,kalshi,0.53,Nicolai Budkov Kjaer,polyus,0.35,0.9132,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-20T12:23:49+00:00
+2026-11-20T12:25:39+00:00,budkov v djere,True,Laslo Djere,kalshi,0.65,Nicolai Budkov Kjaer,polyus,0.31,0.9908,0.0,0.0,0.0,0.0,0.71,,,0.0,True,2026-11-20T12:25:39+00:00
+2026-11-20T12:25:49+00:00,gulin v samuel,True,Svyatoslav Gulin,kalshi,0.25,Toby Samuel,polyus,0.7,0.9777,0.0,0.0,0.0,0.0,0.31,,,0.0,True,2026-11-20T12:25:49+00:00
+2026-11-20T12:25:59+00:00,gulin v samuel,True,Svyatoslav Gulin,kalshi,0.25,Toby Samuel,polyus,0.7,0.9777,0.0,0.0,0.0,0.0,0.31,,,0.0,True,2026-11-20T12:25:49+00:00
+2026-11-20T12:26:09+00:00,gulin v samuel,True,Svyatoslav Gulin,kalshi,0.25,Toby Samuel,polyus,0.7,0.9777,0.0,0.0,0.0,0.0,0.31,,,0.0,True,2026-11-20T12:25:49+00:00
+2026-11-20T12:27:19+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.24,Toby Samuel,kalshi,0.7,0.9674,0.0,0.0,0.0,0.0,,0.76,,0.0,True,2026-11-20T12:27:19+00:00
+2026-11-20T12:27:29+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.23,Toby Samuel,kalshi,0.7,0.957,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-20T12:27:19+00:00
+2026-11-20T12:27:39+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.2,Toby Samuel,kalshi,0.7,0.9258,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-20T12:27:19+00:00
+2026-11-20T12:28:09+00:00,gulin v samuel,True,Svyatoslav Gulin,kalshi,0.2,Toby Samuel,polyus,0.76,0.9839,0.0,0.0,0.0,0.0,0.25,,,0.0,True,2026-11-20T12:28:09+00:00
+2026-11-20T12:28:19+00:00,gulin v samuel,True,Svyatoslav Gulin,kalshi,0.2,Toby Samuel,polyus,0.76,0.9839,0.0,0.0,0.0,0.0,0.25,,,0.0,True,2026-11-20T12:28:09+00:00
+2026-11-20T12:28:29+00:00,gulin v samuel,True,Svyatoslav Gulin,kalshi,0.2,Toby Samuel,polyus,0.76,0.9839,0.0,0.0,0.0,0.0,0.25,,,0.0,True,2026-11-20T12:28:09+00:00
+2026-11-20T12:28:59+00:00,budkov v djere,True,Laslo Djere,kalshi,0.73,Nicolai Budkov Kjaer,polyus,0.24,0.9965,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-20T12:28:59+00:00
+2026-11-20T12:29:29+00:00,gulin v samuel,True,Svyatoslav Gulin,kalshi,0.25,Toby Samuel,polyus,0.7,0.9777,0.0,0.0,0.0,0.0,0.31,,,0.0,True,2026-11-20T12:29:29+00:00
+2026-11-20T12:29:39+00:00,gulin v samuel,True,Svyatoslav Gulin,kalshi,0.25,Toby Samuel,polyus,0.7,0.9777,0.0,0.0,0.0,0.0,0.31,,,0.0,True,2026-11-20T12:29:29+00:00
+2026-11-20T12:30:09+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.21,Toby Samuel,kalshi,0.74,0.975,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-20T12:30:09+00:00
+2026-11-20T12:30:19+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.21,Toby Samuel,kalshi,0.74,0.975,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-20T12:30:09+00:00
+2026-11-20T12:30:29+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.21,Toby Samuel,kalshi,0.74,0.975,0.0,0.0,0.0,0.0,,0.82,,0.0,True,2026-11-20T12:30:09+00:00
+2026-11-20T12:30:39+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.12,Toby Samuel,kalshi,0.81,0.9481,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-20T12:30:09+00:00
+2026-11-20T12:30:39+00:00,budkov v djere,True,Laslo Djere,kalshi,0.76,Nicolai Budkov Kjaer,polyus,0.21,0.9943,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-20T12:30:39+00:00
+2026-11-20T12:30:49+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.12,Toby Samuel,kalshi,0.81,0.9481,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-20T12:30:09+00:00
+2026-11-20T12:30:59+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.12,Toby Samuel,kalshi,0.81,0.9481,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-20T12:30:09+00:00
+2026-11-20T12:31:09+00:00,budkov v djere,True,Laslo Djere,polyus,0.76,Nicolai Budkov Kjaer,kalshi,0.19,0.9734,0.0,0.0,0.0,0.0,,0.25,,0.0,True,2026-11-20T12:31:09+00:00
+2026-11-20T12:31:19+00:00,budkov v djere,True,Laslo Djere,polyus,0.76,Nicolai Budkov Kjaer,kalshi,0.19,0.9734,0.0,0.0,0.0,0.0,,0.25,,0.0,True,2026-11-20T12:31:09+00:00
+2026-11-20T12:31:29+00:00,budkov v djere,True,Laslo Djere,polyus,0.76,Nicolai Budkov Kjaer,kalshi,0.19,0.9734,0.0,0.0,0.0,0.0,,0.25,,0.0,True,2026-11-20T12:31:09+00:00
+2026-11-20T12:31:39+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.08,Toby Samuel,kalshi,0.9,0.9914,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T12:31:39+00:00
+2026-11-20T12:31:49+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.08,Toby Samuel,kalshi,0.9,0.9914,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T12:31:39+00:00
+2026-11-20T12:31:49+00:00,budkov v djere,True,Laslo Djere,polyus,0.72,Nicolai Budkov Kjaer,kalshi,0.25,0.9971,0.0,0.0,0.0,0.0,,0.29,,0.0,True,2026-11-20T12:31:49+00:00
+2026-11-20T12:31:59+00:00,budkov v djere,True,Laslo Djere,polyus,0.71,Nicolai Budkov Kjaer,kalshi,0.25,0.9874,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-20T12:31:49+00:00
+2026-11-20T12:31:59+00:00,gulin v samuel,True,Svyatoslav Gulin,polyus,0.08,Toby Samuel,kalshi,0.9,0.9914,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T12:31:39+00:00
