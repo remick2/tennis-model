@@ -1,4 +1,4 @@
-# Consensus paper tracker — Thu Nov 19, 6:40PM MT
+# Consensus paper tracker — Thu Nov 19, 7:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,7 +9,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 4-1 | +0.36 | 0 |
-| 2 agree | all 15 | 26-24 | -2.84 | 28-25 | -4.97 | 11 |
+| 2 agree | all 15 | 26-24 | -2.84 | 28-25 | -4.97 | 12 |
 | 2+ agree, 1+ against (split) | all 15 | 27-17 | +9.70 | 29-24 | +2.93 | 8 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 0 |
 | 2 agree | core 10 only | 16-13 | +1.30 | 15-11 | -1.25 | 6 |
@@ -97,3 +97,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-19 | NBA | Knicks vs. Timberwolves | Timberwolves (+1.5) (Spread) | 2 agree, 1 against | in-play | monkeymashingkeyboard; ianf2026 | purplegatto | 31.5c |
 | new | 2026-11-19 | NBA | Warriors vs. Grizzlies | Warriors (Moneyline) | 2 agree, 1 against | in-play | jakepaulthegoat2008; JoeyAroyyOO | BreakTheBank | 23.5c |
 | new | 2026-11-19 | NBA | Warriors vs. Grizzlies | Warriors (+5.5) (Spread) | 2 agree, 1 against | in-play | drainedandpoor; ianf2026 | BreakTheBank | 38.5c |
+| new | 2026-11-19 | NBA | Clippers vs. Spurs | Over 225.5 (Total) | 2 agree, 0 against | in-play | 0xb4F978BE; JoeyAroyyOO | — | 84.5c |
