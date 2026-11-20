@@ -1,0 +1,20 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-20T18:41:34+00:00,lee v wendelken,True,kalshi:KXATPCHALLENGERMATCH-26NOV20WENLEE-WEN:yes,0.27,185,False,0.0057,2.0,hedged,polyus:aec-atp-harwen-jorlee-2026-11-20:1,0.71,1.05,-6.13,1.05,True
+2026-11-20T18:41:48+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-KOZ:yes,0.26,192,True,0.006,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:1,0.75,-4.42,-4.44,-4.42,True
+2026-11-20T18:43:10+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-KOZ:yes,0.24,208,True,0.0066,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:1,0.77,-4.64,-4.66,-4.64,True
+2026-11-20T18:44:12+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-CHI:yes,0.72,69,False,0.0066,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:0,0.26,0.46,-1.68,0.46,True
+2026-11-20T18:45:02+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-CHI:yes,0.7,71,True,0.006,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:0,0.32,-2.49,-2.5,-2.49,True
+2026-11-20T18:45:54+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-KOZ:yes,0.29,172,False,0.0051,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:1,0.72,-4.13,-4.15,-4.13,True
+2026-11-20T18:46:56+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-KOZ:yes,0.25,200,False,0.0063,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:1,0.76,-4.54,-4.55,-4.54,True
+2026-11-20T18:47:12+00:00,lee v wendelken,True,kalshi:KXATPCHALLENGERMATCH-26NOV20WENLEE-LEE:yes,0.67,74,False,0.0051,2.0,hedged,polyus:aec-atp-harwen-jorlee-2026-11-20:0,0.35,-2.65,-2.66,-2.65,True
+2026-11-20T18:47:34+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-KOZ:yes,0.21,238,False,0.0077,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:1,0.8,-5.03,-5.05,-5.03,True
+2026-11-20T18:48:52+00:00,lee v wendelken,True,kalshi:KXATPCHALLENGERMATCH-26NOV20WENLEE-LEE:yes,0.64,78,False,0.0146,2.0,hedged,polyus:aec-atp-harwen-jorlee-2026-11-20:0,0.37,-2.04,-2.05,-2.04,True
+2026-11-20T18:50:46+00:00,lee v wendelken,True,kalshi:KXATPCHALLENGERMATCH-26NOV20WENLEE-LEE:yes,0.59,84,False,0.0136,1.9,hedged,polyus:aec-atp-harwen-jorlee-2026-11-20:0,0.41,-1.41,-2.27,-1.41,True
+2026-11-20T18:51:32+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-CHI:yes,0.76,65,True,0.0081,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:0,0.25,-1.5,-1.5,-1.5,True
+2026-11-20T18:52:18+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-CHI:yes,0.72,69,False,0.0066,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:0,0.3,-2.39,-2.39,-2.39,True
+2026-11-20T18:52:32+00:00,lee v wendelken,True,kalshi:KXATPCHALLENGERMATCH-26NOV20WENLEE-WEN:yes,0.37,135,False,0.0133,2.0,hedged,polyus:aec-atp-harwen-jorlee-2026-11-20:1,0.64,-3.51,-3.53,-3.51,True
+2026-11-20T18:52:58+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-KOZ:yes,0.27,185,True,0.0057,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:1,0.74,-4.32,-4.34,-4.32,True
+2026-11-20T18:53:36+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-KOZ:yes,0.24,208,False,0.0066,1.9,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:1,0.77,-4.64,-4.66,-4.64,True
+2026-11-20T18:53:36+00:00,chidekh v kozlov,True,polyus:aec-atp-stekoz-clechi-2026-11-20:0,0.24,208,False,0.0065,1.9,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-KOZ:no,0.77,-4.66,-4.64,-4.64,True
+2026-11-20T18:54:10+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-CHI:yes,0.74,67,True,0.0073,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:0,0.27,-1.59,-1.59,-1.59,True
+2026-11-20T18:55:10+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-KOZ:yes,0.23,217,False,0.007,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:1,0.75,1.51,-4.78,1.51,True
