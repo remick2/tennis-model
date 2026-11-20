@@ -186,3 +186,15 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-20T03:22:37+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-LA:yes,0.11,454,False,0.0121,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:0,0.87,5.51,-20.23,5.51,True
 2026-11-20T03:23:40+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.87,57,False,0.0132,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.11,0.75,-1.05,0.75,True
 2026-11-20T03:23:52+00:00,aguiard v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV19SEKAGU-AGU:yes,0.2,250,True,0.0081,2.2,hedged,polyus:aec-atp-phisek-enzagu-2026-11-20:0,0.78,2.02,-9.97,2.02,True
+2026-11-20T03:24:38+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.86,58,True,0.0127,2.6,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.25,-7.14,-7.14,-7.14,True
+2026-11-20T03:28:24+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.67,74,False,0.0051,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.31,0.38,-3.41,0.38,True
+2026-11-20T03:32:54+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.44,113,False,0.0127,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.57,-3.05,-3.07,-3.05,True
+2026-11-20T03:32:54+00:00,manuel v roncadelli,True,polyus:aec-atp-fraron-juaser-2026-11-19:0,0.44,113,False,0.0126,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:no,0.57,-3.07,-3.05,-3.05,True
+2026-11-20T03:33:48+00:00,manuel v roncadelli,True,polyus:aec-atp-fraron-juaser-2026-11-19:0,0.41,121,True,0.0128,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:no,0.67,-11.55,-11.54,-11.54,True
+2026-11-20T03:34:24+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-LA:yes,0.58,86,False,0.0135,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:0,0.43,-2.32,-2.34,-2.32,True
+2026-11-20T03:34:50+00:00,jasika v moriya,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MORJAS-JAS:yes,0.89,56,True,0.0143,2.0,hedged,polyus:aec-atp-hirmor-omajas-2026-11-19:0,0.09,0.8,-0.97,0.8,True
+2026-11-20T03:35:06+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.3,166,False,0.0146,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.7,-2.42,-4.05,-2.42,True
+2026-11-20T03:35:48+00:00,manuel v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-LA:yes,0.64,78,False,0.0146,2.0,hedged,polyus:aec-atp-fraron-juaser-2026-11-19:0,0.42,-6.0,-6.8,-6.0,True
+2026-11-20T03:36:12+00:00,aguiard v sekulic,True,polyus:aec-atp-phisek-enzagu-2026-11-20:1,0.14,357,False,0.0106,2.0,hedged,kalshi:KXATPCHALLENGERMATCH-26NOV19SEKAGU-SEK:yes,0.87,-6.4,-9.76,-6.4,True
+2026-11-20T03:37:34+00:00,manuel v roncadelli,True,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.58,86,False,0.0133,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.44,-3.2,-3.19,-3.19,True
+2026-11-20T03:39:07+00:00,manuel v roncadelli,True,polyus:aec-atp-fraron-juaser-2026-11-19:1,0.4,125,False,0.0128,2.5,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19RONLA-RON:yes,0.63,-5.79,-5.78,-5.78,True
