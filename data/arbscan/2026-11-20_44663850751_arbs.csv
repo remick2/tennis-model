@@ -1,0 +1,22 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-20T03:54:13+00:00,jasika v moriya,True,Hiroki Moriya,polyus,0.11,Omar Jasika,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-20T03:54:13+00:00
+2026-11-20T03:54:43+00:00,jasika v moriya,True,Hiroki Moriya,kalshi,0.11,Omar Jasika,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.1,True,2026-11-20T03:54:43+00:00
+2026-11-20T03:54:53+00:00,jasika v moriya,True,Hiroki Moriya,kalshi,0.11,Omar Jasika,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.1,True,2026-11-20T03:54:43+00:00
+2026-11-20T03:55:03+00:00,harris v hassan,True,Benjamin Hassan,kalshi,0.31,Billy Harris,polyus,0.65,0.9908,0.0,0.0,0.0,0.0,0.36,,,0.2,True,2026-11-20T03:55:03+00:00
+2026-11-20T03:55:03+00:00,jasika v moriya,True,Hiroki Moriya,kalshi,0.11,Omar Jasika,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.1,True,2026-11-20T03:54:43+00:00
+2026-11-20T03:55:23+00:00,jasika v moriya,True,Hiroki Moriya,polyus,0.11,Omar Jasika,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.1,True,2026-11-20T03:55:23+00:00
+2026-11-20T03:56:03+00:00,jasika v moriya,True,Hiroki Moriya,polyus,0.07,Omar Jasika,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-20T03:56:03+00:00
+2026-11-20T03:56:13+00:00,jasika v moriya,True,Hiroki Moriya,polyus,0.07,Omar Jasika,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-20T03:56:03+00:00
+2026-11-20T03:56:23+00:00,jasika v moriya,True,Hiroki Moriya,polyus,0.07,Omar Jasika,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.1,True,2026-11-20T03:56:03+00:00
+2026-11-20T04:00:13+00:00,harris v hassan,True,Benjamin Hassan,kalshi,0.39,Billy Harris,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,,,0.1,True,2026-11-20T04:00:13+00:00
+2026-11-20T04:00:23+00:00,harris v hassan,True,Benjamin Hassan,kalshi,0.39,Billy Harris,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,,,0.1,True,2026-11-20T04:00:13+00:00
+2026-11-20T04:00:33+00:00,harris v hassan,True,Benjamin Hassan,kalshi,0.39,Billy Harris,polyus,0.57,0.9937,0.0,0.0,0.0,0.0,0.44,,,0.1,True,2026-11-20T04:00:13+00:00
+2026-11-20T04:01:03+00:00,harris v hassan,True,Benjamin Hassan,kalshi,0.44,Billy Harris,polyus,0.47,0.9446,0.0,0.0,0.0,0.0,0.54,,,0.1,True,2026-11-20T04:01:03+00:00
+2026-11-20T04:04:03+00:00,aguiard v sekulic,True,Enzo Aguiard,kalshi,0.19,Philip Sekulic,polyus,0.77,0.9831,0.0,0.0,0.0,0.0,0.24,,,0.1,True,2026-11-20T04:04:03+00:00
+2026-11-20T04:04:13+00:00,aguiard v sekulic,True,Enzo Aguiard,kalshi,0.19,Philip Sekulic,polyus,0.77,0.9831,0.0,0.0,0.0,0.0,0.24,,,0.1,True,2026-11-20T04:04:03+00:00
+2026-11-20T04:04:23+00:00,aguiard v sekulic,True,Enzo Aguiard,kalshi,0.19,Philip Sekulic,polyus,0.76,0.9734,0.0,0.0,0.0,0.0,0.25,,,0.1,True,2026-11-20T04:04:03+00:00
+2026-11-20T04:04:33+00:00,aguiard v sekulic,True,Enzo Aguiard,kalshi,0.19,Philip Sekulic,polyus,0.76,0.9734,0.0,0.0,0.0,0.0,0.26,,,0.1,True,2026-11-20T04:04:03+00:00
+2026-11-20T04:04:53+00:00,aguiard v sekulic,True,Enzo Aguiard,polyus,0.21,Philip Sekulic,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.2,True,2026-11-20T04:04:53+00:00
+2026-11-20T04:05:03+00:00,aguiard v sekulic,True,Enzo Aguiard,polyus,0.21,Philip Sekulic,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.2,True,2026-11-20T04:04:53+00:00
+2026-11-20T04:06:33+00:00,aguiard v sekulic,True,Enzo Aguiard,kalshi,0.25,Philip Sekulic,polyus,0.67,0.9485,0.0,0.0,0.0,0.0,0.35,,,0.1,True,2026-11-20T04:06:33+00:00
+2026-11-20T04:06:43+00:00,aguiard v sekulic,True,Enzo Aguiard,kalshi,0.25,Philip Sekulic,polyus,0.67,0.9485,0.0,0.0,0.0,0.0,0.35,,,0.1,True,2026-11-20T04:06:33+00:00
