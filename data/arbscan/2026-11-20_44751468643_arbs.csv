@@ -479,3 +479,67 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-20T20:30:15+00:00,artnak v young,True,Bor Artnak,polyus,0.59,Gavin Young,kalshi,0.37,0.9931,0.0,0.0,0.0,0.0,,0.42,,0.0,True,2026-11-20T20:30:15+00:00
 2026-11-20T20:30:25+00:00,artnak v young,True,Bor Artnak,polyus,0.58,Gavin Young,kalshi,0.37,0.9832,0.0,0.0,0.0,0.0,,0.43,,0.0,True,2026-11-20T20:30:15+00:00
 2026-11-20T20:30:35+00:00,artnak v young,True,Bor Artnak,polyus,0.58,Gavin Young,kalshi,0.37,0.9832,0.0,0.0,0.0,0.0,,0.43,,0.0,True,2026-11-20T20:30:15+00:00
+2026-11-20T20:34:15+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.28,Thiago Seyboth Wild,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,,0.74,,0.0,True,2026-11-20T20:34:15+00:00
+2026-11-20T20:34:25+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.27,Thiago Seyboth Wild,kalshi,0.69,0.9887,0.0,0.0,0.0,0.0,,0.74,,0.0,True,2026-11-20T20:34:15+00:00
+2026-11-20T20:34:35+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.27,Thiago Seyboth Wild,kalshi,0.69,0.9887,0.0,0.0,0.0,0.0,,0.74,,0.0,True,2026-11-20T20:34:15+00:00
+2026-11-20T20:34:45+00:00,artnak v young,True,Bor Artnak,polyus,0.47,Gavin Young,kalshi,0.49,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-20T20:34:45+00:00
+2026-11-20T20:34:55+00:00,artnak v young,True,Bor Artnak,polyus,0.47,Gavin Young,kalshi,0.49,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-20T20:34:45+00:00
+2026-11-20T20:37:25+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.26,Thiago Seyboth Wild,kalshi,0.71,0.9978,0.0,0.0,0.0,0.0,,0.74,,0.0,True,2026-11-20T20:37:25+00:00
+2026-11-20T20:37:35+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.26,Thiago Seyboth Wild,kalshi,0.71,0.9978,0.0,0.0,0.0,0.0,,0.74,,0.0,True,2026-11-20T20:37:25+00:00
+2026-11-20T20:37:55+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.26,Thiago Seyboth Wild,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-20T20:37:55+00:00
+2026-11-20T20:38:05+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.26,Thiago Seyboth Wild,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-20T20:37:55+00:00
+2026-11-20T20:38:15+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.26,Thiago Seyboth Wild,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-20T20:37:55+00:00
+2026-11-20T20:38:25+00:00,artnak v young,True,Bor Artnak,polyus,0.48,Gavin Young,kalshi,0.48,0.9948,0.0,0.0,0.0,0.0,,0.54,,0.0,True,2026-11-20T20:38:25+00:00
+2026-11-20T20:38:25+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.26,Thiago Seyboth Wild,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-20T20:37:55+00:00
+2026-11-20T20:38:35+00:00,artnak v young,True,Bor Artnak,polyus,0.42,Gavin Young,kalshi,0.53,0.9844,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-20T20:38:25+00:00
+2026-11-20T20:38:35+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.85,Stefan Kozlov,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.0,True,2026-11-20T20:38:35+00:00
+2026-11-20T20:38:45+00:00,artnak v young,True,Bor Artnak,polyus,0.42,Gavin Young,kalshi,0.53,0.9844,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-20T20:38:25+00:00
+2026-11-20T20:38:45+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.85,Stefan Kozlov,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.88,,,0.0,True,2026-11-20T20:38:35+00:00
+2026-11-20T20:38:55+00:00,artnak v young,True,Bor Artnak,polyus,0.42,Gavin Young,kalshi,0.53,0.9844,0.0,0.0,0.0,0.0,,0.63,,0.0,True,2026-11-20T20:38:25+00:00
+2026-11-20T20:38:55+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.85,Stefan Kozlov,polyus,0.13,0.9968,0.0,0.0,0.0,0.0,0.89,,,0.0,True,2026-11-20T20:38:35+00:00
+2026-11-20T20:39:15+00:00,artnak v young,True,Bor Artnak,kalshi,0.42,Gavin Young,polyus,0.53,0.9844,0.0,0.0,0.0,0.0,0.49,,,0.0,True,2026-11-20T20:39:15+00:00
+2026-11-20T20:39:15+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.88,Stefan Kozlov,polyus,0.1,0.9936,0.0,0.0,0.0,0.0,0.91,,,0.0,True,2026-11-20T20:39:15+00:00
+2026-11-20T20:39:25+00:00,artnak v young,True,Bor Artnak,kalshi,0.42,Gavin Young,polyus,0.52,0.9744,0.0,0.0,0.0,0.0,0.49,,,0.0,True,2026-11-20T20:39:15+00:00
+2026-11-20T20:39:25+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.88,Stefan Kozlov,polyus,0.09,0.9831,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-20T20:39:15+00:00
+2026-11-20T20:39:55+00:00,artnak v young,True,Bor Artnak,polyus,0.41,Gavin Young,kalshi,0.52,0.9643,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-20T20:39:55+00:00
+2026-11-20T20:40:05+00:00,artnak v young,True,Bor Artnak,polyus,0.41,Gavin Young,kalshi,0.52,0.9643,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-20T20:39:55+00:00
+2026-11-20T20:40:35+00:00,artnak v young,True,Bor Artnak,kalshi,0.41,Gavin Young,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T20:40:35+00:00
+2026-11-20T20:40:35+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.9,Stefan Kozlov,polyus,0.08,0.9914,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-20T20:40:35+00:00
+2026-11-20T20:40:45+00:00,artnak v young,True,Bor Artnak,kalshi,0.41,Gavin Young,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T20:40:35+00:00
+2026-11-20T20:40:55+00:00,artnak v young,True,Bor Artnak,kalshi,0.41,Gavin Young,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T20:40:35+00:00
+2026-11-20T20:40:55+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.91,Stefan Kozlov,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-20T20:40:55+00:00
+2026-11-20T20:41:05+00:00,artnak v young,True,Bor Artnak,kalshi,0.41,Gavin Young,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.49,,,0.0,True,2026-11-20T20:40:35+00:00
+2026-11-20T20:41:05+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.91,Stefan Kozlov,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-20T20:40:55+00:00
+2026-11-20T20:41:15+00:00,artnak v young,True,Bor Artnak,polyus,0.41,Gavin Young,kalshi,0.53,0.9742,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-20T20:41:15+00:00
+2026-11-20T20:41:15+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.91,Stefan Kozlov,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-20T20:41:15+00:00
+2026-11-20T20:41:25+00:00,artnak v young,True,Bor Artnak,polyus,0.41,Gavin Young,kalshi,0.53,0.9742,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-20T20:41:15+00:00
+2026-11-20T20:41:25+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.91,Stefan Kozlov,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-20T20:41:15+00:00
+2026-11-20T20:41:35+00:00,artnak v young,True,Bor Artnak,polyus,0.41,Gavin Young,kalshi,0.53,0.9742,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-20T20:41:15+00:00
+2026-11-20T20:41:35+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.91,Stefan Kozlov,kalshi,0.07,0.9902,0.0,0.0,0.0,0.0,,0.1,,0.0,True,2026-11-20T20:41:15+00:00
+2026-11-20T20:41:45+00:00,artnak v young,True,Bor Artnak,kalshi,0.41,Gavin Young,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T20:41:45+00:00
+2026-11-20T20:41:55+00:00,artnak v young,True,Bor Artnak,kalshi,0.41,Gavin Young,polyus,0.53,0.9742,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T20:41:45+00:00
+2026-11-20T20:42:05+00:00,artnak v young,True,Bor Artnak,kalshi,0.41,Gavin Young,polyus,0.49,0.9343,0.0,0.0,0.0,0.0,0.52,,,0.0,True,2026-11-20T20:41:45+00:00
+2026-11-20T20:42:15+00:00,artnak v young,True,Bor Artnak,kalshi,0.41,Gavin Young,polyus,0.48,0.9243,0.0,0.0,0.0,0.0,0.52,,,0.0,True,2026-11-20T20:41:45+00:00
+2026-11-20T20:42:15+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.87,Stefan Kozlov,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-20T20:42:15+00:00
+2026-11-20T20:42:25+00:00,artnak v young,True,Bor Artnak,kalshi,0.41,Gavin Young,polyus,0.48,0.9243,0.0,0.0,0.0,0.0,0.52,,,0.0,True,2026-11-20T20:41:45+00:00
+2026-11-20T20:42:25+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.87,Stefan Kozlov,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-20T20:42:15+00:00
+2026-11-20T20:42:35+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.83,Stefan Kozlov,kalshi,0.14,0.9882,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-20T20:42:15+00:00
+2026-11-20T20:42:45+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.83,Stefan Kozlov,kalshi,0.14,0.9882,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-20T20:42:15+00:00
+2026-11-20T20:42:45+00:00,artnak v young,True,Bor Artnak,polyus,0.48,Gavin Young,kalshi,0.48,0.9948,0.0,0.0,0.0,0.0,,0.53,,0.0,True,2026-11-20T20:42:45+00:00
+2026-11-20T20:42:55+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.83,Stefan Kozlov,kalshi,0.14,0.9882,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-20T20:42:15+00:00
+2026-11-20T20:42:55+00:00,artnak v young,True,Bor Artnak,polyus,0.48,Gavin Young,kalshi,0.48,0.9948,0.0,0.0,0.0,0.0,,0.53,,0.0,True,2026-11-20T20:42:45+00:00
+2026-11-20T20:43:15+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.83,Stefan Kozlov,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-20T20:43:15+00:00
+2026-11-20T20:43:25+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.83,Stefan Kozlov,polyus,0.14,0.9882,0.0,0.0,0.0,0.0,0.87,,,0.0,True,2026-11-20T20:43:15+00:00
+2026-11-20T20:43:25+00:00,artnak v young,True,Bor Artnak,kalshi,0.48,Gavin Young,polyus,0.48,0.9948,0.0,0.0,0.0,0.0,0.53,,,0.0,True,2026-11-20T20:43:25+00:00
+2026-11-20T20:43:45+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.83,Stefan Kozlov,kalshi,0.14,0.9882,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-20T20:43:45+00:00
+2026-11-20T20:43:55+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.83,Stefan Kozlov,kalshi,0.14,0.9882,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-20T20:43:45+00:00
+2026-11-20T20:45:35+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.28,Guiomar Maristany,polyus,0.68,0.9892,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-20T20:45:35+00:00
+2026-11-20T20:46:15+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.76,Stefan Kozlov,kalshi,0.21,0.9943,0.0,0.0,0.0,0.0,,0.25,,0.0,True,2026-11-20T20:46:15+00:00
+2026-11-20T20:46:25+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.76,Stefan Kozlov,kalshi,0.21,0.9943,0.0,0.0,0.0,0.0,,0.25,,0.0,True,2026-11-20T20:46:15+00:00
+2026-11-20T20:46:35+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.76,Stefan Kozlov,kalshi,0.21,0.9943,0.0,0.0,0.0,0.0,,0.25,,0.0,True,2026-11-20T20:46:15+00:00
+2026-11-20T20:46:55+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.71,Stefan Kozlov,kalshi,0.25,0.9874,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-20T20:46:55+00:00
+2026-11-20T20:47:05+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.71,Stefan Kozlov,kalshi,0.25,0.9874,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-20T20:46:55+00:00
+2026-11-20T20:47:05+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.25,Guiomar Maristany Zuleta de Reales,kalshi,0.72,0.9971,0.0,0.0,0.0,0.0,,0.76,,0.0,True,2026-11-20T20:47:05+00:00
+2026-11-20T20:47:15+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.25,Guiomar Maristany Zuleta de Reales,kalshi,0.72,0.9971,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-20T20:47:05+00:00
+2026-11-20T20:47:25+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.66,Stefan Kozlov,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-20T20:47:25+00:00
+2026-11-20T20:47:35+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.66,Stefan Kozlov,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,,0.35,,0.0,True,2026-11-20T20:47:25+00:00
