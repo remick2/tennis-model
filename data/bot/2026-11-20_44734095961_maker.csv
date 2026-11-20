@@ -41,3 +41,6 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-20T13:42:14+00:00,kwon v prizmic,True,polyus:aec-atp-sookwo-dinpri-2026-11-20:1,0.27,185,False,0.0056,1.9,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:no,0.74,-4.34,-4.32,-4.32,True
 2026-11-20T13:43:48+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-KWON:yes,0.67,74,False,0.0051,1.9,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:1,0.34,-1.89,-1.9,-1.89,True
 2026-11-20T13:58:47+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:yes,0.46,108,True,0.0126,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:0,0.6,-8.28,-8.29,-8.28,True
+2026-11-20T14:02:19+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:yes,0.54,92,False,0.013,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:0,0.47,-2.51,-2.52,-2.51,True
+2026-11-20T14:07:31+00:00,kwon v prizmic,True,polyus:aec-atp-sookwo-dinpri-2026-11-20:1,0.32,156,False,0.0141,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:no,0.69,-3.9,-3.88,-3.88,True
+2026-11-20T14:11:53+00:00,basavareddy v butvilas,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BUTBAS-BUT:yes,0.06,833,True,0.0055,2.0,hedged,polyus:aec-atp-edabut-nisbas-2026-11-20:1,0.95,-11.08,-11.1,-11.08,True
