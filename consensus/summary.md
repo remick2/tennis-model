@@ -1,4 +1,4 @@
-# Consensus paper tracker — Fri Nov 20, 8:40AM MT
+# Consensus paper tracker — Fri Nov 20, 9:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -8,10 +8,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
-| 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 4-1 | +0.36 | 0 |
-| 2 agree | all 15 | 29-29 | -5.81 | 29-25 | -4.79 | 4 |
+| 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 4-1 | +0.36 | 1 |
+| 2 agree | all 15 | 29-29 | -5.81 | 29-25 | -4.79 | 5 |
 | 2+ agree, 1+ against (split) | all 15 | 28-19 | +7.83 | 30-27 | +0.37 | 2 |
-| 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 0 |
+| 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 1 |
 | 2 agree | core 10 only | 18-14 | +0.61 | 15-11 | -1.25 | 3 |
 | 2+ agree, 1+ against (split) | core 10 only | 10-6 | +4.46 | 12-9 | -0.89 | 2 |
 
@@ -81,6 +81,8 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+15.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 55.0c |
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+16.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 52.5c |
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
-| new | 2026-11-22 | NFL | Buccaneers vs. Lions | Buccaneers (+6.5) (Spread) | 2 agree, 1 against | pre-game | 0xb4F978BE; bands1 | ic4cream | 47.5c |
+| new | 2026-11-22 | NFL | Buccaneers vs. Lions | Buccaneers (+6.5) (Spread) | 3 agree, 0 against | pre-game | monkeymashingkeyboard; 0xb4F978BE; bands1 | — | 54.5c |
 | new | 2026-11-20 | NBA | Hornets vs. Hawks | Under 219.5 (Total) | 2 agree, 0 against | pre-game | ic4cream; JoeyAroyyOO | — | 52.5c |
 | new | 2026-11-20 | NBA | Wizards vs. Bulls | Bulls (Moneyline) | 2 agree, 1 against | pre-game | jakepaulthegoat2008; drainedandpoor | monkeymashingkeyboard | 57.5c |
+| new | 2026-11-20 | NBA | Wizards vs. Bulls | Wizards (Moneyline) | 2 agree, 2 against | pre-game | monkeymashingkeyboard; ic4cream | drainedandpoor; jakepaulthegoat2008 | 42.5c |
+| new | 2026-11-20 | NBA | Pacers vs. Cavaliers | Pacers (Moneyline) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; JoeyAroyyOO | — | 33.5c |
