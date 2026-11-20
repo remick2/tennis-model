@@ -176,10 +176,13 @@ class PolyUS:
         ex = d.get("executions") or []
         o = (ex[-1].get("order") or {}) if ex else {}
         filled = _num(o.get("cumQuantity")) if ok else 0.0
+        # The response lists the order's steps (Nov 19: NEW with 4 left, then a final step with 0 left). If the last
+        # step still has shares left, or there are no steps, the IOC hasn't finished: it may still fill.
+        unknown = ok and (not ex or _num(o.get("leavesQuantity")) > 0)
         avg = _num(o.get("avgPx")) if filled else 0.0
         if idx == "1" and filled:
             avg = 1 - avg  # back to the short-side price
-        return {"ok": ok, "code": code, "filled": filled, "avg": avg,
+        return {"ok": ok, "code": code, "filled": filled, "avg": avg, "unknown": unknown,
                 "fee": _num(o.get("commissionNotionalTotalCollected")), "body": body, "resp": d}
 
     def preview(self, slug, idx, qty, limit):

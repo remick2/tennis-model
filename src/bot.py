@@ -547,8 +547,8 @@ def live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs):
     t = time.time()
     rp = LV.p.order(p_i[1], p_i[2], int(sh), p_lim, f"{cid}p")
     if rp.get("unknown"):
-        LV.turn_off(f"Polymarket US order call failed mid-send on {p_i[1]} ({rp['resp']}): it may or may not have "
-                    "filled. Check the Polymarket US account for an open position.")
+        LV.turn_off(f"Polymarket US order on {p_i[1]} didn't come back finished ({str(rp['resp'])[:200]}): it may or "
+                    "may not have filled. Check the Polymarket US account for an open position.")
         return None
     qp = int(rp["filled"])
     if qp and rp["avg"] > p_lim + 0.005:
@@ -572,9 +572,14 @@ def live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs):
             if lim2 >= 0.01:
                 rk2 = LV.k.order(k_i[1], k_i[2], qp - qk, lim2, f"{cid}c")
                 qk += rk2["filled"]
+                if rk2.get("unknown"):
+                    LV.turn_off(f"Kalshi retry order failed mid-send on {k_i[1]} ({rk2['resp']}). Check both accounts.")
         if qk < qp:   # still short: sell the extra Polymarket US shares
             ru = LV.p.order(p_i[1], p_i[2], int(round(qp - qk)), max(0.01, rp["avg"] - LIVE.UNWIND_MAX_LOSS),
                             f"{cid}u", sell=True)
+            if ru.get("unknown"):
+                LV.turn_off(f"Polymarket US sell-back on {p_i[1]} didn't finish ({str(ru['resp'])[:200]}). Check the "
+                            "Polymarket US account for leftover shares.")
     secs = time.time() - t
     for r in (rp, rk, rk2, ru):
         if r and not r["ok"]:

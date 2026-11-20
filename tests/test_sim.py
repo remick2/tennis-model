@@ -166,4 +166,15 @@ check("live: Polymarket US order times out => live off, no Kalshi order sent", r
 lv4 = LIVE.Live.__new__(LIVE.Live); lv4.p, lv4.k, lv4.off_reason, lv4.L, lv4.errors = FakeP(), FakeK(), None, {"open": []}, 0
 r4 = B.live_fire(lv4, "a v b", {"live": True}, B.Consumed(), 0.1, ("polyus", "S", "1"), ("kalshi", "KA", "yes"), 500, [(0.5, 500)], [(0.46, 500)], 0.1)
 check("live: an order over the hard size limit is refused before anything is sent", r4 is None and "bigger than the hard limits" in lv4.off_reason)
+# --- Polymarket US response parsing: finished vs still open
+class PP(LIVE.PolyUS):
+    def __init__(self, resp): self.resp = resp
+    def req(self, *a, **k): return 200, self.resp
+def step(state, cum, leaves): return {"order": {"state": state, "cumQuantity": cum, "leavesQuantity": leaves, "avgPx": {"value": "0.32"}}}
+r = PP({"executions": [step("ORDER_STATE_NEW", 0, 4), step("ORDER_STATE_CANCELED", 0, 0)]}).order("s", "1", 4, 0.68, "x")
+check("Polymarket US: NEW then cancelled with 0 left => finished, 0 filled", r["filled"] == 0 and not r["unknown"])
+r = PP({"executions": [step("ORDER_STATE_NEW", 0, 4)]}).order("s", "1", 4, 0.68, "x")
+check("Polymarket US: only NEW with shares left => UNKNOWN (may still fill)", r["unknown"])
+r = PP({"executions": [step("ORDER_STATE_NEW", 0, 4), step("ORDER_STATE_FILLED", 4, 0)]}).order("s", "1", 4, 0.68, "x")
+check("Polymarket US: filled short at YES 0.32 => we paid 0.68 for the short side", r["filled"] == 4 and abs(r["avg"] - 0.68) < 1e-9 and not r["unknown"])
 print("all checks passed")
