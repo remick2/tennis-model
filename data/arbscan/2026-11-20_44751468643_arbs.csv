@@ -275,3 +275,47 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-20T19:15:19+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.42,Jordan Lee,polyus,0.53,0.9844,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T19:15:19+00:00
 2026-11-20T19:15:29+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.42,Jordan Lee,polyus,0.53,0.9844,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T19:15:19+00:00
 2026-11-20T19:16:49+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.76,Stefan Kozlov,polyus,0.19,0.9735,0.0,0.0,0.0,0.0,0.82,,,0.0,True,2026-11-20T19:16:49+00:00
+2026-11-20T19:18:15+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.4,Jordan Lee,polyus,0.54,0.9741,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-20T19:18:15+00:00
+2026-11-20T19:18:25+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.4,Jordan Lee,polyus,0.54,0.9741,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-20T19:18:15+00:00
+2026-11-20T19:18:35+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.4,Jordan Lee,polyus,0.53,0.9641,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T19:18:15+00:00
+2026-11-20T19:19:05+00:00,lee v wendelken,True,Harry Wendelken,polyus,0.42,Jordan Lee,kalshi,0.54,0.9943,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-20T19:19:05+00:00
+2026-11-20T19:19:15+00:00,lee v wendelken,True,Harry Wendelken,polyus,0.42,Jordan Lee,kalshi,0.51,0.9644,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-20T19:19:05+00:00
+2026-11-20T19:19:25+00:00,lee v wendelken,True,Harry Wendelken,polyus,0.42,Jordan Lee,kalshi,0.51,0.9644,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-20T19:19:05+00:00
+2026-11-20T19:19:35+00:00,lee v wendelken,True,Harry Wendelken,polyus,0.37,Jordan Lee,kalshi,0.51,0.9137,0.0,0.0,0.0,0.0,,0.64,,0.0,True,2026-11-20T19:19:05+00:00
+2026-11-20T19:21:15+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.24,Thiago Seyboth Wild,polyus,0.73,0.9965,0.0,0.0,0.0,0.0,0.28,,,0.1,True,2026-11-20T19:21:15+00:00
+2026-11-20T19:21:35+00:00,lee v wendelken,True,Harry Wendelken,polyus,0.23,Jordan Lee,kalshi,0.71,0.9667,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-20T19:21:35+00:00
+2026-11-20T19:21:45+00:00,lee v wendelken,True,Harry Wendelken,polyus,0.23,Jordan Lee,kalshi,0.71,0.9667,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-20T19:21:35+00:00
+2026-11-20T19:22:25+00:00,lee v wendelken,True,Harry Wendelken,polyus,0.15,Jordan Lee,kalshi,0.79,0.9605,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-20T19:22:25+00:00
+2026-11-20T19:22:35+00:00,lee v wendelken,True,Harry Wendelken,polyus,0.14,Jordan Lee,kalshi,0.79,0.95,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-20T19:22:25+00:00
+2026-11-20T19:22:45+00:00,lee v wendelken,True,Harry Wendelken,polyus,0.09,Jordan Lee,kalshi,0.79,0.8973,0.0,0.0,0.0,0.0,,0.91,,0.0,True,2026-11-20T19:22:25+00:00
+2026-11-20T19:23:25+00:00,herbert v passaro,True,Francesco Passaro,kalshi,0.49,Pierre-Hugues Herbert,polyus,0.46,0.9848,0.0,0.0,0.0,0.0,0.55,,,0.0,True,2026-11-20T19:23:25+00:00
+2026-11-20T19:23:35+00:00,herbert v passaro,True,Francesco Passaro,kalshi,0.49,Pierre-Hugues Herbert,polyus,0.46,0.9848,0.0,0.0,0.0,0.0,0.55,,,0.0,True,2026-11-20T19:23:25+00:00
+2026-11-20T19:24:05+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.27,Thiago Seyboth Wild,polyus,0.7,0.9984,0.0,0.0,0.0,0.0,0.34,,,0.0,True,2026-11-20T19:24:05+00:00
+2026-11-20T19:24:15+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.29,Thiago Seyboth Wild,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,,,0.0,True,2026-11-20T19:24:05+00:00
+2026-11-20T19:24:25+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.09,Jordan Lee,polyus,0.87,0.9736,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-20T19:24:25+00:00
+2026-11-20T19:24:25+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.29,Thiago Seyboth Wild,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.34,,,0.0,True,2026-11-20T19:24:05+00:00
+2026-11-20T19:24:35+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.09,Jordan Lee,polyus,0.87,0.9736,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-20T19:24:25+00:00
+2026-11-20T19:24:45+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.14,Jordan Lee,polyus,0.8,0.9595,0.0,0.0,0.0,0.0,0.21,,,0.0,True,2026-11-20T19:24:25+00:00
+2026-11-20T19:24:55+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.14,Jordan Lee,polyus,0.8,0.9595,0.0,0.0,0.0,0.0,0.21,,,0.0,True,2026-11-20T19:24:25+00:00
+2026-11-20T19:25:05+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.14,Jordan Lee,polyus,0.8,0.9595,0.0,0.0,0.0,0.0,0.23,,,0.0,True,2026-11-20T19:24:25+00:00
+2026-11-20T19:25:15+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.23,Jordan Lee,polyus,0.72,0.9764,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-20T19:24:25+00:00
+2026-11-20T19:25:25+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.24,Thiago Seyboth Wild,kalshi,0.69,0.9576,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-20T19:25:25+00:00
+2026-11-20T19:25:25+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.23,Jordan Lee,polyus,0.72,0.9764,0.0,0.0,0.0,0.0,0.29,,,0.0,True,2026-11-20T19:24:25+00:00
+2026-11-20T19:25:35+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.24,Thiago Seyboth Wild,kalshi,0.69,0.9576,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-20T19:25:25+00:00
+2026-11-20T19:25:35+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.23,Jordan Lee,polyus,0.71,0.9667,0.0,0.0,0.0,0.0,0.3,,,0.1,True,2026-11-20T19:24:25+00:00
+2026-11-20T19:25:45+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.28,Thiago Seyboth Wild,kalshi,0.69,0.999,0.0,0.0,0.0,0.0,,0.73,,0.0,True,2026-11-20T19:25:25+00:00
+2026-11-20T19:26:35+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.24,Thiago Seyboth Wild,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-20T19:26:35+00:00
+2026-11-20T19:26:45+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.24,Thiago Seyboth Wild,kalshi,0.73,0.9965,0.0,0.0,0.0,0.0,,0.77,,0.0,True,2026-11-20T19:26:35+00:00
+2026-11-20T19:27:15+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.36,Jordan Lee,polyus,0.6,0.9928,0.0,0.0,0.0,0.0,0.41,,,0.0,True,2026-11-20T19:27:15+00:00
+2026-11-20T19:27:25+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.2,Thiago Seyboth Wild,kalshi,0.77,0.9935,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-20T19:27:25+00:00
+2026-11-20T19:27:35+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.2,Thiago Seyboth Wild,kalshi,0.77,0.9935,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-20T19:27:25+00:00
+2026-11-20T19:27:45+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.2,Thiago Seyboth Wild,kalshi,0.77,0.9935,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-20T19:27:25+00:00
+2026-11-20T19:28:25+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.13,Thiago Seyboth Wild,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-20T19:28:25+00:00
+2026-11-20T19:28:35+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.13,Thiago Seyboth Wild,kalshi,0.81,0.9586,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-20T19:28:25+00:00
+2026-11-20T19:28:55+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.09,Thiago Seyboth Wild,kalshi,0.88,0.9831,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T19:28:55+00:00
+2026-11-20T19:29:05+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.09,Thiago Seyboth Wild,kalshi,0.88,0.9831,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T19:28:55+00:00
+2026-11-20T19:29:35+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.07,Thiago Seyboth Wild,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-20T19:29:35+00:00
+2026-11-20T19:31:35+00:00,herbert v passaro,True,Francesco Passaro,kalshi,0.49,Pierre-Hugues Herbert,polyus,0.43,0.9545,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-20T19:31:35+00:00
+2026-11-20T19:31:45+00:00,herbert v passaro,True,Francesco Passaro,kalshi,0.49,Pierre-Hugues Herbert,polyus,0.43,0.9545,0.0,0.0,0.0,0.0,0.58,,,0.0,True,2026-11-20T19:31:35+00:00
+2026-11-20T19:32:15+00:00,herbert v passaro,True,Francesco Passaro,kalshi,0.58,Pierre-Hugues Herbert,polyus,0.29,0.9014,0.0,0.0,0.0,0.0,0.72,,,0.0,True,2026-11-20T19:32:15+00:00
+2026-11-20T19:32:15+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.36,Jordan Lee,polyus,0.6,0.9928,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-20T19:32:15+00:00
