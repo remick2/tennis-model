@@ -375,3 +375,84 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-20T02:14:45+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.11,Sebastian Gorzny,kalshi,0.74,0.8703,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-20T02:14:45+00:00
 2026-11-20T02:14:55+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.11,Sebastian Gorzny,kalshi,0.74,0.8703,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-20T02:14:45+00:00
 2026-11-20T02:15:05+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.11,Sebastian Gorzny,kalshi,0.74,0.8703,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-20T02:14:45+00:00
+2026-11-20T02:15:25+00:00,gorzny v langmo,True,Christian Langmo,kalshi,0.11,Sebastian Gorzny,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-20T02:15:25+00:00
+2026-11-20T02:15:35+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.54,0.9741,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T02:15:35+00:00
+2026-11-20T02:15:35+00:00,gorzny v langmo,True,Christian Langmo,kalshi,0.11,Sebastian Gorzny,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.1,True,2026-11-20T02:15:25+00:00
+2026-11-20T02:15:45+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.54,0.9741,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T02:15:35+00:00
+2026-11-20T02:15:55+00:00,gorzny v langmo,True,Christian Langmo,kalshi,0.11,Sebastian Gorzny,polyus,0.85,0.9757,0.0,0.0,0.0,0.0,0.16,,,0.0,True,2026-11-20T02:15:55+00:00
+2026-11-20T02:16:05+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.12,Sebastian Gorzny,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-20T02:16:05+00:00
+2026-11-20T02:16:15+00:00,li tu v schoolkate,True,Li Tu,polyus,0.4,Tristan Schoolkate,kalshi,0.53,0.9641,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-20T02:16:15+00:00
+2026-11-20T02:16:15+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.12,Sebastian Gorzny,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-20T02:16:05+00:00
+2026-11-20T02:16:25+00:00,li tu v schoolkate,True,Li Tu,polyus,0.4,Tristan Schoolkate,kalshi,0.53,0.9641,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-20T02:16:15+00:00
+2026-11-20T02:16:25+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.12,Sebastian Gorzny,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-20T02:16:05+00:00
+2026-11-20T02:16:35+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.09,Sebastian Gorzny,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.1,True,2026-11-20T02:16:05+00:00
+2026-11-20T02:16:45+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.54,0.9741,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-20T02:16:45+00:00
+2026-11-20T02:16:45+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.09,Sebastian Gorzny,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T02:16:05+00:00
+2026-11-20T02:16:55+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.54,0.9741,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-20T02:16:45+00:00
+2026-11-20T02:16:55+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.09,Sebastian Gorzny,kalshi,0.89,0.9925,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T02:16:05+00:00
+2026-11-20T02:17:15+00:00,gorzny v langmo,True,Christian Langmo,kalshi,0.09,Sebastian Gorzny,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-20T02:17:15+00:00
+2026-11-20T02:17:25+00:00,li tu v schoolkate,True,Li Tu,polyus,0.4,Tristan Schoolkate,kalshi,0.54,0.9741,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-20T02:17:25+00:00
+2026-11-20T02:17:25+00:00,gorzny v langmo,True,Christian Langmo,kalshi,0.09,Sebastian Gorzny,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.1,True,2026-11-20T02:17:15+00:00
+2026-11-20T02:17:55+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.09,Sebastian Gorzny,kalshi,0.88,0.9831,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T02:17:55+00:00
+2026-11-20T02:18:05+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.54,0.9741,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-20T02:18:05+00:00
+2026-11-20T02:18:05+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.09,Sebastian Gorzny,kalshi,0.88,0.9831,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T02:17:55+00:00
+2026-11-20T02:18:25+00:00,gorzny v langmo,True,Christian Langmo,kalshi,0.09,Sebastian Gorzny,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-20T02:18:25+00:00
+2026-11-20T02:18:35+00:00,gorzny v langmo,True,Christian Langmo,kalshi,0.09,Sebastian Gorzny,polyus,0.88,0.9831,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-20T02:18:25+00:00
+2026-11-20T02:18:55+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.09,Sebastian Gorzny,kalshi,0.88,0.9831,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T02:18:55+00:00
+2026-11-20T02:19:05+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.09,Sebastian Gorzny,kalshi,0.88,0.9831,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T02:18:55+00:00
+2026-11-20T02:20:25+00:00,li tu v schoolkate,True,Li Tu,polyus,0.45,Tristan Schoolkate,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-20T02:20:25+00:00
+2026-11-20T02:22:05+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.53,0.9641,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T02:22:05+00:00
+2026-11-20T02:22:15+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.53,0.9641,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T02:22:05+00:00
+2026-11-20T02:22:25+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.53,0.9641,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T02:22:05+00:00
+2026-11-20T02:22:55+00:00,li tu v schoolkate,True,Li Tu,polyus,0.4,Tristan Schoolkate,kalshi,0.53,0.9641,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-20T02:22:55+00:00
+2026-11-20T02:23:25+00:00,li tu v schoolkate,True,Li Tu,polyus,0.32,Tristan Schoolkate,kalshi,0.61,0.9618,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-20T02:23:25+00:00
+2026-11-20T02:23:35+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.07,Sebastian Gorzny,kalshi,0.91,0.9903,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-20T02:23:35+00:00
+2026-11-20T02:23:45+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.07,Sebastian Gorzny,kalshi,0.91,0.9903,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-20T02:23:35+00:00
+2026-11-20T02:23:55+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.32,Tristan Schoolkate,polyus,0.61,0.9618,0.0,0.0,0.0,0.0,0.4,,,0.0,True,2026-11-20T02:23:55+00:00
+2026-11-20T02:24:05+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.32,Tristan Schoolkate,polyus,0.61,0.9618,0.0,0.0,0.0,0.0,0.4,,,0.0,True,2026-11-20T02:23:55+00:00
+2026-11-20T02:24:05+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.06,Sebastian Gorzny,kalshi,0.91,0.9797,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-20T02:24:05+00:00
+2026-11-20T02:24:15+00:00,friend v zhou,True,Jay Friend,kalshi,0.5,Yi Zhou,polyus,0.46,0.9948,0.0,0.0,0.0,0.0,0.55,,,0.1,True,2026-11-20T02:24:15+00:00
+2026-11-20T02:24:15+00:00,broady v samrej,True,Kasidit Samrej,polyus,0.23,Liam Broady,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-20T02:24:15+00:00
+2026-11-20T02:24:15+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.06,Sebastian Gorzny,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-20T02:24:05+00:00
+2026-11-20T02:24:25+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.51,0.9442,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-20T02:24:25+00:00
+2026-11-20T02:24:25+00:00,friend v zhou,True,Jay Friend,kalshi,0.5,Yi Zhou,polyus,0.46,0.9948,0.0,0.0,0.0,0.0,0.56,,,0.1,True,2026-11-20T02:24:15+00:00
+2026-11-20T02:24:25+00:00,broady v samrej,True,Kasidit Samrej,polyus,0.23,Liam Broady,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.0,True,2026-11-20T02:24:15+00:00
+2026-11-20T02:24:25+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.06,Sebastian Gorzny,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.0,True,2026-11-20T02:24:05+00:00
+2026-11-20T02:24:35+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.51,0.9442,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-20T02:24:25+00:00
+2026-11-20T02:24:35+00:00,friend v zhou,True,Jay Friend,kalshi,0.5,Yi Zhou,polyus,0.46,0.9948,7305.0,0.11,0.11,0.0,0.5,0.46,0.9948,0.2,True,2026-11-20T02:24:15+00:00
+2026-11-20T02:24:35+00:00,broady v samrej,True,Kasidit Samrej,polyus,0.23,Liam Broady,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.75,,0.0,True,2026-11-20T02:24:15+00:00
+2026-11-20T02:24:35+00:00,gorzny v langmo,True,Christian Langmo,polyus,0.06,Sebastian Gorzny,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.96,,0.0,True,2026-11-20T02:24:05+00:00
+2026-11-20T02:25:15+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.45,Juan Manuel La Serna,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.1,True,2026-11-20T02:25:15+00:00
+2026-11-20T02:25:25+00:00,li tu v schoolkate,True,Li Tu,polyus,0.4,Tristan Schoolkate,kalshi,0.52,0.9542,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-20T02:25:25+00:00
+2026-11-20T02:25:25+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.45,Juan Manuel La Serna,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.1,True,2026-11-20T02:25:15+00:00
+2026-11-20T02:25:35+00:00,li tu v schoolkate,True,Li Tu,polyus,0.4,Tristan Schoolkate,kalshi,0.52,0.9542,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-20T02:25:25+00:00
+2026-11-20T02:25:35+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.45,Juan Manuel La Serna,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.0,True,2026-11-20T02:25:15+00:00
+2026-11-20T02:25:55+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.37,Juan Manuel La Serna,kalshi,0.56,0.9634,0.0,0.0,0.0,0.0,,0.64,,0.0,True,2026-11-20T02:25:55+00:00
+2026-11-20T02:25:55+00:00,broady v samrej,True,Kasidit Samrej,polyus,0.2,Liam Broady,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-20T02:25:55+00:00
+2026-11-20T02:26:05+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.37,Juan Manuel La Serna,kalshi,0.56,0.9634,0.0,0.0,0.0,0.0,,0.64,,0.0,True,2026-11-20T02:25:55+00:00
+2026-11-20T02:26:05+00:00,broady v samrej,True,Kasidit Samrej,polyus,0.2,Liam Broady,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-20T02:25:55+00:00
+2026-11-20T02:26:25+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.37,Juan Manuel La Serna,polyus,0.57,0.9734,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-20T02:26:25+00:00
+2026-11-20T02:26:35+00:00,li tu v schoolkate,True,Li Tu,polyus,0.3,Tristan Schoolkate,kalshi,0.61,0.9412,0.0,0.0,0.0,0.0,,0.71,,0.0,True,2026-11-20T02:26:35+00:00
+2026-11-20T02:26:35+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.37,Juan Manuel La Serna,polyus,0.57,0.9734,0.0,0.0,0.0,0.0,0.44,,,0.1,True,2026-11-20T02:26:25+00:00
+2026-11-20T02:26:45+00:00,li tu v schoolkate,True,Li Tu,polyus,0.3,Tristan Schoolkate,kalshi,0.61,0.9412,0.0,0.0,0.0,0.0,,0.71,,0.0,True,2026-11-20T02:26:35+00:00
+2026-11-20T02:26:45+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.37,Juan Manuel La Serna,polyus,0.57,0.9734,0.0,0.0,0.0,0.0,0.45,,,0.0,True,2026-11-20T02:26:25+00:00
+2026-11-20T02:26:55+00:00,li tu v schoolkate,True,Li Tu,polyus,0.3,Tristan Schoolkate,kalshi,0.61,0.9412,0.0,0.0,0.0,0.0,,0.71,,0.0,True,2026-11-20T02:26:35+00:00
+2026-11-20T02:27:15+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.3,Tristan Schoolkate,polyus,0.6,0.9314,0.0,0.0,0.0,0.0,0.4,,,0.0,True,2026-11-20T02:27:15+00:00
+2026-11-20T02:27:15+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.44,Juan Manuel La Serna,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-20T02:27:15+00:00
+2026-11-20T02:27:25+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.3,Tristan Schoolkate,polyus,0.61,0.9412,0.0,0.0,0.0,0.0,0.41,,,0.0,True,2026-11-20T02:27:15+00:00
+2026-11-20T02:27:25+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.44,Juan Manuel La Serna,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-20T02:27:15+00:00
+2026-11-20T02:27:35+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.47,0.9041,0.0,0.0,0.0,0.0,0.54,,,0.0,True,2026-11-20T02:27:15+00:00
+2026-11-20T02:27:45+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.46,0.8941,0.0,0.0,0.0,0.0,0.55,,,0.1,True,2026-11-20T02:27:15+00:00
+2026-11-20T02:27:55+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.4,Tristan Schoolkate,polyus,0.46,0.8941,0.0,0.0,0.0,0.0,0.55,,,0.0,True,2026-11-20T02:27:15+00:00
+2026-11-20T02:27:55+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.44,Juan Manuel La Serna,kalshi,0.51,0.9846,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-20T02:27:55+00:00
+2026-11-20T02:28:05+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.44,Juan Manuel La Serna,kalshi,0.51,0.9846,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-20T02:27:55+00:00
+2026-11-20T02:28:25+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.43,Juan Manuel La Serna,kalshi,0.51,0.9745,0.0,0.0,0.0,0.0,,0.58,,0.0,True,2026-11-20T02:28:25+00:00
+2026-11-20T02:28:35+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.45,Juan Manuel La Serna,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-20T02:28:35+00:00
+2026-11-20T02:28:45+00:00,li tu v schoolkate,True,Li Tu,polyus,0.42,Tristan Schoolkate,kalshi,0.49,0.9444,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-20T02:28:45+00:00
+2026-11-20T02:28:45+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.45,Juan Manuel La Serna,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-20T02:28:35+00:00
+2026-11-20T02:28:55+00:00,li tu v schoolkate,True,Li Tu,polyus,0.46,Tristan Schoolkate,kalshi,0.49,0.9848,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-20T02:28:45+00:00
+2026-11-20T02:28:55+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.45,Juan Manuel La Serna,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-20T02:28:35+00:00
+2026-11-20T02:29:05+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.42,Tristan Schoolkate,polyus,0.22,0.669,0.0,0.0,0.0,0.0,0.79,,,0.0,True,2026-11-20T02:29:05+00:00
+2026-11-20T02:29:15+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.42,Tristan Schoolkate,polyus,0.21,0.6586,0.0,0.0,0.0,0.0,0.8,,,0.0,True,2026-11-20T02:29:05+00:00
+2026-11-20T02:29:25+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.42,Tristan Schoolkate,polyus,0.2,0.6482,0.0,0.0,0.0,0.0,0.81,,,0.0,True,2026-11-20T02:29:05+00:00
+2026-11-20T02:29:25+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.44,Juan Manuel La Serna,kalshi,0.51,0.9846,0.0,0.0,0.0,0.0,,0.57,,0.0,True,2026-11-20T02:29:25+00:00
