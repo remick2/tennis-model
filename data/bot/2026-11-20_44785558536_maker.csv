@@ -102,3 +102,9 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-20T19:50:48+00:00,herbert v passaro,True,polyus:aec-atp-frapas-pieher-2026-11-20:0,0.59,84,False,0.0135,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20PASHER-PAS:no,0.43,-3.12,-3.11,-3.11,True
 2026-11-20T19:52:10+00:00,chidekh v kozlov,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KOZCHI-CHI:yes,0.94,53,False,0.0067,2.0,hedged,polyus:aec-atp-stekoz-clechi-2026-11-20:0,0.06,-0.21,-0.77,-0.21,True
 2026-11-20T19:56:20+00:00,medvedev v tiafoe,True,polyus:aec-atp-danmed-fratia-2026-11-15:0,0.67,74,False,0.005,2.0,unwound,kalshi:KXATPMATCH-26NOV17MEDTIA-TIA:yes,0.34,-1.9,-1.89,-1.89,True
+2026-11-20T19:58:25+00:00,medvedev v tiafoe,True,kalshi:KXATPMATCH-26NOV17MEDTIA-MED:yes,0.67,74,False,0.0115,2.5,hedged,polyus:aec-atp-danmed-fratia-2026-11-15:1,0.3,0.85,-2.94,0.85,True
+2026-11-20T20:05:41+00:00,batalla v seyboth,True,kalshi:KXATPCHALLENGERMATCH-26NOV20ROCSEY-SEY:yes,0.95,52,False,0.0073,2.0,hedged,polyus:aec-atp-oribat-thiwil-2026-11-20:0,0.06,-0.72,-0.73,-0.72,True
+2026-11-20T20:05:41+00:00,batalla v seyboth,True,polyus:aec-atp-oribat-thiwil-2026-11-20:1,0.95,52,False,0.0073,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20ROCSEY-SEY:no,0.06,-0.73,-0.72,-0.72,True
+2026-11-20T20:06:29+00:00,herbert v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV20PASHER-HER:yes,0.54,92,False,0.013,1.7,hedged,polyus:aec-atp-frapas-pieher-2026-11-20:0,0.48,-3.44,-5.29,-3.44,True
+2026-11-20T20:07:51+00:00,herbert v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV20PASHER-HER:yes,0.51,98,False,0.0127,2.1,hedged,polyus:aec-atp-frapas-pieher-2026-11-20:0,0.5,-2.68,-3.67,-2.68,True
+2026-11-20T20:10:21+00:00,batalla v seyboth,True,polyus:aec-atp-oribat-thiwil-2026-11-20:0,0.09,555,True,0.0131,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20ROCSEY-SEY:yes,0.92,-8.41,-8.39,-8.39,True
