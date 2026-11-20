@@ -1,13 +1,13 @@
-# Phase 2 scorecard  (Fri Nov 20 1:17PM MT)
+# Phase 2 scorecard  (Fri Nov 20 2:17PM MT)
 
-Snapshots: 489 runs, Nov 3 to Nov 20 20:17Z. Phase 3 gate (GATE row): US-venue price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
+Snapshots: 490 runs, Nov 3 to Nov 20 21:17Z. Phase 3 gate (GATE row): US-venue price flags beat the close on average (CLV > 0 by ~2 SE) over 100+ graded sides.
 
 | group                                                  |   sides |   avg_price_edge_c |   with_close |   avg_clv_c |   clv_se_c |   beat_close_% |   settled |   won |   roi_% |   roi_se_% |
 |:-------------------------------------------------------|--------:|-------------------:|-------------:|------------:|-----------:|---------------:|----------:|------:|--------:|-----------:|
 | GATE: price flag on US venues (Kalshi + Polymarket US) |       0 |             nan    |          nan |      nan    |     nan    |         nan    |       nan |   nan |  nan    |     nan    |
 | price flag, all venues incl. Polymarket intl           |       3 |               2.69 |            3 |        0.32 |       2.27 |          66.67 |         3 |     2 |    6.57 |      22.82 |
 | model+price flag (alert rule)                          |       3 |               2.69 |            3 |        0.32 |       2.27 |          66.67 |         3 |     2 |    6.57 |      22.82 |
-| all sides (baseline)                                   |     281 |              -1.93 |          281 |       -1.93 |       0.12 |          14.23 |       253 |   126 |   -3.5  |       7.16 |
+| all sides (baseline)                                   |     281 |              -1.93 |          281 |       -1.93 |       0.12 |          14.23 |       259 |   129 |   -4.14 |       7.03 |
 
 ## Kalshi + Polymarket arbitrage check (best combo per match, all-in)
 
@@ -30,4 +30,4 @@ Snapshots: 489 runs, Nov 3 to Nov 20 20:17Z. Phase 3 gate (GATE row): US-venue p
 | 2026-11-17 |     28 |       0.9392 |        59 |            75 |
 | 2026-11-18 |     29 |       0.4875 |        42 |            55 |
 | 2026-11-19 |     29 |       0.84   |        24 |            31 |
-| 2026-11-20 |     25 |       0.9878 |         9 |            17 |
+| 2026-11-20 |     26 |       0.9878 |         9 |            17 |
