@@ -145,3 +145,29 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-20T17:44:29+00:00,svrcina v virtanen,True,Dalibor Svrcina,kalshi,0.24,Otto Virtanen,polyus,0.71,0.9771,0.0,0.0,0.0,0.0,0.3,,,0.0,True,2026-11-20T17:44:29+00:00
 2026-11-20T17:45:19+00:00,svrcina v virtanen,True,Dalibor Svrcina,polyus,0.21,Otto Virtanen,kalshi,0.71,0.9459,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-20T17:45:19+00:00
 2026-11-20T17:45:29+00:00,svrcina v virtanen,True,Dalibor Svrcina,polyus,0.21,Otto Virtanen,kalshi,0.71,0.9459,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-20T17:45:19+00:00
+2026-11-20T17:46:59+00:00,svrcina v virtanen,True,Dalibor Svrcina,polyus,0.13,Otto Virtanen,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-20T17:46:59+00:00
+2026-11-20T17:47:49+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.45,Jordan Lee,polyus,0.51,0.9947,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-20T17:47:49+00:00
+2026-11-20T17:50:59+00:00,mayot v montes,True,Harold Mayot,kalshi,0.83,Inaki Montes,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-20T17:50:59+00:00
+2026-11-20T17:52:09+00:00,mayot v montes,True,Harold Mayot,polyus,0.83,Inaki Montes-de la Torre,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-20T17:52:09+00:00
+2026-11-20T17:52:19+00:00,mayot v montes,True,Harold Mayot,polyus,0.83,Inaki Montes-de la Torre,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-20T17:52:09+00:00
+2026-11-20T17:52:29+00:00,mayot v montes,True,Harold Mayot,polyus,0.83,Inaki Montes-de la Torre,kalshi,0.15,0.9987,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-20T17:52:09+00:00
+2026-11-20T17:52:39+00:00,mayot v montes,True,Harold Mayot,kalshi,0.83,Inaki Montes,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-20T17:52:39+00:00
+2026-11-20T17:52:49+00:00,mayot v montes,True,Harold Mayot,kalshi,0.83,Inaki Montes,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-20T17:52:39+00:00
+2026-11-20T17:52:59+00:00,mayot v montes,True,Harold Mayot,kalshi,0.83,Inaki Montes,polyus,0.15,0.9987,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-20T17:52:39+00:00
+2026-11-20T17:53:29+00:00,bronzetti v strakhova,True,Lucia Bronzetti,polyus,0.73,Valeriya Strakhova,kalshi,0.23,0.9861,0.0,0.0,0.0,0.0,,0.28,,0.0,True,2026-11-20T17:53:29+00:00
+2026-11-20T17:53:29+00:00,mayot v montes,True,Harold Mayot,polyus,0.83,Inaki Montes-de la Torre,kalshi,0.14,0.9882,0.0,0.0,0.0,0.0,,0.18,,0.0,True,2026-11-20T17:53:29+00:00
+2026-11-20T17:54:09+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.46,Jordan Lee,polyus,0.5,0.9948,0.0,0.0,0.0,0.0,0.51,,,0.0,True,2026-11-20T17:54:09+00:00
+2026-11-20T17:54:49+00:00,bronzetti v strakhova,True,Lucia Bronzetti,polyus,0.71,Valeriya Strakhova,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-20T17:54:49+00:00
+2026-11-20T17:54:59+00:00,bronzetti v strakhova,True,Lucia Bronzetti,polyus,0.71,Valeriya Strakhova,kalshi,0.26,0.9978,0.0,0.0,0.0,0.0,,0.3,,0.0,True,2026-11-20T17:54:49+00:00
+2026-11-20T17:55:29+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.42,Jordan Lee,polyus,0.54,0.9943,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-20T17:55:29+00:00
+2026-11-20T17:55:39+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.42,Jordan Lee,polyus,0.53,0.9844,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-20T17:55:29+00:00
+2026-11-20T17:56:09+00:00,bronzetti v strakhova,True,Lucia Bronzetti,polyus,0.68,Valeriya Strakhova,kalshi,0.28,0.9892,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-20T17:56:09+00:00
+2026-11-20T17:56:19+00:00,bronzetti v strakhova,True,Lucia Bronzetti,polyus,0.68,Valeriya Strakhova,kalshi,0.28,0.9892,0.0,0.0,0.0,0.0,,0.33,,0.1,True,2026-11-20T17:56:09+00:00
+2026-11-20T17:56:39+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.41,Jordan Lee,polyus,0.55,0.9941,0.0,0.0,0.0,0.0,0.46,,,0.0,True,2026-11-20T17:56:39+00:00
+2026-11-20T17:56:49+00:00,lee v wendelken,True,Harry Wendelken,kalshi,0.41,Jordan Lee,polyus,0.55,0.9941,0.0,0.0,0.0,0.0,0.46,,,0.0,True,2026-11-20T17:56:39+00:00
+2026-11-20T17:59:19+00:00,bronzetti v strakhova,True,Lucia Bronzetti,kalshi,0.72,Valeriya Strakhova,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-20T17:59:19+00:00
+2026-11-20T18:00:19+00:00,bronzetti v strakhova,True,Lucia Bronzetti,polyus,0.69,Valeriya Strakhova,kalshi,0.27,0.9887,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-20T18:00:19+00:00
+2026-11-20T18:00:29+00:00,bronzetti v strakhova,True,Lucia Bronzetti,polyus,0.69,Valeriya Strakhova,kalshi,0.27,0.9887,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-20T18:00:19+00:00
+2026-11-20T18:00:29+00:00,mayot v montes,True,Harold Mayot,polyus,0.84,Inaki Montes-de la Torre,kalshi,0.14,0.9978,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-20T18:00:29+00:00
+2026-11-20T18:00:39+00:00,mayot v montes,True,Harold Mayot,polyus,0.84,Inaki Montes-de la Torre,kalshi,0.14,0.9978,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-20T18:00:29+00:00
+2026-11-20T18:00:49+00:00,mayot v montes,True,Harold Mayot,polyus,0.84,Inaki Montes-de la Torre,kalshi,0.14,0.9978,0.0,0.0,0.0,0.0,,0.17,,0.0,True,2026-11-20T18:00:29+00:00
