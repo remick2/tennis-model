@@ -225,3 +225,16 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-20T04:21:00+00:00,aguiard v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV19SEKAGU-AGU:yes,0.31,161,False,0.0144,2.0,hedged,polyus:aec-atp-phisek-enzagu-2026-11-20:0,0.71,-5.52,-5.54,-5.52,True
 2026-11-20T04:21:44+00:00,aguiard v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV19SEKAGU-AGU:yes,0.27,185,False,0.0057,1.9,hedged,polyus:aec-atp-phisek-enzagu-2026-11-20:0,0.8,-15.01,-15.02,-15.01,True
 2026-11-20T04:24:08+00:00,harris v hassan,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HARHAS-HAR:yes,0.27,185,False,0.0057,2.0,hedged,polyus:aec-atp-bilhar-benhas-2026-11-19:1,0.75,-6.11,-6.13,-6.11,True
+2026-11-20T04:25:06+00:00,harris v hassan,True,polyus:aec-atp-bilhar-benhas-2026-11-19:1,0.75,66,True,0.0076,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19HARHAS-HAS:no,0.28,-2.91,-2.9,-2.9,True
+2026-11-20T04:25:42+00:00,harris v hassan,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HARHAS-HAS:yes,0.7,71,False,0.006,2.0,hedged,polyus:aec-atp-bilhar-benhas-2026-11-19:0,0.32,-2.49,-2.5,-2.49,True
+2026-11-20T04:27:10+00:00,aguiard v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV19SEKAGU-SEK:yes,0.86,58,False,0.0127,2.0,hedged,polyus:aec-atp-phisek-enzagu-2026-11-20:1,0.15,-1.09,-1.1,-1.09,True
+2026-11-20T04:27:26+00:00,daniel v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-DAN:yes,0.59,84,False,0.0136,2.0,hedged,polyus:aec-atp-yoswat-tardan-2026-11-19:0,0.41,-1.41,-2.27,-1.41,True
+2026-11-20T04:27:53+00:00,daniel v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-DAN:yes,0.55,90,False,0.0131,2.5,hedged,polyus:aec-atp-yoswat-tardan-2026-11-19:0,0.47,-3.36,-3.37,-3.36,True
+2026-11-20T04:30:06+00:00,harris v hassan,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HARHAS-HAR:yes,0.12,416,False,0.0116,1.9,hedged,polyus:aec-atp-bilhar-benhas-2026-11-19:1,0.89,-6.99,-7.01,-6.99,True
+2026-11-20T04:31:00+00:00,jasika v moriya,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MORJAS-JAS:yes,0.97,51,True,0.0086,2.0,hedged,polyus:aec-atp-hirmor-omajas-2026-11-19:0,0.03,-0.1,-0.65,-0.1,True
+2026-11-20T04:31:36+00:00,jasika v moriya,True,polyus:aec-atp-hirmor-omajas-2026-11-19:1,0.95,52,True,0.0073,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19MORJAS-MOR:yes,0.06,-0.73,-0.72,-0.72,True
+2026-11-20T04:32:10+00:00,jasika v moriya,True,kalshi:KXATPCHALLENGERMATCH-26NOV19MORJAS-MOR:yes,0.04,1250,False,0.0067,1.8,hedged,polyus:aec-atp-hirmor-omajas-2026-11-19:1,0.97,-15.03,-15.05,-15.03,True
+2026-11-20T04:33:08+00:00,daniel v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV19WATDAN-DAN:yes,0.44,113,False,0.0127,2.0,hedged,polyus:aec-atp-yoswat-tardan-2026-11-19:0,0.57,-3.05,-3.07,-3.05,True
+2026-11-20T04:34:04+00:00,harris v hassan,True,polyus:aec-atp-bilhar-benhas-2026-11-19:0,0.06,833,True,0.0148,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19HARHAS-HAS:yes,0.95,-11.1,-11.08,-11.08,True
+2026-11-20T04:34:42+00:00,harris v hassan,True,kalshi:KXATPCHALLENGERMATCH-26NOV19HARHAS-HAR:yes,0.04,1250,False,0.0067,2.0,hedged,polyus:aec-atp-bilhar-benhas-2026-11-19:1,0.97,-15.03,-15.05,-15.03,True
+2026-11-20T04:34:42+00:00,harris v hassan,True,polyus:aec-atp-bilhar-benhas-2026-11-19:0,0.04,1250,False,0.0067,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV19HARHAS-HAS:yes,0.97,-15.05,-15.03,-15.03,True
