@@ -1,4 +1,4 @@
-# Dry-run bot (Fri Nov 20 2:50AM MT)
+# Dry-run bot (Fri Nov 20 3:05AM MT)
 
 Paper only: no keys, no real orders. Started 2026-11-14 with $700 (Kalshi $345, Polymarket US $355).
 
