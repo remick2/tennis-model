@@ -600,3 +600,31 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-20T03:14:25+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.87,Juan Manuel La Serna,polyus,0.09,0.9736,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-20T03:14:25+00:00
 2026-11-20T03:14:35+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.87,Juan Manuel La Serna,polyus,0.09,0.9736,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-20T03:14:25+00:00
 2026-11-20T03:14:45+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.87,Juan Manuel La Serna,polyus,0.09,0.9736,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-20T03:14:25+00:00
+2026-11-20T03:17:25+00:00,aguiard v sekulic,True,Enzo Aguiard,kalshi,0.36,Philip Sekulic,polyus,0.6,0.9928,0.0,0.0,0.0,0.0,0.41,,,0.0,True,2026-11-20T03:17:25+00:00
+2026-11-20T03:17:35+00:00,aguiard v sekulic,True,Enzo Aguiard,kalshi,0.36,Philip Sekulic,polyus,0.6,0.9928,0.0,0.0,0.0,0.0,0.41,,,0.0,True,2026-11-20T03:17:25+00:00
+2026-11-20T03:20:15+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.89,Juan Manuel La Serna,kalshi,0.09,0.9925,0.0,0.0,0.0,0.0,,0.13,,0.0,True,2026-11-20T03:20:15+00:00
+2026-11-20T03:21:15+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.88,Juan Manuel La Serna,polyus,0.09,0.9831,0.0,0.0,0.0,0.0,0.92,,,0.0,True,2026-11-20T03:21:15+00:00
+2026-11-20T03:21:15+00:00,friend v zhou,True,Jay Friend,kalshi,0.97,Yi Zhou,polyus,0.02,0.9934,0.0,0.0,0.0,0.0,0.99,,,0.0,True,2026-11-20T03:21:15+00:00
+2026-11-20T03:22:05+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.87,Juan Manuel La Serna,kalshi,0.09,0.9736,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-20T03:22:05+00:00
+2026-11-20T03:22:15+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.87,Juan Manuel La Serna,kalshi,0.09,0.9736,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-20T03:22:05+00:00
+2026-11-20T03:22:25+00:00,aguiard v sekulic,True,Enzo Aguiard,polyus,0.21,Philip Sekulic,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-20T03:22:25+00:00
+2026-11-20T03:22:35+00:00,aguiard v sekulic,True,Enzo Aguiard,polyus,0.21,Philip Sekulic,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-20T03:22:25+00:00
+2026-11-20T03:22:45+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.87,Juan Manuel La Serna,polyus,0.08,0.963,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-20T03:22:45+00:00
+2026-11-20T03:22:45+00:00,aguiard v sekulic,True,Enzo Aguiard,polyus,0.21,Philip Sekulic,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-20T03:22:25+00:00
+2026-11-20T03:22:55+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.87,Juan Manuel La Serna,polyus,0.08,0.963,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-20T03:22:45+00:00
+2026-11-20T03:22:55+00:00,aguiard v sekulic,True,Enzo Aguiard,polyus,0.21,Philip Sekulic,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-20T03:22:25+00:00
+2026-11-20T03:23:05+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.87,Juan Manuel La Serna,polyus,0.08,0.963,0.0,0.0,0.0,0.0,0.93,,,0.0,True,2026-11-20T03:22:45+00:00
+2026-11-20T03:23:05+00:00,aguiard v sekulic,True,Enzo Aguiard,polyus,0.21,Philip Sekulic,kalshi,0.76,0.9943,0.0,0.0,0.0,0.0,,0.8,,0.0,True,2026-11-20T03:22:25+00:00
+2026-11-20T03:23:45+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.87,Juan Manuel La Serna,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-20T03:23:45+00:00
+2026-11-20T03:23:55+00:00,aguiard v sekulic,True,Enzo Aguiard,polyus,0.18,Philip Sekulic,kalshi,0.78,0.9823,0.0,0.0,0.0,0.0,,0.83,,0.0,True,2026-11-20T03:23:55+00:00
+2026-11-20T03:23:55+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.87,Juan Manuel La Serna,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-20T03:23:45+00:00
+2026-11-20T03:24:05+00:00,aguiard v sekulic,True,Enzo Aguiard,polyus,0.18,Philip Sekulic,kalshi,0.78,0.9823,0.0,0.0,0.0,0.0,,0.83,,0.0,True,2026-11-20T03:23:55+00:00
+2026-11-20T03:24:05+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.87,Juan Manuel La Serna,kalshi,0.1,0.9842,0.0,0.0,0.0,0.0,,0.14,,0.0,True,2026-11-20T03:23:45+00:00
+2026-11-20T03:24:45+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.76,Juan Manuel La Serna,kalshi,0.14,0.9211,0.0,0.0,0.0,0.0,,0.24,,0.0,True,2026-11-20T03:24:45+00:00
+2026-11-20T03:24:55+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.76,Juan Manuel La Serna,kalshi,0.14,0.9211,0.0,0.0,0.0,0.0,,0.25,,0.0,True,2026-11-20T03:24:45+00:00
+2026-11-20T03:25:05+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.76,Juan Manuel La Serna,kalshi,0.14,0.9211,0.0,0.0,0.0,0.0,,0.26,,0.0,True,2026-11-20T03:24:45+00:00
+2026-11-20T03:25:45+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.63,Juan Manuel La Serna,kalshi,0.25,0.9093,0.0,0.0,0.0,0.0,,0.37,,0.0,True,2026-11-20T03:25:45+00:00
+2026-11-20T03:28:25+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.65,Juan Manuel La Serna,kalshi,0.29,0.9702,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-20T03:28:25+00:00
+2026-11-20T03:28:35+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.65,Juan Manuel La Serna,kalshi,0.29,0.9702,0.0,0.0,0.0,0.0,,0.36,,0.0,True,2026-11-20T03:28:25+00:00
+2026-11-20T03:29:55+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.56,Juan Manuel La Serna,kalshi,0.39,0.9838,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-20T03:29:55+00:00
+2026-11-20T03:30:05+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.55,Juan Manuel La Serna,kalshi,0.39,0.9739,0.0,0.0,0.0,0.0,,0.46,,0.0,True,2026-11-20T03:29:55+00:00
