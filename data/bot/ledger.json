@@ -1,8 +1,8 @@
 {
  "started": "2026-11-14T21:20:52+00:00",
  "cash": {
-  "kalshi": 24.74,
-  "polyus": 225.16
+  "kalshi": 23.09,
+  "polyus": 75.24
  },
  "open": [
   {
@@ -56,11 +56,24 @@
    },
    "cost": 178.4,
    "expected": 1.59
+  },
+  {
+   "id": "347cc5d20687",
+   "key": "lee v martin",
+   "opened": "2026-11-20T00:18:39+00:00",
+   "kalshi_ticker": "KXATPCHALLENGERMATCH-26NOV19LEEMAR-MAR",
+   "kalshi_side": "yes",
+   "shares": {
+    "kalshi": 154.0,
+    "polyus": 154.0
+   },
+   "cost": 151.57,
+   "expected": 2.43
   }
  ],
  "settled_pnl": 331.23,
  "unwind_pnl": -73.49,
- "fires": 96,
+ "fires": 97,
  "settled": 77,
  "rebalances": 18
 }
