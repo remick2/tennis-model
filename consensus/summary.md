@@ -1,4 +1,4 @@
-# Consensus paper tracker — Thu Nov 19, 7:40PM MT
+# Consensus paper tracker — Thu Nov 19, 8:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 4-1 | +0.36 | 0 |
-| 2 agree | all 15 | 26-24 | -2.84 | 28-25 | -4.97 | 12 |
-| 2+ agree, 1+ against (split) | all 15 | 27-17 | +9.70 | 29-24 | +2.93 | 8 |
+| 2 agree | all 15 | 29-28 | -4.81 | 28-25 | -4.97 | 5 |
+| 2+ agree, 1+ against (split) | all 15 | 28-19 | +7.83 | 30-27 | +0.37 | 1 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 0 |
-| 2 agree | core 10 only | 16-13 | +1.30 | 15-11 | -1.25 | 6 |
-| 2+ agree, 1+ against (split) | core 10 only | 10-5 | +5.46 | 11-9 | -1.33 | 3 |
+| 2 agree | core 10 only | 18-14 | +0.61 | 15-11 | -1.25 | 3 |
+| 2+ agree, 1+ against (split) | core 10 only | 10-6 | +4.46 | 12-9 | -0.89 | 1 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 10 of 30 graded plays · net +5.47u · 8 wins vs 5.5 expected, z = +1.64 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
@@ -22,8 +22,8 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Graded | Wins vs expected | Units at logged price | Units after spread + fees | Price move by game time |
 |---|---|---|---|---|---|
 | 3+ agree (paper play) | 10 | 8 vs 5.5 (+2.5) | +5.83 | +5.47 | +1.75c avg (10) |
-| 2 agree | 50 | 26 vs 26.6 (-0.6) | -2.84 | -4.33 | +0.45c avg (50) |
-| 2+ agree, 1+ against (split) | 44 | 27 vs 21.9 (+5.1) | +9.70 | +8.13 | +0.32c avg (44) |
+| 2 agree | 57 | 29 vs 30.5 (-1.5) | -4.81 | -6.45 | +0.38c avg (57) |
+| 2+ agree, 1+ against (split) | 47 | 28 vs 23.1 (+4.9) | +7.83 | +6.17 | +0.30c avg (47) |
 
 Units after spread + fees = paying the ask (or logged price + 0.5c when the ask wasn't recorded) plus Polymarket's taker fee (rate x (1 - price) of the stake, about 2.5% at 50c). Price move = closing price minus logged price; sharp signals should see the price move their way before the game.
 
@@ -35,9 +35,9 @@ Units after spread + fees = paying the ask (or logged price + 0.5c when the ask 
 | 3+ agree (paper play) | Coin flip (45-65c) | 4-2 | +1.59 | 4 | 3.3 | +0.7 |
 | 3+ agree (paper play) | Favorite (65-80c) | 2-0 | +0.77 | 2 | 1.5 | +0.5 |
 | 2 agree | Underdog (<45c) | 3-8 | -3.62 | 3 | 4.0 | -1.0 |
-| 2 agree | Coin flip (45-65c) | 17-14 | +1.04 | 17 | 16.4 | +0.6 |
+| 2 agree | Coin flip (45-65c) | 19-18 | -1.11 | 19 | 19.5 | -0.5 |
 | 2 agree | Favorite (65-80c) | 3-2 | -0.82 | 3 | 3.6 | -0.6 |
-| 2 agree | Heavy favorite (80c+) | 3-0 | +0.56 | 3 | 2.5 | +0.5 |
+| 2 agree | Heavy favorite (80c+) | 4-0 | +0.74 | 4 | 3.4 | +0.6 |
 
 ## Old roster (Nov 3 – Nov 7, closed)
 
@@ -82,19 +82,5 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+16.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 52.5c |
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
 | new | 2026-11-22 | NFL | Buccaneers vs. Lions | Buccaneers (+6.5) (Spread) | 2 agree, 1 against | pre-game | 0xb4F978BE; bands1 | ic4cream | 47.5c |
-| new | 2026-11-19 | NBA | Knicks vs. Timberwolves | Timberwolves (Moneyline) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; purplegatto | — | 48.5c |
-| new | 2026-11-19 | NBA | Knicks vs. Timberwolves | Over 216.5 (Total) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; JoeyAroyyOO | — | 50.5c |
-| new | 2026-11-19 | NBA | Knicks vs. Timberwolves | Over 215.5 (Total) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; JoeyAroyyOO | — | 54.5c |
-| new | 2026-11-19 | NBA | Clippers vs. Spurs | Spurs (Moneyline) | 2 agree, 1 against | pre-game | purplegatto; jakepaulthegoat2008 | JoeyAroyyOO | 88.5c |
-| new | 2026-11-19 | NBA | Clippers vs. Spurs | Clippers (Moneyline) | 2 agree, 1 against | pre-game | purplegatto; JoeyAroyyOO | jakepaulthegoat2008 | 11.5c |
-| new | 2026-11-19 | NBA | Warriors vs. Grizzlies | Over 223.5 (Total) | 2 agree, 0 against | pre-game | monkeymashingkeyboard; JoeyAroyyOO | — | 53.5c |
-| new | 2026-11-19 | NFL | Colts vs. Texans | Texans (Moneyline) | 2 agree, 0 against | pre-game | purplegatto; 999585 | — | 84.5c |
-| new | 2026-11-19 | NBA | Trail Blazers vs. Bucks | Bucks (Moneyline) | 2 agree, 1 against | pre-game | jakepaulthegoat2008; drainedandpoor | purplegatto | 22.5c |
 | new | 2026-11-19 | NBA | Clippers vs. Spurs | Under 223.5 (Total) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; JoeyAroyyOO | — | 48.5c |
-| new | 2026-11-19 | NBA | Trail Blazers vs. Bucks | Over 229.5 (Total) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; JoeyAroyyOO | — | 50.5c |
-| new | 2026-11-19 | NBA | Trail Blazers vs. Bucks | Bucks (+9.5) (Spread) | 2 agree, 0 against | pre-game | drainedandpoor; BreakTheBank | — | 50.5c |
-| new | 2026-11-19 | NBA | Knicks vs. Timberwolves | Knicks (Moneyline) | 2 agree, 2 against | in-play | jakepaulthegoat2008; drainedandpoor | monkeymashingkeyboard; purplegatto | 69.5c |
-| new | 2026-11-19 | NBA | Knicks vs. Timberwolves | Timberwolves (+1.5) (Spread) | 2 agree, 1 against | in-play | monkeymashingkeyboard; ianf2026 | purplegatto | 31.5c |
-| new | 2026-11-19 | NBA | Warriors vs. Grizzlies | Warriors (Moneyline) | 2 agree, 1 against | in-play | jakepaulthegoat2008; JoeyAroyyOO | BreakTheBank | 23.5c |
-| new | 2026-11-19 | NBA | Warriors vs. Grizzlies | Warriors (+5.5) (Spread) | 2 agree, 1 against | in-play | drainedandpoor; ianf2026 | BreakTheBank | 38.5c |
 | new | 2026-11-19 | NBA | Clippers vs. Spurs | Over 225.5 (Total) | 2 agree, 0 against | in-play | 0xb4F978BE; JoeyAroyyOO | — | 84.5c |
