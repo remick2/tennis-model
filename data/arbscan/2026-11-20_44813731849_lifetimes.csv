@@ -1,0 +1,17 @@
+key,legs,first_seen,closed_by,kind,minutes,min_minutes
+medvedev v tiafoe,Daniil Medvedev@polyus + Frances Tiafoe@kalshi,2026-11-20T20:55:57+00:00,2026-11-20T20:56:17+00:00,any,0.3,0.2
+chidekh v kozlov,Clement Chidekh@kalshi + Stefan Kozlov@polyus,2026-11-20T20:55:47+00:00,2026-11-20T20:56:57+00:00,any,1.2,1.0
+chidekh v kozlov,Clement Chidekh@polyus + Stefan Kozlov@kalshi,2026-11-20T20:57:17+00:00,2026-11-20T20:57:37+00:00,any,0.3,0.2
+medvedev v tiafoe,Daniil Medvedev@kalshi + Frances Tiafoe@polyus,2026-11-20T20:57:17+00:00,2026-11-20T20:57:47+00:00,any,0.5,0.3
+chidekh v kozlov,Clement Chidekh@polyus + Stefan Kozlov@kalshi,2026-11-20T20:58:07+00:00,2026-11-20T20:58:37+00:00,any,0.5,0.3
+medvedev v tiafoe,Daniil Medvedev@polyus + Frances Tiafoe@kalshi,2026-11-20T20:58:17+00:00,2026-11-20T20:58:37+00:00,any,0.3,0.2
+medvedev v tiafoe,Daniil Medvedev@kalshi + Frances Tiafoe@polyus,2026-11-20T20:58:57+00:00,2026-11-20T20:59:37+00:00,any,0.7,0.5
+chidekh v kozlov,Clement Chidekh@polyus + Stefan Kozlov@kalshi,2026-11-20T20:59:17+00:00,2026-11-20T20:59:47+00:00,any,0.5,0.3
+medvedev v tiafoe,Daniil Medvedev@kalshi + Frances Tiafoe@polyus,2026-11-20T20:59:57+00:00,2026-11-20T21:00:07+00:00,any,0.2,0.0
+chidekh v kozlov,Clement Chidekh@kalshi + Stefan Kozlov@polyus,2026-11-20T20:59:47+00:00,2026-11-20T21:00:17+00:00,any,0.5,0.3
+chidekh v kozlov,Clement Chidekh@kalshi + Stefan Kozlov@polyus,2026-11-20T21:00:37+00:00,2026-11-20T21:00:47+00:00,any,0.2,0.0
+medvedev v tiafoe,Daniil Medvedev@polyus + Frances Tiafoe@kalshi,2026-11-20T21:03:07+00:00,2026-11-20T21:03:27+00:00,any,0.3,0.2
+medvedev v tiafoe,Daniil Medvedev@kalshi + Frances Tiafoe@polyus,2026-11-20T21:03:27+00:00,2026-11-20T21:03:57+00:00,any,0.5,0.3
+artnak v young,Bor Artnak@polyus + Gavin Young@kalshi,2026-11-20T21:05:07+00:00,2026-11-20T21:05:27+00:00,any,0.3,0.2
+artnak v young,Bor Artnak@kalshi + Gavin Young@polyus,2026-11-20T21:05:27+00:00,2026-11-20T21:05:37+00:00,any,0.2,0.0
+artnak v young,Bor Artnak@kalshi + Gavin Young@polyus,2026-11-20T21:05:47+00:00,2026-11-20T21:05:57+00:00,any,0.2,0.0
