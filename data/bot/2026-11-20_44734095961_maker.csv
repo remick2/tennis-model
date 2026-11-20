@@ -120,3 +120,15 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-20T16:27:42+00:00,svrcina v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-SVR:yes,0.16,312,False,0.0097,1.9,hedged,polyus:aec-atp-dalsvr-ottvir-2026-11-20:1,0.85,-5.88,-5.9,-5.88,True
 2026-11-20T16:27:48+00:00,burillo v gormaz,True,kalshi:KXWTACHALLENGERMATCH-26NOV20ROMBUR-BUR:yes,0.1,500,True,0.0127,2.0,hedged,polyus:aec-wta-leygor-ireesc-2026-11-20:0,0.88,6.33,-7.87,6.33,True
 2026-11-20T16:30:56+00:00,svrcina v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-VIR:yes,0.78,64,False,0.0089,2.0,hedged,polyus:aec-atp-dalsvr-ottvir-2026-11-20:0,0.24,-2.09,-2.76,-2.09,True
+2026-11-20T16:31:20+00:00,svrcina v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-VIR:yes,0.72,69,False,0.0066,2.0,hedged,polyus:aec-atp-dalsvr-ottvir-2026-11-20:0,0.24,1.89,-3.1,1.89,True
+2026-11-20T16:32:56+00:00,svrcina v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-SVR:yes,0.28,178,False,0.0054,2.0,hedged,polyus:aec-atp-dalsvr-ottvir-2026-11-20:1,0.74,-5.94,-5.96,-5.94,True
+2026-11-20T16:33:28+00:00,svrcina v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-VIR:yes,0.72,69,False,0.0066,2.0,hedged,polyus:aec-atp-dalsvr-ottvir-2026-11-20:0,0.3,-2.39,-2.39,-2.39,True
+2026-11-20T16:33:28+00:00,svrcina v virtanen,True,polyus:aec-atp-dalsvr-ottvir-2026-11-20:1,0.71,70,False,0.0062,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-VIR:no,0.3,-1.73,-1.72,-1.72,True
+2026-11-20T16:35:06+00:00,johnson v tarvet,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TARJOH-JOH:yes,0.2,250,True,0.0081,2.0,hedged,polyus:aec-atp-olitar-spejoh-2026-11-20:0,0.82,-7.56,-7.58,-7.56,True
+2026-11-20T16:36:04+00:00,johnson v tarvet,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TARJOH-JOH:yes,0.15,333,True,0.0102,1.9,hedged,polyus:aec-atp-olitar-spejoh-2026-11-20:0,0.88,-12.43,-12.45,-12.43,True
+2026-11-20T16:39:50+00:00,svrcina v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-SVR:yes,0.27,185,False,0.0057,2.0,hedged,polyus:aec-atp-dalsvr-ottvir-2026-11-20:1,0.75,-6.11,-6.13,-6.11,True
+2026-11-20T16:39:50+00:00,svrcina v virtanen,True,polyus:aec-atp-dalsvr-ottvir-2026-11-20:0,0.27,185,False,0.0056,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-VIR:yes,0.75,-6.13,-6.11,-6.11,True
+2026-11-20T16:41:36+00:00,svrcina v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-VIR:yes,0.68,73,False,0.0054,2.0,hedged,polyus:aec-atp-dalsvr-ottvir-2026-11-20:0,0.34,-2.6,-2.61,-2.6,True
+2026-11-20T16:42:12+00:00,svrcina v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-SVR:yes,0.3,166,False,0.0146,2.0,hedged,polyus:aec-atp-dalsvr-ottvir-2026-11-20:1,0.71,-4.04,-4.05,-4.04,True
+2026-11-20T16:43:28+00:00,svrcina v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-SVR:yes,0.24,208,False,0.0066,1.9,hedged,polyus:aec-atp-dalsvr-ottvir-2026-11-20:1,0.77,-4.64,-6.66,-4.64,True
+2026-11-20T16:44:24+00:00,svrcina v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV20SVRVIR-SVR:yes,0.19,263,False,0.0085,2.0,hedged,polyus:aec-atp-dalsvr-ottvir-2026-11-20:1,0.86,-15.35,-15.37,-15.35,True
