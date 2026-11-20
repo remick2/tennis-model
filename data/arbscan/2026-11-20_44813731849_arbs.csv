@@ -304,3 +304,71 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-20T22:40:17+00:00,chan v dietrich,True,Duncan Chan,polyus,0.13,Dylan Dietrich,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-20T22:39:57+00:00
 2026-11-20T22:40:37+00:00,chan v dietrich,True,Duncan Chan,kalshi,0.13,Dylan Dietrich,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-20T22:40:37+00:00
 2026-11-20T22:40:47+00:00,chan v dietrich,True,Duncan Chan,kalshi,0.13,Dylan Dietrich,polyus,0.85,0.9968,0.0,0.0,0.0,0.0,0.16,,,0.1,True,2026-11-20T22:40:37+00:00
+2026-11-20T22:41:47+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.34,Shunsuke Mitsui,kalshi,0.61,0.9822,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-20T22:41:47+00:00
+2026-11-20T22:41:47+00:00,chan v dietrich,True,Duncan Chan,kalshi,0.14,Dylan Dietrich,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-20T22:41:47+00:00
+2026-11-20T22:41:57+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.34,Shunsuke Mitsui,kalshi,0.61,0.9822,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-20T22:41:47+00:00
+2026-11-20T22:41:57+00:00,chan v dietrich,True,Duncan Chan,kalshi,0.14,Dylan Dietrich,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.1,True,2026-11-20T22:41:47+00:00
+2026-11-20T22:42:07+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.29,Shunsuke Mitsui,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-20T22:41:47+00:00
+2026-11-20T22:42:17+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.29,Shunsuke Mitsui,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-20T22:41:47+00:00
+2026-11-20T22:42:27+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.26,Shunsuke Mitsui,kalshi,0.67,0.9588,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-20T22:41:47+00:00
+2026-11-20T22:42:27+00:00,chan v dietrich,True,Duncan Chan,kalshi,0.17,Dylan Dietrich,polyus,0.77,0.9622,0.0,0.0,0.0,0.0,0.24,,,0.1,True,2026-11-20T22:42:27+00:00
+2026-11-20T22:42:37+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.26,Shunsuke Mitsui,kalshi,0.71,0.9978,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-20T22:41:47+00:00
+2026-11-20T22:42:47+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.57,Guiomar Maristany Zuleta de Reales,kalshi,0.39,0.9937,0.0,0.0,0.0,0.0,,0.44,,0.1,True,2026-11-20T22:42:47+00:00
+2026-11-20T22:45:07+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.51,Guiomar Maristany Zuleta de Reales,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-20T22:45:07+00:00
+2026-11-20T22:45:17+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.51,Guiomar Maristany Zuleta de Reales,kalshi,0.45,0.9947,0.0,0.0,0.0,0.0,,0.5,,0.1,True,2026-11-20T22:45:07+00:00
+2026-11-20T22:45:27+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.48,Guiomar Maristany Zuleta de Reales,kalshi,0.45,0.9647,0.0,0.0,0.0,0.0,,0.53,,0.1,True,2026-11-20T22:45:07+00:00
+2026-11-20T22:46:07+00:00,chan v dietrich,True,Duncan Chan,polyus,0.15,Dylan Dietrich,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-20T22:46:07+00:00
+2026-11-20T22:46:17+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.41,Guiomar Maristany Zuleta de Reales,kalshi,0.53,0.9742,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-20T22:46:17+00:00
+2026-11-20T22:46:27+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.41,Guiomar Maristany Zuleta de Reales,kalshi,0.53,0.9742,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-20T22:46:17+00:00
+2026-11-20T22:46:47+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.27,Shunsuke Mitsui,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-20T22:46:47+00:00
+2026-11-20T22:46:57+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.34,Guiomar Maristany Zuleta de Reales,kalshi,0.6,0.9724,0.0,0.0,0.0,0.0,,0.67,,0.1,True,2026-11-20T22:46:57+00:00
+2026-11-20T22:46:57+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.27,Shunsuke Mitsui,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-20T22:46:47+00:00
+2026-11-20T22:47:07+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.33,Guiomar Maristany Zuleta de Reales,kalshi,0.6,0.9622,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-20T22:46:57+00:00
+2026-11-20T22:47:07+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.27,Shunsuke Mitsui,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-20T22:46:47+00:00
+2026-11-20T22:47:17+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.27,Shunsuke Mitsui,kalshi,0.7,0.9984,0.0,0.0,0.0,0.0,,0.74,,0.1,True,2026-11-20T22:46:47+00:00
+2026-11-20T22:47:27+00:00,chan v dietrich,True,Duncan Chan,kalshi,0.14,Dylan Dietrich,polyus,0.83,0.9882,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-20T22:47:27+00:00
+2026-11-20T22:47:57+00:00,chan v dietrich,True,Duncan Chan,polyus,0.12,Dylan Dietrich,kalshi,0.85,0.9863,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-20T22:47:57+00:00
+2026-11-20T22:48:07+00:00,chan v dietrich,True,Duncan Chan,polyus,0.12,Dylan Dietrich,kalshi,0.85,0.9863,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-20T22:47:57+00:00
+2026-11-20T22:48:17+00:00,chan v dietrich,True,Duncan Chan,polyus,0.12,Dylan Dietrich,kalshi,0.85,0.9863,0.0,0.0,0.0,0.0,,0.89,,0.1,True,2026-11-20T22:47:57+00:00
+2026-11-20T22:49:07+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.23,Guiomar Maristany Zuleta de Reales,kalshi,0.72,0.9764,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-20T22:49:07+00:00
+2026-11-20T22:49:17+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.29,Guiomar Maristany,polyus,0.67,0.9898,0.0,0.0,0.0,0.0,0.33,,,0.1,True,2026-11-20T22:49:17+00:00
+2026-11-20T22:49:57+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.34,Guiomar Maristany,polyus,0.58,0.9526,0.0,0.0,0.0,0.0,0.43,,,0.1,True,2026-11-20T22:49:57+00:00
+2026-11-20T22:50:07+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.34,Guiomar Maristany,polyus,0.58,0.9526,0.0,0.0,0.0,0.0,0.43,,,0.1,True,2026-11-20T22:49:57+00:00
+2026-11-20T22:50:17+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.34,Guiomar Maristany,polyus,0.58,0.9526,0.0,0.0,0.0,0.0,0.43,,,0.1,True,2026-11-20T22:49:57+00:00
+2026-11-20T22:50:37+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.33,Guiomar Maristany Zuleta de Reales,kalshi,0.58,0.9424,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-20T22:50:37+00:00
+2026-11-20T22:50:47+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.33,Guiomar Maristany Zuleta de Reales,kalshi,0.58,0.9424,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-20T22:50:37+00:00
+2026-11-20T22:50:57+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.33,Guiomar Maristany Zuleta de Reales,kalshi,0.58,0.9424,0.0,0.0,0.0,0.0,,0.71,,0.1,True,2026-11-20T22:50:37+00:00
+2026-11-20T22:51:07+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.33,Guiomar Maristany,polyus,0.58,0.9424,0.0,0.0,0.0,0.0,0.43,,,0.1,True,2026-11-20T22:51:07+00:00
+2026-11-20T22:51:17+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.33,Guiomar Maristany,polyus,0.58,0.9424,0.0,0.0,0.0,0.0,0.43,,,0.1,True,2026-11-20T22:51:07+00:00
+2026-11-20T22:51:27+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.33,Guiomar Maristany,polyus,0.58,0.9424,0.0,0.0,0.0,0.0,0.43,,,0.1,True,2026-11-20T22:51:07+00:00
+2026-11-20T22:51:37+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.33,Guiomar Maristany,polyus,0.59,0.9523,0.0,0.0,0.0,0.0,0.42,,,0.1,True,2026-11-20T22:51:07+00:00
+2026-11-20T22:51:37+00:00,almeida v alves,True,Felipe Meligeni Alves,polyus,0.15,Matheus Pucinelli de Almeida,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-20T22:51:37+00:00
+2026-11-20T22:51:57+00:00,chan v dietrich,True,Duncan Chan,polyus,0.06,Dylan Dietrich,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-20T22:51:57+00:00
+2026-11-20T22:52:07+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.44,Guiomar Maristany,polyus,0.49,0.9646,0.0,0.0,0.0,0.0,0.52,,,0.1,True,2026-11-20T22:52:07+00:00
+2026-11-20T22:52:07+00:00,chan v dietrich,True,Duncan Chan,polyus,0.06,Dylan Dietrich,kalshi,0.93,0.9985,0.0,0.0,0.0,0.0,,0.95,,0.1,True,2026-11-20T22:51:57+00:00
+2026-11-20T22:52:17+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.44,Guiomar Maristany,polyus,0.49,0.9646,0.0,0.0,0.0,0.0,0.52,,,0.1,True,2026-11-20T22:52:07+00:00
+2026-11-20T22:52:27+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.44,Guiomar Maristany,polyus,0.49,0.9646,0.0,0.0,0.0,0.0,0.52,,,0.1,True,2026-11-20T22:52:07+00:00
+2026-11-20T22:52:27+00:00,chan v dietrich,True,Duncan Chan,polyus,0.04,Dylan Dietrich,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-20T22:52:27+00:00
+2026-11-20T22:52:37+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.44,Guiomar Maristany,polyus,0.51,0.9846,0.0,0.0,0.0,0.0,0.5,,,0.1,True,2026-11-20T22:52:07+00:00
+2026-11-20T22:52:37+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.23,Shunsuke Mitsui,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-20T22:52:37+00:00
+2026-11-20T22:52:37+00:00,chan v dietrich,True,Duncan Chan,polyus,0.04,Dylan Dietrich,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-20T22:52:27+00:00
+2026-11-20T22:52:47+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.43,Guiomar Maristany Zuleta de Reales,kalshi,0.51,0.9745,0.0,0.0,0.0,0.0,,0.58,,0.1,True,2026-11-20T22:52:47+00:00
+2026-11-20T22:52:47+00:00,maxted v mitsui,True,Lui Maxted,polyus,0.23,Shunsuke Mitsui,kalshi,0.74,0.9958,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-20T22:52:37+00:00
+2026-11-20T22:52:47+00:00,chan v dietrich,True,Duncan Chan,polyus,0.04,Dylan Dietrich,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.1,True,2026-11-20T22:52:27+00:00
+2026-11-20T22:52:57+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.43,Guiomar Maristany Zuleta de Reales,kalshi,0.51,0.9745,0.0,0.0,0.0,0.0,,0.58,,0.1,True,2026-11-20T22:52:47+00:00
+2026-11-20T22:53:07+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.41,Guiomar Maristany Zuleta de Reales,kalshi,0.51,0.9543,0.0,0.0,0.0,0.0,,0.6,,0.1,True,2026-11-20T22:52:47+00:00
+2026-11-20T22:53:37+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.33,Guiomar Maristany Zuleta de Reales,kalshi,0.6,0.9622,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-20T22:53:37+00:00
+2026-11-20T22:53:47+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.33,Guiomar Maristany Zuleta de Reales,kalshi,0.6,0.9622,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-20T22:53:37+00:00
+2026-11-20T22:54:07+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.33,Guiomar Maristany,polyus,0.59,0.9523,0.0,0.0,0.0,0.0,0.42,,,0.1,True,2026-11-20T22:54:07+00:00
+2026-11-20T22:54:47+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.33,Guiomar Maristany Zuleta de Reales,kalshi,0.59,0.9523,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-20T22:54:47+00:00
+2026-11-20T22:54:47+00:00,almeida v alves,True,Felipe Meligeni Alves,polyus,0.13,Matheus Pucinelli de Almeida,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-20T22:54:47+00:00
+2026-11-20T22:54:57+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.33,Guiomar Maristany Zuleta de Reales,kalshi,0.59,0.9523,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-20T22:54:47+00:00
+2026-11-20T22:54:57+00:00,almeida v alves,True,Felipe Meligeni Alves,polyus,0.13,Matheus Pucinelli de Almeida,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-20T22:54:47+00:00
+2026-11-20T22:55:27+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.33,Guiomar Maristany,polyus,0.59,0.9523,0.0,0.0,0.0,0.0,0.42,,,0.1,True,2026-11-20T22:55:27+00:00
+2026-11-20T22:55:37+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.33,Guiomar Maristany,polyus,0.59,0.9523,0.0,0.0,0.0,0.0,0.42,,,0.1,True,2026-11-20T22:55:27+00:00
+2026-11-20T22:55:47+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.36,Guiomar Maristany,polyus,0.59,0.9829,0.0,0.0,0.0,0.0,0.42,,,0.1,True,2026-11-20T22:55:27+00:00
+2026-11-20T22:55:57+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.36,Guiomar Maristany,polyus,0.59,0.9829,0.0,0.0,0.0,0.0,0.42,,,0.1,True,2026-11-20T22:55:27+00:00
+2026-11-20T22:56:07+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.33,Guiomar Maristany Zuleta de Reales,kalshi,0.59,0.9523,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-20T22:56:07+00:00
+2026-11-20T22:56:17+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.33,Guiomar Maristany Zuleta de Reales,kalshi,0.59,0.9523,0.0,0.0,0.0,0.0,,0.68,,0.1,True,2026-11-20T22:56:07+00:00
+2026-11-20T22:56:17+00:00,almeida v alves,True,Felipe Meligeni Alves,polyus,0.13,Matheus Pucinelli de Almeida,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-20T22:56:17+00:00
+2026-11-20T22:56:27+00:00,almeida v alves,True,Felipe Meligeni Alves,polyus,0.13,Matheus Pucinelli de Almeida,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.1,True,2026-11-20T22:56:17+00:00
