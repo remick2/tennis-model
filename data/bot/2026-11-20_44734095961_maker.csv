@@ -15,3 +15,17 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-20T13:10:36+00:00,budkov v djere,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BUDDJE-BUD:yes,0.03,1666,True,0.0073,1.7,hedged,polyus:aec-atp-nickja-lasdje-2026-11-20:1,0.99,-34.47,,-34.47,True
 2026-11-20T13:14:30+00:00,alcaraz v cobolli,True,kalshi:KXATPMATCH-26NOV17ALCCOB-COB:yes,0.12,416,False,0.0098,2.0,hedged,polyus:aec-atp-caralc-flacob-2026-11-15:0,0.88,-3.82,-7.78,-3.82,True
 2026-11-20T13:14:54+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-KWON:yes,0.32,156,True,0.0142,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:1,0.7,-5.4,-5.41,-5.4,True
+2026-11-20T13:17:15+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:yes,0.68,73,True,0.0054,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:0,0.33,-1.85,-2.61,-1.85,True
+2026-11-20T13:17:49+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:yes,0.64,78,False,0.0146,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:0,0.33,1.14,-2.85,1.14,True
+2026-11-20T13:18:17+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-KWON:yes,0.34,147,False,0.0138,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:1,0.63,2.03,-3.75,2.03,True
+2026-11-20T13:18:45+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:yes,0.63,79,False,0.0144,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:0,0.38,-2.08,-2.09,-2.08,True
+2026-11-20T13:20:05+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:yes,0.56,89,False,0.0132,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:0,0.45,-2.42,-2.43,-2.42,True
+2026-11-20T13:20:51+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:yes,0.52,96,False,0.0128,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:0,0.51,-4.55,-4.56,-4.55,True
+2026-11-20T13:21:27+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-KWON:yes,0.47,106,False,0.0126,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:1,0.54,-2.89,-2.9,-2.89,True
+2026-11-20T13:21:27+00:00,kwon v prizmic,True,polyus:aec-atp-sookwo-dinpri-2026-11-20:0,0.47,106,False,0.0125,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:yes,0.54,-2.9,-2.89,-2.89,True
+2026-11-20T13:22:27+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-KWON:yes,0.39,128,False,0.0131,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:1,0.62,-3.38,-4.65,-3.38,True
+2026-11-20T13:26:49+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-KWON:yes,0.32,156,False,0.0142,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:1,0.73,-9.94,-9.95,-9.94,True
+2026-11-20T13:27:41+00:00,basavareddy v butvilas,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BUTBAS-BAS:yes,0.74,67,False,0.0073,2.0,hedged,polyus:aec-atp-edabut-nisbas-2026-11-20:0,0.28,-2.28,-2.29,-2.28,True
+2026-11-20T13:28:09+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-KWON:yes,0.26,192,False,0.006,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:1,0.75,-4.42,-4.44,-4.42,True
+2026-11-20T13:28:23+00:00,kwon v prizmic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20KWONPRI-PRI:yes,0.68,73,False,0.0054,2.0,hedged,polyus:aec-atp-sookwo-dinpri-2026-11-20:0,0.34,-2.6,-2.61,-2.6,True
+2026-11-20T13:28:49+00:00,basavareddy v butvilas,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BUTBAS-BUT:yes,0.24,208,True,0.0066,2.0,hedged,polyus:aec-atp-edabut-nisbas-2026-11-20:1,0.76,-2.64,-4.66,-2.64,True

@@ -1,13 +1,13 @@
 {
  "pass": true,
  "status": "PASSED",
- "as_of": "2026-11-20T13:15+00:00",
+ "as_of": "2026-11-20T13:30+00:00",
  "occasions": 22,
  "days": 5,
  "bot_traded": 94,
  "bot_sim_profit": 272.35,
  "poly_stale_pct": 0.0,
- "maker_fills": 11435,
- "maker_pnl": -43438.93,
+ "maker_fills": 11449,
+ "maker_pnl": -43477.7,
  "maker_edge": false
 }
