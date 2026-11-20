@@ -193,3 +193,38 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-20T01:28:05+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.16,Liam Draxl,kalshi,0.81,0.9901,0.0,0.0,0.0,0.0,,0.84,,0.0,True,2026-11-20T01:27:55+00:00
 2026-11-20T01:28:25+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.13,Liam Draxl,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-20T01:28:25+00:00
 2026-11-20T01:28:35+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.13,Liam Draxl,kalshi,0.84,0.9873,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-20T01:28:25+00:00
+2026-11-20T01:31:45+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.28,Tristan Schoolkate,polyus,0.69,0.999,0.0,0.0,0.0,0.0,0.33,,,0.0,True,2026-11-20T01:31:45+00:00
+2026-11-20T01:32:35+00:00,li tu v schoolkate,True,Li Tu,polyus,0.29,Tristan Schoolkate,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-20T01:32:35+00:00
+2026-11-20T01:32:45+00:00,li tu v schoolkate,True,Li Tu,polyus,0.29,Tristan Schoolkate,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-20T01:32:35+00:00
+2026-11-20T01:32:55+00:00,li tu v schoolkate,True,Li Tu,polyus,0.29,Tristan Schoolkate,kalshi,0.68,0.9995,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-20T01:32:35+00:00
+2026-11-20T01:33:05+00:00,li tu v schoolkate,True,Li Tu,polyus,0.27,Tristan Schoolkate,kalshi,0.68,0.9789,0.0,0.0,0.0,0.0,,0.74,,0.0,True,2026-11-20T01:32:35+00:00
+2026-11-20T01:33:15+00:00,draxl v milavsky,True,Daniel Milavsky,kalshi,0.15,Liam Draxl,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.0,True,2026-11-20T01:33:15+00:00
+2026-11-20T01:33:25+00:00,draxl v milavsky,True,Daniel Milavsky,kalshi,0.15,Liam Draxl,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.0,True,2026-11-20T01:33:15+00:00
+2026-11-20T01:33:35+00:00,draxl v milavsky,True,Daniel Milavsky,kalshi,0.15,Liam Draxl,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.0,True,2026-11-20T01:33:15+00:00
+2026-11-20T01:34:05+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.15,Liam Draxl,kalshi,0.83,0.9987,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-20T01:34:05+00:00
+2026-11-20T01:34:35+00:00,draxl v milavsky,True,Daniel Milavsky,kalshi,0.15,Liam Draxl,polyus,0.82,0.9892,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-20T01:34:35+00:00
+2026-11-20T01:34:45+00:00,draxl v milavsky,True,Daniel Milavsky,kalshi,0.15,Liam Draxl,polyus,0.82,0.9892,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-20T01:34:35+00:00
+2026-11-20T01:35:15+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.15,Liam Draxl,kalshi,0.82,0.9892,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-20T01:35:15+00:00
+2026-11-20T01:35:55+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.12,Liam Draxl,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-20T01:35:55+00:00
+2026-11-20T01:36:05+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.12,Liam Draxl,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-20T01:35:55+00:00
+2026-11-20T01:36:15+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.12,Liam Draxl,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-20T01:35:55+00:00
+2026-11-20T01:38:55+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.55,Juan Manuel La Serna,kalshi,0.39,0.9739,0.0,0.0,0.0,0.0,,0.46,,0.0,True,2026-11-20T01:38:55+00:00
+2026-11-20T01:39:05+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.55,Juan Manuel La Serna,kalshi,0.39,0.9739,0.0,0.0,0.0,0.0,,0.46,,0.0,True,2026-11-20T01:38:55+00:00
+2026-11-20T01:39:15+00:00,manuel v roncadelli,True,Franco Roncadelli,polyus,0.55,Juan Manuel La Serna,kalshi,0.39,0.9739,0.0,0.0,0.0,0.0,,0.46,,0.0,True,2026-11-20T01:38:55+00:00
+2026-11-20T01:41:05+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.11,Liam Draxl,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-20T01:41:05+00:00
+2026-11-20T01:41:15+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.11,Liam Draxl,kalshi,0.86,0.9852,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-20T01:41:05+00:00
+2026-11-20T01:41:15+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.35,Tristan Schoolkate,polyus,0.61,0.9925,0.0,0.0,0.0,0.0,0.4,,,0.0,True,2026-11-20T01:41:15+00:00
+2026-11-20T01:41:55+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.08,Liam Draxl,kalshi,0.9,0.9914,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-20T01:41:55+00:00
+2026-11-20T01:42:15+00:00,draxl v milavsky,True,Daniel Milavsky,kalshi,0.08,Liam Draxl,polyus,0.9,0.9914,0.0,0.0,0.0,0.0,0.11,,,0.1,True,2026-11-20T01:42:15+00:00
+2026-11-20T01:42:45+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.08,Liam Draxl,kalshi,0.9,0.9914,0.0,0.0,0.0,0.0,,0.93,,0.0,True,2026-11-20T01:42:45+00:00
+2026-11-20T01:43:45+00:00,draxl v milavsky,True,Daniel Milavsky,kalshi,0.12,Liam Draxl,polyus,0.84,0.9767,0.0,0.0,0.0,0.0,0.17,,,0.0,True,2026-11-20T01:43:45+00:00
+2026-11-20T01:43:45+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.63,Juan Manuel La Serna,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-20T01:43:45+00:00
+2026-11-20T01:43:55+00:00,draxl v milavsky,True,Daniel Milavsky,kalshi,0.12,Liam Draxl,polyus,0.84,0.9767,0.0,0.0,0.0,0.0,0.17,,,0.0,True,2026-11-20T01:43:45+00:00
+2026-11-20T01:43:55+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.63,Juan Manuel La Serna,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-20T01:43:45+00:00
+2026-11-20T01:44:05+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.63,Juan Manuel La Serna,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-20T01:43:45+00:00
+2026-11-20T01:44:15+00:00,draxl v milavsky,True,Daniel Milavsky,kalshi,0.12,Liam Draxl,polyus,0.82,0.9577,0.0,0.0,0.0,0.0,0.19,,,0.0,True,2026-11-20T01:44:15+00:00
+2026-11-20T01:44:15+00:00,manuel v roncadelli,True,Franco Roncadelli,kalshi,0.63,Juan Manuel La Serna,polyus,0.33,0.9917,0.0,0.0,0.0,0.0,0.68,,,0.0,True,2026-11-20T01:43:45+00:00
+2026-11-20T01:44:15+00:00,li tu v schoolkate,True,Li Tu,kalshi,0.37,Tristan Schoolkate,polyus,0.59,0.9931,0.0,0.0,0.0,0.0,0.42,,,0.0,True,2026-11-20T01:44:15+00:00
+2026-11-20T01:44:25+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.11,Liam Draxl,kalshi,0.82,0.9471,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-20T01:44:25+00:00
+2026-11-20T01:44:35+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.11,Liam Draxl,kalshi,0.82,0.9471,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-20T01:44:25+00:00
+2026-11-20T01:44:45+00:00,draxl v milavsky,True,Daniel Milavsky,polyus,0.11,Liam Draxl,kalshi,0.82,0.9471,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-20T01:44:25+00:00
