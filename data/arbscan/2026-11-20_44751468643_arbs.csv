@@ -377,3 +377,43 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-20T19:58:45+00:00,medvedev v tiafoe,True,Daniil Medvedev,polyus,0.66,Frances Tiafoe,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,,0.35,,0.1,True,2026-11-20T19:58:35+00:00
 2026-11-20T19:59:05+00:00,medvedev v tiafoe,True,Daniil Medvedev,kalshi,0.66,Frances Tiafoe,polyus,0.3,0.9903,0.0,0.0,0.0,0.0,0.71,,,0.0,True,2026-11-20T19:59:05+00:00
 2026-11-20T19:59:15+00:00,medvedev v tiafoe,True,Daniil Medvedev,kalshi,0.66,Frances Tiafoe,polyus,0.3,0.9903,0.0,0.0,0.0,0.0,0.71,,,0.0,True,2026-11-20T19:59:05+00:00
+2026-11-20T20:04:35+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.04,Thiago Seyboth Wild,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-20T20:04:35+00:00
+2026-11-20T20:04:45+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.04,Thiago Seyboth Wild,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-20T20:04:35+00:00
+2026-11-20T20:04:55+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.04,Thiago Seyboth Wild,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-20T20:04:35+00:00
+2026-11-20T20:05:05+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.04,Thiago Seyboth Wild,kalshi,0.95,0.996,0.0,0.0,0.0,0.0,,0.98,,0.0,True,2026-11-20T20:04:35+00:00
+2026-11-20T20:05:45+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.02,Thiago Seyboth Wild,polyus,0.95,0.9747,0.0,0.0,0.0,0.0,0.06,,,0.0,True,2026-11-20T20:05:45+00:00
+2026-11-20T20:05:55+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.02,Thiago Seyboth Wild,polyus,0.95,0.9747,0.0,0.0,0.0,0.0,0.06,,,0.0,True,2026-11-20T20:05:45+00:00
+2026-11-20T20:06:05+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.02,Thiago Seyboth Wild,polyus,0.95,0.9747,0.0,0.0,0.0,0.0,0.06,,,0.0,True,2026-11-20T20:05:45+00:00
+2026-11-20T20:06:15+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.06,Thiago Seyboth Wild,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-20T20:05:45+00:00
+2026-11-20T20:06:25+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.06,Thiago Seyboth Wild,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-20T20:05:45+00:00
+2026-11-20T20:06:35+00:00,herbert v passaro,True,Francesco Passaro,kalshi,0.42,Pierre-Hugues Herbert,polyus,0.51,0.9644,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-20T20:06:35+00:00
+2026-11-20T20:06:35+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.06,Thiago Seyboth Wild,polyus,0.93,0.9985,0.0,0.0,0.0,0.0,0.08,,,0.0,True,2026-11-20T20:05:45+00:00
+2026-11-20T20:07:05+00:00,herbert v passaro,True,Francesco Passaro,polyus,0.45,Pierre-Hugues Herbert,kalshi,0.51,0.9947,0.0,0.0,0.0,0.0,,0.56,,0.0,True,2026-11-20T20:07:05+00:00
+2026-11-20T20:08:25+00:00,medvedev v tiafoe,True,Daniil Medvedev,kalshi,0.82,Frances Tiafoe,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-20T20:08:25+00:00
+2026-11-20T20:08:35+00:00,medvedev v tiafoe,True,Daniil Medvedev,kalshi,0.82,Frances Tiafoe,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-20T20:08:25+00:00
+2026-11-20T20:08:45+00:00,herbert v passaro,True,Francesco Passaro,kalshi,0.51,Pierre-Hugues Herbert,polyus,0.36,0.9035,0.0,0.0,0.0,0.0,0.65,,,0.0,True,2026-11-20T20:08:45+00:00
+2026-11-20T20:08:45+00:00,medvedev v tiafoe,True,Daniil Medvedev,kalshi,0.82,Frances Tiafoe,polyus,0.15,0.9892,0.0,0.0,0.0,0.0,0.86,,,0.0,True,2026-11-20T20:08:25+00:00
+2026-11-20T20:09:15+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.1,Thiago Seyboth Wild,polyus,0.88,0.9936,0.0,0.0,0.0,0.0,0.13,,,0.0,True,2026-11-20T20:09:15+00:00
+2026-11-20T20:12:15+00:00,herbert v passaro,True,Francesco Passaro,kalshi,0.72,Pierre-Hugues Herbert,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.76,,,0.0,True,2026-11-20T20:12:15+00:00
+2026-11-20T20:12:25+00:00,herbert v passaro,True,Francesco Passaro,kalshi,0.72,Pierre-Hugues Herbert,polyus,0.25,0.9971,0.0,0.0,0.0,0.0,0.77,,,0.0,True,2026-11-20T20:12:15+00:00
+2026-11-20T20:12:35+00:00,artnak v young,True,Bor Artnak,kalshi,0.58,Gavin Young,polyus,0.37,0.9833,0.0,0.0,0.0,0.0,0.64,,,0.0,True,2026-11-20T20:12:35+00:00
+2026-11-20T20:12:35+00:00,chidekh v kozlov,True,Clement Chidekh,polyus,0.94,Stefan Kozlov,kalshi,0.05,0.9972,0.0,0.0,0.0,0.0,,0.07,,0.0,True,2026-11-20T20:12:35+00:00
+2026-11-20T20:13:35+00:00,artnak v young,True,Bor Artnak,kalshi,0.61,Gavin Young,polyus,0.35,0.9925,0.0,0.0,0.0,0.0,0.66,,,0.0,True,2026-11-20T20:13:35+00:00
+2026-11-20T20:13:45+00:00,artnak v young,True,Bor Artnak,kalshi,0.61,Gavin Young,polyus,0.35,0.9925,0.0,0.0,0.0,0.0,0.66,,,0.0,True,2026-11-20T20:13:35+00:00
+2026-11-20T20:14:45+00:00,artnak v young,True,Bor Artnak,polyus,0.59,Gavin Young,kalshi,0.37,0.9931,0.0,0.0,0.0,0.0,,0.42,,0.0,True,2026-11-20T20:14:45+00:00
+2026-11-20T20:14:55+00:00,artnak v young,True,Bor Artnak,polyus,0.59,Gavin Young,kalshi,0.37,0.9931,0.0,0.0,0.0,0.0,,0.43,,0.0,True,2026-11-20T20:14:45+00:00
+2026-11-20T20:15:05+00:00,artnak v young,True,Bor Artnak,polyus,0.56,Gavin Young,kalshi,0.37,0.9634,0.0,0.0,0.0,0.0,,0.45,,0.0,True,2026-11-20T20:14:45+00:00
+2026-11-20T20:15:45+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.95,Stefan Kozlov,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-20T20:15:45+00:00
+2026-11-20T20:15:55+00:00,chidekh v kozlov,True,Clement Chidekh,kalshi,0.95,Stefan Kozlov,polyus,0.04,0.996,0.0,0.0,0.0,0.0,0.96,,,0.0,True,2026-11-20T20:15:45+00:00
+2026-11-20T20:16:15+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.11,Thiago Seyboth Wild,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-20T20:16:15+00:00
+2026-11-20T20:16:25+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.11,Thiago Seyboth Wild,polyus,0.87,0.9947,0.0,0.0,0.0,0.0,0.14,,,0.0,True,2026-11-20T20:16:15+00:00
+2026-11-20T20:16:45+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.15,Thiago Seyboth Wild,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.0,True,2026-11-20T20:16:45+00:00
+2026-11-20T20:16:55+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.15,Thiago Seyboth Wild,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.0,True,2026-11-20T20:16:45+00:00
+2026-11-20T20:17:05+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.15,Thiago Seyboth Wild,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.0,True,2026-11-20T20:16:45+00:00
+2026-11-20T20:17:15+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.15,Thiago Seyboth Wild,polyus,0.82,0.9892,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-20T20:16:45+00:00
+2026-11-20T20:17:25+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.15,Thiago Seyboth Wild,polyus,0.82,0.9892,0.0,0.0,0.0,0.0,0.2,,,0.0,True,2026-11-20T20:16:45+00:00
+2026-11-20T20:17:35+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.2,Thiago Seyboth Wild,polyus,0.77,0.9935,0.0,0.0,0.0,0.0,0.24,,,0.0,True,2026-11-20T20:16:45+00:00
+2026-11-20T20:17:45+00:00,herbert v passaro,True,Francesco Passaro,polyus,0.64,Pierre-Hugues Herbert,kalshi,0.32,0.9912,0.0,0.0,0.0,0.0,,0.37,,0.0,True,2026-11-20T20:17:45+00:00
+2026-11-20T20:17:45+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.2,Thiago Seyboth Wild,polyus,0.77,0.9935,0.0,0.0,0.0,0.0,0.24,,,0.0,True,2026-11-20T20:16:45+00:00
+2026-11-20T20:17:55+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.2,Thiago Seyboth Wild,polyus,0.77,0.9935,0.0,0.0,0.0,0.0,0.24,,,0.0,True,2026-11-20T20:16:45+00:00
+2026-11-20T20:18:05+00:00,herbert v passaro,True,Francesco Passaro,polyus,0.58,Pierre-Hugues Herbert,kalshi,0.37,0.9832,0.0,0.0,0.0,0.0,,0.43,,0.0,True,2026-11-20T20:18:05+00:00
