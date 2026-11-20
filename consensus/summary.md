@@ -1,4 +1,4 @@
-# Consensus paper tracker — Thu Nov 19, 5:40PM MT
+# Consensus paper tracker — Thu Nov 19, 6:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,10 +10,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 4-1 | +0.36 | 0 |
 | 2 agree | all 15 | 26-24 | -2.84 | 28-25 | -4.97 | 11 |
-| 2+ agree, 1+ against (split) | all 15 | 27-17 | +9.70 | 29-24 | +2.93 | 4 |
+| 2+ agree, 1+ against (split) | all 15 | 27-17 | +9.70 | 29-24 | +2.93 | 8 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 0 |
 | 2 agree | core 10 only | 16-13 | +1.30 | 15-11 | -1.25 | 6 |
-| 2+ agree, 1+ against (split) | core 10 only | 10-5 | +5.46 | 11-9 | -1.33 | 2 |
+| 2+ agree, 1+ against (split) | core 10 only | 10-5 | +5.46 | 11-9 | -1.33 | 3 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 10 of 30 graded plays · net +5.47u · 8 wins vs 5.5 expected, z = +1.64 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
@@ -93,3 +93,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-19 | NBA | Clippers vs. Spurs | Under 223.5 (Total) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; JoeyAroyyOO | — | 48.5c |
 | new | 2026-11-19 | NBA | Trail Blazers vs. Bucks | Over 229.5 (Total) | 2 agree, 0 against | pre-game | jakepaulthegoat2008; JoeyAroyyOO | — | 50.5c |
 | new | 2026-11-19 | NBA | Trail Blazers vs. Bucks | Bucks (+9.5) (Spread) | 2 agree, 0 against | pre-game | drainedandpoor; BreakTheBank | — | 50.5c |
+| new | 2026-11-19 | NBA | Knicks vs. Timberwolves | Knicks (Moneyline) | 2 agree, 2 against | in-play | jakepaulthegoat2008; drainedandpoor | monkeymashingkeyboard; purplegatto | 69.5c |
+| new | 2026-11-19 | NBA | Knicks vs. Timberwolves | Timberwolves (+1.5) (Spread) | 2 agree, 1 against | in-play | monkeymashingkeyboard; ianf2026 | purplegatto | 31.5c |
+| new | 2026-11-19 | NBA | Warriors vs. Grizzlies | Warriors (Moneyline) | 2 agree, 1 against | in-play | jakepaulthegoat2008; JoeyAroyyOO | BreakTheBank | 23.5c |
+| new | 2026-11-19 | NBA | Warriors vs. Grizzlies | Warriors (+5.5) (Spread) | 2 agree, 1 against | in-play | drainedandpoor; ianf2026 | BreakTheBank | 38.5c |
