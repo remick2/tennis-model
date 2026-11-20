@@ -2,3 +2,6 @@ key,legs,first_seen,closed_by,kind,minutes,min_minutes
 gulin v samuel,Svyatoslav Gulin@kalshi + Toby Samuel@polyus,2026-11-20T11:45:39+00:00,2026-11-20T11:46:09+00:00,any,0.5,0.3
 budkov v djere,Laslo Djere@kalshi + Nicolai Budkov Kjaer@polyus,2026-11-20T11:45:49+00:00,2026-11-20T11:46:09+00:00,any,0.3,0.2
 budkov v djere,Laslo Djere@kalshi + Nicolai Budkov Kjaer@polyus,2026-11-20T11:47:09+00:00,2026-11-20T11:48:19+00:00,any,1.2,1.0
+budkov v djere,Laslo Djere@kalshi + Nicolai Budkov Kjaer@polyus,2026-11-20T11:53:29+00:00,2026-11-20T11:53:49+00:00,any,0.3,0.2
+gulin v samuel,Svyatoslav Gulin@kalshi + Toby Samuel@polyus,2026-11-20T11:55:19+00:00,2026-11-20T11:55:39+00:00,any,0.3,0.2
+gulin v samuel,Svyatoslav Gulin@polyus + Toby Samuel@kalshi,2026-11-20T11:58:09+00:00,2026-11-20T11:58:49+00:00,any,0.7,0.5
