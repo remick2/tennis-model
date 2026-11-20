@@ -135,3 +135,27 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-20T21:55:27+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.26,Thiago Seyboth Wild,kalshi,0.71,0.9978,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-20T21:55:17+00:00
 2026-11-20T21:55:37+00:00,chan v dietrich,True,Duncan Chan,polyus,0.26,Dylan Dietrich,kalshi,0.7,0.9881,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-20T21:55:37+00:00
 2026-11-20T21:55:47+00:00,chan v dietrich,True,Duncan Chan,polyus,0.26,Dylan Dietrich,kalshi,0.7,0.9881,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-20T21:55:37+00:00
+2026-11-20T21:55:57+00:00,chan v dietrich,True,Duncan Chan,polyus,0.23,Dylan Dietrich,kalshi,0.7,0.957,0.0,0.0,0.0,0.0,,0.78,,0.1,True,2026-11-20T21:55:37+00:00
+2026-11-20T21:56:57+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.26,Thiago Seyboth Wild,polyus,0.71,0.9978,0.0,0.0,0.0,0.0,0.3,,,0.1,True,2026-11-20T21:56:57+00:00
+2026-11-20T21:57:37+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.26,Thiago Seyboth Wild,kalshi,0.71,0.9978,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-20T21:57:37+00:00
+2026-11-20T21:57:47+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.26,Thiago Seyboth Wild,kalshi,0.71,0.9978,0.0,0.0,0.0,0.0,,0.75,,0.1,True,2026-11-20T21:57:37+00:00
+2026-11-20T21:58:07+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.2,Thiago Seyboth Wild,kalshi,0.75,0.9742,0.0,0.0,0.0,0.0,,0.81,,0.1,True,2026-11-20T21:58:07+00:00
+2026-11-20T21:58:17+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.19,Thiago Seyboth Wild,kalshi,0.75,0.9638,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-20T21:58:07+00:00
+2026-11-20T21:58:17+00:00,maxted v mitsui,True,Lui Maxted,kalshi,0.46,Shunsuke Mitsui,polyus,0.48,0.9747,0.0,0.0,0.0,0.0,0.53,,,0.1,True,2026-11-20T21:58:17+00:00
+2026-11-20T21:58:47+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.19,Thiago Seyboth Wild,polyus,0.76,0.9734,0.0,0.0,0.0,0.0,0.25,,,0.1,True,2026-11-20T21:58:47+00:00
+2026-11-20T21:59:27+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.25,Thiago Seyboth Wild,polyus,0.72,0.9971,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-20T21:59:27+00:00
+2026-11-20T21:59:37+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.25,Thiago Seyboth Wild,polyus,0.72,0.9971,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-20T21:59:27+00:00
+2026-11-20T21:59:47+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.25,Thiago Seyboth Wild,polyus,0.72,0.9971,0.0,0.0,0.0,0.0,0.29,,,0.1,True,2026-11-20T21:59:27+00:00
+2026-11-20T22:05:17+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.22,Thiago Seyboth Wild,kalshi,0.75,0.9951,0.0,0.0,0.0,0.0,,0.79,,0.1,True,2026-11-20T22:05:17+00:00
+2026-11-20T22:08:17+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.3,Thiago Seyboth Wild,polyus,0.66,0.9903,0.0,0.0,0.0,0.0,0.36,,,0.1,True,2026-11-20T22:08:17+00:00
+2026-11-20T22:08:27+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.3,Thiago Seyboth Wild,polyus,0.65,0.9805,0.0,0.0,0.0,0.0,0.36,,,0.1,True,2026-11-20T22:08:17+00:00
+2026-11-20T22:08:37+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.3,Thiago Seyboth Wild,polyus,0.66,0.9903,0.0,0.0,0.0,0.0,0.37,,,0.1,True,2026-11-20T22:08:17+00:00
+2026-11-20T22:08:47+00:00,batalla v seyboth,True,Oriol Roca Batalla,kalshi,0.3,Thiago Seyboth Wild,polyus,0.64,0.9707,0.0,0.0,0.0,0.0,0.38,,,0.1,True,2026-11-20T22:08:17+00:00
+2026-11-20T22:09:07+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.32,Thiago Seyboth Wild,kalshi,0.64,0.9913,0.0,0.0,0.0,0.0,,0.69,,0.1,True,2026-11-20T22:09:07+00:00
+2026-11-20T22:09:17+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.32,Thiago Seyboth Wild,kalshi,0.64,0.9913,0.0,0.0,0.0,0.0,,0.69,,0.1,True,2026-11-20T22:09:07+00:00
+2026-11-20T22:09:17+00:00,chan v dietrich,True,Duncan Chan,kalshi,0.22,Dylan Dietrich,polyus,0.75,0.995,0.0,0.0,0.0,0.0,0.26,,,0.2,True,2026-11-20T22:09:17+00:00
+2026-11-20T22:09:57+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.29,Thiago Seyboth Wild,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-20T22:09:57+00:00
+2026-11-20T22:09:57+00:00,garcia v maristany,True,Andrea Lazaro Garcia,polyus,0.42,Guiomar Maristany Zuleta de Reales,kalshi,0.54,0.9943,0.0,0.0,0.0,0.0,,0.59,,0.1,True,2026-11-20T22:09:57+00:00
+2026-11-20T22:10:07+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.29,Thiago Seyboth Wild,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-20T22:09:57+00:00
+2026-11-20T22:10:17+00:00,batalla v seyboth,True,Oriol Roca Batalla,polyus,0.29,Thiago Seyboth Wild,kalshi,0.67,0.9898,0.0,0.0,0.0,0.0,,0.72,,0.1,True,2026-11-20T22:09:57+00:00
+2026-11-20T22:10:57+00:00,garcia v maristany,True,Andrea Lazaro Garcia,kalshi,0.45,Guiomar Maristany,polyus,0.5,0.9847,0.0,0.0,0.0,0.0,0.51,,,0.1,True,2026-11-20T22:10:57+00:00
