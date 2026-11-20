@@ -17,3 +17,14 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-20T12:00:12+00:00,gulin v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GULSAM-SAM:yes,0.82,60,False,0.0107,2.0,hedged,polyus:aec-atp-svygul-tobsam-2026-11-19:0,0.22,-3.12,-3.12,-3.12,True
 2026-11-20T12:00:12+00:00,gulin v samuel,True,polyus:aec-atp-svygul-tobsam-2026-11-19:1,0.82,60,False,0.0106,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20GULSAM-SAM:no,0.22,-3.12,-3.12,-3.12,True
 2026-11-20T12:04:40+00:00,gulin v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GULSAM-GUL:yes,0.21,238,True,0.0077,2.0,hedged,polyus:aec-atp-svygul-tobsam-2026-11-19:1,0.81,-7.31,-7.32,-7.31,True
+2026-11-20T12:11:39+00:00,gulin v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GULSAM-SAM:yes,0.87,57,False,0.0132,2.0,hedged,polyus:aec-atp-svygul-tobsam-2026-11-19:0,0.13,-0.45,-1.05,-0.45,True
+2026-11-20T12:13:23+00:00,budkov v djere,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BUDDJE-DJE:yes,0.62,80,True,0.0142,2.0,hedged,polyus:aec-atp-nickja-lasdje-2026-11-20:0,0.39,-2.12,-2.13,-2.12,True
+2026-11-20T12:14:01+00:00,budkov v djere,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BUDDJE-BUD:yes,0.35,142,False,0.0136,2.0,hedged,polyus:aec-atp-nickja-lasdje-2026-11-20:1,0.66,-3.63,-3.65,-3.63,True
+2026-11-20T12:16:55+00:00,gulin v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GULSAM-SAM:yes,0.86,58,True,0.0127,2.0,hedged,polyus:aec-atp-svygul-tobsam-2026-11-19:0,0.16,-1.7,-1.71,-1.7,True
+2026-11-20T12:18:45+00:00,budkov v djere,True,polyus:aec-atp-nickja-lasdje-2026-11-20:1,0.58,86,False,0.0133,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20BUDDJE-DJE:no,0.46,-4.94,-4.06,-4.06,True
+2026-11-20T12:19:05+00:00,budkov v djere,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BUDDJE-BUD:yes,0.41,121,False,0.0129,2.8,hedged,polyus:aec-atp-nickja-lasdje-2026-11-20:1,0.6,-3.23,-3.24,-3.23,True
+2026-11-20T12:19:37+00:00,gulin v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GULSAM-SAM:yes,0.82,60,True,0.0107,2.0,hedged,polyus:aec-atp-svygul-tobsam-2026-11-19:0,0.19,-1.24,-1.87,-1.24,True
+2026-11-20T12:19:47+00:00,budkov v djere,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BUDDJE-DJE:yes,0.56,89,False,0.0132,2.0,hedged,polyus:aec-atp-nickja-lasdje-2026-11-20:0,0.49,-6.0,-6.9,-6.0,True
+2026-11-20T12:19:57+00:00,gulin v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GULSAM-GUL:yes,0.17,294,True,0.0093,2.0,unwound,polyus:aec-atp-svygul-tobsam-2026-11-19:1,0.85,-8.49,-6.5,-6.5,True
+2026-11-20T12:20:23+00:00,gulin v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GULSAM-SAM:yes,0.81,61,False,0.0102,2.0,hedged,polyus:aec-atp-svygul-tobsam-2026-11-19:0,0.17,0.62,-1.29,0.62,True
+2026-11-20T12:20:29+00:00,budkov v djere,True,polyus:aec-atp-nickja-lasdje-2026-11-20:1,0.45,111,True,0.0125,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20BUDDJE-DJE:no,0.57,-4.12,-3.01,-3.01,True
