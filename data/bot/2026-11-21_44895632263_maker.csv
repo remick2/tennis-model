@@ -25,3 +25,9 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T12:56:58+00:00,basavareddy v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV21BASVIR-VIR:yes,0.73,68,False,0.007,2.0,hedged,polyus:aec-atp-nisbas-ottvir-2026-11-21:0,0.29,-2.33,-3.04,-2.33,True
 2026-11-21T12:58:06+00:00,basavareddy v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV21BASVIR-BAS:yes,0.35,142,False,0.0136,2.0,hedged,polyus:aec-atp-nisbas-ottvir-2026-11-21:1,0.71,-10.55,-10.57,-10.55,True
 2026-11-21T12:58:28+00:00,basavareddy v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV21BASVIR-BAS:yes,0.27,185,False,0.0057,2.0,hedged,polyus:aec-atp-nisbas-ottvir-2026-11-21:1,0.75,-6.11,-6.13,-6.11,True
+2026-11-21T12:58:46+00:00,basavareddy v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV21BASVIR-BAS:yes,0.23,217,False,0.007,2.0,hedged,polyus:aec-atp-nisbas-ottvir-2026-11-21:1,0.78,-4.76,-4.78,-4.76,True
+2026-11-21T13:02:38+00:00,basavareddy v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV21BASVIR-VIR:yes,0.78,64,True,0.0089,2.0,hedged,polyus:aec-atp-nisbas-ottvir-2026-11-21:0,0.23,-1.43,-1.43,-1.43,True
+2026-11-21T13:03:46+00:00,basavareddy v virtanen,True,polyus:aec-atp-nisbas-ottvir-2026-11-21:0,0.23,217,True,0.0069,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV21BASVIR-VIR:yes,0.78,-4.78,-4.76,-4.76,True
+2026-11-21T13:04:26+00:00,basavareddy v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV21BASVIR-BAS:yes,0.2,250,True,0.0081,2.0,hedged,polyus:aec-atp-nisbas-ottvir-2026-11-21:1,0.83,-9.95,-9.97,-9.95,True
+2026-11-21T13:05:00+00:00,basavareddy v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV21BASVIR-VIR:yes,0.81,61,True,0.0102,2.0,hedged,polyus:aec-atp-nisbas-ottvir-2026-11-21:0,0.22,-2.56,-2.56,-2.56,True
+2026-11-21T13:05:56+00:00,basavareddy v virtanen,True,kalshi:KXATPCHALLENGERMATCH-26NOV21BASVIR-BAS:yes,0.22,227,False,0.0073,2.0,hedged,polyus:aec-atp-nisbas-ottvir-2026-11-21:1,0.79,-4.89,-4.91,-4.89,True
