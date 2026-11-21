@@ -1,4 +1,4 @@
-# Consensus paper tracker — Fri Nov 20, 8:40PM MT
+# Consensus paper tracker — Fri Nov 20, 9:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,10 +9,10 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 6-1 | +1.81 | 1 |
-| 2 agree | all 15 | 30-30 | -5.91 | 29-26 | -5.79 | 4 |
+| 2 agree | all 15 | 30-30 | -5.91 | 29-27 | -6.79 | 3 |
 | 2+ agree, 1+ against (split) | all 15 | 29-20 | +8.18 | 30-29 | -1.63 | 4 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 3-0 | +1.57 | 1 |
-| 2 agree | core 10 only | 18-14 | +0.61 | 15-11 | -1.25 | 4 |
+| 2 agree | core 10 only | 18-14 | +0.61 | 15-12 | -2.25 | 3 |
 | 2+ agree, 1+ against (split) | core 10 only | 11-7 | +4.81 | 12-10 | -1.89 | 0 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 10 of 30 graded plays · net +5.47u · 8 wins vs 5.5 expected, z = +1.64 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
@@ -83,7 +83,6 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
 | new | 2026-11-22 | NFL | Buccaneers vs. Lions | Buccaneers (+6.5) (Spread) | 3 agree, 0 against | pre-game | monkeymashingkeyboard; 0xb4F978BE; bands1 | — | 54.5c |
 | new | 2026-11-20 | NBA | Suns vs. Jazz | Jazz (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; ch27er | jakepaulthegoat2008 | 37.5c |
-| new | 2026-11-20 | CFB | Bowling Green vs. Toledo | Bowling Green (+17.5) (Spread) | 2 agree, 0 against | in-play | purplegatto; ic4cream | — | 50.0c |
 | new | 2026-11-20 | NBA | Suns vs. Jazz | Under 226.5 (Total) | 2 agree, 1 against | pre-game | drainedandpoor; JoeyAroyyOO | jakepaulthegoat2008 | 50.5c |
 | new | 2026-11-20 | NBA | Rockets vs. Nuggets | Nuggets (Moneyline) | 2 agree, 1 against | pre-game | BreakTheBank; ch27er | monkeymashingkeyboard | 48.5c |
 | new | 2026-11-20 | NBA | Suns vs. Jazz | Suns (Moneyline) | 2 agree, 2 against | in-play | jakepaulthegoat2008; BreakTheBank | ch27er; monkeymashingkeyboard | 62.5c |
