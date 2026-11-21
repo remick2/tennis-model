@@ -162,3 +162,25 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-21T00:56:07+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.17,Guido Ivan Justo,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.1,True,2026-11-21T00:56:07+00:00
 2026-11-21T00:56:17+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.16,Guido Ivan Justo,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-21T00:56:07+00:00
 2026-11-21T00:56:27+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.16,Guido Ivan Justo,kalshi,0.8,0.9805,0.0,0.0,0.0,0.0,,0.85,,0.1,True,2026-11-21T00:56:07+00:00
+2026-11-21T00:57:57+00:00,ivan v roncadelli,True,Franco Roncadelli,kalshi,0.18,Guido Justo,polyus,0.78,0.9823,0.0,0.0,0.0,0.0,0.23,,,0.1,True,2026-11-21T00:57:57+00:00
+2026-11-21T00:58:07+00:00,ivan v roncadelli,True,Franco Roncadelli,kalshi,0.18,Guido Justo,polyus,0.78,0.9823,0.0,0.0,0.0,0.0,0.23,,,0.1,True,2026-11-21T00:57:57+00:00
+2026-11-21T00:58:17+00:00,ivan v roncadelli,True,Franco Roncadelli,kalshi,0.18,Guido Justo,polyus,0.77,0.9726,0.0,0.0,0.0,0.0,0.24,,,0.1,True,2026-11-21T00:57:57+00:00
+2026-11-21T00:59:07+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.19,Guido Ivan Justo,kalshi,0.76,0.9735,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-21T00:59:07+00:00
+2026-11-21T00:59:17+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.19,Guido Ivan Justo,kalshi,0.76,0.9735,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-21T00:59:07+00:00
+2026-11-21T01:00:07+00:00,blanch v draxl,True,Darwin Blanch,polyus,0.74,Liam Draxl,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-21T01:00:07+00:00
+2026-11-21T01:00:17+00:00,blanch v draxl,True,Darwin Blanch,polyus,0.74,Liam Draxl,kalshi,0.23,0.9958,0.0,0.0,0.0,0.0,,0.26,,0.1,True,2026-11-21T01:00:07+00:00
+2026-11-21T01:00:57+00:00,ivan v roncadelli,True,Franco Roncadelli,kalshi,0.19,Guido Justo,polyus,0.77,0.9831,0.0,0.0,0.0,0.0,0.24,,,0.1,True,2026-11-21T01:00:57+00:00
+2026-11-21T01:01:17+00:00,blanch v draxl,True,Darwin Blanch,polyus,0.73,Liam Draxl,kalshi,0.24,0.9965,0.0,0.0,0.0,0.0,,0.29,,0.1,True,2026-11-21T01:01:17+00:00
+2026-11-21T01:01:27+00:00,blanch v draxl,True,Darwin Blanch,polyus,0.73,Liam Draxl,kalshi,0.24,0.9965,0.0,0.0,0.0,0.0,,0.28,,0.1,True,2026-11-21T01:01:17+00:00
+2026-11-21T01:01:47+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.19,Guido Ivan Justo,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-21T01:01:47+00:00
+2026-11-21T01:01:47+00:00,blanch v draxl,True,Darwin Blanch,polyus,0.66,Liam Draxl,kalshi,0.3,0.9903,0.0,0.0,0.0,0.0,,0.35,,0.1,True,2026-11-21T01:01:47+00:00
+2026-11-21T01:01:57+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.19,Guido Ivan Justo,kalshi,0.77,0.9831,0.0,0.0,0.0,0.0,,0.82,,0.1,True,2026-11-21T01:01:47+00:00
+2026-11-21T01:02:27+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.15,Guido Ivan Justo,kalshi,0.82,0.9892,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-21T01:02:27+00:00
+2026-11-21T01:02:37+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.15,Guido Ivan Justo,kalshi,0.82,0.9892,0.0,0.0,0.0,0.0,,0.86,,0.1,True,2026-11-21T01:02:27+00:00
+2026-11-21T01:07:07+00:00,ivan v roncadelli,True,Franco Roncadelli,kalshi,0.15,Guido Justo,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-21T01:07:07+00:00
+2026-11-21T01:07:17+00:00,ivan v roncadelli,True,Franco Roncadelli,kalshi,0.15,Guido Justo,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.18,,,0.1,True,2026-11-21T01:07:07+00:00
+2026-11-21T01:07:27+00:00,ivan v roncadelli,True,Franco Roncadelli,kalshi,0.15,Guido Justo,polyus,0.83,0.9987,0.0,0.0,0.0,0.0,0.19,,,0.1,True,2026-11-21T01:07:07+00:00
+2026-11-21T01:08:27+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.17,Guido Ivan Justo,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.1,True,2026-11-21T01:08:27+00:00
+2026-11-21T01:08:37+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.17,Guido Ivan Justo,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.1,True,2026-11-21T01:08:27+00:00
+2026-11-21T01:08:47+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.17,Guido Ivan Justo,kalshi,0.8,0.991,0.0,0.0,0.0,0.0,,0.84,,0.1,True,2026-11-21T01:08:27+00:00
+2026-11-21T01:09:17+00:00,ivan v roncadelli,True,Franco Roncadelli,polyus,0.14,Guido Ivan Justo,kalshi,0.84,0.9978,0.0,0.0,0.0,0.0,,0.87,,0.1,True,2026-11-21T01:09:17+00:00
