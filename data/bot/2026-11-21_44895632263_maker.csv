@@ -41,3 +41,5 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T14:07:13+00:00,alcaraz v shelton,True,kalshi:KXATPMATCH-26NOV21ALCSHE-ALC:yes,0.64,78,False,0.0106,2.0,hedged,polyus:aec-atp-caralc-benshe-2026-11-21:1,0.37,-2.36,-3.16,-2.36,True
 2026-11-21T14:07:51+00:00,alcaraz v shelton,True,polyus:aec-atp-caralc-benshe-2026-11-21:0,0.57,87,False,0.0132,2.0,unwound,kalshi:KXATPMATCH-26NOV21ALCSHE-SHE:yes,0.44,-2.37,-2.36,-2.36,True
 2026-11-21T14:19:33+00:00,alcaraz v shelton,True,kalshi:KXATPMATCH-26NOV21ALCSHE-SHE:yes,0.55,90,False,0.0087,2.0,hedged,polyus:aec-atp-caralc-benshe-2026-11-21:0,0.42,0.79,-3.76,0.79,True
+2026-11-21T14:30:55+00:00,alcaraz v shelton,True,kalshi:KXATPMATCH-26NOV21ALCSHE-ALC:yes,0.51,98,False,0.0084,2.0,hedged,polyus:aec-atp-caralc-benshe-2026-11-21:1,0.47,-0.17,-3.12,-0.17,True
+2026-11-21T14:40:19+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-KWON:yes,0.56,89,False,0.0132,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:1,0.45,-2.42,-3.33,-2.42,True
