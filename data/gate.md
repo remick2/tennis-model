@@ -1,4 +1,4 @@
-# Arb test status (Sat Nov 21 6:28AM MT)
+# Arb test status (Sat Nov 21 6:43AM MT)
 
 Fresh data only, since Nov 14 21:20 UTC. **PASSED on fresh data.** Next step is Remick's: add his 4 API keys as GitHub secrets, then tell Claude to turn it on ($20 test budget, $5 per arb). Nobody else turns it on.
 
@@ -13,11 +13,11 @@ Fresh data only, since Nov 14 21:20 UTC. **PASSED on fresh data.** Next step is 
 | Paper bot: fires still fillable 1s later | 31% | - |
 | Polymarket US reads refused as stale | 0.0% (oldest 1s) | < 5% |
 
-Coverage: 1508 candidate checks (list prices showed an arb), 36 got no Polymarket US book; 0 rate-limit hits; 348 failed list refreshes in 284,610 cycles; list vs book disagreed on 457 of 1472 checks.
+Coverage: 1508 candidate checks (list prices showed an arb), 36 got no Polymarket US book; 0 rate-limit hits; 348 failed list refreshes in 285,060 cycles; list vs book disagreed on 457 of 1472 checks.
 
 Note: at candidate moments the Polymarket US list disagreed with its book 31% of the time. Every fire is re-checked on the real book, so this means missed detections, not false fires.
 
-Bot coverage: 9,487 minutes watched. Cycles (2s each) where some pair cost under $1: **18,068**. Best a single fire would have netted: **$49.40**.
+Bot coverage: 9,502 minutes watched. Cycles (2s each) where some pair cost under $1: **18,068**. Best a single fire would have netted: **$49.40**.
 
 ## Maker test (rest a bid on one venue, hedge on the other if it fills)
 
