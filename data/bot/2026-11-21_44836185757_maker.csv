@@ -65,3 +65,7 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T01:45:30+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.22,227,False,0.0073,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.76,1.66,-4.91,1.66,True
 2026-11-21T01:46:46+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.94,6.08,-22.04,6.08,True
 2026-11-21T01:47:22+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.93,53,False,0.0061,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.06,0.32,-0.8,0.32,True
+2026-11-21T02:01:31+00:00,jasika v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JASSEK-SEK:yes,0.42,119,True,0.0128,2.0,hedged,polyus:aec-atp-omajas-phisek-2026-11-20:0,0.55,1.52,-3.21,1.52,True
+2026-11-21T02:03:57+00:00,jasika v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JASSEK-SEK:yes,0.38,131,True,0.0132,2.0,hedged,polyus:aec-atp-omajas-phisek-2026-11-20:0,0.59,1.73,-3.45,1.73,True
+2026-11-21T02:04:37+00:00,jasika v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JASSEK-SEK:yes,0.34,147,True,0.0138,2.0,hedged,polyus:aec-atp-omajas-phisek-2026-11-20:0,0.63,2.03,-3.75,2.03,True
+2026-11-21T02:06:07+00:00,jasika v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JASSEK-JAS:yes,0.61,81,False,0.014,1.9,hedged,polyus:aec-atp-omajas-phisek-2026-11-20:1,0.4,-2.16,-2.17,-2.16,True
