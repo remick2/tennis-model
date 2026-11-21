@@ -4,3 +4,8 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T17:38:01+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-MAY:yes,0.38,131,False,0.0132,1.8,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.59,1.73,-4.73,1.73,True
 2026-11-21T17:38:37+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-PAS:yes,0.61,81,False,0.014,2.2,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:0,0.36,1.13,-3.81,1.13,True
 2026-11-21T17:40:04+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-MAY:yes,0.32,156,True,0.0142,2.1,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.67,-0.84,-6.93,-0.84,True
+2026-11-21T17:58:56+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-PAS:yes,0.76,65,False,0.0081,2.0,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:0,0.22,0.52,-1.5,0.52,True
+2026-11-21T17:59:34+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-PAS:yes,0.74,67,False,0.0073,2.0,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:0,0.27,-1.59,-1.59,-1.59,True
+2026-11-21T17:59:34+00:00,mayot v passaro,True,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.74,67,False,0.0072,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-PAS:no,0.27,-1.59,-1.59,-1.59,True
+2026-11-21T18:05:34+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-MAY:yes,0.25,200,True,0.0063,2.0,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.73,1.26,-4.55,1.26,True
+2026-11-21T18:06:10+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-PAS:yes,0.73,68,False,0.007,2.0,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:0,0.25,0.47,-1.64,0.47,True
