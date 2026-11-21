@@ -1,4 +1,4 @@
-# Consensus paper tracker — Fri Nov 20, 4:40PM MT
+# Consensus paper tracker — Fri Nov 20, 5:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,11 +9,11 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 4-1 | +0.36 | 3 |
-| 2 agree | all 15 | 29-29 | -5.81 | 29-25 | -4.79 | 5 |
-| 2+ agree, 1+ against (split) | all 15 | 28-19 | +7.83 | 30-27 | +0.37 | 3 |
+| 2 agree | all 15 | 29-29 | -5.81 | 29-25 | -4.79 | 6 |
+| 2+ agree, 1+ against (split) | all 15 | 28-19 | +7.83 | 30-27 | +0.37 | 6 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 1-0 | +0.12 | 3 |
-| 2 agree | core 10 only | 18-14 | +0.61 | 15-11 | -1.25 | 3 |
-| 2+ agree, 1+ against (split) | core 10 only | 10-6 | +4.46 | 12-9 | -0.89 | 2 |
+| 2 agree | core 10 only | 18-14 | +0.61 | 15-11 | -1.25 | 4 |
+| 2+ agree, 1+ against (split) | core 10 only | 10-6 | +4.46 | 12-9 | -0.89 | 3 |
 
 **Go-live test (3+ agree, pre-game, after spread + fees):** 10 of 30 graded plays · net +5.47u · 8 wins vs 5.5 expected, z = +1.64 (needs 2.0+) → **not yet**. Passing needs all three: 30+ plays, positive net units, z of 2+.
 
@@ -89,3 +89,7 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-20 | NBA | Suns vs. Jazz | Jazz (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; ch27er | jakepaulthegoat2008 | 37.5c |
 | new | 2026-11-20 | CFB | Iowa State vs. UCF | UCF (Moneyline) | 3 agree, 0 against | in-play | monkeymashingkeyboard; 0xb4F978BE; bands1 | — | 57.5c |
 | new | 2026-11-20 | CFB | Iowa State vs. UCF | UCF (+1.5) (Spread) | 3 agree, 0 against | in-play | monkeymashingkeyboard; 0xb4F978BE; bands1 | — | 58.5c |
+| new | 2026-11-20 | NBA | Magic vs. Nets | Under 223.5 (Total) | 3 agree, 1 against | in-play | monkeymashingkeyboard; ic4cream; JoeyAroyyOO | jakepaulthegoat2008 | 49.5c |
+| new | 2026-11-20 | CFB | Bowling Green vs. Toledo | Bowling Green (+17.5) (Spread) | 2 agree, 0 against | in-play | purplegatto; ic4cream | — | 50.0c |
+| new | 2026-11-20 | NBA | Suns vs. Jazz | Under 226.5 (Total) | 2 agree, 1 against | pre-game | drainedandpoor; JoeyAroyyOO | jakepaulthegoat2008 | 50.5c |
+| new | 2026-11-20 | NBA | Hornets vs. Hawks | Hornets (+7.5) (Spread) | 2 agree, 1 against | in-play | drainedandpoor; BreakTheBank | 0x9f15613e | 69.5c |
