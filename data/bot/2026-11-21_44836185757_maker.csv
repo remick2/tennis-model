@@ -51,3 +51,9 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T01:20:53+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-JUS:yes,0.92,54,False,0.0055,1.9,hedged,polyus:aec-atp-guijus-fraron-2026-11-20:1,0.09,-0.85,-0.85,-0.85,True
 2026-11-21T01:21:21+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.54,92,False,0.013,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.43,1.19,-3.45,1.19,True
 2026-11-21T01:21:43+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-RON:yes,0.07,714,False,0.0143,2.0,hedged,polyus:aec-atp-guijus-fraron-2026-11-20:0,0.94,-9.94,-9.96,-9.94,True
+2026-11-21T01:22:14+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.47,106,True,0.0126,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.55,-3.94,-5.01,-3.94,True
+2026-11-21T01:22:28+00:00,ivan v roncadelli,True,polyus:aec-atp-guijus-fraron-2026-11-20:1,0.03,1666,True,0.0073,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-JUS:yes,0.98,-18.95,-18.93,-18.93,True
+2026-11-21T01:23:54+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.44,113,True,0.0127,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.6,-6.4,-6.42,-6.4,True
+2026-11-21T01:25:04+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.42,119,False,0.0128,2.6,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.55,1.52,-4.38,1.52,True
+2026-11-21T01:29:26+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.56,89,False,0.0132,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.45,-2.42,-2.43,-2.42,True
+2026-11-21T01:36:14+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.36,138,False,0.0135,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.61,1.86,-6.28,1.86,True
