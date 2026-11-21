@@ -20,3 +20,12 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T00:33:23+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.81,61,False,0.0102,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.17,0.62,-3.2,0.62,True
 2026-11-21T00:34:59+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.19,263,False,0.0085,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.79,2.23,-7.86,2.23,True
 2026-11-21T00:35:31+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.8,62,False,0.0097,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.2,-0.69,-1.98,-0.69,True
+2026-11-21T00:37:20+00:00,blanch v draxl,True,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.24,208,True,0.0065,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:no,0.78,-6.66,-6.64,-6.64,True
+2026-11-21T00:41:02+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.19,263,True,0.0085,2.7,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.83,-7.84,-7.86,-7.84,True
+2026-11-21T00:41:26+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.8,62,False,0.0097,2.1,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.18,0.6,-1.34,0.6,True
+2026-11-21T00:46:20+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-JUS:yes,0.48,104,False,0.0126,2.0,hedged,polyus:aec-atp-guijus-fraron-2026-11-20:1,0.54,-3.88,-3.89,-3.88,True
+2026-11-21T00:46:48+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-RON:yes,0.5,100,False,0.0127,2.0,hedged,polyus:aec-atp-guijus-fraron-2026-11-20:0,0.47,1.27,-4.74,1.27,True
+2026-11-21T00:48:28+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.14,357,True,0.0107,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.84,3.81,-9.78,3.81,True
+2026-11-21T00:50:42+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.14,357,False,0.0107,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.87,-6.38,-6.4,-6.38,True
+2026-11-21T00:51:08+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.84,59,False,0.0116,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.18,-1.79,-1.79,-1.79,True
+2026-11-21T00:51:26+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-RON:yes,0.38,131,True,0.0132,2.0,hedged,polyus:aec-atp-guijus-fraron-2026-11-20:0,0.59,1.73,-4.34,1.73,True
