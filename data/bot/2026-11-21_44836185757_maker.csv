@@ -100,3 +100,14 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T02:47:50+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.71,70,True,0.0166,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.32,-3.16,-3.17,-3.16,True
 2026-11-21T02:49:32+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.67,74,True,0.0051,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.31,0.38,-2.66,0.38,True
 2026-11-21T02:51:52+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.36,138,True,0.0135,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.61,1.86,-4.93,1.86,True
+2026-11-21T02:54:21+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.64,78,False,0.0146,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.33,1.14,-2.05,1.14,True
+2026-11-21T02:55:07+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.35,142,False,0.0136,2.6,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.62,1.93,-6.42,1.93,True
+2026-11-21T02:55:47+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.63,79,True,0.0144,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.34,1.14,-4.5,1.14,True
+2026-11-21T02:56:31+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.56,89,True,0.0132,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.41,1.17,-3.33,1.17,True
+2026-11-21T02:57:29+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.34,147,False,0.0138,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.63,2.03,-5.18,2.03,True
+2026-11-21T02:58:29+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.63,79,True,0.0246,2.2,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.43,-6.09,-6.1,-6.09,True
+2026-11-21T02:59:13+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.39,128,False,0.0131,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.58,1.67,-10.91,1.67,True
+2026-11-21T02:59:43+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.64,78,True,0.0146,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.33,1.14,-4.43,1.14,True
+2026-11-21T03:00:25+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.52,96,False,0.0128,1.9,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.45,1.23,-6.47,1.23,True
+2026-11-21T03:01:03+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.49,102,False,0.0127,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.48,1.29,-2.8,1.29,True
+2026-11-21T03:02:03+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.5,100,True,0.0227,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.46,2.27,-9.71,2.27,True
