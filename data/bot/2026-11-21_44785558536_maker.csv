@@ -1,0 +1,17 @@
+ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedge,hedge_worst_px,hedge_pnl,unwind_pnl,pnl,fresh
+2026-11-21T00:00:29+00:00,maxted v mitsui,True,kalshi:KXATPCHALLENGERMATCH-26NOV20MAXMIT-MIT:yes,0.77,64,True,0.0085,2.1,hedged,polyus:aec-atp-luimax-shumit-2026-11-20:0,0.24,-1.45,-2.12,-1.45,True
+2026-11-21T00:02:07+00:00,maxted v mitsui,True,kalshi:KXATPCHALLENGERMATCH-26NOV20MAXMIT-MIT:yes,0.67,74,False,0.0051,2.0,hedged,polyus:aec-atp-luimax-shumit-2026-11-20:0,0.35,-2.65,-2.66,-2.65,True
+2026-11-21T00:03:33+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.53,94,True,0.0129,1.9,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.44,1.21,-3.52,1.21,True
+2026-11-21T00:03:41+00:00,maxted v mitsui,True,kalshi:KXATPCHALLENGERMATCH-26NOV20MAXMIT-MAX:yes,0.25,200,False,0.0063,2.0,hedged,polyus:aec-atp-luimax-shumit-2026-11-20:1,0.73,1.26,-10.32,1.26,True
+2026-11-21T00:04:45+00:00,maxted v mitsui,True,kalshi:KXATPCHALLENGERMATCH-26NOV20MAXMIT-MAX:yes,0.24,208,False,0.0066,2.0,hedged,polyus:aec-atp-luimax-shumit-2026-11-20:1,0.79,-8.64,-8.66,-8.64,True
+2026-11-21T00:04:45+00:00,maxted v mitsui,True,polyus:aec-atp-luimax-shumit-2026-11-20:0,0.24,208,False,0.0065,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20MAXMIT-MIT:yes,0.79,-8.66,-8.64,-8.64,True
+2026-11-21T00:04:49+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-JUS:yes,0.77,64,False,0.0085,2.0,hedged,polyus:aec-atp-guijus-fraron-2026-11-20:1,0.25,-2.11,-2.12,-2.11,True
+2026-11-21T00:04:49+00:00,ivan v roncadelli,True,polyus:aec-atp-guijus-fraron-2026-11-20:0,0.76,65,False,0.008,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-RON:yes,0.25,-1.5,-1.5,-1.5,True
+2026-11-21T00:06:57+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-JUS:yes,0.76,65,True,0.0081,2.0,hedged,polyus:aec-atp-guijus-fraron-2026-11-20:1,0.22,0.52,-2.18,0.52,True
+2026-11-21T00:07:33+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-JUS:yes,0.72,69,False,0.0066,1.9,unwound,polyus:aec-atp-guijus-fraron-2026-11-20:1,0.3,-2.39,-2.22,-2.22,True
+2026-11-21T00:08:39+00:00,masarova v samson,True,kalshi:KXWTACHALLENGERMATCH-26NOV20MASSAM-MAS:yes,0.75,66,False,0.0077,2.0,hedged,polyus:aec-wta-rebmas-lausam-2026-11-20:1,0.25,-0.86,-1.55,-0.86,True
+2026-11-21T00:09:15+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-RON:yes,0.29,172,True,0.0051,2.0,hedged,polyus:aec-atp-guijus-fraron-2026-11-20:0,0.72,-4.13,-4.15,-4.13,True
+2026-11-21T00:09:39+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-RON:yes,0.26,192,False,0.006,2.0,hedged,polyus:aec-atp-guijus-fraron-2026-11-20:0,0.72,1.15,-4.44,1.15,True
+2026-11-21T00:10:13+00:00,maxted v mitsui,True,kalshi:KXATPCHALLENGERMATCH-26NOV20MAXMIT-MAX:yes,0.27,185,False,0.0057,2.0,hedged,polyus:aec-atp-luimax-shumit-2026-11-20:1,0.71,1.05,-7.91,1.05,True
+2026-11-21T00:10:41+00:00,maxted v mitsui,True,kalshi:KXATPCHALLENGERMATCH-26NOV20MAXMIT-MAX:yes,0.22,227,False,0.0073,2.0,hedged,polyus:aec-atp-luimax-shumit-2026-11-20:1,0.76,1.66,-7.08,1.66,True
+2026-11-21T00:11:35+00:00,ivan v roncadelli,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JUSRON-JUS:yes,0.7,71,False,0.006,1.7,hedged,polyus:aec-atp-guijus-fraron-2026-11-20:1,0.28,0.43,-1.77,0.43,True

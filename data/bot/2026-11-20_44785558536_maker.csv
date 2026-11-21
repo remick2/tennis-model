@@ -502,3 +502,4 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-20T23:53:08+00:00,blanch v draxl,True,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.38,131,False,0.0131,2.1,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.65,-5.62,-4.72,-4.72,True
 2026-11-20T23:53:54+00:00,maxted v mitsui,True,kalshi:KXATPCHALLENGERMATCH-26NOV20MAXMIT-MAX:yes,0.38,131,True,0.033,2.0,hedged,polyus:aec-atp-luimax-shumit-2026-11-20:1,0.62,-2.15,-8.58,-2.15,True
 2026-11-20T23:57:06+00:00,masarova v samson,True,kalshi:KXWTACHALLENGERMATCH-26NOV20MASSAM-SAM:yes,0.37,135,False,0.0133,2.0,hedged,polyus:aec-wta-rebmas-lausam-2026-11-20:0,0.63,-2.19,-3.53,-2.19,True
+2026-11-20T23:59:15+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.51,98,False,0.0127,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.46,1.25,-5.63,1.25,True
