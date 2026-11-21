@@ -9,3 +9,11 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T17:59:34+00:00,mayot v passaro,True,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.74,67,False,0.0072,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-PAS:no,0.27,-1.59,-1.59,-1.59,True
 2026-11-21T18:05:34+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-MAY:yes,0.25,200,True,0.0063,2.0,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.73,1.26,-4.55,1.26,True
 2026-11-21T18:06:10+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-PAS:yes,0.73,68,False,0.007,2.0,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:0,0.25,0.47,-1.64,0.47,True
+2026-11-21T18:09:56+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-MAY:yes,0.18,277,True,0.0089,2.0,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.8,2.46,-10.78,2.46,True
+2026-11-21T18:10:30+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-PAS:yes,0.83,60,False,0.0111,1.9,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:0,0.15,0.67,-3.72,0.67,True
+2026-11-21T18:11:56+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-MAY:yes,0.15,333,False,0.0102,2.0,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.83,3.39,-15.32,3.39,True
+2026-11-21T18:12:38+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-MAY:yes,0.06,833,True,0.0149,2.0,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.92,12.4,-18.9,12.4,True
+2026-11-21T18:12:38+00:00,lee v tarvet,False,kalshi:KXATPCHALLENGERMATCH-26NOV21LEETAR-LEE:yes,0.16,312,False,0.0097,32.0,hedged,polyus:aec-atp-jorlee-olitar-2026-11-21:1,0.85,-5.88,-5.9,-5.88,True
+2026-11-21T18:12:38+00:00,lee v tarvet,False,polyus:aec-atp-jorlee-olitar-2026-11-21:0,0.16,312,False,0.0097,32.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV21LEETAR-TAR:yes,0.85,-5.9,-5.88,-5.88,True
+2026-11-21T18:13:22+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-MAY:yes,0.03,1666,False,0.0073,2.0,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.97,-3.37,-18.95,-3.37,True
+2026-11-21T18:14:04+00:00,lee v tarvet,True,polyus:aec-atp-jorlee-olitar-2026-11-21:0,0.13,384,False,0.0111,1.8,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV21LEETAR-TAR:yes,0.88,-6.68,-6.66,-6.66,True
