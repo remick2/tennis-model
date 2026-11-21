@@ -6,3 +6,5 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T11:28:57+00:00,djere v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV21SAMDJE-DJE:yes,0.22,227,True,0.0073,1.9,hedged,polyus:aec-atp-tobsam-lasdje-2026-11-21:0,0.79,-4.89,-4.91,-4.89,True
 2026-11-21T11:32:46+00:00,djere v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV21SAMDJE-DJE:yes,0.13,384,True,0.0111,2.0,hedged,polyus:aec-atp-tobsam-lasdje-2026-11-21:0,0.88,-6.66,-6.68,-6.66,True
 2026-11-21T11:33:38+00:00,djere v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV21SAMDJE-SAM:yes,0.84,59,True,0.0116,2.0,hedged,polyus:aec-atp-tobsam-lasdje-2026-11-21:1,0.17,-1.17,-1.17,-1.17,True
+2026-11-21T11:36:39+00:00,djere v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV21SAMDJE-DJE:yes,0.14,357,True,0.0107,2.0,hedged,polyus:aec-atp-tobsam-lasdje-2026-11-21:0,0.88,-9.76,-9.78,-9.76,True
+2026-11-21T11:36:59+00:00,djere v samuel,True,kalshi:KXATPCHALLENGERMATCH-26NOV21SAMDJE-DJE:yes,0.1,500,True,0.0127,1.5,hedged,polyus:aec-atp-tobsam-lasdje-2026-11-21:0,0.88,6.33,-17.28,6.33,True
