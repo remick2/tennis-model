@@ -207,3 +207,14 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T04:21:31+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.35,142,False,0.0136,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.72,-11.93,-11.94,-11.93,True
 2026-11-21T04:21:31+00:00,kent v mayo,True,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.36,138,False,0.0133,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.72,-12.99,-12.97,-12.97,True
 2026-11-21T04:21:51+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-GOR:yes,0.7,71,True,0.006,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:1,0.33,-3.22,-3.23,-3.22,True
+2026-11-21T04:22:59+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:yes,0.84,59,True,0.0116,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:0,0.17,-1.17,-1.17,-1.17,True
+2026-11-21T04:23:25+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.48,104,True,0.0227,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.57,-6.97,-9.04,-6.97,True
+2026-11-21T04:23:41+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:yes,0.78,64,True,0.0297,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:0,0.18,1.9,-2.76,1.9,True
+2026-11-21T04:23:57+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.56,89,False,0.0132,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.41,1.17,-23.58,1.17,True
+2026-11-21T04:24:03+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.22,227,False,0.0073,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.76,1.66,-9.26,1.66,True
+2026-11-21T04:24:41+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.65,76,False,0.0149,2.0,unwound,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.57,-18.01,-17.52,-17.52,True
+2026-11-21T04:25:13+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.53,94,False,0.0129,1.6,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.44,1.21,-13.8,1.21,True
+2026-11-21T04:25:17+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.21,238,True,0.0173,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.85,-16.39,-20.92,-16.39,True
+2026-11-21T04:25:47+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.32,156,False,0.0142,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.69,-3.88,-3.9,-3.88,True
+2026-11-21T04:26:17+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.14,357,True,0.0107,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.84,3.81,-22.34,3.81,True
+2026-11-21T04:31:05+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.96,-12.67,-22.04,-12.67,True
