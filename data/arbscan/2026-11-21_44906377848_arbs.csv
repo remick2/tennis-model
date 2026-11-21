@@ -1,0 +1,6 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-21T14:06:08+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.41,Carlos Alcaraz,kalshi,0.55,0.9941,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-21T14:06:08+00:00
+2026-11-21T14:06:48+00:00,alcaraz v shelton,True,Ben Shelton,polyus,0.34,Carlos Alcaraz,kalshi,0.6,0.9724,0.0,0.0,0.0,0.0,,0.67,,0.0,True,2026-11-21T14:06:48+00:00
+2026-11-21T14:07:58+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.36,Carlos Alcaraz,polyus,0.57,0.9632,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-21T14:07:58+00:00
+2026-11-21T14:08:08+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.36,Carlos Alcaraz,polyus,0.57,0.9632,0.0,0.0,0.0,0.0,0.44,,,0.0,True,2026-11-21T14:07:58+00:00
+2026-11-21T14:08:18+00:00,alcaraz v shelton,True,Ben Shelton,kalshi,0.36,Carlos Alcaraz,polyus,0.57,0.9632,0.0,0.0,0.0,0.0,0.47,,,0.0,True,2026-11-21T14:07:58+00:00
