@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 21, 6:40AM MT
+# Consensus paper tracker — Sat Nov 21, 7:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,7 +10,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 6-1 | +1.81 | 1 |
 | 2 agree | all 15 | 30-30 | -5.91 | 29-27 | -6.79 | 3 |
-| 2+ agree, 1+ against (split) | all 15 | 31-21 | +9.22 | 31-29 | -1.03 | 0 |
+| 2+ agree, 1+ against (split) | all 15 | 31-21 | +9.22 | 31-29 | -1.03 | 1 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 3-0 | +1.57 | 1 |
 | 2 agree | core 10 only | 18-14 | +0.61 | 15-12 | -2.25 | 3 |
 | 2+ agree, 1+ against (split) | core 10 only | 11-7 | +4.81 | 12-10 | -1.89 | 0 |
@@ -82,3 +82,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+16.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 52.5c |
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
 | new | 2026-11-22 | NFL | Buccaneers vs. Lions | Buccaneers (+6.5) (Spread) | 3 agree, 0 against | pre-game | monkeymashingkeyboard; 0xb4F978BE; bands1 | — | 54.5c |
+| new | 2026-11-21 | EPL | Tottenham Hotspur FC vs. Ipswich Town FC | Tottenham Hotspur FC win: No (3-way) | 2 agree, 1 against | pre-game | BreakTheBank; Kyn008 | 0xb4F978BE | 35.5c |
