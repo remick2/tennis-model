@@ -1,9 +1,10 @@
 {
  "open": [],
- "realized": 0.0,
+ "realized": -0.13,
  "loss_by_day": {
   "2026-11-20": 0.13
  },
  "trades": 0,
- "first_trade_alerted": true
+ "first_trade_alerted": true,
+ "unwinds_in_realized": true
 }
