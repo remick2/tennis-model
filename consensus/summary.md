@@ -1,4 +1,4 @@
-# Consensus paper tracker — Fri Nov 20, 9:40PM MT
+# Consensus paper tracker — Fri Nov 20, 10:40PM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -10,7 +10,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 6-1 | +1.81 | 1 |
 | 2 agree | all 15 | 30-30 | -5.91 | 29-27 | -6.79 | 3 |
-| 2+ agree, 1+ against (split) | all 15 | 29-20 | +8.18 | 30-29 | -1.63 | 4 |
+| 2+ agree, 1+ against (split) | all 15 | 31-21 | +9.22 | 31-29 | -1.03 | 0 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 3-0 | +1.57 | 1 |
 | 2 agree | core 10 only | 18-14 | +0.61 | 15-12 | -2.25 | 3 |
 | 2+ agree, 1+ against (split) | core 10 only | 11-7 | +4.81 | 12-10 | -1.89 | 0 |
@@ -23,7 +23,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 |---|---|---|---|---|---|
 | 3+ agree (paper play) | 10 | 8 vs 5.5 (+2.5) | +5.83 | +5.47 | +1.75c avg (10) |
 | 2 agree | 60 | 30 vs 31.9 (-1.9) | -5.91 | -7.64 | +0.34c avg (60) |
-| 2+ agree, 1+ against (split) | 49 | 29 vs 24.1 (+4.9) | +8.18 | +6.45 | +0.29c avg (49) |
+| 2+ agree, 1+ against (split) | 52 | 31 vs 25.5 (+5.5) | +9.22 | +7.33 | +0.27c avg (52) |
 
 Units after spread + fees = paying the ask (or logged price + 0.5c when the ask wasn't recorded) plus Polymarket's taker fee (rate x (1 - price) of the stake, about 2.5% at 50c). Price move = closing price minus logged price; sharp signals should see the price move their way before the game.
 
@@ -82,7 +82,3 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Pepperdine Waves vs. Oregon Ducks | Pepperdine Waves (+16.5) (Spread) | 2 agree, 0 against | pre-game | 0xb4F978BE; ic4cream | — | 52.5c |
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
 | new | 2026-11-22 | NFL | Buccaneers vs. Lions | Buccaneers (+6.5) (Spread) | 3 agree, 0 against | pre-game | monkeymashingkeyboard; 0xb4F978BE; bands1 | — | 54.5c |
-| new | 2026-11-20 | NBA | Suns vs. Jazz | Jazz (Moneyline) | 2 agree, 1 against | pre-game | monkeymashingkeyboard; ch27er | jakepaulthegoat2008 | 37.5c |
-| new | 2026-11-20 | NBA | Suns vs. Jazz | Under 226.5 (Total) | 2 agree, 1 against | pre-game | drainedandpoor; JoeyAroyyOO | jakepaulthegoat2008 | 50.5c |
-| new | 2026-11-20 | NBA | Rockets vs. Nuggets | Nuggets (Moneyline) | 2 agree, 1 against | pre-game | BreakTheBank; ch27er | monkeymashingkeyboard | 48.5c |
-| new | 2026-11-20 | NBA | Suns vs. Jazz | Suns (Moneyline) | 2 agree, 2 against | in-play | jakepaulthegoat2008; BreakTheBank | ch27er; monkeymashingkeyboard | 62.5c |
