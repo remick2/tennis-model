@@ -218,3 +218,8 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T04:25:47+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.32,156,False,0.0142,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.69,-3.88,-3.9,-3.88,True
 2026-11-21T04:26:17+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.14,357,True,0.0107,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.84,3.81,-22.34,3.81,True
 2026-11-21T04:31:05+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.96,-12.67,-22.04,-12.67,True
+2026-11-21T04:55:13+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-GOR:yes,0.46,108,True,0.0126,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:1,0.55,-2.94,-3.99,-2.94,True
+2026-11-21T05:01:04+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-GOR:yes,0.46,108,False,0.0126,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:1,0.51,1.36,-2.95,1.36,True
+2026-11-21T05:01:40+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-TUL:yes,0.53,94,False,0.0129,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:0,0.5,-4.45,-4.47,-4.45,True
+2026-11-21T05:02:48+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-TUL:yes,0.53,94,False,0.0129,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:0,0.5,-4.45,-4.47,-4.45,True
+2026-11-21T05:07:08+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-TUL:yes,0.28,178,False,0.0054,2.0,unwound,polyus:aec-atp-sebgor-litu-2026-11-20:0,0.75,-7.66,-7.39,-7.39,True
