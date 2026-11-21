@@ -168,3 +168,43 @@ ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,bo
 2026-11-21T04:20:59+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.33,James Kent Trotter,polyus,0.6,0.9622,0.0,0.0,0.0,0.0,0.41,,,0.0,True,2026-11-21T04:20:59+00:00
 2026-11-21T04:21:09+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.33,James Kent Trotter,polyus,0.6,0.9622,0.0,0.0,0.0,0.0,0.41,,,0.0,True,2026-11-21T04:20:59+00:00
 2026-11-21T04:21:39+00:00,kent v mayo,True,Aidan Mayo,polyus,0.29,James Kent Trotter,kalshi,0.6,0.9211,0.0,0.0,0.0,0.0,,0.72,,0.0,True,2026-11-21T04:21:39+00:00
+2026-11-21T04:22:29+00:00,gorzny v li tu,True,Li Tu,kalshi,0.3,Sebastian Gorzny,polyus,0.64,0.9707,0.0,0.0,0.0,0.0,0.37,,,0.0,True,2026-11-21T04:22:29+00:00
+2026-11-21T04:22:49+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.29,James Kent Trotter,polyus,0.53,0.8517,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-21T04:22:49+00:00
+2026-11-21T04:22:59+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.29,James Kent Trotter,polyus,0.53,0.8517,0.0,0.0,0.0,0.0,0.48,,,0.0,True,2026-11-21T04:22:49+00:00
+2026-11-21T04:22:59+00:00,hassan v watanuki,True,Benjamin Hassan,kalshi,0.14,Yosuke Watanuki,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.0,True,2026-11-21T04:22:59+00:00
+2026-11-21T04:23:09+00:00,hassan v watanuki,True,Benjamin Hassan,kalshi,0.14,Yosuke Watanuki,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.0,True,2026-11-21T04:22:59+00:00
+2026-11-21T04:23:19+00:00,hassan v watanuki,True,Benjamin Hassan,kalshi,0.14,Yosuke Watanuki,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.0,True,2026-11-21T04:22:59+00:00
+2026-11-21T04:23:29+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.48,James Kent Trotter,polyus,0.41,0.9243,0.0,0.0,0.0,0.0,0.6,,,0.0,True,2026-11-21T04:23:29+00:00
+2026-11-21T04:23:29+00:00,hassan v watanuki,True,Benjamin Hassan,kalshi,0.14,Yosuke Watanuki,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.0,True,2026-11-21T04:22:59+00:00
+2026-11-21T04:23:39+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.52,James Kent Trotter,polyus,0.41,0.9643,0.0,0.0,0.0,0.0,0.6,,,0.0,True,2026-11-21T04:23:29+00:00
+2026-11-21T04:23:49+00:00,hassan v watanuki,True,Benjamin Hassan,kalshi,0.17,Yosuke Watanuki,polyus,0.76,0.9526,0.0,0.0,0.0,0.0,0.25,,,0.0,True,2026-11-21T04:23:49+00:00
+2026-11-21T04:23:49+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.52,James Kent Trotter,polyus,0.41,0.9643,0.0,0.0,0.0,0.0,0.63,,,0.0,True,2026-11-21T04:23:29+00:00
+2026-11-21T04:23:59+00:00,kent v mayo,True,Aidan Mayo,polyus,0.32,James Kent Trotter,kalshi,0.52,0.8726,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-21T04:23:59+00:00
+2026-11-21T04:23:59+00:00,hassan v watanuki,True,Benjamin Hassan,kalshi,0.17,Yosuke Watanuki,polyus,0.76,0.9526,0.0,0.0,0.0,0.0,0.25,,,0.0,True,2026-11-21T04:23:49+00:00
+2026-11-21T04:24:09+00:00,kent v mayo,True,Aidan Mayo,polyus,0.32,James Kent Trotter,kalshi,0.47,0.8226,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-21T04:23:59+00:00
+2026-11-21T04:24:09+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.2,Yosuke Watanuki,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-21T04:24:09+00:00
+2026-11-21T04:24:19+00:00,kent v mayo,True,Aidan Mayo,polyus,0.32,James Kent Trotter,kalshi,0.47,0.8226,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-21T04:23:59+00:00
+2026-11-21T04:24:19+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.2,Yosuke Watanuki,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-21T04:24:09+00:00
+2026-11-21T04:24:29+00:00,kent v mayo,True,Aidan Mayo,polyus,0.32,James Kent Trotter,kalshi,0.47,0.8226,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-21T04:23:59+00:00
+2026-11-21T04:24:29+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.2,Yosuke Watanuki,kalshi,0.76,0.9839,0.0,0.0,0.0,0.0,,0.81,,0.0,True,2026-11-21T04:24:09+00:00
+2026-11-21T04:24:49+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.32,James Kent Trotter,polyus,0.43,0.7823,0.0,0.0,0.0,0.0,0.59,,,0.0,True,2026-11-21T04:24:49+00:00
+2026-11-21T04:24:49+00:00,hassan v watanuki,True,Benjamin Hassan,kalshi,0.2,Yosuke Watanuki,polyus,0.76,0.9839,0.0,0.0,0.0,0.0,0.25,,,0.0,True,2026-11-21T04:24:49+00:00
+2026-11-21T04:24:59+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.32,James Kent Trotter,polyus,0.42,0.7722,0.0,0.0,0.0,0.0,0.59,,,0.0,True,2026-11-21T04:24:49+00:00
+2026-11-21T04:24:59+00:00,hassan v watanuki,True,Benjamin Hassan,kalshi,0.2,Yosuke Watanuki,polyus,0.76,0.9839,0.0,0.0,0.0,0.0,0.25,,,0.0,True,2026-11-21T04:24:49+00:00
+2026-11-21T04:25:19+00:00,kent v mayo,True,Aidan Mayo,polyus,0.41,James Kent Trotter,kalshi,0.42,0.8639,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-21T04:25:19+00:00
+2026-11-21T04:25:19+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.14,Yosuke Watanuki,kalshi,0.76,0.9211,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-21T04:25:19+00:00
+2026-11-21T04:25:29+00:00,kent v mayo,True,Aidan Mayo,polyus,0.41,James Kent Trotter,kalshi,0.42,0.8639,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-21T04:25:19+00:00
+2026-11-21T04:25:29+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.14,Yosuke Watanuki,kalshi,0.76,0.9211,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-21T04:25:19+00:00
+2026-11-21T04:25:39+00:00,kent v mayo,True,Aidan Mayo,polyus,0.41,James Kent Trotter,kalshi,0.42,0.8639,0.0,0.0,0.0,0.0,,0.6,,0.0,True,2026-11-21T04:25:19+00:00
+2026-11-21T04:25:39+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.14,Yosuke Watanuki,kalshi,0.76,0.9211,0.0,0.0,0.0,0.0,,0.87,,0.0,True,2026-11-21T04:25:19+00:00
+2026-11-21T04:25:49+00:00,kent v mayo,True,Aidan Mayo,polyus,0.32,James Kent Trotter,kalshi,0.6,0.9519,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-21T04:25:19+00:00
+2026-11-21T04:26:09+00:00,hassan v watanuki,True,Benjamin Hassan,kalshi,0.14,Yosuke Watanuki,polyus,0.84,0.9978,0.0,0.0,0.0,0.0,0.17,,,0.0,True,2026-11-21T04:26:09+00:00
+2026-11-21T04:26:19+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.12,Yosuke Watanuki,kalshi,0.84,0.9767,0.0,0.0,0.0,0.0,,0.93,,0.0,True,2026-11-21T04:26:19+00:00
+2026-11-21T04:26:29+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.08,Yosuke Watanuki,kalshi,0.84,0.9345,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-21T04:26:19+00:00
+2026-11-21T04:26:39+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.08,Yosuke Watanuki,kalshi,0.84,0.9345,0.0,0.0,0.0,0.0,,0.92,,0.0,True,2026-11-21T04:26:19+00:00
+2026-11-21T04:28:49+00:00,gorzny v li tu,True,Li Tu,kalshi,0.46,Sebastian Gorzny,polyus,0.5,0.9948,0.0,0.0,0.0,0.0,0.51,,,0.0,True,2026-11-21T04:28:49+00:00
+2026-11-21T04:28:59+00:00,gorzny v li tu,True,Li Tu,kalshi,0.46,Sebastian Gorzny,polyus,0.5,0.9948,0.0,0.0,0.0,0.0,0.51,,,0.0,True,2026-11-21T04:28:49+00:00
+2026-11-21T04:30:49+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.07,Yosuke Watanuki,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-21T04:30:49+00:00
+2026-11-21T04:30:59+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.07,Yosuke Watanuki,kalshi,0.92,0.9997,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-21T04:30:49+00:00
+2026-11-21T04:31:09+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.05,Yosuke Watanuki,kalshi,0.92,0.9785,0.0,0.0,0.0,0.0,,0.97,,0.0,True,2026-11-21T04:30:49+00:00
+2026-11-21T04:36:39+00:00,hassan v watanuki,True,Benjamin Hassan,polyus,0.02,Yosuke Watanuki,kalshi,0.97,0.9934,0.0,0.0,0.0,0.0,,0.99,,0.1,True,2026-11-21T04:36:39+00:00
