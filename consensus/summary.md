@@ -1,4 +1,4 @@
-# Consensus paper tracker — Sat Nov 21, 7:40AM MT
+# Consensus paper tracker — Sat Nov 21, 8:40AM MT
 
 Paper tracking only. 1 unit flat at the price when each signal was logged.
 
@@ -9,7 +9,7 @@ In: BreakTheBank, purplegatto, 999585, Kyn008, JoeyAroyyOO. 'Core 10' = the firs
 | Rule | Group | Pre-game record | Pre-game units | In-play record | In-play units | Open |
 |---|---|---|---|---|---|---|
 | 3+ agree (paper play) | all 15 | 8-2 | +5.83 | 6-1 | +1.81 | 1 |
-| 2 agree | all 15 | 30-30 | -5.91 | 29-27 | -6.79 | 3 |
+| 2 agree | all 15 | 30-30 | -5.91 | 29-27 | -6.79 | 4 |
 | 2+ agree, 1+ against (split) | all 15 | 31-21 | +9.22 | 31-29 | -1.03 | 1 |
 | 3+ agree (paper play) | core 10 only | 5-2 | +3.22 | 3-0 | +1.57 | 1 |
 | 2 agree | core 10 only | 18-14 | +0.61 | 15-12 | -2.25 | 3 |
@@ -54,25 +54,25 @@ Included Multicoloured-Serf, googleplay, ethanaz, 0xd4aa6f8e and scootergene. Ro
 
 Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody against. Split = 2+ agree but someone in the group is on the other side. Pre-game = logged before the game started (what you could actually bet off an alert); in-play = the agreement only showed up after the start, graded at the live price when logged.
 
-## Roster health (last 7 days, checked 2026-11-20)
+## Roster health (last 7 days, checked 2026-11-21)
 
 | Trader | Bets/day | Active days | Both-sides % | Share of agreements | Avg stake | Top sports |
 |---|---|---|---|---|---|---|
-| monkeymashingkeyboard | 15.0 | 8 | 1% | 23% of 124 | $17,975 | nba,nfl,cfb |
-| purplegatto | 10.0 | 7 | 13% | 23% of 124 | $6,878 | nfl,nba,cfb |
-| jakepaulthegoat2008 | 10.4 | 5 | 2% | 35% of 124 | $58,631 | nba,nhl,cs2 |
-| 0xb4F978BE | 6.0 | 7 | 8% | 13% of 124 | $6,750 | nba,cfb,nfl |
-| bands1 | 6.4 | 8 | 2% | 12% of 124 | $15,535 | nfl,cfb,nba |
-| fantasy7788 | 4.7 | 4 | 3% | 7% of 124 | $29,748 | cs2,lol,nba |
-| drainedandpoor | 5.9 | 8 | 0% | 14% of 124 | $12,106 | cs2,nba |
-| 999585 | 3.0 | 6 | 0% | 3% of 124 | $184,094 | cfb,nfl,wta |
-| 0x9f15613e | 14.1 | 6 | 3% | 18% of 124 | $9,002 | nba,nfl,unl |
-| ic4cream | 4.3 | 8 | 5% | 10% of 124 | $5,985 | nfl,nba,cbb |
-| BreakTheBank | 8.9 | 5 | 0% | 22% of 124 | $103,031 | nfl,nba |
-| ch27er | 12.3 | 8 | 0% | 7% of 124 | $3,877 | atp,nba,unl |
-| ianf2026 | 4.6 | 6 | 0% | 9% of 124 | $4,214 | nba |
-| JoeyAroyyOO | 11.1 | 8 | 2% | 13% of 124 | $6,960 | nba |
-| Kyn008 | 3.4 | 8 | 0% | 2% of 124 | $18,325 | unl,es2,fr2 |
+| monkeymashingkeyboard | 14.3 | 8 | 1% | 23% of 122 | $18,393 | nba,nfl,cfb |
+| purplegatto | 10.3 | 7 | 13% | 22% of 122 | $7,242 | nfl,nba,cfb |
+| jakepaulthegoat2008 | 11.6 | 5 | 2% | 30% of 122 | $59,366 | nba,nhl,cs2 |
+| 0xb4F978BE | 5.7 | 8 | 5% | 13% of 122 | $8,475 | nba,cfb,nfl |
+| bands1 | 6.9 | 8 | 2% | 13% of 122 | $15,236 | cfb,nfl,nba |
+| fantasy7788 | 4.0 | 5 | 4% | 4% of 122 | $29,440 | lol,cs2,nba |
+| drainedandpoor | 5.9 | 8 | 2% | 14% of 122 | $11,808 | nba,cs2 |
+| 999585 | 3.0 | 6 | 0% | 3% of 122 | $178,065 | nfl,cfb,wta |
+| 0x9f15613e | 13.6 | 7 | 3% | 16% of 122 | $10,983 | nba,nfl,unl |
+| ic4cream | 5.3 | 8 | 5% | 13% of 122 | $5,852 | nba,nfl,cbb |
+| BreakTheBank | 10.4 | 7 | 0% | 23% of 122 | $106,821 | nba,nfl,epl |
+| ch27er | 12.7 | 8 | 0% | 8% of 122 | $4,063 | atp,nba,unl |
+| ianf2026 | 4.6 | 6 | 0% | 9% of 122 | $4,214 | nba |
+| JoeyAroyyOO | 14.0 | 8 | 2% | 16% of 122 | $7,408 | nba |
+| Kyn008 | 4.7 | 8 | 0% | 4% of 122 | $10,987 | unl,lal,epl |
 
 ## Open signals
 
@@ -83,3 +83,4 @@ Paper play = 3+ agree, nobody against. Track only = exactly 2 agree, nobody agai
 | new | 2026-11-15 | CBB | Washington Huskies vs. Utah Utes | Utah Utes (Moneyline) | 2 agree, 0 against | in-play | 0x9f15613e; ic4cream | — | 51.5c |
 | new | 2026-11-22 | NFL | Buccaneers vs. Lions | Buccaneers (+6.5) (Spread) | 3 agree, 0 against | pre-game | monkeymashingkeyboard; 0xb4F978BE; bands1 | — | 54.5c |
 | new | 2026-11-21 | EPL | Tottenham Hotspur FC vs. Ipswich Town FC | Tottenham Hotspur FC win: No (3-way) | 2 agree, 1 against | pre-game | BreakTheBank; Kyn008 | 0xb4F978BE | 35.5c |
+| new | 2026-11-21 | EPL | Tottenham Hotspur FC vs. Ipswich Town FC | Ipswich Town FC win: Yes (3-way) | 2 agree, 0 against | in-play | BreakTheBank; Kyn008 | — | 4.5c |
