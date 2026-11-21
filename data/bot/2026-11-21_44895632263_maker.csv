@@ -114,3 +114,5 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T16:41:32+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-GUE:yes,0.5,100,False,0.0127,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:0,0.52,-3.73,-5.74,-3.73,True
 2026-11-21T16:41:32+00:00,gueymard v kwon,True,polyus:aec-atp-sookwo-sasgue-2026-11-21:1,0.5,100,False,0.0126,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-KWON:yes,0.54,-5.74,-3.73,-3.73,True
 2026-11-21T16:41:42+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-GUE:yes,0.43,116,False,0.0127,2.4,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:0,0.59,-4.27,-13.74,-4.27,True
+2026-11-21T17:05:47+00:00,mayot v passaro,True,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-MAY:yes,0.48,104,False,0.0126,1.6,hedged,polyus:aec-atp-harmay-frapas-2026-11-21:1,0.49,1.31,-2.85,1.31,True
+2026-11-21T17:06:20+00:00,mayot v passaro,True,polyus:aec-atp-harmay-frapas-2026-11-21:0,0.42,119,False,0.0127,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV21MAYPAS-PAS:yes,0.59,-3.21,-3.19,-3.19,True
