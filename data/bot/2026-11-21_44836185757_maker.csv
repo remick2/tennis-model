@@ -57,3 +57,11 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T01:25:04+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.42,119,False,0.0128,2.6,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.55,1.52,-4.38,1.52,True
 2026-11-21T01:29:26+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.56,89,False,0.0132,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.45,-2.42,-2.43,-2.42,True
 2026-11-21T01:36:14+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.36,138,False,0.0135,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.61,1.86,-6.28,1.86,True
+2026-11-21T01:40:14+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.47,106,False,0.0126,1.9,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.5,1.34,-3.96,1.34,True
+2026-11-21T01:42:52+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.35,142,False,0.0136,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.65,-2.25,-5.04,-2.25,True
+2026-11-21T01:43:24+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.27,185,True,0.0057,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.71,1.05,-9.69,1.05,True
+2026-11-21T01:43:44+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.74,67,False,0.0073,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.24,0.49,-2.04,0.49,True
+2026-11-21T01:45:07+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.79,63,True,0.0093,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.22,-1.38,-3.35,-1.38,True
+2026-11-21T01:45:30+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.22,227,False,0.0073,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.76,1.66,-4.91,1.66,True
+2026-11-21T01:46:46+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-BLA:yes,0.05,1000,False,0.0061,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:1,0.94,6.08,-22.04,6.08,True
+2026-11-21T01:47:22+00:00,blanch v draxl,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BLADRA-DRA:yes,0.93,53,False,0.0061,2.0,hedged,polyus:aec-atp-darbla-liadra-2026-11-20:0,0.06,0.32,-0.8,0.32,True
