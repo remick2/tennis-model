@@ -76,3 +76,10 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T02:17:45+00:00,jasika v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JASSEK-SEK:yes,0.26,192,True,0.006,2.0,hedged,polyus:aec-atp-omajas-phisek-2026-11-20:0,0.75,-4.42,-4.44,-4.42,True
 2026-11-21T02:21:19+00:00,broady v friend,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BROHAR-HAR:yes,0.47,106,True,0.0126,1.9,hedged,polyus:aec-atp-liabro-jayfri-2026-11-20:0,0.53,-1.84,-2.9,-1.84,True
 2026-11-21T02:21:57+00:00,broady v friend,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BROHAR-HAR:yes,0.42,119,True,0.0128,2.1,hedged,polyus:aec-atp-liabro-jayfri-2026-11-20:0,0.55,1.52,-3.21,1.52,True
+2026-11-21T02:22:22+00:00,broady v friend,True,kalshi:KXATPCHALLENGERMATCH-26NOV20BROHAR-HAR:yes,0.38,131,True,0.0132,2.5,hedged,polyus:aec-atp-liabro-jayfri-2026-11-20:0,0.67,-8.56,-8.58,-8.56,True
+2026-11-21T02:27:50+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.54,92,True,0.0231,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.42,2.12,-4.37,2.12,True
+2026-11-21T02:28:24+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.48,104,False,0.0126,2.2,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.49,1.31,-5.95,1.31,True
+2026-11-21T02:35:00+00:00,jasika v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JASSEK-JAS:yes,0.78,64,False,0.0089,2.0,hedged,polyus:aec-atp-omajas-phisek-2026-11-20:1,0.2,0.57,-2.1,0.57,True
+2026-11-21T02:35:44+00:00,jasika v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JASSEK-SEK:yes,0.23,217,True,0.007,2.0,hedged,polyus:aec-atp-omajas-phisek-2026-11-20:0,0.75,1.51,-6.86,1.51,True
+2026-11-21T02:36:50+00:00,jasika v sekulic,True,kalshi:KXATPCHALLENGERMATCH-26NOV20JASSEK-SEK:yes,0.16,312,False,0.0097,2.0,hedged,polyus:aec-atp-omajas-phisek-2026-11-20:0,0.82,3.04,-5.9,3.04,True
+2026-11-21T02:37:14+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.54,92,True,0.013,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.5,-5.28,-5.29,-5.28,True
