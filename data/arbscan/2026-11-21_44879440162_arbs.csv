@@ -1,0 +1,9 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-21T11:14:10+00:00,djere v samuel,True,Laslo Djere,polyus,0.4,Toby Samuel,kalshi,0.55,0.984,0.0,0.0,0.0,0.0,,0.61,,0.1,True,2026-11-21T11:14:10+00:00
+2026-11-21T11:17:00+00:00,djere v samuel,True,Laslo Djere,kalshi,0.36,Toby Samuel,polyus,0.6,0.9928,0.0,0.0,0.0,0.0,0.4,,,0.0,True,2026-11-21T11:17:00+00:00
+2026-11-21T11:17:10+00:00,djere v samuel,True,Laslo Djere,kalshi,0.36,Toby Samuel,polyus,0.6,0.9928,0.0,0.0,0.0,0.0,0.41,,,0.0,True,2026-11-21T11:17:00+00:00
+2026-11-21T11:17:40+00:00,djere v samuel,True,Laslo Djere,polyus,0.33,Toby Samuel,kalshi,0.6,0.9622,0.0,0.0,0.0,0.0,,0.68,,0.0,True,2026-11-21T11:17:40+00:00
+2026-11-21T11:17:50+00:00,djere v samuel,True,Laslo Djere,polyus,0.33,Toby Samuel,kalshi,0.63,0.9917,0.0,0.0,0.0,0.0,,0.68,,0.0,True,2026-11-21T11:17:40+00:00
+2026-11-21T11:18:00+00:00,djere v samuel,True,Laslo Djere,polyus,0.32,Toby Samuel,kalshi,0.63,0.9814,0.0,0.0,0.0,0.0,,0.69,,0.0,True,2026-11-21T11:17:40+00:00
+2026-11-21T11:18:10+00:00,djere v samuel,True,Laslo Djere,polyus,0.32,Toby Samuel,kalshi,0.63,0.9814,0.0,0.0,0.0,0.0,,0.71,,0.0,True,2026-11-21T11:17:40+00:00
+2026-11-21T11:18:30+00:00,djere v samuel,True,Laslo Djere,polyus,0.26,Toby Samuel,kalshi,0.69,0.9783,0.0,0.0,0.0,0.0,,0.75,,0.0,True,2026-11-21T11:18:30+00:00
