@@ -166,6 +166,19 @@ check("live: Polymarket US order times out => live off, no Kalshi order sent", r
 lv4 = LIVE.Live.__new__(LIVE.Live); lv4.p, lv4.k, lv4.off_reason, lv4.L, lv4.errors = FakeP(), FakeK(), None, {"open": []}, 0
 r4 = B.live_fire(lv4, "a v b", {"live": True}, B.Consumed(), 0.1, ("polyus", "S", "1"), ("kalshi", "KA", "yes"), 500, [(0.5, 500)], [(0.46, 500)], 0.1)
 check("live: an order over the hard size limit is refused before anything is sent", r4 is None and "bigger than the hard limits" in lv4.off_reason)
+# --- Kalshi never fills after Polymarket US did => sold back, and the loss counts toward the lifetime stop
+class FillP:
+    def order(self, slug, idx, qty, lim, cid, sell=False):
+        return {"ok": True, "filled": float(qty), "avg": (0.74 if sell else 0.78), "fee": 0.0, "code": 200, "resp": {}}
+class NoK:
+    def order(self, *a, **k): return {"ok": True, "filled": 0.0, "avg": 0.0, "fee": 0.0, "code": 200, "resp": {}}
+lv5 = LIVE.Live.__new__(LIVE.Live); lv5.p, lv5.k, lv5.off_reason, lv5.errors = FillP(), NoK(), None, 0
+lv5.L = {"open": [], "realized": 0.0, "loss_by_day": {}, "trades": 0, "first_trade_alerted": True}
+lv5.bal = {"kalshi": 345.0, "polyus": 355.0}; lv5.save = lambda: None
+LIVE.issue = lambda *a, **k: None
+r5 = B.live_fire(lv5, "a v b", {"live": True}, B.Consumed(), 0.1, ("polyus", "S", "0"), ("kalshi", "KA", "yes"), 3, [(0.78, 3)], [(0.2, 3)], 0.1)
+check("live: fully sold back after Kalshi missed => loss booked in realized and today's losses, nothing open",
+      r5["naked"] == 0 and not lv5.L["open"] and lv5.L["realized"] == -0.12 and sum(lv5.L["loss_by_day"].values()) == 0.12)
 # --- Polymarket US response parsing: finished vs still open
 class PP(LIVE.PolyUS):
     def __init__(self, resp): self.resp = resp

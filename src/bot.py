@@ -600,6 +600,8 @@ def live_fire(LV, key, m, consumed, exp, ia, ib, sh, fa, fb, read_secs):
         LV.L["open"].append({"id": cid, "key": key, "opened": ts, "kalshi_ticker": k_i[1], "kalshi_side": k_i[2],
                              "shares": held, "cost": cost, "expected": round(exp, 2)})
         LV.L["trades"] += 1
+    elif cost:   # fully sold back: nothing will settle, so book the loss now (counts toward the -$20 lifetime stop)
+        LV.L["realized"] = round(LV.L.get("realized", 0.0) - cost, 2)
     LV.save()
     for venue, amt in (("polyus", p_cost - proceeds), ("kalshi", k_cost)):   # until the next real balance read
         LV.bal[venue] = (LV.bal[venue] or 0.0) - amt

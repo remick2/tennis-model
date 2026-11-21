@@ -200,7 +200,13 @@ class Live:
         LIVE_DIR.mkdir(parents=True, exist_ok=True)
         self.ledger_path = LIVE_DIR / "ledger.json"
         self.L = (json.loads(self.ledger_path.read_text()) if self.ledger_path.exists() else
-                  {"open": [], "realized": 0.0, "loss_by_day": {}, "trades": 0, "first_trade_alerted": False})
+                  {"open": [], "realized": 0.0, "loss_by_day": {}, "trades": 0, "first_trade_alerted": False,
+                   "unwinds_in_realized": True})
+        if not self.L.get("unwinds_in_realized"):
+            # One-time fix (Nov 21): fully sold-back trades never reached "realized", so the lifetime stop
+            # didn't see them. Until then every unwind loss came from a fully sold-back trade (one: -$0.13).
+            self.L["realized"] = round(self.L.get("realized", 0.0) - sum(self.L.get("loss_by_day", {}).values()), 2)
+            self.L["unwinds_in_realized"] = True
 
     @classmethod
     def from_env(cls):
