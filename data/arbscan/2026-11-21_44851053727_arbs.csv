@@ -1,0 +1,32 @@
+ts,key,live,leg_a,src_a,px_a,leg_b,src_b,px_b,total,size_a,size_b,size,locked,book_a,book_b,book_total,check_secs,fresh,first_seen
+2026-11-21T02:35:59+00:00,kent v mayo,True,Aidan Mayo,polyus,0.42,James Kent Trotter,kalshi,0.54,0.9943,0.0,0.0,0.0,0.0,,0.59,,0.0,True,2026-11-21T02:35:59+00:00
+2026-11-21T02:36:09+00:00,kent v mayo,True,Aidan Mayo,polyus,0.42,James Kent Trotter,kalshi,0.54,0.9943,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-21T02:35:59+00:00
+2026-11-21T02:36:19+00:00,kent v mayo,True,Aidan Mayo,polyus,0.4,James Kent Trotter,kalshi,0.54,0.9741,0.0,0.0,0.0,0.0,,0.61,,0.0,True,2026-11-21T02:35:59+00:00
+2026-11-21T02:36:19+00:00,jasika v sekulic,True,Omar Jasika,kalshi,0.77,Philip Sekulic,polyus,0.19,0.9831,0.0,0.0,0.0,0.0,0.82,,,0.0,True,2026-11-21T02:36:19+00:00
+2026-11-21T02:37:19+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.43,James Kent Trotter,polyus,0.51,0.9745,0.0,0.0,0.0,0.0,0.5,,,0.0,True,2026-11-21T02:37:19+00:00
+2026-11-21T02:38:09+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.53,James Kent Trotter,polyus,0.4,0.9641,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-21T02:38:09+00:00
+2026-11-21T02:38:19+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.53,James Kent Trotter,polyus,0.4,0.9641,0.0,0.0,0.0,0.0,0.62,,,0.0,True,2026-11-21T02:38:09+00:00
+2026-11-21T02:38:59+00:00,broady v friend,True,Jay Dylan Friend,polyus,0.13,Liam Broady,kalshi,0.85,0.9968,0.0,0.0,0.0,0.0,,0.88,,0.0,True,2026-11-21T02:38:59+00:00
+2026-11-21T02:39:29+00:00,jasika v sekulic,True,Omar Jasika,kalshi,0.87,Philip Sekulic,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-21T02:39:29+00:00
+2026-11-21T02:39:39+00:00,jasika v sekulic,True,Omar Jasika,kalshi,0.87,Philip Sekulic,polyus,0.11,0.9947,0.0,0.0,0.0,0.0,0.9,,,0.0,True,2026-11-21T02:39:29+00:00
+2026-11-21T02:40:09+00:00,kent v mayo,True,Aidan Mayo,polyus,0.57,James Kent Trotter,kalshi,0.39,0.9937,0.0,0.0,0.0,0.0,,0.44,,0.0,True,2026-11-21T02:40:09+00:00
+2026-11-21T02:40:29+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.56,James Kent Trotter,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-21T02:40:29+00:00
+2026-11-21T02:40:39+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.56,James Kent Trotter,polyus,0.4,0.9939,0.0,0.0,0.0,0.0,0.61,,,0.0,True,2026-11-21T02:40:29+00:00
+2026-11-21T02:41:09+00:00,broady v friend,True,Jay Dylan Friend,polyus,0.15,Liam Broady,kalshi,0.82,0.9892,0.0,0.0,0.0,0.0,,0.86,,0.0,True,2026-11-21T02:41:09+00:00
+2026-11-21T02:41:09+00:00,jasika v sekulic,True,Omar Jasika,kalshi,0.91,Philip Sekulic,polyus,0.07,0.9903,0.0,0.0,0.0,0.0,0.94,,,0.0,True,2026-11-21T02:41:09+00:00
+2026-11-21T02:41:39+00:00,broady v friend,True,Jay Dylan Friend,polyus,0.12,Liam Broady,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-21T02:41:39+00:00
+2026-11-21T02:41:49+00:00,kent v mayo,True,Aidan Mayo,polyus,0.48,James Kent Trotter,kalshi,0.45,0.9647,0.0,0.0,0.0,0.0,,0.53,,0.0,True,2026-11-21T02:41:49+00:00
+2026-11-21T02:41:49+00:00,broady v friend,True,Jay Dylan Friend,polyus,0.12,Liam Broady,kalshi,0.86,0.9958,0.0,0.0,0.0,0.0,,0.89,,0.0,True,2026-11-21T02:41:39+00:00
+2026-11-21T02:41:59+00:00,kent v mayo,True,Aidan Mayo,polyus,0.48,James Kent Trotter,kalshi,0.47,0.9848,0.0,0.0,0.0,0.0,,0.53,,0.0,True,2026-11-21T02:41:49+00:00
+2026-11-21T02:42:09+00:00,kent v mayo,True,Aidan Mayo,polyus,0.48,James Kent Trotter,kalshi,0.47,0.9848,0.0,0.0,0.0,0.0,,0.53,,0.0,True,2026-11-21T02:41:49+00:00
+2026-11-21T02:42:49+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.52,James Kent Trotter,polyus,0.41,0.9643,0.0,0.0,0.0,0.0,0.6,,,0.0,True,2026-11-21T02:42:49+00:00
+2026-11-21T02:45:59+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.67,James Kent Trotter,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,,,0.0,True,2026-11-21T02:45:59+00:00
+2026-11-21T02:46:09+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.67,James Kent Trotter,polyus,0.29,0.9898,0.0,0.0,0.0,0.0,0.72,,,0.0,True,2026-11-21T02:45:59+00:00
+2026-11-21T02:47:29+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.7,James Kent Trotter,polyus,0.26,0.9881,0.0,0.0,0.0,0.0,0.75,,,0.0,True,2026-11-21T02:47:29+00:00
+2026-11-21T02:47:39+00:00,kent v mayo,True,Aidan Mayo,kalshi,0.7,James Kent Trotter,polyus,0.26,0.9881,0.0,0.0,0.0,0.0,0.75,,,0.0,True,2026-11-21T02:47:29+00:00
+2026-11-21T02:47:59+00:00,kent v mayo,True,Aidan Mayo,polyus,0.69,James Kent Trotter,kalshi,0.26,0.9783,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-21T02:47:59+00:00
+2026-11-21T02:48:09+00:00,kent v mayo,True,Aidan Mayo,polyus,0.69,James Kent Trotter,kalshi,0.26,0.9783,0.0,0.0,0.0,0.0,,0.32,,0.0,True,2026-11-21T02:47:59+00:00
+2026-11-21T02:48:19+00:00,kent v mayo,True,Aidan Mayo,polyus,0.69,James Kent Trotter,kalshi,0.26,0.9783,0.0,0.0,0.0,0.0,,0.33,,0.0,True,2026-11-21T02:47:59+00:00
+2026-11-21T02:50:29+00:00,broady v friend,True,Jay Dylan Friend,polyus,0.11,Liam Broady,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-21T02:50:29+00:00
+2026-11-21T02:50:39+00:00,broady v friend,True,Jay Dylan Friend,polyus,0.11,Liam Broady,kalshi,0.87,0.9947,0.0,0.0,0.0,0.0,,0.9,,0.0,True,2026-11-21T02:50:29+00:00
+2026-11-21T02:50:59+00:00,broady v friend,True,Jay Dylan Friend,polyus,0.08,Liam Broady,kalshi,0.89,0.982,0.0,0.0,0.0,0.0,,0.94,,0.0,True,2026-11-21T02:50:59+00:00
