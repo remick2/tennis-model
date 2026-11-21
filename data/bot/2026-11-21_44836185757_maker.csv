@@ -135,3 +135,31 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T03:52:14+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.41,121,True,0.0129,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.64,-7.99,-12.34,-7.99,True
 2026-11-21T03:52:16+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.33,151,True,0.014,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.67,-2.32,-3.81,-2.32,True
 2026-11-21T03:52:34+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:yes,0.58,86,False,0.0135,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:0,0.39,1.16,-3.2,1.16,True
+2026-11-21T03:52:38+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-GOR:yes,0.41,121,True,0.0129,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:1,0.63,-6.8,-6.81,-6.8,True
+2026-11-21T03:52:56+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.3,166,True,0.0146,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.77,-13.66,-13.68,-13.66,True
+2026-11-21T03:53:09+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.39,128,False,0.0131,2.5,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.62,-3.38,-3.39,-3.38,True
+2026-11-21T03:53:14+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-TUL:yes,0.61,81,False,0.014,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:0,0.4,-2.16,-2.17,-2.16,True
+2026-11-21T03:53:28+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:yes,0.58,86,False,0.0135,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:0,0.44,-3.19,-3.2,-3.19,True
+2026-11-21T03:53:44+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.21,238,False,0.0077,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.8,-5.03,-5.05,-5.03,True
+2026-11-21T03:53:44+00:00,kent v mayo,True,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.22,227,False,0.0072,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:no,0.8,-7.08,-7.06,-7.06,True
+2026-11-21T03:53:44+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-TUL:yes,0.57,87,True,0.0133,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:0,0.45,-3.24,-3.25,-3.24,True
+2026-11-21T03:54:20+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:yes,0.58,86,False,0.0135,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:0,0.44,-3.19,-3.2,-3.19,True
+2026-11-21T03:54:20+00:00,hassan v watanuki,True,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.58,86,False,0.0133,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:no,0.44,-3.2,-3.19,-3.19,True
+2026-11-21T03:54:52+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.4,125,False,0.013,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.62,-4.55,-4.56,-4.55,True
+2026-11-21T03:55:24+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.35,142,False,0.0136,1.9,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.69,-7.79,-7.81,-7.79,True
+2026-11-21T03:58:00+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:yes,0.75,66,True,0.0077,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:0,0.26,-1.54,-1.55,-1.54,True
+2026-11-21T03:58:40+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.25,200,True,0.0063,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.76,-4.54,-6.48,-4.54,True
+2026-11-21T03:59:24+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.21,238,False,0.0077,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.8,-5.03,-5.05,-5.03,True
+2026-11-21T03:59:24+00:00,hassan v watanuki,True,polyus:aec-atp-benhas-yoswat-2026-11-20:0,0.21,238,False,0.0076,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:yes,0.8,-5.05,-5.03,-5.03,True
+2026-11-21T04:01:28+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-TUL:yes,0.45,111,True,0.0127,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:0,0.52,1.4,-5.22,1.4,True
+2026-11-21T04:02:12+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-GOR:yes,0.55,90,False,0.0131,1.5,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:1,0.46,-2.45,-3.37,-2.45,True
+2026-11-21T04:02:49+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.76,65,False,0.0081,2.3,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.22,0.52,-1.5,0.52,True
+2026-11-21T04:03:02+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.14,357,True,0.0107,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.88,-9.76,-9.78,-9.76,True
+2026-11-21T04:03:02+00:00,hassan v watanuki,True,polyus:aec-atp-benhas-yoswat-2026-11-20:0,0.14,357,False,0.0106,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:yes,0.88,-9.78,-9.76,-9.76,True
+2026-11-21T04:03:50+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:yes,0.83,60,False,0.0111,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:0,0.15,0.67,-1.22,0.67,True
+2026-11-21T04:04:14+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.15,333,False,0.0102,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.87,-9.28,-9.3,-9.28,True
+2026-11-21T04:04:38+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-WAT:yes,0.84,59,False,0.0116,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:0,0.14,0.69,-1.79,0.69,True
+2026-11-21T04:05:26+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-GOR:yes,0.7,71,True,0.006,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:1,0.31,-1.77,-2.5,-1.77,True
+2026-11-21T04:06:40+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-TUL:yes,0.28,178,False,0.0054,2.1,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:0,0.7,0.96,-9.39,0.96,True
+2026-11-21T04:07:06+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.25,200,False,0.0063,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.73,1.26,-6.48,1.26,True
+2026-11-21T04:07:14+00:00,gorzny v li tu,True,kalshi:KXATPCHALLENGERMATCH-26NOV20GORTUL-TUL:yes,0.22,227,True,0.0073,2.0,hedged,polyus:aec-atp-sebgor-litu-2026-11-20:0,0.79,-4.89,-4.91,-4.89,True
