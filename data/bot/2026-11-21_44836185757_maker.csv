@@ -112,3 +112,4 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T03:01:03+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.49,102,False,0.0127,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.48,1.29,-2.8,1.29,True
 2026-11-21T03:02:03+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-MAY:yes,0.5,100,True,0.0227,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:0,0.46,2.27,-9.71,2.27,True
 2026-11-21T03:09:31+00:00,kent v mayo,True,kalshi:KXATPCHALLENGERMATCH-26NOV20TROMAY-TRO:yes,0.44,113,False,0.0127,2.0,hedged,polyus:aec-atp-jamtro-aidmay-2026-11-20:1,0.53,1.43,-3.07,1.43,True
+2026-11-21T03:35:45+00:00,hassan v watanuki,True,kalshi:KXATPCHALLENGERMATCH-26NOV20HASWAT-HAS:yes,0.18,277,True,0.0089,2.0,hedged,polyus:aec-atp-benhas-yoswat-2026-11-20:1,0.8,2.46,-5.51,2.46,True
