@@ -82,3 +82,13 @@ ts,key,live,maker,price,shares,at_touch,edge_when_posted,rested_secs,action,hedg
 2026-11-21T15:53:35+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-GUE:yes,0.55,90,False,0.0131,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:0,0.45,-1.55,-2.46,-1.55,True
 2026-11-21T16:00:10+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-GUE:yes,0.53,94,False,0.0129,2.2,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:0,0.44,1.21,-2.58,1.21,True
 2026-11-21T16:11:37+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-GUE:yes,0.48,104,False,0.0126,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:0,0.52,-1.8,-2.85,-1.8,True
+2026-11-21T16:14:51+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-GUE:yes,0.55,90,False,0.0131,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:0,0.45,-1.55,-2.46,-1.55,True
+2026-11-21T16:16:37+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-GUE:yes,0.51,98,False,0.0127,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:0,0.5,-2.68,-2.7,-2.68,True
+2026-11-21T16:20:45+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-KWON:yes,0.35,142,False,0.0136,1.8,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:1,0.62,1.93,-4.49,1.93,True
+2026-11-21T16:21:40+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-GUE:yes,0.75,66,True,0.0077,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:0,0.29,-3.58,-3.59,-3.58,True
+2026-11-21T16:22:04+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-GUE:yes,0.69,72,False,0.0057,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:0,0.36,-4.75,-5.49,-4.75,True
+2026-11-21T16:22:04+00:00,gueymard v kwon,True,polyus:aec-atp-sookwo-sasgue-2026-11-21:1,0.7,71,False,0.0059,2.0,unwound,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-KWON:yes,0.37,-6.13,-5.4,-5.4,True
+2026-11-21T16:24:08+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-GUE:yes,0.52,96,False,0.0128,1.9,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:0,0.45,1.23,-3.6,1.23,True
+2026-11-21T16:24:28+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-KWON:yes,0.46,108,False,0.0126,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:1,0.56,-4.01,-4.02,-4.01,True
+2026-11-21T16:26:54+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-KWON:yes,0.35,142,True,0.0136,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:1,0.66,-3.63,-4.95,-3.63,True
+2026-11-21T16:28:50+00:00,gueymard v kwon,True,kalshi:KXATPCHALLENGERMATCH-26NOV21KWONGUE-KWON:yes,0.39,128,False,0.0131,2.0,hedged,polyus:aec-atp-sookwo-sasgue-2026-11-21:1,0.63,-4.63,-4.65,-4.63,True
